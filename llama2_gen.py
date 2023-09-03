@@ -1,6 +1,6 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig
 import transformers
 import torch
 import deepspeed
@@ -19,21 +19,24 @@ def dump2jsonl(lines, output_path):
         for line in lines:
             f.write(json.dumps(line) + '\n') 
 
-def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512):
+
+def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val'):
     parser = argparse.ArgumentParser()
     parser.add_argument('--local_rank', type=int, default=-1,
                         help='local rank passed from distributed launcher')
     # Include DeepSpeed configuration arguments
     parser = deepspeed.add_config_arguments(parser)
     args = parser.parse_args()
-
+    # from config import gpu_device_map
     model = AutoModelForCausalLM.from_pretrained(MODEL,
                                                 torch_dtype=torch.float16,
+                                                # device_map="auto",
                                                 trust_remote_code=True)
-                                                # device_map=args.local_rank)
     tokenizer = AutoTokenizer.from_pretrained(MODEL)
+    # ds_engine = model
     ds_engine = deepspeed.init_inference(model,
-                                        tensor_parallel={"tp_size": 2},
+                                        # tensor_parallel={"tp_size": 2},
+                                        mp_size=2,
                                         dtype=torch.float16,
                                         max_out_tokens=4096,
                                         replace_with_kernel_inject=False)
@@ -41,6 +44,7 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
         "text-generation",
         model=ds_engine,
         tokenizer=tokenizer,
+        # device=0, 
         device=args.local_rank,
     )
 
@@ -52,13 +56,18 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
 
     def apply_template(batch):
         docs = batch["document"]
+        tokens = tokenizer(docs)["input_ids"]
+        bs = len(docs)
+        for i in range (bs):
+            if len(tokens[i]) > 3000:
+                print(f"{len(tokens[i])} > 3000")
+                docs[i] = " ".join([batch["doc_sents"][i][idx] for idx in batch["rel_index"][i]])
         sums = batch["claim"]
         texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
         return {"input": texts}
 
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     data_folder = "data/raw/"
-    cut = 'val'
     from datasets import Dataset
     from transformers.pipelines.pt_utils import KeyDataset
 
@@ -74,7 +83,7 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
                                         num_return_sequences=1,
                                         pad_token_id=tokenizer.eos_token_id))]
         # for line, reasoning in zip(data, generated): line["reasoning"] = reasoning
-        dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'_neg.jsonl'))
+        dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
 def postprocess():
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
@@ -103,5 +112,9 @@ def postprocess():
 
 if __name__ == '__main__':
     # Zeroshot
-    main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=10)
+    # main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=10, cut='test')
+    
+    # Zeroshot - Chain-of-Thought
+    main(COT_TEMPLATE, "data/zs_cot", False, max_new_tokens=512, cut='test')
+    
     # postprocess()
