@@ -1,0 +1,23 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a man has been charged with the attempted murder of a 14-year-old boy in cumbria. 
+
+    Article: 
+    Vincent Hudson has been charged with the historical offence on a boy under the age of 16, Cumbria Police said.
+A spokesman for the force said the attack was reported to have taken place in 2001.
+Mr Hudson, 54, of Loweswater Avenue, Whitehaven, is due to appear before North Cumbria Magistrates' Court later, the spokesman added. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The summary states that the man has been charged with the attempted murder of a 14-year-old boy in Cumbria.
+2. The article states that the man, Vincent Hudson, has been charged with an historical offence on a boy under the age of 16.
+3. The article does not mention attempted murder. Instead, it states that the offence was reported to have taken place in 2001.
+4. Therefore, the summary is not consistent with the article because it mentions attempted murder, which is not mentioned in the article.
+
+So, the reason why the summary is not consistent with the article is that the article does not mention attempted murder, but instead mentions an historical offence on a boy under the age of 16.
+
+###Corrected:

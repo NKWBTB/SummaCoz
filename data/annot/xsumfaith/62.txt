@@ -1,0 +1,24 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    one person has died following a two-vehicle crash on the a9 in the highlands. 
+
+    Article: 
+    The incident occurred on the A9 north of Berriedale in Caithness at about 14:00.
+Several other people received minor injuries in the crash.
+The road was closed and diversions were put in place via the A897 Helmsdale to Melvich road. Police Scotland said inquiries into the incident were ongoing. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The summary states that one person died following a two-vehicle crash on the A9 in the Highlands.
+2. The article states that several other people received minor injuries in the crash.
+3. The summary does not mention any minor injuries, only that one person died.
+4. The article states that the road was closed and diversions were put in place via the A897 Helmsdale to Melvich road.
+5. The summary does not mention the road being closed or any diversions being put in place.
+
+Therefore, the summary is not consistent with the article because it only mentions one aspect of the incident (the death of one person) and omits other important details such as the minor injuries and the road closure.
+
+###Corrected:

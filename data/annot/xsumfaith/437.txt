@@ -1,0 +1,23 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a new flight to the highlands and islands airports has been launched by the scottish government. 
+
+    Article: 
+    KLM has added a 06:00 weekday flight from the Highlands airport and an evening flight from Schiphol.
+Highlands and Islands Airports Limited (Hial) said the flights would allow people to spend a full day in the Netherlands before returning home.
+It is the latest addition from KLM since it started Inverness-Amsterdam flights last year. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The article states that KLM has added a 06:00 weekday flight from the Highlands airport and an evening flight from Schiphol. This information is not mentioned in the summary.
+2. The summary states that the Scottish government has launched a new flight to the highlands and islands airports, which is not accurate. The article states that KLM has added the flights, not the Scottish government.
+3. The summary does not mention the destination of the flights, which is Amsterdam. The article states that the flights are from Inverness to Amsterdam.
+4. The summary does not mention the purpose of the flights, which is to allow people to spend a full day in the Netherlands before returning home. This information is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it does not include the same information as the article. The summary only mentions a new flight to the highlands and islands airports, but does not provide any details about the destination, purpose, or airline operating the flights.
+
+###Corrected:

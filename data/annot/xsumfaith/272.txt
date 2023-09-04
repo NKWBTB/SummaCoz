@@ -1,0 +1,22 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a fisherman has been rescued from the sea off the coast of south wales, the rnli has confirmed. 
+
+    Article: 
+    The 56ft (17.1m) converted trawler was 6 miles (10 km) west of South Stack when the crew radioed coastguards at 07:00 BST.
+Holyhead coastguards said a pump on board the boat was unable to cope with the water coming in.
+The RNLI lifeboat crew placed a pump and towed the vessel to Holyhead. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The article states that the fisherman was rescued by the RNLI lifeboat crew, but the summary does not mention the RNLI at all. This is inconsistent, as the RNLI played a crucial role in the rescue.
+2. The article states that the pump on board the boat was unable to cope with the water coming in, but the summary does not mention this detail. This is inconsistent, as the reason for the rescue was due to the boat taking on water.
+3. The article provides the location of the rescue as 6 miles west of South Stack, but the summary does not include this information. This is inconsistent, as providing the location of the rescue would have been relevant to the summary.
+
+Overall, the summary is not consistent with the article because it does not include important details provided in the article, such as the RNLI's involvement and the location of the rescue.
+
+###Corrected:

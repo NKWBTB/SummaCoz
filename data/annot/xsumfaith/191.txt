@@ -1,0 +1,22 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a man who died after being stabbed at a house in rotherham has been named by police. 
+
+    Article: 
+    Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
+Mr Fatchett died on Saturday night despite being treated at the scene by paramedics, officers said.
+A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The summary states that the man who died was named by police, but the article does not mention the name of the deceased.
+2. The summary states that the man died after being stabbed at a house in Rotherham, but the article only mentions that he was injured at a house in Highfield Avenue, Athersley South.
+3. The summary states that the 17-year-old boy arrested on suspicion of murder has been bailed, but the article does not mention this detail.
+
+Therefore, the summary is not consistent with the article because it contains information that is not supported by the article. Specifically, the name of the deceased, the location of the incident, and the status of the suspect are not mentioned in the article.
+
+###Corrected:

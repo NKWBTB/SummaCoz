@@ -1,0 +1,24 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a man who died after he suffered a serious head injury at a party in barnsley has been named. 
+
+    Article: 
+    Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
+Mr Fatchett died on Saturday night despite being treated at the scene by paramedics, officers said.
+A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The summary states that the man who died suffered a serious head injury at a party in Barnsley.
+2. The article states that Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South.
+3. The summary does not mention the location of the party or the house where Mr. Fatchett was injured.
+4. The article states that Mr. Fatchett died on Saturday night, but the summary does not mention the date of his death.
+5. The article mentions that a 17-year-old boy was arrested on suspicion of murder, but the summary does not mention this detail.
+
+Based on these differences, it is clear that the summary is not consistent with the article. The summary does not provide all the information that is present in the article, and some of the information it does provide is not accurate (e.g., the location of the party and the date of Mr. Fatchett's death). Therefore, the summary is not a reliable representation of the article's content.
+
+###Corrected:

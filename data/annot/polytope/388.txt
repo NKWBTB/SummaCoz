@@ -1,0 +1,30 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    an afghan lawmaker taking part in the protests in the city of khost was among the 64 people wounded , said faizullah ghairat , the provincial police chief .
+kabul , afghanistan ( cnn ) a suicide bomber detonated his explosives near a group of protesters in eastern afghanistan on thursday , killing 17 people and wounding dozens more , police said .
+taliban spokesman zabiullah mujahid denied his group was responsible for the attack . 
+
+    Article: 
+    kabul , afghanistan ( cnn ) a suicide bomber detonated his explosives near a group of protesters in eastern afghanistan on thursday , killing 17 people and wounding dozens more , police said .
+an afghan lawmaker taking part in the protests in the city of khost was among the 64 people wounded , said faizullah ghairat , the provincial police chief .
+taliban spokesman zabiullah mujahid denied his group was responsible for the attack .
+no other organization has so far claimed responsibility .
+humayoon humayoon , an afghan member of parliament for khost province , and the other protesters were on their way to join a larger rally against the provincial governor , according to zahir jan , an eyewitness .
+the suicide attack hit the group around 10 a.m. local time , police said .
+cnn 's masoud popalzai reported from kabul , and jethro mullen wrote from hong kong .
+cnn 's elizabeth joseph contributed to this report . 
+
+    Explain your reasoning step by step:[/INST]
+     Sure, here's my reasoning step by step:
+
+1. The summary states that an Afghan lawmaker was among the 64 people wounded in the attack, but the article does not mention any lawmaker being wounded.
+2. The article states that the protesters were on their way to join a larger rally against the provincial governor, but the summary does not mention any protest or rally.
+3. The article states that the suicide attack hit the group around 10 a.m. local time, but the summary does not mention the time of the attack.
+4. The article mentions that the Taliban spokesman denied his group was responsible for the attack, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
+
+###Corrected:
