@@ -1,3 +1,11 @@
+CONSISTENT_STRING = \
+"""1. The summary statements are all supported by the article.
+
+Therefore, the answer is yes, the summary is consistent with the article.
+"""
+
+INCONSISTENT_STRING = "Therefore, the answer is no, the summary is not consistent with the article."
+
 SELFINST_TEMPLATE = \
 """<s>[INST] Note that consistency means all information in the summary is supported by the article. 
 It's known that the following summary is not consistent with the article. 
@@ -11,6 +19,11 @@ Article:
 
 Explain your reasoning step by step:[/INST]
 """
+
+def inst_parse(input:str):
+    generation_part = input.partition("[/INST]")[2].partition("###Corrected:")[0]
+    reasoning_part = generation_part.strip().partition(":")[2].strip()
+    return reasoning_part
 
 ZEROSHOT_TEMPLATE = \
 """<s>[INST] Decide if the following summary is consistent with the corresponding article. 
