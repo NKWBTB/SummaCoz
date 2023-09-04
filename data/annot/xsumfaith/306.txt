@@ -1,0 +1,22 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a man has been taken to hospital after being hit by a car in aberdeenshire. 
+
+    Article: 
+    The incident occurred on the A9 north of Berriedale in Caithness at about 14:00.
+Several other people received minor injuries in the crash.
+The road was closed and diversions were put in place via the A897 Helmsdale to Melvich road. Police Scotland said inquiries into the incident were ongoing. 
+
+    Explain your reasoning step by step:[/INST]
+    1. The summary states that the incident occurred in Aberdeenshire, but the article states that the incident occurred in Caithness, which is a different location.
+    2. The summary mentions that the man was hit by a car, but the article does not mention any specific vehicle involved in the incident.
+    3. The summary mentions that the man was taken to hospital, but the article does not mention any injuries or medical treatment received by the individuals involved.
+    4. The article mentions that several other people received minor injuries in the crash, but the summary does not mention this.
+    5. The article mentions that the road was closed and diversions were put in place, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it contains information that is not supported by the article, such as the location and the details of the man's injuries.
+
+###Corrected:

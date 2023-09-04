@@ -1,0 +1,20 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    mae prif weinidog carwyn jones wedi cyhoeddi cymru wedi cyhoeddi bod " wrthod 
+
+    Article: 
+    Roedd Mr Jones yn ymgyrchu i Brydain adael yr UE cyn y refferendwm y llynedd.
+Wrth gael ei holi gan y BBC ddydd Gwener dywedodd cyn ysgrifennydd Cymru, Mr Jones mai Mrs May yw'r "arweinydd gorau sydd gan y Torïaid ar hyn o bryd".
+Y Farwnes Anelay sydd wedi cymryd ei le fel Gweinidog Gwladol dros adael y UE wrth i'r Prif Weinidog Theresa May roi trefn ar ei chabinet newydd. 
+
+    Explain your reasoning step by step:[/INST]
+    1. The summary states that Carwyn Jones, the Welsh First Minister, has announced that Wales has announced that "it will not support the UK's exit from the EU."
+    2. However, the article states that Mr. Jones said that Mrs. May is the "best leader the Tory party has had for a long time."
+    3. This implies that Mr. Jones does not support the UK's exit from the EU, which contradicts the summary.
+    4. The article also mentions that the Welsh Government has been critical of the UK government's handling of Brexit, and that Mr. Jones has called for a "soft Brexit."
+    5. Therefore, the summary is not consistent with the article because it does not accurately reflect Mr. Jones' position on the UK's exit from the EU.
+
+###Corrected:

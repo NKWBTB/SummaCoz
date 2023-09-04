@@ -1,0 +1,22 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a nine-year-old boy has been taken to hospital after being hit by a car in north lanarkshire. 
+
+    Article: 
+    Police said the boy was badly injured in the incident, after being struck in Coatbridge.
+Emergency crews were called the scene on the town's Bank Street near Langloan Primary School at about 16:40.
+The boy was taken to Queen Elizabeth University Hospital, in Glasgow, where his condition is believed to be serious. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The summary states that the boy was taken to hospital after being hit by a car in north Lanarkshire.
+2. The article states that the incident occurred on Bank Street in Coatbridge, which is in Lanarkshire.
+3. However, the article does not mention that the boy was taken to hospital. Instead, it states that the boy was taken to Queen Elizabeth University Hospital in Glasgow.
+4. This indicates that the summary is not consistent with the article because it mentions the boy being taken to hospital in north Lanarkshire, while the article states that he was taken to a hospital in Glasgow.
+5. Therefore, the summary is not accurate because it contains information that is not supported by the article.
+
+###Corrected:

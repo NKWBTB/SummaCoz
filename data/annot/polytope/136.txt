@@ -1,0 +1,34 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    an explosion at a controversial chemical plant in china 's fujian province sparked a huge fire
+the plant produces paraxylene ( px ) , a carcinogenic chemical used in the production of polyester films and fabrics
+five out of six people were injured by broken glass and have been sent to the hospital for treatment 
+
+    Article: 
+    hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
+the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
+the blast occurred at an oil storage facility monday night after an oil leak , though local media has not reported any toxic chemical spill .
+five out of six people were injured by broken glass and have been sent to the hospital for treatment , xinhua news agency reported .
+more than 600 firefighters were sent to battle the blaze and the fire is now under control , the zhangzhou fire department wrote on their official microblogging account tuesday morning .
+residents living close to the plant had heard the explosion and took to weibo to post photos of the fire .
+one user wrote that he heard a loud blast and felt slight tremors .
+the plant was hit by another explosion in july 2013 , although there were no reports of casualties or toxic leaks at the time .
+though demonstrations are illegal in china , the construction of px plants has sparked protests , which have occasionally turned violent , in several cities in recent years .
+the zhangzhou plant was slated for xiamen -- a densely populated city in the southeast of the country .
+however , it provoked an angry backlash in 2007 due to pollution concerns and prompted the local government to relocate the factory to its current , more remote location . 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The article states that the plant produces paraxylene (PX), a reportedly carcinogenic chemical used in the production of polyester films and fabrics. However, the summary states that the plant produces a carcinogenic chemical called paraxylene (PX), without the word "reportedly." This inconsistency suggests that the summary is not accurate and does not accurately reflect the information in the article.
+2. The article states that five out of six people were injured by broken glass and have been sent to the hospital for treatment. However, the summary does not mention the cause of the injuries or the fact that the injuries were caused by broken glass. This inconsistency suggests that the summary is not consistent with the article and does not provide a complete picture of the events.
+3. The article states that more than 600 firefighters were sent to battle the blaze and that the fire is now under control. However, the summary does not mention the firefighters or the fact that the fire is under control. This inconsistency suggests that the summary is not consistent with the article and does not provide a complete picture of the events.
+4. The article states that the plant was hit by another explosion in July 2013, but there were no reports of casualties or toxic leaks at the time. However, the summary does not mention this previous explosion or the fact that there were no casualties or toxic leaks. This inconsistency suggests that the summary is not consistent with the article and does not provide a complete picture of the events.
+5. The article states that the construction of PX plants has sparked protests, which have occasionally turned violent, in several cities in recent years. However, the summary does not mention these protests or the fact that they have turned violent. This inconsistency suggests that the summary is not consistent with the article and does not provide a complete picture of the events.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the information in the article, particularly with regards to the cause of the injuries, the firefighters, the previous explosion, and the protests.
+
+###Corrected:

@@ -1,0 +1,25 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a man has been airlifted to hospital after falling from cliffs in the mourne mountains in the firth of forth. 
+
+    Article: 
+    The casualty, who was with a group of paragliders, was airlifted off Slieve Gullion at about 15:00 GMT on Sunday.
+Mourne Mountain Rescue Team said the man had a "serious leg injury" and was taken to the Royal Victoria Hospital in Belfast.
+The team had been training in the Annalong Valley when the emergency call came at 13:43 GMT.
+Mourne Mountain Rescue Team, Belfast Coastguard, Irish coastguard, PSNI and the Northern Ireland Ambulance Service were all involved in the rescue.
+"A total of 22 members responded and the team stood down at 18:17 GMT," Mourne Mountain Rescue said. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The summary states that the man fell from cliffs in the Firth of Forth, but the article does not mention the Firth of Forth at all. The article only mentions the Mourne Mountains and the Annalong Valley. This is an inconsistency.
+2. The summary states that the man was airlifted to hospital, but the article does not mention anything about the man being taken to a hospital. Instead, the article states that the man had a "serious leg injury" and was airlifted off Slieve Gullion.
+3. The summary states that the rescue took place on Sunday, but the article does not mention the date.
+4. The summary mentions the Mourne Mountain Rescue Team, Belfast Coastguard, Irish coastguard, PSNI, and the Northern Ireland Ambulance Service being involved in the rescue, but the article only mentions the Mourne Mountain Rescue Team, Belfast Coastguard, and the Northern Ireland Ambulance Service.
+
+Overall, the summary is not consistent with the article because it contains details that are not present in the article, such as the location of the rescue (Firth of Forth instead of Mourne Mountains), the destination of the man (hospital instead of Slieve Gullion), and the involvement of additional organizations (such as the Irish coastguard).
+
+###Corrected:

@@ -1,0 +1,35 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    the world\'s elephants have been celebrating the world\'s elephants race, which has been at the centre of the world\'s olympic games. 
+
+    Article: 
+    18 March 2014 Last updated at 09:22 GMT
+Richard Blake-Smith and his partner Anna beat Vytautas Kirkliauskas of Lithuania, carrying his wife, Neringa Kirliauskiene.
+Rich said: "We put in a whole week's work, running around the athletics track near where we live - and it's paid off"
+"We were pushed hard, especially by the Lithuanians there."
+Competitors must tackle a 380-metre course, hurdling over haystacks, scrabbling up a steep slope, and dodging water pistols.
+You don't need to be married to take part.
+The race saw all combinations of competitors - men carrying women, men carrying men and one woman carrying a woman.
+Rich and Anna will now compete at the World Championships in Finland in July. 
+
+    Explain your reasoning step by step:[/INST]
+    1. The article states that the race was a 380-meter course with obstacles such as haystacks, steep slopes, and water pistols.
+
+    2. The summary claims that the race was part of the world's Olympic Games, which is not supported by the article.
+
+    3. The article mentions that the race was held near the competitors' home, but the summary does not mention this detail.
+
+    4. The article states that all combinations of competitors were allowed, including men carrying women, men carrying men, and one woman carrying a woman. The summary does not mention this detail.
+
+    5. The article mentions that the winners, Richard Blake-Smith and his partner Anna, will compete at the World Championships in Finland in July, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it:
+
+* Includes a detail that is not present in the article (the race being part of the Olympic Games)
+* Omits other important details present in the article (the location of the race, the obstacles, and the fact that all combinations of competitors were allowed)
+* Mentions a future event that is not mentioned in the article (the World Championships in Finland)
+
+###Corrected:

@@ -1,0 +1,23 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    two-time olympic champion adam donaldson won gold in the women\'s quadruple sculls at the european rowing championships. 
+
+    Article: 
+    The 23 year-old stroked the GB boat to a fast start and they were ahead after 500m but European champions, Romania and New Zealand proved too strong.
+The Romanians came out on top, with the British eight comfortably holding off the challenge from the Netherlands
+The GB eight now prepare for the World Championships in Sarasota in September.
+There was no medal success for Enniskillen's Holly Nixon in the women's quadruple sculls.
+Nixon and her GB team mates Bethany Bryan, Alice Baatz and Mathilda Hodgkins-Byrne, were always off the pace and finished fifth in a race won by Poland. 
+
+    Explain your reasoning step by step:[/INST]
+    1. The article states that Romania won the gold medal in the women's quadruple sculls, not Adam Donaldson.
+    2. The summary states that Adam Donaldson won the gold medal, which is not supported by the article.
+    3. The article also mentions that the GB eight finished comfortably ahead of the Netherlands, but the summary does not mention this.
+    4. The article states that Holly Nixon and her teammates finished fifth in the women's quadruple sculls, but the summary does not mention this either.
+
+Therefore, the summary is not consistent with the article because it contains information that is not supported by the text.
+
+###Corrected:

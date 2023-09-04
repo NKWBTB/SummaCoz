@@ -1,0 +1,25 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    a student has been taken to hospital after a " suspicious " explosion at a cardiff university campus. 
+
+    Article: 
+    The university said the move at Singleton Park was "precautionary".
+South Wales Police received a call at about 13:30 BST after concerns about the safe storage of chemicals before a controlled explosion took place.
+Nobody was injured and a police spokesman said a cordon erected was precautionary while the chemicals were removed.
+Student Alex Jones said there was "some panic" at the start of the incident and lectures were moved away from the area to other buildings.
+South Wales Police said the incident was not treated as suspicious and there was no risk to the public.
+The university said the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable". 
+
+    Explain your reasoning step by step:[/INST]
+    1. The article states that the incident was not treated as suspicious by the police, and there was no risk to the public.
+
+2. The article also states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable".
+
+3. However, the summary states that the explosion was "suspicious". This is inconsistent with the article, as the police did not treat the incident as suspicious.
+
+4. Therefore, the reason why the summary is not consistent with the article is that it incorrectly describes the nature of the explosion as "suspicious", when the article states that it was a controlled explosion carried out by the bomb disposal unit due to the instability of the chemicals.
+
+###Corrected:

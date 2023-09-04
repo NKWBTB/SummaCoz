@@ -1,0 +1,23 @@
+<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+    It's known that the following summary is not consistent with the article. 
+    Find out why.
+
+    Summary: 
+    police in the republic of ireland have arrested a man and seized cannabis plants with an estimated value of 750,000 euros (# 530,000) in county meath. 
+
+    Article: 
+    The plants were found during the search of a warehouse near Ashbourne on Saturday morning.
+Police said they were in "an elaborate grow house".
+A man in his late 40s was arrested at the scene. 
+
+    Explain your reasoning step by step:[/INST]
+     Sure! Here's my reasoning step by step:
+
+1. The summary states that the police arrested a man and seized cannabis plants with an estimated value of €750,000 in County Meath.
+2. The article states that the plants were found in a warehouse near Ashbourne on Saturday morning, and that the man was arrested at the scene.
+3. However, the article does not mention the estimated value of the cannabis plants.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the estimated value of the cannabis plants).
+
+So, the reason why the summary is not consistent with the article is that it includes extra information that is not supported by the article.
+
+###Corrected:
