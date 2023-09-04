@@ -1,14 +1,13 @@
 from sklearn.metrics import balanced_accuracy_score
 from llama2_gen import load_jsonl
-from template import zeroshot_parse
+from template import zeroshot_parse, cot_parse
 import os
 
-test_folder = "data/zeroshot"
 raw_folder = "data/raw"
 data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
 cut = "test"
 
-def main(parse_fun):
+def main(test_folder, parse_fun):
     for name in data_names:
         print(name, cut)
         input_path = os.path.join(raw_folder, "_".join([name, cut])+'.jsonl')
@@ -21,4 +20,8 @@ def main(parse_fun):
         print("BA:", balanced_accuracy_score(gt, y_pred))
 
 if __name__ == "__main__":
-    main(zeroshot_parse)
+    # Zero-shot
+    main("data/zeroshot", zeroshot_parse)
+
+    # COT-ZS
+    # main("data/zs_cot", cot_parse)
