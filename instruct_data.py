@@ -1,4 +1,4 @@
-from llama2_gen import load_jsonl, dump2jsonl
+from llama2_gen import load_jsonl, dump2jsonl, apply_template
 from template import CONSISTENT_STRING, INCONSISTENT_STRING, inst_parse, COT_TEMPLATE
 import os
 import torch
@@ -52,7 +52,8 @@ class InstructData:
     def preprocess_function(self, examples):
         istrain = "cot" in examples
         batch_size = len(examples["claim"])
-        inputs = [COT_TEMPLATE.format(summary=claim, article=document) for claim, document in zip(examples["claim"], examples["document"])]
+        input_text = apply_template(examples, COT_TEMPLATE, self.tokenizer)
+        inputs = input_text["input"]
         model_inputs = self.tokenizer(inputs, add_special_tokens=False)
         if istrain:
             targets = [str(x) for x in examples["cot"]]
