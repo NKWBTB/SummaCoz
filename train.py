@@ -14,7 +14,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--output_folder', default="output")
-parser.add_argument('--data_name', choices=["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"])
+parser.add_argument('--data_name', default="cogensumm", choices=["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"])
 parser.add_argument('--lora', default=True, action="store_true")
 
 tokenizer = AutoTokenizer.from_pretrained(CFG.MODEL_NAME)
@@ -25,7 +25,7 @@ def main():
     print(args)
 
     data = InstructData(tokenizer)
-    train_data = data.load_data("xsumfaith", "val")
+    train_data = data.load_data(args.data_name, "val")
 
     model = AutoModelForCausalLM.from_pretrained(CFG.MODEL_NAME,
                                                  device_map="auto",
@@ -44,8 +44,9 @@ def main():
             model = model._prepare_model_for_gradient_checkpointing(model)
         model.print_trainable_parameters()
 
-    training_args = Seq2SeqTrainingArguments(output_dir=args.output_folder, 
+    training_args = Seq2SeqTrainingArguments(output_dir=os.path.join(args.output_folder, args.data_name), 
                                     save_strategy="epoch",
+                                    logging_strategy="epoch",
                                     num_train_epochs=CFG.EPOCH,
                                     optim="paged_lion_8bit",
                                     learning_rate=CFG.LR,
