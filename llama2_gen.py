@@ -19,6 +19,17 @@ def dump2jsonl(lines, output_path):
         for line in lines:
             f.write(json.dumps(line) + '\n') 
 
+def apply_template(batch, template, tokenizer):
+    docs = batch["document"]
+    tokens = tokenizer(docs)["input_ids"]
+    bs = len(docs)
+    for i in range (bs):
+        if len(tokens[i]) > 3000:
+            print(f"{len(tokens[i])} > 3000")
+            docs[i] = " ".join([batch["doc_sents"][i][idx] for idx in batch["rel_index"][i]])
+    sums = batch["claim"]
+    texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
+    return {"input": texts}
 
 def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val'):
     parser = argparse.ArgumentParser()
@@ -54,18 +65,6 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
                     pad_token_id=tokenizer.eos_token_id,)
     dump2jsonl(results, "test_results.txt")
 
-    def apply_template(batch):
-        docs = batch["document"]
-        tokens = tokenizer(docs)["input_ids"]
-        bs = len(docs)
-        for i in range (bs):
-            if len(tokens[i]) > 3000:
-                print(f"{len(tokens[i])} > 3000")
-                docs[i] = " ".join([batch["doc_sents"][i][idx] for idx in batch["rel_index"][i]])
-        sums = batch["claim"]
-        texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
-        return {"input": texts}
-
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     data_folder = "data/raw/"
     from datasets import Dataset
@@ -77,7 +76,7 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
         data = load_jsonl(input_path)
         if filter: data = [line for line in data if line["label"] == 0]
         datas = Dataset.from_list(data)
-        datas.set_transform(apply_template)
+        datas.set_transform(lambda x: apply_template(x, template, tokenizer))
         generated = [out for out in tqdm(pipeline(KeyDataset(datas, "input"), 
                                         max_new_tokens=max_new_tokens,
                                         num_return_sequences=1,
