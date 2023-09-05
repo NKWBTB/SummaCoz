@@ -11,3 +11,10 @@ gpu_device_map = {
         'model.layers.32': 2, 'model.layers.33': 2, 'model.layers.34': 2, 'model.layers.35': 2, 
         'model.layers.36': 2, 'model.layers.37': 2, 'model.layers.38': 2, 'model.layers.39': 2, 
         'model.norm': 2, 'lm_head': 2}
+
+MODEL_NAME = "meta-llama/Llama-2-13b-chat-hf"
+EPOCH = 10
+LR = 1e-4
+BATCH_SIZE = 1
+GRADIENT_CHECKPOINTING=True
+GRAD_ACC_STEPS = 8
