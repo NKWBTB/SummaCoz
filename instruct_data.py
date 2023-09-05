@@ -24,8 +24,7 @@ class InstructData:
         datas = datas.map(self.preprocess_function, 
                           # remove_columns=self.remove_columns,
                           batched=True)
-        import pdb
-        pdb.set_trace()
+        return datas.with_transform(self.collate_fn)
 
     def collate_fn(self, model_inputs):
         max_length = max([len(sample) for sample in model_inputs["input_ids"]])
