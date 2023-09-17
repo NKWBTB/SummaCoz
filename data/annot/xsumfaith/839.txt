@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s andy murray reached the second round of the french open with a straight-set victory over croatia\'s marin fognini. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The Briton, 30, won 6-2 4-6 6-1 7-5 after two hours and 39 minutes, with match point clinched at 20:57 BST.
 Fognini, the 29th seed, had five set points to force a fifth set but Murray won five games in a row to seal a place in the last 16 for the 11th time.
 Murray will play Frenchman Benoit Paire in the fourth round on Monday.
@@ -26,16 +23,20 @@ A gripping fourth set unfolded, with passions rising on and off court as Fognini
 It was Fognini who took control after Murray double-faulted in game six, but from 5-2 down Murray showed all his fighting qualities to save set points in three consecutive games.
 The 15,000 spectators on Centre Court were on their feet as the Briton levelled at 5-5, and Fognini could not halt Murray's momentum as the champion served his way to victory.
 "I feel OK," added Murray. "I didn't feel I moved as well as the first couple of matches but I've got a couple of days break now and can work on that and hopefully get myself in a good rhythm and play some good tennis on Monday.
-"I'm happy to get through the first week and anything can happen from here on." 
+"I'm happy to get through the first week and anything can happen from here on."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+britain\'s andy murray reached the second round of the french open with a straight-set victory over croatia\'s marin fognini.
+</Summary>
 
-1. The summary states that Andy Murray reached the second round of the French Open with a straight-set victory, but the article states that he won in four sets.
-2. The summary does not mention that Fognini had five set points to force a fifth set, and that Murray won five games in a row to seal the match.
-3. The summary does not mention the drama that unfolded in the third and fourth sets, including Fognini's ankle injury, the penalties for visible obscenity, and the tense moments at 5-2 and 5-5 in the fourth set.
-4. The summary does not quote Andy Murray's comments about his performance or the match.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary does not provide an accurate representation of the article's content. It only highlights the outcome of the match and does not provide any details about the match's progression, the players' performances, or their comments.
+1. The summary states that Andy Murray reached the second round of the French Open with a straight-set victory, but the article states that the match was not a straight-set victory, as Murray won in four sets.
+2. The summary does not mention that the match was played over two hours and 39 minutes, or that Murray faced five set points in the third set.
+3. The summary does not mention that Fognini was penalized a point for a visible obscenity, or that Murray complained to the umpire that Fognini was taking too long between points.
+4. The summary does not mention that Murray will play Frenchman Benoit Paire in the fourth round on Monday.
+
+Therefore, the summary is not consistent with the article, as it does not include many of the key details and events that took place during the match.
 
 ###Corrected:

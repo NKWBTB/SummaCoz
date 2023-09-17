@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a soldier has been found guilty of the manslaughter of a soldier who was attacked in a bar in cardiff. 
-
-    Article: 
-    Pte Matthew Boyd, 20, was off-duty on a night out in Brecon when he was punched and beaten by Jake Vallely.
+<Article>
+Pte Matthew Boyd, 20, was off-duty on a night out in Brecon when he was punched and beaten by Jake Vallely.
 But the jury cleared Vallely's friend Aaeron Evans of manslaughter after Cardiff Crown Court was told he was not present during the attack.
 Vallely, 24, will be sentenced on 8 December.
 The unconscious body of Pte Boyd, who served with the Royal Gibraltar Regiment, was found by police in the town in the early hours of 8 May.
@@ -22,21 +19,19 @@ A family tribute described Pte Boyd as an "all-rounder" who had "a promising car
 The tribute read: "Matthew was full of life. He was loving, caring and loyal. He was always playing jokes on his peers and family, and always brought smiles to our faces."
 It said Vallely had created "a void in our family that will never be filled", adding the "unbearable pain" was something they will have to live with for the rest of their lives.
 "During this trial, it has been mentioned that Jake Vallely called himself the 'hardest man in Brecon' on the night that he murdered Matthew," the tribute said.
-"He couldn't have been more wrong. There has been such a massive outpouring of love from the community in Brecon towards our family; in our mind, those are the strongest people in Brecon." 
+"He couldn't have been more wrong. There has been such a massive outpouring of love from the community in Brecon towards our family; in our mind, those are the strongest people in Brecon."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a soldier has been found guilty of the manslaughter of a soldier who was attacked in a bar in cardiff.
+</Summary>
 
-1. The summary states that Vallely was found guilty of manslaughter, but the article states that Vallely was cleared of manslaughter.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that Evans was found guilty of manslaughter, but the article states that Evans was cleared of any involvement in the attack.
-
-3. The summary states that Vallely dragged Boyd's body from the scene, but the article states that Vallely fled the scene after the attack.
-
-4. The summary states that the attack occurred in Cardiff, but the article states that the attack occurred in Brecon.
-
-5. The summary states that Boyd was found unconscious, but the article states that Boyd was beaten until he no longer moved.
-
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. For example, Vallely was not found guilty of manslaughter, Evans was not involved in the attack, and the attack did not occur in Cardiff. Additionally, the summary contains language that is not present in the article, such as "found guilty" and "dragged his body from the scene."
+1. The summary states that a soldier has been found guilty of the manslaughter of another soldier who was attacked in a bar in Cardiff.
+2. However, the article states that Jake Vallely, the man who attacked Pte Matthew Boyd, was found guilty of manslaughter, not a soldier.
+3. The summary does not mention the name of the soldier who was found guilty, while the article clearly states that it is Jake Vallely.
+4. The summary does not provide any information about the attack or the circumstances leading up to it, while the article provides detailed information about the incident, including the CCTV footage and the victim's background.
+5. Therefore, the summary is not consistent with the article, as it does not provide accurate information about the case and does not mention the name of the person found guilty.
 
 ###Corrected:

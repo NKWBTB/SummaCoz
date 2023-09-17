@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in pakistan , free speech is dangerous .  mahmud died from five bullet wounds .  she is expected to be released on time for her daughter 's funeral .  
-
-    Article: 
-    islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
+<Article>
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
 and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship .
 introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed .
 but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
@@ -45,20 +42,22 @@ her tightly coiffed short hair and angular glasses framed her bright-eyed featur
 missing was a head scarf .
 on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " her white dress replaced by a traditional outfit of mustard , ocher and green .
 but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image .
-the artistic expression sticks out and triggers passions , like many things mahmud said and did . 
+the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+in pakistan , free speech is dangerous .  mahmud died from five bullet wounds .  she is expected to be released on time for her daughter 's funeral . 
+</Summary>
 
-1. The summary states that Mahmud died from five bullet wounds, while the article states that she died from multiple gunshot wounds.
-2. The summary mentions that Mahmud's mother was also shot, but the article does not mention this.
-3. The summary states that Mahmud was expected to be released on time for her daughter's funeral, but the article does not mention anything about her being released from the hospital or her daughter's funeral.
-4. The summary mentions that Mahmud was killed because she freely spoke her mind in a place where many people are afraid to, but the article does not explicitly state this as the motive for her killing.
-5. The summary mentions that Mahmud had received death threats in the past, but the article does not mention this.
-6. The summary states that Mahmud was a "brave heart" and a "brave, brave girl", but the article does not use these words to describe her.
-7. The summary mentions that Mahmud waited to greet visitors with a hug, a mug, and encouragement for Pakistan's future, but the article does not mention this.
-8. The summary mentions that the artistic expression of Mahmud's image in the article triggers passions, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important details that are present in the article.
+1. The summary states that Mahmud died from five bullet wounds, while the article does not mention the number of bullet wounds. The article only states that she was shot dead at point-blank range and that she died from her injuries.
+2. The summary mentions that Mahmud is expected to be released on time for her daughter's funeral, which is not mentioned in the article.
+3. The summary does not provide any information about the motive behind Mahmud's killing, while the article mentions that the killing was likely related to her outspoken views on human rights and her decision to host a discussion group on a sensitive topic.
+4. The summary does not mention the fact that Mahmud was a prominent figure in Pakistan's human rights movement and that she had received death threats in the past for her work.
+5. The summary does not mention the artistic expression and the graffiti outside the entrance of T2F, which are described in detail in the article.
+
+Overall, the summary does not provide a accurate representation of the article and is not consistent with the information provided.
 
 ###Corrected:

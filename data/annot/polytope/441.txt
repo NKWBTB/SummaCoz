@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    floyd mayweather and manny pacquiao will retire on may 2 .  
-the two men are in and out of the ring .  
-mayweather does not earn any money .  
-
-    Article: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+<Article>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
 here , sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2
 wbc super-featherweight , wbc lightweight , wbc light-welterweight , ibf welterweight , wbc welterweight , wbc light-middleweight , wba light-middleweight
 $ 440 million ( £ 295m )
@@ -35,20 +30,23 @@ pacquiao also owns a basketball team and played several games in their debut sea
 pacquiao has been married to jinkeee for 15 years and has five children : michael , israel , emmanuel , princess and queen elizabeth
 pacquiao has been trained by freddie roach since 2009 .
 pacquiao is promoted by bob arum 's top rank company .
-actor mark wahlberg is a big fan of pacquiao . 
+actor mark wahlberg is a big fan of pacquiao .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+floyd mayweather and manny pacquiao will retire on may 2 .  
+the two men are in and out of the ring .  
+mayweather does not earn any money . 
+</Summary>
 
-1. Retirement: The summary states that Floyd Mayweather and Manny Pacquiao will retire on May 2, but the article does not mention anything about retirement.
-2. Income: The summary states that Mayweather does not earn any money, but the article mentions that he has earned a significant amount of money from his fights and endorsements.
-3. Training: The summary mentions that Mayweather is trained by his uncle Roger and his father Floyd SNR, but the article does not mention anything about their involvement in his training.
-4. Personal life: The summary mentions that Mayweather is dating Doralie Medina and has a son, but the article does not mention anything about his personal life.
-5. Charity work: The summary does not mention anything about Pacquiao's charity work, but the article mentions that he helps various charities through the Official Manny Pacquiao Foundation.
-6. Political ambitions: The summary does not mention anything about Pacquiao's political ambitions, but the article mentions that he is a politician in the Philippines and has ambitions to become his country's president.
-7. Religious beliefs: The summary does not mention anything about Pacquiao's religious beliefs, but the article mentions that he is deeply religious and has released several albums and starred in a number of films.
-8. Basketball team: The summary does not mention anything about Pacquiao's ownership of a basketball team, but the article mentions that he owns a basketball team and played several games in their debut season this year.
+Explain your reasoning step by step:[/INST]
+  Sure, here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article as it contains several inaccuracies and omissions.
+1. The summary states that Floyd Mayweather and Manny Pacquiao will retire on May 2. However, the article states that they are about to fight on May 2, not retire.
+2. The summary states that Mayweather does not earn any money, but the article states that he earns a significant amount of money from his fight against Pacquiao, with a predicted purse of $440 million.
+3. The summary does not provide any information about Pacquiao's achievements or background, while the article provides a detailed description of his achievements, including his political career, charitable work, and business interests.
+4. The summary does not mention anything about the two men's training or promotion, while the article provides information about their trainers and promoters.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information about the two fighters.
 
 ###Corrected:

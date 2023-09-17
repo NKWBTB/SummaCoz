@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult 
-beauty comes in bigger packages , too : during her lecture , lillian explained that ` fat ' should n't mean the same thing as ugly 
-unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years . 
-
-    Article: 
-    a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
+<Article>
+a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
 during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
 and ` fat ' is just another self-descriptor for her , who insists that the word does n't have to be used as a synonym for ` ugly ' .
 ` we as women are programmed to tell each other that we 're not fat , because to many people - both men and women - fat is the worst thing that you can be , ' she said during her talk , which took place earlier this month .
@@ -32,24 +27,21 @@ since then , the clip has generated nearly 38,000 views - and plenty of positive
 ` i 've never been so happy in all my life , ' she wrote for xojane .
 ` i 've had this stupid grin on my face for a week straight . '
 besides a few ` trolls ' posting vicious negative comments , lillian received a slew of positive messages , including letters of thanks , personal stories , and an email from a teenage girl who watched the video with her younger sister and said it made them reevaluate the way they viewed their bodies .
-` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said . 
+` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistency in the summary and the article. Here are the steps to explain the inconsistency:
+<Summary>
+not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult 
+beauty comes in bigger packages , too : during her lecture , lillian explained that ` fat ' should n't mean the same thing as ugly 
+unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years .
+</Summary>
 
-Step 1: Identify the summary statement
-The summary statement is: "not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat'is just another word - and using it doesn't have to be an insult."
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the corresponding article statement
-The corresponding article statement is: "a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat'-- by embracing it as an honest, body-positive description of her own physique."
-
-Step 3: Identify the inconsistency
-The inconsistency is that the summary statement focuses only on the word "fat" and presents it as a negative term, while the article statement presents the word "fat" as a positive and empowering term.
-
-Step 4: Analyze the reason for the inconsistency
-The reason for the inconsistency is that the summary statement is not accurately representing the content of the article. The article is actually about Lillian Bustle's positive and empowering message about body diversity and self-acceptance, while the summary statement focuses only on the word "fat" and presents it as a negative term.
-
-Step 5: Conclude
-Therefore, the summary statement is not consistent with the article, and it does not accurately represent the content of the article. The article is actually about a positive and empowering message about body diversity and self-acceptance, while the summary statement presents the word "fat" as a negative term.
+1. The summary states that Lillian Bustle's TED talk emphasizes that "fat" is just another word and using it doesn't have to be an insult.
+2. However, the article reveals that Lillian's talk was not just about "fat" but also about body positivity, self-acceptance, and challenging societal beauty standards.
+3. The summary omits important details such as Lillian's personal experience as a burlesque performer, her self-esteem boost, and the positive response to her talk.
+4. The summary also fails to mention the statistic about size discrimination in the workplace and the negative perceptions of bigger people, which are significant aspects of Lillian's talk.
+5. Therefore, the summary is not consistent with the article as it only highlights one aspect of Lillian's talk (the "fat" word) while omitting other important details that provide context and depth to her message.
 
 ###Corrected:

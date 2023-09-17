@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nico button\'s retirement from mercedes team-mate nico button earned victory over mercedes team-mate nico alonso to win the grand prix. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The Spaniard became the only man to win three times so far this season.
 He drove a controlled race and stayed just far enough ahead of his pursuers to maintain the lead.
 Great strategy calls from the team to keep me ahead through the pit stops. I knew it would be a long race to the end
@@ -36,17 +33,19 @@ Button said: "It was a close race and I couldn't quite get Fernando at the end.
 "But it was a fun race and it's nice to be on the podium again. I've had my feeling back the last two races but the pace hasn't been there [in the car], but today it was. We're there or thereabouts at the front, still a little way to go."
 Raikkonen provided some exciting racing as he moved up from 10th on the grid.
 On the way, Raikkonen engaged in top-class racing with Mercedes driver Michael Schumacher and the Force Indias of Nico Hulkenberg and Paul di Resta.
-Schumacher finished seventh behind Sauber drivers Kamui Kobayashi and Sergio Perez. Hulkenberg and Di Resta took the final points positions in ninth and 10th. 
+Schumacher finished seventh behind Sauber drivers Kamui Kobayashi and Sergio Perez. Hulkenberg and Di Resta took the final points positions in ninth and 10th.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+nico button\'s retirement from mercedes team-mate nico button earned victory over mercedes team-mate nico alonso to win the grand prix.
+</Summary>
 
-1. The summary states that Nico Button retired from the race, but the article does not mention anything about Button retiring.
-2. The summary states that Alonso won the race, but the article states that Alonso became the only man to win three times so far this season, but does not explicitly state that he won the race.
-3. The summary states that Button earned victory over his teammate Nico Alonso, but the article does not mention anything about Button earning victory.
-4. The summary states that Vettel was given a 20-second penalty for his overtake of Button, but the article does not mention anything about Vettel receiving a penalty.
-5. The summary states that Hamilton retired with gearbox damage, but the article does not mention anything about Hamilton retiring.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
+1. The summary states that Nico Button retired from the race, while the article states that he finished in second place. This is a clear inconsistency.
+2. The summary also states that Nico Alonso won the race, while the article states that Fernando Alonso won the race. This is another inconsistency.
+3. The summary does not provide any other information about the race, other than the fact that Nico Button retired and Nico Alonso won. However, the article provides a detailed account of the race, including the strategies used by the teams, the overtaking maneuvers, and the performance of the drivers.
+
+Therefore, based on the above inconsistencies, it is clear that the summary is not consistent with the article. It appears to be a poorly written or inaccurate summary of the race.
 
 ###Corrected:

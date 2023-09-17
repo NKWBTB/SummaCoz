@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it was the uk\'s biggest electoral overhaul in the history of the uk\'s brexit vote, but the bank of england governor mark carney did n\'t extend his stay at the end of 2021. 
-
-    Article: 
-    After weeks of speculation about whether the Governor of the Bank of England would extend his time as its head in reaction to the referendum result, Mark Carney surprised many people in the City and in government by announcing a decision that few had considered.
+<Article>
+After weeks of speculation about whether the Governor of the Bank of England would extend his time as its head in reaction to the referendum result, Mark Carney surprised many people in the City and in government by announcing a decision that few had considered.
 Although many officials at the Bank believed that Mark Carney had two options before him - stay until 2021 or leave as originally intended in 2018 - the governor proffered a third.
 Extend, yes, but for just one more year.
 Superficially, it appeared to be a rather awkward fudge.
@@ -34,15 +31,18 @@ Those around Mr Carney dismiss any notion of "tension" with the Prime Minister, 
 Neither did criticism from those who believe the Bank's pre-referendum economic forecasts were too gloomy about the effects of a Brexit vote get under his skin, they add.
 Professionally, Mr Carney was clear that it would difficult to leave in the teeth of the Brexit negotiations.
 But, with his family leaving in 2018 as originally planned, he only felt able to extend his time in the UK by one year.
-By then the Article 50 process of decoupling Britain from the EU should be complete. It will then be for a new Governor to plot Britain's economic future. 
+By then the Article 50 process of decoupling Britain from the EU should be complete. It will then be for a new Governor to plot Britain's economic future.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+it was the uk\'s biggest electoral overhaul in the history of the uk\'s brexit vote, but the bank of england governor mark carney did n\'t extend his stay at the end of 2021.
+</Summary>
 
-1. The summary states that Mark Carney, the Bank of England governor, did not extend his stay at the end of 2021, while the article states that he extended his stay for one more year.
-2. The summary implies that Carney did not extend his stay due to personal reasons, specifically the need to be home in Canada with his family, while the article explains that he extended his stay for one year but will still leave in 2018 as originally planned.
-3. The summary mentions nothing about Carney's family, while the article reveals that his decision to extend his stay was motivated by personal reasons, specifically the desire to be home with his daughters before they finish their exams.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the reasons for Carney's decision to extend his stay, and it does not mention the personal reasons that were the actual motivation for his decision.
+1. The summary states that Mark Carney did not extend his stay as the Governor of the Bank of England at the end of 2021, implying that he was expected to leave at that time.
+2. However, the article states that Carney actually extended his term for one more year, until 2018.
+3. The summary does not mention the reason for Carney's extension, while the article explains that it was due to personal reasons, specifically the desire to be home in Canada with his family before his daughters finish their exams in 2018.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the reason for Carney's extension and implies that he was expected to leave in 2021, while the article states that he extended his term for one more year.
 
 ###Corrected:

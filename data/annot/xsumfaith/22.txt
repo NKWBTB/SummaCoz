@@ -1,25 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former england under-21 world champion shaun mckenzie will fight for the vacant wbc world title at york\'s alexandra palace on 29 april. 
-
-    Article: 
-    McKenzie, 38, will take on Jahmaine Smyle at York Hall on 12 November for the English super-middleweight championship.
+<Article>
+McKenzie, 38, will take on Jahmaine Smyle at York Hall on 12 November for the English super-middleweight championship.
 The ex-Norwich and Peterborough man became a professional boxer in 2013 having quit football two years previously.
 He has a record of eight wins and one draw from his nine fights.
-McKenzie is the son of former British and European champion Clinton and is trained by his uncle, former three-time world champion Duke McKenzie. 
+McKenzie is the son of former British and European champion Clinton and is trained by his uncle, former three-time world champion Duke McKenzie.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The article states that McKenzie will take on Jahmaine Smyle at York Hall on November 12th for the English super-middleweight championship.
+<Summary>
+former england under-21 world champion shaun mckenzie will fight for the vacant wbc world title at york\'s alexandra palace on 29 april.
+</Summary>
 
-2. The article does not mention anything about McKenzie fighting for the vacant WBC world title at Alexandra Palace on April 29th.
+Explain your reasoning step by step:[/INST]
 
-3. Therefore, the summary is not consistent with the article because it mentions a different fight date and title.
+1. The article states that McKenzie will fight for the English super-middleweight championship on November 12th at York Hall.
+2. The summary states that McKenzie will fight for the vacant WBC world title on April 29th at York's Alexandra Palace.
+3. These two dates and titles do not match. The article mentions a domestic championship fight in November, while the summary mentions a world title fight in April.
+4. Additionally, the article does not mention anything about McKenzie being a former England under-21 world champion, which is stated in the summary.
 
-4. The summary states that McKenzie will fight for the vacant WBC world title at Alexandra Palace on April 29th, but the article does not mention any of these details.
-
-5. The summary is incorrect and does not accurately reflect the information in the article.
+Therefore, the summary is not consistent with the article. The summary contains incorrect information about the date, title, and McKenzie's background.
 
 ###Corrected:

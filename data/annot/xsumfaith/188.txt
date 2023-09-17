@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    st johnstone eased to victory over 10-man inverness caledonian thistle to move off the bottom of the scottish premiership. 
-
-    Article: 
-    Liam Craig swept home Steven MacLean's delivery in with 14 minutes gone.
+<Article>
+Liam Craig swept home Steven MacLean's delivery in with 14 minutes gone.
 ICT captain Gary Warren was dismissed for two bookable offences in quick succession after the break, leading to Murray Davidson firing in a second.
 Danny Swanson broke neatly into the box and killed off Caley Thistle in the final 10 minutes with a low finish.
 Inverness, now propping up the league table, have conceded more goals than any other side in the Premiership.
@@ -66,27 +63,21 @@ Danny Swanson (St. Johnstone) wins a free kick in the defensive half.
 Foul by Gary Warren (Inverness CT).
 Gary Warren (Inverness CT) is shown the yellow card.
 Steven MacLean (St. Johnstone) wins a free kick in the defensive half.
-Foul by Gary Warren (Inverness CT). 
+Foul by Gary Warren (Inverness CT).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that St. Johnstone eased to victory over 10-man Inverness Caledonian Thistle, but the article does not support this claim.
+<Summary>
+st johnstone eased to victory over 10-man inverness caledonian thistle to move off the bottom of the scottish premiership.
+</Summary>
 
-2. The article reports that Inverness CT was reduced to 10 men after captain Gary Warren was sent off for two bookable offenses, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-3. The article highlights that St. Johnstone manager Tommy Wright was pleased with the three points and the clean sheet, but the summary does not mention these positives.
+1. The summary states that St. Johnstone eased to victory over 10-man Inverness Caledonian Thistle, which is not consistent with the article.
+2. The article reports that Inverness CT were defeated 3-0 by St. Johnstone, with the home team scoring three goals and the visitors failing to score.
+3. The summary does not mention the score or any of the goals scored by St. Johnstone, which is inconsistent with the article.
+4. The article states that Inverness CT were reduced to 10 men after Gary Warren was sent off, but the summary does not mention this.
+5. The article provides details about the goals scored by St. Johnstone and the performance of the teams, but the summary does not provide any of this information.
 
-4. The summary states that Inverness CT looked toothless, but the article notes that the team had plenty of possession but struggled to create clear-cut chances.
-
-5. The article notes that St. Johnstone's first goal was the result of good play from MacLean, who drew in a posse of defenders before playing in Craig for a simple finish, but the summary does not mention MacLean's role in the goal.
-
-6. The summary states that Inverness CT conceded more goals than any other side in the Premiership, but the article does not mention this.
-
-7. The article notes that St. Johnstone had lost three of their four home games before this match, but the summary does not mention this.
-
-8. The summary states that St. Johnstone deserved another goal after Warren's dismissal, but the article does not mention this.
-
-9. The article notes that Inverness CT manager Richie Foran was disappointed with his team's performance and stated that they have been inconsistent this season, but the summary does not mention this.
-
-10. The summary does not accurately reflect the content of the article, as it does not mention key details such as Warren's red card, St. Johnstone's clean sheet, and Inverness CT's struggles to create chances.
+Therefore, the summary is not consistent with the article because it does not provide any details about the match, the score, or the performance of the teams. Instead, it simply states that St. Johnstone eased to victory over 10-man Inverness CT, which is not an accurate reflection of the match.
 
 ###Corrected:

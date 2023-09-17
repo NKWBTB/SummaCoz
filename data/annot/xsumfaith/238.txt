@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    alexis sanchez was sent off in the first half as arsenal beat 10-man hull to reach the premier league play-off final. 
-
-    Article: 
-    The hosts had been on top when the ball came off forward Sanchez's hand and ended up in the net on 34 minutes. He added a penalty in injury-time which was awarded after Sam Clucas was sent off for handball from Lucas Perez's header.
+<Article>
+The hosts had been on top when the ball came off forward Sanchez's hand and ended up in the net on 34 minutes. He added a penalty in injury-time which was awarded after Sam Clucas was sent off for handball from Lucas Perez's header.
 In between, Hector Bellerin and Sanchez both failed to hit the target and Mesut Ozil volleyed over the crossbar for Arsenal.
 Striker Oumar Niasse had Hull's best chances - his header and low strike forced Petr Cech into sharp saves - while Adama Diomande nodded over late on.
 Arsenal had been pressing for the opener before Sanchez's intervention.
@@ -78,19 +75,20 @@ Attempt missed. Shkodran Mustafi (Arsenal) header from the centre of the box is 
 Corner,  Arsenal. Conceded by Ahmed Elmohamady.
 Alexis Sánchez (Arsenal) wins a free kick in the defensive half.
 Foul by Ahmed Elmohamady (Hull City).
-Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul. 
+Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Alexis Sanchez was sent off in the first half, but the article does not support this claim.
+<Summary>
+alexis sanchez was sent off in the first half as arsenal beat 10-man hull to reach the premier league play-off final.
+</Summary>
 
-2. The article states that Sanchez scored a goal in the 34th minute, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-3. The summary states that Sanchez added a penalty in injury time, but the article does not mention a penalty being awarded.
+1. The summary states that Alexis Sanchez was sent off in the first half, which is not consistent with the article.
+2. In the article, Sanchez was not sent off, but instead, he scored a goal and won a penalty for Arsenal.
+3. The summary also states that Arsenal beat 10-man Hull, which is not accurate as Hull did not have a man sent off.
+4. The article does not mention anything about Arsenal reaching the premier league play-off final.
 
-4. The article states that Hull had chances to score, but the summary does not mention this.
-
-5. The summary states that Arsenal won the game 2-0, but the article does not mention the final score.
-
-Conclusion: The summary is not consistent with the article because it contains several inaccuracies and omissions. It is not a reliable representation of the match.
+Therefore, the summary is not consistent with the article, and it contains several inaccuracies.
 
 ###Corrected:

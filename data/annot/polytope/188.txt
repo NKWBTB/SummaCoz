@@ -1,16 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
+<Article>
 indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
-there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
-more than two weeks into a short-term needle exchange program approved by gov. mike pence , there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky
- 
-
-    Article: 
-    indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
 there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
 that 's up from 106 last week , said the indiana state department of health .
 health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
@@ -48,17 +41,28 @@ pence 's executive order did n't include money for the scott county program .
 how sustainable is that ? '
 said dr. beth meyerson , co-director of the rural center for aids/std prevention at indiana university .
 ` there 's no evidence that the pence administration is thinking about this in the long term at all . '
- 
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+</Article>
 
-1. The summary states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County, while the article states that there are 106 confirmed HIV cases and 10 preliminary positive cases. The summary is not consistent with the article on this point.
-2. The summary states that the needle exchange program was approved by Gov. Mike Pence, while the article states that the program was approved through an emergency executive order signed by Pence. The summary is not consistent with the article on this point.
-3. The summary states that the program was created to curb the state's largest-ever HIV outbreak, while the article states that the program was created in response to the outbreak among intravenous drug users and primarily involves the use of the high-powered prescription painkiller Opana. The summary is not consistent with the article on this point.
-4. The summary states that the future of the Scott County program and legislation that would allow needle-exchange programs in other counties is not clear, while the article states that Senate President Pro Tem David Long isn't sure if the Senate will support legislation sponsored by House Public Health Committee Chairman Ed Clere that would allow the 23 Indiana counties with the highest rate-per-population of hepatitis C to establish their own needle-exchange programs. The summary is not consistent with the article on this point.
-5. The summary states that Gov. Pence opposes needle exchanges as an anti-drug policy, while the article states that Pence isn't alone in his concerns that needle exchanges could promote drug use instead of prevent it. The summary is not consistent with the article on this point.
+<Summary>
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions, and it does not accurately reflect the content of the article.
+indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
+more than two weeks into a short-term needle exchange program approved by gov. mike pence , there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky
+
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Number of cases: The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases, while the article states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County. The summary does not mention the location of the cases.
+2. Time frame: The summary does not mention the time frame of the needle exchange program, while the article states that the program has been in place for more than two weeks.
+3. Purpose of the program: The summary does not mention the purpose of the needle exchange program, while the article states that the program was created to curb the state's largest-ever HIV outbreak.
+4. Extension of the program: The summary does not mention the possibility of extending the program beyond April 25, while the article states that Gov. Pence is reviewing reports and recommendations from health officials and will make a decision early next week about extending the program.
+5. Lawmakers' views: The summary does not mention lawmakers' views on the needle exchange program, while the article states that Senate President Pro Tem David Long is unsure if the Senate will support legislation sponsored by House Public Health Committee Chairman Ed Clere that would allow the 23 Indiana counties with the highest rate-per-population of hepatitis C to establish their own needle-exchange programs.
+6. Funding: The summary does not mention the funding of the needle exchange program, while the article states that the program was created through an emergency executive order signed last week by Gov. Pence in an attempt to curb the state's largest-ever HIV outbreak and that the state agencies have been asked to find their own money to fund the program.
+
+In conclusion, the summary does not accurately reflect the information provided in the article. It does not mention key details such as the location of the cases, the time frame of the program, the purpose of the program, the possibility of extending the program, lawmakers' views, and funding. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

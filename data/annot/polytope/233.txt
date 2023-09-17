@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
-louise and emma say to avoid being drowned by too much fabric try a high heeled shoe
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,17 +28,29 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
+louise and emma say to avoid being drowned by too much fabric try a high heeled shoe
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Summary>
 
-1. The summary states that Louise Redknapp recommends pairing a wide-leg trouser with a simple knit to keep the outfit in proportion, but the article does not mention this.
-2. The summary suggests that the wide-leg trouser can be intimidating, especially for shorter women, but the article does not address this point.
-3. The summary advises wearing a high-heeled shoe to elongate the leg and proportion the outfit, but the article only mentions wearing a high heel to add confidence to the look.
-4. The summary mentions Poppy Delevingne channeling the trend at the AW15 Chloe show in Paris, but the article does not mention this.
-5. The summary emphasizes the wide-leg trouser as a welcome relief from the skinny jean, but the article does not have this focus. Instead, it presents the wide-leg trouser as a new and effortless look for the season.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it adds or modifies information that is not present in the article, and it emphasizes different aspects of the trend.
+1. The summary does not mention the article's main point: the wide leg trouser trend.
+
+The article discusses the resurgence of the wide leg trouser trend, its versatility, and how to style it. However, the summary only mentions Louise Redknapp's opinion on the trend and Poppy Delevingne's fashion choice at the Chloe show in Paris.
+
+2. The summary does not provide any information about the article's supporting evidence: the trend's history, the different styles of wide leg trousers, and the designers who showcased the trend on their runways.
+
+The article provides historical context for the trend's resurgence, discusses different styles of wide leg trousers, and features runway examples from designers like Gucci and Celine. The summary does not include any of this information.
+
+3. The summary does not accurately represent the article's tone or focus.
+
+The article is focused on the wide leg trouser trend and its versatility, with a playful and encouraging tone. The summary, on the other hand, is brief and lacks context, giving it a more superficial tone.
+
+In conclusion, the summary is not consistent with the article because it does not mention the article's main point, provide supporting evidence, or accurately represent the article's tone or focus.
 
 ###Corrected:

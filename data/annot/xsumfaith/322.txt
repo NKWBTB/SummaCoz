@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than half of offenders in england and wales are being punished for their crimes, a report has found. 
-
-    Article: 
-    HM Inspectorate of Probation found delays in getting offenders to start their work, and said too many were let off if they did not attend.
+<Article>
+HM Inspectorate of Probation found delays in getting offenders to start their work, and said too many were let off if they did not attend.
 In one case, an offender had completed just 16 hours in the 17 months since he had been sentenced.
 The Ministry of Justice said it was acting on the report's recommendations.
 Anything from 40 to 300 hours of unpaid work - or "community payback" - may be given for offences like shoplifting, theft, drug offences, or criminal damage.
@@ -28,17 +25,20 @@ The chief inspector of probation, Paul Wilson, said it appeared in most cases th
 He called for "urgent remedial action".
 A Ministry of Justice spokesperson said it wanted "much more effective rehabilitation" - which had to start with making sure offenders turned up on time and faced consequences if they did not.
 "It's totally unacceptable for offenders to skip work enforced by the courts.
-"We accept all the recommendations for the Ministry of Justice in this report and are already taking action to implement them." 
+"We accept all the recommendations for the Ministry of Justice in this report and are already taking action to implement them."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+more than half of offenders in england and wales are being punished for their crimes, a report has found.
+</Summary>
 
-1. The summary states that "more than half of offenders in England and Wales are being punished for their crimes," but the article does not support this claim. Instead, the article focuses on the issues with the implementation of unpaid work sentences and the need for improvement.
-2. The summary mentions "punishment" which is not the primary focus of the article. The article emphasizes the need for rehabilitation and the challenges in implementing unpaid work sentences effectively.
-3. The summary does not mention the issues with organization and management of unpaid work sentences, which are highlighted in the article as one of the main problems.
-4. The summary does not mention the recommendation made by the inspectors to reduce the number of times offenders are turned away from work, or to create objectives for unpaid work that "match the circumstances of the offender".
-5. The summary does not mention the positive aspects of unpaid work highlighted in the article, such as instances of high-quality work and offenders gaining skills.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the summary is not consistent with the article because it does not accurately reflect the main points and issues discussed in the article, and it focuses on a different aspect of the issue (punishment) rather than rehabilitation.
+1. The summary states that "more than half of offenders in England and Wales are being punished for their crimes."
+2. The article states that the report found delays in getting offenders to start their work and that many were let off if they did not attend.
+3. The article also states that the report outlined 15 recommendations for improvement, including reducing the number of times offenders are turned away from work and creating objectives for unpaid work that match the circumstances of the offender.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the findings of the report. The report did not find that more than half of offenders were being punished, but rather that there were problems with the organization and enforcement of unpaid work sentences.
+5. The summary is also not consistent with the article because it does not mention the specific issues identified in the report, such as delays and lack of attendance, and instead focuses on the overall percentage of offenders being punished.
+6. The article provides more detailed information about the report's findings and recommendations, which are not reflected in the summary.
 
 ###Corrected:

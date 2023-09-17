@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    energy firm edf has said it is " very concerned " about the government\'s decision to scrap the hinkley point nuclear plant at hink 
-
-    Article: 
-    French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
+<Article>
+French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
 Contracts were to be signed on Friday.
 But Business Secretary Greg Clark has said the government will "consider carefully" before backing it.
 EDF chief executive Vincent de Rivaz has cancelled a trip to Hinkley Point on Friday following Mr Clark's comments.
@@ -40,15 +37,20 @@ Jan 2006 - Government proposes nuclear as part of future energy mix
 Mar 2013 - Construction of Hinkley Point approved
 Oct 2013 - UK government agrees £92.50 per megawatt-hour will be paid for electricity produced at the Somerset site - around double the current market rate at the time
 Oct 2015 - EDF signs investment agreement with China General Nuclear Power Corporation (CGN)
-July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn. 
+July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, the summary is not consistent with the article because:
+<Summary>
+energy firm edf has said it is " very concerned " about the government\'s decision to scrap the hinkley point nuclear plant at hink
+</Summary>
 
-1. The summary states that EDF is "very concerned" about the government's decision to scrap the Hinkley Point nuclear plant, but the article states that EDF approved the funding for the project and that the government is considering the project carefully.
-2. The summary implies that the government has decided to scrap the project, but the article states that the government is considering the project carefully and has not made a final decision.
-3. The summary mentions the potential environmental damage and escalating costs of the project, but the article does not address these issues.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it implies that the government has decided to scrap the project, which is not supported by the article. Additionally, the summary focuses on potential environmental damage and escalating costs, which are not the main points of the article.
+1. The summary states that the government has decided to scrap the Hinkley Point nuclear plant, which is not consistent with the article. The article states that the government is reviewing the project, but it has not made a final decision to scrap it.
+2. The summary does not provide any specific information about the reasons for the government's decision, which is not supported by the article. The article mentions concerns about the project's environmental impact, potential escalating costs, and the fact that the plant is being built by foreign governments, but it does not mention any definitive decision to scrap the project.
+3. The summary does not accurately represent the tone of the article, which is neutral and factual. The summary uses language that is sensational and emotive, such as "scrap" and "very concerned", which is not supported by the article.
+4. The summary does not provide any context or background information about the Hinkley Point project, such as its purpose, location, or the fact that it has been under review for several years. This information is provided in the article, but it is not included in the summary.
+
+Overall, the summary is not a accurate representation of the article and does not provide a clear understanding of the issues surrounding the Hinkley Point nuclear plant.
 
 ###Corrected:

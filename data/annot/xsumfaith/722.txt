@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sometimes, the simplest explanation is the right one. 
-
-    Article: 
-    After weeks of speculation about whether the Governor of the Bank of England would extend his time as its head in reaction to the referendum result, Mark Carney surprised many people in the City and in government by announcing a decision that few had considered.
+<Article>
+After weeks of speculation about whether the Governor of the Bank of England would extend his time as its head in reaction to the referendum result, Mark Carney surprised many people in the City and in government by announcing a decision that few had considered.
 Although many officials at the Bank believed that Mark Carney had two options before him - stay until 2021 or leave as originally intended in 2018 - the governor proffered a third.
 Extend, yes, but for just one more year.
 Superficially, it appeared to be a rather awkward fudge.
@@ -34,15 +31,19 @@ Those around Mr Carney dismiss any notion of "tension" with the Prime Minister, 
 Neither did criticism from those who believe the Bank's pre-referendum economic forecasts were too gloomy about the effects of a Brexit vote get under his skin, they add.
 Professionally, Mr Carney was clear that it would difficult to leave in the teeth of the Brexit negotiations.
 But, with his family leaving in 2018 as originally planned, he only felt able to extend his time in the UK by one year.
-By then the Article 50 process of decoupling Britain from the EU should be complete. It will then be for a new Governor to plot Britain's economic future. 
+By then the Article 50 process of decoupling Britain from the EU should be complete. It will then be for a new Governor to plot Britain's economic future.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+sometimes, the simplest explanation is the right one.
+</Summary>
 
-1. The summary states that Mark Carney extended his term as Governor of the Bank of England for "just one more year," implying that he only extended his term by one year. However, the article states that he extended his term for "one more year" (emphasis added), indicating that he extended his term for a full year, not just one more year.
-2. The summary suggests that Carney's decision to extend his term was based on personal reasons, specifically the need to be home with his family. However, the article states that Carney's decision was based on a "third way" that would allow him to serve for one more year while still returning home to Canada in 2018, when his daughters will finish their exams.
-3. The summary implies that Carney's extension was a simple decision based on personal reasons, while the article portrays it as a more complex decision that took into account a range of factors, including the need to stabilize the economy, the challenge of the job, and his family's needs.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary oversimplifies the reasons for Carney's extension and does not accurately reflect the complexity of the decision as described in the article.
+1. The summary states that the Governor of the Bank of England, Mark Carney, extended his term for one more year, but the article explains that this decision was not based on political pressure or the economic forecasts, but rather on personal reasons.
+2. The article reveals that one of Mr. Carney's daughters will be finishing her A-levels and another will be completing her GCSEs in 2018, and he wants to be present for these important milestones in their lives.
+3. The article also states that Mr. Carney's family wants to return to Canada, where the education system is highly regarded.
+4. The summary does not mention these personal reasons for Mr. Carney's decision, and instead implies that the decision was based on a simple and straightforward reason, which is not the case.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the reasons behind Mr. Carney's decision to extend his term.
 
 ###Corrected:

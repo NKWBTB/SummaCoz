@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    pablo osvaldo thinks that his former team-mates andrea pirlo and francesco totti should move to boca
-the 29-year-old moved to his current side on a loan deal from southampton and has become an instant hit - scoring three goals in six games .
-totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina 
-
-    Article: 
-    pablo osvaldo has urged italian legends andrea pirlo and francisco totti to move continents and join him at argentinian giants boca juniors .
+<Article>
+pablo osvaldo has urged italian legends andrea pirlo and francisco totti to move continents and join him at argentinian giants boca juniors .
 the 29-year-old moved to his current side on a loan deal from southampton and has become an instant hit - scoring three goals in six games .
 osvaldo believes that the duo would be a good fit for boca , and says the fans would love to have them line up on the la bombonera pitch .
 pablo osvaldo thinks that his former team-mates andrea pirlo and francesco totti should move to boca
@@ -19,23 +14,22 @@ i do n't want to do injustice to anyone , but if i had to pick two , it would be
 ` they have a bit of a south-american style and they would be perfect for boca with their abilities .
 ` the bombonera would go absolutely crazy for players like them . '
 pirlo has established himself as one of the best midfielders in world football and is hugely popular
-totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina 
+totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's the step-by-step explanation of why the summary is not consistent with the article:
+<Summary>
+pablo osvaldo thinks that his former team-mates andrea pirlo and francesco totti should move to boca
+the 29-year-old moved to his current side on a loan deal from southampton and has become an instant hit - scoring three goals in six games .
+totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina
+</Summary>
 
-1. The summary states that Pablo Osvaldo thinks Andrea Pirlo and Francesco Totti should move to Boca, but the article does not mention anything about Pirlo or Totti moving to Boca.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that Osvaldo believes Pirlo and Totti would be a good fit for Boca, but the article does not quote Osvaldo as saying this.
+1. The summary states that Pablo Osvaldo thinks that his former teammates Andrea Pirlo and Francesco Totti should move to Boca.
+2. However, the article does not mention anything about Pirlo or Totti moving to Boca.
+3. The article only mentions that Osvaldo has urged the two players to join him at Boca, but there is no indication that they are considering such a move.
+4. Therefore, the summary is not consistent with the article, as it implies that Pirlo and Totti are likely to move to Boca, when in fact, there is no such indication in the article.
 
-3. The summary states that Osvaldo thinks the fans would love to have Pirlo and Totti line up on the pitch, but the article does not mention anything about the fans' reactions.
-
-4. The summary mentions that Osvaldo has played with many great players over the years and considers Pirlo and Totti among his friends, but the article does not provide this context.
-
-5. The summary states that Pirlo has established himself as one of the best midfielders in world football and is hugely popular, but this information is not relevant to the main point of the article, which is about Osvaldo's desire for Pirlo and Totti to join him at Boca.
-
-6. The article does not mention anything about Osvaldo urging Pirlo and Totti to move continents and join him at Boca, as stated in the summary.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+So, the reason why the summary is not consistent with the article is that it adds a new piece of information (that Pirlo and Totti are likely to move to Boca) that is not present in the article.
 
 ###Corrected:

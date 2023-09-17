@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the nhs in england needs more funding to improve patient care, a report says. 
-
-    Article: 
-    Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
+<Article>
+Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
 A Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs.
 But unions warned against using it as a quick fix for problems in the NHS.
 It has been well documented that there are gaps in junior doctor rotas, while GPs are struggling to cope with the rising number of patients coming through their doors.
@@ -25,16 +22,22 @@ But British Medical Association leader Dr Mark Porter said while he supported in
 And Unison head of health Christina McAnea said the squeeze on funding in the health service meant there was "all too often" no funding for training courses.
 "Developing the NHS support workforce must not be seen as a quick and cheap fix for the chronic shortages of nurses and other health workers across the country," she added.
 Read more from Nick
-Follow Nick on Twitter 
+Follow Nick on Twitter
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the nhs in england needs more funding to improve patient care, a report says.
+</Summary>
 
-1. The summary states that the NHS needs more funding to improve patient care, but the article does not mention funding as a solution to the NHS's problems. Instead, the article focuses on the potential for nurses and other healthcare staff to take on more responsibilities and fill in for doctors and pharmacists.
-2. The summary implies that the NHS is facing a shortage of doctors, but the article does not mention this as a major issue. While the article does mention that there are gaps in junior doctor rotas, it also notes that this is not a new problem and that the NHS has been dealing with it for some time.
-3. The summary suggests that the Nuffield Trust report is advocating for nurses to take on more responsibilities and become more like doctors, but the article does not support this interpretation. While the report does suggest that nurses and other healthcare staff could take on more tasks, it does not advocate for a shift in the traditional roles of doctors and nurses.
-4. The summary implies that the report is calling for more funding to support the development of the NHS support workforce, but the article does not mention this. Instead, the article notes that the report highlights the potential for nurses and other healthcare staff to take on more responsibilities, but does not advocate for increased funding to support this.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it oversimplifies the report's findings and recommendations, and it does not accurately reflect the article's focus on the potential for nurses and other healthcare staff to take on more responsibilities without advocating for more funding.
+1. The article states that the Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs. This suggests that nurses are already taking on roles that were previously performed by doctors and pharmacists.
+2. The article also mentions that the Nuffield Trust highlighted examples of areas that were already experimenting with nurses taking on more responsibilities. This suggests that the idea of nurses taking on more roles is not a new concept, but rather something that is already being explored in some areas.
+3. The article quotes Dr. Mark Porter, the leader of the British Medical Association, as saying that while he supports increasing the skills of the workforce, this should not be done "at the expense of good quality training for doctors or indeed doctors themselves." This suggests that Dr. Porter is opposed to the idea of nurses taking on roles that were previously performed by doctors, as he believes that doctors require specialized training that cannot be replaced by nurses.
+4. The article also quotes Christina McAnea, the head of health at Unison, as saying that the squeeze on funding in the health service means there is "all too often" no funding for training courses. This suggests that one of the challenges of implementing the Nuffield Trust's recommendations is the lack of funding for training and development.
+5. Based on the information in the article, it appears that the Nuffield Trust's report is advocating for nurses to take on more responsibilities and for the workforce to be reshaped in order to address gaps in junior doctor rotas and the rising number of patients coming through GPs' doors. However, there is opposition to this idea from Dr. Porter and others, who argue that doctors require specialized training that cannot be replaced by nurses. Additionally, the lack of funding for training and development is a significant challenge to implementing the report's recommendations.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the key points of the Nuffield Trust's report and the challenges and opposition to its recommendations. The summary simply states that the NHS needs more fund
 
 ###Corrected:

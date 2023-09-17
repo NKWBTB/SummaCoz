@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the home secretary has said she wants to introduce new laws on the life of police officers convicted of crimes against humanity. 
-
-    Article: 
-    She stressed that to kill a police officer was "to attack the fundamental basis of our society".
+<Article>
+She stressed that to kill a police officer was "to attack the fundamental basis of our society".
 But Mrs May also said police officers must end "frivolous" accident claims and focus on raising public trust.
 Earlier the Police Federation urged her not to base legislation changes on the behaviour of a "handful of officers".
 During her address, Mrs May said suing someone after slipping on their property was "not the sort of attitude" officers should exhibit.
@@ -35,16 +32,25 @@ Police Federation chairman Steve Williams, who had earlier welcomed Mrs May's se
 Speaking at the conference, he urged the home secretary not to "hang your reforms on the reprehensible behaviour of a handful of officers".
 The biggest applause came when he called for the government to abandon plans for compulsory severance, which are currently subject to negotiation.
 Chief Inspector of Constabulary Tom Winsor, who is behind hotly debated changes such as fast-track recruitment and lower annual pay for new constables, was also due to address officers.
-On Tuesday, shadow home secretary Yvette Cooper told the three-day conference that government plans to withdraw from the European Arrest Warrant agreement would make it harder to catch criminals who went on the run abroad. 
+On Tuesday, shadow home secretary Yvette Cooper told the three-day conference that government plans to withdraw from the European Arrest Warrant agreement would make it harder to catch criminals who went on the run abroad.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the given summary is not consistent with the article:
+<Summary>
+the home secretary has said she wants to introduce new laws on the life of police officers convicted of crimes against humanity.
+</Summary>
 
-1. The summary states that the home secretary wants to introduce new laws on the life of police officers convicted of crimes against humanity, but the article does not mention anything about crimes against humanity.
-2. The summary mentions the home secretary's call for life sentences for police officers convicted of killing, but the article only mentions a proposal to increase the minimum sentence for police murder from 30 years to life without parole.
-3. The summary states that the home secretary wants to allow police to take over shoplifting prosecutions where the value of the goods taken is less than £200, but the article does not mention this.
-4. The summary mentions the home secretary's comment that suing someone after slipping on their property was not the sort of attitude officers should exhibit, but the article does not include this quote.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits other important information that is included in the article.
+1. The article states that the Home Secretary, Theresa May, has announced plans to increase the minimum sentence for killing a police officer to life without parole.
+2. The article also mentions that the current minimum sentence for police murder is 30 years, and that the government is proposing to increase this to a whole life tariff.
+3. However, the summary states that the Home Secretary wants to introduce new laws on the life of police officers convicted of crimes against humanity.
+4. The article does not mention anything about crimes against humanity. Instead, it focuses on the proposed increase in the minimum sentence for killing a police officer.
+5. Therefore, the summary is not consistent with the article, as it introduces a new topic (crimes against humanity) that is not mentioned in the article.
+
+Reasoning step by step:
+
+1. The article discusses the proposed increase in the minimum sentence for killing a police officer.
+2. The summary introduces a new topic (crimes against humanity) that is not mentioned in the article.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

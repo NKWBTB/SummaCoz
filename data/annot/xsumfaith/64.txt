@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    barcelona say they have received a " substantial " tax claim over the signing of neymar from barcelona last month. 
-
-    Article: 
-    However the Spanish champions insisted they had not committed any offence.
+<Article>
+However the Spanish champions insisted they had not committed any offence.
 "The aim is to cover eventual interpretations that could be given to the contracts drawn up in the operation to sign Neymar," a club statement read.
 Barca paid £48.6m for Santos striker Neymar, 22, in the summer with his parents receiving £34m of the fee.
 Between the initial fee paid in the summer, signing-on fee, wages during his five-year deal, agents fees and this latest tax payment, Neymar will have cost the club £106.8m
@@ -17,17 +14,22 @@ And last week a judge in Spain ruled there was sufficient evidence against Barce
 The club added: "The board denies the existence of any tax-related crime in relation to the fiscal obligations arising from the signing of the player.
 "Given the existence of a possible divergent interpretation of the exact amount of tax responsibility arising from the signing and to defend the club's reputation and good name, FC Barcelona has this morning made a complimentary tax declaration of a total of 13,550,830.56 euros [...] although we remain convinced that the original tax payment was in line with our fiscal obligations."
 There has not yet been any confirmation whether the case will be dropped after Barcelona's payment.
-Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches. 
+Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here is the reasoning step by step:
+<Summary>
+barcelona say they have received a " substantial " tax claim over the signing of neymar from barcelona last month.
+</Summary>
 
-1. The summary states that Barcelona has received a "substantial" tax claim over the signing of Neymar.
-2. However, the article states that Barcelona denies any wrongdoing and claims that they have made a complimentary tax declaration of €13,550,830.56 to defend their reputation and good name.
-3. The article also states that there has not yet been any confirmation whether the case will be dropped after Barcelona's payment.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect Barcelona's denial of any wrongdoing and their efforts to defend their reputation.
-5. Instead, the summary implies that Barcelona has committed some kind of offense, which is not supported by the article.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the summary is not consistent with the article because it does not accurately reflect Barcelona's denial of any wrongdoing and their efforts to defend their reputation. The article presents a different perspective on the situation, one that is not supported by the summary.
+1. The summary states that Barcelona have received a "substantial" tax claim over the signing of Neymar.
+2. The article does not mention any tax claim or investigation related to Neymar's signing. Instead, it talks about the club's statement denying any wrongdoing in the transfer and the judge's ruling to continue investigations into the transfer.
+3. The article mentions that Barcelona paid £48.6m for Neymar, but the summary implies that the club has received a tax claim for a larger amount.
+4. Therefore, the summary is not consistent with the article, as there is no mention of a tax claim in the article.
+
+Reasoning:
+
+The summary is not accurate because it implies that Barcelona has received a tax claim for Neymar's transfer, which is not mentioned in the article. The article only talks about the club's statement denying any wrongdoing in the transfer and the judge's ruling to continue investigations. Therefore, the summary is not supported by the information in the article.
 
 ###Corrected:

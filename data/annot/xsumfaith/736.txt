@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an agreement has been reached to ensure foreign workers on freight boats serving orkney and shetland are paid at least the minimum wage. 
-
-    Article: 
-    Transport Minister Humza Yousaf said a  new charter arrangement would end the long-running row over seafarers' pay.
+<Article>
+Transport Minister Humza Yousaf said a  new charter arrangement would end the long-running row over seafarers' pay.
 The RMT union had claimed some workers on board two freight boats were paid less than Â£4 an hour.
 The charter change will see contracted out services return to operator Serco Northlink from next month.
 The freight vessels Hellier and Hildasay have been operated by Seatruck, which is contracted to run the service by Serco Northlink.
@@ -16,31 +13,20 @@ Mr Yousaf said the new arrangements would come into force early next month subje
 He said: "I'm very pleased to see an agreement in principle now in place to end this long running issue around the freight vessels serving the Northern Isles.
 "The new charter basis will allow the wage issue to be resolved. Going forward, I can confirm that all crew members will be paid at least the minimum wage."
 Serco Northlink was awarded the six-year Â£243m Northern Isles contract in 2012.
-It operates three ferries and two cargo boats to the Northern Isles on a route which is heavily subsidised by the Scottish government. 
+It operates three ferries and two cargo boats to the Northern Isles on a route which is heavily subsidised by the Scottish government.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+an agreement has been reached to ensure foreign workers on freight boats serving orkney and shetland are paid at least the minimum wage.
+</Summary>
 
-1. The summary states that an agreement has been reached to ensure foreign workers on freight boats serving Orkney and Shetland are paid at least the minimum wage.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about an agreement being reached to ensure that foreign workers are paid the minimum wage. Instead, it mentions that a new charter arrangement will be put in place to end the long-running row over seafarers' pay.
+1. The article states that "all crew members will be paid at least the minimum wage" under the new charter arrangement.
+2. However, the summary claims that only foreign workers on freight boats will be paid at least the minimum wage.
+3. The article does not mention anything about foreign workers specifically; it only mentions "crew members" who will be paid the minimum wage.
+4. Therefore, the summary is not consistent with the article, as it narrows the scope of the agreement to only apply to foreign workers, while the article states that all crew members will be paid the minimum wage, without any mention of nationality.
 
-2. The article states that Seatruck, the current operator of the freight vessels, has argued that the national minimum wage is not applicable to the crew, many of whom are non-UK residents.
-
-The summary does not mention this fact, which is a key point in the article that explains why the workers were not being paid the minimum wage.
-
-3. The article states that Serco Northlink has repeatedly offered to bridge the pay gap and backdate it, but Seatruck declined to accept.
-
-The summary does not mention this offer or Seatruck's declination of it, which is an important part of the article that explains the situation.
-
-4. The article states that the new charter arrangement will come into force early next month, subject to some financial and regulatory details being finalised.
-
-The summary does not mention the timing of the new charter arrangement or the fact that it is subject to finalisation of financial and regulatory details.
-
-5. The article quotes Transport Minister Humza Yousaf as saying that the new charter basis will allow the wage issue to be resolved and that all crew members will be paid at least the minimum wage.
-
-The summary does not include this quote or any mention of the Transport Minister's statement.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary omits key points from the article, such as Seatruck's argument that the national minimum wage is not applicable to the crew, Serco Northlink's offer to bridge the pay gap, and the fact that the new charter arrangement is subject to finalisation of financial and regulatory details. Additionally, the summary includes information that is not present in the article, such as an agreement being reached to ensure foreign workers are paid the minimum wage.
+Conclusion: The summary is not consistent with the article because it restricts the application of the agreement to only foreign workers, while the article does not make any such distinction.
 
 ###Corrected:

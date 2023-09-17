@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    great britain\'s jung jung won olympic gold in the men\'s fox-pitt at the rio olympics. 
-
-    Article: 
-    Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
+<Article>
+Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
 France's Astier Nicolas took silver and American Phillip Dutton won bronze as GB's William Fox-Pitt finished 12th.
 Fox-Pitt, 47, was competing just 10 months after being placed in an induced coma following a fall.
 The three-time Olympic medallist, aboard Chilli Morning, produced a faultless performance in Tuesday's final show-jumping phase.
@@ -15,17 +12,18 @@ He led after the dressage phase, but dropped to 21st after incurring several tim
 Ireland's Jonty Evans finished ninth on Cooley Rorkes Drift.
 Why not come along, meet and ride Henry the mechanical horse at some of the Official Team GB fan parks during the Rio Olympics?
 Find out how to get into equestrian with our special guide.
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+great britain\'s jung jung won olympic gold in the men\'s fox-pitt at the rio olympics.
+</Summary>
 
-1. The summary states that Great Britain's Jung Jung won Olympic gold in the men's fox-pitt, but the article does not mention any athlete named Jung Jung.
-2. The summary mentions that Jung won aboard Sam, but the article does not mention any horse named Sam.
-3. The summary states that France's Astier Nicolas took silver and American Phillip Dutton won bronze, but the article does not mention any medal winners by name. Instead, it states that GB's William Fox-Pitt finished 12th.
-4. The summary mentions that Fox-Pitt was competing just 10 months after being placed in an induced coma, but the article does not mention any such information.
-5. The summary mentions that Fox-Pitt produced a faultless performance in the final show-jumping phase, but the article states that he incurred several time penalties in the cross-country phase.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, as it contains several inaccuracies and misleading information.
+1. The summary states that Great Britain's Jung Jung won Olympic gold in the men's fox-pitt at the Rio Olympics.
+2. However, the article does not mention anything about a rider named Jung Jung competing in the Olympics, nor does it mention any gold medal wins for Great Britain in the men's fox-pitt event.
+3. The article does mention a rider named William Fox-Pitt, who competed in the event and finished 12th overall.
+4. Therefore, the summary is not consistent with the article, as there is no mention of a rider named Jung Jung or any gold medal wins for Great Britain in the men's fox-pitt event.
 
 ###Corrected:

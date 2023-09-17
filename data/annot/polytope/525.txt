@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mike lane , 40 , was beaten by balaclava-clad protesters armed with iron bars .
-he was beaten by balaclava-clad protesters armed with iron bars on ropes .
-he said : ' they could have made more effort .
-everyone is very disappointed ' . 
-
-    Article: 
-    police have dropped an investigation into a vicious assault on a huntsman just three months after it took place -- despite a wealth of evidence pointing to the identity of a suspected attacker .
+<Article>
+police have dropped an investigation into a vicious assault on a huntsman just three months after it took place -- despite a wealth of evidence pointing to the identity of a suspected attacker .
 last night the victim , mike lane , 40 , who was beaten by balaclava-clad protesters armed with iron bars on ropes , condemned the decision by police as ` pathetic ' .
 he said : ` they could have made more effort .
 i 've been told that unless further evidence comes forward , the attackers are not likely to be found .
@@ -42,17 +36,24 @@ karen fieldsend , 42 , who made the call to police , is furious that the case ha
 james cameron , 61 , vice-chairman of the tedworth hunt , added : ` their decision is disappointing , but this highlights how difficult it is for police to do their job when saboteurs turn up wearing face coverings . '
 the countryside alliance is campaigning to ban saboteurs from wearing a face covering so criminals can be brought to justice .
 last night a spokesman for wiltshire police said : ` we have been unable to move the inquiry further forward .
-at this stage the case has been recorded as undetected , however should other evidence come to light then it will be re-opened . ' 
+at this stage the case has been recorded as undetected , however should other evidence come to light then it will be re-opened . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mike lane , 40 , was beaten by balaclava-clad protesters armed with iron bars .
+he was beaten by balaclava-clad protesters armed with iron bars on ropes .
+he said : ' they could have made more effort .
+everyone is very disappointed ' .
+</Summary>
 
-1. The summary states that Mike Lane was beaten by balaclava-clad protesters armed with iron bars, but the article does not mention anything about protesters or iron bars.
-2. The summary states that Mike Lane was beaten on ropes, but the article does not mention anything about ropes.
-3. The summary states that Mike Lane said "they could have made more effort," but the article does not include this quote.
-4. The summary states that the attackers are not likely to be found, but the article states that the police have dropped their investigation due to insufficient evidence.
-5. The summary states that the attack took place during a hunt, but the article does not mention anything about a hunt.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and omits other important information that is present in the article.
+1. The summary states that Mike Lane was beaten by balaclava-clad protesters armed with iron bars, which is consistent with the article.
+2. However, the summary does not mention the fact that the attackers were hunt saboteurs, which is a significant detail that is present in the article.
+3. The summary also does not mention the fact that the attackers sprayed hounds with perfumed chemical citronella to distract them from the scent, which is another important detail in the article.
+4. The summary states that Mike Lane said "they could have made more effort," but the article quotes him as saying "i've been told that unless further evidence comes forward, the attackers are not likely to be found."
+5. The summary does not mention the fact that Wiltshire police have dropped the investigation due to insufficient evidence, which is a significant detail in the article.
+
+Therefore, the summary is not consistent with the article because it does not include several important details and misquotes Mike Lane's statement.
 
 ###Corrected:

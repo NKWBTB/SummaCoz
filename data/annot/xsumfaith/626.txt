@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new public woodland is being created in county londonderry to mark the centenary of world war one. 
-
-    Article: 
-    On Saturday afternoon, members of the public have been invited to take part in planting thousands of new trees at Brackfield Wood in the Faughan Valley.
+<Article>
+On Saturday afternoon, members of the public have been invited to take part in planting thousands of new trees at Brackfield Wood in the Faughan Valley.
 The project has been organised by the Woodland Trust, and is one of four new woods being created across the UK.
 Its aim is to plant "millions" of native UK trees to commemorate the millions of people who died during WW1.
 The four-year project is one of the trust's most ambitious planting programmes and uses the pledge: "We will stand for those who fell."
@@ -16,23 +13,26 @@ Its director, Patrick Cregg, said: "This is a special opportunity to make a pers
 "By the end of the project, our aim is to have 40,000 native trees planted here at Brackfield, with carpets of wildflowers including iconic poppies.  It will be a place where wildlife will thrive and where people can walk, relax and reflect."
 The charity is providing the saplings for members of the public to plant, and has advised volunteers to wear welly boots or "stout footwear".
 Brackfield Wood is about seven miles outside Derry city, just off the Glenshane Road and limited parking is available for those taking part in the project.
-"The trees, which will stand for generations to come, will be a living, growing tribute to the people from Ireland who played a part in the war: the soldiers, their families and loved ones," Mr Cregg said. 
+"The trees, which will stand for generations to come, will be a living, growing tribute to the people from Ireland who played a part in the war: the soldiers, their families and loved ones," Mr Cregg said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a new public woodland is being created in county londonderry to mark the centenary of world war one.
+</Summary>
 
-1. The summary states that a new public woodland is being created in county Londonderry to mark the centenary of World War I.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about a new public woodland being created. Instead, it talks about the Woodland Trust planting thousands of trees at Brackfield Wood in the Faughan Valley as part of a four-year project to commemorate the millions of people who died during WW1.
+1. The summary states that a new public woodland is being created in county Londonderry to mark the centenary of World War One.
+2. However, the article states that the woodland is being created in Brackfield Wood, which is located in the Faughan Valley, not in county Londonderry.
+3. The article also states that the woodland is being created as a tribute to the millions of people who died during World War One, while the summary only mentions the centenary of the war.
+4. Furthermore, the article states that the project is organised by the Woodland Trust, while the summary does not mention this.
 
-2. The summary states that the project is to mark the centenary of World War I, but the article does not mention this. Instead, it mentions that the project is to commemorate the millions of people who died during WW1.
+Therefore, the summary is not consistent with the article because it:
 
-3. The summary states that the project is to plant "millions" of native UK trees, but the article does not mention this. Instead, it states that the Woodland Trust plans to plant 40,000 trees in tribute to the estimated 40,000 people from the island of Ireland who lost their lives in the conflict.
+* Mentions a different location (county Londonderry) than the location of the woodland (Brackfield Wood in the Faughan Valley).
+* Focuses only on the centenary of World War One, while the article mentions the millions of people who died during the war.
+* Omits the fact that the project is organised by the Woodland Trust.
 
-4. The summary states that the project is one of the trust's most ambitious planting programmes, but the article does not mention this. Instead, it states that the trust is inviting local people and visitors to the Faughan Valley to "get involved and to make a mark on history through the simple act of tree planting".
-
-5. The summary states that the aim of the project is to plant "millions" of native UK trees, but the article does not mention this. Instead, it states that the aim of the project is to plant 40,000 trees in tribute to the estimated 40,000 people from the island of Ireland who lost their lives in the conflict.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+Overall, the summary does not accurately reflect the content of the article.
 
 ###Corrected:

@@ -1,39 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tire changer todd phillips was injuried when he was struck by the car of francesco dracone during the inaugural indycar grand prix of louisiana on sunday . 
-dracone had come in on lap 25 for tires and fuel and spun while exiting his put box . 
-phillip was taken to the infield care center where he has received stitches for a cut on his leg and has been released . 
-
-    Article: 
-    a pit crew member was hit by a car on sunday during the inaugural indycar grand prix of louisiana .
+<Article>
+a pit crew member was hit by a car on sunday during the inaugural indycar grand prix of louisiana .
 todd phillips , a front-outside tire changer for dayle coyne racing , was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel .
 dracone spun while exiting his put box , clipping phillips ' leg .
 tire changer todd phillips , a front-outside tire changer for dayle coyne racing , was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel
 phillips was taken to the infield care center for treatment where he has received stitches for a cut on his leg and has been released .
 many cars struggled with traction during the race after rain had fallen for hours leading up to the green flag .
 dracone did not finish the race and wound up 23rd .
-francesco dracone ( 19 ) , of italy , spins out on turn one during the indycar grand prix of louisiana auto race in avondale on sunday 
+francesco dracone ( 19 ) , of italy , spins out on turn one during the indycar grand prix of louisiana auto race in avondale on sunday
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+tire changer todd phillips was injuried when he was struck by the car of francesco dracone during the inaugural indycar grand prix of louisiana on sunday . 
+dracone had come in on lap 25 for tires and fuel and spun while exiting his put box . 
+phillip was taken to the infield care center where he has received stitches for a cut on his leg and has been released .
+</Summary>
 
-1. The summary states that Todd Phillips was injured when he was struck by the car of Francesco Dracone during the inaugural IndyCar Grand Prix of Louisiana on Sunday.
+Explain your reasoning step by step:[/INST]
 
-2. However, the article does not mention that Todd Phillips was struck by the car of Francesco Dracone. Instead, it states that Phillips was hit by the car driven by Dracone while he was exiting his pit box.
-
-3. The summary also states that Dracone had come in on lap 25 for tires and fuel, but the article does not mention this detail.
-
-4. The article states that Dracone spun out while exiting his pit box, clipping Phillips' leg, but the summary does not mention this detail.
-
-5. The summary states that Phillips was taken to the infield care center for treatment and received stitches for a cut on his leg, but the article does not mention this detail.
-
-6. The article states that many cars struggled with traction during the race after rain had fallen for hours leading up to the green flag, but the summary does not mention this detail.
-
-7. The summary states that Dracone did not finish the race and wound up 23rd, but the article does not mention this detail.
-
-8. Therefore, the summary is not consistent with the article because it contains several inaccuracies and omissions.
+1. The summary states that Todd Phillips was injured when he was struck by the car of Francesco Dracone.
+2. However, the article states that Dracone spun while exiting his pit box, clipping Phillips' leg.
+3. The summary does not mention that Dracone spun out or clipped Phillips' leg, only that he struck Phillips' leg.
+4. The article also mentions that many cars struggled with traction during the race due to rain, but the summary does not include this information.
+5. Therefore, the summary is not consistent with the article because it does not accurately describe the events leading to Phillips' injury and omits important information about the race conditions.
 
 ###Corrected:

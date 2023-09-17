@@ -1,23 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    three people have been rescued from a burning boat off a river in the firth of forth, scotland. 
-
-    Article: 
-    The boat is understood to have capsized in the Durris area, at Craiglug.
+<Article>
+The boat is understood to have capsized in the Durris area, at Craiglug.
 The Scottish Fire and Rescue Service initially said one of the three - believed to be teenagers - made it ashore, and efforts were being made to reach the other two who were stranded on an island in the river.
 They were later rescued by boat.
-The alert was raised shortly after 13:45. 
+The alert was raised shortly after 13:45.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+three people have been rescued from a burning boat off a river in the firth of forth, scotland.
+</Summary>
 
-1. The summary states that the boat was in the Firth of Forth, but the article states that the boat capsized in the Durris area, which is not in the Firth of Forth. The Firth of Forth is a larger body of water that connects the North Sea to the River Forth, while the Durris area is a specific location within the River Forth.
-2. The summary states that three people were rescued from the burning boat, but the article only mentions two people who were rescued. The article does mention that efforts were being made to reach the third person who was stranded on an island in the river, but it does not confirm that they were successfully rescued.
-3. The summary states that the alert was raised "shortly after 13:45," but the article does not provide a specific time for when the alert was raised.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-Therefore, based on these discrepancies, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that three people were rescued from a burning boat off a river in the Firth of Forth, Scotland.
+2. The article states that the boat capsized in the Durris area, at Craiglug, and that the three people were stranded on an island in the river.
+3. The article does not mention that the boat was burning.
+4. Therefore, the summary is not consistent with the article because it mentions a burning boat, which is not present in the article.
+
+So, the reason why the summary is not consistent with the article is that it includes the detail of the boat being on fire, which is not supported by the article.
 
 ###Corrected:

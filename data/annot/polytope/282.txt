@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    developers at open garden have built a small device designed to make these off-the-grid networks stronger .
+<Article>
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
-now developers at open garden have built greenstone - a small egg-shaped gadget that acts like a beacon , or a booster . 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -55,17 +50,23 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+developers at open garden have built a small device designed to make these off-the-grid networks stronger .
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+now developers at open garden have built greenstone - a small egg-shaped gadget that acts like a beacon , or a booster .
+</Summary>
 
-1. The summary states that Greenstone is a small device that makes off-grid networks stronger, while the article states that Greenstone is an egg-shaped gadget that acts as a beacon or booster to help messages move around so-called wireless mesh networks more easily.
-2. The summary does not mention that Greenstone is still under development and only currently works with FireChat at a range of around 20ft (6 meters).
-3. The summary does not mention that Greenstone has a one-year battery life and can hold up to 1,000 of the most recent messages.
-4. The summary states that Greenstone has been designed to solve the limitations of how far a message can travel in the current wireless mesh network, while the article states that Greenstone has been designed to plus these gaps.
-5. The summary mentions that Greenstone can be placed in certain locations at music festivals, organized protests, football matches, and other events where having large numbers of people can crash networks, while the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide an accurate representation of the article's content and focuses more on the potential uses of Greenstone, while the article provides more details about the technical aspects of Greenstone and its current limitations.
+1. The summary states that "developers at open garden have built a small device designed to make these off-the-grid networks stronger." However, the article does not mention anything about a device that strengthens off-the-grid networks. Instead, it talks about Greenstone, a small egg-shaped gadget that acts as a beacon or booster to help messages move around so-called wireless mesh networks more easily.
+2. The summary also states that the firechat app paved the way for chatting to friends without the need for the web or even a mobile signal. While the article does mention the firechat app, it does not mention anything about paving the way for chatting without a need for the web or mobile signal.
+3. The summary does not mention anything about Greenstone being under development and only currently working with firechat at a range of around 20ft (6 meters).
+4. The summary does not mention anything about the device having a one-year battery life or being able to hold up to 1,000 of the most recent messages.
+5. The summary does not mention anything about Open Garden working with manufacturers to design and sell Greenstone, or the timeframe depending on these partnerships.
+
+Therefore, the summary is not consistent with the article. It does not accurately convey the information or features of Greenstone and the firechat app.
 
 ###Corrected:

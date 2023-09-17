@@ -1,28 +1,32 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s double olympic champion nicola adams will face mexico\'s maryan salazar in leeds on saturday. 
-
-    Article: 
-    The fight, Adams' second as a professional and first in her home city for 20 years, will be over four three-minute rounds, rather than the usual two-minute rounds for women.
+<Article>
+The fight, Adams' second as a professional and first in her home city for 20 years, will be over four three-minute rounds, rather than the usual two-minute rounds for women.
 The flyweight voiced her frustration with two-minute rounds after beating Virginia Carcamo last month.
 Salazar, 18, has lost once in six professional contests.
 Adams, 34, says the extra minute in each round will give her a chance to try out things she has learnt in the gym.
 She said: "I had two minutes to find my rhythm, distance and take out my opponent. It's not enough time.
 "I found, by the end of the rounds, I needed a couple more seconds and it would be over.
 "Now we have three minutes, I'm able to relax more, establish the jab, find the rhythm properly and really get in the swing of things."
-On the same card, WBC international featherweight champion Josh Warrington defends his title against Spain's Kiko Martinez. 
+On the same card, WBC international featherweight champion Josh Warrington defends his title against Spain's Kiko Martinez.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistency in the summary. Here's my reasoning step by step:
+<Summary>
+britain\'s double olympic champion nicola adams will face mexico\'s maryan salazar in leeds on saturday.
+</Summary>
 
-1. The summary states that Nicola Adams will face Maryan Salazar in Leeds on Saturday.
-2. The article does not mention Maryan Salazar as Adams' opponent. Instead, it mentions Kiko Martinez as Josh Warrington's opponent.
-3. The article does mention that Adams will fight in Leeds on Saturday, but it does not mention her opponent's name.
-4. Therefore, the summary is not consistent with the article because it names a different opponent for Adams than the one mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-The inconsistency is in the summary's statement that Adams will face Maryan Salazar, when in fact, the article does not mention Salazar as Adams' opponent.
+1. The summary states that the fight will be between Britain's Nicola Adams and Mexico's Maryan Salazar, but the article does not mention anything about Salazar being from Mexico.
+2. The article states that the fight will be over four three-minute rounds, while the summary only mentions two three-minute rounds.
+3. The article quotes Adams as saying that she needs more time in each round to find her rhythm and establish her jab, but the summary does not include this information.
+
+Therefore, the summary is not consistent with the article because it:
+
+* Falsely claims that Salazar is from Mexico.
+* Omits the detail that the fight will be over four three-minute rounds.
+* Does not include Adams' quote about needing more time in each round.
 
 ###Corrected:

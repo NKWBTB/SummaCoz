@@ -1,25 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    oscar-winning actor james nyong \'o has confirmed he is returning to star in star wars: the force awakens. 
-
-    Article: 
-    He told The Hollywood Reporter he was "super excited" and wanted "to put a different spin on it", but did not expand on what role he would play.
+<Article>
+He told The Hollywood Reporter he was "super excited" and wanted "to put a different spin on it", but did not expand on what role he would play.
 The film will see Jordan reunite with his Creed director Ryan Coogler.
 "I'm looking forward to working with Ryan once again. It's gonna be a good time," he said.
 He added he could not wait to work with Nyong'o, who won a best supporting actress Oscar for 12 Years a Slave in 2014, as well as Chadwick Boseman - who is currently on the big screen playing Black Panther in Captain America: Civil War.
 Jordan played the Human Torch in last year's Fantastic Four flop reboot.  Nyong'o also played CGI character Maz Kanata in Star Wars: The Force Awakens.
-Black Panther will be released in February 2018. 
+Black Panther will be released in February 2018.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+oscar-winning actor james nyong \'o has confirmed he is returning to star in star wars: the force awakens.
+</Summary>
 
-1. The summary states that James Nyong'o is returning to star in Star Wars: The Force Awakens, but the article does not mention anything about him returning to the franchise. Instead, it mentions that he played a CGI character in the previous film, Maz Kanata.
-2. The summary mentions that Jordan will be working with Nyong'o and Chadwick Boseman, but the article only mentions Nyong'o as someone Jordan is looking forward to working with.
-3. The summary states that Jordan played the Human Torch in a Fantastic Four reboot, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains information that is not present in the article, and omits other information that is present in the article. Therefore, the summary is not consistent with the article.
+1. The summary states that James Nyong'o is returning to star in Star Wars: The Force Awakens.
+2. However, the article states that Nyong'o played a CGI character named Maz Kanata in Star Wars: The Force Awakens.
+3. The summary implies that Nyong'o is returning to star in the film, which is not consistent with the article, as she has already appeared in the film as a CGI character.
+4. Therefore, the summary is not consistent with the article, and the reason for this inconsistency is that the summary incorrectly states that Nyong'o is returning to star in the film, when in fact she has already appeared in the film as a CGI character.
 
 ###Corrected:

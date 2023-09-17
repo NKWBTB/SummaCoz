@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former world champion williamson norfolk says she is ``lucky to be alive\'\'after suffering a serious neck injury in a motorbike crash. 
-
-    Article: 
-    The 22-year-old fractured her neck and back, dislocated her pelvis and slipped a disc in her neck after colliding with Elis Ligtlee during the omnium final.
+<Article>
+The 22-year-old fractured her neck and back, dislocated her pelvis and slipped a disc in her neck after colliding with Elis Ligtlee during the omnium final.
 Norfolk's Williamson spent four weeks in hospital after January's accident.
 "They were pretty sure paralysis was going to be the outcome while I was in Rotterdam, but luckily I pulled through," she told BBC Look East.
 "Being an athlete, I think they said because my neck and back were so strong I was able to withstand the force.
@@ -17,21 +14,19 @@ Racing at the event was cancelled after the 2013 World Championships bronze meda
 Williamson hopes to be back "easy riding" on a bike by the end of the summer and says she has the right support around her to make a full recovery.
 Media playback is not supported on this device
 "I'm going to get back on a bike eventually," she added. "I've got no timescale yet, but I don't know what level I'll be able to get to. I'll give it a good go.
-"I've got the full support team behind me, I've got physios, doctors. We've got the world's best. At the end of the day, we're a great programme, so I've got every chance of getting back to where I was." 
+"I've got the full support team behind me, I've got physios, doctors. We've got the world's best. At the end of the day, we're a great programme, so I've got every chance of getting back to where I was."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+former world champion williamson norfolk says she is ``lucky to be alive\'\'after suffering a serious neck injury in a motorbike crash.
+</Summary>
 
-1. The summary states that Williamson says she is "lucky to be alive" after suffering a serious neck injury, but in the article, she says she is lucky that her spinal cord stayed intact and she is here to live another day.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention that Williamson fractured her neck and back, dislocated her pelvis, and slipped a disc in her neck, which are all mentioned in the article.
-
-3. The summary states that racing at the event was cancelled after Williamson's crash, but the article does not mention this.
-
-4. The summary quotes Williamson as saying "I have no memories, which is probably pretty good", but the article does not mention this quote.
-
-5. The summary states that Williamson hopes to be back "easy riding" on a bike by the end of the summer, but the article does not mention this.
-
-Overall, the summary does not accurately reflect the information in the article, and some of the quotes and details are not present in the article.
+1. The summary states that Williamson is "lucky to be alive" after suffering a serious neck injury in a motorbike crash.
+2. However, the article states that Williamson fractured her neck and back, dislocated her pelvis, and slipped a disc in her neck, but she did not die.
+3. Therefore, the statement in the summary that Williamson is "lucky to be alive" is not consistent with the article, as she did not die in the crash.
+4. Additionally, the article does not mention anything about a motorbike crash, only that Williamson was injured in a crash during the omnium final at a velodrome.
+5. Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
 
 ###Corrected:

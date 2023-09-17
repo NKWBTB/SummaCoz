@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the story of game of game of thrones has gone on display at the top of the uk box office. 
-
-    Article: 
-    However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
+<Article>
+However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
 Some of the actors were warned that they wouldn't be able to shake off their sulky, angry, teen characters.
 But when you look at the careers of Dev Patel and Jack O'Connell for example, they couldn't have been more wrong.
 Kaya Scodelario was one of the longest-serving members of the cast, appearing in series one to four as Effy Stonem.
@@ -37,22 +34,20 @@ Piers Wenger is the head of drama at Channel 4 and he thinks it was the opportun
 "It is extraordinary, in the past soap operas had been the sort of places where young people had been able to do their first job.
 "That would have been your only break, but time's are changing.
 "I think thanks to shows like Skins, unconventional approaches to casting are becoming more and more common."
-Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube 
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+the story of game of game of thrones has gone on display at the top of the uk box office.
+</Summary>
 
-Step 1: Identify the summary and the article
-The summary is: "the story of game of game of thrones has gone on display at the top of the uk box office."
-The article is: "However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up. Some of the actors were warned that they wouldn't be able to shake off their sulky, angry, teen characters. But when you look at the careers of Dev Patel and Jack O'Connell for example, they couldn't have been more wrong."
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Step 2: Identify the inconsistency
-The inconsistency is that the summary mentions "game of game of thrones" which is not present in the article. The article only mentions "Game of Thrones" once.
+1. The summary mentions "Game of Thrones," but the article does not.
+2. The summary talks about the cast of Skins finding success in Hollywood, but the article does not mention anything about the cast of Skins.
+3. The summary mentions the top of the UK box office, but the article does not mention anything about the UK box office or the success of any movies.
 
-Step 3: Analyze the reason for the inconsistency
-The reason for the inconsistency is that the summary is not accurately representing the content of the article. The article is discussing the success of the cast of the TV show "Skins," not "Game of Thrones."
-
-Step 4: Conclude
-Therefore, the summary is not consistent with the article because it mentions "game of game of thrones" which is not present in the article. The article is actually discussing the success of the cast of "Skins," not "Game of Thrones."
+Based on these differences, it is clear that the summary is not consistent with the article. It appears to be a summary of a different article or topic altogether.
 
 ###Corrected:

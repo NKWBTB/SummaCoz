@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    james haskell posted the photo on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
-the london wasps captain joined in on the show as he posted the picture on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' . 
-
-    Article: 
-    with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
+<Article>
+with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
 the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
 and the london wasps captain joined in on the hype as he posted the photo dressed as downey jr. 's character iron man .
 england flanker james haskell dressed in iron man costume and posted it on his instagram page
@@ -21,16 +17,19 @@ four months in japan with the rams and haskell was on the move again when he swi
 however , he made only 12 appearances and returned to england in 2012 .
 since returning to wasps , haskell has surpassed the 100 appearances mark for the club and has become a big part of the england squad with 57 caps to-date .
 haskell has played his rugby in france , japan and new zealand after leaving the wasps in 2009
-since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps 
+since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+james haskell posted the photo on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
+the london wasps captain joined in on the show as he posted the picture on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
+</Summary>
 
-1. The summary states that James Haskell posted the photo on Thursday, but the article states that he posted it on Tuesday.
-2. The summary states that the London Wasps captain joined in on the show, but the article does not mention anything about the London Wasps captain.
-3. The summary states that James Haskell dressed as Iron Man, but the article only mentions that he posted a photo of himself in an Iron Man costume.
-4. The summary states that the photo was posted on Thursday along with the message "Avengers movie is out so thought I would release the inner Iron Man", but the article does not mention any message or caption accompanying the photo.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important details that are present in the article.
+1. The summary states that James Haskell posted a picture of himself as Iron Man on Thursday, along with the message "Avengers movie is out so thought I would release the inner Iron Man."
+2. However, the article does not mention James Haskell posting any pictures or messages related to the Avengers or Iron Man.
+3. The article only mentions that James Haskell is a rugby player who has played for several clubs, including the London Wasps, and has represented England in international rugby.
+4. Therefore, the summary is not consistent with the article, as it mentions James Haskell posting a picture as Iron Man, which is not supported by the information in the article.
 
 ###Corrected:

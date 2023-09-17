@@ -1,27 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a leicestershire retail park is to get an injection of investment after being purchased by the crown estate. 
-
-    Article: 
-    Fosse Park, near junction 21 of the M1, opened in 1989 and was bought in August for Â£345.5m.
+<Article>
+Fosse Park, near junction 21 of the M1, opened in 1989 and was bought in August for Â£345.5m.
 Plans are now being prepared to improve parking and traffic congestion and the appearance of units.
 Ernie White, leader of Blaby District Council, said the new owners had met with the council to clear up "potential planning questions".
 "Fosse Park is the gateway from Blaby into the city and they see it as an investment that they think they can improve," said Mr White.
 "I think it could be a better view when you come into the city, at the moment all you see are far too many backs of sheds."
 Paul Clarke, director of investments at Crown Estates, said: "Two things we want to address are parking and congestion issues around the park and we believe it has become rather tired over the last few years.
-"We are very concerned to address the quality of what we call the common areas - where people have to walk and park - and the facilities available to make sure a location like Fosse Park is as good as it can be." 
+"We are very concerned to address the quality of what we call the common areas - where people have to walk and park - and the facilities available to make sure a location like Fosse Park is as good as it can be."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a leicestershire retail park is to get an injection of investment after being purchased by the crown estate.
+</Summary>
 
-1. The summary states that the Crown Estate purchased Fosse Park for £345.5m and plans to improve parking, traffic congestion, and the appearance of units.
-2. However, the article does not mention anything about the Crown Estate purchasing Fosse Park. Instead, it states that the park was bought in August for £345.5m, but does not specify who the buyer was.
-3. The article does mention that the new owners have met with Blaby District Council to discuss "potential planning questions," but it does not mention the Crown Estate as the owner.
-4. Therefore, the summary is not consistent with the article because it attributes the purchase of Fosse Park to the Crown Estate, when in fact the article does not specify who the buyer was.
+Explain your reasoning step by step:[/INST]
 
-I hope that helps! Let me know if you have any further questions.
+1. The summary states that the Crown Estate has purchased a retail park in Leicestershire and will be investing in it.
+2. However, the article states that the Crown Estate has purchased Fosse Park, a shopping centre near Leicester, not a retail park.
+3. The summary does not mention anything about the Crown Estate's plans to improve parking and traffic congestion, or the appearance of units, which are mentioned in the article.
+4. The summary does not mention the name of the shopping centre, Fosse Park, which is mentioned in the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately describe the details of the purchase and the Crown Estate's plans for the shopping centre. The summary is too general and does not provide specific information about the location or the investment plans.
 
 ###Corrected:

@@ -1,30 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been killed in a crash on the m4 in berkshire, south wales police has said. 
-
-    Article: 
-    Avon and Somerset Police closed the Lower Bristol Road in Bath at Rackfield Place outside the First depot after the crash at 03:00 GMT.
+<Article>
+Avon and Somerset Police closed the Lower Bristol Road in Bath at Rackfield Place outside the First depot after the crash at 03:00 GMT.
 The A36 road closure, which was lifted at 14:00 GMT, had caused disruption and delays to commuters and bus services during rush hour.
 Investigations are under way into how the collision happened.
 Local Live has all the latest travel news
 First said that while parts of its services had resumed a normal schedule, it would take a few hours for all services to return to normal.
 Managing director James Freeman said: "We are hoping we will have a full service running in time for the evening commute.
-"We would like to thank the public for their support and understanding and staff for going beyond their call of duty to help manage the situation and recovery." 
+"We would like to thank the public for their support and understanding and staff for going beyond their call of duty to help manage the situation and recovery."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been killed in a crash on the m4 in berkshire, south wales police has said.
+</Summary>
 
-1. The summary states that the crash occurred on the M4 in Berkshire, but the article does not mention the M4 or Berkshire.
-2. The summary states that a man was killed in the crash, but the article does not mention any fatalities.
-3. The summary mentions South Wales Police, but the article only mentions Avon and Somerset Police.
-4. The summary mentions the Lower Bristol Road in Bath being closed, but the article only mentions the A36 road being closed.
-5. The summary states that the crash occurred at 03:00 GMT, but the article does not mention a specific time for the crash.
-6. The summary mentions that investigations are underway, but the article only mentions that the road closure had caused disruption and delays to commuters and bus services during rush hour.
-7. The summary mentions First Bus services being affected, but the article only mentions that Avon and Somerset Police closed the A36 road.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The article states that the incident occurred on the A36 road in Bath, while the summary claims that the incident occurred on the M4 in Berkshire. This is a clear inconsistency as the M4 is located in a different location and is not mentioned in the article.
+2. The article states that the incident occurred at 03:00 GMT and the road was closed until 14:00 GMT, while the summary does not mention any specific time or road closure.
+3. The article mentions that investigations are underway into how the collision happened, while the summary does not provide any information about the cause of the incident.
+4. The article mentions that First Bus services were affected by the incident, while the summary does not mention anything about bus services.
+5. The article quotes a managing director of First, James Freeman, while the summary does not provide any quotes or information about the people involved in the incident.
+
+Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and was likely written based on incomplete or inaccurate information.
 
 ###Corrected:

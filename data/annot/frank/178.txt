@@ -1,24 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ireland ran in nine tries as they beat afghanistan in the final of the first twenty20 international in afghanistan. 
+<Article>
+Opener Stuart Thompson hit 56 while Gary Wilson (41 no) and captain William Porterfield (39) added valuable runs as Ireland made 165-5 in Greater Noida.It was not enough with Samiullah Shenwari (56) and Mohammad Shahzad (47) helping the Afghans to 171-4 with two overs to spare.The sides meet again in the second T20 at the same venue on Friday.Ireland suffered an early blow when opener Paul Stirling was dismissed for a duck and with just one run on the board.Thompson and Porterfield steadied the innings before Wilson helped the Irish to a competitive total.Shahzad and Najeeb Tarakai (27) put on an opening stand of 51 as Afghanistan cruised to their victory target.Afghan spinner Amir Hamza (2-23) was the only bowler to take more than one wicket on a day when the bat dominated."We fell a little bit short of potentially a very big score. We could have added another 15 and gotten up to the 180 we were looking for," said Porterfield."As well as we played I thought we just came up short with the ball. We didn't quite execute things as well as we would have liked."The loss of paceman Boyd Rankin for the T20s, because of a back problem, was another setback for the Irish on Wednesday.Rankin is expected to return for the five ODIs against Afghanistan, starting on 15 March.
+</Article>
 
-    Article: 
-    Opener Stuart Thompson hit 56 while Gary Wilson (41 no) and captain William Porterfield (39) added valuable runs as Ireland made 165-5 in Greater Noida.It was not enough with Samiullah Shenwari (56) and Mohammad Shahzad (47) helping the Afghans to 171-4 with two overs to spare.The sides meet again in the second T20 at the same venue on Friday.Ireland suffered an early blow when opener Paul Stirling was dismissed for a duck and with just one run on the board.Thompson and Porterfield steadied the innings before Wilson helped the Irish to a competitive total.Shahzad and Najeeb Tarakai (27) put on an opening stand of 51 as Afghanistan cruised to their victory target.Afghan spinner Amir Hamza (2-23) was the only bowler to take more than one wicket on a day when the bat dominated."We fell a little bit short of potentially a very big score. We could have added another 15 and gotten up to the 180 we were looking for," said Porterfield."As well as we played I thought we just came up short with the ball. We didn't quite execute things as well as we would have liked."The loss of paceman Boyd Rankin for the T20s, because of a back problem, was another setback for the Irish on Wednesday.Rankin is expected to return for the five ODIs against Afghanistan, starting on 15 March. 
+<Summary>
+ireland ran in nine tries as they beat afghanistan in the final of the first twenty20 international in afghanistan.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Ireland ran in nine tries, but the article does not mention anything about Ireland scoring tries. In fact, the article only mentions runs scored by Ireland and Afghanistan.
-2. The summary states that Ireland beat Afghanistan in the final of the first Twenty20 international, but the article does not mention a final or any mention of the match being the final of a series.
-3. The summary states that Ireland made 165-5, but the article states that Ireland made 165-5 in Greater Noida.
-4. The summary states that Afghanistan made 171-4, but the article states that Afghanistan made 171-4 with two overs to spare.
-5. The summary states that Samiullah Shenwari (56) and Mohammad Shahzad (47) helped the Afghans to 171-4, but the article states that Shahzad and Najeeb Tarakai (27) put on an opening stand of 51 as Afghanistan cruised to their victory target.
-6. The summary states that Amir Hamza (2-23) was the only bowler to take more than one wicket, but the article states that Amir Hamza (2-23) was the only bowler to take more than one wicket on a day when the bat dominated.
-7. The summary states that the loss of paceman Boyd Rankin for the T20s, because of a back problem, was another setback for the Irish on Wednesday, but the article does not mention anything about Boyd Rankin or his availability for the T20s or ODIs.
+1. The summary states that Ireland ran in nine tries, which is not supported by the article. The article mentions that Ireland made 165-5 in Greater Noida, but there is no mention of nine tries.
+2. The article states that Afghanistan won the match, not Ireland. The summary is incorrect in stating that Ireland won the match.
+3. The article mentions that Ireland lost the match due to not executing things well with the ball, but the summary does not mention this.
+4. The article mentions that Afghanistan's Samiullah Shenwari and Mohammad Shahzad scored 56 and 47 runs respectively, but the summary does not mention this.
 
-Therefore, based on these inconsistencies, it is clear that the provided summary is not consistent with the article.
+Therefore, the summary is not consistent with the article and contains several inaccuracies.
 
 ###Corrected:

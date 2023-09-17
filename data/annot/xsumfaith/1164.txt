@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the white house says president barack obama\'s plan to close the detention camp at guantanamo bay is " too dangerous ". 
-
-    Article: 
-    Josh Earnest said the closure of the Cuban detention camp was a national security interest.
+<Article>
+Josh Earnest said the closure of the Cuban detention camp was a national security interest.
 It was one of the first directives President Barack Obama ordered two months after he was elected in 2008.
 Inmates have slowly been transferred out and at the start of the year, 122 men were left.
 The peak population in 2003 was 684.
@@ -17,16 +14,19 @@ Since then, Congress bipartisan opposition has meant the transfer of prisoners t
 Some have been considered too dangerous to be released, but the US holds no evidence that can be used in civilian or military trials against them.
 The US has slowly been sending prisoners back to their home countries or to third countries, a process Mr Earnest said needs to continue if the facility is to shut.
 The camp was established in 2002 by the Bush administration to detain the most dangerous suspects for interrogation and the prosecution of war crimes.
-Controversy has centred around the period of time detainees have been held without charge and the use of interrogation techniques. 
+Controversy has centred around the period of time detainees have been held without charge and the use of interrogation techniques.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the white house says president barack obama\'s plan to close the detention camp at guantanamo bay is " too dangerous ".
+</Summary>
 
-1. The summary states that the White House says President Barack Obama's plan to close the detention camp at Guantanamo Bay is "too dangerous." However, the article does not mention anything about the plan being too dangerous. Instead, it highlights the administration's priority to safely and responsibly close the prison and presents it as a national security interest.
-2. The summary implies that the closure of the detention camp is not a priority for the administration, but the article states that it has been a priority for the president since his election in 2008 and that national security officials have been working on a plan to close it for quite some time.
-3. The summary mentions that Congress has bipartisan opposition to the transfer of prisoners to the US, but the article does not mention this. Instead, it states that the US has been slowly sending prisoners back to their home countries or to third countries.
-4. The summary refers to the detention camp as a "counter-terrorism facility," but the article does not use this term. It simply calls it a "prison" or "detention camp."
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents a negative view of the administration's plan to close the detention camp, while the article presents it as a national security interest and a priority for the president. Additionally, the summary includes information that is not present in the article, such as Congress's opposition to the transfer of prisoners.
+1. The article states that the White House has been working on a plan to safely and responsibly close the prison at Guantanamo Bay, and that this has been a priority of the President.
+2. The article also states that the administration has been unable to close the prison due to bipartisan opposition in Congress.
+3. However, the summary states that the White House says President Barack Obama's plan to close the detention camp at Guantanamo Bay is "too dangerous".
+4. This is not supported by the article, as there is no mention of the plan being too dangerous. Instead, the article states that the administration has been unable to close the prison due to opposition in Congress.
+5. Therefore, the summary is not consistent with the article, as it presents a statement that is not supported by the information in the article.
 
 ###Corrected:

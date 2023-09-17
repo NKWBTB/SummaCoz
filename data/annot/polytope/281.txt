@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stuart lancaster must be free to pick his best players , no matter where in the world they are playing overseas .
-the world cup is simply about the world’s best coming together and ridiculous rules like this demean it .
-toulon’s steffon armitage came off the bench against leinster on sunday . 
-
-    Article: 
-    congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+<Article>
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
 it leaves england looking old-fashioned and they need to react .
 stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
 if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
@@ -44,17 +39,22 @@ you simply ca n't let the rfu or premier rugby tie your hands behind your back a
 at toulon , they 've got bryan habana playing for south africa and leigh halfpenny playing for wales .
 they 're among the best players in the world .
 it 's just crazy and misguided not to make any englishman available for selection .
-bryan habana plays for toulon but the springboks have continued to select the winger for test matches 
+bryan habana plays for toulon but the springboks have continued to select the winger for test matches
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+stuart lancaster must be free to pick his best players , no matter where in the world they are playing overseas .
+the world cup is simply about the world’s best coming together and ridiculous rules like this demean it .
+toulon’s steffon armitage came off the bench against leinster on sunday .
+</Summary>
 
-1. The summary states that Stuart Lancaster should be free to pick his best players, regardless of where they are playing, while the article argues that England should select players based on their form and not penalize them for playing overseas.
-2. The summary suggests that the policy of not selecting overseas players is "ridiculous" and demeans the World Cup, while the article presents a more balanced view, acknowledging that the policy is not ideal but is necessary to ensure the success of the English team.
-3. The summary implies that the English players should be selected based on their talent alone, without considering their club affiliation, while the article argues that the coach should consider both form and club loyalty when selecting the team.
-4. The summary mentions Steffon Armitage as an example of a player who has improved since moving overseas, while the article does not mention Armitage and instead focuses on the example of Jonny Wilkinson, who moved to France and became better.
-5. The summary states that the coach will be judged on their World Cup performance and selecting the best starting XV is the first thing they need to get right, while the article emphasizes the importance of considering both form and club loyalty when selecting the team.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary presents a more extreme view that is not fully supported by the article, which presents a more balanced perspective on the issue of selecting overseas players for the English team.
+1. The summary states that Stuart Lancaster must be free to pick his best players, no matter where they are playing overseas. However, the article states that Lancaster has remained steadfast in his policy not to select overseas players.
+2. The summary mentions the World Cup and how ridiculous rules like not selecting overseas players demean it. However, the article does not mention the World Cup.
+3. The summary mentions Steffon Armitage coming off the bench against Leinster on Sunday. However, the article does not mention Armitage or any specific players.
+
+Therefore, the summary is not consistent with the article. It appears to be a summary of a different article or a different point of view altogether.
 
 ###Corrected:

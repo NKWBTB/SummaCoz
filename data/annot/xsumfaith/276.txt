@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the head of the international community in jordan has urged the international community to help tackle the ``crisis crisis\'\'in syria. 
-
-    Article: 
-    Mohammad Thneibat said countries such as Jordan faced a "serious problem" in coping with so many young refugees.
+<Article>
+Mohammad Thneibat said countries such as Jordan faced a "serious problem" in coping with so many young refugees.
 He called for more international financial support to help build schools and train teachers.
 "The alternatives are very bad," said Mr Thneibat.
 "The international community will pay a high price if we don't stand together to face this serious problem," he told the Global Education and Skills Forum.
@@ -23,16 +20,24 @@ Tom Fletcher, UK ambassador to Lebanon until last year, said the numbers of refu
 Mr Fletcher is now working for a coalition trying to get business support to tackle the refugee crisis.
 He said conventional humanitarian crisis approaches did not work on this scale, and that other groups, including business, should contribute.
 George Papendreou, former prime minister of Greece, told the conference that he had been a refugee when his family was in political exile.
-He said that European countries should try to see refugees as potential benefits to their societies rather than respond with "fear and ignorance". 
+He said that European countries should try to see refugees as potential benefits to their societies rather than respond with "fear and ignorance".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the head of the international community in jordan has urged the international community to help tackle the ``crisis crisis\'\'in syria.
+</Summary>
 
-1. The summary mentions a "crisis crisis" in Syria, but the article does not mention any such thing. Instead, the article focuses on the challenges faced by Jordan in accommodating a large number of Syrian refugees.
-2. The summary urges the international community to help tackle the "crisis crisis" in Syria, but the article does not mention any need for international intervention in Syria. Instead, the article emphasizes the need for more financial support for Jordan to cope with the influx of refugees.
-3. The summary mentions the head of the international community in Jordan, but there is no such person or position mentioned in the article.
-4. The summary mentions the international community paying a "high price" if they don't stand together to face the "serious problem" in Syria, but the article does not mention any such consequence. Instead, the article emphasizes the need for more financial support to help Jordan cope with the refugee crisis.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses on a different issue (a "crisis crisis" in Syria) and uses language that is not found in the article (e.g., "crisis crisis", "high price").
+1. The summary states that the head of the international community in Jordan has urged the international community to help tackle the "crisis crisis" in Syria.
+2. However, the article does not mention the head of the international community in Jordan urging the international community to help tackle the crisis in Syria. Instead, the article quotes Mohammad Thneibat, Jordan's education minister, as saying that Jordan is facing a "serious problem" in coping with the large number of young refugees from Syria and calling for more international financial support to help build schools and train teachers.
+3. Therefore, the summary is not consistent with the article because it misrepresents the content of the article and attributes a quote to a non-existent person.
+
+Step by step reasoning:
+
+1. The summary states that the head of the international community in Jordan has urged the international community to help tackle the "crisis crisis" in Syria.
+2. This statement is not supported by the article, which quotes Mohammad Thneibat, Jordan's education minister, as saying that Jordan is facing a "serious problem" in coping with the large number of young refugees from Syria and calling for more international financial support to help build schools and train teachers.
+3. The article does not mention the head of the international community in Jordan urging the international community to help tackle the crisis in Syria.
+4. Therefore, the summary is not consistent with the article because it misrepresents the content of the article and attributes a quote to a non-existent person.
 
 ###Corrected:

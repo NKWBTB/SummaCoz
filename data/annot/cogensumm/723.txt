@@ -1,22 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland international made an # 11million move from leeds in recent weeks. 
+<Article>
+Derby County have revived interest in Fulham's Ross McCormack. The Championship promotion hopefuls had made enquiries about signing Jordan Rhodes from Blackburn Rovers but the Ewood Park club's reluctance to deal has prompted fresh questions about McCormack. The Scotland international made an £11million move from Leeds in the summer but the move has backfired with Fulham falling perilously close to the relegation places in recent weeks. Fulham striker Ross McCormack battles with Bournemouth's Matt Ritchie during their clash at Craven Cottage . Fulham striker McCormack gets his shot away as Fulham take on Watford in the Championship . McCormack has been linked with a move to promotion hopefuls Derby County as Fulham stutter in the division . McCormack, 28, has still managed 12 goals in a struggling side and Derby are keen to see if Fulham will loan him with a view to a permanent deal should they go up. Fulham's form is poor with just three wins this year and they are unlikely to want to lose one of their best forwards. They have an eight point cushion between themselves and Wigan and plan a re-structure in the summer should they survive. Second-placed Derby face promotion rivals Norwich on Saturday. Jordan Rhodes (centre) was on the subs' bench for the duration of Blackburn's FA Cup match with Liverpool .
+</Article>
 
-    Article: 
-    Derby County have revived interest in Fulham's Ross McCormack. The Championship promotion hopefuls had made enquiries about signing Jordan Rhodes from Blackburn Rovers but the Ewood Park club's reluctance to deal has prompted fresh questions about McCormack. The Scotland international made an £11million move from Leeds in the summer but the move has backfired with Fulham falling perilously close to the relegation places in recent weeks. Fulham striker Ross McCormack battles with Bournemouth's Matt Ritchie during their clash at Craven Cottage . Fulham striker McCormack gets his shot away as Fulham take on Watford in the Championship . McCormack has been linked with a move to promotion hopefuls Derby County as Fulham stutter in the division . McCormack, 28, has still managed 12 goals in a struggling side and Derby are keen to see if Fulham will loan him with a view to a permanent deal should they go up. Fulham's form is poor with just three wins this year and they are unlikely to want to lose one of their best forwards. They have an eight point cushion between themselves and Wigan and plan a re-structure in the summer should they survive. Second-placed Derby face promotion rivals Norwich on Saturday. Jordan Rhodes (centre) was on the subs' bench for the duration of Blackburn's FA Cup match with Liverpool . 
+<Summary>
+scotland international made an # 11million move from leeds in recent weeks.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Scotland international made an £11million move from Leeds in recent weeks. However, the article does not mention anything about a player making an £11million move from Leeds.
-2. The article only mentions Fulham striker Ross McCormack, who made an £11million move from Leeds in the summer, but the move has backfired with Fulham falling perilously close to the relegation places in recent weeks.
-3. The summary does not mention anything about Fulham's poor form or their struggles in the division, which is a key point in the article.
-4. The article mentions that Fulham are unlikely to want to lose one of their best forwards, but the summary does not acknowledge this and instead suggests that Fulham are open to loaning McCormack with a view to a permanent deal should they go up.
-5. Finally, the article mentions that Fulham have an eight point cushion between themselves and Wigan, but the summary does not include this information.
+1. The summary states that Ross McCormack made an £11million move from Leeds in recent weeks.
+2. However, the article states that McCormack made an £11million move from Leeds in the summer, not in recent weeks.
+3. The article was written in the present tense, indicating that the information is current and up-to-date.
+4. Therefore, the summary is not consistent with the article because it provides outdated information about McCormack's transfer.
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the key points and details mentioned in the article.
+The correct summary should have read: "Ross McCormack made an £11million move from Leeds in the summer."
 
 ###Corrected:

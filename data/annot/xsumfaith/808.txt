@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans to build a power plant in the centre of hinkley point have been suspended by the government, the government has said. 
-
-    Article: 
-    French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
+<Article>
+French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
 Contracts were to be signed on Friday.
 But Business Secretary Greg Clark has said the government will "consider carefully" before backing it.
 EDF chief executive Vincent de Rivaz has cancelled a trip to Hinkley Point on Friday following Mr Clark's comments.
@@ -40,19 +37,21 @@ Jan 2006 - Government proposes nuclear as part of future energy mix
 Mar 2013 - Construction of Hinkley Point approved
 Oct 2013 - UK government agrees £92.50 per megawatt-hour will be paid for electricity produced at the Somerset site - around double the current market rate at the time
 Oct 2015 - EDF signs investment agreement with China General Nuclear Power Corporation (CGN)
-July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn. 
+July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+plans to build a power plant in the centre of hinkley point have been suspended by the government, the government has said.
+</Summary>
 
-1. The summary states that the government has suspended plans to build a power plant in the center of Hinkley Point, but the article states that the project has been approved by EDF's board and that the government will consider the project carefully.
-2. The summary mentions that the project has been hit by concerns about EDF's financial capacity, but the article does not mention this.
-3. The summary states that the project will provide 7% of the UK's total electricity requirement, but the article does not mention this.
-4. The summary mentions that the project has been hindered by many delays and uncertainties, but the article does not mention this.
-5. The summary states that the government's decision is a "high stakes bet", but the article does not mention this.
-6. The summary mentions that the project will be "terrible value for money" for British families, but the article does not mention this.
-7. The summary states that more investment is needed for renewable energy such as offshore wind, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the government has suspended plans to build a power plant in the center of Hinkley Point.
+2. However, the article states that EDF, the French firm financing the project, approved the funding at a board meeting, and contracts were to be signed on Friday.
+3. The article also mentions that the government has launched a further review of the project, but it does not state that the plans have been suspended.
+4. The summary does not provide any information about the review or the government's decision, it only states that the plans have been suspended.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the information provided in the article.
+
+The reason for this inconsistency is that the summary is not based on the information provided in the article. The article does not state that the plans have been suspended, but rather that EDF has approved the funding and contracts were to be signed. The summary is incorrect in stating that the plans have been suspended.
 
 ###Corrected:

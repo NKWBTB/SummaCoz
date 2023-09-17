@@ -1,31 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    redruth boss marek churcher says his side\'s front row have been key to the club\'s good form. 
-
-    Article: 
-    The Reds, who are fifth in National Two South, beat third-placed Chinnor 29-12 for a second win in a row.
+<Article>
+The Reds, who are fifth in National Two South, beat third-placed Chinnor 29-12 for a second win in a row.
 "Tommy Phillips, Ben Priddey and Craig Williams really led the team from the front," Churcher told BBC Cornwall.
 "If your front row and front five are making 70-plus tackles in a game you're going to be doing well and that's what happened against Chinnor."
 The Reds face seven teams who are below them in the table in their next eight games, as well as league leaders Old Elthamians.
 Churcher believes his side still has a lot of room for improvement, adding: "Chinnor wasn't the complete performance, but emotionally it was a really dogged performance.
-"We've got to build on what we did last weekend, because if we don't, last weekend will have been a waste of time." 
+"We've got to build on what we did last weekend, because if we don't, last weekend will have been a waste of time."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+redruth boss marek churcher says his side\'s front row have been key to the club\'s good form.
+</Summary>
 
-1. The summary states that the front row has been key to the club's good form, but the article does not support this claim.
+Explain your reasoning step by step:[/INST]
 
-2. The article actually highlights the performance of the front five, with special mention of Tommy Phillips, Ben Priddey, and Craig Williams, as the key to the team's success.
-
-3. The word "front row" is not mentioned in the article, and the emphasis is on the entire front five, not just the front row.
-
-4. Therefore, the summary is not consistent with the article, as it focuses solely on the front row while the article highlights the contributions of the entire front five.
-
-5. Additionally, the article does not support the idea that the front row has been key to the club's good form, as it mentions that the team still has room for improvement and that last week's performance was not a complete one.
-
-In conclusion, the summary is not consistent with the article because it overemphasizes the importance of the front row, while the article highlights the contributions of the entire front five and notes that the team still has room for improvement.
+1. The summary states that Redruth's front row has been key to the club's good form.
+2. However, the article does not mention the front row as a key factor in the team's performance.
+3. Instead, the article highlights the team's overall performance, with Churcher praising the team's tackling and effort.
+4. The article does mention the front five making 70-plus tackles, but this is not specifically focused on the front row.
+5. Therefore, the summary is not consistent with the article, as it singles out the front row as the key to the team's success, while the article emphasizes the team's overall performance.
 
 ###Corrected:

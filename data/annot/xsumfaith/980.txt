@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland\'s first minister\'s questions have been reacting to the transfer of scotland\'s conservative mp, philip salmond. 
-
-    Article: 
-    Presiding officer Tricia Marwick shed tears after veteran Labour MSP Duncan McNeil bid farewell to the parliament.
+<Article>
+Presiding officer Tricia Marwick shed tears after veteran Labour MSP Duncan McNeil bid farewell to the parliament.
 And she was again visibly emotional after Mr Salmond told the chamber: "It's goodbye from me... for now".
 Ms Marwick, Mr Salmond and Mr McNeil are among those standing down as MSPs ahead of the election on 5 May.
 Mr Salmond, who served as first minister between 2007 and 2014, used his valedictory address to repeat a belief he expressed in his very first speech in the parliament that Scotland was "not divided, but diverse".
@@ -27,18 +24,27 @@ He said: "It will be this parliament's responsibility to ensure there is account
 He recalled how former Labour MP Robin Cook came to Holyrood to look at the lessons that could be learned when it came to reforming Westminster.
 But Mr McNeil said: "It saddens me to say we now have to do a bit of learning from them and how they run their business."
 Former Scottish Conservative MSP Annabel Goldie is also bowing out of Holyrood.
-In her speech, she joked she would miss her dealings with Finance Secretary John Swinney, especially "his huge outbursts of faux indignation". 
+In her speech, she joked she would miss her dealings with Finance Secretary John Swinney, especially "his huge outbursts of faux indignation".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scotland\'s first minister\'s questions have been reacting to the transfer of scotland\'s conservative mp, philip salmond.
+</Summary>
 
-1. The summary states that the First Minister's questions were reacting to the transfer of Scotland's conservative MP, Philip Salmond, but there is no mention of this in the article.
-2. The summary mentions the First Minister's questions, but the article does not mention this topic at all.
-3. The summary states that the article is about the transfer of powers to Holyrood under the Scotland Bill, but the article does not mention the Scotland Bill.
-4. The summary mentions the Chancellor's UK budget, but the article does not mention this.
-5. The summary states that the former SNP leader joked that he wished everyone standing in the forthcoming election good luck, "albeit with varying degrees of enthusiasm", but the article does not mention the forthcoming election.
-6. The summary concludes by saying that the former SNP leader left the parliament with these final thoughts, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains several inaccuracies and omissions.
+1. The article states that Alex Salmond, the former First Minister of Scotland, is standing down as an MSP ahead of the election on 5 May.
+2. The summary states that Scotland's First Minister's questions have been reacting to the transfer of Scotland's conservative MP, Philip Salmond.
+
+Reasoning:
+
+The summary is not consistent with the article because there is no mention of the transfer of a conservative MP in the article. The article only mentions that Alex Salmond, the former First Minister of Scotland, is standing down as an MSP.
+
+Step by step explanation:
+
+* The article states that Alex Salmond is standing down as an MSP.
+* The summary states that Scotland's First Minister's questions have been reacting to the transfer of Scotland's conservative MP, Philip Salmond.
+* There is no mention of a conservative MP being transferred in the article.
+* Therefore, the summary is not consistent with the article.
 
 ###Corrected:

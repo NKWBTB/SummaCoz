@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scientists have discovered a new species of sheep in the middle of a number of years, but a new species of sheep is being developed in the uk and 
-
-    Article: 
-    "I'm feeling the joints for any kind of heat or swelling."
+<Article>
+"I'm feeling the joints for any kind of heat or swelling."
 Veterinary surgeon Dr Sandra Corr puts Daisy the sheep through a very hands-on physical examination.
 "I'm looking for any signs of crepitus or lameness," she says, "Anything that might indicate the onset of disease or osteoarthritis."
 But Daisy is not just any sheep. She's a clone. One of a flock of 13 cloned sheep currently living out their lives on a farm owned by the University of Nottingham, and one of only four (the others are Debbie, Denise and Diane) cloned from the same adult ewe as Dolly the sheep - the first cloned mammal born in 1996.
@@ -26,15 +23,23 @@ But by then Dolly was already suffering from osteoarthritis which, although not 
 Getting the answers to those questions has involved putting the dollies, and nine other sheep cloned from different cell lines, through an exhaustive battery of tests and assessments including regular joint X-rays and a series of full-body fMRI scans.
 Prof Sinclair said: "We focused on three co-morbidities: cardiovascular disease, diabetes and osteoarthritis - the three co-morbidities most associated with aging. Were these animals any different from the wider population of sheep with regard to these particular co-morbidities."
 The results of the study, which could have profound implications for the future of cloning, will be published next week. But for now, the dollies, which are approaching their ninth and tenth birthdays, seem to be in rude health.
-Follow Tom on Twitter. 
+Follow Tom on Twitter.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scientists have discovered a new species of sheep in the middle of a number of years, but a new species of sheep is being developed in the uk and
+</Summary>
 
-1. The summary mentions "a new species of sheep being developed in the UK," but the article does not mention anything about a new species of sheep. Instead, the article focuses on a flock of cloned sheep that were created using the same adult ewe as Dolly the sheep.
-2. The summary mentions "scientists discovering a new species of sheep," but the article does not use the word "discover" or any other language suggesting that the cloned sheep were newly discovered. Instead, the article states that the cloned sheep were created using a well-established cloning technique.
-3. The summary implies that the cloned sheep are being studied to determine if they age in a normal way and how healthy they are, but the article does not mention any specific studies or research on the sheep's aging process. Instead, the article focuses on the fact that the cloned sheep are approaching their ninth and tenth birthdays and seem to be in rude health.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it introduces new information that is not present in the article (a new species of sheep being developed in the UK) and emphasizes different aspects of the article (the cloned sheep's aging process) in a way that is not accurate.
+1. The article states that the sheep are clones of the original Dolly, who was the first cloned mammal born in 1996.
+2. The article mentions that the sheep are being studied to determine if they age in a normal way and if they are healthy.
+3. The article highlights that the cloning process involves extracting DNA from an adult animal, which raises concerns about the transfer of "age-memory" into the next generation.
+4. The article states that the study aims to determine if the cloned animals are more prone to diseases associated with aging, such as osteoarthritis.
+5. The summary states that scientists have discovered a new species of sheep in the UK.
+
+Reasoning:
+
+The summary is not consistent with the article because there is no mention of a new species of sheep in the article. Instead, the article focuses on the cloning of sheep and the study being conducted to determine the health and aging process of the cloned animals. The summary is incorrect and does not accurately represent the content of the article.
 
 ###Corrected:

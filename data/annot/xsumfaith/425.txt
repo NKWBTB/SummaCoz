@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bbc sport\'s football expert mark lawrenson is pitting his wits against a different guest for the copper box. 
-
-    Article: 
-    Coverage will be on BBC iPlayer and the BBC Sport website and app.
+<Article>
+Coverage will be on BBC iPlayer and the BBC Sport website and app.
 The two teams faced off in Patras, Greece, earlier this month, with European title contenders Greece running out winners, 92-64.
 Three members of that team will be missing at the Copper Box, however, offering GB a chance of revenge.
 "I think it's going to be amazing - I'm from Stratford so I love playing there [at the Copper Box]," said GB guard Teddy Okereafor.
@@ -16,25 +13,23 @@ The game will be Britain's only home game before they compete at FIBA EuroBasket
 After they play Greece, coach Joe Prunty's team travel to a four-team tournament in Poland, their last warm-up games before EuroBasket starts.
 (BST)
 17:30-19:30 - BBC iPlayer
-17:30-19:30 - BBC Sport website 
+17:30-19:30 - BBC Sport website
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+bbc sport\'s football expert mark lawrenson is pitting his wits against a different guest for the copper box.
+</Summary>
 
-Step 1: Identify the main points of the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary mentions that Mark Lawrenson is pitting his wits against a different guest for the Copper Box.
+1. The summary states that "bbc sport's football expert mark lawrenson is pitting his wits against a different guest for the copper box."
+2. However, the article does not mention anything about Mark Lawrenson or football. The article is about the GB women's basketball team playing against Greece at the Copper Box.
+3. Therefore, the summary is not consistent with the article.
 
-Step 2: Identify the main points of the article.
+Reasoning step by step:
 
-The article mentions that the GB team will be playing against Greece at the Copper Box, with three members of the team missing, and that the game is an important preparation for the EuroBasket tournament.
-
-Step 3: Identify the inconsistencies.
-
-The inconsistency is that the summary does not mention anything about the GB team playing against Greece or the fact that the game is a preparation for the EuroBasket tournament. Instead, it only mentions Mark Lawrenson and his guest.
-
-Step 4: Explain the reasoning.
-
-The summary is not consistent with the article because it does not provide any information about the GB team's opponent or the purpose of the game, which are the main points of the article. Instead, it focuses on Mark Lawrenson and his guest, which is not relevant to the article.
+1. The summary makes a specific claim about the content of the article, stating that Mark Lawrenson is involved in the Copper Box event.
+2. However, the article does not support this claim.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than 30 people have been killed after attackers dressed as doctors stormed the largest military hospital in kabul, afghan officials say. 
-
-    Article: 
-    Militants armed with guns and grenades gained entry after one detonated explosives at a hospital gate and then opened fire on staff and patients.
+<Article>
+Militants armed with guns and grenades gained entry after one detonated explosives at a hospital gate and then opened fire on staff and patients.
 Commandos who landed on the Sardar Daud hospital roof killed all four attackers after several hours of fighting.
 The so-called Islamic State (IS) group has claimed the attack.
 The Taliban has denied any involvement.
@@ -32,17 +29,24 @@ IS announced it was moving into Afghanistan and Pakistan when it declared its so
 In July 2016, a suicide bomb attack on a rally in Kabul killed about 80 people.
 Three months later, two similar attacks during the religious festival of Ashura claimed about 30 lives and in November 2016 an attack at a mosque in Kabul killed more than 30.
 IS also claimed a suicide attack at Kabul's Supreme Court last month that killed 22 people and has stepped up activity in both Afghanistan and Pakistan.
-The Taliban has also been carrying out attacks, killing 16 people in Kabul in suicide attacks a week ago, after beginning its Spring offensive early. 
+The Taliban has also been carrying out attacks, killing 16 people in Kabul in suicide attacks a week ago, after beginning its Spring offensive early.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+more than 30 people have been killed after attackers dressed as doctors stormed the largest military hospital in kabul, afghan officials say.
+</Summary>
 
-1. The summary states that "more than 30 people have been killed" in the hospital attack, but the article states that "more than 50 people were also wounded." This suggests that the summary's death toll is lower than the article's.
-2. The summary states that "attackers dressed as doctors stormed the largest military hospital in Kabul," but the article does not mention anything about the attackers dressing as doctors. Instead, it states that the attackers gained entry to the hospital after one detonated explosives at a hospital gate and then opened fire on staff and patients.
-3. The summary states that "all four attackers were killed," but the article states that "special forces had ended their operation and all the attackers were dead." This suggests that the summary's death toll for the attackers is lower than the article's.
-4. The summary does not mention the Islamic State (IS) group's claim of responsibility for the attack, which is mentioned in the article.
-5. The summary does not mention the Taliban's denial of involvement in the attack, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the details of the hospital attack, such as the number of deaths and injuries, the method of attack, and the groups claiming responsibility.
+1. The summary states that "more than 30 people have been killed" in the hospital attack, but the article states that "more than 50 people were also wounded" in addition to the fatalities, suggesting a higher total death toll than 30.
+2. The summary mentions that "attackers dressed as doctors stormed the largest military hospital in Kabul," but the article does not mention anything about the attackers dressing as doctors.
+3. The summary does not mention the Islamic State (IS) group's claim of responsibility for the attack, which is mentioned in the article.
+4. The summary does not mention the Taliban's denial of involvement in the attack, which is also mentioned in the article.
+5. The summary does not provide any information about the attackers using an approach more commonly associated with the Taliban, as mentioned in the article.
+6. The summary does not mention the government's claims of rooting out IS militants from bases in the east, as mentioned in the article.
+7. The summary does not mention the security forces facing more such assaults in the coming months, as mentioned in the article.
+
+Overall, the summary does not provide a complete or accurate representation of the article's content, and leaves out several key details that are included in the article.
 
 ###Corrected:

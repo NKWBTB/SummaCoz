@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the scottish secretary of the scottish government has said the uk government is ``constructive and amicable\'\'with the uk government. 
-
-    Article: 
-    The views were expressed following a meeting of the EU Negotiation Joint Ministerial Committee in London.
+<Article>
+The views were expressed following a meeting of the EU Negotiation Joint Ministerial Committee in London.
 Mr Davis said the UK government would keep Scotland, Wales and Northern Ireland up-to-date about negotiations.
 However, Mr Russell said transparency about UK government plans was needed.
 Mr Davis said he wanted to hold a monthly meeting to share analysis as part of a "two-way information flow" with each of the three nations.
@@ -21,15 +18,25 @@ But he added: "More than four months after the referendum the UK government has 
 He said he made it "absolutely clear" that membership of the single market "is essential for the economic prosperity of Scotland".
 The UK government hopes the High Court judgment on how Article 50 will be triggered will be overruled on appeal to the Supreme Court next month.
 However, the Scottish government will seek to oppose the UK government in the Supreme Court during the appeal.
-The intention is for Lord Advocate James Wolffe, Scotland's most senior law officer, to apply to be heard in the case. 
+The intention is for Lord Advocate James Wolffe, Scotland's most senior law officer, to apply to be heard in the case.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the scottish secretary of the scottish government has said the uk government is ``constructive and amicable\'\'with the uk government.
+</Summary>
 
-1. The summary states that the UK government is "constructive and amicable" with the Scottish government, but the article states that Mr. Russell said the UK government has still not made its strategic intentions clear and that there is a lack of transparency on its intentions.
-2. The summary does not mention the disagreement between the UK and Scottish governments on the issue of single market membership, which is a significant point in the article.
-3. The summary does not mention the fact that the Scottish government will seek to oppose the UK government in the Supreme Court appeal, which is a major development in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the contentious and uncertain nature of the UK government's relationship with the Scottish government, and it omits significant details about the ongoing negotiations and legal challenges.
+1. The summary states that the Scottish Secretary of the Scottish Government has said that the UK Government is "constructive and amicable" with the UK Government.
+2. However, the article does not mention anything about the Scottish Secretary making such a statement.
+3. In fact, the article quotes the Scottish Secretary, Mr. Russell, as saying that the UK Government has still not made its strategic intentions clear, and that the Scottish Government will seek to oppose the UK Government in the Supreme Court.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the statements made by the Scottish Secretary.
+
+Reasoning step by step:
+
+1. The summary states that the Scottish Secretary said the UK Government is "constructive and amicable" with the UK Government.
+2. This statement is not found in the article.
+3. The article quotes Mr. Russell as saying that the UK Government has not made its strategic intentions clear, and that the Scottish Government will seek to oppose the UK Government in the Supreme Court.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

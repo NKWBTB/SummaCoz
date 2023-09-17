@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    british artist matt mukherjee is one of the most influential singers in the history of the commonwealth games in the uk. 
-
-    Article: 
-    Mukherjee's The Lives Of Others, a sweeping account of life in 1960s Calcutta, is 5/2 favourite to win with bookmakers William Hill.
+<Article>
+Mukherjee's The Lives Of Others, a sweeping account of life in 1960s Calcutta, is 5/2 favourite to win with bookmakers William Hill.
 It is the first year that the prize is open to all authors writing in English, regardless of nationality.
 The winner will be announced at London's Guildhall on Tuesday night.
 Former Booker winner Howard Jacobson is among three British writers, two Americans and an Australian on this year's shortlist.
@@ -29,25 +26,19 @@ The announcement of the final six on 9 September caused a sales spike for all th
 This year marks is 46th year of the Booker Prize. The judging panel, chaired by AC Grayling, consists of Sarah Churchwell, Jonathan Bate, Daniel Glaser, Alastair Niven and Erica Wagner.
 Last year, the Booker was won by New Zealand's Eleanor Catton for The Luminaries. At 28, she was the youngest-ever winner.
 The shortlisted authors each receive £2,500 and a specially bound edition of their book.
-Coverage from this year's ceremony, where the prize will be presented by the Duchess of Cornwall. will be on the BBC News Channel from 2130 BST and on BBC Arts. 
+Coverage from this year's ceremony, where the prize will be presented by the Duchess of Cornwall. will be on the BBC News Channel from 2130 BST and on BBC Arts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+british artist matt mukherjee is one of the most influential singers in the history of the commonwealth games in the uk.
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary mentions that British artist Matt Mukherjee is one of the most influential singers in the history of the Commonwealth Games in the UK.
-
-Step 2: Compare the summary with the article
-
-However, upon reading the article, we find that there is no mention of Matt Mukherjee being a singer or influencing the Commonwealth Games. Instead, the article is about the Booker Prize shortlist, which includes Mukherjee's novel "The Lives of Others."
-
-Step 3: Analyze the inconsistency
-
-The inconsistency lies in the fact that the summary mentions Matt Mukherjee's involvement in the Commonwealth Games, which is not present in the article. The article only talks about the Booker Prize shortlist and Mukherjee's novel.
-
-Step 4: Conclude
-
-Therefore, the summary is not consistent with the article, as it mentions something (Matt Mukherjee's involvement in the Commonwealth Games) that is not present in the article.
+1. The article is about the Booker Prize shortlist, while the summary is about a British artist named Matt Mukherjee.
+2. The article mentions the name "Mukherjee" only in the context of the Booker Prize shortlist, and there is no mention of any British artist named Matt Mukherjee.
+3. The summary is not consistent with the article because it mentions a British artist, while the article is about a literary prize and the shortlisted authors.
+4. The name "Matt Mukherjee" does not appear in the article at all, so it is not possible that the summary is referring to the same person as the article.
+5. Therefore, the summary is not consistent with the article, and it appears to be a completely different topic.
 
 ###Corrected:

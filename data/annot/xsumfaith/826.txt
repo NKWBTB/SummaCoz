@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland\'s hopes of reaching the cyprus cup quarter-finals with a hard-fought win over georgia in the first test in perth. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The visitors led briefly through Vasil Lobzhanidze's early try, but the Scots raced ahead through Tommy Seymour, a penalty try, Sean Maitland and Stuart Hogg before the break.
 Hamish Watson extended the lead, battling over soon after half-time.
 Lobzhanidze bagged a second from a huge Georgian scrum, before Hogg finished off a searing counter-attack.
@@ -27,18 +24,21 @@ Scotland head coach Vern Cotter: "It was a good first half. We scored three pret
 Scotland: 15-Stuart Hogg, 14-Sean Maitland, 13-Mark Bennett, 12-Alex Dunbar, 11-Tommy Seymour, 10-Finn Russell, 9-Greig Laidlaw (capt); 1-Allan Dell, 2-Ross Ford, 3-Zander Fagerson, 4-Richie Gray, 5-Jonny Gray, 6-Rob Harley, 7-Hamish Watson, 8-Ryan Wilson.
 Replacements: 16-Fraser Brown, 17-Alex Allan, 18-Moray Low, 19-Grant Gilchrist, 20-John Barclay, 21-Ali Price, 22-Pete Horne, 23-Rory Hughes.
 Georgia: 15-Merab Kvirikashvili, 14-Giorgi Aptsiauri, 13-Merab Sharikadze, 12-Tamaz Mchedlidze, 11-Sandro Todua, 10-Lasha Malaguradze, 9-Vasil Lobzhanidze; 1-Mikheil Nariashvili, 2-Jaba Bregvadze, 3-Levan Chilachava, 4-Kote Mikautadze, 5-Giorgi Nemsadze, 6-Vito Kolelishvili, 7-Mamuka Gorgodze (capt), 8-Beka Bitsadze.
-Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili 
+Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scotland\'s hopes of reaching the cyprus cup quarter-finals with a hard-fought win over georgia in the first test in perth.
+</Summary>
 
-1. The summary states that Scotland won the game, while the article states that Scotland won the first test against Georgia in Perth.
-2. The summary mentions that Scotland scored six tries, while the article states that Scotland scored four tries.
-3. The summary states that Georgia scored two tries, while the article states that Georgia scored three tries.
-4. The summary mentions that Scotland head coach Vern Cotter said that the team played well in the first half and kept the ball down the other end, while the article states that Cotter said that the team did pragmatically and managed to score points when they had to.
-5. The summary states that Georgia's scrum caused problems for Scotland, while the article states that Scotland's scrum was a problem for Georgia.
-6. The summary mentions that Scotland's Ali Price tapped a penalty and went from deep in his own half, while the article states that substitute Rory Hughes did this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, Scotland did not score six tries, but four, and Georgia did not score two tries, but three. Additionally, the summary does not accurately reflect the comments made by Scotland head coach Vern Cotter.
+1. The summary is not consistent with the article because it does not accurately reflect the events of the match.
+2. The summary states that Scotland had a hard-fought win over Georgia, but the article describes the match as a one-sided affair with Scotland winning 38-11.
+3. The summary does not mention any of the specific events or tries that took place during the match, while the article provides detailed descriptions of each team's scoring opportunities and the performance of individual players.
+4. The summary does not provide any information about the scrum issues that Georgia faced, which was a significant aspect of the match according to the article.
+5. The summary does not mention the yellow card given to Moray Low, which was a significant event in the match.
+
+Overall, the summary does not accurately reflect the events of the match and does not provide the reader with a clear understanding of what happened. It is not consistent with the article.
 
 ###Corrected:

@@ -1,27 +1,35 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the new owners of the bernard matthews have said they are ``dismayed\'\'that a new pension scheme will be held in the uk. 
-
-    Article: 
-    The turkey firm was sold to the food tycoon Ranjit Boparan on Tuesday.
+<Article>
+The turkey firm was sold to the food tycoon Ranjit Boparan on Tuesday.
 There had been fears that the new owners would not take on the existing workers' pension scheme.
 But Unite regional officer Steve Harley said: "We had productive talks and we were given guarantees that all current agreements will be honoured."
 Unite said it understood that the Bernard Matthews final salary pension scheme was closed in 2004 and that its members presently have an alternative pension scheme which is unaffected the takeover.
 The Boparan Private Office, the "chicken king" Mr Boparan's private investment, confirmed that the current pension arrangements with Bernard Matthews would continue under the new ownership.
 Mr Harley met with representatives from Boparan at the Great Witchingham headquarters.
 He said: "It was made clear that the new owner wishes to restore Bernard Matthews to its former position as a highly profitable business.
-"This would be achieved by greater investment in the business, cost savings and utilising the present spare capacity at Bernard Matthews to process chicken and not just turkeys." 
+"This would be achieved by greater investment in the business, cost savings and utilising the present spare capacity at Bernard Matthews to process chicken and not just turkeys."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the new owners of the bernard matthews have said they are ``dismayed\'\'that a new pension scheme will be held in the uk.
+</Summary>
 
-1. The summary states that the new owners of Bernard Matthews are "dismayed" that a new pension scheme will be held in the UK. However, the article does not mention anything about the new owners being dismayed about a new pension scheme.
-2. The article states that the current pension arrangements with Bernard Matthews will continue under the new ownership. This contradicts the summary, which implies that a new pension scheme will be introduced.
-3. The article also mentions that the new owners wish to restore Bernard Matthews to its former position as a highly profitable business through greater investment, cost savings, and utilizing the present spare capacity at Bernard Matthews. This is not mentioned in the summary.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the above points, the summary is not consistent with the article. The summary contains information that is not supported by the article, such as the new owners being dismayed about a new pension scheme, and omits information that is present in the article, such as the new owners' plans to restore the company to its former profitability.
+1. The article states that the new owners, Ranjit Boparan, have given guarantees that all current agreements, including the pension scheme, will be honored.
+2. The article also states that the Bernard Matthews final salary pension scheme was closed in 2004 and that current employees have an alternative pension scheme that is unaffected by the takeover.
+3. The summary states that the new owners are "dismayed" that a new pension scheme will be held in the UK.
+4. This statement in the summary is not consistent with the information in the article, as the article states that the current pension arrangements will continue under the new ownership.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
+
+Reasoning step by step:
+
+1. The article provides information about the takeover of Bernard Matthews by Ranjit Boparan and the guarantees given by the new owners to honor all current agreements, including the pension scheme.
+2. The article also provides information about the closure of the final salary pension scheme in 2004 and the alternative pension scheme that exists for current employees.
+3. The summary states that the new owners are "dismayed" that a new pension scheme will be held in the UK, which is not consistent with the information in the article.
+4. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

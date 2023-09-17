@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    pablo , 27 , and latvian ilze , 31 , are off to a flying start .
-they approach their first year of their open-ended odyssey on the road .
-spanish pablo , 27 , and ilze , 31 , stop for a picture in bosnia . 
-
-    Article: 
-    pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
+<Article>
+pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
 and , after quitting their restaurant jobs in manchester , the intrepid cyclists are doing it as cheaply as they possibly can .
 spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
 in 356 days so far they 've covered almost 7,000 miles ( 11,131.92 km by their measurements ) and been through 16 countries .
@@ -45,19 +40,24 @@ pablo shows off the huge amount of gear he and ilze need to carry as they work t
 ` riding away from europe , finally crossing into a different continent .
 finally going further away and into the unknown . '
 they traversed the entire northern coast of turkey , before riding through georgia and their latest destination , armenia , and they plan to ` continue into asia , across the pacific with the idea to cycle all the length of the american continent . '
-` we are going to be on the road for the following years , ' they say . 
+` we are going to be on the road for the following years , ' they say .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+pablo , 27 , and latvian ilze , 31 , are off to a flying start .
+they approach their first year of their open-ended odyssey on the road .
+spanish pablo , 27 , and ilze , 31 , stop for a picture in bosnia .
+</Summary>
 
-1. The summary states that Pablo and Ilze are "off to a flying start" and have covered almost 7,000 miles, but the article states that they have been on their journey for 356 days and have covered 11,131.92 kilometers.
-2. The summary mentions that the couple has no plans or agenda, but the article states that they have a dream to "discover different parts of this planet a pedal at a time."
-3. The summary does not mention the couple's reliance on free accommodation and their meticulous calculations to live on less than three euros each day, which is a significant aspect of their journey.
-4. The summary does not mention the couple's use of hosting websites such as Couchsurfing and Warmshowers for accommodation, which is mentioned in the article.
-5. The summary does not mention the couple's only major expense being food, which is mentioned in the article.
-6. The summary does not mention the couple's philosophy of living off pasta, bread, rice, eggs, milk, seasonal fruits and vegetables, and relying on free food and dumpster diving, which is a significant aspect of their journey.
-7. The summary does not mention the couple's plans to continue their journey into Asia and across the Pacific, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide an accurate representation of the article's content and focuses on the couple's travels and adventures, while the article provides a more detailed and nuanced account of their journey, including their financial calculations and philosophy.
+The summary is not consistent with the article because it does not accurately reflect the content or the tone of the article. Here are the reasons why:
+
+1. The summary only provides a brief overview of the article, while the article is a detailed and comprehensive report of the couple's journey. The summary does not capture the essence of the article, which is the couple's open-ended odyssey on the road.
+2. The summary does not mention any specific details about the couple's journey, such as the countries they have visited, the distance they have covered, or the challenges they have faced. The article, on the other hand, provides many specific details about their journey.
+3. The summary does not convey the sense of adventure and exploration that is evident in the article. The article describes the couple's experiences in a vivid and engaging way, while the summary is bland and lacks any sense of excitement.
+4. The summary does not mention the couple's budget or their reliance on free accommodation and cheap food, which are important aspects of their journey. The article, on the other hand, provides detailed information about their financial strategy and how they manage to live on a tight budget.
+
+Overall, the summary does not accurately reflect the content or the tone of the article, and it does not provide a fair representation of the couple's journey.
 
 ###Corrected:

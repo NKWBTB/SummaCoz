@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former first minister alex salmond has delivered his final speech at the scottish parliament. 
-
-    Article: 
-    Presiding officer Tricia Marwick shed tears after veteran Labour MSP Duncan McNeil bid farewell to the parliament.
+<Article>
+Presiding officer Tricia Marwick shed tears after veteran Labour MSP Duncan McNeil bid farewell to the parliament.
 And she was again visibly emotional after Mr Salmond told the chamber: "It's goodbye from me... for now".
 Ms Marwick, Mr Salmond and Mr McNeil are among those standing down as MSPs ahead of the election on 5 May.
 Mr Salmond, who served as first minister between 2007 and 2014, used his valedictory address to repeat a belief he expressed in his very first speech in the parliament that Scotland was "not divided, but diverse".
@@ -27,26 +24,21 @@ He said: "It will be this parliament's responsibility to ensure there is account
 He recalled how former Labour MP Robin Cook came to Holyrood to look at the lessons that could be learned when it came to reforming Westminster.
 But Mr McNeil said: "It saddens me to say we now have to do a bit of learning from them and how they run their business."
 Former Scottish Conservative MSP Annabel Goldie is also bowing out of Holyrood.
-In her speech, she joked she would miss her dealings with Finance Secretary John Swinney, especially "his huge outbursts of faux indignation". 
+In her speech, she joked she would miss her dealings with Finance Secretary John Swinney, especially "his huge outbursts of faux indignation".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article.
+<Summary>
+former first minister alex salmond has delivered his final speech at the scottish parliament.
+</Summary>
 
-Step 1: Identify the inconsistency
-The inconsistency lies in the fact that the summary states that Alex Salmond delivered his final speech at the Scottish Parliament, but the article does not mention anything about it being his final speech.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Analyze the article
-Upon analyzing the article, we can see that Alex Salmond did speak in the Scottish Parliament, but there is no indication that it was his final speech. In fact, the article quotes him as saying "It's goodbye from me... for now", which suggests that he may speak again in the future.
+1. The summary states that former first minister Alex Salmond delivered his final speech at the Scottish Parliament.
+2. However, the article states that Mr. Salmond bid farewell to the parliament, but he did not deliver a final speech. Instead, he made a valedictory address.
+3. The summary is not consistent with the article because it implies that Mr. Salmond delivered a final speech, while the article states that he made a valedictory address.
+4. The article provides more information about the content of Mr. Salmond's address, including his belief that Scotland is not divided but diverse, his welcome of the transfer of powers to Holyrood, and his jokes about the champion chase at Cheltenham racecourse.
+5. The summary does not provide any of this information, and only states that Mr. Salmond delivered his final speech.
 
-Step 3: Identify the error
-The error in the summary is that it states that Alex Salmond delivered his final speech, when in fact there is no evidence to support that claim.
-
-Step 4: Explain the inconsistency
-The inconsistency between the summary and the article arises from the fact that the summary maker mistakenly assumed that Alex Salmond's speech was his final one, when in fact there is no indication of that in the article.
-
-Step 5: Provide evidence
-The evidence that supports the inconsistency is the fact that the article quotes Alex Salmond as saying "It's goodbye from me... for now", which suggests that he may speak again in the future.
-
-In conclusion, the summary is not consistent with the article because it states that Alex Salmond delivered his final speech, when in fact there is no evidence to support that claim. The error arises from the fact that the summary maker mistakenly assumed that the speech was his final one.
+Therefore, the summary is not consistent with the article because it provides a different and more limited view of Mr. Salmond's farewell to the Scottish Parliament.
 
 ###Corrected:

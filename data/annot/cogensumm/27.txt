@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the man struggles to use his hands and lying next to police officers. 
+<Article>
+It’s not quite a feat to match Harry Houdini, but it’s not for want of trying. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor. Undeterred by the fact that he was unable to use his hands and lying next to several police officers, the man struggles to his feet while they are tackling two people nearby and sprints off through a watching crowd. The footage begins with the man, dressed in red shorts and a grey T-shirt, lying handcuffed outside a pub called the Blind Tiger Pub on Sixth Street. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor . A few yards away four police officers, two with Tasers drawn, are busy trying to detain two men. The man in the red shorts spots an opportunity to make a bid for freedom and after a couple of stumbles, manages to get to his feet with his hands tied behind his back and a black bag looped around his arms. As he runs out of shot a police officer spots that he’s bolted and makes to give chase. The footage begins with the man stumbling to his feet while nearby officers tackle two other people . Even when the handcuffed man in red shorts has struggled to his knees, the police officers remain oblivious . The escapee suspect was later charged with evading arrest, according to Opposingviews.com . Police attended the scene amid reports of a fight. The festival saw Miley Cyrus take to the stage on Thursday. She made a surprise appearance at music producer and rapper Mike Will Made-It’s performance at Fader Fort.
+</Article>
 
-    Article: 
-    It’s not quite a feat to match Harry Houdini, but it’s not for want of trying. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor. Undeterred by the fact that he was unable to use his hands and lying next to several police officers, the man struggles to his feet while they are tackling two people nearby and sprints off through a watching crowd. The footage begins with the man, dressed in red shorts and a grey T-shirt, lying handcuffed outside a pub called the Blind Tiger Pub on Sixth Street. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor . A few yards away four police officers, two with Tasers drawn, are busy trying to detain two men. The man in the red shorts spots an opportunity to make a bid for freedom and after a couple of stumbles, manages to get to his feet with his hands tied behind his back and a black bag looped around his arms. As he runs out of shot a police officer spots that he’s bolted and makes to give chase. The footage begins with the man stumbling to his feet while nearby officers tackle two other people . Even when the handcuffed man in red shorts has struggled to his knees, the police officers remain oblivious . The escapee suspect was later charged with evading arrest, according to Opposingviews.com . Police attended the scene amid reports of a fight. The festival saw Miley Cyrus take to the stage on Thursday. She made a surprise appearance at music producer and rapper Mike Will Made-It’s performance at Fader Fort. 
+<Summary>
+the man struggles to use his hands and lying next to police officers.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the man was struggling to use his hands, but the article does not mention this. In fact, the article states that the man was able to get to his feet and run away with his hands tied behind his back.
-2. The summary states that the man was lying next to police officers, but the article does not mention this. The article states that the man was handcuffed outside a bar and that four police officers were nearby, trying to detain two other men.
-3. The summary states that the man made a bid for freedom, but the article does not use this language. Instead, the article states that the man "managed to get to his feet" and "ran out of shot."
-4. The summary states that the police officer spotted the man bolting and gave chase, but the article does not mention this. Instead, the article states that the police officer made to give chase after the man had already run away.
-
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and omits other important details that are present in the article.
+1. The summary states that the man struggles to use his hands and is lying next to police officers.
+2. However, the article states that the man is handcuffed and unable to use his hands.
+3. The summary does not mention the man being handcuffed or that he is unable to use his hands.
+4. Therefore, the summary is not consistent with the article because it does not accurately describe the man's situation.
+5. The article states that the man is handcuffed and lying on the floor, but the summary only mentions that he is struggling to use his hands and is next to police officers.
+6. The summary does not include the important detail that the man is handcuffed, which is a crucial aspect of the story.
+7. Overall, the summary is not a accurate representation of the article because it omits the fact that the man is handcuffed and does not accurately describe his situation.
 
 ###Corrected:

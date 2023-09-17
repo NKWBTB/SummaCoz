@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    london underground (tfl) has said it will save more than 250 tube stations as part of a drive to save money. 
-
-    Article: 
-    South Wimbledon and Queensway stations will be the first to see their staff moved from ticket offices into ticket halls and on to platforms.
+<Article>
+South Wimbledon and Queensway stations will be the first to see their staff moved from ticket offices into ticket halls and on to platforms.
 Transport for London (TfL) said it would save £50m annually as it tries to save £4.2bn by 2020.
 But Manuel Cortes, from the TSSA union, said London Mayor Boris Johnson was "rushing through" the closures.
 Mr Cortes, leader of the Transport Salaried Staffs Association said: "Talks on the safety implications of closing over 250 stations have not even been concluded.
@@ -18,16 +15,21 @@ He said: "This forms part of our wider vision for the Tube, which includes a 24-
 But the changes have led to previous strikes by the Aslef and RMT unions.
 Labour's London Assembly transport spokeswoman Val Shawcross said: "When he was elected, Boris Johnson promised Londoners he would protect the capital's ticket offices, but today he starts the process of dismantling each and every one of them.
 "Whilst there is obviously a big role for ticket machines to play, there is no substitute for a member of staff."
-London Underground said after 100 meetings with unions the number of roles to be reduced had fallen from 950 to 897 with no member of staff facing compulsory redundancy or losing money. 
+London Underground said after 100 meetings with unions the number of roles to be reduced had fallen from 950 to 897 with no member of staff facing compulsory redundancy or losing money.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+london underground (tfl) has said it will save more than 250 tube stations as part of a drive to save money.
+</Summary>
 
-1. The summary states that London Underground (TfL) will save more than 250 tube stations, but the article does not mention any specific number of stations that will be saved. Instead, it talks about the closure of ticket offices and the reduction of staff roles.
-2. The summary mentions that all stations will remain staffed, but the article states that only 3% of Tube tickets are bought at ticket offices, and that London Underground is planning to reduce the number of staff roles by 950 (later reduced to 897).
-3. The summary does not mention anything about the safety implications of closing ticket offices or the concerns of the TSSA union, which is mentioned in the article.
-4. The summary mentions that new visitor centres will be created at larger stations, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the number of stations that will be saved and does not accurately reflect the changes being made by London Underground.
+1. The article states that London Underground (TfL) is planning to close over 250 ticket offices and move staff to ticket halls and platforms.
+2. The article does not mention anything about saving all 250 stations. Instead, it states that the closures will save £50m annually and are part of a wider drive to save £4.2bn by 2020.
+3. The summary states that London Underground (TfL) has said it will save more than 250 tube stations, which is not supported by the article.
+4. The article only mentions that some ticket offices will be closed, but it does not mention saving all 250 stations.
+5. Therefore, the summary is not consistent with the article because it claims that all 250 stations will be saved, while the article only mentions closing some ticket offices.
+
+In conclusion, the summary is not accurate because it exaggerates the number of stations that will be saved. The article only mentions closing some ticket offices, not all 250 stations.
 
 ###Corrected:

@@ -1,26 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a homeless man has been banned from driving for three years after he drove away from a pub in dumfries. 
-
-    Article: 
-    John Johnston, 27, admitted taking the vehicle without consent and driving while over the legal alcohol limit.
+<Article>
+John Johnston, 27, admitted taking the vehicle without consent and driving while over the legal alcohol limit.
 He was spotted by a CCTV operator committing the offence and stopped by police in Buccleuch Street.
 At Dumfries Sheriff Court he was ordered to carry out 100 hours of unpaid work and given the driving ban.
 Johnston, who had moved from Belfast to Dumfries, committed the offence in September this year.
 He had been staying in homeless accommodation in the town and took the roller from Brooms Road.
 He then drove it across town in a bid to get home from a night out drinking with a friend.
-"I was just trying to find my way home," he told the court at an earlier appearance. 
+"I was just trying to find my way home," he told the court at an earlier appearance.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a homeless man has been banned from driving for three years after he drove away from a pub in dumfries.
+</Summary>
 
-1. The summary states that the person was banned from driving for three years, but the article does not mention any ban.
-2. The summary mentions that the person was homeless, but the article does not provide any information about their living situation.
-3. The summary states that the person drove away from a pub in Dumfries, but the article only mentions that they were stopped by police in Buccleuch Street, without specifying where they were coming from.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these discrepancies, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits other information that is present in the article.
+1. The summary states that the person is a homeless man, but the article does not mention anything about the person's living situation.
+2. The summary states that the person drove away from a pub in Dumfries, but the article does not mention anything about the person driving away from a pub. Instead, the article states that the person was spotted by a CCTV operator committing the offence and stopped by police in Buccleuch Street.
+3. The summary states that the person was banned from driving for three years, but the article does not mention any specific ban or punishment. Instead, the article states that the person was ordered to carry out 100 hours of unpaid work and given a driving ban.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The summary should be corrected to accurately reflect the information in the article.
 
 ###Corrected:

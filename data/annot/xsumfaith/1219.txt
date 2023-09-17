@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    pupils at a west yorkshire academy have been banned from wearing high-flying shoes after complaints they were made against them. 
-
-    Article: 
-    Hanson Academy strictly enforced its school uniform policy on Tuesday, with almost 10% of pupils failing to reach the academy's standards.
+<Article>
+Hanson Academy strictly enforced its school uniform policy on Tuesday, with almost 10% of pupils failing to reach the academy's standards.
 Angry parents took to the school's Facebook page to complain about the new measures.
 But Hanson Academy claims it "communicated clearly" its expectations for this school year.
 Pupils face being sent home for a variety of reasons, including if they wear hoop earrings, two earrings or more per ear or patterned trousers.
@@ -29,15 +26,21 @@ Another parent expressed concerns about how they were being informed their child
 Fiona Taylor, who has two children aged 13 and 11 at the school, said: "Parents yesterday didn't receive text messages until after 14:00.
 "So all day their children have been sent away and these parents who were out at work did not get informed until late in the afternoon."
 The school insists it will persist with the policy, but Mrs Churton admitted there had been mixed feedback from parents.
-She said the school would work with parents who were struggling to dress their children appropriately. 
+She said the school would work with parents who were struggling to dress their children appropriately.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+pupils at a west yorkshire academy have been banned from wearing high-flying shoes after complaints they were made against them.
+</Summary>
 
-1. The summary states that pupils at Hanson Academy have been banned from wearing high-flying shoes, but the article does not mention anything about high-flying shoes. Instead, the article states that pupils are not allowed to wear certain types of footwear, such as trainers and patterned trousers.
-2. The summary implies that the school's policy is solely focused on banning certain types of footwear, but the article explains that the school has a strict uniform policy that includes rules about hairstyles, jewelry, and indoor clothing, in addition to footwear.
-3. The summary mentions that parents are upset about the new measures, but the article states that some parents have expressed concerns about how they were informed their children had been sent home, and one parent complained about the cost of buying new shoes. The article does not mention any widespread parental opposition to the school's policy.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary takes a specific aspect of the article (the ban on high-flying shoes) and exaggerates it to make it sound like the school's entire policy is focused on this one aspect. The article provides a more balanced view of the school's policy and the mixed feedback from parents.
+1. The summary states that pupils at a West Yorkshire academy have been banned from wearing high-flying shoes.
+2. The article does not mention anything about high-flying shoes. Instead, it talks about the school's strict uniform policy, which includes rules about earrings, trousers, hair color, and footwear.
+3. Therefore, the summary is not consistent with the article. It does not accurately reflect the content of the article.
+4. The article does mention that pupils were sent home for not wearing the correct uniform, but there is no mention of high-flying shoes.
+5. The summary is likely incorrect because it is based on a false assumption that the school has banned high-flying shoes.
+6. The article does not provide any information to support the idea that the school has banned high-flying shoes.
+7. Therefore, the summary is not a accurate representation of the article and is likely incorrect.
 
 ###Corrected:

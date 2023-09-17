@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    as the race to become the democratic presidential candidate heats up in the united states, the left-leaning bernie sanders has become a surprising star on social media, with young voters using mobile phone apps to push others to #feelthebern. 
-
-    Article: 
-    As Hillary Clinton and Bernie Sanders clashed in their first one-on-one debate it was the senator from Vermont who started to trend worldwide.
+<Article>
+As Hillary Clinton and Bernie Sanders clashed in their first one-on-one debate it was the senator from Vermont who started to trend worldwide.
 So what are Bernie's supporters doing differently to bolster his support amongst younger voters? One place where he is a surprising hit is the dating app Tinder.
 Kevin Smit from Alkmaar in the Netherlands has used Tinder to spread the Bernie gospel. "I'm not a heterosexual male and I too believe he's sexy" he joked to BBC News.
 "He's a hit because there's a lot of millennials on the app and he polls amazingly with them".
@@ -26,17 +23,21 @@ Hillary Clinton is commonly called '#HRC' by supporters, a term which has featur
 On Facebook, Bernie Sanders' personal page has almost three million likes while Hillary Clinton is only able to manage 2.3 million.
 But his popularity on social sites won't necessarily translate into Bernie Sanders becoming the frontrunner for the Democratic nomination.
 Left-leaning young voters in the UK frequently made the Labour leader Ed Miliband the top trend on Twitter and other social sites during last year's general election, as part of the hashtag #milifandom campaign.
-Unfortunately for him, his online fans did not turn into a majority in voting stations last May. 
+Unfortunately for him, his online fans did not turn into a majority in voting stations last May.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+as the race to become the democratic presidential candidate heats up in the united states, the left-leaning bernie sanders has become a surprising star on social media, with young voters using mobile phone apps to push others to #feelthebern.
+</Summary>
 
-1. The summary states that Bernie Sanders is a "surprising star on social media," but the article does not support this claim. While Sanders has gained some traction on social media, the article does not suggest that he is a "surprising star" or that his social media presence is particularly noteworthy.
-2. The summary mentions that young voters are using mobile phone apps to push others to #feelthebern, but the article does not mention anything about mobile phone apps. Instead, the article focuses on Sanders' popularity on Tinder and Facebook.
-3. The summary states that Sanders' supporters are using social media to "bolster his support amongst younger voters," but the article does not suggest that social media is the primary factor behind Sanders' popularity among young voters. Instead, the article suggests that Sanders' policies and his exclusion from the traditional media are more important factors.
-4. The summary mentions the hashtag #demdebate, but the article does not mention this hashtag at all. The article only mentions the hashtags #Bernie and #HRC.
-5. The summary states that Sanders' popularity on social sites "won't necessarily translate into Bernie Sanders becoming the frontrunner for the Democratic nomination," but the article does not provide any information about Sanders' chances of winning the nomination. Instead, the article focuses on the fact that Sanders has gained some traction on social media and that his supporters are using these platforms to discuss his policies and campaign.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates Sanders' popularity on social media, focuses on the wrong platforms (mobile phone apps instead of Tinder and Facebook), and implies that social media is the primary factor behind Sanders' popularity among young voters.
+The given summary is not consistent with the article because it contains several inaccuracies and exaggerations. Here's a step-by-step explanation of why the summary is not consistent with the article:
+
+1. "surprising star on social media" - The article does mention that Bernie Sanders is popular on social media, but it does not describe him as a "surprising star."
+2. "young voters using mobile phone apps to push others to #feelthebern" - The article does mention that some Bernie Sanders supporters are using Tinder to spread his message, but it does not mention any other mobile phone apps. Additionally, the article does not mention the hashtag #feelthebern.
+3. "left-leaning" - The article does mention that Bernie Sanders is a left-leaning candidate, but it does not emphasize this aspect as much as the summary does.
+
+Overall, the summary presents a more sensationalized and exaggerated version of the article's content. It focuses on the sensational aspects of Bernie Sanders' popularity on social media, such as the use of Tinder, while downplaying the more nuanced aspects of his campaign and the article's focus on the political issues that matter to young voters.
 
 ###Corrected:

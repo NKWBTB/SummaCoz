@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the baby 's mother was diagnosed with UNK UNK in january .
-the baby 's mother was diagnosed with UNK UNK in hospital .
-her parents were told the infant would need a liver transplant in order to survive . 
-
-    Article: 
-    a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
+<Article>
+a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
 star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
 after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
 jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star
@@ -43,17 +38,24 @@ returned home where she has since made a good recovery .
 i ca n't thank her enough , ' her other added .
 speaking of the decision , shanell said : ` i did n't hesitate to step forward to save star .
 she 's my niece and i would do anything to help her . '
-since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver 
+since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the baby 's mother was diagnosed with UNK UNK in january .
+the baby 's mother was diagnosed with UNK UNK in hospital .
+her parents were told the infant would need a liver transplant in order to survive .
+</Summary>
 
-1. The summary states that the baby's mother was diagnosed with UNK UNK in January, but the article does not mention any diagnosis for the mother.
-2. The summary mentions that the baby's mother was diagnosed with UNK UNK in hospital, but the article states that the baby was diagnosed with biliary atresia within days of being born in Barnsley, West Yorkshire.
-3. The summary states that the baby's parents were told the infant would need a liver transplant in order to survive, but the article states that the parents were told that the baby had biliary atresia and that the most common treatments for this condition are the Kasai procedure (surgery that allows bile to drain directly into the bowel) or a liver transplant.
-4. The summary states that the baby's parents were told neither was a suitable match for a partial liver transplant, but the article states that the baby's maternal aunt, Shanell Reader, was tested and found to be an ideal candidate for a liver transplant.
-5. The summary states that the baby underwent an operation in November and spent six weeks in hospital, but the article states that the baby underwent an operation to unblock her bile ducts, which was unsuccessful, and that she then underwent a liver transplant in November.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and omissions. For example, it does not mention the baby's diagnosis of biliary atresia, the fact that her parents were told she would need a liver transplant, or the role of Shanell Reader in saving the baby's life through a liver transplant.
+1. Inconsistent information: The summary states that the baby's mother was diagnosed with UNK UNK in January, while the article does not mention the mother's diagnosis at all.
+2. Missing information: The summary does not include the fact that the baby was born with biliary atresia, a life-threatening condition that required a liver transplant.
+3. Incorrect cause of illness: The summary states that the baby's mother was diagnosed with UNK UNK, while the article explains that the baby was born with biliary atresia.
+4. Incorrect treatment: The summary does not mention the Kasai procedure, which is the most common treatment for biliary atresia, as mentioned in the article.
+5. Incorrect donor: The summary states that the baby's mother was the donor, while the article explains that the baby's twin sister was the donor.
+
+Overall, the summary is not consistent with the article, as it contains incorrect information, misses important details, and does not accurately represent the events described in the article.
 
 ###Corrected:

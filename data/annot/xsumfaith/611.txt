@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dagenham & redbridge have been relegated from league two after losing at leyton orient, ending their nine-year stay in the football league. 
-
-    Article: 
-    The Daggers, who reached League One in 2010, needed victory to keep their slim survival hopes alive.
+<Article>
+The Daggers, who reached League One in 2010, needed victory to keep their slim survival hopes alive.
 Goals from Jamie Cureton and Clevid Dikamona gave them hope after Jay Simpson fired the O's into a 2-0 lead.
 But Armand Gnanduillet fired in the winner to relegate Dagenham and keep Orient's play-off hopes alive.
 Dagenham reached the Football League for the first time in their history in 2007, but they now return to the National League under John Still, the same manager who took the club from the Conference to League One.
@@ -23,16 +20,21 @@ Media playback is not supported on this device
 Dagenham & Redbridge manager John Still told BBC Radio London:
 "I think for half an hour in the first half we lacked organisation and lacked discipline.
 "If you haven't got organisation and you haven't got the discipline to play 90 minutes, the outcome is inevitable.
-"Dagenham over the years are going to get beat, it's responding to that that the club's not been able to do this year." 
+"Dagenham over the years are going to get beat, it's responding to that that the club's not been able to do this year."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dagenham & redbridge have been relegated from league two after losing at leyton orient, ending their nine-year stay in the football league.
+</Summary>
 
-1. The summary states that Dagenham & Redbridge have been relegated from League Two, but the article does not mention anything about relegation. Instead, it talks about the team's struggles and their chances of avoiding relegation.
-2. The summary mentions that the team lost at Leyton Orient, but the article states that the team lost due to giving away two sloppy goals.
-3. The summary does not mention the team's poor goal difference or their struggles in attack, which are key points in the article.
-4. The summary mentions that the team has been relegated after nine years in the Football League, but the article does not mention the length of time the team has been in the league.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. It contains inaccuracies and omits key details, which can lead to a misleading summary.
+1. The summary states that Dagenham & Redbridge have been relegated from League Two, but the article states that they have been relegated to the National League.
+2. The summary does not provide any information about the match between Leyton Orient and Dagenham & Redbridge, while the article provides detailed information about the game, including the goals scored and the performance of the two teams.
+3. The summary does not mention the fact that Dagenham & Redbridge reached the Football League for the first time in their history in 2007, while the article mentions this fact.
+4. The summary does not mention the name of the Dagenham & Redbridge manager, John Still, while the article mentions him several times.
+
+Overall, the summary does not provide a accurate summary of the article and does not include all the relevant information provided in the article.
 
 ###Corrected:

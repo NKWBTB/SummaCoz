@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    denmark\'s health service-which is similar to the nhs-started to look in depth at the problem of cancer survival rates in 2000. 
-
-    Article: 
-    It decided to reorganise the way patients were diagnosed by GPs and specialists by bringing in a new approach, especially to deal with those cancer cases which are not initially obvious.
+<Article>
+It decided to reorganise the way patients were diagnosed by GPs and specialists by bringing in a new approach, especially to deal with those cancer cases which are not initially obvious.
 A team of cancer specialists, GPs, NHS and public health experts from Wales have just returned from a fact-finding visit to Aarhus, Denmark's second city.
 So what was the problem?
 Prof Frede Olesen of Aarhus University said the changes followed "quite alarming" cancer survival statistics more than 15 years ago showing Denmark was performing poorly compared to other European countries, including the rest of Scandinavia.
@@ -33,17 +30,21 @@ Importantly, he says it has also led to better survival rates.
 Denmark has a similar health system in how it is funded and organised to Wales.
 He said there could be lessons shared between Wales and Denmark on how better organisation can help "in catching up the elite in Europe".
 Dr Tom Crosby, medical director of the Wales Cancer Network, said he had been impressed with how the Danish health service had broken down the barriers between GPs and specialists to work better together.
-He said: "People are not just doing tests in isolation - they are working together to achieve a diagnosis." 
+He said: "People are not just doing tests in isolation - they are working together to achieve a diagnosis."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+denmark\'s health service-which is similar to the nhs-started to look in depth at the problem of cancer survival rates in 2000.
+</Summary>
 
-1. The summary states that Denmark's health service started looking into cancer survival rates in 2000, but the article states that the changes were introduced in 2007.
-2. The summary mentions that the changes were made to address long waiting times for patients, but the article focuses on the importance of finding cancer cases in patients with vague or difficult-to-diagnose symptoms.
-3. The summary does not mention the three routes for diagnosis and treatment introduced in Denmark, which are central to the article's explanation of the changes made to improve cancer survival rates.
-4. The summary does not mention the "ping pong" between GPs and specialists that the article highlights as a problem the new system aims to solve.
-5. The summary mentions that the changes have led to better survival rates, but the article focuses on the improvement in organization of diagnosis within existing resources and the potential for lessons to be shared between Wales and Denmark.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary does not accurately convey the main points of the article, which focuses on the specific changes made to improve cancer survival rates in Denmark and the benefits of those changes.
+1. The summary states that Denmark's health service started to look into the problem of cancer survival rates in 2000, but the article states that the changes were introduced in Denmark in 2007.
+2. The summary does not mention the specific changes made to the health service, such as the introduction of fast-track diagnosis and treatment routes, diagnosis centres, and "yes-no" centres, which are described in detail in the article.
+3. The summary does not mention the reason for the changes, which was the discovery of "alarming" cancer survival statistics more than 15 years ago, as stated in the article.
+4. The summary does not mention the improvements in survival rates that have resulted from the changes, as stated in the article.
+
+Therefore, the summary is not a consistent summary of the article, as it does not include the key details and reasons for the changes made to Denmark's health service.
 
 ###Corrected:

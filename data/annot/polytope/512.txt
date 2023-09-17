@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , to darwin , in australia .
-the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , in australia . 
-
-    Article: 
-    it is a problem the average traveller does n't often have to deal with .
+<Article>
+it is a problem the average traveller does n't often have to deal with .
 but for those lucky few who travel the world by private jet , the landing fees charged at airports can differ dramatically , with some surprising hubs asking for the highest fees .
 the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , in austria , to darwin , in australia .
 owning a private jet is a luxury only afford to the wealthy , and you 'll need to be to continually fork out for landing charges which can reach thousands every time
@@ -39,18 +35,23 @@ tokyo 's narita international airprot comes second , charging £ 3,728 ( $ 5,600
 number eight on the list of the most expensive airport landing fees is dublin airport at £ 2,729
 somewhat surprisingly , the uk 's bristol airport makes it into the top 10 as the only british airport featured , charging £ 2,929 ( $ 4,400 ) per private jet landing , just behind toronto in canada and darwin , australia .
 the only us airport to make it into the top 10 is laguardia , in new york , which charges $ 3,950 ( £ 2,630 ) for private jets arriving in the city .
-other unexpected appearances in the top 10 also include dublin airport , in eighth place and salzburg , in austria , in 10th . 
+other unexpected appearances in the top 10 also include dublin airport , in eighth place and salzburg , in austria , in 10th .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , to darwin , in australia .
+the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , in australia .
+</Summary>
 
-1. The summary states that the high landing fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous, but the article does not support this claim. The article focuses on the most expensive airports for landing fees, but does not provide any information about the popularity of these airports.
-2. The summary mentions Salzburg, Darwin, and Tokyo as examples of unexpectedly popular transport hubs, but the article does not provide any information about Salzburg or Darwin. The article only mentions Tokyo as one of the most expensive airports for landing fees.
-3. The summary states that owning a private jet is a luxury only afford to the wealthy, but the article does not provide any information about the cost of owning a private jet.
-4. The summary mentions PrivateFly as a private jet charter company, but the article does not provide any information about PrivateFly.
-5. The summary states that the busiest weekends for private jets companies occur during huge sporting events, but the article does not provide any information about this.
-6. The summary mentions that the article is based on the 767-400 aircraft, but the article does not provide any information about this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it provides information that is not supported by the article, and it focuses on different aspects of private aviation than the article.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary mentions "salzburg" twice, while the article only mentions it once.
+2. The summary states that the high landing fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous, but the article does not mention anything about popularity or unexpectedness.
+3. The summary implies that the high landing fees are only charged in salzburg, but the article lists several other airports with high landing fees.
+4. The summary does not accurately reflect the content of the article, which provides information about the highest landing fees charged at various airports around the world.
+
+Therefore, it is clear that the summary is not consistent with the article and contains errors and inaccuracies.
 
 ###Corrected:

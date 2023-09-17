@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dagenham & redbridge reached the top of the premier league with a narrow victory over dagenham and redbridge in the championship play-off final. 
-
-    Article: 
-    The Daggers, who reached League One in 2010, needed victory to keep their slim survival hopes alive.
+<Article>
+The Daggers, who reached League One in 2010, needed victory to keep their slim survival hopes alive.
 Goals from Jamie Cureton and Clevid Dikamona gave them hope after Jay Simpson fired the O's into a 2-0 lead.
 But Armand Gnanduillet fired in the winner to relegate Dagenham and keep Orient's play-off hopes alive.
 Dagenham reached the Football League for the first time in their history in 2007, but they now return to the National League under John Still, the same manager who took the club from the Conference to League One.
@@ -23,23 +20,20 @@ Media playback is not supported on this device
 Dagenham & Redbridge manager John Still told BBC Radio London:
 "I think for half an hour in the first half we lacked organisation and lacked discipline.
 "If you haven't got organisation and you haven't got the discipline to play 90 minutes, the outcome is inevitable.
-"Dagenham over the years are going to get beat, it's responding to that that the club's not been able to do this year." 
+"Dagenham over the years are going to get beat, it's responding to that that the club's not been able to do this year."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dagenham & redbridge reached the top of the premier league with a narrow victory over dagenham and redbridge in the championship play-off final.
+</Summary>
 
-Step 1: Identify the main points of the summary.
-The summary states that Dagenham & Redbridge reached the top of the Premier League with a narrow victory over Leyton Orient in the Championship play-off final.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the provided summary is not consistent with the article:
 
-Step 2: Identify the main points of the article.
-The article states that Leyton Orient needed a victory to keep their slim survival hopes alive, and that Dagenham & Redbridge won the match with goals from Jamie Cureton and Clevid Dikamona. The article also mentions that Orient interim manager Andy Hessenthaler found it hard this week and that the fans are the biggest part of the football club.
+1. The summary states that Dagenham & Redbridge reached the top of the Premier League, but the article states that the team was relegated from League One to the National League.
+2. The summary mentions a "championship play-off final," but there is no mention of a play-off final in the article.
+3. The article states that Dagenham & Redbridge lost the match 3-2, while the summary states that the team won the match.
 
-Step 3: Identify the inconsistencies.
-The inconsistency is that the summary states that Dagenham & Redbridge reached the top of the Premier League, but the article states that the match was in the Championship play-off final, not in the Premier League. Additionally, the summary states that Dagenham & Redbridge won the match, but the article states that Leyton Orient lost the match.
-
-Step 4: Explain the inconsistencies.
-The inconsistencies are likely due to a misunderstanding or misinterpretation of the information in the article. The article does not mention the Premier League, and Dagenham & Redbridge did not win the match, but rather Leyton Orient lost the match.
-
-In conclusion, the summary is not consistent with the article because it contains inaccuracies and misinterpretations of the information provided.
+Therefore, the summary is not consistent with the article because it contains inaccurate information about the team's performance and the outcome of the match.
 
 ###Corrected:

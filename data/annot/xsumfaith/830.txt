@@ -1,26 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the chief executive of the republic of ireland council has said he will not stand in the job of the local authority. 
-
-    Article: 
-    The local authority said Richard Ellis was leaving on Friday at the end of his contract.
+<Article>
+The local authority said Richard Ellis was leaving on Friday at the end of his contract.
 Ciaran Monaghan and Ewan Sutherland are both going under a voluntary redundancy and early retirement scheme.
 Stephen Flynn, the leader of the opposition SNP group, said the departures were indicative of the council's inability to hold on to senior staff.
 He said he expected further departures in the coming months.
 Mr Ellis is the council's former interim director of corporate governance, and has also been acting as deputy chief executive for several months.
 Mr Monaghan is head of the chief executive's office, while Mr Sutherland is head of human resources and customer services.
-Council chief executive Angela Scott thanked the trio for their "dedication and professionalism". 
+Council chief executive Angela Scott thanked the trio for their "dedication and professionalism".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The article states that Richard Ellis is leaving the council at the end of his contract on Friday.
+<Summary>
+the chief executive of the republic of ireland council has said he will not stand in the job of the local authority.
+</Summary>
 
-2. The article does not mention anything about Ellis not standing in the job of the local authority or resigning as the chief executive of the republic of Ireland council.
+Explain your reasoning step by step:[/INST]
 
-3. Therefore, the summary statement "the chief executive of the republic of Ireland council has said he will not stand in the job of the local authority" is not consistent with the article.
+1. The article states that Richard Ellis, Ciaran Monaghan, and Ewan Sutherland are leaving their positions at the local authority.
+2. The summary states that the chief executive of the Republic of Ireland council has said he will not stand in the job of the local authority.
+3. The article does not mention anything about the chief executive of the Republic of Ireland council or the chief executive standing down.
+4. Therefore, the summary is not consistent with the article.
 
-4. The summary statement is incorrect because it implies that Ellis is stepping down as chief executive, which is not mentioned in the article.
+The reason for this inconsistency is that the summary is incorrect. There is no mention in the article of the chief executive of the Republic of Ireland council or the chief executive standing down. The article only mentions the departure of three senior staff members at the local authority.
 
 ###Corrected:

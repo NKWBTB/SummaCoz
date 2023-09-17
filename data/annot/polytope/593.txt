@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chelsea beat west london 3-1 in the premier league on saturday .
-dominic solanke scored late on to put a gloss on the gloss .
-dominic solanke scored late on to put a gloss on the gloss . 
-
-    Article: 
-    chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
+<Article>
+chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
 dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
 sportsmail was at the academy stadium to see how the youngsters got on ...
 tammy abraham smashes chelsea into the lead with a fierce drive into the top corner
@@ -51,19 +46,20 @@ charly musonda : the belgian playmaker , the only overseas man in the starting x
 isaiah brown : said to be interesting jose mourinho but will not want to dwell on his big moment early on when he blasted over bar when unmarked on the edge of the box .
 miss aside , was a constant menace .
 kasey palmer ( abraham , 67 , 6 ) : on for abraham and showed explosive pace straight away but was let down by a hurried attempt at a finish which flew over the bar .
-isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward 
+isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+chelsea beat west london 3-1 in the premier league on saturday .
+dominic solanke scored late on to put a gloss on the gloss .
+dominic solanke scored late on to put a gloss on the gloss .
+</Summary>
 
-1. The summary states that Chelsea beat West London 3-1, but the article does not mention West London as a team. The article refers to Manchester City as the opposing team.
-2. The summary mentions Dominic Solanke scoring late on to put a gloss on the scoreline, but the article does not mention Solanke scoring. Instead, the article mentions that Abraham smashed Chelsea into the lead with a fierce drive into the top corner.
-3. The summary states that Chelsea took a commanding 3-1 lead back to West London, but the article does not mention Chelsea taking a lead back to West London. Instead, the article states that Chelsea took a strong showing in Manchester to see off City's young side.
-4. The summary mentions that Manchester City midfielder Kean Bryan tracked the run of Dominic Solanke, but the article does not mention Solanke being tracked by Bryan. Instead, the article mentions that Bryan pulled up injured after 36 minutes.
-5. The summary states that Aaron Nemane moved to Manchester from France as a toddler, but the article does not mention Nemane moving to Manchester from France. Instead, the article states that Nemane scored twice in the first leg of the semi-final.
-6. The summary mentions that Isaac Buckley-Ricketts produced a measured finish to bring City level, but the article does not mention Buckley-Ricketts scoring. Instead, the article mentions that Buckley-Ricketts was marshalled well for the majority of the evening.
-7. The summary states that Brandon Barker is tipped for big things at the Etihad, but the article does not mention Barker being tipped for big things. Instead, the article mentions that Barker created a fine chance for Garcia with a trademark surge.
-8. The summary mentions that Jay Dasilva is an under-21 regular, but the article does not mention Dasilva being an under-21 regular. Instead, the article states that Dasilva is one to watch.
-9. The summary states that Ruben Sammut covered his back four expertly, but the article does not mention Sammut covering his back four. Instead, the article mentions
+Explain your reasoning step by step:[/INST]
+
+1. The summary is not consistent with the article because it does not accurately reflect the events described in the article.
+2. The article describes a youth football match between Chelsea and Manchester City, with Chelsea winning 3-1. The summary, on the other hand, simply states that Chelsea beat West London 3-1 in the Premier League, without mentioning that it was a youth match or providing any details about the game.
+3. The summary does not mention any of the players or events described in the article, such as Tammy Abraham's two goals, Dominic Solanke's late score, or the performances of the individual players.
+4. Therefore, the summary is not a accurate reflection of the article and is not consistent with the information provided.
 
 ###Corrected:

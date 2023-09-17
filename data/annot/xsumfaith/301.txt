@@ -1,23 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scientists in the pacific ocean say they have discovered the largest known sighting of the pacific ocean. 
-
-    Article: 
-    Parts of the Mariana Trench in the Pacific Ocean are up to 11 kilometres deep, so we know little about what sea life there is.
+<Article>
+Parts of the Mariana Trench in the Pacific Ocean are up to 11 kilometres deep, so we know little about what sea life there is.
 So a team has been sending down a robotic submarine called Deep Discoverer with a camera on it.
 Science fans or anyone who is just curious can check out what the camera is showing online.
 The three-month expedition is looking for things like fish, mud volcanoes and deep sea coral.
-So far they've spotted shrimp, jellyfish and black pillow lava from an underwater eruption. 
+So far they've spotted shrimp, jellyfish and black pillow lava from an underwater eruption.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+scientists in the pacific ocean say they have discovered the largest known sighting of the pacific ocean.
+</Summary>
 
-1. The summary states that scientists have discovered the largest known sighting of the Pacific Ocean. However, the article does not mention any discovery or sighting of the Pacific Ocean as a whole. Instead, it talks about a specific expedition to explore the Mariana Trench, which is a part of the Pacific Ocean.
-2. The article mentions that the team is using a robotic submarine called Deep Discoverer with a camera to explore the Mariana Trench. However, the summary does not mention anything about a robotic submarine or camera.
-3. The article states that the expedition is looking for things like fish, mud volcanoes, and deep sea coral. However, the summary only mentions shrimp, jellyfish, and black pillow lava.
-4. Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary makes claims about the Pacific Ocean that are not supported by the article, and it also leaves out important details about the expedition that are mentioned in the article.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that the team is exploring the Mariana Trench, which is known to be up to 11 kilometers deep.
+2. The summary claims that scientists have discovered the largest known sighting in the Pacific Ocean.
+3. The article does not mention any discoveries or sightings of this magnitude. Instead, it mentions the team's goal of exploring the trench and finding fish, mud volcanoes, and deep sea coral.
+4. Therefore, the summary is not consistent with the article, as it makes a much more dramatic claim about a discovery that is not supported by the article.
+
+Conclusion: The summary is not consistent with the article because it exaggerates the discovery made by the team and claims something that is not mentioned in the article.
 
 ###Corrected:

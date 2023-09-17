@@ -1,27 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    worcestershire have re-signed new zealand all-rounder mitchell santner for the 2017 t20 blast competition. 
-
-    Article: 
-    Santner, 24, broke his finger in only his second game for the county in 2016.
+<Article>
+Santner, 24, broke his finger in only his second game for the county in 2016.
 "There is some unfinished business with Mitch," director of cricket Steve Rhodes told Worcestershire's website.
 "Last summer he was very unlucky. Losing Mitch was a massive blow to our hopes of qualifying. We'd had a good start and him playing all those games would have been an extra bonus for us."
 The left-arm batsman and spinner, who made his Test debut in 2015, will rejoin the Rapids following June's ICC Trophy in England.
 Santner added: "I really enjoyed my time at Worcester with a great bunch of lads and it was so frustrating for me to pick up that injury in the very first T20 game.
 "It's fantastic that I've got the chance to come back again next summer and hopefully I can make up for lost time and make an impact with bat and ball."
-In August, Worcestershire signed Australia pace bowler John Hastings as their main overseas player for the 2017 season across all formats of the game. 
+In August, Worcestershire signed Australia pace bowler John Hastings as their main overseas player for the 2017 season across all formats of the game.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+worcestershire have re-signed new zealand all-rounder mitchell santner for the 2017 t20 blast competition.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Worcestershire have re-signed Mitchell Santner for the 2017 T20 Blast competition.
-2. However, the article states that Santner broke his finger in only his second game for the county in 2016, which suggests that he did not play for Worcestershire in the 2017 T20 Blast competition.
-3. Therefore, the summary is not consistent with the article because it claims that Santner was re-signed for the 2017 T20 Blast competition, but the article states that he did not play for Worcestershire in that competition.
-4. The article does mention that Santner will rejoin the Rapids following June's ICC Trophy in England, which suggests that he may play for Worcestershire in future competitions, but the summary does not specify which competition he will be re-signed for.
+2. However, the article states that Santner broke his finger in his second game for the county in 2016 and did not play again that season.
+3. Therefore, it is not possible for Santner to have played for Worcestershire in the 2017 T20 Blast competition, as he did not play for the team in 2016.
+4. The summary is not consistent with the article because it implies that Santner played for Worcestershire in the 2017 T20 Blast competition, which is not supported by the article.
 
-Overall, the summary is not consistent with the article because it claims that Santner was re-signed for the 2017 T20 Blast competition, but the article states that he did not play for Worcestershire in that competition.
+In conclusion, the summary is incorrect because it suggests that Santner played for Worcestershire in the 2017 T20 Blast competition, when in fact he did not play for the team that season due to an injury.
 
 ###Corrected:

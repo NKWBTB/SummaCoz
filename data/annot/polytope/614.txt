@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new poll reveals that diana is the favourite option for baby if it is a girl .
-a new poll has revealed that diana is the favourite option for baby if it is a girl . 
-
-    Article: 
-    as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
+<Article>
+as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
 a new poll has revealed that diana is the favourite option for baby if it is a girl .
 according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
 kate and william leaving the lindo wing of st mary 's hospital in london , with their newborn son , prince george in 2013 .
@@ -21,15 +17,21 @@ the choices were echoed on social media today , with many twitter users claiming
 one user called danielle o'donoghue wrote : ` if kate middleton has a baby girl and does n't name her diana i 'll be so upset .
 another said : ` if the new royal baby is a girl and is called diana , either first name or middle name .
 i will be 90 % more emotional . '
-the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up . 
+the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a new poll reveals that diana is the favourite option for baby if it is a girl .
+a new poll has revealed that diana is the favourite option for baby if it is a girl .
+</Summary>
 
-1. The summary states that the favorite name for a girl is Diana, but the article does not mention this. Instead, the article states that Alice and Charlotte are the second and third favorite names for a girl, respectively.
-2. The summary states that the poll revealed that Diana is the favorite name for a girl, but the article does not mention this. Instead, the article states that the poll revealed that 12% of people think the child should be named after William's mother, Diana, but it does not specify that Diana is the favorite name.
-3. The summary states that the public is hoping for a baby princess, but the article does not mention this. Instead, the article states that the public is divided on whether they want a boy or a girl.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it exaggerates the importance of Diana as a potential name for the royal baby and misrepresents the public's preferences for the baby's gender.
+1. The summary states that the favorite option for a girl's name is Diana, but the article states that Alice and Charlotte are the second and third favorite options, respectively.
+2. The summary does not mention the preferences for a boy's name, while the article states that James and Alexander are the top two favorite options for a boy.
+3. The summary does not mention the fact that the majority of Brits are backing William's decision to take six weeks of paternity leave from his pilot job.
+
+Overall, the summary only provides a limited amount of information from the article and does not accurately represent the full range of findings from the poll. Therefore, it is not consistent with the article.
 
 ###Corrected:

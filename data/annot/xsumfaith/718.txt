@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    gateshead leapfrogged wrexham into second place in the national league with a hard-fought win. 
-
-    Article: 
-    Josh Gillies beat Cameron Belford in the visitors' goal with a fine free-kick to put the Tynesiders ahead.
+<Article>
+Josh Gillies beat Cameron Belford in the visitors' goal with a fine free-kick to put the Tynesiders ahead.
 But Wrexham were back on level terms before half-time when Sean Newton produced an equally fine set-piece.
 Ryan Bowman scored a fine winner for Gateshead, though, heading Craig Baxter's cross from the right across goal and into the net.
 Gateshead manager Malcolm Crosby told BBC Newcastle: "To go and beat Wrexham tells me we have a decent side.
@@ -55,17 +52,44 @@ Attempt missed. Dominic Vose (Wrexham) right footed shot from outside the box mi
 Corner,  Wrexham.
 Attempt saved. Josh Gillies (Gateshead) left footed shot from outside the box is saved.
 Substitution, Wrexham. Adam Smith replaces James Gray.
-Goal!  Gateshead 2, Wrexham 1. Ryan Bowman (Gateshead) header from a difficult angle on the right to the bottom left corner. Assisted by Jamie Chandler with a cross. 
+Goal!  Gateshead 2, Wrexham 1. Ryan Bowman (Gateshead) header from a difficult angle on the right to the bottom left corner. Assisted by Jamie Chandler with a cross.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+gateshead leapfrogged wrexham into second place in the national league with a hard-fought win.
+</Summary>
 
-1. The summary states that Gateshead leapfrogged Wrexham into second place, but the article does not mention this. Instead, the article states that Gateshead moved up to second place, but does not specify that they leapfrogged Wrexham.
-2. The summary states that Wrexham were back on level terms before half-time, but the article does not mention this. Instead, the article states that Wrexham were ahead at half-time.
-3. The summary states that Gateshead won the match 2-1, but the article does not mention this. Instead, the article states that Gateshead won the match 2-1, but does not provide the final score.
-4. The summary states that Wrexham had good chances and didn't stick the ball in the back of the net, but the article does not mention this. Instead, the article states that Wrexham had some good chances, but didn't take them.
-5. The summary states that Gateshead manager Malcolm Crosby said that his team had a decent side, but the article does not mention this. Instead, the article states that Crosby told BBC Newcastle that his team had a decent side.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. It is important to ensure that summaries are accurate and consistent with the original text to avoid confusion and misinformation.
+Step 1: Identify the main points of the article
+
+From the article, we can identify the following main points:
+
+1. Gateshead beat Wrexham 2-1 in a National League match.
+2. Josh Gillies scored a fine free-kick for Gateshead to put them ahead.
+3. Wrexham equalized through a set-piece goal by Sean Newton.
+4. Gateshead scored the winner through a header by Ryan Bowman.
+5. Gateshead manager Malcolm Crosby praised his team's performance, especially in the second half.
+
+Step 2: Identify the main points of the summary
+
+From the summary, we can identify the following main points:
+
+1. Gateshead won the match against Wrexham.
+2. Gateshead leapfrogged Wrexham into second place in the National League.
+
+Step 3: Compare the main points of the article and the summary
+
+Now, let's compare the main points of the article and the summary:
+
+1. Gateshead won the match against Wrexham: Both the article and the summary mention this.
+2. Gateshead leapfrogged Wrexham into second place in the National League: This is not mentioned in the article. The article only mentions that Gateshead moved up to second place, but it does not mention Wrexham's position.
+
+Step 4: Analyze the inconsistency
+
+The summary is not consistent with the article because it mentions that Gateshead leapfrogged Wrexham into second place, which is not supported by the article. The article only mentions that Gateshead moved up to second place, without mentioning Wrexham's position. Therefore, the summary contains additional information that is not present in the article.
+
+In conclusion, the summary is not consistent with the article because it contains additional information that is not supported by the article. The article only mentions Gateshead's win and their move up to second place, without mentioning Wrexham's position.
 
 ###Corrected:

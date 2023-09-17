@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    rod temperton, the british songwriter best known for michael jackson\'s thriller and rock with you, has died. 
-
-    Article: 
-    Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
+<Article>
+Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
 Temperton's other hits included Off The Wall and Baby Be Mine for Jackson and Boogie Nights for his band Heatwave.
 Chic guitarist Nile Rodgers was among those paying tribute, tweeting: "Your genius gave us a funkier world!"
 Michael Jackson's sister LaToya wrote: "A brilliant prolific #songwriter Rod Temperton may you #RIP one of my favorite #songs Rock With You #Thriller #legend #Music #MichaelJackson"
@@ -28,31 +25,21 @@ He once summed up his approach to songwriting: "The first criteria is write some
 In a statement released on Wednesday, Warner/Chappell's Jon Platt said: "His family is devastated and request total privacy at this, the saddest of sad times."
 Vocalist Chaka Khan, who recorded Temperton's tracks with the funk band Rufus, paid tribute, writing on Twitter: "Thank u 4 your superlative songwriting @RodTemperton. U will always Live in Me. Rest in power."
 BBC radio presenter Gilles Peterson wrote: "Apart from Lennon and McCartney no one from the UK has written more gold plated songs than Sir Rod Temperton... a huge loss. RIP"
-Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk. 
+Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+rod temperton, the british songwriter best known for michael jackson\'s thriller and rock with you, has died.
+</Summary>
 
-1. The summary states that Rod Temperton died, but the article states that he passed away last week.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, the summary is not consistent with the article for the following reasons:
 
-Inconsistency: The summary does not provide the correct time frame for Temperton's death. The article states that he passed away last week, but the summary only mentions that he died without specifying when.
+1. The summary states that Rod Temperton, the British songwriter, died, but the article does not mention his death. Instead, the article reports that he passed away last week after a brief aggressive battle with cancer.
+2. The summary only mentions Michael Jackson's Thriller and Rock With You, which were written by Temperton, but the article provides more information about Temperton's career and achievements, including his work with other artists such as Heatwave, Anita Baker, Donna Summer, Aretha Franklin, and The Brothers Johnson.
+3. The summary does not mention any specific awards or nominations that Temperton received, while the article mentions that he won a Grammy Award in 1990 for his work on Birdland and was nominated for two Oscars in 1986 for his work with Quincy Jones on the soundtrack for The Color Purple.
+4. The summary does not provide any information about Temperton's early life, his family, or his approach to songwriting, which are all mentioned in the article.
 
-2. The summary mentions that Temperton was a British songwriter, but the article does not provide any information about his nationality.
-
-Inconsistency: The summary mentions Temperton's British background, but the article does not provide any information about his nationality or where he was born.
-
-3. The summary states that Temperton was known for Michael Jackson's "Thriller" and "Rock With You," but the article does not mention "Thriller."
-
-Inconsistency: The summary mentions two of Temperton's most famous songs, but the article only mentions "Rock With You" as one of his hits for Michael Jackson.
-
-4. The summary states that Temperton's funeral has taken place, but the article does not mention anything about a funeral.
-
-Inconsistency: The summary states that Temperton's private funeral has taken place, but the article does not provide any information about his funeral or burial arrangements.
-
-5. The summary mentions that Temperton was nicknamed "The Invisible Man" because of his low profile, but the article does not mention this.
-
-Inconsistency: The summary provides a unique detail about Temperton's personality, but the article does not mention anything about his nickname or his low profile.
-
-Overall, the summary contains several inaccuracies and inconsistencies that do not align with the information provided in the article.
+Therefore, the summary is not consistent with the article as it only focuses on Temperton's most famous works and does not provide a comprehensive overview of his career and achievements.
 
 ###Corrected:

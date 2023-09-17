@@ -1,27 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the description of a man believed to be involved in fly-tipping which left three conwy cows dead has been released by police. 
-
-    Article: 
-    The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field.
+<Article>
+The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field.
 North Wales Police said the culprit is described as a heavily built man, aged 50 to 60, with curly brown hair, driving a dark blue pick-up truck.
 Anyone with information can call 101.
 "Apparently he has been dumping clippings over past two weeks. Has to be living/working local to Colwyn Bay," Sgt Rob Taylor, of the rural crime team, tweeted on Sunday.
 A post-mortem examination showed the cows, aged 16 months, died as a result of toxins found in yew and leylandii tree cuttings.
-Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and praised the "impressive" response to his appeal for information on social media. 
+Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and praised the "impressive" response to his appeal for information on social media.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+the description of a man believed to be involved in fly-tipping which left three conwy cows dead has been released by police.
+</Summary>
 
-1. The summary states that the police have released a description of a man believed to be involved in fly-tipping, but the article does not mention any release of a description by the police.
-2. The summary mentions that the man is heavily built and has curly brown hair, but the article does not provide any information about the physical appearance of the suspect.
-3. The summary states that the man is driving a dark blue pick-up truck, but the article does not mention any information about the suspect's vehicle.
-4. The summary mentions that the cows died as a result of toxins found in yew and leylandii tree cuttings, but the article does not provide any information about the cause of death of the cows.
-5. The summary states that Sgt Rob Taylor tweeted about the appeal for information on social media, but the article does not mention any tweet from Sgt Taylor.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary provides information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the police have released a description of a man believed to be involved in fly-tipping, but the article does not mention any description of the culprit being released.
+2. The article only mentions that the police are looking for a heavily built man, aged 50 to 60, with curly brown hair, driving a dark blue pick-up truck, but this information is not included in the summary.
+3. The summary only mentions that the cows died as a result of toxins found in yew and leylandii tree cuttings, but the article also mentions that the cows were found in Dolwen, near Old Colwyn, and that the culprit is believed to be living or working local to Colwyn Bay.
+4. Therefore, the summary is not consistent with the article because it does not include all the information provided in the article, and it does not accurately convey the details of the police's appeal for information.
 
 ###Corrected:

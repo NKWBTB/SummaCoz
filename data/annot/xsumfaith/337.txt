@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    one of the world\'s most prestigious paintings has been awarded the prize for this year\'s turner prize. 
-
-    Article: 
-    The 76-year-old, who received the Â£25,000 prize for Squint (19) at Liverpool's Walker Art Gallery, was one of the shortlisted artists in 1991.
+<Article>
+The 76-year-old, who received the Â£25,000 prize for Squint (19) at Liverpool's Walker Art Gallery, was one of the shortlisted artists in 1991.
 Simpson, who has also made the prize longlist on three other occasions, said finally winning was "very nice indeed".
 Judge Ansel Krut said Squint (19) was "quite extraordinary", even though it was a "difficult painting to look at".
 The work depicts a leper squint, which Simpson said were "holes made in the sides of medieval churches so the undesirables could look through to the service and somehow take part".
@@ -18,17 +15,18 @@ Krut said Simpson's piece was "a little bit like a tone poem - when you spend so
 "Technically, it's very subtle and his language is very minimal, very reduced, but when you enter into it, you get into this broad field of great sympathy, because of the subject matter.
 "We couldn't have asked for a better painting."
 Established in 1957, the biennial John Moores Painting Prize is one of Britain's oldest art awards.
-Previous winners include David Hockney and Peter Doig. Sir Peter Blake, who is now the prize's patron, won the junior title in 1961. 
+Previous winners include David Hockney and Peter Doig. Sir Peter Blake, who is now the prize's patron, won the junior title in 1961.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+one of the world\'s most prestigious paintings has been awarded the prize for this year\'s turner prize.
+</Summary>
 
-1. The summary states that one of the world's most prestigious paintings has been awarded the prize, but the article does not mention anything about the painting being prestigious.
-2. The summary mentions that the painting is a "turner prize" winner, but the article does not use that term. Instead, it refers to the "John Moores Painting Prize".
-3. The summary does not mention the name of the artist who won the prize, but the article reveals that the winner is 76-year-old painter, Simpson.
-4. The summary does not provide any details about the painting, such as its size or subject matter, but the article describes the painting as being about 7ft tall and depicting a leper squint.
-5. The summary mentions that the prize is for "this year's turner prize", but the article does not mention the year.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions that do not accurately reflect the content of the article.
+1. The summary states that one of the world's most prestigious paintings has been awarded the prize for this year's Turner Prize.
+2. However, the article states that the prize awarded was the John Moores Painting Prize, not the Turner Prize.
+3. The Turner Prize is a different art award, and it is not mentioned in the article.
+4. Therefore, the summary is not consistent with the article, as it incorrectly identifies the prize awarded and confuses it with another prize.
 
 ###Corrected:

@@ -1,39 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a scottish food company has reported a pre-tax profit of # both for the first half of 2016. 
-
-    Article: 
-    Aberdeenshire-based Harbro Group saw pre-tax profit increase by £800,000, to £3.5m, in the year to the end of June 2016.
+<Article>
+Aberdeenshire-based Harbro Group saw pre-tax profit increase by £800,000, to £3.5m, in the year to the end of June 2016.
 This was despite turnover falling by £1m to just over £100m.
 Harbro said international sales grew over the year, both in Europe and in new markets further afield.
 The Turriff-based company manufactures and supplies feeds for the beef, sheep, dairy, pig and poultry sectors.
 It also has a network of 19 shops across Scotland, operating under the Country Store brand. The stores cater for farming and rural communities with a range of products, including fireside supplies, country clothing and footwear.
 In accounts filed with Companies House, the company said: "As always, the outlook for agriculture is difficult to predict.
 "We have certainly been experiencing challenging times over the last 12-18 months but the industry is a robust one.
-"The impact of Brexit is still to be fully understood, although the board are confident that the group will be well positioned for whatever business challenges this may bring about." 
+"The impact of Brexit is still to be fully understood, although the board are confident that the group will be well positioned for whatever business challenges this may bring about."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+a scottish food company has reported a pre-tax profit of # both for the first half of 2016.
+</Summary>
 
-1. The summary states that the Scottish food company reported a pre-tax profit of # for the first half of 2016.
+Explain your reasoning step by step:[/INST]
 
-However, the article states that the company reported a pre-tax profit of £3.5m for the year to the end of June 2016, which is a specific amount and not a hashtag (#).
-
-2. The summary does not provide any information about the company's turnover or international sales.
-
-In contrast, the article states that the company's turnover fell by £1m to just over £100m, and that international sales grew over the year.
-
-3. The summary mentions nothing about the company's operations or products.
-
-The article provides information about the company's manufacturing and supplying of feeds for various sectors, as well as its network of 19 shops across Scotland.
-
-4. The summary does not mention the company's confidence in facing business challenges.
-
-The article quotes the company as saying that the impact of Brexit is still to be fully understood, but that the board is confident that the group will be well positioned for whatever business challenges this may bring about.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The summary states that the Scottish food company reported a pre-tax profit of "# for the first half of 2016."
+2. However, the article states that the company reported a pre-tax profit of £800,000, not "#".
+3. The summary is not consistent with the article because it does not accurately reflect the information provided in the article.
+4. The article states that the company's pre-tax profit increased by £800,000, but the summary does not mention this increase.
+5. Additionally, the summary does not provide any specific information about the company's financial performance, such as the amount of turnover or the sector in which the company operates.
+6. Therefore, the summary is not a reliable representation of the information in the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stephen natalie, the mother of stephen sutton, who died at the age of 89, was one of the youngest friends of his family. 
-
-    Article: 
-    This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
+<Article>
+This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
 Stephen Paul Copoc was born on 1 August 1968, and was aged 20 years when he died at Hillsborough.
 Stephen was the baby of our family, and the apple of our Mum's eye. Our family consisted of Mum and Dad, I, Peter, my sister Angela and then our Stephen. I was 10 years old when Stephen was born. Angela was just seven years old.
 Our Dad took us to the hospital, so that we could meet our new baby brother. Mum and Dad said that Angela and I could name him, and we did. Financially, we had little, but our parents, Agnes and Harold, made sure that there was lots of love in our house.
@@ -39,17 +36,22 @@ Stephen loved to play football as well. He was not the best of players, but he w
 Stephen was a great music fan. He was always playing Pink Floyd and, in particular, 'Shine on you Crazy Diamond'. He always loved Marillion and went to concerts with his four close friends.
 Our parents never got over Stephen's death and the way he died. Our brother Stephen was one of life's genuine nice guys.
 Our Stephen was just 20 years of age, but had maturity and a caring attitude towards others and even from a young age carried a donor card.
-We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you. 
+We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+stephen natalie, the mother of stephen sutton, who died at the age of 89, was one of the youngest friends of his family.
+</Summary>
 
-1. The summary states that Stephen's mother, Natalie, was one of the youngest friends of the family, but the article does not mention anything about Natalie being a friend of the family.
-2. The summary states that Stephen was 20 years old when he died, but the article states that he was 18 years old when he died.
-3. The summary states that Stephen had a girlfriend named Jackie, but the article does not mention anything about a girlfriend.
-4. The summary states that Stephen was a gardener at Sudley Hall, but the article does not mention anything about his job or where he worked.
-5. The summary states that Stephen loved football and was a fan of Liverpool, but the article does not mention anything about football or Liverpool.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations that are not supported by the article. It is not a consistent summary of the information provided in the article.
+1. The summary states that Stephen Sutton was one of the youngest friends of the family, which is not consistent with the article.
+2. The article describes Stephen Copoc as the niece of Stephen Copoc, who is giving a statement on behalf of her brother Peter.
+3. The summary does not mention the name of the person who is giving the statement, nor does it mention the relationship of the person to Stephen Copoc.
+4. The article provides a detailed account of Stephen Copoc's life, including his birth, family, interests, and career.
+5. The summary does not provide any information about Stephen Copoc's life or background.
+6. The article mentions that Stephen Copoc died at the age of 20, and the summary does not mention this fact.
+
+Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary is likely incorrect or incomplete, and should not be relied upon as an accurate representation of the article.
 
 ###Corrected:

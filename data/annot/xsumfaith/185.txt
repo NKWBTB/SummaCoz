@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mental health patients in cornwall are to be sent to the county for treatment, a coroner has said. 
-
-    Article: 
-    It comes after a jury concluded the death of a man from St Austell was suicide, while undergoing care 140 miles from where he lived.
+<Article>
+It comes after a jury concluded the death of a man from St Austell was suicide, while undergoing care 140 miles from where he lived.
 David Knight was killed by a train near St Austell after going on leave from a Somerset hospital.
 The Department of Health has admitted "unacceptable" patients "are receiving care far from home".
 Click here for live updates on this story
@@ -18,17 +15,19 @@ The inquest heard Mr Knight was being treated there because there were no acute 
 The NHS said 30 adult mental patients were placed out of Cornwall in 2015/16, 150 the year before when a key unit was closed for six months, and 60 the year before that.
 The Department of Health said it had increased mental health funding to Â£11.7bn and had accepted the recommendation of the Mental Health Taskforce that the inappropriate use of out of area treatments for adults in acute care "must be eliminated by 2020/21".
 "We will work to a faster timetable if at all possible," said a spokeswoman.
-"We will consider Dr Carlyon's letter in detail once it arrives." 
+"We will consider Dr Carlyon's letter in detail once it arrives."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+mental health patients in cornwall are to be sent to the county for treatment, a coroner has said.
+</Summary>
 
-1. The summary states that mental health patients in Cornwall will be sent to the county for treatment, as stated by a coroner.
-2. However, the article does not support this statement. Instead, it reports that mental health patients in Cornwall are already being sent out of the county for treatment due to a lack of acute psychiatric inpatient beds available in Cornwall.
-3. The article mentions that an inquest heard that a man from St Austell died after being treated 140 miles away from his home, highlighting the issue of patients being sent out of the county for treatment.
-4. The article also states that the Department of Health has acknowledged that "unacceptable" patients are receiving care far from home, and that they have accepted the recommendation of the Mental Health Taskforce to eliminate the inappropriate use of out of area treatments for adults in acute care by 2020/21.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the current situation of mental health patients in Cornwall being sent out of the county for treatment, and it does not mention the issue of inadequate mental health resources in Cornwall.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the current situation of mental health patients in Cornwall being sent out of the county for treatment, and it does not mention the issue of inadequate mental health resources in Cornwall.
+1. The article states that the coroner, Dr. Emma Carlyon, is satisfied with the commitment to continue working hard to ensure the lowest number of patients leave the county for treatment.
+2. The article also states that the Department of Health has accepted the recommendation to eliminate the inappropriate use of out-of-area treatments for adults in acute care by 2020/21.
+3. However, the summary states that mental health patients in Cornwall are to be sent to the county for treatment, which is not supported by the article.
+4. The article does mention that patients are currently being sent out of Cornwall for treatment due to a lack of acute psychiatric inpatient beds in the county, but it does not state that patients will be sent to the county for treatment.
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
 
 ###Corrected:

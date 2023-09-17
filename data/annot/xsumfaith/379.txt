@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new fire service is to be set up to oversee a new fire service in east sussex, it has been announced. 
-
-    Article: 
-    The move is part of national fire service reforms unveiled by Home Secretary Theresa May last week.
+<Article>
+The move is part of national fire service reforms unveiled by Home Secretary Theresa May last week.
 Sussex PCC Katy Bourne said emergency services would have an increased duty to collaborate under the new bill.
 But West Sussex County Council (WSCC) said it already had an excellent model.
 East Sussex's fire authority said it would co-operate with the PCC but it believed collaboration could be achieved without elaborate structural change.
@@ -18,16 +15,20 @@ Ms Goldsmith said West Sussex fire service was already integrated within the cou
 She added last year's Shoreham air disaster showed how West Sussex emergency services already worked together.
 East Sussex Fire Authority said it was willing to co-operate with the PCC to determine whether proposals could improve delivery of services and create efficiencies.
 In a statement, it added: "[The fire authority] believes whilst close collaboration between the emergency services is essential, it can be achieved without elaborate structural change.
-"It is also the fire authority's considered view that it is more accountable to the community it serves because its members are elected councillors." 
+"It is also the fire authority's considered view that it is more accountable to the community it serves because its members are elected councillors."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a new fire service is to be set up to oversee a new fire service in east sussex, it has been announced.
+</Summary>
 
-1. The summary states that a new fire service is to be set up in East Sussex, but the article does not mention this. Instead, the article discusses the possibility of bringing both West Sussex and East Sussex fire services under the authority of the Police and Crime Commissioner (PCC) for Sussex, Katy Bourne.
-2. The summary does not mention the opposition to the proposal from West Sussex County Council (WSCC) and East Sussex Fire Authority, which is mentioned in the article.
-3. The summary does not mention the reasons given by WSCC and East Sussex Fire Authority for their opposition to the proposal, such as the existing integration of the fire service within the council and the belief that close collaboration between the emergency services can be achieved without elaborate structural change.
-4. The summary does not mention the invitation to the Home Secretary to visit West Sussex and see an alternative to the government's preferred plan, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content or the opposing views of the parties involved.
+1. The summary states that a new fire service is to be set up in East Sussex, but the article does not mention anything about a new fire service being established.
+2. The article mentions that Sussex PCC Katy Bourne has written to West Sussex County Council (WSCC) and East Sussex Fire Authority to request them to explore the feasibility of bringing both fire services under her authority, but the summary does not mention this.
+3. The article states that West Sussex County Council (WSCC) has opposed the proposal, but the summary does not mention this.
+4. The article mentions that East Sussex Fire Authority is willing to cooperate with the PCC to determine whether proposals could improve delivery of services and create efficiencies, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary misleadingly states that a new fire service is to be set up in East Sussex, when in fact the article discusses the possibility of bringing both fire services under the authority of the PCC, and the opposition to this proposal by WSCC.
 
 ###Corrected:

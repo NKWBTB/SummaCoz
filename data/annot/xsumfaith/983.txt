@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    steve ince scored his first goal of the season to give derby victory over derby at carrow road. double their season in the championship. 
-
-    Article: 
-    Craig Bryson gave the Rams an early lead when he struck from the edge of the area, before Thomas Ince curled in a stunning effort to double the lead.
+<Article>
+Craig Bryson gave the Rams an early lead when he struck from the edge of the area, before Thomas Ince curled in a stunning effort to double the lead.
 Shortly after Bryson hit the crossbar, Darren Bent added a third when he headed home from close range.
 Ipswich struggled for clear-cut chances, while Derby missed several.
 Ince, whose earlier effort came after he drifted in from the right to score his 11th goal of the season, could only hit the post from a low cross by Bent in the second half.
@@ -59,16 +56,20 @@ Darren Bent (Derby County) wins a free kick in the attacking half.
 Attempt saved. Kevin Bru (Ipswich Town) right footed shot from a difficult angle on the right is saved in the bottom left corner.
 Substitution, Ipswich Town. Kieffer Moore replaces Brett Pitman.
 Corner,  Ipswich Town. Conceded by Richard Keogh.
-Grant Ward (Ipswich Town) wins a free kick in the defensive half. 
+Grant Ward (Ipswich Town) wins a free kick in the defensive half.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+steve ince scored his first goal of the season to give derby victory over derby at carrow road. double their season in the championship.
+</Summary>
 
-1. The summary states that Steve Ince scored his first goal of the season to give Derby victory over Ipswich, but the article does not mention Steve Ince scoring a goal. Instead, it mentions Tom Ince scoring a goal for Derby.
-2. The summary states that Derby won the match 3-0, but the article does not mention the final score. Instead, it provides a detailed account of the match, including the goals scored by Craig Bryson, Tom Ince, and Darren Bent.
-3. The summary mentions that Ipswich struggled for clear-cut chances, but the article does not mention this. Instead, it highlights Ipswich's late penalty appeal and their inability to score goals.
-4. The summary states that the match ended with Derby winning 3-0, but the article does not mention the final score. Instead, it provides a detailed account of the match, including the goals scored by Craig Bryson, Tom Ince, and Darren Bent.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the given summary is not consistent with the article because it contains inaccuracies and omits important details. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
+1. Inconsistent information: The summary states that Steve Ince scored his first goal of the season, but the article does not mention anything about Steve Ince scoring a goal. Instead, the article mentions that Tom Ince scored Derby's second goal.
+2. Incorrect information: The summary states that Derby doubled their season in the championship, but the article does not mention anything about Derby doubling their season. The article only mentions that Derby won the game 3-0.
+3. Missing information: The summary does not mention anything about the first goal being scored by Craig Bryson, or the third goal being scored by Darren Bent. The article provides this information, but the summary does not include it.
+
+Overall, the summary is not a consistent or accurate reflection of the information provided in the article.
 
 ###Corrected:

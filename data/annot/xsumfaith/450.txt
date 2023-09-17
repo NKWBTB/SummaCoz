@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    one of the most famous artists in the world, oil mozart, has been named as the new artistic artist of the year. 
-
-    Article: 
-    The oil painting was commissioned by Royal Northern Sinfonia, which wants to challenge the Austrian's "chocolate box" portrayal, ahead its new season.
+<Article>
+The oil painting was commissioned by Royal Northern Sinfonia, which wants to challenge the Austrian's "chocolate box" portrayal, ahead its new season.
 "Somehow we've come to think of his music as pretty," said the orchestra's music director Lars Vogt.
 "But that music is often dramatic and dark. Those qualities must have been there in the man."
 The portrait was painted by renowned American artist Tim O'Brien, and will be projected onto buildings around the orchestra's home towns of Newcastle and Gateshead over the coming months.
@@ -22,16 +19,21 @@ The portrait accompanies the Northern Sinfonia's new season, which includes a se
 They begin on Friday, 18 September with the first movement of Mozart's Symphony No. 25, and will also include his Clarinet Concerto and the rarely performed Symphony No. 33.
 Musical director Vogt will be the soloist in the Quintet for Piano and Wind, of which Mozart once wrote: "I myself consider it to be the best thing I have written in my life."
 The German concert pianist and conductor, who recently played the first night of the Proms, is an avowed Mozart fan - whose desert island disc would be a box set of the composer's works.
-In his first season as director of the Sinfonia, he plans to stage a number of "pop-up" concerts in venues that echo the "darker corners of Vienna" that Mozart would have frequented in the 18th Century. 
+In his first season as director of the Sinfonia, he plans to stage a number of "pop-up" concerts in venues that echo the "darker corners of Vienna" that Mozart would have frequented in the 18th Century.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+one of the most famous artists in the world, oil mozart, has been named as the new artistic artist of the year.
+</Summary>
 
-1. The summary states that Mozart has been named the new artistic artist of the year, but the article does not mention anything about Mozart being named artist of the year. Instead, the article focuses on a new portrait of Mozart that has been created by American artist Tim O'Brien.
-2. The summary describes the portrait as being of Mozart as an "artistic artist," but the article does not mention anything about the portrait being of Mozart as an artist. Instead, the article describes the portrait as being of Mozart as a composer, with O'Brien drawing inspiration from musicians of our own era to capture Mozart's complexity and depth.
-3. The summary states that the portrait will be projected onto buildings around Newcastle and Gateshead, but the article does not mention anything about the portrait being projected onto buildings. Instead, the article states that the portrait will accompany the Northern Sinfonia's new season, which includes a series of concerts called Reclaiming Mozart.
-4. The summary describes the portrait as being of Mozart as a "chocolate box" figure, but the article does not mention anything about the portrait depicting Mozart in this way. Instead, the article describes the portrait as capturing Mozart's complexity and depth.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations that do not accurately reflect the content of the article.
+1. The summary states that Tim O'Brien has been named as the new artistic artist of the year, but the article does not mention anything about O'Brien being named as such.
+2. The article does mention that O'Brien painted a portrait of Mozart, but there is no mention of O'Brien being awarded any kind of artistic recognition.
+3. The summary is not consistent with the article because it makes a claim that is not supported by the information in the article.
+4. The article is about the unveiling of a new portrait of Mozart, and the artist, Tim O'Brien, discusses his inspiration for the painting and the complexity of Mozart's music.
+5. The article does not mention anything about O'Brien being named as the new artistic artist of the year, and there is no evidence in the article to support this claim.
+
+Therefore, the summary is not consistent with the article because it makes a claim that is not supported by the information in the article.
 
 ###Corrected:

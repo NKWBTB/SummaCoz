@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    denmark\'s health service has come under intense criticism for its decision to change the way cancer is treated in denmark. 
-
-    Article: 
-    It decided to reorganise the way patients were diagnosed by GPs and specialists by bringing in a new approach, especially to deal with those cancer cases which are not initially obvious.
+<Article>
+It decided to reorganise the way patients were diagnosed by GPs and specialists by bringing in a new approach, especially to deal with those cancer cases which are not initially obvious.
 A team of cancer specialists, GPs, NHS and public health experts from Wales have just returned from a fact-finding visit to Aarhus, Denmark's second city.
 So what was the problem?
 Prof Frede Olesen of Aarhus University said the changes followed "quite alarming" cancer survival statistics more than 15 years ago showing Denmark was performing poorly compared to other European countries, including the rest of Scandinavia.
@@ -33,16 +30,21 @@ Importantly, he says it has also led to better survival rates.
 Denmark has a similar health system in how it is funded and organised to Wales.
 He said there could be lessons shared between Wales and Denmark on how better organisation can help "in catching up the elite in Europe".
 Dr Tom Crosby, medical director of the Wales Cancer Network, said he had been impressed with how the Danish health service had broken down the barriers between GPs and specialists to work better together.
-He said: "People are not just doing tests in isolation - they are working together to achieve a diagnosis." 
+He said: "People are not just doing tests in isolation - they are working together to achieve a diagnosis."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+denmark\'s health service has come under intense criticism for its decision to change the way cancer is treated in denmark.
+</Summary>
 
-1. The summary states that Denmark's health service has come under intense criticism for changing the way cancer is treated, but the article does not mention any criticism. Instead, it highlights the improvements made to the cancer diagnosis and treatment process.
-2. The summary mentions that the changes were made in response to "alarming" cancer survival statistics, but the article does not mention any specific statistics or data. Instead, it explains that the changes were made to improve the organization of cancer diagnosis and treatment.
-3. The summary mentions that patients with vague or difficult-to-diagnose symptoms were not being diagnosed quickly enough, but the article explains that the changes were made to improve the diagnosis and treatment of all cancer cases, not just those with obvious symptoms.
-4. The summary mentions that the changes have led to a "flooding of the system" with more GP referrals, but the article explains that the changes have not led to an increase in referrals, but rather better organization of existing resources.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary presents a negative view of the changes made to Denmark's health service, while the article presents a positive view of the improvements made to cancer diagnosis and treatment. Therefore, the summary is not consistent with the article.
+1. The summary states that Denmark's health service has come under intense criticism for its decision to change the way cancer is treated in Denmark.
+2. However, the article does not mention any criticism of the changes made to the cancer treatment system in Denmark. Instead, it highlights the improvements made to the system and the better survival rates achieved.
+3. Therefore, the summary is not consistent with the article, as there is no mention of criticism in the article.
+4. The article actually describes the changes made to the cancer treatment system in Denmark as an effort to improve cancer survival rates, with the introduction of fast-track diagnosis and treatment routes, diagnosis centers, and "yes-no" centers.
+5. The article also highlights the positive results of these changes, such as better organization of how patients are diagnosed within existing resources and improved survival rates.
+6. Therefore, the correct summary of the article should not include any mention of criticism, but rather focus on the improvements made to the cancer treatment system in Denmark and the positive results achieved.
 
 ###Corrected:

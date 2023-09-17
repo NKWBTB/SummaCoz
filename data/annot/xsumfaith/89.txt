@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    glamorgan set up an unlikely one-day cup victory over gloucestershire after being set a target of 182 to spare in a rain-affected match. 
-
-    Article: 
-    Glamorgan's total was dominated by Nick Selman's mature 101 off 144 balls, his second first-class century.
+<Article>
+Glamorgan's total was dominated by Nick Selman's mature 101 off 144 balls, his second first-class century.
 But seamers Matt Taylor and Craig Miles made sure wickets fell at regular intervals in cloudy conditions in the Welsh capital.
 Gloucestershire struggled in turn as the bowlers remained on top all day.
 Selman's century, after being dropped on eight in the first over, was a welcome return to form for the Brisbane-born opener after a string of low scores following his hundred against Northants at Swansea.
@@ -23,27 +20,19 @@ Gloucestershire seamer Matt Taylor told BBC Radio Bristol:
 "There's definitely a bit on offer out there (for the bowlers), we didn't start exactly how we'd like but we got there in the end and we'd take bowling them out for 220.
 "I was pretty happy with that (hitting the stumps three times), the same plan as always is to hit the top of off-stump and luckily they missed them today.
 "I was pleased to get an opportunity in T20 and the white-ball stuff this year, now I'm getting an opportunity with the red ball it's great.
-"It's definitely going to be tough (for the Gloucestershire batsmen), they're a good bowling attack but hopefully we can dig in and get to a reasonable score." 
+"It's definitely going to be tough (for the Gloucestershire batsmen), they're a good bowling attack but hopefully we can dig in and get to a reasonable score."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+glamorgan set up an unlikely one-day cup victory over gloucestershire after being set a target of 182 to spare in a rain-affected match.
+</Summary>
 
-Step 1: Identify the main points of the summary and the article.
+Explain your reasoning step by step:[/INST]
 
-Summary: Glamorgan won an unlikely one-day cup victory over Gloucestershire.
+1. The summary states that Glamorgan set up an unlikely one-day cup victory over Gloucestershire, but the article does not mention anything about a victory or an unlikely win.
+2. The summary mentions a target of 182 to spare, but the article does not mention any specific target or the word "spare".
+3. The summary implies that the match was rain-affected, but the article does not mention anything about rain.
 
-Article: Glamorgan's batsman Nick Selman scored a century, and the team's bowlers did well to restrict Gloucestershire's score.
-
-Step 2: Identify the inconsistencies between the summary and the article.
-
-Inconsistency: The summary states that Glamorgan won an unlikely victory, but the article does not mention anything about the victory being unlikely. Instead, the article focuses on Nick Selman's century and the team's bowling performance.
-
-Step 3: Analyze the reasons for the inconsistency.
-
-Reason: The summary likely emphasized the victory because it is a more dramatic and attention-grabbing aspect of the match. However, the article focuses more on the individual performances of the players, particularly Nick Selman's century.
-
-Step 4: Conclude why the summary is not consistent with the article.
-
-Conclusion: The summary is not consistent with the article because it emphasizes an unlikely victory, which is not a central theme of the article. Instead, the article focuses on the individual performances of the players, particularly Nick Selman's century.
+Therefore, the summary is not consistent with the article. The summary is incorrect in stating that Glamorgan set up an unlikely one-day cup victory over Gloucestershire, as the article does not mention any such victory or unlikely win. Additionally, the summary mentions a target of 182 to spare, which is not mentioned in the article, and the article does not mention any rain, which is implied in the summary.
 
 ###Corrected:

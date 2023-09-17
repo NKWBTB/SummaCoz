@@ -1,22 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    simon stevens is to play the beauty of the beauty and the beast in disney\'s west end film. 
+<Article>
+The star will play Mrs Potts, the housekeeper magically transformed into a teapot whom Dame Angela Lansbury voiced in the 1991 animated version of the film.Fellow Oscar-winner Kevin Kline has also signed on to play Maurice, the father of the 'Beauty' character Belle.The film will be released in US cinemas on 17 March 2017.It was announced in January that Harry Potter star Emma Watson had been cast as Belle.It was subsequently confirmed that Downton Abbey's Dan Stevens will play the Beast and that Luke Evans will co-star as the villainous Gaston.Josh Gad, who voiced Olaf the snowman in Disney's animated hit Frozen, is also on board as Gaston's sidekick LeFou.Bill Condon, director of Dreamgirls and the last two Twilight films, will direct the movie, which begins filming at Shepperton Studios in May.
+</Article>
 
-    Article: 
-    The star will play Mrs Potts, the housekeeper magically transformed into a teapot whom Dame Angela Lansbury voiced in the 1991 animated version of the film.Fellow Oscar-winner Kevin Kline has also signed on to play Maurice, the father of the 'Beauty' character Belle.The film will be released in US cinemas on 17 March 2017.It was announced in January that Harry Potter star Emma Watson had been cast as Belle.It was subsequently confirmed that Downton Abbey's Dan Stevens will play the Beast and that Luke Evans will co-star as the villainous Gaston.Josh Gad, who voiced Olaf the snowman in Disney's animated hit Frozen, is also on board as Gaston's sidekick LeFou.Bill Condon, director of Dreamgirls and the last two Twilight films, will direct the movie, which begins filming at Shepperton Studios in May. 
+<Summary>
+simon stevens is to play the beauty of the beauty and the beast in disney\'s west end film.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Simon Stevens is going to play the "beauty of the beauty and the beast." However, the article states that Emma Watson is playing the role of Belle, not Simon Stevens. Therefore, the summary is not consistent with the article.
-2. The summary also states that Kevin Kline is going to play Maurice, the father of the "Beauty" character Belle. This is correct, as the article confirms that Kevin Kline has signed on to play this role.
-3. The summary mentions that Dan Stevens is going to play the Beast, which is also correct, as the article confirms that Dan Stevens has been cast in this role.
-4. The summary states that Luke Evans is going to co-star as the villainous Gaston. This is correct, as the article confirms that Luke Evans has been cast in this role.
-5. The summary mentions that Josh Gad is going to play Gaston's sidekick LeFou. This is not mentioned in the article, so the summary is not consistent with the article.
-
-Therefore, the summary is not consistent with the article because it incorrectly states that Simon Stevens is going to play Belle, and it mentions Josh Gad's character (LeFou) who is not mentioned in the article.
+1. The summary states that Simon Stevens will play the "beauty" in Disney's West End film of Beauty and the Beast.
+2. However, the article states that Emma Watson will play the role of Belle, not Simon Stevens.
+3. The article also mentions that Dan Stevens will play the Beast, Luke Evans will play Gaston, and Josh Gad will play LeFou, but there is no mention of Simon Stevens.
+4. Therefore, the summary is not consistent with the article, as there is no mention of Simon Stevens in the article.
+5. The reason for this inconsistency is likely that the summary is incorrect or outdated, as it does not reflect the information provided in the article.
 
 ###Corrected:

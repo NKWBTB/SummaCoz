@@ -1,23 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    swedish mobile phone firm company has announced it is shutting down its android operating system. 
-
-    Article: 
-    26 July 2016 Last updated at 17:48 BST
+<Article>
+26 July 2016 Last updated at 17:48 BST
 The company says its Dtek50 smartphone offers improved security over rival Android devices, and will cost less than its previous handset Priv.
 It is the firm's second Android handset after switching focus away from its struggling BB10 platform.
-One analyst said the phone was the "right move" but that the company still faced an "uphill battle" with devices. 
+One analyst said the phone was the "right move" but that the company still faced an "uphill battle" with devices.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+swedish mobile phone firm company has announced it is shutting down its android operating system.
+</Summary>
 
-1. The summary states that the Swedish mobile phone firm is shutting down its Android operating system, but the article does not mention anything about shutting down the Android operating system. Instead, the article talks about the company's new Dtek50 smartphone that offers improved security over rival Android devices.
-2. The article states that the company is focusing away from its struggling BB10 platform and has launched its second Android handset. This suggests that the company is not shutting down its Android operating system, but rather shifting its focus to Android devices.
-3. The summary's statement that the company is shutting down its Android operating system is not supported by the information in the article. The article only mentions the company's new Dtek50 smartphone and its focus on Android devices, but there is no mention of shutting down the Android operating system.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, and the statement about shutting down the Android operating system is not supported by the information in the article.
+1. The article states that the company is launching a new Android handset, the Dtek50, which suggests that the company is not shutting down its Android operating system.
+2. The article mentions that the company is switching focus away from its BB10 platform, which implies that the company is continuing to produce Android devices.
+3. The summary states that the company is shutting down its Android operating system, which is not supported by the information in the article.
+4. The article mentions that the company is launching a new Android handset, which contradicts the claim in the summary that the company is shutting down its Android operating system.
+
+Therefore, the summary is not consistent with the article, and the reason for this inconsistency is that the summary contains false information.
 
 ###Corrected:

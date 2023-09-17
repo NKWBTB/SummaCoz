@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    yulia simonova , 52 , wanted to hire a hitman to torture and murder 15-year-old damian vanya after he ended their relationship . 
-police set up a sting operation sending one of their undercover officers to pose as a hitman during a meeting with the teacher . 
-a hidden camera filmed the exchange where the teacher said she wanted the boy to slowly bleed to death before she ` finished ` him . 
-
-    Article: 
-    jilted music teacher yulia simonova , 52 , wanted to hire a hitman to torture and murder 15-year-old damian vanya after he ended their relationship
+<Article>
+jilted music teacher yulia simonova , 52 , wanted to hire a hitman to torture and murder 15-year-old damian vanya after he ended their relationship
 a hidden camera filmed the moment a jilted 52-year-old music teacher ordered a ` hit ' on a teenage pupil , after the 15-year-old ended their relationship .
 yulia simonova faces 15 years behind bars after she asked a friend to find someone willing to torture and kill damian vanya in exchange for 100,000 rubles ( £ 1,400 ) , after he dumped her for a classmate .
 but police set up a sting operation , sending one of their undercover officers to pose as a hitman during a meeting with simonova in the russian city of shatura , near the capital of moscow .
@@ -29,16 +24,23 @@ the 52-year-old had showered the teen with gifts during their affair
 pupil vanya ended the relationship with his teacher , pictured being arrested by police , when he got together with his classmate .
 he said he hoped the guards would ` throw away the key ' for simonova 's prison cell
 vanya , who is thought to have broken off the relationship with the teacher for one of his classmates , said he was relieved .
-` i hope they throw away the key ' , he added . 
+` i hope they throw away the key ' , he added .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+yulia simonova , 52 , wanted to hire a hitman to torture and murder 15-year-old damian vanya after he ended their relationship . 
+police set up a sting operation sending one of their undercover officers to pose as a hitman during a meeting with the teacher . 
+a hidden camera filmed the exchange where the teacher said she wanted the boy to slowly bleed to death before she ` finished ` him .
+</Summary>
 
-1. The summary states that the teacher wanted the boy to "slowly bleed to death" before she "finished him," but the article does not mention anything about the teacher wanting the boy to bleed to death. Instead, the article states that the teacher wanted the boy to be tortured and killed.
-2. The summary mentions that the teacher asked the hitman to break the boy's arms and legs, but the article does not mention anything about the teacher asking the hitman to break the boy's arms and legs. Instead, the article states that the teacher wanted the boy to be tortured and killed.
-3. The summary states that the teacher wanted the boy to suffer unbearable pain, but the article does not mention anything about the teacher wanting the boy to suffer unbearable pain. Instead, the article states that the teacher wanted the boy to be tortured and killed.
-4. The summary mentions that the teacher was arrested after handing over expense money, but the article does not mention anything about the teacher being arrested after handing over expense money. Instead, the article states that the teacher was arrested after she had handed over some expenses money to the "killer."
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the teacher's desire for the boy to suffer and emphasizes the idea of slow bleeding, which is not present in the article. Additionally, the summary mentions the teacher being arrested after handing over expense money, which is not mentioned in the article.
+The summary is not consistent with the article because:
+
+1. The summary states that the teacher wanted to hire a hitman to torture and murder the 15-year-old student, while the article states that the teacher wanted the student to be tortured and killed slowly, with the intention of inflicting unbearable pain.
+2. The summary does not mention the teacher's desire for the student to bleed to death, which is a key detail in the article.
+3. The summary does not mention the undercover police officer or the sting operation set up by the police, which is a crucial part of the article.
+
+Therefore, the summary is not an accurate representation of the article. It omits key details and distorts others, resulting in a summary that is not consistent with the original article.
 
 ###Corrected:

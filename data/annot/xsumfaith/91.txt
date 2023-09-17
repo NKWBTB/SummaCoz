@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland\'s laura muir is to miss the commonwealth games in london next month because she is missing the commonwealth games. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Muir told BBC Scotland her veterinary medicine studies will mean she will not be with the Scotland team at next year's event on Australia's Gold Coast.
 The 24-year-old finished fourth and sixth in the 1500m and 5,000m at the World Athletics Championships.
 "My exams aren't until May so Commonwealths being in April, it's just not going to work out unfortunately," said the middle distance runner.
@@ -22,15 +19,20 @@ Hellen Obiri upset defending world champion Almaz Ayana to win 5,000m gold in Lo
 Muir's time of 14 minutes 52.07 seconds was her new outdoor personal best.
 "I'm really happy," she said after Sunday's race.
 "It was really tough competition out there. I'm delighted with that. I'm really, really pleased with how I ran.
-"My fifth race in 10 days - it's a lot of running and to still come away with that I think there's a lot of potential for the future." 
+"My fifth race in 10 days - it's a lot of running and to still come away with that I think there's a lot of potential for the future."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scotland\'s laura muir is to miss the commonwealth games in london next month because she is missing the commonwealth games.
+</Summary>
 
-1. The summary states that Laura Muir is missing the Commonwealth Games because she is missing the Commonwealth Games. However, the article states that Muir will miss the Commonwealth Games because she has to focus on her veterinary medicine studies.
-2. The summary does not mention Muir's studies as the reason for her absence from the Commonwealth Games. Instead, it simply states that she is missing the Games.
-3. The article provides more information about Muir's decision to prioritize her studies over the Commonwealth Games. The summary does not include this information.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not provide the same level of detail and context as the article. The article provides a more complete picture of Muir's decision to miss the Commonwealth Games, including her reasons for doing so.
+1. The summary states that Laura Muir is missing the Commonwealth Games because she is missing the Commonwealth Games. This is a circular statement that doesn't make sense.
+2. The article states that Muir will not be able to participate in the Commonwealth Games because she has to focus on her studies and will be back in university next week.
+3. The article also mentions that Muir has exams in May and the Commonwealth Games are in April, so it is not possible for her to participate.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the reasons why Muir will be missing the Commonwealth Games.
+
+In conclusion, the summary is not consistent with the article because it contains a circular statement that does not accurately reflect the reasons why Laura Muir will be missing the Commonwealth Games. The article provides a clear explanation for her absence, which is her focus on her studies and upcoming exams.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    germany\'s alexander jung has won olympic gold in the dressage at rio 2016. 
-
-    Article: 
-    Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
+<Article>
+Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
 France's Astier Nicolas took silver and American Phillip Dutton won bronze as GB's William Fox-Pitt finished 12th.
 Fox-Pitt, 47, was competing just 10 months after being placed in an induced coma following a fall.
 The three-time Olympic medallist, aboard Chilli Morning, produced a faultless performance in Tuesday's final show-jumping phase.
@@ -15,15 +12,22 @@ He led after the dressage phase, but dropped to 21st after incurring several tim
 Ireland's Jonty Evans finished ninth on Cooley Rorkes Drift.
 Why not come along, meet and ride Henry the mechanical horse at some of the Official Team GB fan parks during the Rio Olympics?
 Find out how to get into equestrian with our special guide.
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+germany\'s alexander jung has won olympic gold in the dressage at rio 2016.
+</Summary>
 
-1. The summary states that Alexander Jung won Olympic gold in dressage, but the article does not mention Jung or any gold medal winner in dressage.
-2. The article mentions that William Fox-Pitt finished 12th, but the summary does not mention him at all.
-3. The summary mentions that the competition was held in Rio 2016, but the article does not mention the location of the competition.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the given summary is not consistent with the article because it contains incorrect information about the winners, participants, and location of the competition.
+1. The summary states that Germany's Alexander Jung has won Olympic gold in the dressage at Rio 2016.
+2. However, the article does not mention Alexander Jung at all.
+3. The article mentions Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
+4. The article also mentions that France's Astier Nicolas took silver and American Phillip Dutton won bronze, and that GB's William Fox-Pitt finished 12th.
+5. The summary is not consistent with the article because there is no mention of Alexander Jung in the article.
+6. The summary is incorrect because it mentions a gold medal winner who does not exist in the article.
+7. The article does mention a rider named Jung, but he is not German, he is aboard Sam, and he did not win gold.
+8. Therefore, the summary is not accurate and does not reflect the information in the article.
 
 ###Corrected:

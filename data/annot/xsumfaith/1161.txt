@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two goals in three second-half minutes gave inverness caledonian thistle victory over st johnstone in the highlands. 
-
-    Article: 
-    Liam Craig swept home Steven MacLean's delivery in with 14 minutes gone.
+<Article>
+Liam Craig swept home Steven MacLean's delivery in with 14 minutes gone.
 ICT captain Gary Warren was dismissed for two bookable offences in quick succession after the break, leading to Murray Davidson firing in a second.
 Danny Swanson broke neatly into the box and killed off Caley Thistle in the final 10 minutes with a low finish.
 Inverness, now propping up the league table, have conceded more goals than any other side in the Premiership.
@@ -66,29 +63,19 @@ Danny Swanson (St. Johnstone) wins a free kick in the defensive half.
 Foul by Gary Warren (Inverness CT).
 Gary Warren (Inverness CT) is shown the yellow card.
 Steven MacLean (St. Johnstone) wins a free kick in the defensive half.
-Foul by Gary Warren (Inverness CT). 
+Foul by Gary Warren (Inverness CT).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Inverness CT lost 3-0 to St. Johnstone, but the article states that Inverness CT lost 2-0. The summary is not consistent with the article.
+<Summary>
+two goals in three second-half minutes gave inverness caledonian thistle victory over st johnstone in the highlands.
+</Summary>
 
-2. The summary states that Inverness CT conceded three goals, but the article states that St. Johnstone scored three goals. The summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-3. The summary states that Danny Swanson broke neatly into the box and killed off Caley Thistle with a low finish, but the article does not mention this. The summary is not consistent with the article.
-
-4. The summary states that Inverness CT have conceded more goals than any other side in the Premiership, but the article does not mention this. The summary is not consistent with the article.
-
-5. The summary states that St. Johnstone deserved another goal, but the article does not mention this. The summary is not consistent with the article.
-
-6. The summary states that Inverness CT got what they deserved, but the article does not mention this. The summary is not consistent with the article.
-
-7. The summary states that Inverness CT have gone from one of their best performances of the season to one of their worst, but the article does not mention this. The summary is not consistent with the article.
-
-8. The summary states that Inverness CT need more defensive-minded players, but the article does not mention this. The summary is not consistent with the article.
-
-9. The summary states that St. Johnstone started on the front foot and got the goal, but the article does not mention this. The summary is not consistent with the article.
-
-10. The summary states that Inverness CT have been inconsistent this season, but the article does not mention this. The summary is not consistent with the article.
-
-Therefore, the summary is not consistent with the article, and it appears to be a poor summary of the match.
+1. The summary states that Inverness Caledonian Thistle won the match with two goals in three second-half minutes.
+2. However, the article states that St. Johnstone scored three goals, not Inverness.
+3. The first goal was scored by Liam Craig in the 14th minute, and the second goal was scored by Murray Davidson in the 64th minute.
+4. The article does not mention Inverness scoring any goals in the second half.
+5. Therefore, the summary is not consistent with the article, as it incorrectly states that Inverness won the match and does not accurately reflect the score or the timing of the goals.
 
 ###Corrected:

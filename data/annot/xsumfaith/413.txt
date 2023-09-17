@@ -1,27 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united\'s wayne rooney will make his first appearance in the united states next month. 
-
-    Article: 
-    It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
+<Article>
+It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
 Proceeds will be distributed to Rooney's four chosen charities.
 The game at Old Trafford, between Rooney's only two professional clubs, marks his 12 years' service at United.
 Rooney said: "I am delighted my testimonial game will be streamed globally, which will hopefully raise awareness and increase donations."
 It is expected to mark the first home appearances for Jose Mourinho's three summer signings; Zlatan Ibrahimovic, Henrikh Mkhitaryan and Eric Bailly.
-Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million. 
+Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+manchester united\'s wayne rooney will make his first appearance in the united states next month.
+</Summary>
 
-1. The summary states that Wayne Rooney will make his first appearance in the United States next month. However, the article does not mention anything about Rooney making an appearance in the United States.
-2. The summary implies that the testimonial game will be played at Old Trafford, which is Rooney's only professional club. However, the article states that the game will be streamed globally and does not mention a specific location.
-3. The summary mentions that the game will be Rooney's first home appearance for Jose Mourinho's three summer signings, but the article does not mention anything about the game being Rooney's first home appearance.
-4. The summary states that the game will be available to 1.7 billion people on the platform worldwide, but the article does not mention anything about the game being available on a platform or the number of people it will be available to.
-5. The summary mentions that proceeds from the game will be distributed to Rooney's four chosen charities, but the article does not mention anything about the proceeds being distributed to charities.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The article states that the testimonial game will be streamed globally, but the summary claims that Wayne Rooney will make his first appearance in the United States. This is not consistent with the article, as there is no mention of Rooney traveling to the United States or playing there.
+2. The article states that the game will be played at Old Trafford, which is in Manchester, England. There is no mention of the game being played in the United States.
+3. The summary does not provide any information about the charities that Rooney will be supporting, which is mentioned in the article as a key aspect of the testimonial game.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information about the location of the game and omits important details about the charities that Rooney will be supporting.
 
 ###Corrected:

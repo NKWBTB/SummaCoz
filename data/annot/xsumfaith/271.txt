@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england\'s batting display against pakistan was a ``great moment\'\', says former england captain michael vaughan. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The hosts won with a day to spare at Old Trafford to level the series.
 England made 589-8 declared and 173-1 declared to set up their second biggest win over Pakistan in terms of runs.
 "It's an absolute hammering. It's as good a four days of cricket that you could wish for from an England point of view," Vaughan told Test Match Special.
@@ -30,19 +27,26 @@ Of the Pakistan players, only captain Misbah-ul-Haq and Asad Shafiq have passed 
 "This is a big disappointment for us," said Misbah. "We could have scored around 400 in the first innings - the ball wasn't doing anything much.
 "We are short of confidence and shot selection really cost us.
 "These guys are strong characters - mentally strong. I'm hopeful that everybody is hurt and they will really work hard."
-Media playback is not supported on this device 
+Media playback is not supported on this device
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+england\'s batting display against pakistan was a ``great moment\'\', says former england captain michael vaughan.
+</Summary>
 
-1. The summary states that Michael Vaughan called England's batting display "a great moment", but in the article, he actually called it an "absolute hammering".
+Explain your reasoning step by step:[/INST]
+  Sure, here's my reasoning step by step:
 
-2. The summary mentions that England won with a day to spare, but the article states that they won with a day and a half to spare.
+1. The summary states that England's batting display against Pakistan was a "great moment", but the article does not support this statement.
 
-3. The summary states that Pakistan were bowled out for 234 in the second innings, but the article states that they were bowled out for 218.
+2. The article actually highlights Pakistan's poor batting display, with the team scoring only 234 runs in their first innings and 198 runs in their second innings.
 
-4. The summary quotes Vaughan as saying that England should enjoy the win and have a good party, but in the article, he actually says that he has a feeling that this series is going to be very, very tight.
+3. The article also notes that England's Joe Root scored 254 in the first innings and an unbeaten 71 off 48 balls in the second innings, but the summary does not mention this.
 
-Overall, the summary is not consistent with the article because it exaggerates England's performance and downplays Pakistan's struggles. The article presents a more balanced view of the match, highlighting England's strong batting performance but also noting Pakistan's struggles with the bat and the fact that they were bowled out for under 250 in both innings.
+4. The article quotes former England captain Michael Vaughan as saying that England's performance was "an absolute hammering" and "as good a four days of cricket that you could wish for from an England point of view", but the summary does not include this quote.
+
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article, particularly in terms of the poor performance of Pakistan's batting and the strong performance of England's Joe Root.
+
+In conclusion, the summary is not consistent with the article because it does not accurately reflect the content of the article, particularly in terms of the poor performance of Pakistan's batting and the strong performance of England's Joe Root.
 
 ###Corrected:

@@ -1,30 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the owners of a fosse park in cumbria have met in the city where new owners have said they are planning a ``better view\'\'. 
-
-    Article: 
-    Fosse Park, near junction 21 of the M1, opened in 1989 and was bought in August for Â£345.5m.
+<Article>
+Fosse Park, near junction 21 of the M1, opened in 1989 and was bought in August for Â£345.5m.
 Plans are now being prepared to improve parking and traffic congestion and the appearance of units.
 Ernie White, leader of Blaby District Council, said the new owners had met with the council to clear up "potential planning questions".
 "Fosse Park is the gateway from Blaby into the city and they see it as an investment that they think they can improve," said Mr White.
 "I think it could be a better view when you come into the city, at the moment all you see are far too many backs of sheds."
 Paul Clarke, director of investments at Crown Estates, said: "Two things we want to address are parking and congestion issues around the park and we believe it has become rather tired over the last few years.
-"We are very concerned to address the quality of what we call the common areas - where people have to walk and park - and the facilities available to make sure a location like Fosse Park is as good as it can be." 
+"We are very concerned to address the quality of what we call the common areas - where people have to walk and park - and the facilities available to make sure a location like Fosse Park is as good as it can be."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the owners of a fosse park in cumbria have met in the city where new owners have said they are planning a ``better view\'\'.
+</Summary>
 
-1. The summary mentions "a better view" but the article does not mention anything about improving the view.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the new owners have said they are planning to improve the parking and traffic congestion, but the article only mentions addressing these issues as a secondary concern (after improving the common areas and facilities).
+1. The article states that Fosse Park is located near junction 21 of the M1, while the summary mentions Cumbria, which is a different location.
+2. The article mentions that the new owners have met with the council to address "potential planning questions", while the summary does not mention any such meeting or planning issues.
+3. The article states that the new owners plan to improve parking and traffic congestion, while the summary does not mention any such plans.
+4. The article mentions that the new owners want to address the quality of the common areas and facilities, while the summary does not mention any such plans.
 
-3. The summary implies that the new owners are planning to make significant changes to the park, but the article only mentions minor improvements such as addressing parking and congestion issues and improving the common areas.
-
-4. The summary mentions that the new owners want to improve the appearance of units, but the article does not mention this.
-
-Therefore, based on the information provided in the article, it is clear that the summary is not consistent with the article. The summary exaggerates the scope of the changes that the new owners are planning to make and includes information that is not present in the article.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content or intent of the article. The summary mentions a different location (Cumbria), does not mention any plans for improvement, and does not accurately represent the goals of the new owners.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
-one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
-17-goal man eden hazard and youngster nathan ake took on blues ' team-mates loic remy and willian 
-
-    Article: 
-    on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
+<Article>
+on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
 taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
 in round one , the chelsea stars aim to fire balls into the boot of a car from close range , with hazard and ake securing the points with a 5-3 win .
 one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
@@ -23,17 +18,23 @@ willian and remy redeem themselves to produce a shock win over their team-mates 
 shown in a short clip at the very end of the video , willian can be seen smashing the wing mirror off one of the audi 's with a long-range effort .
 team-mate remy 's hands-on-head reaction says it all ... but we 're pretty sure he wo n't have to pay to repair the damage .
 remy puts his hands on his head after watching willian smash the wing mirror of one of the cars
-willian laughs after being allowed to drive one of the audi 's that was part of the football challenge 
+willian laughs after being allowed to drive one of the audi 's that was part of the football challenge
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
+one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
+17-goal man eden hazard and youngster nathan ake took on blues ' team-mates loic remy and willian
+</Summary>
 
-1. The summary states that the Chelsea players were set the challenge of sinking balls into convertible Audis from long range. However, the article does not mention anything about long-range shots or convertible Audis.
-2. The summary mentions that Hazard and Ake won the first two rounds, but the article only mentions one round of challenges.
-3. The summary states that the final challenge involved shooting at cars from long range, but the article only mentions shooting at the cars from close range.
-4. The summary mentions that Willian and Remy redeemed themselves with a shock win, but the article does not mention any such win.
-5. The summary mentions that Willian smashed the wing mirror of one of the Audis with a long-range effort, but the article does not mention any damage to the cars.
+Explain your reasoning step by step:[/INST]
 
-Therefore, it is clear that the summary is not consistent with the article. The summary contains several inaccuracies and exaggerations that are not supported by the information in the article.
+1. The summary states that the Chelsea players were set the challenge of sinking balls into convertible Audis from long range.
+2. However, the article does not mention anything about sinking balls into convertible Audis. Instead, it talks about shooting at cars from long range and using a £127,000 Audi R8 V10 plus as a makeshift tennis net.
+3. The summary also mentions that Hazard and Ake took on Remy and Willian in a head-to-head challenge, but the article does not mention any head-to-head challenge.
+4. The article only mentions a football challenge where the players had to shoot at cars from long range, and the winners of each round were determined by who could sink their footballs into the boot of the car.
+5. Therefore, the summary is not consistent with the article because it mentions challenges and details that are not present in the article.
+
+In conclusion, the summary is not a accurate representation of the article because it includes information that is not present in the article.
 
 ###Corrected:

@@ -1,21 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man arrested outside a bar in austin, texas, after being arrested. 
+<Article>
+It’s not quite a feat to match Harry Houdini, but it’s not for want of trying. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor. Undeterred by the fact that he was unable to use his hands and lying next to several police officers, the man struggles to his feet while they are tackling two people nearby and sprints off through a watching crowd. The footage begins with the man, dressed in red shorts and a grey T-shirt, lying handcuffed outside a pub called the Blind Tiger Pub on Sixth Street. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor . A few yards away four police officers, two with Tasers drawn, are busy trying to detain two men. The man in the red shorts spots an opportunity to make a bid for freedom and after a couple of stumbles, manages to get to his feet with his hands tied behind his back and a black bag looped around his arms. As he runs out of shot a police officer spots that he’s bolted and makes to give chase. The footage begins with the man stumbling to his feet while nearby officers tackle two other people . Even when the handcuffed man in red shorts has struggled to his knees, the police officers remain oblivious . The escapee suspect was later charged with evading arrest, according to Opposingviews.com . Police attended the scene amid reports of a fight. The festival saw Miley Cyrus take to the stage on Thursday. She made a surprise appearance at music producer and rapper Mike Will Made-It’s performance at Fader Fort.
+</Article>
 
-    Article: 
-    It’s not quite a feat to match Harry Houdini, but it’s not for want of trying. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor. Undeterred by the fact that he was unable to use his hands and lying next to several police officers, the man struggles to his feet while they are tackling two people nearby and sprints off through a watching crowd. The footage begins with the man, dressed in red shorts and a grey T-shirt, lying handcuffed outside a pub called the Blind Tiger Pub on Sixth Street. A man arrested outside a bar in Austin, Texas, during the SXSW (South By Southwest) festival was filmed making a brazen bid for freedom – after being handcuffed and made to lie on the floor . A few yards away four police officers, two with Tasers drawn, are busy trying to detain two men. The man in the red shorts spots an opportunity to make a bid for freedom and after a couple of stumbles, manages to get to his feet with his hands tied behind his back and a black bag looped around his arms. As he runs out of shot a police officer spots that he’s bolted and makes to give chase. The footage begins with the man stumbling to his feet while nearby officers tackle two other people . Even when the handcuffed man in red shorts has struggled to his knees, the police officers remain oblivious . The escapee suspect was later charged with evading arrest, according to Opposingviews.com . Police attended the scene amid reports of a fight. The festival saw Miley Cyrus take to the stage on Thursday. She made a surprise appearance at music producer and rapper Mike Will Made-It’s performance at Fader Fort. 
+<Summary>
+a man arrested outside a bar in austin, texas, after being arrested.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the man was arrested outside a bar in Austin, Texas, but the article does not mention any arrest. Instead, the article describes the man making a bid for freedom after being handcuffed and lying on the floor.
-2. The summary states that the man was handcuffed and lying on the floor, but the article does not mention any handcuffs. The man is described as being restrained with a black bag looped around his arms.
-3. The summary states that the man struggled to his feet and ran away, but the article does not mention him running away. Instead, the article describes the man stumbling to his knees and the police officers remaining oblivious to his escape.
-4. The summary states that the man was later charged with evading arrest, but the article does not mention any charges. Instead, the article states that the police officers were busy trying to detain two other men.
+1. The summary states that the man was arrested outside a bar in Austin, Texas. This is consistent with the article.
+2. The article states that the man was handcuffed and made to lie on the floor, but the summary does not mention this. The summary only states that the man was arrested, which is not consistent with the article.
+3. The article states that the man struggled to his feet while handcuffed and made a bid for freedom, but the summary does not mention this. The summary only states that the man was arrested, which is not consistent with the article.
+4. The article states that the man was later charged with evading arrest, but the summary does not mention this. The summary only states that the man was arrested, which is not consistent with the article.
 
-Overall, the summary is not consistent with the article because it exaggerates the man's actions and adds details that are not present in the article. The article portrays the man as making a failed bid for freedom, while the summary portrays him as successfully escaping arrest.
+Therefore, the summary is not consistent with the article because it does not accurately describe the events described in the article. The summary only states that the man was arrested, without mentioning the details of his attempt to escape or the fact that he was handcuffed.
 
 ###Corrected:

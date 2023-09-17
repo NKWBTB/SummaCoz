@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    pablo osvaldo has urged italian legends andrea pirlo and francesco totti to join him at boca juniors
-the 29-year-old moved to his current side on a loan deal from southampton
-osvaldo believes that the duo would be a good fit for boca 
-
-    Article: 
-    pablo osvaldo has urged italian legends andrea pirlo and francisco totti to move continents and join him at argentinian giants boca juniors .
+<Article>
+pablo osvaldo has urged italian legends andrea pirlo and francisco totti to move continents and join him at argentinian giants boca juniors .
 the 29-year-old moved to his current side on a loan deal from southampton and has become an instant hit - scoring three goals in six games .
 osvaldo believes that the duo would be a good fit for boca , and says the fans would love to have them line up on the la bombonera pitch .
 pablo osvaldo thinks that his former team-mates andrea pirlo and francesco totti should move to boca
@@ -19,14 +14,21 @@ i do n't want to do injustice to anyone , but if i had to pick two , it would be
 ` they have a bit of a south-american style and they would be perfect for boca with their abilities .
 ` the bombonera would go absolutely crazy for players like them . '
 pirlo has established himself as one of the best midfielders in world football and is hugely popular
-totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina 
+totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's the reasoning step by step:
+<Summary>
+pablo osvaldo has urged italian legends andrea pirlo and francesco totti to join him at boca juniors
+the 29-year-old moved to his current side on a loan deal from southampton
+osvaldo believes that the duo would be a good fit for boca
+</Summary>
 
-1. The summary states that Pablo Osvaldo urged Italian legends Andrea Pirlo and Francesco Totti to join him at Boca Juniors.
-2. However, the article does not mention anything about Pirlo or Totti joining Boca Juniors. Instead, it mentions that Osvaldo believes they would be a good fit for the team and that the fans would love to have them play at the La Bombonera pitch.
-3. The article does not provide any information about Pirlo or Totti moving to Boca Juniors or expressing any interest in joining the team.
-4. Therefore, the summary is not consistent with the article because it implies that Pirlo and Totti are joining Boca Juniors, which is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that Pablo Osvaldo has urged Italian legends Andrea Pirlo and Francesco Totti to join him at Boca Juniors.
+2. However, the article does not mention anything about Pablo Osvaldo urging Pirlo and Totti to join him at Boca Juniors. Instead, the article states that Osvaldo believes that Pirlo and Totti would be a good fit for Boca and that the fans would love to have them line up on the La Bombonera pitch.
+3. Therefore, the summary is not consistent with the article because it implies that Osvaldo has directly urged Pirlo and Totti to join him at Boca Juniors, which is not stated in the article.
+4. The article only mentions that Osvaldo believes that Pirlo and Totti would be a good fit for Boca and that the fans would love to have them play for the team.
+5. The summary should be revised to accurately reflect the content of the article, such as: "Pablo Osvaldo believes that Andrea Pirlo and Francesco Totti would be a good fit for Boca Juniors and that the fans would love to have them line up on the La Bombonera pitch."
 
 ###Corrected:

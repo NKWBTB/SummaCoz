@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two senior councillors at aberdeenshire council are to leave the authority. 
-
-    Article: 
-    The local authority said Richard Ellis was leaving on Friday at the end of his contract.
+<Article>
+The local authority said Richard Ellis was leaving on Friday at the end of his contract.
 Ciaran Monaghan and Ewan Sutherland are both going under a voluntary redundancy and early retirement scheme.
 Stephen Flynn, the leader of the opposition SNP group, said the departures were indicative of the council's inability to hold on to senior staff.
 He said he expected further departures in the coming months.
 Mr Ellis is the council's former interim director of corporate governance, and has also been acting as deputy chief executive for several months.
 Mr Monaghan is head of the chief executive's office, while Mr Sutherland is head of human resources and customer services.
-Council chief executive Angela Scott thanked the trio for their "dedication and professionalism". 
+Council chief executive Angela Scott thanked the trio for their "dedication and professionalism".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+two senior councillors at aberdeenshire council are to leave the authority.
+</Summary>
 
-1. The summary states that two senior councillors at Aberdeenshire Council are leaving the authority, but the article does not mention any councillors leaving. The article only mentions three senior staff members leaving: Richard Ellis, Ciaran Monaghan, and Ewan Sutherland.
-2. The summary mentions that the departures are under a voluntary redundancy and early retirement scheme, but the article does not mention this. The article only states that the three staff members are leaving at the end of their contracts.
-3. The summary quotes Stephen Flynn, the leader of the opposition SNP group, as saying that the departures are indicative of the council's inability to hold on to senior staff. However, the article does not include this quote.
-4. The summary mentions that Mr. Ellis is the council's former interim director of corporate governance and has been acting as deputy chief executive for several months, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article. The article only mentions three senior staff members leaving at the end of their contracts, without mentioning any councillors leaving or any voluntary redundancy or early retirement scheme. Additionally, the article does not include the quote from Stephen Flynn.
+1. The article states that Richard Ellis is leaving the council on Friday at the end of his contract.
+2. The article also mentions that Ciaran Monaghan and Ewan Sutherland are leaving under a voluntary redundancy and early retirement scheme.
+3. However, the summary only mentions two senior councillors leaving the authority, without providing their names or any details about their departure.
+4. The summary is not consistent with the article because it does not accurately reflect the information provided in the article. Specifically, the summary does not mention the names of Richard Ellis, Ciaran Monaghan, or Ewan Sutherland, or the fact that they are leaving under a voluntary redundancy and early retirement scheme.
+5. Therefore, the summary is not consistent with the article because it does not provide all the information mentioned in the article.
 
 ###Corrected:

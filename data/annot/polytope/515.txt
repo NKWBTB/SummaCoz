@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    starbucks said in update on its site that stores are expected to open for ' business as usual ' saturday .
-the company said earlier the outage affected 7,000 stores in the us and canada .
-it did not explain what caused the outage , which began in the early evening on the east coast . 
-
-    Article: 
-    it was good while it lasted .
+<Article>
+it was good while it lasted .
 starbucks announced late friday night that a computer outage that affected registers at 8,000 stores in the us and canada , prompting baristas to give away free drinks , has now been resolved .
 the global coffeehouse chain said in an update on its site that stores are expected to open for ` business as usual ' saturday .
 the company said earlier the outage affected 7,000 stores in the us and 1,000 in canada .
@@ -45,17 +40,23 @@ seattle tv reporter alison morrow took this photo of a throng of tourists swarmi
 according to reports from around the country , many starbucks locations in places like florida , tennessee and arizona closed their doors so as not to give away free products during the shutdown .
 the potentially costly tech snafu comes just one day after the seattle-based global coffeehouse chain , which had 21,366 locations in 65 countries last year , posted record quarterly earnings with net revenues of $ 4.6 billion .
 on friday , starbucks shares gained 4.4 pe rcent to $ 51.50 following the impressive quarterly results .
-good news , bad news : the tech snafu comes just one day after the seattle-based global coffeehouse chain , led by ceo howard schultz ( pictured ) , posted record quarterly earnings with net revenues of $ 4.24 billion 
+good news , bad news : the tech snafu comes just one day after the seattle-based global coffeehouse chain , led by ceo howard schultz ( pictured ) , posted record quarterly earnings with net revenues of $ 4.24 billion
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+starbucks said in update on its site that stores are expected to open for ' business as usual ' saturday .
+the company said earlier the outage affected 7,000 stores in the us and canada .
+it did not explain what caused the outage , which began in the early evening on the east coast .
+</Summary>
 
-1. The summary states that Starbucks said stores would open for "business as usual" on Saturday, but the article states that the outage was resolved and stores would remain open, but the article does not mention "business as usual."
-2. The summary mentions that the outage affected 7,000 stores in the US and Canada, but the article states that the outage affected 8,000 stores in the US and Canada.
-3. The summary does not mention the cause of the outage, while the article states that the cause was a failure during a daily system refresh.
-4. The summary mentions that baristas gave away free drinks, but the article states that the outage prevented staff from accepting credit cards or ringing up sales, and that some baristas continued to accept cash.
-5. The summary mentions that the outage was resolved, but the article states that the outage is still ongoing and that Starbucks is working to resolve it.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. The summary is missing key details and includes some inaccuracies, such as the number of stores affected and the cause of the outage.
+1. The summary states that Starbucks stores are expected to open for "business as usual" on Saturday, indicating that the outage has been resolved.
+2. However, the article states that the outage affected 7,000 stores in the US and Canada, which is not consistent with the summary's statement that all stores are expected to open for business as usual.
+3. The article also mentions that the outage began in the early evening on the east coast, but the summary does not provide any information about the timing of the outage.
+4. Additionally, the article includes details about the outage being caused by a failure during a daily system refresh, but the summary does not mention this.
+5. Finally, the article includes quotes from Starbucks and Twitter users, as well as photos of customers receiving free drinks, but the summary does not include any of this information.
+
+Therefore, the summary is not consistent with the article because it does not provide accurate information about the scope of the outage, the timing of the outage, or the cause of the outage. Additionally, the summary does not include any of the details or quotes from the article, which provides a more comprehensive view of the situation.
 
 ###Corrected:

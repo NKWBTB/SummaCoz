@@ -1,28 +1,37 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean. The drugs, whose value is estimated at more than $ 105 million, are the biggest cocaine seizure ever carried out by french authorities. One venezuelan and two spanish citizens were arrested. 
-
-    Article: 
-    ( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
+<Article>
+( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
 the drugs , whose value is estimated at more than $ 105 million , are the biggest cocaine seizure ever carried out by french authorities , said michael lachaux , director of customs operations in martinique .
 officers arrested one venezuelan and two spanish citizens who were on board the vessel off the coast of martinique on wednesday , lachaux said in an interview with the radio station france info on saturday .
 martinique is an overseas department of france .
-in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities . 
+in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean. The drugs, whose value is estimated at more than $ 105 million, are the biggest cocaine seizure ever carried out by french authorities. One venezuelan and two spanish citizens were arrested.
+</Summary>
 
-1. The summary states that the sailboat was flying an American flag, but the article does not mention this. The article only states that the sailboat was flying a "false flag." This inconsistency suggests that the summary may not accurately represent the content of the article.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the drugs are worth over $105 million, but the article does not provide a specific value for the seizure. The article only states that the seizure is the biggest cocaine seizure ever carried out by French authorities, without mentioning the value of the drugs. This inconsistency suggests that the summary may have exaggerated or misrepresented the information in the article.
+1. The article states that the sailboat was falsely flying an American flag in the Caribbean.
 
-3. The summary states that one Venezuelan and two Spanish citizens were arrested, but the article only mentions that one Venezuelan citizen was arrested. This inconsistency suggests that the summary may not accurately represent the content of the article.
+2. The summary does not mention this detail.
 
-4. The summary states that the seizure occurred off the coast of Martinique, but the article does not mention this. The article only states that the seizure occurred "off the coast," without specifying the location. This inconsistency suggests that the summary may not accurately represent the content of the article.
+3. The article states that the French customs officers seized more than 2 tons of cocaine, with an estimated value of over $105 million.
 
-Overall, based on these inconsistencies, it appears that the summary is not consistent with the article and may not accurately represent the content of the article.
+4. The summary only mentions "more than 2 tons" of cocaine, without specifying the exact amount or the estimated value.
+
+5. The article states that three individuals, one Venezuelan and two Spanish citizens, were arrested.
+
+6. The summary only mentions "one venezuelan" being arrested.
+
+7. The article provides additional information about the seizure, including the location (off the coast of Martinique) and the fact that it is the biggest cocaine seizure ever carried out by French authorities.
+
+8. The summary does not include this additional information.
+
+Therefore, the summary is not consistent with the article because it omits several key details, including the fact that the sailboat was flying a false flag, the exact amount and estimated value of the cocaine, and the fact that three individuals were arrested.
 
 ###Corrected:

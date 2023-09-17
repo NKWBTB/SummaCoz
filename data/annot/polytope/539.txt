@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    new poll reveals diana is the favourite option for baby if it is a girl .
-alice is the name of the queen 's aunt , who passed away in 2004 aged 102 .
-alice is the name of the queen 's aunt , who passed away in 2004 aged 102 . 
-
-    Article: 
-    as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
+<Article>
+as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
 a new poll has revealed that diana is the favourite option for baby if it is a girl .
 according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
 kate and william leaving the lindo wing of st mary 's hospital in london , with their newborn son , prince george in 2013 .
@@ -22,17 +17,23 @@ the choices were echoed on social media today , with many twitter users claiming
 one user called danielle o'donoghue wrote : ` if kate middleton has a baby girl and does n't name her diana i 'll be so upset .
 another said : ` if the new royal baby is a girl and is called diana , either first name or middle name .
 i will be 90 % more emotional . '
-the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up . 
+the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+new poll reveals diana is the favourite option for baby if it is a girl .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 .
+</Summary>
 
-1. The summary states that the favorite name for a baby girl is Diana, but the article states that Alice is the favorite name for a baby girl, not Diana.
-2. The summary states that Alice is the name of the Queen's aunt, who passed away in 2004, but the article does not mention this.
-3. The summary states that Charlotte is the second favorite name for a baby girl, but the article does not mention this name at all.
-4. The summary states that James is the favorite name for a baby boy, but the article does not mention this name as a favorite.
-5. The summary states that the majority of Brits are backing William's decision to take six weeks of paternity leave, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
+1. The summary states that Alice is the name of the Queen's aunt who passed away in 2004 aged 102, but the article does not mention this.
+2. The summary only mentions two names, Diana and Alice, while the article mentions four names for a girl (Diana, Alice, Charlotte, and James).
+3. The summary does not mention the preference for a boy's name, while the article mentions that 13% of people would like the child to be called James if it's a boy.
+4. The summary does not mention the fact that many people are hoping for a girl, as stated in the article.
+
+Therefore, the summary is not a consistent representation of the information in the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans to build the first new uk nuclear plant in 20 years have suffered an unexpected delay after the government postponed a final decision until the early autumn. 
-
-    Article: 
-    French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
+<Article>
+French firm EDF, which is financing most of the £18bn Hinkley Point project in Somerset, approved the funding at a board meeting.
 Contracts were to be signed on Friday.
 But Business Secretary Greg Clark has said the government will "consider carefully" before backing it.
 EDF chief executive Vincent de Rivaz has cancelled a trip to Hinkley Point on Friday following Mr Clark's comments.
@@ -40,16 +37,20 @@ Jan 2006 - Government proposes nuclear as part of future energy mix
 Mar 2013 - Construction of Hinkley Point approved
 Oct 2013 - UK government agrees £92.50 per megawatt-hour will be paid for electricity produced at the Somerset site - around double the current market rate at the time
 Oct 2015 - EDF signs investment agreement with China General Nuclear Power Corporation (CGN)
-July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn. 
+July 2016 - EDF board approves final investment decision, but the UK Government postpones a final decision on the project until autumn.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided article, the summary statement "plans to build the first new UK nuclear plant in 20 years have suffered an unexpected delay" is not consistent with the article's content. Here's why:
+<Summary>
+plans to build the first new uk nuclear plant in 20 years have suffered an unexpected delay after the government postponed a final decision until the early autumn.
+</Summary>
 
-1. The article states that EDF's board had approved the £18bn Hinkley Point project, and contracts were set to be signed on Friday. This suggests that the plans were not delayed but rather were moving forward.
-2. The article mentions a "final decision" by the UK government on the project, which is expected in the autumn. This implies that the project is still on track but has not yet received final government approval.
-3. The article highlights concerns about the project's environmental impact and potential escalating costs, but it does not suggest that the project has been delayed or put on hold.
-4. The article mentions a "pause" in the project due to the government's review, but this pause is not described as unexpected or a setback.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the information in the article, the summary statement "plans to build the first new UK nuclear plant in 20 years have suffered an unexpected delay" is not consistent with the article's content. The article suggests that the project is still moving forward, albeit with some delays in government approval.
+1. The summary states that the plans to build the first new UK nuclear plant in 20 years have suffered an unexpected delay due to the government postponing a final decision until the early autumn.
+2. However, the article states that the EDF board had approved the funding for the project on Thursday, and contracts were to be signed on Friday.
+3. This indicates that the government's decision to postpone a final decision on the project is a new development that has caused a delay, and it is not a pre-existing delay that the summary suggests.
+4. Furthermore, the article states that the government's decision to postpone a final decision is a "stunning new development" that came all the way from the top of government, which suggests that it is a significant and unexpected delay.
+5. The summary does not mention any of these details, and instead only states that the plans have suffered an unexpected delay.
+6. Therefore, the summary is not consistent with the article, as it does not accurately reflect the new development that has caused a delay in the project.
 
 ###Corrected:

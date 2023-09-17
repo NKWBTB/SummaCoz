@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tom o'carroll , a former open university information officer , has joined the supporters of the media pressure group hacked off . 
- it wants mps to set up a statutory body to regulate the press . 
- pie was formed in 1974 to campaign for sex with children to be legalised . 
-
-    Article: 
-    tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
+<Article>
+tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
 a leading member of the notorious paedophile information exchange , which campaigned to legalise child sex in the 1970s and 80s , has joined the supporters of the media pressure group hacked off .
 tom o'carroll , a former open university information officer and formerly a key activist for pie , attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation .
 the organisation , set up in the wake of the phone-hacking scandal , is campaigning against what it sees as the ` biased and unfair ' independent press standards organisation .
@@ -21,15 +16,24 @@ o'carroll was on the nccl 's gay rights sub-committee .
 the 69-year-old was jailed in 1981 for ` corrupting public morals ' .
 he wrote a blog after the february meeting , chaired by comedian john cleese , confirming his attendance .
 a hacked off spokesman said that the meeting was ` open to and free for all members of the public to attend ' .
-o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired 
+o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given article, the summary provided is not consistent with the article because:
+<Summary>
+tom o'carroll , a former open university information officer , has joined the supporters of the media pressure group hacked off . 
+ it wants mps to set up a statutory body to regulate the press . 
+ pie was formed in 1974 to campaign for sex with children to be legalised .
+</Summary>
 
-1. The summary states that Tom O'Carroll joined Hacked Off to campaign for state involvement in media regulation, but the article states that he attended a Hacked Off rally to lobby MPs for state involvement in media regulation. This suggests that O'Carroll is not a member of Hacked Off, but rather attended the rally as an individual.
-2. The summary does not mention O'Carroll's background as a leading member of the Paedophile Information Exchange (PIE) and his conviction for "corrupting public morals" in 1981. The article reveals that O'Carroll has a history of advocating for the legalization of child sex and incest, which is not mentioned in the summary.
-3. The summary states that Hacked Off wants MPs to set up a statutory body to regulate the press, but the article states that Hacked Off wants MPs to set up a statutory body to regulate the press as recommended by the Leveson Inquiry. This suggests that the summary omits the Leveson Inquiry's role in Hacked Off's campaign for media regulation.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it fails to mention O'Carroll's background and motivations, and omits the Leveson Inquiry's role in Hacked Off's campaign for media regulation.
+1. The summary states that Tom O'Carroll, a former open university information officer, has joined the supporters of the media pressure group Hacked Off.
+2. The article states that O'Carroll is a leading member of the Paedophile Information Exchange (PIE), which campaigned to legalize child sex in the 1970s and 80s.
+3. The summary does not mention O'Carroll's affiliation with PIE or his support for legalizing child sex.
+4. Therefore, the summary is not consistent with the article because it does not provide accurate information about O'Carroll's background and beliefs.
+5. The article also mentions that O'Carroll attended a Hacked Off rally in the Houses of Parliament on February 25, but the summary does not mention this.
+6. The article states that O'Carroll's attendance at the rally will be an embarrassment to Hacked Off, but the summary does not mention this either.
+
+In conclusion, the summary is not consistent with the article because it does not provide accurate information about O'Carroll's background and beliefs, and it does not mention his attendance at the Hacked Off rally.
 
 ###Corrected:

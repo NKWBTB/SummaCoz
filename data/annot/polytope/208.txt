@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
-not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult
-unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years . 
-
-    Article: 
-    a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
+<Article>
+a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
 during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
 and ` fat ' is just another self-descriptor for her , who insists that the word does n't have to be used as a synonym for ` ugly ' .
 ` we as women are programmed to tell each other that we 're not fat , because to many people - both men and women - fat is the worst thing that you can be , ' she said during her talk , which took place earlier this month .
@@ -32,19 +27,22 @@ since then , the clip has generated nearly 38,000 views - and plenty of positive
 ` i 've never been so happy in all my life , ' she wrote for xojane .
 ` i 've had this stupid grin on my face for a week straight . '
 besides a few ` trolls ' posting vicious negative comments , lillian received a slew of positive messages , including letters of thanks , personal stories , and an email from a teenage girl who watched the video with her younger sister and said it made them reevaluate the way they viewed their bodies .
-` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said . 
+` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
+not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult
+unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years .
+</Summary>
 
-1. The summary states that Lillian Bustle revealed that she calls herself "short" because she is 5'3", but the article does not mention her height.
-2. The summary states that Lillian Bustle revealed that she calls herself "wife" because she is married, but the article does not mention her marital status.
-3. The summary states that Lillian Bustle said that "fat" is just another word for her, but the article does not mention her using that word to describe herself.
-4. The summary states that Lillian Bustle said that size discrimination in the workplace has risen 66% in the past 30 years, but the article does not mention that statistic.
-5. The summary states that Lillian Bustle hopes exposing her audience to a fuller figure will change their perceptions, but the article does not mention her performing burlesque or exposing her audience to her body.
-6. The summary states that Lillian Bustle said that the more people are exposed to different body types, the more they like them, but the article does not mention her saying that.
-7. The summary states that Lillian Bustle recommends other people find a similar "courage reference" to boost their self-esteem, but the article does not mention her saying that.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that Lillian Bustle calls herself "short" because she is 5'3", and "wife" because she is married. This is not consistent with the article, as the article does not mention her calling herself "short" or "wife".
+2. The summary states that Lillian Bustle said "fat" is just another word, and using it does not have to be an insult. This is not consistent with the article, as the article does not quote her as saying this.
+3. The summary states that Lillian Bustle said size discrimination in the workplace has risen 66% in the past 30 years. This is not consistent with the article, as the article does not mention this statistic.
+4. The summary does not mention Lillian Bustle's weight or her profession as a burlesque performer, which are prominent details in the article.
+
+Therefore, the summary is not consistent with the article. It appears to be a condensed version of the article, but it omits some key details and includes some inaccuracies.
 
 ###Corrected:

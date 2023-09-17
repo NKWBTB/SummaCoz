@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    link : michael adebowale , left , one of the men convicted of murdering fusilier lee rigby , is understood to have studied arabic at the former european institute of human sciences at highmead , near llanybydder 
-omar latif , 28 , gurukanth desai , 30 , and abdul miah , 25 , were photographed holding a series of secret meetings with mohammed chowdhury and shah rahman in a country park in wales . 
-training : locations in ceredigion , powys and pembrokeshire in west wales , illustrated above , are being used to radicalise muslims , according to an 
-
-    Article: 
-    terrorists are undergoing training in rural areas of west wales , it has emerged .
+<Article>
+terrorists are undergoing training in rural areas of west wales , it has emerged .
 locations in ceredigion , powys and pembrokeshire are also being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit .
 those involved in such activities ` take part in seemingly ordinary activities ' in the community but ` have an ulterior motive ' , detective constable gareth jones said .
 training : locations in ceredigion , powys and pembrokeshire in west wales , illustrated above , are being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit
@@ -29,23 +24,24 @@ would-be terrorists : omar latif , 28 , right , gurukanth desai , 30 , and abdul
 ` these people do turn up and take part in seemingly ordinary activities , but they do have an ulterior motive .
 this does happen in ceredigion . '
 dc jones added that community intelligence was important to authorities .
-he said : ` it really is vital that if any intelligence comes from the community that we look at it . 
+he said : ` it really is vital that if any intelligence comes from the community that we look at it .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the provided summary is not consistent with the article. Here are the steps to explain my reasoning:
+<Summary>
+link : michael adebowale , left , one of the men convicted of murdering fusilier lee rigby , is understood to have studied arabic at the former european institute of human sciences at highmead , near llanybydder 
+omar latif , 28 , gurukanth desai , 30 , and abdul miah , 25 , were photographed holding a series of secret meetings with mohammed chowdhury and shah rahman in a country park in wales . 
+training : locations in ceredigion , powys and pembrokeshire in west wales , illustrated above , are being used to radicalise muslims , according to an
+</Summary>
 
-Step 1: Identify the inconsistent information
-The inconsistent information is the statement that Michael Adebowale, one of the men convicted of murdering Fusilier Lee Rigby, studied Arabic at the former European Institute of Human Sciences at Highmead, near Llanybydder. This information is not present in the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Step 2: Check the article for any mention of the European Institute of Human Sciences
-There is no mention of the European Institute of Human Sciences in the article. The article only mentions the Wales Extremism and Counter Terrorism Unit, the rural areas of West Wales, and the training locations in Ceredigion, Powys, and Pembrokeshire.
+1. The article states that the extremism and counter-terrorism unit in Wales has revealed that terrorists are undergoing training in rural areas of West Wales, specifically in Ceredigion, Powys, and Pembrokeshire.
+2. The article mentions that the training locations are being used to radicalize Muslims, and that those involved in such activities "take part in seemingly ordinary activities" but "have an ulterior motive."
+3. The article highlights that the area is not just a hub for military training but also for terrorist activities, and that there have been several incidents of Islamic extremist activity in Wales dating back to 1998.
+4. The summary, on the other hand, only mentions the connection between Michael Adebowale, one of the men convicted of murdering fusilier Lee Rigby, and the European Institute of Human Sciences at Highmead near Llanybydder.
+5. The summary does not mention anything about terrorist training in rural areas of West Wales, radicalization of Muslims, or any other information related to terrorist activities in the article.
 
-Step 3: Check the summary for any other inconsistencies
-The summary also mentions that the center where Adebowale studied Arabic was set up by Iraqi clerics. However, there is no mention of Iraqi clerics setting up such a center in the article.
-
-Step 4: Analyze the reasons for the inconsistencies
-The inconsistencies in the summary are likely due to a lack of information or a misunderstanding of the article. The article does not mention the European Institute of Human Sciences or Iraqi clerics setting up such a center. The article only mentions the Wales Extremism and Counter Terrorism Unit and the training locations in West Wales.
-
-In conclusion, the provided summary is not consistent with the article because it includes information that is not present in the article, such as Michael Adebowale studying Arabic at the European Institute of Human Sciences. The inconsistencies are likely due to a lack of information or a misunderstanding of the article.
+Therefore, the summary is not consistent with the article because it only focuses on one aspect of the article (Michael Adebowale's connection to the European Institute of Human Sciences) while omitting other important information about terrorist activities in West Wales.
 
 ###Corrected:

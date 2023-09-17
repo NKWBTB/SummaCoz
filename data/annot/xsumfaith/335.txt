@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    valtteri bottas will remain in formula 1 at the end of the season, bbc sport understands. 
-
-    Article: 
-    Bottas, on whom Williams have a contractual hold, is Ferrari's number one option should they decide not to retain Kimi Raikkonen alongside Sebastian Vettel.
+<Article>
+Bottas, on whom Williams have a contractual hold, is Ferrari's number one option should they decide not to retain Kimi Raikkonen alongside Sebastian Vettel.
 Sources close to the deal say Ferrari and Williams have discussed Bottas's transfer but have no agreement yet.
 Williams view Button as a leading candidate should Bottas leave.
 Should the 2009 world champion join Williams in 2016, it would bring his career full circle.
@@ -29,15 +26,22 @@ Raikkonen said: "I don't know any more than I knew at the start of the year. For
 "Somehow I end up every year in the same position, and it makes no difference if I have a contract or not. There is no contract, but there is an option now.
 "I have made it very clear to the team what I would like to happen, and it is to be here next year."
 If Bottas leaves and Button stays at McLaren, Williams may still look to McLaren's driver pool for a partner for Felipe Massa, on whom they have an option and is expected to stay.
-Magnussen and Vandoorne could both be of interest to Williams. 
+Magnussen and Vandoorne could both be of interest to Williams.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+valtteri bottas will remain in formula 1 at the end of the season, bbc sport understands.
+</Summary>
 
-1. The summary states that Valtteri Bottas will remain in Formula 1 at the end of the season, while the article states that Ferrari and Williams have discussed Bottas's transfer but have no agreement yet.
-2. The summary does not mention anything about Jenson Button's future, while the article states that McLaren have a contractual option to retain Button and that he is one of the team's options for the 2016 season.
-3. The summary mentions that Williams may look to McLaren's driver pool for a partner for Felipe Massa, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article as it does not accurately reflect the information provided in the article.
+1. The summary states that Valtteri Bottas will remain in Formula 1 at the end of the season.
+2. However, the article states that Bottas is Ferrari's number one option should they decide not to retain Kimi Raikkonen alongside Sebastian Vettel.
+3. The article also states that Williams have an option for Bottas for the next two seasons, but no agreement has been reached yet.
+4. Therefore, it is not consistent for the summary to state that Bottas will remain in Formula 1 at the end of the season, as there is no confirmation of his future with Williams or Ferrari.
+5. The article also mentions that Williams may look to McLaren's driver pool for a partner for Felipe Massa if Bottas leaves, which further supports the idea that Bottas's future is not yet confirmed.
+
+Overall, the summary is not consistent with the article because it makes a definitive statement about Bottas's future in Formula 1, while the article presents a more uncertain picture of his future with Williams and Ferrari.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jcno jeans , popular at nineties raves , are threatening to make a comeback
-chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
-originally a staple of fishermen and farmers , it soon enough found its way into popular culture and temporarily dominated the music scene . 
-
-    Article: 
-    nineties style is hot right now .
+<Article>
+nineties style is hot right now .
 chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
 but news that jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback has horrified many of the people who wore the ridiculous pants the first time around .
 the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that really should be left in the past .
@@ -55,19 +50,35 @@ characterised by loose , baggy legs which nip in at the ankle , these middle eas
 before she discovered pencil skirts reality star kim kardashian , now 34 , was a huge fan of the voluminous pants .
 today they are still sported by supermodel legs like 51-year-old elle macpherson .
 then : reality star kim kardashian previously championed the wearing of harem trousers back in 2009
-now : supermodel elle macpherson steps out in a pair of leopard print harem trousers 
+now : supermodel elle macpherson steps out in a pair of leopard print harem trousers
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jcno jeans , popular at nineties raves , are threatening to make a comeback
+chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
+originally a staple of fishermen and farmers , it soon enough found its way into popular culture and temporarily dominated the music scene .
+</Summary>
 
-1. JCNO Jeans: The summary states that JCNO jeans, popular at nineties raves, are threatening to make a comeback. However, the article does not mention JCNO jeans at all.
-2. Chokers: The summary mentions chokers as a trend that is popular with a new generation of fashion fans. However, the article only mentions chokers as a trend that was popular in the nineties and early noughties.
-3. Berry-colored lips: The summary mentions berry-colored lips as a trend that is popular with a new generation of fashion fans. However, the article only mentions berry-colored lips as a trend that was popular in the nineties and early noughties.
-4. Round sunglasses: The summary mentions round sunglasses as a trend that is popular with a new generation of fashion fans. However, the article only mentions round sunglasses as a trend that was popular in the nineties and early noughties.
-5. Calvin Klein logo t-shirts: The summary mentions Calvin Klein logo t-shirts as a trend that is popular with a new generation of fashion fans. However, the article only mentions Calvin Klein logo t-shirts as a trend that was popular in the noughties.
-6. Bucket hats: The summary mentions bucket hats as a trend that is popular with a new generation of fashion fans. However, the article only mentions bucket hats as a trend that was popular in the nineties and early noughties.
-7. Camouflage print: The summary mentions camouflage print as a trend that is popular with a new generation of fashion fans. However, the article only mentions camouflage print as a trend that was popular in the noughties.
-8. Double denim: The summary mentions double denim as a trend that is popular with a new generation of fashion fans. However, the article only mentions double denim as a trend that was popular in the noughties.
-9. Ugg boots: The summary mentions Ugg boots as a trend that is popular with a new generation of fashion fans. However, the article
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that JNCO jeans, chokers, berry-colored lips, round sunglasses, and Calvin Klein logo t-shirts are all the rage with a new generation of fashion fans. However, the article states that these items were popular in the nineties and are now threatening to make a comeback.
+
+2. The article highlights several nineties fashion trends that are being revived, including camouflage print, double denim, and bucket hats. However, the summary does not mention these trends.
+
+3. The article states that the return of JNCO jeans has horrified many people who wore them the first time around, suggesting that the trend is not universally popular. The summary does not acknowledge this sentiment.
+
+4. The article features several examples of celebrities who have sported nineties fashion trends, such as Britney Spears, Justin Timberlake, and Victoria Beckham. However, the summary does not include any examples of celebrities wearing these trends.
+
+5. The article states that the shapeless sheepskin Ugg boot was a huge celebrity trend in the noughties, but the summary does not mention this trend.
+
+6. The article highlights the return of tiny denim shorts, but the summary does not mention this trend.
+
+7. The article states that rainbow lenses were a nineties favorite for boy bands and pop princesses, but the summary does not mention this trend.
+
+8. The article features examples of celebrities wearing corsets as outerwear, but the summary does not include this information.
+
+9. The article states that harem pants are still being sported by supermodels like Elle Macpherson, but the summary does not mention this trend.
+
+10. Overall, the summary does not accurately reflect the content of the article, as it fails to mention several key nineties fashion trends and does not acknowledge the mixed reception of these trends among the public.
 
 ###Corrected:

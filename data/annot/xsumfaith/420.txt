@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it\'s easy to be cynical to look at some of the best places in the uk. 
-
-    Article: 
-    For many people with severe disabilities, their families and carers, this is a reality they are faced with every time they leave the house.
+<Article>
+For many people with severe disabilities, their families and carers, this is a reality they are faced with every time they leave the house.
 In some cases it can leave them feeling isolated and unable to enjoy the simplest of everyday activities that we take for granted just because they haven't got a suitable area to spend a penny.
 Ordinary accessible toilets may be the answer for many independent wheelchair users - but what about those who need two carers to help them or need a hoist to help them transfer on to a bench to change rather than a toilet?"
 Recommendations are in place to support installing Changing Places toilets with enhanced facilities when designing larger buildings such as shopping centres, cinemas and leisure facilities - but campaigners are calling for these to be made compulsory.
@@ -38,27 +35,21 @@ Arsenal Football Club, who were the first side in the Premier League to install 
 Alun Francis, Disability Liaison Officer at the club, said: "There were challenges and despite already having 38 wheelchair accessible toilets we were constrained by the original building design as it existed before the recommendations came in, so we had to adapt.
 "But working with the people behind the Changing Places group was such a positive experience.
 "They looked at our ideas to convert two of the existing toilets into one Changing Place and helped us find a way around things so we could make it possible.
-"You need to think about all of your customers when you run any type of venue and if you want their custom you have to make things accessible for them - it's important." 
+"You need to think about all of your customers when you run any type of venue and if you want their custom you have to make things accessible for them - it's important."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+it\'s easy to be cynical to look at some of the best places in the uk.
+</Summary>
 
-Step 1: Identify the main points of the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary mentions that the article discusses the lack of suitable toilets for people with severe disabilities, the need for Changing Places toilets, and the campaign to make these toilets compulsory.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Step 2: Identify the main points of the article.
+1. Keyword mismatch: The summary mentions "best places in the UK," while the article does not mention any specific places. The article focuses on the need for Changing Places toilets and the challenges faced by people with disabilities in accessing suitable toilet facilities.
+2. Tone mismatch: The summary has a negative tone, implying that it's easy to be cynical about the situation, while the article has a more positive tone, highlighting the efforts of campaigners and the benefits of Changing Places toilets.
+3. Content mismatch: The summary does not include any of the key points or quotes from the article, such as the need for Changing Places toilets, the lack of suitable facilities, and the positive impact of such toilets on families and individuals.
 
-The article discusses the challenges faced by people with severe disabilities in finding suitable toilets, the need for Changing Places toilets, and the campaign to make these toilets compulsory. It also highlights the positive experiences of families who have access to Changing Places toilets.
-
-Step 3: Identify the inconsistencies.
-
-The summary mentions that the article discusses the lack of suitable toilets for people with severe disabilities, but it does not mention the specific needs of these individuals, such as the need for hoists and benches. Additionally, the summary does not mention the campaign to make Changing Places toilets compulsory, which is a key point in the article.
-
-Step 4: Explain the inconsistencies.
-
-The inconsistencies in the summary are due to a lack of detail and a focus on different aspects of the article. The summary focuses on the general lack of suitable toilets, while the article provides specific examples and highlights the need for Changing Places toilets with enhanced facilities. Additionally, the summary does not mention the campaign to make Changing Places toilets compulsory, which is a key point in the article.
-
-In conclusion, the summary is not consistent with the article because it lacks detail and focuses on different aspects of the article. The inconsistencies can be explained by a lack of detail and a focus on different aspects of the article.
+Therefore, the summary is not a consistent representation of the article's content and themes. It is likely that the summary was written without proper attention to the article's content, or that the summary was intended to convey a different message altogether.
 
 ###Corrected:

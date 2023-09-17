@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the eu\'s brexit negotiator has urged the government to sell fish to the european union as a result of brexit negotiations. 
-
-    Article: 
-    It also warns that Britain may have to allow EU-registered boats to fish in UK waters as part of an overall deal.
+<Article>
+It also warns that Britain may have to allow EU-registered boats to fish in UK waters as part of an overall deal.
 Fishing regions around the UK voted heavily in favour of leaving the EU during the referendum campaign.
 The Lords review says these communities are at risk of being marginalised in the wider Brexit negotiations.
 The EU's Common Fisheries Policy (CFP), with its quotas and principle of equal access to commercial fishing grounds for boats from all member states, has often been characterised by the industry as a disaster for Britain.
@@ -28,15 +25,20 @@ Responding to the new quotas, representatives from the industry said they believ
 "This will give us the opportunity for fairer shares in catching opportunity and better fit-for-purpose sustainable fisheries management, which will benefit our coastal communities."
 In response to the report, a government spokesperson said: "As we enter the EU negotiations, the prime minister has been clear we want to ensure British companies have the maximum freedom to trade with and operate in the single market."
 "At the same time, leaving the EU is a real opportunity to review fisheries management in order to ensure fair access to quota, sustainable stocks and a healthy marine environment."
-Follow Matt on Twitter and on Facebook 
+Follow Matt on Twitter and on Facebook
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the eu\'s brexit negotiator has urged the government to sell fish to the european union as a result of brexit negotiations.
+</Summary>
 
-1. The summary states that the EU's Brexit negotiator urged the government to sell fish to the European Union as a result of Brexit negotiations. However, the article does not mention anything about the EU's Brexit negotiator making such a request. Instead, the article focuses on the House of Lords European Union Committee's report on the risks and opportunities for the UK fishing industry post-Brexit.
-2. The summary implies that the UK government will be selling fish to the EU as part of the Brexit negotiations, which is not supported by the article. The article states that the Lords' report warns that Britain may have to allow EU-registered boats to fish in UK waters as part of an overall deal, but it does not mention anything about the UK selling fish to the EU.
-3. The summary also suggests that the EU's Common Fisheries Policy (CFP) has been a disaster for Britain, which is not entirely accurate. While the CFP has been controversial and has been criticized by some in the UK fishing industry, it has also helped to maintain fish stocks and promote sustainable fishing practices. The article notes that many in the industry argue that Brexit offers the chance to regain control over UK waters and become a leading fish-exporting nation, but it does not present a one-sided view of the CFP.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, there are several reasons why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it misrepresents the Lords' report and oversimplifies the complex issues surrounding the UK's fishing industry and Brexit. The article provides a more balanced and nuanced view of the situation, highlighting the potential risks and opportunities for the UK fishing industry post-Brexit.
+1. The summary mentions the EU's Brexit negotiator urging the government to sell fish to the European Union, but the article does not mention any such negotiator or urging.
+2. The summary suggests that the government will sell fish to the EU as a result of Brexit negotiations, but the article does not support this claim. In fact, the article states that the UK will need to ensure that it has fair access to quota, sustainable stocks, and a healthy marine environment, which may not necessarily involve selling fish to the EU.
+3. The summary is too simplistic and does not capture the complexity of the issues involved in Brexit negotiations. The article discusses the potential risks and opportunities for the UK fishing industry, the need for continued market access, and the possibility of retaining elements of the CFP.
+
+Therefore, the summary is not consistent with the article because it oversimplifies the issues and does not accurately reflect the content of the article.
 
 ###Corrected:

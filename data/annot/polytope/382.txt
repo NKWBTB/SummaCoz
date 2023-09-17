@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
-more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
-bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history . 
-
-    Article: 
-    ( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
+<Article>
+( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
 more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
 bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history .
 kyle was fatally shot at a texas shooting range in 2013 .
@@ -18,16 +13,26 @@ but there was a backlash to the decision to yank the movie , and a counter-petit
 on wednesday , e. royster harper , university of michigan 's vice president for student life , said in a statement that " it was a mistake to cancel the showing of the movie ` american sniper ' on campus as part of a social event for students " and that the show will go on .
 " the initial decision to cancel the movie was not consistent with the high value the university of michigan places on freedom of expression and our respect for the right of students to make their own choices in such matters , " the statement said .
 umix will offer a screening of the family-friendly " paddington " for those who would rather not attend " american sniper . "
-the announcement drew praise from michigan head football coach jim harbaugh . 
+the announcement drew praise from michigan head football coach jim harbaugh .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
+more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
+bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history .
+</Summary>
 
-1. The summary states that the university decided to proceed with the screening despite objections from some students, while the article states that the university initially decided to cancel the screening due to objections from some students.
-2. The summary mentions that some students believed the movie's depiction of the Iraq war reflected negatively on the Middle East and people from that region, but the article does not mention this as a reason for the initial cancellation.
-3. The summary mentions a backlash to the decision to yank the movie, but the article does not mention any counter-petition or backlash.
-4. The summary states that the university's vice president for student life said that it was a mistake to cancel the movie and that the show will go on, but the article does not include this statement.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it omits certain details and includes others that are not present in the article.
+1. The article states that the University of Michigan has decided to proceed with a screening of the film "American Sniper" despite objections from some students.
+2. The summary only mentions that the university has decided to proceed with the screening, without mentioning any objections from students.
+3. The article states that more than 200 students signed a petition asking the school not to show the movie as part of umix, a series of social events the university stages for students.
+4. The summary does not mention the petition or any objections from students.
+5. The article states that Bradley Cooper was nominated for an Oscar for his portrayal of Chris Kyle, a Navy SEAL and the most lethal sniper in U.S. military history.
+6. The summary does not mention anything about Bradley Cooper or the Oscar nomination.
+7. The article states that some students believed the movie's depiction of the Iraq war reflected negatively on the Middle East and people from that region.
+8. The summary does not mention anything about the movie's depiction of the Iraq war or any negative impact on the Middle East.
+
+Therefore, the summary is not consistent with the article because it leaves out several important details and does not accurately represent the content of the article.
 
 ###Corrected:

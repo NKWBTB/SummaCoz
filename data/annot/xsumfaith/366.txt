@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman in the us state of virginia has told how she was sexually assaulted by a gang in the capital, nairobi. 
-
-    Article: 
-    Cynthia Cheroitich, 19, said she drank body lotion because she was hungry and thirsty.
+<Article>
+Cynthia Cheroitich, 19, said she drank body lotion because she was hungry and thirsty.
 She was only brought out on Saturday morning after security forces found a teacher she knew to convince her it was safe to come out.
 Ms Cheroitich said her ordeal began at around 05:30 (02:30 GMT) on Thursday when she and her fellow students were in class studying for their exams.
 "Suddenly, we heard the bullets and then we started coming out and then we said: 'What is happening?'" she told the Associated Press news agency.
@@ -19,16 +16,21 @@ She said she found some bottles of body lotion where she was hiding and "drank a
 But she was too scared to move. "I was just praying to my God," she said.
 It was not until 10:00 on Saturday, long after the attack ended, that the authorities were able to persuade her to come out.
 She told AP: "You know at first I did not believe it [when police came to rescue her], at first I was thinking that maybe they were the al-Shabab.  So I said: 'How do I know that you are the Kenyan police?'"
-It was only after a member of the college staff came to convince her that it was safe to come out that she emerged. 
+It was only after a member of the college staff came to convince her that it was safe to come out that she emerged.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+a woman in the us state of virginia has told how she was sexually assaulted by a gang in the capital, nairobi.
+</Summary>
 
-1. The summary states that the woman was sexually assaulted by a gang in Nairobi, but the article does not mention anything about sexual assault.
-2. The summary mentions that the woman was hiding in a wardrobe during the attack, but the article does not mention any hiding or wardrobe.
-3. The summary states that the woman drank body lotion during the attack, but the article does not mention any body lotion or drinking.
-4. The summary mentions that the woman was rescued on Saturday morning, but the article does not mention any rescue or being brought out of hiding.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. It appears to be a fictional or fabricated account, possibly intended to sensationalize the event or elicit an emotional response.
+1. The article does not mention any sexual assault. The article describes a terrorist attack on a college in Nairobi, Kenya, where students were taken hostage and some were separated based on their ability to recite verses of the Koran.
+2. The summary is not consistent with the article because it mentions a sexual assault, which is not present in the article.
+3. The word "assault" in the summary is a misleading term, as it does not accurately reflect the events described in the article. The article does not mention any physical assault or violence, but rather a terrorist attack and hostage-taking.
+4. The phrase "a gang in the capital, Nairobi" is also inaccurate, as the article does not mention a gang or any criminal activity other than the terrorist attack.
+5. The summary is not supported by the article, as it contains false and misleading information.
+
+Therefore, the summary is not consistent with the article and should not be relied upon as an accurate representation of the events described in the article.
 
 ###Corrected:

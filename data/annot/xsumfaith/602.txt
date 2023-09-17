@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a restaurant in new york has a special menu for pampered pooches to eat alongside their owners. 
-
-    Article: 
-    27 August 2016 Last updated at 12:34 BST
+<Article>
+27 August 2016 Last updated at 12:34 BST
 The restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants -  as long as they were outdoors!
-It looks like a right dog's dinner - check out this clip. 
+It looks like a right dog's dinner - check out this clip.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a restaurant in new york has a special menu for pampered pooches to eat alongside their owners.
+</Summary>
 
-1. The summary states that the restaurant has a special menu for pampered pooches to eat alongside their owners, implying that the dogs can eat inside the restaurant.
-2. However, the article states that the restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants - as long as they were outdoors! This means that dogs are not allowed to eat inside the restaurant.
-3. Therefore, the summary is not consistent with the article because it implies that the dogs can eat inside the restaurant, which is not allowed according to the new law.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-So, the inconsistency is due to the fact that the summary does not accurately reflect the information in the article.
+1. The article states that the restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants - as long as they were outdoors.
+2. The summary states that the restaurant has a special menu for pampered pooches to eat alongside their owners.
+3. The two statements are not consistent with each other. The article states that the dogs must eat outdoors, while the summary implies that the dogs can eat alongside their owners inside the restaurant.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article.
 
 ###Corrected:

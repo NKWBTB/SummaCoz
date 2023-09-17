@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mangu ram was 14 when he fled to kashmir as a refugee - now an old man .  prime minister narendra modi 's hindu nationalist party won share of power in india 's state elections .  ram , a hindu , was born in punjab province .  
-
-    Article: 
-    as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
+<Article>
+as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
 it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
 but now ram and thousands like him are daring to hope they will finally be able to shed the refugee status that has plagued them for decades , after prime minister narendra modi 's hindu nationalist party won a share of power in india 's only muslim-majority state .
 mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
@@ -56,17 +53,23 @@ but he warned the community is ready to take matters into their own hands if the
 ` we will spill our blood on the streets for our rights , ' he says .
 the daughter of a hindu refugee studies in her slum home in surej chak .
 under the current laws she is not allowed to enrolled at a state-run training college or be employed by the state government .
-such laws , argue opponents , make these families ` second class citizens ' 
+such laws , argue opponents , make these families ` second class citizens '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided article, there are several inconsistencies in the provided summary:
+<Summary>
+mangu ram was 14 when he fled to kashmir as a refugee - now an old man .  prime minister narendra modi 's hindu nationalist party won share of power in india 's state elections .  ram , a hindu , was born in punjab province . 
+</Summary>
 
-1. Age of Mangu Ram: The summary states that Mangu Ram was 14 when he fled to Kashmir as a refugee, while the article states that he is now 82 years old.
-2. Citizenship rights: The summary states that Mangu Ram and other West Pakistan refugees are denied citizenship rights, while the article states that they are classified as refugees but have not been granted residential rights, including the right to buy land, vote in state polls, or work in the state government.
-3. Reason for denial of citizenship rights: The summary states that the rulers of Jammu and Kashmir have refused to give the West Pakistan refugees the right to own property or vote in state elections due to fears of upsetting the demographic balance in the state, while the article states that the reason for denial of citizenship rights is due to a pre-independence law that only grants citizenship to people born or descendants of those born in the old undivided kingdom of Kashmir.
-4. Number of refugees: The summary states that there are around 100,000 people classified as West Pakistan refugees, while the article states that there are around 18,000 WPR families living in abject poverty.
-5. Hope for change: The summary states that the success of Prime Minister Narendra Modi's Hindu nationalist party at a recent state vote may bring change for the West Pakistan refugees, while the article states that the newly-elected Bharatiya Janata Party (BJP) has pledged to normalize the WPRs' status and champion their cause.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the provided summary is not consistent with the article, and the inconsistencies mentioned above highlight the inaccuracies in the summary.
+1. The summary states that Mangu Ram was a refugee when he fled to Kashmir as a 14-year-old, and now, as an old man, he is hoping for change after Prime Minister Narendra Modi's Hindu nationalist party won a share of power in India's state elections.
+2. However, the article states that Mangu Ram is not a refugee, but a traditional healer who lives in a slum in Jammu, Kashmir. He has been denied citizenship rights for 70 years and is considered a second-class citizen.
+3. The summary does not mention that Mangu Ram is a Hindu, while the article highlights that he is a Hindu and that the West Pakistan refugees, like him, have been denied citizenship rights.
+4. The summary does not mention the conflict between India and Pakistan over Kashmir, which is a significant aspect of the article.
+5. The summary does not mention the fact that the West Pakistan refugees have been denied residential rights, including the right to buy land, vote in state polls, or work in the state government.
+6. The summary does not mention the activist Labha Ram Gandhi, who is quoted in the article as saying that granting the refugees state-subject rights is the only way to improve their condition.
+7. The summary does not mention the fact that the article is discussing the plight of around 100,000 West Pakistan refugees who have been living in poverty for decades.
+
+In conclusion, the summary does not accurately reflect the content of the article. It does not provide a clear picture of the issues faced by the West Pakistan refugees, such as their denied citizenship rights, poverty, and lack of access to education and government jobs. Additionally, the summary does not mention the conflict between India and Pakistan over Kashmir, which is a significant aspect of the article.
 
 ###Corrected:

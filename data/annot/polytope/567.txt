@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    robin van persie will not play for manchester united against city on sunday .
-louis van gaal says he has been dreaming of beating manchester united .
-van gaal says he has been dreaming of beating manchester united .
-van gaal says he is not fit enough to play for manchester united . 
-
-    Article: 
-    manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+<Article>
+manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
 van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
 ` most of the players are fit but being fit for me is different , ' van gaal said .
 robin van persie will not return to the fray for manchester united against manchester city on sunday
@@ -49,16 +43,26 @@ herrera will be hoping to continue the fine form that has seen him become one of
 van gaal admitted he is looking forward to sampling the derby atmosphere at old trafford , as he takes on city with home advantage for the first time since arriving at the club .
 ` when i see the fans of man utd , they are supporting us in a marvellous way , i think , ' van gaal said .
 ` after matches , i give our fans a big compliment , not because i have to , because then i would n't say it .
-i say it because i feel it . ' 
+i say it because i feel it . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+robin van persie will not play for manchester united against city on sunday .
+louis van gaal says he has been dreaming of beating manchester united .
+van gaal says he has been dreaming of beating manchester united .
+van gaal says he is not fit enough to play for manchester united .
+</Summary>
 
-1. The summary states that Louis van Gaal has ruled out Robin van Persie from playing against Manchester City on Sunday, but the article states that van Persie is fit to feature in the game despite ankle trouble.
-2. The summary states that van Gaal has said that van Persie is not fit enough to play, but the article does not quote van Gaal as saying this. Instead, the article states that van Gaal has ruled out van Persie from playing due to the player not being fit enough.
-3. The summary states that van Gaal has said that he dreams of beating Manchester City, but the article does not quote van Gaal as saying this. Instead, the article states that van Gaal wants his side to move towards the target of finishing as high as second or third in the table by taking all three points against City.
-4. The summary states that van Gaal has ruled out a potential return for Luke Shaw, but the article does not mention anything about Shaw's fitness or potential return.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that Robin van Persie will not play for Manchester United against City on Sunday. This is inconsistent with the article, as the article states that Louis van Gaal has ruled him out of the game due to ankle trouble, but does not mention that he will not play.
+2. The summary also states that Louis van Gaal has been dreaming of beating Manchester United. This is not supported by the article, as the article does not mention van Gaal's dreams or desires.
+3. The summary states that van Gaal says he is not fit enough to play for Manchester United. This is also not supported by the article, as the article does not mention van Gaal making any statements about the fitness of his players.
+
+Therefore, the summary is not consistent with the article, and the reasons for these inconsistencies are:
+
+* The summary incorrectly states that van Persie will not play, when the article only states that he is ruled out due to ankle trouble.
+* The summary incorrectly states that van Gaal has been dreaming of beating Manchester United, when the article does not mention this.
+* The summary incorrectly states that van Gaal says he is not fit enough to play, when the article does not mention this.
 
 ###Corrected:

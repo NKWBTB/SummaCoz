@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    campaigners have called for an independent review into the use of medicines on the nhs in scotland. 
-
-    Article: 
-    Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
+<Article>
+Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
 Two patients sitting on the original review group quit in protest at what they said was a watered-down report.
 Now independent expert Alison Britton, a professor of healthcare and medical law, will examine the final report.
 Ms Robison told Holyrood's public petitions committee that Prof Britton, from Glasgow Caledonian University, would examine the process by which the report came to its conclusions.
@@ -27,16 +24,21 @@ Olive McIlroy and Elaine Holmes - who had both suffered complications as a resul
 It was claimed that parts of the final report had been removed.
 Following their resignations, it emerged that a consultant also quit the expert group over concerns about the final draft of the report.
 Over the past 20 years, more than 20,000 women in Scotland have had mesh or tape implants but some have suffered painful and debilitating complications.
-There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery. 
+There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+campaigners have called for an independent review into the use of medicines on the nhs in scotland.
+</Summary>
 
-1. The summary states that campaigners have called for an independent review into the use of medicines on the NHS in Scotland, but the article does not mention anything about campaigners calling for an independent review. Instead, the article focuses on the independent review of transvaginal mesh implants that has already taken place.
-2. The summary mentions the use of medicines on the NHS in Scotland, but the article only discusses the use of transvaginal mesh implants, which are a type of medical device used to treat incontinence and pelvic organ prolapse.
-3. The summary states that the independent review process was undertaken to examine the use of medicines on the NHS in Scotland, but the article only discusses the independent review of transvaginal mesh implants.
-4. The summary mentions that the report concluded that procedures should not be offered routinely to women with pelvic organ prolapse, but the article does not mention this. Instead, the article focuses on the controversy surrounding the independent review and the resignations of two panel members.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. The article focuses on the independent review of transvaginal mesh implants and the controversy surrounding it, while the summary mentions a broader topic (the use of medicines on the NHS in Scotland) and includes information that is not present in the article.
+1. The summary states that campaigners have called for an independent review into the use of medicines on the NHS in Scotland.
+2. However, the article does not mention anything about campaigners calling for an independent review. Instead, it talks about an independent review that has already taken place and its findings.
+3. Therefore, the summary is not consistent with the article. It is not accurate to say that campaigners have called for an independent review when the article is about an existing independent review and its recommendations.
+4. The article mentions that the independent review was conducted by Professor Alison Britton, who examined the process by which the report came to its conclusions. The summary does not mention this detail.
+5. Additionally, the article discusses the findings of the independent review, including recommendations for the use of transvaginal mesh implants, while the summary does not mention any specific findings or recommendations.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. It is not clear what the purpose of the summary is or what information it is intended to convey, as it does not provide any specific details or findings from the article.
 
 ###Corrected:

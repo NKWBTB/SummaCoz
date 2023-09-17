@@ -1,30 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    potholes on the isle of wight are set to be closed for the first time in more than six months. 
-
-    Article: 
-    Northumberland County Council said the weather was now warm enough for its Jetpatcher machines to tackle the holes.
+<Article>
+Northumberland County Council said the weather was now warm enough for its Jetpatcher machines to tackle the holes.
 It is hoped that 145 potholes each day will be "filled in" over the next four months, the council said.
-Extra staff will also be out repairing drainage systems damaged by heavy rain and to clear debris from gutters. 
+Extra staff will also be out repairing drainage systems damaged by heavy rain and to clear debris from gutters.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+potholes on the isle of wight are set to be closed for the first time in more than six months.
+</Summary>
 
-1. The summary states that potholes on the Isle of Wight are set to be closed for the first time in more than six months.
+Explain your reasoning step by step:[/INST]
 
-This is not consistent with the article because there is no mention of potholes being closed. Instead, the article states that the council will be filling in potholes using Jetpatcher machines.
+1. The article states that Northumberland County Council is using Jetpatcher machines to fill in potholes, indicating that the potholes are still present and need to be repaired.
+2. The summary states that potholes on the Isle of Wight are set to be closed, implying that the potholes have already been repaired.
+3. The article does not mention the Isle of Wight or any plans to close potholes.
+4. Therefore, the summary is not consistent with the article because it refers to a different location (the Isle of Wight) and a different action (closing potholes, rather than filling them).
 
-2. The article states that Northumberland County Council will be using Jetpatcher machines to fill in 145 potholes each day over the next four months.
+Reasoning step by step:
 
-This is not mentioned in the summary at all.
-
-3. The article also mentions that extra staff will be out repairing drainage systems damaged by heavy rain and clearing debris from gutters.
-
-This is not mentioned in the summary either.
-
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary only mentions potholes being closed, while the article mentions potholes being filled in and other repairs being done.
+1. The article mentions Northumberland County Council using Jetpatcher machines to fill in potholes, which implies that the potholes are still present.
+2. The summary states that potholes on the Isle of Wight are set to be closed, which implies that the potholes have already been repaired.
+3. The article does not mention the Isle of Wight or any plans to close potholes.
+4. Therefore, the summary is not consistent with the article because it refers to a different location and a different action.
 
 ###Corrected:

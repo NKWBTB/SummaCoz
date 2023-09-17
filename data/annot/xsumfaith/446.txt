@@ -1,25 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hundreds of whales have been killed in the southern indian state of andhra pradesh, killing at least 11 whales, officials say. 
-
-    Article: 
-    Thirty-six whales were rescued and pushed back into the sea at Tuticorin on Tuesday, but 28 of them floated back to the shore and died on Wednesday.
+<Article>
+Thirty-six whales were rescued and pushed back into the sea at Tuticorin on Tuesday, but 28 of them floated back to the shore and died on Wednesday.
 Earlier, 45 whales died after 81 of the animals were stranded on Monday.
 The last time such an incident occurred in Tuticorin was in 1973 when 147 whales died.
 Local fishermen, helped by officials, have been using mechanised boats to float the stranded whales back into the sea, but many of the animals have returned to the shore, BBC Hindi's Imran Qureshi reports.
 "This is a well known phenomenon. When there is mass stranding, whales return ashore. Pilot whales are very social animals and they live in groups. They are very aware that some of their group members are in distress on the shore, possibly dead, so they don't wish to go back into the sea," whale expert Dr Kumaran Sathasivam said.
-The dead whales are being buried near the shore at Tuticorin, officials say. 
+The dead whales are being buried near the shore at Tuticorin, officials say.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+hundreds of whales have been killed in the southern indian state of andhra pradesh, killing at least 11 whales, officials say.
+</Summary>
 
-1. The summary states that "hundreds of whales have been killed in the southern Indian state of Andhra Pradesh." However, the article does not mention anything about whales being killed. Instead, it reports that 36 whales were rescued and pushed back into the sea, but 28 of them floated back to the shore and died.
-2. The summary also states that "at least 11 whales" were killed, but the article does not provide any information about the number of whales that were killed.
-3. The summary is not consistent with the article because it mentions whales being killed, while the article only reports on whales being rescued and dying after being pushed back into the sea.
-4. The article explains that the whales are returning to the shore because they are social animals and are aware that some of their group members are in distress on the shore, possibly dead. This is not mentioned in the summary.
-5. Therefore, the summary is not a accurate representation of the article and is not consistent with the information provided in the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that "hundreds of whales have been killed" in Andhra Pradesh, which is not supported by the article. The article states that 36 whales were rescued and pushed back into the sea, but 28 of them floated back to the shore and died. This is a much smaller number than "hundreds."
+2. The summary also states that at least 11 whales were killed, but the article does not mention any specific number of whales that were killed. It only states that 45 whales died after 81 were stranded on Monday.
+3. The summary mentions Andhra Pradesh, but the article does not mention this state. The article only mentions Tuticorin, which is in the state of Tamil Nadu.
+4. The summary does not provide any information about the cause of the whales' deaths, while the article explains that the whales are returning to the shore because they are social animals and are aware that some of their group members are in distress on the shore.
+
+Therefore, the summary is not consistent with the article because it exaggerates the number of whales that were killed, misstates the location of the incident, and does not provide any information about the cause of the whales' deaths.
 
 ###Corrected:

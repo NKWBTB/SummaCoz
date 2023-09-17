@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    west ham\'s hopes of reaching the fa cup quarter-finals suffered a setback as they were beaten by 10-man cheltenham. 
-
-    Article: 
-    After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
+<Article>
+After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
 Sakho slotted in his first goal since November from Sam Byram's pass, before Ayew tucked into the same bottom corner moments later.
 The hosts went close via Harry Pell's volley and Jordon Forster's header.
 James Collins and Byram both could have added further goals for the visitors, who made seven changes following top-flight losses at Manchester United and Southampton.
@@ -54,17 +51,18 @@ Attempt missed. James Collins (West Ham United) header from the centre of the bo
 Corner,  West Ham United. Conceded by Jordan Cranston.
 Attempt blocked. Diafra Sakho (West Ham United) right footed shot from outside the box is blocked. Assisted by Arthur Masuaku.
 Sam Byram (West Ham United) wins a free kick in the defensive half.
-Foul by Kevin Dawson (Cheltenham Town). 
+Foul by Kevin Dawson (Cheltenham Town).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+west ham\'s hopes of reaching the fa cup quarter-finals suffered a setback as they were beaten by 10-man cheltenham.
+</Summary>
 
-1. The summary states that West Ham's hopes of reaching the FA Cup quarter-finals suffered a setback, but the article does not mention anything about the FA Cup. The article only talks about the EFL Cup.
-2. The summary says that Cheltenham were beaten by 10-man West Ham, but the article does not mention anything about Cheltenham having a man sent off.
-3. The summary states that West Ham won the match 2-0, but the article does not mention the score.
-4. The summary mentions that Cheltenham performed respectfully, but the article does not mention anything about Cheltenham's performance being respectable.
-5. The summary states that West Ham could have won by a greater margin, but the article does not mention anything about West Ham having opportunities to score more goals.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations that are not supported by the information in the article.
+1. The summary states that West Ham's hopes of reaching the FA Cup quarter-finals suffered a setback as they were beaten by 10-man Cheltenham.
+2. However, the article does not mention anything about West Ham being beaten or suffering a setback. In fact, the article states that West Ham won the match 2-0.
+3. The summary is not consistent with the article because it implies that West Ham lost the match, while the article states that they won.
+4. The inconsistency is likely due to a mistake or misinterpretation of the information in the article. The summary may have been written based on incomplete or inaccurate information, or it may have been intended to be a satirical or humorous take on the match, rather than a serious summary of the events.
 
 ###Corrected:

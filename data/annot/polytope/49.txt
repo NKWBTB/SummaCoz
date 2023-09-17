@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the stylish pair agree that denim is the easiest way to achieve the trend 
-the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right ) 
-celine showcased colourful billowing bottoms on their ss15 runway  
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,16 +28,25 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the stylish pair agree that denim is the easiest way to achieve the trend 
+the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right ) 
+celine showcased colourful billowing bottoms on their ss15 runway 
+</Summary>
 
-1. The summary states that denim is the easiest way to achieve the trend of wide-leg trousers, but the article does not mention denim as a key fabric for the trend. Instead, the article highlights cropped, printed, and striped wide-leg trousers as well.
-2. The summary mentions Celine and Gucci as brands that showcased wide-leg trousers on their runways, but the article does not mention these specific brands. The article only mentions Stella McCartney and Topshop as high street brands that have adopted the trend.
-3. The summary suggests that the wide-leg trouser is a new trend, but the article states that the trend has made a comeback since the seventies.
-4. The summary advises readers to pair wide-leg trousers with high heels and a simple top to elongate the leg and avoid being drowned by too much fabric, but the article does not provide this specific advice. Instead, the article suggests that proportion is everything and advises readers to team wide-leg trousers with a simple knit, shirt, or tee to keep the look current and cool.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses on denim as the key fabric for the trend, mentions specific brands that are not mentioned in the article, and provides advice that is not included in the article.
+The given summary is not consistent with the article because:
+
+1. The summary mentions only denim wide-leg trousers, while the article discusses various fabrics and styles, including printed, cropped, and high-waisted trousers.
+2. The summary states that the trend made an appearance on several catwalks, but the article does not mention any specific catwalks or designers.
+3. The summary mentions only three brands - Gucci, Topshop, and Celine - while the article mentions several other brands and designers.
+
+To fix the summary, it should be rewritten to include the variety of fabrics and styles discussed in the article, and to remove the mention of specific catwalks and brands. Here's a revised summary:
+
+The wide-leg trouser is a key spring trend this season, with a variety of styles and fabrics available. From denim to printed and cropped, there's a wide-leg trouser to suit every style. The trend has been seen on the runways of top designers, and is being embraced by fashion influencers and bloggers. Whether you're looking for a high-waisted, cropped, or printed version, there's a wide-leg trouser to fit your look.
 
 ###Corrected:

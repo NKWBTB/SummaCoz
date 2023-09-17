@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in the wake of the greek debt crisis, greece\'s economy minister, alexis tsipras and his colleagues, are struggling to agree a loan deal with greece. 
-
-    Article: 
-    No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
+<Article>
+No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
 And Greece's resorts are teeming: Athens airport expects 25 million arrivals this year, up from 21 million; the incremental 4 million are not all eurozone and IMF officials intent on turning the country into a protectorate run from Brussels, Frankfurt and Washington (home of the IMF).
 Maybe holidaymakers were hoping to be on the ground for euro break-up history. Or more likely Greece simply looks like a wonderful place to take the kids compared with resorts closer to territory controlled by the so-called Islamic State.
 But why aren't the Greeks manning the barricades in protest against already-announced, painful VAT increases and pension cuts, and in anticipation of swingeing reductions in farm subsidies, controversial privatisations and the opening of professions and industries to the harsh wind of competition?
@@ -19,16 +16,21 @@ Not that many Greek companies have the confidence to ask for a loan for investme
 There is the vice, in both senses of the word. Greece is suffering from a vicious economic squeeze, which will undoubtedly further impoverish Greek people.
 So for all the relief throughout the eurozone that Syriza has finally been battered into submission, the new bailout will only hold if Tsipras can offer hope of better times ahead.
 Many would say that good economics and politics requires creditors to ease the burden of Greece's unsustainably large debts by between a third and a half.
-So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation. 
+So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+in the wake of the greek debt crisis, greece\'s economy minister, alexis tsipras and his colleagues, are struggling to agree a loan deal with greece.
+</Summary>
 
-1. The summary states that Greece's economy minister, Alexis Tsipras, is struggling to agree a loan deal with Greece's creditors. However, the article states that Tsipras has already conceded to obtain €86bn of new credit from the eurozone and (possibly) the IMF. This contradicts the idea that he is struggling to agree a loan deal.
-2. The summary mentions that the Greeks are not manning the barricades to protest against austerity measures, but the article explains that the reason for this is that the Greeks are suffering from a vicious economic squeeze and are impoverished, so they do not have the resources to protest.
-3. The summary implies that Tsipras is rushing to agree to terms that he and his colleagues eschewed when elected, but the article explains that this is because of Greece's near-death experience in July, which turned Syriza into disciples of TINA ("there is no alternative").
-4. The summary mentions that Tsipras remains popular despite failing to deliver an end to fiscal austerity, but the article states that his standoff with the rest of the eurozone has saddled Greece with monetary austerity as well, and that the continued partial closure of the banks means that companies have no money to lend.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents a different picture of the situation than the article does. The article portrays a Greece that is suffering from a vicious economic squeeze, with Tsipras having already conceded to obtain a new bailout, while the summary implies that Tsipras is struggling to agree to terms and that the Greeks are protesting against austerity measures.
+1. The summary states that Greece's economy minister, Alexis Tsipras, is struggling to agree a loan deal with Greece. This is not consistent with the article, as the article states that Tsipras has already agreed to a third bailout with the eurozone and the IMF.
+2. The article explains that the reason for the bailout is to provide Greece with new credit and avoid a default, which would have been a disastrous outcome for the country. The summary does not mention this and instead implies that Tsipras is struggling to agree on a loan deal, which is not accurate.
+3. The article highlights the conditions of the bailout, such as VAT increases, pension cuts, and privatizations, which are unpopular with the Greek people. The summary does not mention these conditions or the controversy surrounding them.
+4. The article states that Tsipras has conceded to obtain the new credit, but the summary does not mention this. Instead, it implies that Tsipras is struggling to agree on a loan deal, which is not accurate.
+5. The article mentions that the bailout will only hold if Tsipras can offer hope of better times ahead, and that creditors will need to ease the burden of Greece's unsustainably large debts. The summary does not mention any of these details.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary is too brief and does not provide enough information to accurately summarize the article. It also omits important details and presents a misleading picture of the situation.
 
 ###Corrected:

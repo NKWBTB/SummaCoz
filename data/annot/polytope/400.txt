@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
-the collection of ten is designed to be worn in 20 different ways , and are suitable for day to night wear .
-ten pieces is headed up by icebergs restaurateur maurice terzini and his partner lucy hinckfuss . 
-
-    Article: 
-    there may have been a few disgruntled lap swimmers at bondi on thursday .
+<Article>
+there may have been a few disgruntled lap swimmers at bondi on thursday .
 the daily visitors to the iconic icebergs club were forced to take their exercise back to the beach as their beloved pool was drained for the fashion folk .
 the empty pool was used as the unusual catwalk setting for the ten pieces presentation as part of mercedes-benz fashion week australia .
 bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
@@ -26,17 +21,23 @@ worlds collide : beachgoers at bondi stopped and stared as the catwalk show took
 girls and boys : the androgynous wares are designed to be worn by both sexes
 winter is coming : models wrapped up in scarves and hoodies from the unisex collection
 poolside : guests enjoyed the sunny weather as they waited for the show to commence
-public site : passers-by stopped to watch the show from the road above the pool 
+public site : passers-by stopped to watch the show from the road above the pool
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
+the collection of ten is designed to be worn in 20 different ways , and are suitable for day to night wear .
+ten pieces is headed up by icebergs restaurateur maurice terzini and his partner lucy hinckfuss .
+</Summary>
 
-1. The summary states that the pool was drained to create a unique catwalk for Mercedes-Benz Fashion Week Australia, but the article does not mention anything about the pool being drained. Instead, it states that the pool was empty due to the daily visitors being forced to take their exercise back to the beach.
-2. The summary mentions that the collection is designed to be worn in 20 different ways, but the article only mentions that the collection is designed to be worn in multiple ways.
-3. The summary states that the show was held at Bondi's Icebergs Club, but the article does not mention the name of the location.
-4. The summary mentions that the show was held on an unseasonably warm day, but the article does not mention the weather.
-5. The summary states that the collection is suitable for day to night wear, but the article only mentions that the collection is suitable for both men and women.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and omits other important details that are present in the article.
+1. The summary states that the collection is designed to be worn in 20 different ways, but the article does not mention this. The article only states that the collection is designed to be worn in multiple ways, without specifying a specific number.
+2. The summary mentions that the show took place on an unseasonably warm 28 degrees Celsius day, but the article does not mention the temperature.
+3. The summary mentions that the collection is suitable for day to night wear, but the article does not mention this. The article only states that the collection is designed for both men and women.
+4. The summary mentions that the show was held at Bondi's Icebergs club, but the article does not mention the location of the show. The article only states that the show was held at an unusual location.
+5. The summary mentions that the label had no trouble securing the show-stopping location, but the article does not mention this. The article only states that the label had no trouble securing the location for the show.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
 
 ###Corrected:

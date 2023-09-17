@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the russian ambassador to the russian ambassador has been awarded the freedom of the country. 
-
-    Article: 
-    Defence attaché Capt Oleg Kornienko presented Ushakov medals to the men of the Arctic Convoys.
+<Article>
+Defence attaché Capt Oleg Kornienko presented Ushakov medals to the men of the Arctic Convoys.
 Able seaman Charles Lewis, 91, from Calmore, Hampshire said he was "honoured and delighted".
 The Foreign Office initially did not allow Russia to honour the veterans as it broke the rules on foreign medals.
 The Russian embassy said the convoys allowed Russian soldiers to defeat the Germans on the Eastern Front.
@@ -26,16 +23,19 @@ But the move was blocked by the Foreign Office as its rules stated British soldi
 The British Government created the Arctic Star in 2012 following a long campaign for the convoy veterans to be recognised.
 But campaigners believed veterans should still be able to receive the Russian accolade.
 The Foreign Office allowed an "exception to the rules" last year and President Vladimir Putin presented the first medals during his visit to London on 16 June 2013.
-The Ushakov medal is awarded to sailors who have displayed courage in the course of defending Russia or its interests. 
+The Ushakov medal is awarded to sailors who have displayed courage in the course of defending Russia or its interests.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the russian ambassador to the russian ambassador has been awarded the freedom of the country.
+</Summary>
 
-1. The summary states that the Russian ambassador has been awarded the freedom of the country, but the article does not mention anything about the ambassador being awarded anything.
-2. The summary mentions the Ushakov medals being awarded to the men of the Arctic Convoys, but the article only mentions that Capt Oleg Kornienko presented the medals to the veterans.
-3. The summary states that the Foreign Office initially did not allow Russia to honor the veterans, but the article explains that the Foreign Office allowed an "exception to the rules" last year, allowing the Russian Embassy to present the medals.
-4. The summary does not mention the Arctic Star, which was created by the British Government in 2012 to recognize the veterans of the Arctic Convoys, but the article mentions it as a reason why the Foreign Office allowed the Russian Embassy to present the medals.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information.
+1. The article states that the Russian Embassy awarded the Ushakov medals to the Arctic Convoy veterans, but the summary claims that the Russian ambassador was awarded the freedom of the country.
+2. The Ushakov medals are awarded to sailors who have displayed courage in defending Russia or its interests, as stated in the article.
+3. There is no mention of the Russian ambassador being awarded the freedom of the country in the article.
+4. The summary is not consistent with the article, as it incorrectly states that the Russian ambassador was awarded the freedom of the country, when in fact the Ushakov medals were awarded to the Arctic Convoy veterans.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

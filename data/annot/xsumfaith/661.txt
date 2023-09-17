@@ -1,23 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sheffield wednesday midfielder kieran lee (hip) could feature after three months out. 
-
-    Article: 
-    Forward Fernando Forestieri (knee) is a doubt having only been able to play from the bench in the last two games.
+<Article>
+Forward Fernando Forestieri (knee) is a doubt having only been able to play from the bench in the last two games.
 Derby County striker David Nugent (groin) could return after missing Monday's draw with Huddersfield.
-Midfielder Jacob Butterfield is hoping for a recall after coming off the bench to score a late leveller against the Terriers. 
+Midfielder Jacob Butterfield is hoping for a recall after coming off the bench to score a late leveller against the Terriers.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+sheffield wednesday midfielder kieran lee (hip) could feature after three months out.
+</Summary>
 
-1. The summary states that Sheffield Wednesday midfielder Kieran Lee could feature after three months out.
-2. However, the article does not mention anything about Kieran Lee.
-3. Instead, the article mentions that forward Fernando Forestieri is a doubt, midfielder Jacob Butterfield is hoping for a recall, and striker David Nugent could return after missing Monday's draw with Huddersfield.
-4. Therefore, the summary is not consistent with the article because it mentions a player (Kieran Lee) who is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
+Sure, here's my reasoning step by step:
 
-So, the reason why the summary is not consistent with the article is that it includes information about a player (Kieran Lee) who does not appear in the article.
+1. The article mentions three players who could potentially return from injury:
+	* Forward Fernando Forestieri (knee) is a doubt.
+	* Striker David Nugent (groin) could return.
+	* Midfielder Jacob Butterfield is hoping for a recall.
+2. The summary mentions a different player, Kieran Lee, who is not mentioned in the article:
+	* Sheffield Wednesday midfielder Kieran Lee (hip) could feature after three months out.
+3. The article does not mention Kieran Lee or any injury he may have sustained. Therefore, the summary is not consistent with the article.
+
+Conclusion: The summary is not consistent with the article because it mentions a player (Kieran Lee) who is not mentioned in the article, and it also implies that he has been out for three months, which is not supported by the article.
 
 ###Corrected:

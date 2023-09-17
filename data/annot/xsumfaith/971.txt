@@ -1,27 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ulster grand prix champion chris martin has been forced to pull out of the ulster grand prix because of injury. 
-
-    Article: 
-    The English rider crashed at this year's TT and the Fireblade bike has been plagued by mechanical problems.
+<Article>
+The English rider crashed at this year's TT and the Fireblade bike has been plagued by mechanical problems.
 Martin told MCN that he was quitting road racing but he later clarifying his position on Facebook.
 "I've not given up on racing or road racing but I've got no plans to do anymore road racing on the Hondas this year," he said.
 Martin didn't race at the North West 200 after team-mate John McGuinness crashed in practice and he will not compete in next month's Ulster Grand Prix.
 He added: "The TT was a bloody disaster, aside from walking the dog and racing the Mugen, I didn't enjoy it.
 "It was clear even before that we were going to struggle and then it turned into me really being a test rider, which I did.
 "But after we did more testing at Cadwell a few weeks back, I said to the team the bike won't be competitive at the Ulster Grand Prix and they decided to withdraw me from the event, although they didn't tell me, which is OK as the decision was made for me.
-"There's no unfinished business and I want to race classics and oddball stuff." 
+"There's no unfinished business and I want to race classics and oddball stuff."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+ulster grand prix champion chris martin has been forced to pull out of the ulster grand prix because of injury.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Chris Martin has been forced to pull out of the Ulster Grand Prix due to injury.
-2. However, the article does not mention anything about an injury. Instead, it mentions that Martin crashed at this year's TT and that the Fireblade bike has been plagued by mechanical problems.
-3. The article also states that Martin has decided to quit road racing on Hondas this year, but he has not given up on racing or road racing altogether.
-4. Therefore, the reason why Chris Martin has pulled out of the Ulster Grand Prix is not because of an injury, but rather because he has decided to quit road racing on Hondas and the bike is not competitive.
-5. The summary is not consistent with the article because it does not accurately reflect the reasons why Martin has pulled out of the Ulster Grand Prix.
+2. However, the article states that Martin did not compete in the Ulster Grand Prix because the bike was not competitive, and he was withdrawn from the event by the team without being told.
+3. There is no mention of injury in the article as a reason for Martin's withdrawal from the Ulster Grand Prix.
+4. Therefore, the summary is not consistent with the article, as it provides a reason (injury) for Martin's withdrawal that is not supported by the article.
+5. The correct summary should reflect the information provided in the article, which is that Martin was withdrawn from the Ulster Grand Prix by the team due to the bike's lack of competitiveness, and there is no mention of injury as a reason for his withdrawal.
 
 ###Corrected:

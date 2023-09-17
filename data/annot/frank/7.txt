@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a day of celebrations has taken place in new zealand to mark the 70th anniversary of the gallipoli landings. 
+<Article>
+Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.A service was also held at Westminster Abbey.The national anthems of New Zealand and Australia were sung as the service ended.The first time Anzac Day was commemorated in the capital was when King George V attended a Westminster Abbey service in 1916, a year after the Anzac (Australian and New Zealand Army Corps) landings at Gallipoli.Since then, the services have become an important moment for thousands of expatriate and visiting New Zealanders and Australians, who honour the sacrifices of their countrymen and women in all wars.Addressing the crowds at the dawn service, Alexander Downer, Australian high commissioner to the UK, who also laid a wreath, said: "When we reflect on Anzac Day we imagine the Gallipoli landings, what it must have been like, at dawn on the water, in sight of that rugged shoreline - and a collectively held breath, a leaden silence about to be broken."We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war.
+</Article>
 
-    Article: 
-    Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.A service was also held at Westminster Abbey.The national anthems of New Zealand and Australia were sung as the service ended.The first time Anzac Day was commemorated in the capital was when King George V attended a Westminster Abbey service in 1916, a year after the Anzac (Australian and New Zealand Army Corps) landings at Gallipoli.Since then, the services have become an important moment for thousands of expatriate and visiting New Zealanders and Australians, who honour the sacrifices of their countrymen and women in all wars.Addressing the crowds at the dawn service, Alexander Downer, Australian high commissioner to the UK, who also laid a wreath, said: "When we reflect on Anzac Day we imagine the Gallipoli landings, what it must have been like, at dawn on the water, in sight of that rugged shoreline - and a collectively held breath, a leaden silence about to be broken."We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war. 
+<Summary>
+a day of celebrations has taken place in new zealand to mark the 70th anniversary of the gallipoli landings.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the event was held to mark the 70th anniversary of the Gallipoli landings, but the article does not mention the anniversary. Instead, it states that the event was held to commemorate the first major battle involving Australian and New Zealand forces during World War One.
-2. The summary mentions a day of celebrations, but the article does not use the word "celebrations." Instead, it describes the event as a commemoration service.
-3. The summary states that the service was held at Hyde Park Corner, but the article does not mention Hyde Park Corner. Instead, it states that the service was held at the Cenotaph.
-4. The summary mentions a parade, but the article does not mention a parade. Instead, it states that members of veterans' associations, service and ex-service personal, and their families took part in the ceremony at the Cenotaph.
-5. The summary states that the national anthems of New Zealand and Australia were sung, but the article does not mention the national anthems. Instead, it states that the national anthems of all three countries were sung.
-
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary mentions a day of celebrations, but the article does not use that language and instead describes a somber commemoration service. Additionally, the summary mentions a parade and the national anthems of New Zealand and Australia, but the article does not mention those things.
+1. The article states that Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One, which was the Gallipoli landings.
+2. The summary states that the day is being celebrated to mark the 70th anniversary of the Gallipoli landings.
+3. The problem is that the Gallipoli landings took place 100 years ago, not 70 years ago. Therefore, the summary is not consistent with the article.
+4. The article does not mention any celebrations, only commemorations and services to honor the sacrifices of the soldiers.
+5. The summary is not accurate because it implies that the day is being celebrated, whereas the article states that it is being commemorated.
+6. The word "celebrations" in the summary is not supported by the article, which only mentions "services" and "commemorations".
+7. Therefore, the summary is not consistent with the article because it implies that the day is being celebrated, whereas the article states that it is being commemorated.
 
 ###Corrected:

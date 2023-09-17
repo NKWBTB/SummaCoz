@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sean guthrie scored his first goal of the season as colchester united came from behind to beat colchester and move into the league two play-off places. 
-
-    Article: 
-    The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
+<Article>
+The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
 Blackpool goalkeeper Sam Slocombe denied Matthew Briggs with a sensational save to push the ball behind after 17 minutes, but the visitors did equalise from the resulting corner as Kurtis Guthrie prodded in from close range after a goalmouth scramble.
 Somehow, Colchester failed to re-take the lead on the stroke of half-time as Slocombe produced a brilliant save from George Elokobi's close-range effort, before Guthrie headed against the bar from two yards.
 Blackpool should have clinched the win 15 minutes from time, as Tom Aldred was found unmarked from a corner, but he headed wide from eight yards.
@@ -51,17 +48,20 @@ Tom Eastman (Colchester United) is shown the yellow card for a bad foul.
 Jordan Flores (Blackpool) wins a free kick on the right wing.
 Foul by Tom Eastman (Colchester United).
 Andy Taylor (Blackpool) is shown the yellow card for a bad foul.
-Foul by Andy Taylor (Blackpool). 
+Foul by Andy Taylor (Blackpool).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+sean guthrie scored his first goal of the season as colchester united came from behind to beat colchester and move into the league two play-off places.
+</Summary>
 
-1. The summary states that Sean Guthrie scored his first goal of the season, but the article does not mention any player named Sean Guthrie.
-2. The summary mentions that Colchester United came from behind to beat Blackpool, but the article states that the game ended in a 1-1 draw.
-3. The summary mentions a goal by Jamille Matt, but the article does not mention any goal by Matt. Instead, it mentions a goal by Kurtis Guthrie.
-4. The summary mentions a red card for Sean Murray, but the article does not mention any red card.
-5. The summary mentions a header by Jim McAlister that was high and wide, but the article does not mention any header by McAlister.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and does not accurately reflect the content of the article.
+1. The summary states that Sean Guthrie scored the first goal of the season for Colchester United, but the article does not mention any player named Sean Guthrie.
+2. The article states that Kurtis Guthrie scored the equalizing goal for Colchester United, but the summary does not mention any player named Kurtis Guthrie.
+3. The summary states that Colchester United came from behind to beat Blackpool, but the article does not mention any information about Blackpool being behind.
+4. The summary states that Colchester United moved into the league two play-off places, but the article does not mention any information about the league table or play-off positions.
+
+Conclusion: The summary is not consistent with the article because it contains incorrect information about the players, the score, and the league table.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans to demolish a five-storey hotel in bournemouth have been approved. 
-
-    Article: 
-    Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
+<Article>
+Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
 English Heritage strongly objected to the scale of the development in what is a designated conservation area.
 But, councillors voted seven to three in favour saying it would help tourism.
 Chair of the planning board and Conservative ward councillor David Kelsey, said the buildings earmarked for demolition were nice but no longer "necessarily functional".
@@ -16,23 +13,20 @@ The site on Grove Road and East Overcliff Drive will get a 90-room hotel along w
 Applicants The East Cliff Project LLP will demolish Bay View Court, The Cottonwood and the Ocean View hotels.
 The council received 246 letters supporting the plans.
 Forty-nine residents and the Ancient Monuments Society wrote to object to the demolition, stating that despite being altered, they still "give a sense of the historic character of the area".
-English Heritage said the scale of the development would cause "severe harm" to the conservation area. 
+English Heritage said the scale of the development would cause "severe harm" to the conservation area.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+plans to demolish a five-storey hotel in bournemouth have been approved.
+</Summary>
 
-1. The summary states that plans to demolish a five-storey hotel in Bournemouth have been approved.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about a five-storey hotel. Instead, it talks about the demolition of three Victorian hotels to make way for a six-storey, four-star hotel and two assisted-living apartment blocks.
+1. The article states that the development will include a six-storey hotel, while the summary states that the hotel is five-storey. This is an inconsistency.
+2. The article mentions that the development will include two assisted-living apartment blocks, but the summary does not mention this.
+3. The article states that the council received 246 letters supporting the plans, while the summary does not mention this.
+4. The article states that English Heritage objected to the scale of the development, but the summary does not mention this.
 
-2. The summary mentions that the plans have been approved by councillors, but the article states that the plans were approved despite objections from English Heritage and some residents.
-
-3. The summary does not mention the objections raised by English Heritage and the residents, nor does it mention the reasons why the councillors approved the plans despite these objections.
-
-4. The article states that the demolition of the three Victorian hotels will be replaced by a six-storey hotel and two assisted-living apartment blocks, which is not mentioned in the summary.
-
-5. Finally, the summary does not mention the scale of the development, which is a key issue in the article. The article states that the scale of the development has been objected to by English Heritage, who argue that it will cause "severe harm" to the conservation area.
-
-Therefore, based on these points, it is clear that the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the details of the development, such as the height of the hotel, the inclusion of assisted-living apartment blocks, and the level of support for the plans. Additionally, it omits important information, such as the objections from English Heritage.
 
 ###Corrected:

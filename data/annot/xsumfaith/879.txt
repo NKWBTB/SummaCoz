@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    barcelona have rejected a bid from barcelona to sign neymar from barcelona for # [UNK] m (# [UNK] m). 
-
-    Article: 
-    However the Spanish champions insisted they had not committed any offence.
+<Article>
+However the Spanish champions insisted they had not committed any offence.
 "The aim is to cover eventual interpretations that could be given to the contracts drawn up in the operation to sign Neymar," a club statement read.
 Barca paid £48.6m for Santos striker Neymar, 22, in the summer with his parents receiving £34m of the fee.
 Between the initial fee paid in the summer, signing-on fee, wages during his five-year deal, agents fees and this latest tax payment, Neymar will have cost the club £106.8m
@@ -17,19 +14,19 @@ And last week a judge in Spain ruled there was sufficient evidence against Barce
 The club added: "The board denies the existence of any tax-related crime in relation to the fiscal obligations arising from the signing of the player.
 "Given the existence of a possible divergent interpretation of the exact amount of tax responsibility arising from the signing and to defend the club's reputation and good name, FC Barcelona has this morning made a complimentary tax declaration of a total of 13,550,830.56 euros [...] although we remain convinced that the original tax payment was in line with our fiscal obligations."
 There has not yet been any confirmation whether the case will be dropped after Barcelona's payment.
-Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches. 
+Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+barcelona have rejected a bid from barcelona to sign neymar from barcelona for # [UNK] m (# [UNK] m).
+</Summary>
 
-1. The summary states that Barcelona rejected a bid from Barcelona to sign Neymar, which is not true. The article states that Barcelona paid £48.6m for Neymar in the summer.
-2. The summary mentions a bid, which is not mentioned in the article.
-3. The article states that Barcelona paid £48.6m for Neymar, but the summary mentions a different amount (# [UNK] m).
-4. The article states that Neymar will have cost the club £106.8m, which is not mentioned in the summary.
-5. The article mentions that Sandro Rosell resigned as Barcelona president following accusations he misappropriated money, but this is not mentioned in the summary.
-6. The article states that a judge in Spain ruled there was sufficient evidence against Barcelona to continue investigations into the transfer, but this is not mentioned in the summary.
-7. The summary mentions a complimentary tax declaration of €13,550,830.56, but this is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions.
+1. The summary states that Barcelona has rejected a bid from Barcelona to sign Neymar from Barcelona for an undisclosed amount (# [UNK] m).
+2. However, the article states that Barcelona paid £48.6m for Neymar's transfer from Santos, and the total cost of the player including agents fees and taxes is £106.8m.
+3. Therefore, it is not possible for Barcelona to have rejected a bid from themselves to sign Neymar, as they are the ones who made the initial payment for his transfer.
+4. The summary is not consistent with the article, as it implies that Barcelona rejected a bid from another club to sign Neymar, while the article states that Barcelona paid a significant amount of money to sign him from Santos.
+5. The inconsistency is likely due to a mistake or misinterpretation of the information in the article. The summary should have been written more carefully to ensure that it accurately reflects the information in the article.
 
 ###Corrected:

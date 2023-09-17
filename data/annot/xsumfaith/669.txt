@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    patrick ah van scored two tries on his return from a five-match ban to help widnes to victory at castleford. 
-
-    Article: 
-    Tries from Macgraff Leuluai, Ah Van and Chris Bridge gave Widnes a 14-6 half-time lead, with Cas loanee Paddy Flynn responding against his parent club.
+<Article>
+Tries from Macgraff Leuluai, Ah Van and Chris Bridge gave Widnes a 14-6 half-time lead, with Cas loanee Paddy Flynn responding against his parent club.
 Flynn scored another early in the second, but Ah Van, Lloyd White (2) and Joe Mellor tries made it 38-12.
 Despite three Cas tries in four minutes - Larne Patrick, Luke Gale and Flynn's hat-trick score - Widnes held on.
 The Vikings' victory had looked assured when Mellor took advantage of Castleford indecision on a short kick-off, running straight through to help them to a 26-point lead.
@@ -17,21 +14,21 @@ Castleford: Solomona, Monaghan, Crooks, Webster, Flynn, McShane, Gale, Jewitt, M
 Replacements: Millington, Springer, Tickle, Cook.
 Widnes: Hanbury, Thompson, Runciman, Bridge, Ah Van, Mellor,Brown, Cahill, White, Buchanan, Whitley, Dean, Leuluai.
 Replacements: J. Chapelhow, Manuokafoa, Walker, Heremaia.
-Referee: J Smith 
+Referee: J Smith
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+patrick ah van scored two tries on his return from a five-match ban to help widnes to victory at castleford.
+</Summary>
 
-1. The summary states that Patrick Ah Van scored two tries on his return from a five-match ban, but the article does not mention any such ban.
+Explain your reasoning step by step:[/INST]
 
-2. The article mentions that Ah Van scored a try, but it does not specify that it was his return from a ban.
+1. The summary states that Patrick Ah Van scored two tries, but the article does not mention this.
+2. The article states that Patrick Ah Van scored one try, but the summary does not mention this.
+3. The summary states that Widnes won the match, but the article does not mention this.
+4. The article states that Widnes held on to win the match, but the summary does not mention this.
+5. The summary does not mention any other tries scored by Widnes players, but the article mentions several tries scored by Widnes players, including Ah Van, Lloyd White, and Joe Mellor.
 
-3. The summary states that Patrick Ah Van helped Widnes to victory at Castleford, but the article does not mention any such victory. Instead, it states that Widnes held on to their lead despite a late surge from Castleford.
-
-4. The summary does not mention the other tries scored by Widnes players, such as Macgraff Leuluai, Chris Bridge, Lloyd White, and Joe Mellor, which are mentioned in the article.
-
-5. The summary does not mention the fact that Castleford's defence creaked and they let Widnes score several tries, which is mentioned in the article.
-
-Therefore, the summary is not consistent with the article, as it does not accurately reflect the events described in the article.
+Therefore, the summary is not consistent with the article, as it does not accurately reflect the information provided in the article.
 
 ###Corrected:

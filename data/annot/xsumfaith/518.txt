@@ -1,25 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    braintree manager danny cowley said the task ahead of his team is ``a brilliant challenge\'\'after the defeat at barrow. 
-
-    Article: 
-    The Iron are currently sixth in the National League, one point and one place outside the play-off spots.
+<Article>
+The Iron are currently sixth in the National League, one point and one place outside the play-off spots.
 "I thought we asked a lot of questions of a very good Barrow team," Cowley told BBC Essex.
 "When you come off the back of a six or seven-hour journey and you concede a goal after five minutes it's always going to be tough."
 Barrow extended their unbeaten league run to nine games with the victory, and although Braintree's losing run extended to three games, Cowley remained positive.
 "What we've done so far has been nothing short of remarkable," he continued. "But if anyone thought this journey was going to be easy, then they're living in cloud cuckoo land.
-"We're a part-time team. This is our toughest challenge to date, but we're going to embrace it. We're going to enjoy it and see where it takes us." 
+"We're a part-time team. This is our toughest challenge to date, but we're going to embrace it. We're going to enjoy it and see where it takes us."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+braintree manager danny cowley said the task ahead of his team is ``a brilliant challenge\'\'after the defeat at barrow.
+</Summary>
 
-1. The summary states that Danny Cowley called the task ahead of his team a "brilliant challenge," but the article does not contain this quote.
-2. The summary implies that the team is facing a difficult challenge, but the article states that the team has done "nothing short of remarkable" so far and that the challenge is their toughest one to date.
-3. The summary suggests that the team is facing a difficult journey, but the article focuses on the team's performance and the challenge they are facing, rather than the journey itself.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it misrepresents the tone and focus of the article. The article is more positive and focused on the team's performance, while the summary is more negative and focused on the difficulty of the challenge.
+1. The article states that Braintree is currently sixth in the National League, one point and one place outside the play-off spots.
+2. The article quotes Danny Cowley as saying "When you come off the back of a six or seven-hour journey and you concede a goal after five minutes it's always going to be tough." This suggests that the team had a long journey before the game and conceded an early goal, making it difficult.
+3. The article also quotes Cowley as saying "What we've done so far has been nothing short of remarkable," indicating that the team has had a successful season so far.
+4. However, the summary states that Cowley called the task ahead of his team "a brilliant challenge," which is not supported by the article.
+
+Therefore, the summary is not consistent with the article because it misrepresents Cowley's statement as a positive challenge, when in fact he was describing the difficulty of the team's situation due to the long journey and early goal conceded.
 
 ###Corrected:

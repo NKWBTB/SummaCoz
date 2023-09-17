@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mae cleifion o [UNK] yng nghymru yn cael profion â \'r wlad yn disgwyl am ddyfodol cynllun peilot. 
-
-    Article: 
-    Mae gan Gymru a rhannau eraill o'r DU rai o'r cyfraddau goresgyn canser gwaethaf yn y byd datblygedig.
+<Article>
+Mae gan Gymru a rhannau eraill o'r DU rai o'r cyfraddau goresgyn canser gwaethaf yn y byd datblygedig.
 Nawr mae cynllun peilot yng Nghwm Cynon a Chastell-nedd yn canolbwyntio ar gleifion mae eu meddygon teulu yn amau sydd â chanser ond ddim yn dangos unrhyw arwyddion neu symptomau brys.
 Daw hyn flwyddyn ar ôl i feddygon ymweld â Denmarc er mwyn gweld y systemau diagnostig yno.
 Fe welodd swyddogion Bwrdd Iechyd Cwm Taf bod y gwasanaeth iechyd yn Nenmarc wedi gwella cyfraddau goresgyn canser.
@@ -25,18 +22,21 @@ Yn ôl Dr Gareth Davies, Cyfarwyddwr Cyswllt Rhwydwaith Canser Cymru, bydd y cyn
 Mae Gareth Jordan, meddyg teulu yn Aberdâr, yn dweud y gallai'r cynllun peilot wneud gwahaniaeth mawr i fywydau'r cleifion.
 "Mi fyddai gallu dweud, 'Dwi wedi gweld y gŵr yma, mae wedi colli llawer o bwysau... allai ddim ei anfon i ffwrdd i gael profion arbenigol neu pe bydden ni fyddai'r profion yn cael eu rhoi yn nhrefn tebygolrwydd'.
 "Ond mae'r ffaith eu bod nhw'n cael eu gweld mewn un lle a phob un yn gweld cynnydd cyflym, y tebygrwydd ydy diagnosis cynnar os oes ganddyn nhw ganser yn fy marn i."
-Os bydd cynllun peilot Cwm Cynon - fydd yn para chwe mis - yn llwyddiannus, bydd gweddill byrddau iechyd yr ardal yn cynnig yr un gwasanaeth yn y misoedd wedyn. 
+Os bydd cynllun peilot Cwm Cynon - fydd yn para chwe mis - yn llwyddiannus, bydd gweddill byrddau iechyd yr ardal yn cynnig yr un gwasanaeth yn y misoedd wedyn.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that the clinic in Cwm Cynon will be the first to use the new diagnostic system, which is not consistent with the article.
-    2. The article states that the system has been developed by Fwrdd Iechyd Cwm Taf and will be implemented in all clinics in the area, not just one clinic.
-    3. The summary mentions that the clinic in Cwm Cynon will be the first to use the system, which is not accurate.
-    4. The article states that the system will be implemented in all clinics in the area, including Ysbyty Brenhinol Morgannwg, Llantrisant, and Ysbyty Castell-nedd Port Talbot.
-    5. The summary does not mention the fact that the system will be implemented in all clinics in the area, which is a significant inconsistency.
-    6. The article quotes Dr Gareth Davies, Cyfarwyddwr Cyswllt Rhwydwaith Canser Cymru, as saying that the system will be rolled out in all clinics in the area, which further supports the fact that the system will not be limited to one clinic.
-    7. The summary does not provide any reasons for why the clinic in Cwm Cynon would be the first to use the system, which is not supported by the article.
-    8. The article provides more information about the system and its development, which is not mentioned in the summary.
+<Summary>
+mae cleifion o [UNK] yng nghymru yn cael profion â \'r wlad yn disgwyl am ddyfodol cynllun peilot.
+</Summary>
 
-Overall, the summary is not consistent with the article because it only mentions one clinic using the new diagnostic system, while the article states that the system will be implemented in all clinics in the area. Additionally, the summary does not provide any reasons for why the clinic in Cwm Cynon would be the first to use the system, which is not supported by the article.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that "meddyg teulu yn gweld claf a ddim yn siŵr beth sydd o'i le" (doctors are seeing claf but are not sure what it is). This suggests that the doctors are not certain about the nature of the condition, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
+2. The article mentions that the doctors are not sure if the symptoms are due to a specific condition or not, which is inconsistent with the summary's statement that the condition is "disgwyl" (expected).
+3. The article states that the doctors are not sure if the condition is due to a peripheral or central cause, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
+4. The article mentions that the doctors are not sure if the condition is due to a known or unknown cause, which is inconsistent with the summary's statement that the condition is "disgwyl" (expected).
+5. The article states that the doctors are not sure if the condition is due to a specific disease or not, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
+
+Overall, the article presents a more uncertain and open-ended picture of the condition than the summary, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
 
 ###Corrected:

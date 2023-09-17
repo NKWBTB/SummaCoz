@@ -1,30 +1,32 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman has died after her car crashed outside a bus depot trapping 150 buses inside. 
-
-    Article: 
-    Avon and Somerset Police closed the Lower Bristol Road in Bath at Rackfield Place outside the First depot after the crash at 03:00 GMT.
+<Article>
+Avon and Somerset Police closed the Lower Bristol Road in Bath at Rackfield Place outside the First depot after the crash at 03:00 GMT.
 The A36 road closure, which was lifted at 14:00 GMT, had caused disruption and delays to commuters and bus services during rush hour.
 Investigations are under way into how the collision happened.
 Local Live has all the latest travel news
 First said that while parts of its services had resumed a normal schedule, it would take a few hours for all services to return to normal.
 Managing director James Freeman said: "We are hoping we will have a full service running in time for the evening commute.
-"We would like to thank the public for their support and understanding and staff for going beyond their call of duty to help manage the situation and recovery." 
+"We would like to thank the public for their support and understanding and staff for going beyond their call of duty to help manage the situation and recovery."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a woman has died after her car crashed outside a bus depot trapping 150 buses inside.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that a woman died after her car crashed outside a bus depot, trapping 150 buses inside.
+2. The article does not mention any deaths or buses being trapped inside a depot. Instead, it reports that the Lower Bristol Road was closed after a crash and that investigations are underway.
+3. Therefore, the summary is not consistent with the article.
 
-2. The article does not mention any fatalities or casualties. Instead, it reports that a road was closed due to a crash and that investigations are underway.
+Here's why the summary is not accurate:
 
-3. Therefore, the summary is not consistent with the article because it includes information about a fatality, which is not present in the article.
+* The article does not mention any deaths, but the summary states that a woman died.
+* The article does not mention any buses being trapped inside a depot, but the summary states that 150 buses were trapped.
 
-4. The article only mentions the closure of a road and the disruption caused to commuters and bus services, but it does not mention any fatalities or casualties.
-
-5. The summary is not supported by the information in the article, and therefore it is not a consistent summary of the article's content.
+Overall, the summary is not a accurate representation of the article's content.
 
 ###Corrected:

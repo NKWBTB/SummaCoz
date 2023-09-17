@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a restaurant in los angeles in america has opened its first dog-eating restaurant. 
-
-    Article: 
-    27 August 2016 Last updated at 12:34 BST
+<Article>
+27 August 2016 Last updated at 12:34 BST
 The restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants -  as long as they were outdoors!
-It looks like a right dog's dinner - check out this clip. 
+It looks like a right dog's dinner - check out this clip.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a restaurant in los angeles in america has opened its first dog-eating restaurant.
+</Summary>
 
-1. The summary states that a restaurant in Los Angeles has opened its first dog-eating restaurant, implying that dogs are being served as food.
-2. However, the article states that the restaurant began serving "puppy platters" after a new law was introduced allowing dogs to eat at restaurants - but only outdoors.
-3. The phrase "dog-eating restaurant" implies that dogs are being served as food inside the restaurant, which is not consistent with the article's mention of outdoor dining.
-4. Therefore, the summary is not consistent with the article because it implies that dogs are being served as food inside the restaurant, while the article only mentions outdoor dining for dogs.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
+
+1. The article states that the restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants - as long as they were outdoors. This implies that the restaurant is serving dogs, but only outdoors.
+2. The summary, on the other hand, states that a restaurant in Los Angeles has opened its first dog-eating restaurant. This implies that the restaurant is serving dogs inside, which is not supported by the article.
+3. The article does not mention anything about the restaurant serving dogs inside. In fact, it specifically states that the dogs are only allowed to eat outdoors.
+4. Therefore, the summary is not consistent with the article because it implies that the restaurant is serving dogs inside, which is not supported by the text.
 
 ###Corrected:

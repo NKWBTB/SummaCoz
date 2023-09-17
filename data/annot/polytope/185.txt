@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
-at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
-that decision prompted a response from the family of eric harris , the man bates killed . 
-
-    Article: 
-    ( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
+<Article>
+( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
 at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
 that decision prompted a response from the family of eric harris , the man bates killed .
 " we are not surprised that mr. bates pled not guilty .
@@ -27,19 +22,24 @@ the tulsa county sheriff 's office has denied these allegations .
 over the weekend , one of bates ' lawyers released most of his training documents and said they prove bates had proper law enforcement training .
 two deputies involved in arrest of harris have been reassigned because of threats against them and their families , glanz said monday in a news conference .
 lawyer releases training records for tulsa deputy charged in killing
-cnn 's jason morris and ed lavandera contributed to this report . 
+cnn 's jason morris and ed lavandera contributed to this report .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
+at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
+that decision prompted a response from the family of eric harris , the man bates killed .
+</Summary>
 
-1. The summary states that the judge granted Robert Bates permission to go to the Bahamas for a family vacation, while the article states that the judge granted Bates permission to go to the Bahamas for a family vacation during a preliminary hearing.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-2. The summary does not mention that the Bahamas vacation was a factor in the family of Eric Harris, the man Bates killed, responding to the hearing. The article includes this information.
+1. The summary does not mention the fact that Robert Bates, the reserve deputy, was granted permission to go on a family vacation to the Bahamas during his hearing. This is a significant detail that is included in the article, but not in the summary.
+2. The summary does not include any information about the response from the family of Eric Harris, the man who was killed. The article includes a quote from the family's lawyer, stating that they are surprised that Bates would choose to go on vacation during this time and that it sends a message of apathy with respect to Eric's life.
+3. The summary does not mention the allegations made by the lawyer for the Harris family, stating that Bates was not qualified to be on the force and received preferential treatment because of his donations to the agency and his friendship with the sheriff.
+4. The summary does not mention the fact that some supervisors in the Tulsa County Sheriff's Office were told to forge Bates' records and were reassigned when they refused.
+5. The summary does not mention the fact that two deputies involved in the arrest of Harris have been reassigned due to threats against them and their families.
 
-3. The summary does not mention that the lawyer for the Harris family claimed that Bates was not qualified to be on the force and received preferential treatment because of his donations to the agency and his friendship with the sheriff. The article includes this information.
-
-4. The summary does not mention that two deputies involved in the arrest of Harris have been reassigned due to threats against them and their families. The article includes this information.
-
-Overall, the summary does not include all of the information from the article, and it does not provide an accurate representation of the content of the article.
+Overall, the summary does not include many of the key details and quotes from the article, which makes it inconsistent with the original content.
 
 ###Corrected:

@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united host manchester city in sunday 's derby at old trafford
-robin van persie said he was fit to play after ankle trouble
-van gaal has ruled him out of the game but will have to do so without van persie
-united have an opportunity to finish as high as second or third 
-
-    Article: 
-    manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+<Article>
+manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
 van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
 ` most of the players are fit but being fit for me is different , ' van gaal said .
 robin van persie will not return to the fray for manchester united against manchester city on sunday
@@ -49,16 +43,22 @@ herrera will be hoping to continue the fine form that has seen him become one of
 van gaal admitted he is looking forward to sampling the derby atmosphere at old trafford , as he takes on city with home advantage for the first time since arriving at the club .
 ` when i see the fans of man utd , they are supporting us in a marvellous way , i think , ' van gaal said .
 ` after matches , i give our fans a big compliment , not because i have to , because then i would n't say it .
-i say it because i feel it . ' 
+i say it because i feel it . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+manchester united host manchester city in sunday 's derby at old trafford
+robin van persie said he was fit to play after ankle trouble
+van gaal has ruled him out of the game but will have to do so without van persie
+united have an opportunity to finish as high as second or third
+</Summary>
 
-1. The summary states that Robin van Persie said he was fit to play, but the article states that Louis van Gaal has ruled him out.
-2. The summary mentions that Manchester United have an opportunity to finish as high as second or third, but the article does not mention this.
-3. The summary states that Louis van Gaal said he dreams of beating Manchester City, but the article does not mention this.
-4. The summary mentions that Luke Shaw is another player who is not fit enough to feature, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that Robin van Persie said he was fit to play after ankle trouble, but van Gaal has ruled him out of the game.
+2. However, the article states that van Gaal has ruled out van Persie because he is not yet fit enough to play, and that he is not fit to play because he has not yet reached the level of fitness required by van Gaal.
+3. Therefore, the summary is not consistent with the article because it does not accurately reflect van Gaal's reasons for ruling out van Persie. The summary only mentions that van Gaal has ruled him out, without providing the correct reasons.
+4. The article provides more information about van Gaal's views on van Persie's fitness, including his statement that van Persie is not yet fit enough to play and that he has not yet reached the level of fitness required by van Gaal.
+5. Therefore, the summary is not a complete and accurate reflection of the article, and it does not provide the reader with a clear understanding of van Gaal's reasons for ruling out van Persie.
 
 ###Corrected:

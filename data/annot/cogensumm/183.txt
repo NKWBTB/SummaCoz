@@ -1,19 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united have also been to play the argentine. 
+<Article>
+Arsenal, Manchester City and Chelsea have all made enquiries for Palermo striker Paulo Dybala. Manchester United have also been to watch the Argentine but he is not high on their list. The 21-year-old is valued at £30million by Palermo president Mauro Zamparini and Juventus are considered favourites even though they have had an opening offer rejected. Paulo Dybala of Palermo is a transfer target for three British clubs in the summer, but may cost £30million . Palermo are also expecting to sell Italy midfielder Franco Vazquez in the summer transfer window . Arsenal, Chelsea and Manchester City are three English clubs interested in signing striker Dybala . Palermo also expect to sell Italy midfielder Franco Vazquez this summer. Zamparini said: 'Dybala and Vazquez will probably be sold this summer. Will they go to Milan? No. 'They are being tracked by Juventus, Arsenal, Barcelona, Manchester City, Chelsea and Paris Saint-Germain.'
+</Article>
 
-    Article: 
-    Arsenal, Manchester City and Chelsea have all made enquiries for Palermo striker Paulo Dybala. Manchester United have also been to watch the Argentine but he is not high on their list. The 21-year-old is valued at £30million by Palermo president Mauro Zamparini and Juventus are considered favourites even though they have had an opening offer rejected. Paulo Dybala of Palermo is a transfer target for three British clubs in the summer, but may cost £30million . Palermo are also expecting to sell Italy midfielder Franco Vazquez in the summer transfer window . Arsenal, Chelsea and Manchester City are three English clubs interested in signing striker Dybala . Palermo also expect to sell Italy midfielder Franco Vazquez this summer. Zamparini said: 'Dybala and Vazquez will probably be sold this summer. Will they go to Milan? No. 'They are being tracked by Juventus, Arsenal, Barcelona, Manchester City, Chelsea and Paris Saint-Germain.' 
+<Summary>
+manchester united have also been to play the argentine.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Manchester United have also been to play the Argentine, but the article does not mention anything about Manchester United watching or being interested in Paulo Dybala.
-2. The article only mentions three British clubs (Arsenal, Chelsea, and Manchester City) as being interested in signing Dybala, while the summary includes Manchester United, which is not consistent with the article.
-3. The article states that Manchester United are not high on Dybala's list, which contradicts the summary's statement that Manchester United have also been to play the Argentine.
-4. Therefore, the summary is not consistent with the article, and the reason for this inconsistency is that Manchester United are not mentioned in the article as being interested in signing Dybala.
+Based on the given article and summary, there is an inconsistency in the summary as it states that Manchester United have also been to play the Argentine, which is not supported by the article. Here's the reasoning step by step:
+
+1. The article states that Manchester United have been to watch the Argentine (Paulo Dybala) but he is not high on their list.
+2. The summary only mentions Manchester United as having been to play the Argentine, without any mention of them not being high on their list.
+3. The article does not mention anything about Manchester United playing the Argentine, only that they have been to watch him.
+4. Therefore, the statement in the summary that Manchester United have also been to play the Argentine is not supported by the article.
+
+So, the inconsistency is in the summary, which incorrectly states that Manchester United have been to play the Argentine, when the article only mentions that they have been to watch him.
 
 ###Corrected:

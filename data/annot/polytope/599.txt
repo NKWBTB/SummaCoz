@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tibetan UNK laws are being partly blamed on chinese government 's UNK anti-corruption crackdown .
-UNK , shanghai and catalonia are also being stolen from the streets by ruthless gangs , who sell them to the UNK . 
-
-    Article: 
-    big beauty : tibetan mastiffs can weigh 80 kg
+<Article>
+big beauty : tibetan mastiffs can weigh 80 kg
 just a year ago they could command prices of up to £ 1.2 million each .
 but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
 the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
@@ -37,17 +33,21 @@ a property develop bought the golden-haired one-year-old from breeder zhang geng
 mr zhang said of his dogs : ` they have lion 's blood and are top-of-the-range mastiff studs . '
 most expensive dog in the world : the gold-maned tibetan mastiff pup ( left ) sold last year in east china for £ 1.2 million .
 the red pup of the same breed ( right ) fetched nearly £ 600,000 .
-the dogs are seen with a model 
+the dogs are seen with a model
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+tibetan UNK laws are being partly blamed on chinese government 's UNK anti-corruption crackdown .
+UNK , shanghai and catalonia are also being stolen from the streets by ruthless gangs , who sell them to the UNK .
+</Summary>
 
-1. The summary mentions that Tibetan UNK laws are being blamed on the Chinese government's anti-corruption crackdown, but the article does not mention anything about UNK laws or the Chinese government's crackdown having an impact on the popularity of Tibetan mastiffs.
-2. The summary states that the dogs are being stolen from the streets by ruthless gangs and sold to slaughterhouses, but the article does not mention anything about the dogs being stolen or sold to slaughterhouses. Instead, the article states that the dogs are being sent to slaughterhouses because of the decline in their popularity and the wide-reaching anti-corruption crackdown in China.
-3. The summary mentions that the dogs are being used for their skin and meat, but the article does not mention anything about the dogs being used for their skin or meat. Instead, the article states that the dogs are being sent to slaughterhouses because of their declining popularity and the anti-corruption crackdown.
-4. The summary states that the dogs were traditionally used in Tibet to herd other animals, but the article does not mention anything about the dogs being used for herding. Instead, the article states that the dogs were originally used as status symbols and were popular among wealthy businessmen in China.
-5. The summary mentions that the dogs can weigh up to 80 kg, but the article does not mention anything about the weight of the dogs. Instead, the article states that the dogs can weigh up to 50 kg.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the mention of UNK laws and the use of the dogs for their skin and meat. Additionally, the summary contains some inaccuracies, such as the weight of the dogs, which is not mentioned in the article.
+1. The summary states that Tibetan UNK laws are being partly blamed on the Chinese government's UNK anti-corruption crackdown. However, the article does not mention anything about UNK laws or anti-corruption crackdown.
+2. The summary also states that Tibetan mastiffs are being stolen from the streets by ruthless gangs and sold to the UNK. However, the article does not mention anything about theft or gangs.
+3. The summary uses the term "UNK" multiple times, but it is not clear what this term refers to. The article does not use this term.
+4. The summary does not provide any specific information about the article's content, other than the fact that the article is about Tibetan mastiffs.
+
+Based on these points, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and it does not provide a accurate summary of the article's content.
 
 ###Corrected:

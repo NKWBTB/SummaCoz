@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    vera baird donated # 500,000 to victims first northumbria , a charity which supports crime victims in her area .  
-the pair now face a ministry of justice probe as critics accuse them of concocting ' a soap opera ' within the force .  
-it comes after the home secretary implemented a rule allowing pccs for victims of crime . 
-
-    Article: 
-    a police crime commissioner is facing investigation after awarding more than half a million pounds of taxpayers ' money to the charity she runs alongside the force 's chief .
+<Article>
+a police crime commissioner is facing investigation after awarding more than half a million pounds of taxpayers ' money to the charity she runs alongside the force 's chief .
 vera baird donated £ 500,000 to victims first northumbria , a charity which supports crime victims in her area and of which she is a director .
 sitting alongside her on the organisation 's top table is sue sim , northumbria 's chief constable , records revealed .
 the pair now face a ministry of justice probe as critics accuse them of concocting ` a soap opera ' within the force .
@@ -37,20 +32,24 @@ a ministry of justice spokesman confirmed it would investigate the circumstances
 victims first northumbria was established after the number of people contacting its predecessor , victim support , plummeted .
 but sources say many may be reluctant to confide in a service that is partly run by mrs sim who faced misconduct proceedings over alleged workplace bullying before announcing her retirement last week .
 the police chief who shot to prominence after her handling of the raoul moat manhunt in 2012 , said she was stepping down to spend more time with her family .
-ms baird praised her ` passion and enthusiasm ' , adding : ` sue and i have worked well together over the two-and-a-half years since i became police and crime commissioner . ' 
+ms baird praised her ` passion and enthusiasm ' , adding : ` sue and i have worked well together over the two-and-a-half years since i became police and crime commissioner . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+vera baird donated # 500,000 to victims first northumbria , a charity which supports crime victims in her area .  
+the pair now face a ministry of justice probe as critics accuse them of concocting ' a soap opera ' within the force .  
+it comes after the home secretary implemented a rule allowing pccs for victims of crime .
+</Summary>
 
-1. The summary states that Vera Baird donated £500,000 to Victims First Northumbria, a charity she runs alongside the force's chief. However, the article states that the funds were allocated by the Ministry of Justice, not donated by Baird.
-2. The summary implies that Baird and Sue Sim, the chief constable, are facing a Ministry of Justice probe for concocting a "soap opera" within the force. However, the article states that the probe is related to a conflict of interest and the allocation of public funds, not a "soap opera".
-3. The summary states that Baird boasted of securing funds for the charity in an article on its website, but the article does not mention this.
-4. The summary implies that Keith Vaz, the Labour chairman of the Home Affairs Committee, is criticizing Baird and Sim for their handling of the situation, but the article does not quote Vaz as saying this.
-5. The summary states that Sim was "wrong", but the article does not mention this.
-6. The summary states that Baird stood by her decision, but the article does not quote her as saying this.
-7. The summary states that Victims First Northumbria was established after the number of people contacting its predecessor, Victim Support, plummeted, but the article does not mention this.
-8. The summary states that Sim faced misconduct proceedings over alleged workplace bullying before announcing her retirement last week, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Based on the given articles, the summary provided is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations, and it does not accurately reflect the content of the article.
+1. The summary states that Vera Baird donated £500,000 to Victims First Northumbria, a charity that supports crime victims in her area. However, the article states that the money was allocated by the Ministry of Justice, not donated by Baird personally.
+2. The summary does not mention the conflict of interest issue regarding Baird's role as a director of the charity and the fact that she awarded the funds to it.
+3. The summary does not mention the criticism from Keith Vaz, the Labour chairman of the Home Affairs Committee, who called the situation a "soap opera" and accused Baird of inappropriately using public money.
+4. The summary does not mention the fact that Sue Sim, the Chief Constable of Northumbria Police, is also a director of the charity, which has raised conflict of interest concerns.
+5. The summary does not mention the investigation by the Ministry of Justice into the circumstances to conclude whether any conflict of interest rules had been broken.
+
+Therefore, the summary does not accurately reflect the content of the article and is not consistent with the information provided.
 
 ###Corrected:

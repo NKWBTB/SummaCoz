@@ -1,27 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    novak djokovic lost 6-3 6-3 to novak djokovic in the second round of the [UNK] chennai open in south korea. 
-
-    Article: 
-    The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
+<Article>
+The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
 Edmund, 21, impressed but Wawrinka broke serve at 3-2 in the second set and twice in the decider to win in two hours 36 minutes.
 The Swiss 31-year-old will play third seed Kei Nishikori in the semi-finals.
 Canadian top seed and defending champion Milos Raonic beat 14-time Grand Slam champion Rafael Nadal 4-6 6-3 6-4 to reach the last four.
 The world number three will play Bulgarian seventh seed Grigor Dimitrov, who beat Austrian Dominic Thiem.
 British number four Aljaz Bedene was also knocked at the quarter-final stage of the Chennai Open in India on Friday.
-The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire. 
+The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my step-by-step reasoning for why the given summary is not consistent with the article:
+<Summary>
+novak djokovic lost 6-3 6-3 to novak djokovic in the second round of the [UNK] chennai open in south korea.
+</Summary>
 
-1. The summary states that Novak Djokovic lost to Novak Djokovic, which is not possible as Novak Djokovic is the one who won the match.
-2. The article states that the winner of the match was Stan Wawrinka, not Novak Djokovic.
-3. The summary mentions that the match was played in the second round of the Chennai Open, but the article states that the match was played in the quarterfinals.
-4. The summary does not mention the score of the match, while the article provides the score as 6-7 (2-7) 6-4 6-4 in favor of Stan Wawrinka.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the given summary is not consistent with the article.
+1. The article states that Novak Djokovic did not play in the Chennai Open, as he is the reigning US Open champion and will play in the semi-finals.
+2. The summary states that Novak Djokovic lost 6-3 6-3 to Novak Djokovic in the second round of the Chennai Open.
+3. This is not consistent with the article, as Novak Djokovic did not play in the Chennai Open.
+4. Therefore, the summary is not accurate and does not reflect the information in the article.
 
 ###Corrected:

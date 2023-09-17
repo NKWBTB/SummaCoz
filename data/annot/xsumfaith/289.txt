@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hull city moved back to the top of the premier league as they were held to a draw at home to hull city. 
-
-    Article: 
-    Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
+<Article>
+Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
 The hosts also lost starting strikers Abel Hernandez and Will Keane to first-half injuries to compound the frustration of their fans, but the mood inside the KCOM Stadium was transformed in the space of two second-half minutes.
 First, Snodgrass - introduced from the bench for the stricken Keane - swept home his fourth league goal of the season from Sam Clucas' low cross before the Scotland international delivered an inviting free-kick that Michael Dawson headed past Fraser Forster.
 Southampton pushed for an equaliser but David Marshall made a string of saves in the Hull goal before Clucas produced a remarkable goalline clearance from a corner in the final minute of added time.
@@ -72,29 +69,21 @@ Substitution, Hull City. Tom Huddlestone replaces Harry Maguire.
 Foul by Sofiane Boufal (Southampton).
 Ryan Mason (Hull City) wins a free kick in the attacking half.
 Ryan Bertrand (Southampton) is shown the yellow card.
-Corner,  Southampton. Conceded by Curtis Davies. 
+Corner,  Southampton. Conceded by Curtis Davies.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Hull City moved back to the top of the Premier League, but the article states that they ended a six-game losing streak with a win.
+<Summary>
+hull city moved back to the top of the premier league as they were held to a draw at home to hull city.
+</Summary>
 
-2. The summary does not mention that Hull City lost two players to injury early in the game, which the article highlights as a significant factor in their performance.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-3. The summary states that Southampton celebrated one of the most famous wins in their history by beating Inter Milan in the Europa League on Thursday, but the article does not mention this.
+1. Inconsistent information: The summary states that Hull City moved back to the top of the Premier League, but the article does not mention anything about Hull City being at the top of the table. In fact, the article states that Hull City is in the relegation zone.
+2. Incorrect information: The summary mentions that the game was held at Hull City's home ground, but the article states that the game was played at the KCOM Stadium.
+3. Lack of context: The summary does not provide any context about the game, such as the score or the teams' performances. The article, on the other hand, provides detailed information about the game, including the score, the teams' performances, and the injuries suffered by Hull City's players.
+4. Incorrect tone: The summary has a positive tone, suggesting that Hull City had a good game, but the article has a more neutral tone and does not make any judgments about the teams' performances.
 
-4. The summary states that Hull City won the game 2-1, but the article states that the final score was 2-1 to Southampton.
-
-5. The summary does not mention the fact that Hull City had not won a league game since August 20th, which the article highlights as a significant factor in their poor form.
-
-6. The summary does not mention the fact that Southampton had won their last three league games, which the article highlights as a positive performance.
-
-7. The summary does not mention the fact that Hull City had not scored a goal in their last three league games, which the article highlights as a significant factor in their poor form.
-
-8. The summary does not mention the fact that Southampton had not conceded a goal in their last three league games, which the article highlights as a positive performance.
-
-9. The summary does not mention the fact that Hull City had been struggling with injuries, which the article highlights as a significant factor in their poor form.
-
-10. The summary does not mention the fact that Southampton had been struggling with injuries, which the article highlights as a significant factor in their poor form.
-
-Overall, the summary does not accurately reflect the content of the article, and contains several inaccuracies and omissions.
+Based on these inconsistencies and inaccuracies, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

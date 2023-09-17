@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jessica ennis-hill\'s coach toni minichiello wants russian heptathlete tatyana chernova\'s drugs ban to be re-examined by the sporting authorities. 
-
-    Article: 
-    Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
+<Article>
+Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
 This week she was given a ban and had earlier results annulled after a sample from 2009 was re-tested - but kept her world title.
 "She set a personal best with the benefit of drug use," Minichiello said.
 Russian anti-doping agency punished Chernova with a two-year ban, backdated to 22 June 2013.
@@ -21,16 +18,22 @@ Chernova's backdated ban is due to expire on 21 June, and with the qualification
 "That is why we think Wada needs to look at its code and penalties to show there is potentially a loophole that needs to be looked. I'm sure the Russian anti-doping agency have administered suspensions according to the rules, so therefore it needs to be looked at."
 Last week, Russia's athletics head coach Valentin Maslakov resigned after a number of athletes from the country were found guilty of committing doping offences.
 Wada is investigating allegations of widespread doping and corruption in Russian athletics after claims were aired in a recent German television documentary, with a report due to be published by the end of the year.
-The IAAF said last week it was concerned about the number of Russian doping cases in the sport. 
+The IAAF said last week it was concerned about the number of Russian doping cases in the sport.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why Toni Minichiello's statement is not consistent with the article:
+<Summary>
+jessica ennis-hill\'s coach toni minichiello wants russian heptathlete tatyana chernova\'s drugs ban to be re-examined by the sporting authorities.
+</Summary>
 
-1. Minichiello wants Chernova's drugs ban to be re-examined, but the article states that Chernova has already been given a two-year ban and had her results annulled from 2009 to 2011.
-2. Minichiello suggests that Chernova's ban should be longer, but the article states that the Russian anti-doping agency has already punished Chernova with a two-year ban, backdated to 2013.
-3. Minichiello wants the IAAF and Wada to have a "long, hard look" at the Russian anti-doping agency's punishment, but the article states that the IAAF is awaiting a full explanation from the Russian authorities before deciding whether to take any action.
-4. Minichiello suggests that there may be a gap in the anti-doping code that allows athletes to compete again after a ban, but the article states that Chernova's backdated ban is due to expire on June 21, and she could compete at the 2015 World Championships and 2016 Rio Olympics if she is eligible.
+Explain your reasoning step by step:[/INST]
 
-Overall, Minichiello's statement is not consistent with the article because he is advocating for a longer ban for Chernova and suggesting that there may be a loophole in the anti-doping code, but the article states that Chernova has already been punished with a two-year ban and that the IAAF is awaiting a full explanation from the Russian authorities before taking any action.
+1. The summary states that Toni Minichiello, Jessica Ennis-Hill's coach, wants Russian heptathlete Tatyana Chernova's drugs ban to be re-examined by the sporting authorities.
+2. However, the article states that Chernova was given a backdated two-year ban, which has already expired, and her results from 2009 to 2011 were annulled.
+3. The article also mentions that the Russian anti-doping agency punished Chernova with a two-year ban, backdated to 22 June 2013, and that the IAAF is awaiting a full explanation from the Russian authorities before deciding whether it needs to take any action.
+4. Therefore, it is not possible for Chernova's drugs ban to be re-examined by the sporting authorities, as the ban has already been imposed and has expired.
+5. The article also mentions that the IAAF is concerned about the number of Russian doping cases in the sport, and that Wada is investigating allegations of widespread doping and corruption in Russian athletics.
+6. Therefore, the summary is not consistent with the article, as it does not accurately reflect the current status of Chernova's drugs ban or the actions being taken by the sporting authorities.
+
+In conclusion, the summary is not consistent with the article because it suggests that Chernova's drugs ban is still in effect and that the sporting authorities are considering re-examining the ban, when in fact the ban has already expired and the IAAF is awaiting a full explanation from the Russian authorities before taking any action.
 
 ###Corrected:

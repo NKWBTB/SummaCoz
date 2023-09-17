@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    robert snodgrass\'s first premier league goal was enough to give southampton victory over hull city. 
-
-    Article: 
-    Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
+<Article>
+Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
 The hosts also lost starting strikers Abel Hernandez and Will Keane to first-half injuries to compound the frustration of their fans, but the mood inside the KCOM Stadium was transformed in the space of two second-half minutes.
 First, Snodgrass - introduced from the bench for the stricken Keane - swept home his fourth league goal of the season from Sam Clucas' low cross before the Scotland international delivered an inviting free-kick that Michael Dawson headed past Fraser Forster.
 Southampton pushed for an equaliser but David Marshall made a string of saves in the Hull goal before Clucas produced a remarkable goalline clearance from a corner in the final minute of added time.
@@ -72,14 +69,21 @@ Substitution, Hull City. Tom Huddlestone replaces Harry Maguire.
 Foul by Sofiane Boufal (Southampton).
 Ryan Mason (Hull City) wins a free kick in the attacking half.
 Ryan Bertrand (Southampton) is shown the yellow card.
-Corner,  Southampton. Conceded by Curtis Davies. 
+Corner,  Southampton. Conceded by Curtis Davies.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Robert Snodgrass scored Southampton's first Premier League goal, giving them a victory over Hull City.
-2. However, the article states that Charlie Austin scored Southampton's first goal from a penalty in the sixth minute, giving them an early lead.
-3. The article also states that Hull City lost two of their starting strikers, Abel Hernandez and Will Keane, to injuries in the first half, which could have affected their performance.
-4. The summary does not mention anything about the injuries to Hull City's strikers, which could have been a significant factor in the match.
-5. Additionally, the article states that Hull City scored two quick-fire goals in the second half to turn the game around and win the match, but the summary does not mention this.
-6. Therefore, the summary is not consistent with the article, as it does not include all the relevant information and does not accurately reflect the events of the match.
+<Summary>
+robert snodgrass\'s first premier league goal was enough to give southampton victory over hull city.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+1. The article states that Hull City lost two players to injury in the first half, which suggests that the team was already struggling before Snodgrass' goal.
+2. The summary does not mention the injuries to Hull City's players, which means that the reader would not know that the team was weakened by injuries.
+3. The article highlights Snodgrass' goal as the turning point in the game, but the summary does not mention the goal or the impact it had on the game.
+4. The article states that Hull City pushed for an equalizer but were unable to find one, while the summary does not mention this aspect of the game at all.
+5. The article mentions the international break and the fact that Hull City will have to deal with several injuries during that time, but the summary does not mention this.
+
+Overall, the summary does not accurately reflect the content of the article. It does not mention the injuries to Hull City's players, Snodgrass' goal, or the fact that the team was unable to find an equalizer. Additionally, the summary does not provide any context about the game, such as the fact that Hull City was struggling due to injuries. Therefore, the summary is not consistent with the article and does not provide an accurate summary of the game.
 
 ###Corrected:

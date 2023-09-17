@@ -1,24 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bbc radio presenter chris jones has revealed that he is born at the time of sunday night for the first time. 
-
-    Article: 
-    The 39-year-old, from Ammanford in Carmarthenshire, revealed the news live on BBC One's The One Show on Thursday evening but has yet to reveal the name.
+<Article>
+The 39-year-old, from Ammanford in Carmarthenshire, revealed the news live on BBC One's The One Show on Thursday evening but has yet to reveal the name.
 It is Miss Jones' first child with partner Charlie Thomson and he was born in the morning of Sunday, 22 January, weighing 7lbs 11.
-Ms Jones was concerned she had left it too late to have a baby after filming a documentary, Fertility and Me. 
+Ms Jones was concerned she had left it too late to have a baby after filming a documentary, Fertility and Me.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+bbc radio presenter chris jones has revealed that he is born at the time of sunday night for the first time.
+</Summary>
 
-1. The summary states that Chris Jones, a BBC radio presenter, was born on a Sunday night for the first time.
-2. However, the article states that Chris Jones was born on a Sunday morning, not at night.
-3. This means that the summary is not consistent with the article, as it contains incorrect information about the time of day when Chris Jones was born.
-4. The article states that Chris Jones was born in the morning of Sunday, 22 January, weighing 7lbs 11.
-5. Therefore, the summary is not only inconsistent with the article, but it also contains false information about the time of day when Chris Jones was born.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it contains incorrect information about the time of day when Chris Jones was born. The article states that Chris Jones was born in the morning, not at night, as the summary claims.
+1. The article states that Ms. Jones gave birth to her first child on Sunday, January 22nd, weighing 7lbs 11.
+2. The summary states that Chris Jones (not Ms. Jones) was born on Sunday night.
+3. Ms. Jones is the one who gave birth, not Chris Jones.
+4. Therefore, the summary is not consistent with the article because it refers to a different person (Chris Jones) giving birth, instead of Ms. Jones.
+
+So, the reason why the summary is not consistent with the article is that it incorrectly refers to a different person (Chris Jones) giving birth, instead of Ms. Jones.
 
 ###Corrected:

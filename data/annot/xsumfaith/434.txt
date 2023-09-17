@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    liverpool\'s premier league title rivals, liverpool, liverpool and liverpool are one of the premier league\'s top clubs in the premier league. 
-
-    Article: 
-    In his regular BBC Sport column, football pundit Robbie Savage looks at why Liverpool look a long way off repeating last season's title challenge, how they should line up against Chelsea and the physical and mental battle Steven Gerrard faces to secure a long-term future with the Reds.
+<Article>
+In his regular BBC Sport column, football pundit Robbie Savage looks at why Liverpool look a long way off repeating last season's title challenge, how they should line up against Chelsea and the physical and mental battle Steven Gerrard faces to secure a long-term future with the Reds.
 It is only six months since Steven Gerrard's slip helped the Blues clinch a famous win on Merseyside that derailed Liverpool's title bid.
 Back then, at the end of April, the title was in the Reds' grasp. This weekend, I think we will see again how far away they are from mounting another title challenge.
 They are miles away from the level required for that, and will have to improve and work hard just to get in the top four.
@@ -78,16 +75,19 @@ Saturday will be a difficult occasion for him because what happened against Chel
 Of course he will be thinking about it before the game - he must think about it all the time - but he has not let it stop him.
 It would have been easy for him to quit after a disappointment like that, but he has kept going like he always does.
 It is that kind of desire that will keep him going beyond the end of this season too.
-Robbie Savage was speaking to BBC Sport's Chris Bevan 
+Robbie Savage was speaking to BBC Sport's Chris Bevan
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+liverpool\'s premier league title rivals, liverpool, liverpool and liverpool are one of the premier league\'s top clubs in the premier league.
+</Summary>
 
-1. The summary states that Liverpool is one of the top clubs in the Premier League, while the article states that they are miles away from the level required for a title challenge and that their recent performances have been poor.
-2. The summary mentions Steven Gerrard as a key player, but the article focuses on his struggles and the mental battle he faces to secure a long-term future with the club.
-3. The summary does not mention the article's points about Liverpool's overreliance on set-pieces, their lack of runners going past their striker, and their poor defensive record.
-4. The summary states that Liverpool will need to improve and work hard to get in the top four, while the article suggests that they are unlikely to win against Chelsea and that they are on a different planet to every other Premier League team at the moment.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article, which paints a negative picture of Liverpool's current form and their chances against Chelsea.
+1. The summary provided is not consistent with the article.
+2. The summary mentions "Liverpool's premier league title rivals" four times, but the article does not mention any specific teams as title rivals.
+3. The summary also mentions "Liverpool" five times, but the article only mentions the team once, in the context of Brendan Rodgers' management.
+4. The summary states that the team is one of the premier league's top clubs, but the article does not mention any specific achievements or successes that would support this claim.
+5. Therefore, the summary is not consistent with the article, and it appears to be a poorly written and inaccurate summary of the article's content.
 
 ###Corrected:

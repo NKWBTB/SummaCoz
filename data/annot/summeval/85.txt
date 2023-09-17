@@ -1,32 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    usain bolt will compete at the relay championship on may 2 and 3 as part of the jamaican team . the six-time olympic gold medalist will be part of jamaica 's team at the iaaf/btc world . bolt is the iaaf/btc general secretary garth gayle said he always does ` best to make his country proud ' . the jamaica athletics administrative association has announced the world 's fastest man will be in the bahamas next month . 
+<Article>
+Usain Bolt will compete at the IAAF/BTC World Relays in the Bahamas next month, the Jamaica Athletics Administrative Association has announced. The six-time Olympic gold medallist will compete at the relay championship on May 2 and 3 as part of the Jamaican team. 'I'm happy to be part of the Jamaican team for the IAAF / BTC World Relays in the Bahamas. I am fit, healthy and ready to run,' said Bolt. Usain Bolt has confirmed he will be part of Jamaica's team at the World Relays in the Bahamas . Bolt reacts as he wins 4x100m gold at the London Olympic Games in 2012 . 'I hear the meet was a lot of fun last year and there was a great atmosphere. Jamaica has a long and successful tradition in relays and when we put on the national colours we always do our best to make the country proud,' he added. JAAA General Secretary Garth Gayle commented, 'We were extremely pleased that Usain was available for selection and that the world's fastest man will be running for Jamaica. We can expect some sprint magic on the track in the Bahamas on 2nd and 3rd May.' The full Jamaican team list for the competition will be announced shortly. Bolt insists he always does 'his best to make his country proud' while wearing Jamaica colours .
+</Article>
 
-    Article: 
-    Usain Bolt will compete at the IAAF/BTC World Relays in the Bahamas next month, the Jamaica Athletics Administrative Association has announced. The six-time Olympic gold medallist will compete at the relay championship on May 2 and 3 as part of the Jamaican team. 'I'm happy to be part of the Jamaican team for the IAAF / BTC World Relays in the Bahamas. I am fit, healthy and ready to run,' said Bolt. Usain Bolt has confirmed he will be part of Jamaica's team at the World Relays in the Bahamas . Bolt reacts as he wins 4x100m gold at the London Olympic Games in 2012 . 'I hear the meet was a lot of fun last year and there was a great atmosphere. Jamaica has a long and successful tradition in relays and when we put on the national colours we always do our best to make the country proud,' he added. JAAA General Secretary Garth Gayle commented, 'We were extremely pleased that Usain was available for selection and that the world's fastest man will be running for Jamaica. We can expect some sprint magic on the track in the Bahamas on 2nd and 3rd May.' The full Jamaican team list for the competition will be announced shortly. Bolt insists he always does 'his best to make his country proud' while wearing Jamaica colours . 
+<Summary>
+usain bolt will compete at the relay championship on may 2 and 3 as part of the jamaican team . the six-time olympic gold medalist will be part of jamaica 's team at the iaaf/btc world . bolt is the iaaf/btc general secretary garth gayle said he always does ` best to make his country proud ' . the jamaica athletics administrative association has announced the world 's fastest man will be in the bahamas next month .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Usain Bolt will compete at the relay championship on May 2 and 3 as part of the Jamaican team.
+1. The article states that Usain Bolt will compete at the IAAF/BTC World Relays in the Bahamas as part of the Jamaican team.
+2. The summary states that Bolt will compete at the relay championship on May 2 and 3 as part of the Jamaican team.
+3. The article does not mention a relay championship, only the IAAF/BTC World Relays.
+4. The summary incorrectly states that Bolt will be part of Jamaica's team at the IAAF/BTC World Relays, which is not mentioned in the article.
+5. The summary also incorrectly states that the JAAA General Secretary said Bolt always does his best to make his country proud, which is not a quote from the article.
+6. The article does mention that Bolt has confirmed he will be part of Jamaica's team at the World Relays in the Bahamas, but the summary does not accurately convey this information.
 
-However, the article does not mention anything about a relay championship. Instead, it states that Bolt will compete at the IAAF/BTC World Relays in the Bahamas.
-
-2. The summary also states that the Jamaica Athletics Administrative Association has announced the world's fastest man will be in the Bahamas next month.
-
-But the article does not mention anything about the Jamaica Athletics Administrative Association announcing Bolt's participation. Instead, it states that the JAAA General Secretary Garth Gayle commented on Bolt's availability for selection.
-
-3. The summary quotes Bolt as saying, "I'm happy to be part of the Jamaican team for the IAAF/BTC World Relays in the Bahamas. I am fit, healthy and ready to run."
-
-However, the article does not include this quote from Bolt.
-
-4. The summary also states that Bolt always does his best to make his country proud while wearing Jamaica colours.
-
-But the article does not mention anything about Bolt wearing Jamaica colours. Instead, it states that he will compete for Jamaica at the IAAF/BTC World Relays.
-
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+Therefore, the summary is not consistent with the article because it contains incorrect information and does not accurately convey the content of the article.
 
 ###Corrected:

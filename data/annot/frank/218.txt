@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the conservatives have retained control of the green party in the wake of the 2009 vote in the european elections. 
+<Article>
+UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,The Lib Dems spent £1,580,575 and lost all but one of their MEPs - Labour, which came second, spent £1,027,339.The figures cover the campaign period from 23 January to polling day, 22 May.UKIP's campaign spending works out at 68p for each of their 4,376,635 votes. For Labour it is 26p per vote, the Conservatives 79p and the Lib Dems, who lost 11 of their 12 MEPs, £1.45. The Green Party, which came fourth, spent £534,249 on its campaign - 43p for each of its 1,255,573 votes.Including the SNP's £267,372, the six highest-spending parties spent a total of £9,347,087 on campaigning, the Electoral Commission said.All but Labour spent more than they did during the 2009 European election campaign.
+</Article>
 
-    Article: 
-    UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,The Lib Dems spent £1,580,575 and lost all but one of their MEPs - Labour, which came second, spent £1,027,339.The figures cover the campaign period from 23 January to polling day, 22 May.UKIP's campaign spending works out at 68p for each of their 4,376,635 votes. For Labour it is 26p per vote, the Conservatives 79p and the Lib Dems, who lost 11 of their 12 MEPs, £1.45. The Green Party, which came fourth, spent £534,249 on its campaign - 43p for each of its 1,255,573 votes.Including the SNP's £267,372, the six highest-spending parties spent a total of £9,347,087 on campaigning, the Electoral Commission said.All but Labour spent more than they did during the 2009 European election campaign. 
+<Summary>
+the conservatives have retained control of the green party in the wake of the 2009 vote in the european elections.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the conservatives have retained control of the green party, but the article does not mention the conservatives or the green party at all.
-2. The article only mentions the campaign expenditure of four political parties: UKIP, the Tories, the Lib Dems, and Labour.
-3. The summary is incorrect because the conservatives are not mentioned in the article, and the green party is not mentioned as having retained control of anything.
-4. The article only discusses the campaign expenditure of the four parties mentioned, and does not mention the green party at all.
-5. Therefore, the summary is not consistent with the article because it references the conservatives and the green party, when the article does not mention those parties.
+1. The article states that UKIP won the May election, while the summary states that the Conservatives retained control of the Green Party. This is inconsistent, as UKIP won the election, not the Conservatives.
+2. The article provides information on the campaign spending of various political parties, including the Conservatives, Labour, Lib Dems, and the Green Party. However, the summary does not mention anything about campaign spending or the results of the election.
+3. The article states that the six highest-spending parties spent a total of £9,347,087 on campaigning, but the summary does not provide any information about the amount spent by the Green Party.
+4. The article mentions that the Conservatives, Labour, and the Lib Dems all spent more than they did during the 2009 European election campaign, but the summary does not provide any information about the 2009 election.
+
+Therefore, the summary is not consistent with the article because it does not provide accurate information about the results of the election or the campaign spending of the political parties. Instead, it seems to be focused on a different topic, such as the retention of control of the Green Party by the Conservatives.
 
 ###Corrected:

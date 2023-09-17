@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jk venter is one of the world\'s most successful scientists. 
-
-    Article: 
-    The biologist and entrepreneur turned the effort to map the human genome into a competitive race and, in so doing, was vilified by the scientific community.
+<Article>
+The biologist and entrepreneur turned the effort to map the human genome into a competitive race and, in so doing, was vilified by the scientific community.
 Dr Venter has certainly not gained a reputation for modesty about his achievements. "Is my science of a level consistent with other people who have gotten the Nobel? Yes," he was once quoted as saying.
 And he is a very wealthy user of Lear Jets and private yachts.
 But his efforts in the field of human genomics have undeniably helped speed up the entire process.
@@ -31,16 +28,21 @@ But he has pursued other projects in the meantime. Dr Venter has roamed the ocea
 The project aims to sequence genomes from the vast range of microbes living in the sea, to provide scientists with a better understanding of the evolution and function of genes and proteins.
 The synthetic life breakthrough, when it was announced, was not without controversy. But Dr Venter will have come to expect that.
 "I think they're going to potentially create a new industrial revolution," he said of the synthetic microbes.
-"If we can really get cells to do the production that we want, they could help wean us off oil and reverse some of the damage to the environment by capturing carbon dioxide." 
+"If we can really get cells to do the production that we want, they could help wean us off oil and reverse some of the damage to the environment by capturing carbon dioxide."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jk venter is one of the world\'s most successful scientists.
+</Summary>
 
-1. The summary states that Dr. Venter is "one of the world's most successful scientists," but the article does not support this claim. While Dr. Venter has made significant contributions to the field of genomics, the article does not portray him as a universally acclaimed or highly successful scientist.
-2. The summary states that Dr. Venter "turned his attention to another grand project: the creation of a synthetic life form," but the article does not mention this as a specific goal or achievement of Dr. Venter's. While the article does discuss Dr. Venter's efforts to create synthetic microbes, it does not present this as a central aspect of his work or legacy.
-3. The summary states that Dr. Venter "realised that he did not need to trawl the entire genome to find the active parts," but the article does not present this as a key realization or breakthrough of Dr. Venter's. Instead, the article describes how Dr. Venter's approach to genomics involved focusing on messenger RNA, which was a departure from the traditional approach of studying DNA.
-4. The summary states that Dr. Venter "will have come to expect" controversy, but the article does not suggest that Dr. Venter is accustomed to or anticipates controversy. Instead, the article notes that Dr. Venter's work has been met with criticism and skepticism from some in the scientific community.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents Dr. Venter as a highly successful and innovative scientist who has made significant contributions to the field of genomics, but the article does not support these claims. Instead, the article presents Dr. Venter as a scientist who has made important contributions, but has also faced criticism and controversy in his work.
+1. The summary states that J. Craig Venter is one of the world's most successful scientists.
+2. The article provides information about Venter's achievements, such as his role in the Human Genome Project and the creation of the first synthetic life form.
+3. However, the article also mentions that Venter has been criticized for his approach to science, including his disregard for scientific conventions and his focus on commercialization.
+4. The article states that Venter's efforts in human genomics have helped speed up the process, but his approach has also been met with criticism.
+5. The summary does not accurately reflect the article's information, as it only highlights Venter's successes and does not mention any of the criticism or controversy surrounding his work.
+
+Therefore, the summary is not consistent with the article, as it only provides a one-sided view of Venter's achievements and does not acknowledge any of the challenges or criticisms he has faced in his career.
 
 ###Corrected:

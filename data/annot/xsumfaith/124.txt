@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    prime minister theresa may\'s letter to uk prime minister theresa may about brexit has been described as " unacceptable " by the prime minister. 
-
-    Article: 
-    Although there is some common ground between the two governments on, for example, the need for free trade within the single market, Carwyn Jones has complained that he didn't see the letter before it was published on Wednesday. (He has that in common with most of Mrs May's cabinet).
+<Article>
+Although there is some common ground between the two governments on, for example, the need for free trade within the single market, Carwyn Jones has complained that he didn't see the letter before it was published on Wednesday. (He has that in common with most of Mrs May's cabinet).
 The first minister told AMs: "I discussed the Article 50 letter in general terms with the prime minister when we met in Swansea last week.
 "I should be clear, though, that I didn't see the letter before today and we were not invited to contribute to its drafting. This is unacceptable and is the culmination of a deeply frustrating process in which the devolved administrations have persistently been treated with a lack of respect.
 "It is all the more regrettable given the UK government's stated aim was to develop a negotiating framework for the whole of the UK."
@@ -18,16 +15,22 @@ Mrs May did indeed mention Wales in the letter. She told Donald Tusk: "When it c
 That sentence may have been written more with Scotland in mind, but it does prompt the question: which powers? Farming? Economic aid? And will the money follow the powers?
 Alun Cairns wouldn't answer those questions, although Carwyn Jones has said he fears there won't be any money to accompany the powers after 2020. (Perhaps Mr Jones doesn't think Jeremy Corbyn will win power that year - Labour has pledged to maintain EU funding levels on regional aid beyond 2020).
 Some in Whitehall think the way EU money has been spent in Wales - check out Nick Clegg's film from Ebbw Vale - is an argument for transferring those powers to Westminster, but that looks politically less likely now.
-We may get some more details about the process in a white paper on the Great Repeal Bill on Thursday but, at the moment, the identity of the powers the UK government wants to see devolved is something of a mystery. 
+We may get some more details about the process in a white paper on the Great Repeal Bill on Thursday but, at the moment, the identity of the powers the UK government wants to see devolved is something of a mystery.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+prime minister theresa may\'s letter to uk prime minister theresa may about brexit has been described as " unacceptable " by the prime minister.
+</Summary>
 
-1. The summary states that Carwyn Jones, the First Minister of Wales, described the Prime Minister's letter on Brexit as "unacceptable." However, the article does not quote him using that word. Instead, he is quoted as saying that he was "disappointed" and that the letter was the "culmination of a deeply frustrating process."
-2. The summary suggests that Carwyn Jones did not see the letter before it was published, but the article states that he discussed the letter in general terms with the Prime Minister when they met in Swansea last week.
-3. The summary implies that the UK government has not treated the devolved administrations with respect, but the article quotes Welsh Secretary Alun Cairns as saying that the Prime Minister has been to Wales three times in the last six weeks and that they have been talking about the contents of the letter for many months.
-4. The summary mentions that the Prime Minister's letter mentioned Wales, but the article does not provide any details about the specific powers that the UK government wants to see devolved to Wales. Instead, it notes that the identity of the powers is a mystery and that the UK government needs to act in the interests of the whole of the UK.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the negative tone of Carwyn Jones's comments, misstates the timing of his knowledge of the letter, and oversimplifies the UK government's position on devolved powers.
+1. The summary states that Theresa May's letter about Brexit was described as "unacceptable" by the Prime Minister.
+2. However, the article does not mention Theresa May describing her own letter as "unacceptable". Instead, it quotes Carwyn Jones, the First Minister of Wales, as saying that the letter was unacceptable.
+3. Therefore, the summary is not consistent with the article, as it attributes a quote to Theresa May that is actually from Carwyn Jones.
+4. The article mentions that Carwyn Jones complained that he did not see the letter before it was published and that the devolved administrations have been treated with a lack of respect.
+5. The summary does not include any information about the content of the letter or the concerns raised by Carwyn Jones.
+6. The article mentions that the UK government wants to develop a negotiating framework for the whole of the UK, but the summary does not include this information.
+
+Overall, the summary is not consistent with the article because it attributes a quote to Theresa May that is actually from Carwyn Jones, and it does not include any information about the content of the letter or the concerns raised by Carwyn Jones. The summary is too brief and does not accurately represent the content of the article.
 
 ###Corrected:

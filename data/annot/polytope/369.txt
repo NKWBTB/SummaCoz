@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    marco rubio told face the nation he believes people are born with a sexual preference , but insisted same-sex marriage should not be a constitutional right
-the florida senator told bob schieffer that he was n't against gay marriage , but believes the ` definition of the institution of marriage should be between one man and one woman ' .
-rubio also noted that , as a catholic , he believes divorce is wrong , but he would n't stop loving someone if they were divorced . 
-
-    Article: 
-    marco rubio has claimed people are ` born with a sexual preference ' while insisting state legislators should decide whether or not to allow gay marriage .
+<Article>
+marco rubio has claimed people are ` born with a sexual preference ' while insisting state legislators should decide whether or not to allow gay marriage .
 the presidential candidate spoke to cbs 's face the nation after admitting in an interview he would attend the same-sex wedding of a family member or staffer - even if he did n't agree with the decision .
 the florida senator told bob schieffer that he was n't against gay marriage , but believes the ` definition of the institution of marriage should be between one man and one woman ' .
 marco rubio told face the nation he believes people are born with a sexual preference , but insisted same-sex marriage should not be a constitutional right
@@ -24,15 +19,22 @@ he added : i 'm not going to hurt them simply because i disagree with a choice t
 rubio also noted that , as a catholic , he believes divorce is wrong , but he would n't stop loving someone if they were divorced .
 the miami politician announced he is running for president last week .
 donors have said their candidate has already received monetary commitments in excess of the $ 45 million he will likely need to battle through a presidential primary season that will feature a crowd of seasoned republican candidates with strong financial backing .
-last week the florida senator admitted he would attend the gay wedding of someone he ` cared ' for , even if he did n't agree with what they were doing 
+last week the florida senator admitted he would attend the gay wedding of someone he ` cared ' for , even if he did n't agree with what they were doing
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+marco rubio told face the nation he believes people are born with a sexual preference , but insisted same-sex marriage should not be a constitutional right
+the florida senator told bob schieffer that he was n't against gay marriage , but believes the ` definition of the institution of marriage should be between one man and one woman ' .
+rubio also noted that , as a catholic , he believes divorce is wrong , but he would n't stop loving someone if they were divorced .
+</Summary>
 
-1. The summary states that Marco Rubio believes people are born with a sexual preference, but same-sex marriage should not be a constitutional right. However, the article does not mention anything about Rubio's beliefs on the constitutionality of same-sex marriage.
-2. The summary states that Rubio believes the definition of marriage should be between one man and one woman, but the article does not mention this. Instead, the article states that Rubio believes states should regulate marriage and that he does not think courts should be making that decision.
-3. The summary states that Rubio would attend the gay wedding of someone he cared for, even if he did not agree with what they were doing. However, the article does not mention this statement from Rubio.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes statements that are not supported by the text. It is important to ensure that any summary or summary of an article accurately reflects the information and ideas presented in the original text.
+1. The summary states that Marco Rubio believes people are born with a sexual preference, but the article does not say that. Instead, the article quotes Rubio as saying that he believes people are born with a certain sexual orientation, but he does not explicitly state that people are born with a sexual preference.
+2. The summary states that Rubio insisted same-sex marriage should not be a constitutional right, but the article does not say that he made this statement. Instead, the article quotes Rubio as saying that he does not believe same-sex marriage is a constitutional right, but he does not explicitly state that it should not be a constitutional right.
+3. The summary states that Rubio noted that as a Catholic, he believes divorce is wrong, but the article does not say that he made this statement.
+
+Overall, the summary is not consistent with the article because it includes statements that are not supported by the article. Specifically, the summary states that Rubio believes people are born with a sexual preference and that same-sex marriage should not be a constitutional right, but the article does not explicitly state these beliefs. Additionally, the summary includes a statement about Rubio's beliefs on divorce, which is not supported by the article.
 
 ###Corrected:

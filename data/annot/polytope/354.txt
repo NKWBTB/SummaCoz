@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
-it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
-a hindu , traditional healer ram lives a slum house within india 's only muslim-majority state . 
-
-    Article: 
-    as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
+<Article>
+as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
 it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
 but now ram and thousands like him are daring to hope they will finally be able to shed the refugee status that has plagued them for decades , after prime minister narendra modi 's hindu nationalist party won a share of power in india 's only muslim-majority state .
 mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
@@ -58,19 +53,26 @@ but he warned the community is ready to take matters into their own hands if the
 ` we will spill our blood on the streets for our rights , ' he says .
 the daughter of a hindu refugee studies in her slum home in surej chak .
 under the current laws she is not allowed to enrolled at a state-run training college or be employed by the state government .
-such laws , argue opponents , make these families ` second class citizens ' 
+such laws , argue opponents , make these families ` second class citizens '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
+it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
+a hindu , traditional healer ram lives a slum house within india 's only muslim-majority state .
+</Summary>
 
-1. The summary states that Mangu Ram was 14 when he fled to Kashmir as a refugee, but the article states that he was born in an area of Punjab province before the country became independent in 1947.
-2. The summary states that Mangu Ram is a Hindu, but the article does not mention his religion.
-3. The summary states that the refugees were quickly absorbed in towns and cities of the newly-independent nations, but the article states that the fate of the West Pakistan refugees (WPRs) like Ram who decamped to Jammu and Kashmir state became mired in the dispute with Pakistan over the territory.
-4. The summary states that the community lives in poverty because of their continuing refugee status, but the article states that generations of families have become stuck in poverty because of their continuing refugee status.
-5. The summary states that the WPRs are not allowed to own property, vote in state elections, or work in the state government, but the article states that the WPRs can work for the federal government but not for the state government.
-6. The summary states that the Bharatiya Janata Party (BJP) is expected to champion the refugees' cause, but the article states that the BJP has joined a Kashmir governing coalition for the first time and are expected to champion the WPRs' cause.
-7. The summary states that the community is ready to take matters into their own hands if their hopes are dashed again, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations, and it presents a more hopeful outlook for the WPRs than the article does.
+1. The summary states that Mangu Ram has been denied citizenship rights for the past 70 years, which implies that he has been living in Indian Kashmir as a refugee for that entire period.
+2. However, the article states that Mangu Ram was born in an area of Punjab province, part of modern-day Pakistan, before the country became independent in 1947. This suggests that he is not a refugee, but rather a person who was born in the area that became part of India after the partition of India and Pakistan.
+3. The article also states that Mangu Ram and other West Pakistan refugees (WPRs) have been denied citizenship rights and residential rights, including the right to buy land, vote in state polls, or work in the state government, because of their refugee status.
+4. The summary does not mention the reason for Mangu Ram's denial of citizenship rights, but the article explains that it is due to the pre-independence law that only grants citizenship to people born or descendants of those born in the old undivided kingdom of Kashmir.
+5. The article states that there are around 100,000 WPRs living in Jammu and Kashmir, most of whom have never set foot in Pakistan, and that they live in poverty because of their continuing refugee status.
+6. The summary does not mention the community's living conditions or their poverty, which is a significant aspect of the article.
+7. The article states that the Bharatiya Janata Party (BJP), which has joined a Kashmir governing coalition for the first time, has pledged to normalize the WPRs' status and champion their cause.
+8. The summary does not mention the BJP's pledge or their potential to champion the WPRs' cause, which is a significant aspect of the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately convey the reasons for Mangu Ram's denial of citizenship rights, the community's living conditions, and the potential for change in their status.
 
 ###Corrected:

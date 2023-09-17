@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police have searched the home and garden of a vulnerable woman who has been missing for a month in inverclyde. 
-
-    Article: 
-    Margaret Fleming, 36, was last seen at her home in Inverkip by her two carers at about 17:40 on Friday 28 October.
+<Article>
+Margaret Fleming, 36, was last seen at her home in Inverkip by her two carers at about 17:40 on Friday 28 October.
 She is described as about 5ft 5in tall, with collar-length black hair, brown eyes and has a heavy build, although her weight can fluctuate.
 Police had said they were trying to build a picture of Ms Fleming's life, part of which she kept "quite private".
 When last seen, she was wearing a green tartan fleece or jumper, dark jeans or trousers, and dark Karrimor-type boots. She also had a satchel-type handbag.
@@ -15,16 +12,20 @@ Speaking earlier this month, Ch Insp Elliot Brown, area commander for Greenock, 
 "As we continue to try to piece together Margaret's life, we understand she kept a side of her life quite private so we're trying to look into this in a bit more detail to see if this will help with our inquiries.
 "We are working backwards to try to find out more about Margaret, so we've been speaking to friends and family members to establish a clearer picture of her life over the years."
 The detective said that Ms Fleming was a student at James Watt College in Greenock between 1996 and 1997.
-He said he was keen to speak to anyone who remembered her from then, and who might have been in touch with her over the years. 
+He said he was keen to speak to anyone who remembered her from then, and who might have been in touch with her over the years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+police have searched the home and garden of a vulnerable woman who has been missing for a month in inverclyde.
+</Summary>
 
-1. The summary states that police have searched the home and garden of a missing woman, Margaret Fleming.
-2. However, the article does not mention anything about a search of Margaret's home or garden. Instead, it mentions that police are trying to piece together Margaret's life and are speaking to friends and family members to establish a clearer picture of her life over the years.
-3. The summary also states that Margaret has been missing for a month, but the article only mentions that she was last seen on Friday, October 28th.
-4. Therefore, the summary is not consistent with the article because it includes information that is not mentioned in the article, such as a search of Margaret's home and garden, and it also includes information that is not accurate, such as the length of time Margaret has been missing.
+Explain your reasoning step by step:[/INST]
 
-Overall, it appears that the summary is not a reliable representation of the article's content.
+1. The summary states that police have searched the home and garden of a missing woman, but the article does not mention any search of the home or garden.
+2. The summary mentions that the woman has been missing for a month, but the article does not provide any information about the duration of her disappearance.
+3. The summary refers to the woman as "vulnerable," but the article does not use this word to describe her.
+4. The summary does not provide any information about the woman's life or any efforts by the police to piece together her life, as mentioned in the article.
+
+Therefore, the summary is not consistent with the article. The summary is incomplete and inaccurate, as it does not provide a clear and accurate summary of the information in the article.
 
 ###Corrected:

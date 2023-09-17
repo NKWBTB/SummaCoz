@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nurses, paramedics and pharmacists should be trained to fill in for doctors and help the nhs in england cope with demand, bosses say. 
-
-    Article: 
-    Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
+<Article>
+Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
 A Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs.
 But unions warned against using it as a quick fix for problems in the NHS.
 It has been well documented that there are gaps in junior doctor rotas, while GPs are struggling to cope with the rising number of patients coming through their doors.
@@ -25,15 +22,26 @@ But British Medical Association leader Dr Mark Porter said while he supported in
 And Unison head of health Christina McAnea said the squeeze on funding in the health service meant there was "all too often" no funding for training courses.
 "Developing the NHS support workforce must not be seen as a quick and cheap fix for the chronic shortages of nurses and other health workers across the country," she added.
 Read more from Nick
-Follow Nick on Twitter 
+Follow Nick on Twitter
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+nurses, paramedics and pharmacists should be trained to fill in for doctors and help the nhs in england cope with demand, bosses say.
+</Summary>
 
-1. The summary states that nurses, paramedics, and pharmacists should be trained to fill in for doctors, but the article does not support this claim. While the article mentions that nurses and other healthcare staff are already filling in for doctors in some areas, it does not suggest that this should be a permanent solution to the shortage of doctors.
-2. The summary implies that the Nuffield Trust report recommends that nurses and other healthcare staff should be trained to replace doctors, but the article states that the report actually recommends that the NHS should invest in training for all healthcare staff, not just nurses.
-3. The summary does not mention the caveats and concerns raised by the article, such as the need for more funding for training courses, the importance of doctors' expertise and experience, and the potential risks of overburdening other healthcare staff with tasks that should be done by doctors.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it oversimplifies the recommendations of the Nuffield Trust report and ignores the complexities and concerns surrounding the issue of doctor shortages in the NHS.
+1. The summary states that nurses, paramedics, and pharmacists should be trained to fill in for doctors, while the article does not support this claim. In fact, the article suggests the opposite - that doctors should not be replaced by other healthcare professionals.
+
+2. The article highlights the Nuffield Trust's review, which found examples of nurses filling in for hospital doctors and pharmacists for GPs, but it does not advocate for this as a solution to the NHS's problems. Instead, the article notes that there are gaps in junior doctor rotas and that GPs are struggling to cope with the rising number of patients, and that more needs to be done to address these issues.
+
+3. The summary implies that training other healthcare professionals to fill in for doctors is a quick and easy solution to the NHS's problems, while the article notes that there are no quick fixes and that more funding will be needed to support the development of the NHS support workforce.
+
+4. The article quotes the British Medical Association leader Dr. Mark Porter as saying that increasing the skills of the workforce is important, but that this should not be done "at the expense of good quality training for doctors." The summary does not acknowledge this concern.
+
+5. The article also quotes Unison head of health Christina McAnea as saying that the squeeze on funding in the health service means there is "all too often" no funding for training courses. The summary does not mention this either.
+
+In conclusion, the summary is not consistent with the article because it oversimplifies the solutions to the NHS's problems and does not accurately represent the findings of the Nuffield Trust's review. The article presents a more nuanced view of the issues facing the NHS and the need for more funding and support for all healthcare professionals, rather than relying solely on training other professionals to fill in for doctors.
 
 ###Corrected:

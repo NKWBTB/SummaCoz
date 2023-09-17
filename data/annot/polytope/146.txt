@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    james robarge , 45 , of vermont was sentenced in court on friday morning for second-degree murder in the death of his wife , kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013
-her badly decomposed body , with her hands and head detached , was found 10 days later in unity
-the judge said he took into account the extent to which robarge went to conceal his wife 's killing and body , as well as the couple 's history of domestic violence
-robarge has served nearly two years behind bars which means he could be eligible for parole in about 28 years 
-
-    Article: 
-    a husband convicted of beating his wife to death after she filed for divorce has been sentenced to 30 years to life in prison .
+<Article>
+a husband convicted of beating his wife to death after she filed for divorce has been sentenced to 30 years to life in prison .
 james robarge , 45 , from saxtons river , vermont was sentenced in court on friday morning for second-degree murder in the death of his wife kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013 .
 her badly decomposed body , with her hands and head detached , was found 10 days later in unity .
 the judge said he took into account the extent to which robarge went to conceal his wife 's killing and body , as well as the couple 's history of domestic violence .
@@ -40,20 +34,26 @@ uptegrove testified that kelly robarge told her she was heading to court to file
 he said : ` she seemed clear-headed , determined .
 she 'd made up her mind . '
 in testimony spanning two days , robarge showed no emotion as he repeatedly denied threatening or harming his wife and stared straight ahead when the verdict was announced .
-robarge claimed that he did n't know his wife had filed for divorce , but he acknowledged that just days before , he found a letter from her on their kitchen counter saying she wanted one . 
+robarge claimed that he did n't know his wife had filed for divorce , but he acknowledged that just days before , he found a letter from her on their kitchen counter saying she wanted one .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+james robarge , 45 , of vermont was sentenced in court on friday morning for second-degree murder in the death of his wife , kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013
+her badly decomposed body , with her hands and head detached , was found 10 days later in unity
+the judge said he took into account the extent to which robarge went to conceal his wife 's killing and body , as well as the couple 's history of domestic violence
+robarge has served nearly two years behind bars which means he could be eligible for parole in about 28 years
+</Summary>
 
-1. Sentence length: The summary states that James Robarge was sentenced to 30 years to life in prison, while the article states that he was sentenced to 30 years to life in prison with the possibility of parole in 28 years.
-2. Parole eligibility: The summary states that Robarge could be eligible for parole in 28 years, while the article states that he could be eligible for parole in about 28 years.
-3. Cause of death: The summary states that the cause of death was not determined, while the article states that the medical examiner concluded that the cause of death was homicidal violence.
-4. History of domestic violence: The summary does not mention the couple's history of domestic violence, while the article states that the judge took this into account during the sentencing.
-5. Daughters' statements: The summary mentions only one of the couple's daughters, Ciera Robarge, while the article mentions both Ciera and her sister, Gabriel Pellerin.
-6. Location of the body: The summary states that the body was found in Unity, while the article states that the body was found off a logging road not far from Unity.
-7. Circumstantial evidence: The summary does not mention the circumstantial evidence presented in the case, while the article states that most of the case was built largely on circumstantial evidence.
-8. Eyewitness testimony: The summary does not mention the Unity man who saw Robarge wearing latex gloves near his disabled car, while the article states that this was the closest thing to an eyewitness testimony.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it omits or misstates several key details, including the sentence length, parole eligibility, cause of death, history of domestic violence, daughters' statements, location of the body, circumstantial evidence, and eyewitness testimony.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Timeline: The summary states that James Robarge was sentenced on Friday morning, but the article states that he was sentenced on Friday afternoon.
+2. Sentence length: The summary states that Robarge was sentenced to 30 years to life in prison, but the article states that he was sentenced to 30 years to life in prison with the possibility of parole in about 28 years.
+3. Causes of death: The summary states that the cause of death was not determined, but the article states that the medical examiner concluded that the cause of death was homicidal violence.
+4. Evidence: The summary does not mention the extensive circumstantial evidence presented in the trial, including the bloody entryway to Kelly Robarge's home, the bloodstained trunk and numerous bloody items outside James Robarge's disabled car, and the testimony of the Unity man who saw James Robarge wearing latex gloves crouched beside his car on the night of Kelly's disappearance.
+5. Emotions: The summary does not mention the emotional statements made by James Robarge's daughters and Kelly's brother during the sentencing, nor does it mention James Robarge's lack of emotion during the trial.
+
+In conclusion, the summary is not a consistent representation of the article. It omits important details, provides inaccurate information, and does not convey the emotional weight of the trial.
 
 ###Corrected:

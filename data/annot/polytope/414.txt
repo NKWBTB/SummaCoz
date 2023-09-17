@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
-arsenal fan made his girlfriend sit a test about his favourite football club .  saskia 's feedback she ` could have performed better on q17 '  alexis sanchez is arsenal the best team to ever grace english football .  saskia scored 87 per cent in a school exam .  
-
-    Article: 
-    an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
+<Article>
+an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
 marking her answers with red pen , she scored an impressive 43.5 out of 50 , to which he commented , ` well done saskia !
 as a result , i will not be dumping you !
 ( lucky you ) ' .
@@ -57,20 +53,27 @@ others , though , felt that the boyfriend had taken things a tad too far .
 we reckon it was a bit of fun and he would n't really have dumped her if she 'd failed ... at least we like to think that 's the case .
 trimothy wants to put his girlfriend to the test , although apparently ca n't be bothered to create his own exam
 eduardo claims ` football fans are nuts ' despite appearing to be one as he holds what looks suspiciously like the fa cup in his hands ...
-some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head ' 
+some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
 
-1. The summary states that the girlfriend's name is Saskia, while the article does not mention her name.
-2. The summary states that the boyfriend made his girlfriend take a test about Arsenal, while the article states that the boyfriend made his girlfriend take an "Arsenal exam."
-3. The summary states that the test included questions about the current home and away kits, while the article does not mention anything about kits.
-4. The summary states that the test included questions about the starting 11 squad of this season, while the article does not mention anything about the current squad.
-5. The summary states that the boyfriend drew an angry face when his girlfriend got a question wrong, while the article does not mention anything about the boyfriend's facial expressions.
-6. The summary states that the girlfriend scored 87%, while the article states that she scored 43.5 out of 50.
-7. The summary states that the boyfriend did not dump his girlfriend because of her score, while the article states that he did not dump her because of her "impressive" score.
-8. The summary states that the test was a school exam, while the article does not mention anything about a school exam.
+arsenal fan made his girlfriend sit a test about his favourite football club .  saskia 's feedback she ` could have performed better on q17 '  alexis sanchez is arsenal the best team to ever grace english football .  saskia scored 87 per cent in a school exam . 
+</Summary>
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits details that are present in the article.
+Explain your reasoning step by step:[/INST]
+
+The given summary is not consistent with the article because it contains several inaccuracies and misleading information. Here's a step-by-step explanation of why the summary is not consistent with the article:
+
+1. The summary states that the Arsenal fan made his girlfriend sit a test about his favorite football club. However, the article states that the fan made his girlfriend take an exam, not a test.
+2. The summary mentions that Saskia scored 87% in a school exam, but the article does not mention anything about a school exam. Instead, the article states that Saskia took a test that was in the form of a school exam, with multiple choice questions, tables to complete, and an "in your own words" section.
+3. The summary states that Alexis Sanchez is Arsenal's best player, but the article does not mention anything about Alexis Sanchez. In fact, the article does not mention any specific players by name.
+4. The summary states that Arsenal is the best team to ever grace English football, but the article does not mention anything about Arsenal being the best team. Instead, the article states that the fan thinks Arsenal is the best team and has won many FA Cups.
+5. The summary mentions that Saskia struggled to name all 11 players of the starting squad and got confused on the player positions, but the article does not mention anything about Saskia struggling to name the players.
+6. The summary states that Saskia scored 87% in the exam, but the article does not mention the exact percentage that Saskia scored.
+7. The summary mentions that the fan drew an angry face when Saskia got a question wrong, but the article does not mention anything about the fan drawing an angry face.
+8. The summary states that the fan was impressed with the end result and rewarded Saskia by not ending their relationship, but the article does not mention anything about the fan rewarding Saskia.
+
+Overall, the summary contains several inaccuracies and misleading information compared to the article. It is not a consistent summary of the article's content.
 
 ###Corrected:

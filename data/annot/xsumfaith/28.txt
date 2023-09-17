@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    cardiff blues suffered their first european challenge cup defeat of the season as gloucester came from behind to beat gloucester at kingsholm. 
-
-    Article: 
-    A Gareth Anscombe drop-goal edged Blues 23-20 ahead after Gloucester Josh Hohneck was yellow carded.
+<Article>
+A Gareth Anscombe drop-goal edged Blues 23-20 ahead after Gloucester Josh Hohneck was yellow carded.
 Alex Cuthbert had helped level the scores after the sin-binning, scoring his second try after Ross Moriarty and Tom Marshall scores put the hosts up.
 But unanswered second-half tries from Jonny May, Marshall, Mark Atkinson and Henry Purdy sealed Gloucester's win.
 The Cherry and Whites, who went out at home at the quarter-final stage last year, won the competition in 2015.
@@ -21,36 +18,19 @@ Replacements: Matu'u, Thomas, Afoa, Galarza, Ludlow, Braley, Atkinson, Purdy.
 Cardiff Blues: Morgan; Cuthbert, Lee-Lo, Shingler, Scully; Anscombe, Williams; Jenkins (capt), Dacey, Filise, Earle, Hoeata, Warburton, Navidi, Williams.
 Replacements: Rees, Domachowski, Assiratti, Cook, Bennett, Williams, Halaholo, Summerhill.
 Referee: Pascal Gauzere (France)
-For the latest rugby union news follow @bbcrugbyunion on Twitter. 
+For the latest rugby union news follow @bbcrugbyunion on Twitter.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+cardiff blues suffered their first european challenge cup defeat of the season as gloucester came from behind to beat gloucester at kingsholm.
+</Summary>
 
-Step 1: Identify the key points in the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary mentions the following points:
+1. The summary states that Cardiff Blues suffered their first European Challenge Cup defeat of the season, but the article states that they have failed to progress beyond the last eight of any European Cup competition since winning the continent's second-tier title in 2010. This is not consistent, as it implies that Cardiff Blues have never lost in the European Challenge Cup before, but the article states that they have failed to progress beyond the last eight in previous seasons.
+2. The summary states that Gloucester came from behind to beat Cardiff Blues, but the article does not mention anything about Gloucester coming from behind. In fact, the article states that Gloucester led for most of the game and that Cardiff Blues only managed to score 10 points while Gloucester were a man down.
+3. The summary does not mention the score at all, but the article states that Gloucester won the game 23-20. This is not consistent, as the summary does not provide any information about the score.
 
-* Cardiff Blues suffered their first European Challenge Cup defeat of the season.
-* Gloucester came from behind to beat Cardiff Blues at Kingsholm.
-
-Step 2: Identify the key points in the article.
-
-The article mentions the following points:
-
-* Cardiff Blues were leading the game at one point, but Gloucester came back to win.
-* Gloucester's Jonny May, Tom Marshall, Mark Atkinson, and Henry Purdy scored tries in the second half.
-* Cardiff Blues' Alex Cuthbert and Ross Moriarty traded tries in the first half.
-
-Step 3: Identify the inconsistencies.
-
-The summary states that Cardiff Blues suffered their first European Challenge Cup defeat of the season, but the article does not mention this. Instead, the article states that Cardiff Blues were leading the game at one point but lost in the end.
-
-Additionally, the summary does not mention the names of the players who scored tries for Gloucester in the second half, such as Jonny May, Tom Marshall, Mark Atkinson, and Henry Purdy. These players are mentioned in the article, but not in the summary.
-
-Step 4: Explain the inconsistencies.
-
-The inconsistencies in the summary are likely due to a lack of attention to detail and a failure to accurately summarize the article. The summary focuses on the final result of the game (Gloucester winning) without providing a complete picture of the game's events.
-
-In conclusion, the summary is not consistent with the article because it does not accurately describe the events of the game and omits important details, such as the names of the players who scored tries for Gloucester in the second half.
+Overall, the summary is not consistent with the article because it does not accurately reflect the information in the article. The summary states that Cardiff Blues suffered their first European Challenge Cup defeat of the season, but the article states that they have failed to progress beyond the last eight in previous seasons. Additionally, the summary does not mention the score, but the article states that Gloucester won 23-20.
 
 ###Corrected:

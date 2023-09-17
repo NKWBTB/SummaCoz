@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mclaren have rejected accusations from formula 1 boss bernie bottas\'s decision to drive him to the 2009 of the world\'s world champion. 
-
-    Article: 
-    Bottas, on whom Williams have a contractual hold, is Ferrari's number one option should they decide not to retain Kimi Raikkonen alongside Sebastian Vettel.
+<Article>
+Bottas, on whom Williams have a contractual hold, is Ferrari's number one option should they decide not to retain Kimi Raikkonen alongside Sebastian Vettel.
 Sources close to the deal say Ferrari and Williams have discussed Bottas's transfer but have no agreement yet.
 Williams view Button as a leading candidate should Bottas leave.
 Should the 2009 world champion join Williams in 2016, it would bring his career full circle.
@@ -29,16 +26,21 @@ Raikkonen said: "I don't know any more than I knew at the start of the year. For
 "Somehow I end up every year in the same position, and it makes no difference if I have a contract or not. There is no contract, but there is an option now.
 "I have made it very clear to the team what I would like to happen, and it is to be here next year."
 If Bottas leaves and Button stays at McLaren, Williams may still look to McLaren's driver pool for a partner for Felipe Massa, on whom they have an option and is expected to stay.
-Magnussen and Vandoorne could both be of interest to Williams. 
+Magnussen and Vandoorne could both be of interest to Williams.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+mclaren have rejected accusations from formula 1 boss bernie bottas\'s decision to drive him to the 2009 of the world\'s world champion.
+</Summary>
 
-1. The summary states that McLaren have rejected accusations from Formula 1 boss Bernie Ecclestone, but the article does not mention anything about Bernie Ecclestone or McLaren rejecting accusations.
-2. The summary states that Bottas has been rejected by Williams, but the article states that Williams have an option on Bottas for the next two seasons and have not yet decided on his future.
-3. The summary states that Button is a leading candidate for Williams, but the article does not mention anything about Button being a leading candidate for Williams. Instead, it states that Williams may still look to McLaren's driver pool for a partner for Felipe Massa.
-4. The summary states that Bottas will drive for Ferrari, but the article states that Ferrari have not yet decided on Kimi Raikkonen's future and have put off a decision until later in the summer.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, there is no mention of Bernie Ecclestone or McLaren rejecting accusations, and the summary states that Bottas has been rejected by Williams when in fact Williams have an option on him. Additionally, the summary states that Button is a leading candidate for Williams, but the article does not support this claim.
+1. The summary states that McLaren have rejected accusations from Formula 1 boss Bernie Ecclestone that they are holding back Button's career.
+2. However, the article states that McLaren have a contractual option to retain Button, which means that they have the right to keep him on their team for the 2016 season.
+3. The article also states that McLaren have not yet decided who they will pick to drive alongside Fernando Alonso in 2016, and that they have contracts with both Button and their reserve driver Kevin Magnussen.
+4. Therefore, it is not accurate to say that McLaren have rejected accusations from Bernie Ecclestone, as they have not made any decision yet on who they will keep on their team for the 2016 season.
+5. The summary is not consistent with the article, as it implies that McLaren have already made a decision to hold back Button's career, when in fact they have not.
+6. The article provides evidence that McLaren have not yet made a decision on who they will keep on their team for the 2016 season, and that they have contracts with both Button and Magnussen.
+7. Therefore, the summary is not a accurate reflection of the information provided in the article.
 
 ###Corrected:

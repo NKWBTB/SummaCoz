@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    witness robert kushner lost his varsity coaching job at a private academy .
-he is one of more than a dozen former drug dealers testifying for the federal government .
-kushner had passed a background check when he was hired to coach basketball in 2010 . 
-
-    Article: 
-    a police corruption trial in philadelphia is far from over , but already one trial witness has been handed a losing verdict .
+<Article>
+a police corruption trial in philadelphia is far from over , but already one trial witness has been handed a losing verdict .
 witness robert kushner lost his varsity coaching job at a private academy after testifying this week about his years selling marijuana .
 kushner , 32 , is one of more than a dozen former drug dealers testifying for the federal government about allegations of police wrongdoing .
 witness robert kushner lost his varsity coaching job at the jack m. barrack hebrew academy after testifying this week about his years selling marijuana
@@ -24,16 +19,25 @@ and he believes he is innocent of the 2011 charges .
 ` all of the stuff that happened in 2007 , that was eight years ago and was a bad phase of my life that i 've moved past and never really looked back , ' kushner said wednesday .
 " i 'm very sorry , and i want the best for the kids . "
 he also coaches in a narberth summer league , where director dan kazanicka described him as an excellent coach who is good with kids .
-lawyers for the six former drug squad officers accused of racketeering have said the government case is based on 19 lying drug dealers and a rogue ex-cop . 
+lawyers for the six former drug squad officers accused of racketeering have said the government case is based on 19 lying drug dealers and a rogue ex-cop .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+witness robert kushner lost his varsity coaching job at a private academy .
+he is one of more than a dozen former drug dealers testifying for the federal government .
+kushner had passed a background check when he was hired to coach basketball in 2010 .
+</Summary>
 
-1. The summary states that Robert Kushner lost his varsity coaching job at a private academy after testifying about his years selling marijuana. However, the article states that he lost his job after testifying about his involvement with undercover officers in a 2007 arrest.
-2. The summary mentions that Kushner passed a background check when he was hired to coach basketball in 2010, but the article states that he was arrested again in 2011 and sentenced to four years of probation.
-3. The summary does not mention Kushner's 2011 arrest or his guilty plea to driving under the influence in 2008, which are included in the article.
-4. The summary quotes Kushner as saying that he never meant to deceive the school and that he believes he is innocent of the 2011 charges. However, the article does not include these quotes.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it focuses on Kushner's past drug dealing and his loss of his coaching job, while the article provides more details about his involvement with undercover officers and his criminal history.
+1. The summary states that witness Robert Kushner lost his varsity coaching job at a private academy.
+2. The article states that Kushner lost his job as a result of testifying in a police corruption trial.
+3. The summary does not mention that Kushner was testifying in a trial or that he was a former drug dealer.
+4. Therefore, the summary is not consistent with the article because it does not provide the same information as the article.
+
+The summary only mentions that Kushner lost his coaching job, but it does not provide any context or details about why he lost his job. The article, on the other hand, provides specific details about Kushner's history as a drug dealer and his testimony in the police corruption trial.
+
+So, the summary is not consistent with the article because it does not provide the same level of detail and context as the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the omura 's whale was discovered on a remote exmouth beach in wa .
-it is the first sighting of the species in wa and only the second in australia .
-it is the first sighting of the species in wa and only the second in australia . 
-
-    Article: 
-    a species of whale that was feared to be extinct has been found washed up on a west australian beach , giving scientists an opportunity to learn more about the mammal .
+<Article>
+a species of whale that was feared to be extinct has been found washed up on a west australian beach , giving scientists an opportunity to learn more about the mammal .
 the omura 's whale was discovered on a remote exmouth beach , at the tip of the state 's north west cape , after tropical cyclone olwyn tore through the area last month .
 it is the first sighting of the species in wa and only the second in australia .
 identifying the 5.68 m juvenile female was at first difficult for department of parks and wildlife staff , who eventually confirmed it was an omura 's whale with dna profiling .
@@ -21,19 +16,28 @@ the species is usually found in indonesian waters , the philippines and the sea 
 omura 's whales have a sleek body shape and several unique skeletal features , including 53 vertebrae and four digits on each pectoral fin .
 the carcass has been buried and the skeleton will be recovered in a few years for further scientific investigation and possibly for public display in museums .
 the omura 's is usually found in indonesian waters , the philippines and the sea of japan
-the whale has a sleek body shape and several unique skeletal features , including 70 vertebrae 
+the whale has a sleek body shape and several unique skeletal features , including 70 vertebrae
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the omura 's whale was discovered on a remote exmouth beach in wa .
+it is the first sighting of the species in wa and only the second in australia .
+it is the first sighting of the species in wa and only the second in australia .
+</Summary>
 
-1. The summary states that the Omura's whale was discovered on a remote Exmouth beach in WA, while the article states that the whale was discovered on a remote beach at the tip of the state's north-west cape.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention that the whale was a juvenile female, while the article does.
+1. The article states that the Omura's whale was discovered on a remote Exmouth beach in WA, which is consistent with the summary.
+2. The article states that this is the first sighting of the species in WA and only the second in Australia, which is also consistent with the summary.
+3. However, the summary states that it is the first sighting of the species in WA, which is not consistent with the article. The article states that this is the second sighting of the species in Australia, but does not specify that it is the first sighting in WA.
+4. Therefore, the summary is not consistent with the article because it omits the information that the species has been previously sighted in Australia.
 
-3. The summary does not mention that the species is usually found in Indonesian waters, the Philippines, and the Sea of Japan, while the article does.
+Reasoning step by step:
 
-4. The summary states that the whale has 53 vertebrae, while the article states that the whale has 70 vertebrae.
-
-Therefore, the given summary is not consistent with the article, and it appears to be a poor summary of the article's content.
+1. The summary states that the Omura's whale was discovered on a remote Exmouth beach in WA.
+2. The article also states that the whale was discovered on a remote Exmouth beach in WA.
+3. The summary states that this is the first sighting of the species in WA and only the second in Australia.
+4. The article states that this is the second sighting of the species in Australia, but does not specify that it is the first sighting in WA.
+5. Therefore, the summary is not consistent with the article because it omits the information that the species has been previously sighted in Australia.
 
 ###Corrected:

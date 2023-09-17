@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it\'s been a busy year for many of the world\'s most famous characters. 
-
-    Article: 
-    Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
+<Article>
+Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
 Am I right?
 If that sounds all too familiar and you fancy keeping the whole thing a bit more spiritual this year without giving up your gadgets, here are five ways to enjoy Christmas online:
 Everyday Church Online, which launched in the UK in September, runs virtual services every Sunday for a net-based congregation from around the world. Everyone's invited to log on and chat while a recorded sermon is streamed.
@@ -45,17 +42,20 @@ As if you needed the excuse. But lots of groups are using platforms like Faceboo
 "The Church is mostly trying to just drop thoughts in, get people to fix their gaze on something a little bit higher for a second and maybe consider things that are a bit more spiritual rather than earthly."
 "Jesus would definitely be on Twitter," adds Jules Middleton, blogger and mission pastor at The Point Church in Burgess Hill, West Sussex.
 "He was a great communicator."
-Sounds like a seal of approval to me. 
+Sounds like a seal of approval to me.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+it\'s been a busy year for many of the world\'s most famous characters.
+</Summary>
 
-1. The summary mentions "the world's most famous characters" but the article does not mention any famous characters.
-2. The summary mentions "a busy year" but the article does not mention anything about the passing of time or the current year.
-3. The summary mentions "batteries for the children's new toys" but the article does not mention anything about toys or children.
-4. The summary mentions "a source of tension" but the article does not mention anything about tension or conflict.
-5. The summary mentions "keeping the whole thing a bit more spiritual" but the article does not mention anything about spirituality or religion.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it mentions a number of specific details that are not present in the article. The article is focused on different aspects of Christmas, such as virtual church services, online games, and advertisements, but the summary does not reflect these themes.
+1. The article is about various ways to enjoy Christmas online, while the summary states that it's been a busy year for many of the world's most famous characters.
+2. The article discusses online church services, a free-to-play fantasy game, and digital content created for Christmas, all of which are related to the theme of Christmas and spirituality.
+3. The summary does not mention any of these topics, and instead focuses on the idea that famous characters have had a busy year.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content or themes discussed in the article.
+
+Overall, the summary is not a good representation of the article, as it does not accurately capture the main points or themes discussed in the article.
 
 ###Corrected:

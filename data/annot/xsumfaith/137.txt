@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    greig laidlaw scored twice as scotland came from behind to beat georgia in their opening world cup warm-up match in georgia. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The visitors led briefly through Vasil Lobzhanidze's early try, but the Scots raced ahead through Tommy Seymour, a penalty try, Sean Maitland and Stuart Hogg before the break.
 Hamish Watson extended the lead, battling over soon after half-time.
 Lobzhanidze bagged a second from a huge Georgian scrum, before Hogg finished off a searing counter-attack.
@@ -27,17 +24,21 @@ Scotland head coach Vern Cotter: "It was a good first half. We scored three pret
 Scotland: 15-Stuart Hogg, 14-Sean Maitland, 13-Mark Bennett, 12-Alex Dunbar, 11-Tommy Seymour, 10-Finn Russell, 9-Greig Laidlaw (capt); 1-Allan Dell, 2-Ross Ford, 3-Zander Fagerson, 4-Richie Gray, 5-Jonny Gray, 6-Rob Harley, 7-Hamish Watson, 8-Ryan Wilson.
 Replacements: 16-Fraser Brown, 17-Alex Allan, 18-Moray Low, 19-Grant Gilchrist, 20-John Barclay, 21-Ali Price, 22-Pete Horne, 23-Rory Hughes.
 Georgia: 15-Merab Kvirikashvili, 14-Giorgi Aptsiauri, 13-Merab Sharikadze, 12-Tamaz Mchedlidze, 11-Sandro Todua, 10-Lasha Malaguradze, 9-Vasil Lobzhanidze; 1-Mikheil Nariashvili, 2-Jaba Bregvadze, 3-Levan Chilachava, 4-Kote Mikautadze, 5-Giorgi Nemsadze, 6-Vito Kolelishvili, 7-Mamuka Gorgodze (capt), 8-Beka Bitsadze.
-Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili 
+Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+greig laidlaw scored twice as scotland came from behind to beat georgia in their opening world cup warm-up match in georgia.
+</Summary>
 
-1. The summary states that Greig Laidlaw scored twice, but the article does not mention this. In fact, the article only mentions one try scored by Laidlaw.
-2. The summary states that Scotland came from behind to beat Georgia, but the article does not mention this. Instead, the article states that Scotland owned possession and territory and got their reward when a rolling maul was hauled to the floor by the Georgian lock, Kote Mikautadze.
-3. The summary states that Scotland scored three tries in the first half, but the article only mentions two tries scored by Scotland in the first half.
-4. The summary states that Georgia scored two tries in the second half, but the article only mentions one try scored by Georgia in the second half.
-5. The summary states that Scotland head coach Vern Cotter said that the team scored three pretty quick tries and kept the ball down the other end, but the article does not mention this quote. Instead, the article quotes Cotter as saying that the team did pragmatically and kept them out of the game.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains errors and inaccuracies in the details of the match.
+1. The summary states that Greig Laidlaw scored twice for Scotland, but the article does not mention Laidlaw scoring any tries.
+2. The article states that Scotland won the match 38-11, but the summary does not mention the final score.
+3. The summary mentions that Scotland came from behind to win, but the article does not mention Georgia leading at any point during the match.
+4. The summary mentions that Greig Laidlaw scored twice, but the article only mentions him converting three tries.
+5. The summary does not mention any of the other Scottish players who scored tries, such as Tommy Seymour, Sean Maitland, Hamish Watson, and Stuart Hogg.
+
+Therefore, the summary is not consistent with the article, as it contains inaccuracies and omits important details. It is likely that the summary was written quickly and without reference to the article, or that it was based on a different source or version of the article.
 
 ###Corrected:

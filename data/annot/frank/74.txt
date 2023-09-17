@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s storey storey retained her olympic 100m title with victory at the track cycling world championships in london. 
+<Article>
+The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005.
+</Article>
 
-    Article: 
-    The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005. 
+<Summary>
+britain\'s storey storey retained her olympic 100m title with victory at the track cycling world championships in london.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Britain's Storey retained her Olympic 100m title, but the article does not mention anything about an Olympic 100m title. The article only mentions the track cycling world championships in London.
-2. The summary states that Storey won the title in London, but the article states that the event was held in Nottwil, Switzerland.
-3. The summary mentions nothing about Paralympic success or Rio de Janeiro, but the article mentions that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro.
-4. The summary states that Storey has won 22 medals, but the article only mentions 21 world titles across both sports.
+1. The article states that the event was held in Nottwil, Switzerland, but the summary claims that the event was held in London.
+2. The article mentions that Storey won the race by more than two minutes, but the summary does not include this information.
+3. The article states that Storey won a 17th title, but the summary does not mention this.
+4. The article mentions that Storey has won 22 medals, including 11 golds, 8 silvers, and 3 bronzes, but the summary does not include this information.
+5. The article states that Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005, but the summary does not include this information.
 
-Therefore, the summary is not consistent with the article because it contains incorrect information about the event, location, and Storey's achievements.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the details of Storey's victory, such as the location of the event, the margin of victory, and Storey's achievements and background.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    adam gadahn , 36 , was killed in january in a u.s. government counterterrorism operation .
-neither he nor ahmed farouq , another u.s. citizen and al qaeda operative who died in what the white house said gadahn was `` likely a separate '' operation .
-warren weinstein , a u.s. citizen who was abducted by al qaeda in pakistan in 2011 , died along with another hostage , italian giovanni lo porto . 
-
-    Article: 
-    ( cnn ) he was known as the american mouthpiece of al qaeda , speaking against his native country on behalf of a terrorist organization that 's devoted blood and resources to attacking it .
+<Article>
+( cnn ) he was known as the american mouthpiece of al qaeda , speaking against his native country on behalf of a terrorist organization that 's devoted blood and resources to attacking it .
 the white house announced thursday that adam gadahn , 36 , was killed in january in a u.s. government counterterrorism operation .
 neither he nor ahmed farouq -- another u.s. citizen and al qaeda operative who died in what the white house said was " likely a separate " operation -- was specifically targeted , according to the statement .
 warren weinstein , a u.s. citizen who was abducted by al qaeda in pakistan in 2011 , died along with another hostage , italian giovanni lo porto , in the attack that killed farouq , according to the white house .
@@ -46,20 +41,24 @@ he called for muslims to work to overthrow governments in saudi arabia and pakis
 cruickshank said gadahn had begun to play an increasingly prominent institutional role inside al qaeda .
 among the documents recovered from osama bin laden 's compound in abbottabad after bin laden 's death was a 2046 letter from gadahn making recommendations for al qaeda 's media strategy .
 gadahn was married to a muslim woman from afghanistan and reportedly had at least one child .
-cnn 's steve almasy contributed to this report . 
+cnn 's steve almasy contributed to this report .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article provided, here are the reasons why the summary is not consistent with the article:
+<Summary>
+adam gadahn , 36 , was killed in january in a u.s. government counterterrorism operation .
+neither he nor ahmed farouq , another u.s. citizen and al qaeda operative who died in what the white house said gadahn was `` likely a separate '' operation .
+warren weinstein , a u.s. citizen who was abducted by al qaeda in pakistan in 2011 , died along with another hostage , italian giovanni lo porto .
+</Summary>
 
-1. The summary states that Adam Gadahn was killed in a U.S. government counterterrorism operation in January, but the article does not mention anything about a specific operation or the date of his death. Instead, the article states that he was killed in a U.S. government operation, but does not provide further details.
-2. The summary states that Gadahn was a U.S. citizen, but the article does not mention his citizenship.
-3. The summary states that Gadahn was killed along with another hostage, Giovanni Lo Porto, but the article does not mention Lo Porto's name or any other hostages.
-4. The summary states that Gadahn was a prominent member of al Qaeda, but the article does not use that word to describe him. Instead, it calls him "one of the group's most prominent members."
-5. The summary states that Gadahn was known as Azzam the American, but the article does not mention that name.
-6. The summary states that Gadahn converted to Islam in 1995, but the article does not mention the year of his conversion.
-7. The summary states that Gadahn was born in 1978, but the article does not mention his birthdate.
-8. The summary states that Gadahn was married to a Muslim woman from Afghanistan and had at least one child, but the article does not mention his marital status or children.
+Explain your reasoning step by step:[/INST]
+  Based on the provided articles, the summary is not consistent with the article. Here's why:
 
-In summary, the summary contains several details that are not present in the article, and some of the details in the article are not present in the summary. Therefore, the summary is not consistent with the article.
+1. The summary states that Adam Gadahn was killed in a U.S. government counterterrorism operation, while the article states that he was killed in a separate operation from Ahmed Farouq. The article does not mention any U.S. government involvement in Gadahn's death.
+2. The summary does not mention Warren Weinstein, an American citizen who was abducted by al Qaeda in Pakistan in 2011 and died along with another hostage, Giovanni Lo Porto. The article mentions Weinstein's death but not Lo Porto's.
+3. The summary does not provide any information about Gadahn's background, such as his conversion to Islam, his parents' change of name, or his rise through the ranks of al Qaeda. The article provides detailed information about Gadahn's background.
+4. The summary does not mention Gadahn's prominent role as an English-language propagandist for al Qaeda, his appearances in videos threatening attacks on American and Western interests, or his calls for Muslims to stage lone-wolf attacks in the United States.
+5. The summary does not mention Gadahn's criticism of President George W. Bush and President Barack Obama, or his addressing of his Jewish ancestry and tearing up of his U.S. passport on camera.
+
+Overall, the summary does not provide a complete or accurate overview of Adam Gadahn's life and activities as an al Qaeda operative. It only mentions his death in a counterterrorism operation without providing any context or details about his background, activities, or significance to al Qaeda.
 
 ###Corrected:

@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    legendary make-up effects artist rick baker will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .
-the grinch costume from the jim carrey film how the grinch stole christmas is listed at $ 8,000 . 
-
-    Article: 
-    fans of blockbusters like men in black , batman forever and how the grinch stole christmas will have a chance to own a piece of hollywood history when an amazing collection of props and puppets goes under the hammer at the end of may .
+<Article>
+fans of blockbusters like men in black , batman forever and how the grinch stole christmas will have a chance to own a piece of hollywood history when an amazing collection of props and puppets goes under the hammer at the end of may .
 the collection , which was created by legendary make-up effects artist rick baker , will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .
 the collection from baker 's cinovation studio is worth an estimated $ 746,100 and some of the individual items are expect to fetch more than $ 40,000 when they are offered to the public for the first time .
 alien edgar bug from men in black has an estimated value of $ 40,000 and could end up selling for much more
@@ -32,20 +28,22 @@ the worm guy from men in black ii has been valued at $ 10,000 and is one of a ha
 this michael jackson robotic transformation face is from the film moonwalker and it has a value of $ 3,000
 the hero joe head from mighty joe young has a value of $ 6,000 .
 baker also worked on planet of the apes .
-this daffy gremlin puppet from gremlins 2 is valued at $ 6,000 and is one of more than 400 of baker 's items 
+this daffy gremlin puppet from gremlins 2 is valued at $ 6,000 and is one of more than 400 of baker 's items
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+legendary make-up effects artist rick baker will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .
+the grinch costume from the jim carrey film how the grinch stole christmas is listed at $ 8,000 .
+</Summary>
 
-1. The summary states that the Grinch costume from the Jim Carrey film "How the Grinch Stole Christmas" is listed at $8,000, but the article does not mention this costume at all.
-2. The summary mentions the Alien Edgar Bug from "Men in Black" as being valued at $40,000, but the article does not mention this item.
-3. The summary states that the two-face mask from "Batman Forever" is valued at $1,500, but the article does not mention this item.
-4. The summary mentions the Mikey costume from "Men in Black" as being one of the pricier lots, but the article does not mention this item.
-5. The summary states that the odd-looking hammerhead alien from "Men in Black" is listed at $8,000, but the article does not mention this item.
-6. The summary mentions the iconic Harry suit from "Harry and the Hendersons" as being valued at $6,000, but the article does not mention this item.
-7. The summary states that the Bat Gremlin from "Gremlins 2: The New Batch" is valued at $8,000, but the article does not mention this item.
-8. The summary mentions the mohawk mogwai puppet from "Gremlins 2: The New Batch" as being listed at $8,000, but the article does not mention this item.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it mentions items that are not mentioned in the article, and it does not mention some of the items that are mentioned in the article.
+1. The article mentions that the auction will include over 400 items from Rick Baker's Cinovation Studio, while the summary only mentions the Grinch costume.
+2. The article lists the estimated values of several items, including the Alien Edgar Bug from Men in Black ($40,000), the two-face mask from Batman Forever ($1,500), and the Mikey costume from Men in Black ($30,000). The summary does not mention any of these items or their estimated values.
+3. The article mentions that the auction will take place at the Hilton Universal City in Los Angeles, California, and on Propstore.com, while the summary only mentions the location as "this May 29."
+4. The article includes quotes from Brandon Alinger of Prop Store, while the summary does not include any quotes or additional information about the auction.
+
+Overall, the summary does not provide a comprehensive overview of the auction and its items, and does not include many of the details mentioned in the article.
 
 ###Corrected:

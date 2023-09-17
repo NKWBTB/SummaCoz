@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the national security agency ( nsa ) has released details of its data details. 
-
-    Article: 
-    Ed Snowden, a 29-year-old former technical worker for the CIA, has since revealed himself to be the source of the leaks in an interview with the Guardian news website.
+<Article>
+Ed Snowden, a 29-year-old former technical worker for the CIA, has since revealed himself to be the source of the leaks in an interview with the Guardian news website.
 US director of national intelligence James Clapper described the leaks as "extremely damaging" to national security, but Mr Snowden said he had acted because he found the extent of US surveillance "horrifying".
 What could the US government see?
 According to the documents revealed by Ed Snowden, the US National Security Agency (NSA) has access on a massive scale to individual chat logs, stored data, voice traffic, file transfers and social networking data of individuals.
@@ -47,21 +44,25 @@ However privacy concerns about information uploaded to the internet have been ar
 "Since many of the world's leading technology companies are based in the US, essentially anyone who participates in our interconnected world and uses popular services like Google or Skype can have their privacy violated through the Prism programme," says  Privacy International on its website.
 "The US government can have access to much of the world's data, by default, with no recourse."
 Edward Snowden, the source of the leaked documents, said he had acted over concerns about privacy.
-"I don't want to live in a society that does these sort of thingsâ€¦ I do not want to live in a world where everything I do and say is recorded," he told the Guardian. 
+"I don't want to live in a society that does these sort of thingsâ€¦ I do not want to live in a world where everything I do and say is recorded," he told the Guardian.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided article, the summary is not consistent with the article because:
+<Summary>
+the national security agency ( nsa ) has released details of its data details.
+</Summary>
 
-1. The summary mentions the NSA releasing details of its data, but the article states that Ed Snowden, a former CIA technical worker, revealed the information through an interview with the Guardian news website.
-2. The summary states that the US government can access individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals, but the article only mentions that the NSA has access to phone records and Prism, a program that enables "backdoor" access to the servers of nine major technology companies.
-3. The summary does not mention the companies named in the article, such as Verizon, Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, and Apple.
-4. The summary does not mention the Prism program's ability to access private posts on social media, web chats, and internet searches, which is mentioned in the article.
-5. The summary does not mention the issue of data-protection laws, which is discussed in the article.
-6. The summary does not mention the fact that user data is often stored in the US and that the US Patriot Act of 2001 gives American authorities new powers over European data stored in this way, which is mentioned in the article.
-7. The summary does not mention the possibility that other governments around the world may be involved in the use of Prism, which is mentioned in the article.
-8. The summary does not mention the EU Justice Commission's concern about the consequences of Prism for EU citizens and its seeking more details from the US authorities, which is mentioned in the article.
-9. The summary does not mention the privacy concerns about information uploaded to the internet and the fact that there is no legal way of "opting out" of monitoring activity carried out in the name of national or global security, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the summary is not consistent with the article because it does not accurately reflect the information and details provided in the article.
+1. The summary is not consistent with the article because:
+
+a. The summary only mentions the National Security Agency (NSA) releasing details of its data, while the article discusses the NSA's surveillance activities and the Prism program, which is not mentioned in the summary.
+
+b. The summary does not provide any specific information about the NSA's data collection, unlike the article which reveals the extent of the NSA's access to individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals.
+
+c. The summary does not mention the companies involved in the Prism program, such as Verizon, Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, and Apple, which are discussed in the article.
+
+d. The summary does not mention the government's access to data through the Prism program, which is a central focus of the article.
+
+2. Therefore, the summary is not a accurate representation of the article's content and is not consistent with the information provided in the article.
 
 ###Corrected:

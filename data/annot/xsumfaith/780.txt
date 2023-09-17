@@ -1,24 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    images courtesy of afp, epa, getty images and climbers and other sea creatures in the ocean have been caught on camera. 
-
-    Article: 
-    Parts of the Mariana Trench in the Pacific Ocean are up to 11 kilometres deep, so we know little about what sea life there is.
+<Article>
+Parts of the Mariana Trench in the Pacific Ocean are up to 11 kilometres deep, so we know little about what sea life there is.
 So a team has been sending down a robotic submarine called Deep Discoverer with a camera on it.
 Science fans or anyone who is just curious can check out what the camera is showing online.
 The three-month expedition is looking for things like fish, mud volcanoes and deep sea coral.
-So far they've spotted shrimp, jellyfish and black pillow lava from an underwater eruption. 
+So far they've spotted shrimp, jellyfish and black pillow lava from an underwater eruption.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+images courtesy of afp, epa, getty images and climbers and other sea creatures in the ocean have been caught on camera.
+</Summary>
 
-1. The summary mentions "images courtesy of AFP, EPA, Getty Images", implying that the article includes images from these sources. However, the article does not mention any images or provide any links to images.
-2. The summary states that the article includes information about "climbers and other sea creatures in the ocean", but the article only mentions "fish, mud volcanoes, and deep sea coral" as the focus of the expedition. There is no mention of climbers or other sea creatures.
-3. The summary mentions a robotic submarine called Deep Discoverer with a camera on it, but the article does not mention any specific submarine or camera. Instead, it mentions a three-month expedition to explore the Mariana Trench using an unspecified underwater vehicle.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it appears that the summary is not accurately representing the content of the article.
+1. The article states that the team is using a robotic submarine called Deep Discoverer to explore the Mariana Trench and that the expedition is looking for things like fish, mud volcanoes, and deep sea coral.
+2. The summary states that "images courtesy of afp, epa, getty images and climbers and other sea creatures in the ocean have been caught on camera."
+3. The article does not mention anything about images or photographs of sea creatures or climbers being caught on camera. Instead, it mentions that the team is using a camera on the Deep Discoverer submarine to explore the trench.
+4. Therefore, the summary is not consistent with the article because it mentions photographs and sea creatures, which are not mentioned in the article.
 
 ###Corrected:

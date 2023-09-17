@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a letting agency has been paid more than # 5.5 m in housing benefit after its owner set up a charity to help the homeless, the bbc has learned. 
-
-    Article: 
-    Investing Solutions received those benefit payments over the past two years by finding properties for single homeless men.
+<Article>
+Investing Solutions received those benefit payments over the past two years by finding properties for single homeless men.
 The charity, Fresh Start Housing, finds clients from London homeless charities.
 Neither the charity nor the company act illegally, but a homeless group says the relationship is "a new low".
 Investing Solutions said "the bulk" of their rents get passed to private landlords, while Fresh Start said they referred clients to both Investing Solutions and private landlords.
@@ -31,23 +28,21 @@ He also said the majority of the properties used were sourced from private secto
 He also said his company was "genuinely concerned by some of your allegations concerning the state of one of our landlord client's property".
 Fresh Start Housing told us it had housed 788 homeless people since it was founded and 222 homeless people in the last 12 months, including re-housed tenants.
 It also said it did not have "authority from the relevant parties" to reveal how many were housed with Investing Solutions.
-A spokeswoman for the Department for Communities and Local Government said local authorities were responsible for "rigorously safe-guarding taxpayers' money, with dedicated investigations and inspection teams for private sector housing". 
+A spokeswoman for the Department for Communities and Local Government said local authorities were responsible for "rigorously safe-guarding taxpayers' money, with dedicated investigations and inspection teams for private sector housing".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the summary is not consistent with the article. Here are the steps:
+<Summary>
+a letting agency has been paid more than # 5.5 m in housing benefit after its owner set up a charity to help the homeless, the bbc has learned.
+</Summary>
 
-Step 1: Identify the main points of the summary
-The summary states that a letting agency has been paid more than £5.5 million in housing benefit, and the agency sets up a charity to help the homeless.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article
-The article states that Investing Solutions, a letting agency, has been paid more than £5.5 million in housing benefit over the past two years. The agency finds properties for single homeless men and charges housing benefit for each person, rather than the property. The charity, Fresh Start Housing, refers clients to both Investing Solutions and private landlords.
+1. The summary states that a letting agency has been paid more than £5.5m in housing benefit, but the article does not mention this amount.
+2. The summary mentions that the owner of the letting agency set up a charity to help the homeless, but the article does not mention this.
+3. The summary does not provide any specific details about the relationship between the letting agency and the charity, while the article explains that the charity refers clients to the letting agency and that the agency makes a profit by housing multiple unrelated people in one property and charging housing benefit for each person.
+4. The summary does not mention the issues with the properties that the tenants have faced, such as lack of heating and hot water, rats, and dampness.
+5. The summary does not mention the fact that the council has paid nearly half of the money to the letting agency over the past two years.
 
-Step 3: Identify inconsistencies
-The inconsistency is that the summary states that the letting agency sets up a charity to help the homeless, while the article does not mention anything about the agency setting up a charity.
-
-Step 4: Analyze the reason for the inconsistency
-The inconsistency is likely due to the fact that the article focuses on the financial aspect of the situation, while the summary tries to add a human element by mentioning a charity. However, the article does not provide any information about the charity, so the summary is not consistent with the article.
-
-In conclusion, the summary is not consistent with the article because it mentions a charity that is not present in the article. The article focuses on the financial aspect of the situation, while the summary tries to add a human element.
+Therefore, the summary is not consistent with the article because it does not provide accurate information about the relationship between the letting agency and the charity, the amount of money involved, and the issues with the properties. The summary is misleading and does not give a true representation of the article's content.
 
 ###Corrected:

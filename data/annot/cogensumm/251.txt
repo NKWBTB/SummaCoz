@@ -1,22 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the group is now the first american artist to perform in the city's 8,000 year old. 
+<Article>
+Nelly managed to make a little history and support the troops battling ISIS on Friday. The St. Louis rapper who shot to fame back in 2000 with his debut album Country Grammar put on a surprise concert for Kurdish fighters battling ISIS in the city of Erbil in Iraq. It was all part of a charity concert put on by the Rwanga Foundation, a non-profit created to help those in the area, and in a press release the group claims that Nelly is now 'the first American artist to perform in the city’s 8,000 year old history.' Scroll down for video . Rapper Nelly performed in Kurdistan on Friday at a benefit concert . The concert was organized by the Rwanga Foundation, a non-profit that was created to help people living in Kurdistan and Iraq . The concert raised money to benefit troops fighting ISIS and those impacted by the recent conflict in the area . The concert was organized to 'promote peace and bring hope to those who need it most' while also raising money for 'those impacted by the recent conflict in the area.' It also helped provide funds to the Kurdish military forces fighting  ISIS . Also performing was Arab Idol’s Ammar Koofy and motocross star André Villa, all during the Xoli Raperin soccer tournament. The concert was originally supposed to be headlined by Akon it seems, and the rapper made an announcement he would be going over last month according to Newsweek, but it seems he dropped out for unknown reasons. Some have taken to social media to say it would have been better if the money used to pay Nelly to perform was just given to the troops . Also performing was Arab Idol’s Ammar Koofy . Some however are less than thrilled and have attacked the non-profit for paying Nelly a reported six-figure appearance fee and not giving the money directly to displaced families and troops. Ranj Talabany wrote on Twitter; 'So apparently #Nelly has been paid $650,000 to perform in #Erbil for peshmerga's. Would be better if money had gone straight to peshmerga.'
+</Article>
 
-    Article: 
-    Nelly managed to make a little history and support the troops battling ISIS on Friday. The St. Louis rapper who shot to fame back in 2000 with his debut album Country Grammar put on a surprise concert for Kurdish fighters battling ISIS in the city of Erbil in Iraq. It was all part of a charity concert put on by the Rwanga Foundation, a non-profit created to help those in the area, and in a press release the group claims that Nelly is now 'the first American artist to perform in the city’s 8,000 year old history.' Scroll down for video . Rapper Nelly performed in Kurdistan on Friday at a benefit concert . The concert was organized by the Rwanga Foundation, a non-profit that was created to help people living in Kurdistan and Iraq . The concert raised money to benefit troops fighting ISIS and those impacted by the recent conflict in the area . The concert was organized to 'promote peace and bring hope to those who need it most' while also raising money for 'those impacted by the recent conflict in the area.' It also helped provide funds to the Kurdish military forces fighting  ISIS . Also performing was Arab Idol’s Ammar Koofy and motocross star André Villa, all during the Xoli Raperin soccer tournament. The concert was originally supposed to be headlined by Akon it seems, and the rapper made an announcement he would be going over last month according to Newsweek, but it seems he dropped out for unknown reasons. Some have taken to social media to say it would have been better if the money used to pay Nelly to perform was just given to the troops . Also performing was Arab Idol’s Ammar Koofy . Some however are less than thrilled and have attacked the non-profit for paying Nelly a reported six-figure appearance fee and not giving the money directly to displaced families and troops. Ranj Talabany wrote on Twitter; 'So apparently #Nelly has been paid $650,000 to perform in #Erbil for peshmerga's. Would be better if money had gone straight to peshmerga.' 
+<Summary>
+the group is now the first american artist to perform in the city's 8,000 year old.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's the reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Nelly is the first American artist to perform in the city's 8,000-year-old history.
-2. However, the article does not mention anything about Nelly being the first American artist to perform in the city. Instead, it states that he was one of the performers at a charity concert put on by the Rwanga Foundation.
-3. The article also mentions that the concert was originally supposed to be headlined by Akon, but he dropped out for unknown reasons.
-4. The summary's claim that Nelly is the first American artist to perform in the city's 8,000-year-old history is not supported by the article.
-5. Additionally, the article mentions that the non-profit organization, Rwanga Foundation, paid Nelly a reported six-figure appearance fee, which has raised some controversy as some people believe the money could have been better spent directly supporting displaced families and troops.
-
-Therefore, the summary is not consistent with the article as it makes a claim that is not supported by the text and also omits other important details mentioned in the article.
+1. The summary states that Nelly is the "first American artist to perform in the city's 8,000 year old history."
+2. However, the article does not mention anything about Nelly being the first American artist to perform in the city. Instead, it states that he was the first American artist to perform in the city of Erbil in Iraq as part of a charity concert.
+3. The article does mention that the Rwanga Foundation, the non-profit organization that organized the concert, claims that Nelly is the first American artist to perform in the city's 8,000 year old history. However, this statement is not supported by any evidence in the article and is likely an exaggeration or a misstatement.
+4. Therefore, the summary is not consistent with the article because it makes a claim that is not supported by the article's content. Specifically, the summary states that Nelly is the first American artist to perform in the city's 8,000 year old history, but the article does not provide any evidence to support this claim.
 
 ###Corrected:

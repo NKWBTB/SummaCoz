@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former james bond star sir roger moore has revealed how he was helped to reach the top in hollywood, in a new 10-minute film celebrating the olympics. 
-
-    Article: 
-    Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
+<Article>
+Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
 Sir Roger talks about how a dialogue coach helped boost his confidence, which helped him forge his career.
 Turning Points has been made for London 2012 Festival, a nationwide arts event.
 The festival is running until 9 September and bringing together leading artists from across the world.
@@ -35,15 +32,19 @@ A social worker told him his life was going to be different, and if he did not c
 "I refused rehab, where I was supposed to go off to another city to be taught how to be a proper, grateful disabled person, threw the Braille card in the bin and have lived exactly the sort of life I always wanted," Tally Evans said.
 "I never saw my social worker again."
 The film also has contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
-Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape." 
+Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+former james bond star sir roger moore has revealed how he was helped to reach the top in hollywood, in a new 10-minute film celebrating the olympics.
+</Summary>
 
-1. The summary states that Sir Roger Moore talked about how a dialogue coach helped him reach the top in Hollywood, but in the article, he only talks about how a dialogue coach helped him boost his confidence.
-2. The summary mentions that the film is about Sir Roger Moore's career, but the article focuses on the Turning Points project and the stories of six people, including Sir Roger Moore.
-3. The summary does not mention the Turning Points project or the other participants in the film, while the article provides detailed information about the project and the participants.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses on Sir Roger Moore's career, while the article focuses on the Turning Points project and the stories of six people.
+1. The summary is not consistent with the article because Sir Roger Moore is not mentioned in the article.
+2. The article is about a film called "Turning Points" directed by Chris Tally Evans, which explores the moment when six people's lives change forever.
+3. The article mentions that the film includes contributions from Welsh athlete Jamie Baulch, artist Ellen Jackman, visually impaired dancer Lyn Street, and filmmaker Chris Tally Evans himself, but it does not mention Sir Roger Moore.
+4. The summary incorrectly states that Sir Roger Moore was helped to reach the top in Hollywood, which is not mentioned in the article.
+5. Therefore, the summary is not consistent with the article and contains incorrect information.
 
 ###Corrected:

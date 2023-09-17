@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a russian jet has been shot dead by a russian jet jet in the syrian capital, ankara, officials say. 
-
-    Article: 
-    The "black box" of the Su-24 jet was officially opened in Moscow on Friday in front of journalists and diplomats.
+<Article>
+The "black box" of the Su-24 jet was officially opened in Moscow on Friday in front of journalists and diplomats.
 Nikolai Primak, head of the Russian investigation, said flight information appeared to be missing.
 Data from the box could help resolve the dispute over the jet's location when it was hit.
 An analysis is expected to be released next week.
@@ -20,17 +17,19 @@ The two countries are heavily involved in Syria but take radically different pos
 The Su-24 was shot down by F-16 fighters on 24 November.
 Both crew members ejected but the pilot was killed, apparently by militants on the ground while the navigator was rescued.
 A Russian marine sent to rescue the crew was also killed and a helicopter destroyed on the ground.
-Russia has demanded an apology from Turkey and in the meantime has imposed sanctions including a ban on package holidays, which could cost Turkey billions of dollars. 
+Russia has demanded an apology from Turkey and in the meantime has imposed sanctions including a ban on package holidays, which could cost Turkey billions of dollars.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a russian jet has been shot dead by a russian jet jet in the syrian capital, ankara, officials say.
+</Summary>
 
-1. The summary states that a Russian jet was shot down by a Russian jet in the Syrian capital, Ankara. However, the article does not mention any Russian jets being shot down in Ankara. Instead, it talks about the downing of a Russian Su-24 jet on November 24th, which was shot down by F-16 fighters.
-2. The summary mentions that the Russian jet was shot down in the Syrian capital, Ankara, but the article does not support this claim. The article states that the Su-24 was shot down within Syrian airspace, not in Ankara.
-3. The summary does not mention the crew members of the Su-24, but the article states that both crew members ejected, and the pilot was killed by militants on the ground while the navigator was rescued.
-4. The summary does not mention the Russian marine sent to rescue the crew, nor the helicopter that was destroyed on the ground.
-5. The summary mentions sanctions imposed by Russia on Turkey, but the article does not mention any specific sanctions.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. It is important to carefully read and understand the information in the article before creating a summary to ensure accuracy and consistency.
+1. The article states that the Su-24 jet was shot down by F-16 fighters on November 24th, while the summary claims that a Russian jet was shot down in the Syrian capital, Ankara. This is inconsistent as Ankara is not a location in Syria, and the Su-24 was shot down in Syrian airspace, not in Ankara.
+2. The article states that both crew members ejected, but the pilot was killed by militants on the ground, while the navigator was rescued. The summary does not mention anything about the crew or their fate.
+3. The article mentions that Russia has imposed sanctions on Turkey, including a ban on package holidays, in response to the downing of the Su-24. The summary does not mention any sanctions or diplomatic fallout.
+
+Therefore, the summary is not consistent with the article as it contains inaccurate information about the location of the incident, the fate of the crew, and the diplomatic fallout.
 
 ###Corrected:

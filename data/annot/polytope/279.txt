@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights .
-it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir . 
-
-    Article: 
-    as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
+<Article>
+as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
 it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
 but now ram and thousands like him are daring to hope they will finally be able to shed the refugee status that has plagued them for decades , after prime minister narendra modi 's hindu nationalist party won a share of power in india 's only muslim-majority state .
 mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
@@ -57,19 +53,24 @@ but he warned the community is ready to take matters into their own hands if the
 ` we will spill our blood on the streets for our rights , ' he says .
 the daughter of a hindu refugee studies in her slum home in surej chak .
 under the current laws she is not allowed to enrolled at a state-run training college or be employed by the state government .
-such laws , argue opponents , make these families ` second class citizens ' 
+such laws , argue opponents , make these families ` second class citizens '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights .
+it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir .
+</Summary>
 
-1. The summary states that Mangu Ram is an old man who has been denied citizenship rights for 70 years, implying that he has been a refugee for that entire time. However, the article states that he fled to Kashmir as a refugee when he was 14 years old, which would have been 70 years ago, but he is now 82 years old, suggesting that he has not been a refugee for the entire 70 years.
-2. The summary states that Mangu Ram is a Hindu, but the article does not mention his religion.
-3. The summary states that the West Pakistan refugees (WPRs) have been denied citizenship rights for three generations, but the article does not mention any specific time frame for when their refugee status began.
-4. The summary states that the WPRs are classified as refugees despite never visiting Pakistan, but the article states that most of them have never visited Pakistan, but they decamped to Jammu and Kashmir state.
-5. The summary states that the WPRs have fallen foul of a pre-independence law that only grants citizenship to people born in the old undivided kingdom of Kashmir, but the article does not mention this law.
-6. The summary states that the community lives in poverty because of their continuing refugee status, but the article states that they have fallen into abject poverty, mainly marrying among themselves because of their low economic status.
-7. The summary states that the tide may soon turn on the rights given to refugees after a pledge by the newly-elected Bharatiya Janata Party to normalize the WPRs' status, but the article does not mention any specific political party or pledge.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the length of time that the WPRs have been denied citizenship rights, emphasizes their religion, and adds details that are not present in the article.
+1. The summary states that Mangu Ram was 14 when he fled to Kashmir as a refugee, and he has been denied citizenship rights for the past 70 years.
+2. The article states that Mangu Ram is 82 years old and has been living in a slum in Jammu, Kashmir for the past 70 years.
+3. The article also states that Mangu Ram and other West Pakistan Refugees (WPRs) have been denied residential rights, including the right to buy land, vote in state polls, or work in the state government.
+4. The article explains that the WPRs have been classified as refugees despite most of them never visiting Pakistan and living in the Jammu region of India.
+5. The article states that successive governments have failed to grant full rights to the WPRs due to a fear of upsetting the demographic balance of the state between the Muslim and Hindu populations.
+6. The article also states that the WPRs have fallen foul of a pre-independence law that only grants citizenship to people born or descendants of those born in the old undivided kingdom of Kashmir.
+7. The summary does not mention any of these details and only states that Mangu Ram has been denied citizenship rights for 70 years, which is not consistent with the article.
+
+Therefore, the summary is not consistent with the article because it does not provide any details about the reasons for Mangu Ram's denied citizenship rights, which are explained in the article. The summary only provides a brief statement about Mangu Ram's situation without providing any context or details.
 
 ###Corrected:

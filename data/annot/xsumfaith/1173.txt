@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the last british man known as " the imran " has died aged 93, his family has announced. 
-
-    Article: 
-    During the first nine months of 1938, he oversaw the Czech Kindertransport, which brought Jewish children from German-occupied Czechoslovakia to safety in the UK.
+<Article>
+During the first nine months of 1938, he oversaw the Czech Kindertransport, which brought Jewish children from German-occupied Czechoslovakia to safety in the UK.
 He worked tirelessly to ensure money was raised and homes were found for the young refugees.
 Yet, amazingly, his self-effacing manner meant that it was 50 years before the full story of his heroic efforts became public knowledge.
 Nicholas George Winton was born on 19 May 1909 in the well-heeled Hampstead district of north London.
@@ -41,18 +38,19 @@ In October 2014, at the age of 105, he travelled to Prague to receive the Czech 
 In his acceptance speech, he was typically modest: "In a way, I shouldn't have lived so long to give everyone the opportunity to exaggerate things the way they are doing today."
 It was another Nobel Peace Prize recipient, Holocaust survivor Elie Wiesel, who summed up the vital role of those who, like Winton, tried to save Europe's Jewish children from the Nazis:
 "In those times there was darkness everywhere. In Heaven and on Earth, all the gates of compassion seemed to have been closed.
-"The killer killed and the Jews died and the outside world adopted an attitude either of complicity or of indifference. Only a few had the courage to care." 
+"The killer killed and the Jews died and the outside world adopted an attitude either of complicity or of indifference. Only a few had the courage to care."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the last british man known as " the imran " has died aged 93, his family has announced.
+</Summary>
 
-1. The summary states that the last British man known as "the Imran" has died aged 93, but the article does not mention anything about a person named Imran.
-2. The summary mentions that Nicholas Winton worked tirelessly to ensure money was raised and homes were found for the young refugees, but the article does not mention this specific detail.
-3. The summary states that Winton was born in 1909 and baptized into Christianity, but the article does not mention his date of birth or religious background.
-4. The summary mentions that Winton was awarded an MBE in 1983 and knighted in 2003, but the article does not mention these specific awards.
-5. The summary states that Winton was nominated for the Nobel Peace Prize in 2008, but the article does not mention this.
-6. The summary mentions that Winton died at the age of 105, but the article does not mention his age at the time of his death.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and omissions compared to the article. It is not a consistent summary of the article's content.
+1. The summary is not consistent with the article because there is no mention of Nicholas Winton in the summary.
+2. The article is about Nicholas Winton and his efforts to rescue Jewish children from Nazi-occupied Czechoslovakia during World War II.
+3. The summary only mentions the death of a British man called "the Imran" with no mention of Nicholas Winton or his accomplishments.
+4. Therefore, the summary is not consistent with the article because it does not mention the main subject of the article, Nicholas Winton.
+5. Additionally, the use of the phrase "the last British man" in the summary is also not consistent with the article because Nicholas Winton was not the last British man to do something notable, as he was a prominent figure in the rescue of Jewish children during World War II.
 
 ###Corrected:

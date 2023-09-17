@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
-firechat launched last year and has been downloaded more than five million times .
-it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework ( mcf ) . 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -55,16 +50,25 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
+firechat launched last year and has been downloaded more than five million times .
+it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework ( mcf ) .
+</Summary>
 
-1. The summary states that Greenstone is a device that helps messages move around wireless mesh networks more easily, but the article does not mention Greenstone as a device. Instead, the article describes Greenstone as a small egg-shaped gadget that acts as a beacon or booster to help messages move around wireless mesh networks.
-2. The summary mentions that Greenstone has been designed to solve the limitations of Apple's Multipeer Connectivity Framework (MCF), such as the 200ft range limit, but the article does not mention any limitations of MCF. Instead, the article explains that MCF creates a localized network in which each phone becomes a node and data is passed between nodes.
-3. The summary states that Greenstone is still under development and only currently works with Firechat at a range of around 20ft (6 meters), but the article does not mention any development status or range limitations for Greenstone.
-4. The summary mentions that Greenstone can hold up to 1,000 of the most recent messages, but the article does not mention this feature.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary seems to be based on a different understanding of Greenstone and its capabilities than the article provides.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that greenstone is an egg-shaped gadget that helps messages move around wireless mesh networks more easily. However, the article does not mention the shape of the device or its purpose of helping messages move around.
+2. The summary mentions that firechat launched last year and has been downloaded more than five million times. However, the article does not provide this information.
+3. The summary takes advantage of a feature that launched in apple's ios 7 called multipeer connectivity framework (mcf). However, the article does not mention this feature or its relation to greenstone.
+4. The summary states that greenstone is still under development and only currently works with firechat at a range of around 20ft (6 meters). However, the article does not mention the development status of greenstone or its range.
+5. The summary mentions that open garden is now working with manufacturers to design and sell greenstone, but the article does not mention this information.
+
+Therefore, the summary is not consistent with the article. It appears to be a separate summary of the article's content, but it does not accurately represent the information provided in the article.
 
 ###Corrected:

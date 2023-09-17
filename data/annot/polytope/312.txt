@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dani alves keeps a close eye on almeria midfielder edgar mendez during barca 's game on wednesday .
-alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
-alves has been linked with manchester united and manchester city . 
-
-    Article: 
-    dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
+<Article>
+dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
 alves has enjoyed seven successful years at barcelona , winning four spanish titles and the champions league twice .
 but the 31-year-old has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
 dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday
@@ -25,15 +20,22 @@ the former sevilla full-back has been linked with manchester united and manchest
 santana said alves has two offers on the table at the moment , but has not yet been approached by big-spending psg .
 ` he has had conversations with future candidates , ' santana said .
 ` psg have not made an offer , but we have two offers of three years . '
-alves has been linked with a number of clubs including manchester united and manchester city 
+alves has been linked with a number of clubs including manchester united and manchester city
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dani alves keeps a close eye on almeria midfielder edgar mendez during barca 's game on wednesday .
+alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
+alves has been linked with manchester united and manchester city .
+</Summary>
 
-1. The summary states that Dani Alves will leave Barcelona this summer, but the article states that he has rejected the club's final contract offer and negotiations are over.
-2. The summary mentions that Alves has been linked with Manchester United and Manchester City, but the article does not mention any specific clubs that have made offers for him.
-3. The summary states that Alves has been unable to agree a new deal with Barcelona, but the article states that he has rejected a three-year contract extension offer from the club.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not supported by the article. Specifically, the summary mentions clubs that have not been mentioned in the article, and it states that Alves will leave Barcelona this summer without providing any context for why or how that decision was made.
+1. The summary states that Dani Alves will leave Barcelona this summer due to being unable to agree a new deal with the club.
+2. The article states that Alves has rejected a three-year contract extension offer from Barcelona, and his agent (and ex-wife) Dinorah Santana confirmed that the negotiations are over.
+3. The summary does not mention the reason for Alves' departure, while the article reveals that it is due to the failed contract negotiations.
+4. The summary mentions that Alves has been linked with Manchester United and Manchester City, but the article does not mention any specific clubs that have made offers for Alves' signature.
+
+Therefore, the summary is not consistent with the article because it does not provide the same level of detail and accuracy as the article. The summary only mentions the fact that Alves will leave Barcelona, but does not provide the reason for his departure or the clubs he has been linked with.
 
 ###Corrected:

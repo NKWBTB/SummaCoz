@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a farmer who built a house castle without planning permission has been ordered to return to court. 
-
-    Article: 
-    Robert Fidler built the house in Salfords, in the Surrey greenbelt, in 2000 and hid it behind hay bales.
+<Article>
+Robert Fidler built the house in Salfords, in the Surrey greenbelt, in 2000 and hid it behind hay bales.
 He told Mr Justice Dove at London's High Court that his "beautiful home" had now been "carefully dismantled".
 "Hopefully, it will be rebuilt on another site with full planning permission," he said.
 At a previous hearing, Mr Fidler, 66, had been told to tear down his home by 6 June or face jail.
@@ -17,15 +14,20 @@ Representing himself, Mr Fidler insisted: "I broke no law. I was looking after m
 He described the four bedroom castle as a "work of art built lawfully", but said he would "fully comply" with the council enforcement notices.
 Mr Justice Dove adjourned the case until 4 July, but said he hoped it would not be necessary for it to return to court.
 Mr Fidler told him: "I assure you we will not have to come back."
-At the end of the hearing, he said to the judge: "When I rebuild my house, I want you to come and see it." 
+At the end of the hearing, he said to the judge: "When I rebuild my house, I want you to come and see it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a farmer who built a house castle without planning permission has been ordered to return to court.
+</Summary>
 
-1. The summary states that Mr. Fidler has been ordered to return to court, but the article states that the case has been adjourned for a month to give Mr. Fidler an opportunity to comply with the council's enforcement notices.
-2. The summary implies that Mr. Fidler has been found in contempt of court, but the article states that the "technical legal position" is that Mr. Fidler remains in contempt of court, but the parties have agreed to adjourn the case.
-3. The summary mentions nothing about the house being "carefully dismantled" or the possibility of rebuilding the house with full planning permission, which are key points in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It is important to ensure that summaries are consistent with the original text to avoid misrepresenting the information.
+1. The summary states that the farmer was ordered to return to court.
+2. However, the article states that the farmer was given an adjournment until 4 July, and that the case may not need to return to court.
+3. Therefore, the summary is not consistent with the article, as it does not accurately reflect the outcome of the court case.
+4. The article states that the farmer was given an adjournment to comply with the council enforcement notices, but the summary does not mention this.
+5. The summary only mentions that the farmer was ordered to return to court, which is not supported by the article.
+6. Therefore, the summary is not a accurate reflection of the article and is not consistent with the information provided.
 
 ###Corrected:

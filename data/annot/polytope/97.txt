@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade
-if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
-matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup 
-
-    Article: 
-    congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+<Article>
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
 it leaves england looking old-fashioned and they need to react .
 stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
 if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
@@ -44,19 +39,24 @@ you simply ca n't let the rfu or premier rugby tie your hands behind your back a
 at toulon , they 've got bryan habana playing for south africa and leigh halfpenny playing for wales .
 they 're among the best players in the world .
 it 's just crazy and misguided not to make any englishman available for selection .
-bryan habana plays for toulon but the springboks have continued to select the winger for test matches 
+bryan habana plays for toulon but the springboks have continued to select the winger for test matches
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade
+if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
+matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup
+</Summary>
 
-1. The summary states that Stuart Lancaster should be free to pick his best players, regardless of where they play, but the article argues that England should drop their policy of not selecting players who play overseas.
-2. The summary mentions Matt Giteau and Drew Mitchell as examples of top-class performers for Toulon, but the article does not mention them.
-3. The summary states that Steffon Armitage would not be playing as well if he was still at London Irish, but the article does not mention Armitage.
-4. The summary suggests that Nick Abendanon has become better since he crossed the channel, but the article does not mention Abendanon.
-5. The summary argues that England should select their best starting XV, but the article states that Lancaster has remained steadfast in his policy not to select overseas players.
-6. The summary states that every player, fan, and Englishman wants England to win the World Cup, but the article does not mention this.
-7. The summary suggests that the RFU or Premier Rugby should not tie Lancaster's hands behind his back and dictate who he can or cannot pick, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's the reasoning step by step:
 
-Overall, the summary presents a different perspective on the issue of selecting overseas players for the England team, and does not accurately reflect the arguments presented in the article.
+1. The summary states that Stuart Lancaster should be free to pick his best players, regardless of where they play.
+2. The article supports this idea by pointing out that if Roy Hodgson's star names moved to Bayern Munich or Barcelona, the FA would not tell him not to pick them.
+3. However, the article also mentions that England head coach Stuart Lancaster has remained steadfast in his policy not to select overseas players.
+4. This means that the summary is not consistent with the article because the article states that Lancaster should be free to pick his best players, but then goes on to say that he has not done so.
+5. The article provides examples of top-class performers for Toulon, such as Matt Giteau and Steffon Armitage, who are not available for selection for England due to their decision to play overseas.
+6. The article argues that this policy is misguided and demeans the World Cup, as the best players should be selected regardless of where they play.
+7. Therefore, the summary is not consistent with the article because it advocates for the selection of the best players, while the article presents a case against such a policy.
 
 ###Corrected:

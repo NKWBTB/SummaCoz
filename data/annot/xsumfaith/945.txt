@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the welsh government has a ``huge market\'\', according to new research from the university of wales (confor). 
-
-    Article: 
-    They believe ministers are placing too much emphasis on the environment at the expense of trees grown for timber.
+<Article>
+They believe ministers are placing too much emphasis on the environment at the expense of trees grown for timber.
 Britain is currently the world's third largest importer of wood.
 Ministers said they were encouraging commercial forestry organisations to invest in woodland creation.
 Conifer forests have been a familiar sight for half a century in Wales and have helped the timber industry grow.
@@ -22,15 +19,19 @@ It said its Woodlands for Wales forestry strategy "sets out how we want Wales to
 Martin Bishop, of Confor, which represents 200 businesses in Wales, believes the emphasis on environmental aspects is seen as "sexier" than commercial forestry.
 He said the current system is also too bureaucratic for creating new woodland areas.
 Mr Bishop said 90 hectares were planted last year but there needed to be 20,000 hectares a year to meet long-term targets set by ministers.
-"There's a huge market for our timber. Every saw miller tells me he would double or treble production if the timber was there to feed that mill," he added. 
+"There's a huge market for our timber. Every saw miller tells me he would double or treble production if the timber was there to feed that mill," he added.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the welsh government has a ``huge market\'\', according to new research from the university of wales (confor).
+</Summary>
 
-1. The summary states that the Welsh government has a "huge market" for its timber, but the article does not support this claim. Instead, it mentions that there is a conflict between environmental policy and commercial forestry, and that the current system is too bureaucratic for creating new woodland areas.
-2. The summary suggests that the Welsh government is placing too much emphasis on the environment at the expense of trees grown for timber, but the article does not provide evidence for this claim. In fact, the article states that the Welsh government wants a balance between the environmental, economic, and social aspects of forestry development.
-3. The summary mentions that the industry is worth over  £450m a year to the Welsh economy, but the article does not provide this information. Instead, it mentions that the current system is too bureaucratic for creating new woodland areas and that 90 hectares were planted last year, but there needs to be 20,000 hectares a year to meet long-term targets set by ministers.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary is too focused on the economic aspects of forestry and does not provide a balanced view of the issues discussed in the article.
+1. The summary states that the Welsh government has a "huge market" for timber, according to new research from the University of Wales (Confor).
+2. However, the article does not mention anything about the Welsh government having a huge market for timber. Instead, it mentions that the forestry industry is worth over £450m a year to the Welsh economy and that there is a conflict between environmental policy and commercial forestry.
+3. The article also mentions that Confor, which represents 200 businesses in Wales, believes that the emphasis on environmental aspects is seen as "sexier" than commercial forestry, and that the current system is too bureaucratic for creating new woodland areas.
+4. Therefore, the summary is not consistent with the article because it misrepresents the content of the article and creates a false impression that the Welsh government has a "huge market" for timber.
+5. The summary is likely based on a misunderstanding or misinterpretation of the article, and it does not accurately reflect the content or message of the article.
 
 ###Corrected:

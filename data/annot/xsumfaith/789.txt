@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a maritime attraction has been cancelled due to a lack of funds, it has been claimed at the centre of a public inquiry. 
-
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
 Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.
 Mr Stewart said the council had ordered a review of the project by auditors.
 He said it had been a "frustrating and disappointing start" to the ferry.
@@ -17,16 +14,21 @@ Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come o
 Transport councillor Ian Ward said compensation was up for discussion.
 He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."
 He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.
-He said groundings were an issue with seamanship, which had been resolved. 
+He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a maritime attraction has been cancelled due to a lack of funds, it has been claimed at the centre of a public inquiry.
+</Summary>
 
-1. The summary states that the maritime attraction has been cancelled due to a lack of funds.
-2. However, the article does not mention anything about the cancellation of the attraction. Instead, it discusses the problems faced by the new ferry service, such as breakdowns, groundings, and training issues.
-3. The article does mention that the council has ordered a review of the project by auditors, but there is no mention of cancellation.
-4. Therefore, the summary is not consistent with the article, as it claims that the attraction has been cancelled, while the article only discusses the problems faced by the ferry service.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it makes a claim (cancellation of the attraction) that is not supported by the information in the article.
+1. The summary states that a maritime attraction has been cancelled due to a lack of funds.
+2. The article does not mention anything about a maritime attraction being cancelled.
+3. The article discusses the issues with the new chain ferry service, including breakdowns, groundings, and training issues.
+4. The article does mention that the council has ordered a review of the project by auditors and that compensation is up for discussion.
+5. There is no mention of a public inquiry in the article.
+
+Therefore, the summary is not consistent with the article. The summary makes a claim about a maritime attraction being cancelled due to a lack of funds, but this is not supported by the information in the article. The article actually discusses issues with the new chain ferry service and the potential for compensation for damaged cars and businesses.
 
 ###Corrected:

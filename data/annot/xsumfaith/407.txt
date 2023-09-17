@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the winner of this year\'s bbc children\'s footballer of the year 2017 has been announced. 
-
-    Article: 
-    Mukherjee's The Lives Of Others, a sweeping account of life in 1960s Calcutta, is 5/2 favourite to win with bookmakers William Hill.
+<Article>
+Mukherjee's The Lives Of Others, a sweeping account of life in 1960s Calcutta, is 5/2 favourite to win with bookmakers William Hill.
 It is the first year that the prize is open to all authors writing in English, regardless of nationality.
 The winner will be announced at London's Guildhall on Tuesday night.
 Former Booker winner Howard Jacobson is among three British writers, two Americans and an Australian on this year's shortlist.
@@ -29,17 +26,21 @@ The announcement of the final six on 9 September caused a sales spike for all th
 This year marks is 46th year of the Booker Prize. The judging panel, chaired by AC Grayling, consists of Sarah Churchwell, Jonathan Bate, Daniel Glaser, Alastair Niven and Erica Wagner.
 Last year, the Booker was won by New Zealand's Eleanor Catton for The Luminaries. At 28, she was the youngest-ever winner.
 The shortlisted authors each receive £2,500 and a specially bound edition of their book.
-Coverage from this year's ceremony, where the prize will be presented by the Duchess of Cornwall. will be on the BBC News Channel from 2130 BST and on BBC Arts. 
+Coverage from this year's ceremony, where the prize will be presented by the Duchess of Cornwall. will be on the BBC News Channel from 2130 BST and on BBC Arts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the winner of this year\'s bbc children\'s footballer of the year 2017 has been announced.
+</Summary>
 
-1. The summary states that the winner of the BBC Children's Footballer of the Year 2017 has been announced, but the article is about the Booker Prize shortlist.
-2. The article is about the Booker Prize, but the summary does not mention anything about the Booker Prize or any of the shortlisted authors.
-3. The article mentions that the prize is open to all authors writing in English, regardless of nationality, but the summary does not mention this detail.
-4. The article mentions that the shortlisted authors each receive £2,500 and a specially bound edition of their book, but the summary does not mention this.
-5. The article mentions that the prize will be presented by the Duchess of Cornwall, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not provide any information about the Booker Prize or the shortlisted authors, and instead refers to a completely different topic (children's football).
+1. The title of the article is "Booker Prize shortlist 2014: The Lives of Others by Neel Mukherjee favored to win".
+2. The title of the summary is "winner of this year's bbc children's footballer of the year 2017 has been announced".
+3. The two titles do not match. The article is about the Booker Prize shortlist, while the summary is about the BBC Children's Footballer of the Year.
+4. The article mentions nothing about children or football.
+5. Therefore, the summary is not consistent with the article.
+
+Note that the summary is incorrect and does not reflect the content of the article. The article is about the Booker Prize shortlist, not the BBC Children's Footballer of the Year.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    singer rod temperton, who wrote the hit album michael jackson, has died at the age of 89. 
-
-    Article: 
-    Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
+<Article>
+Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
 Temperton's other hits included Off The Wall and Baby Be Mine for Jackson and Boogie Nights for his band Heatwave.
 Chic guitarist Nile Rodgers was among those paying tribute, tweeting: "Your genius gave us a funkier world!"
 Michael Jackson's sister LaToya wrote: "A brilliant prolific #songwriter Rod Temperton may you #RIP one of my favorite #songs Rock With You #Thriller #legend #Music #MichaelJackson"
@@ -28,17 +25,20 @@ He once summed up his approach to songwriting: "The first criteria is write some
 In a statement released on Wednesday, Warner/Chappell's Jon Platt said: "His family is devastated and request total privacy at this, the saddest of sad times."
 Vocalist Chaka Khan, who recorded Temperton's tracks with the funk band Rufus, paid tribute, writing on Twitter: "Thank u 4 your superlative songwriting @RodTemperton. U will always Live in Me. Rest in power."
 BBC radio presenter Gilles Peterson wrote: "Apart from Lennon and McCartney no one from the UK has written more gold plated songs than Sir Rod Temperton... a huge loss. RIP"
-Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk. 
+Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+singer rod temperton, who wrote the hit album michael jackson, has died at the age of 89.
+</Summary>
 
-1. Age: The summary states that Rod Temperton died at the age of 89, while the article states that he died at the age of 66.
-2. Songwriting credits: The summary mentions that Temperton wrote the hit album "Michael Jackson," but the article does not mention this. Instead, it states that he wrote three songs for Off the Wall and three more for Thriller.
-3. Grammy Award: The summary states that Temperton won a Grammy Award in 1990 for his work on "Birdland," but the article does not mention this. Instead, it states that he was nominated for two Oscars in 1986 for his work with Quincy Jones on the soundtrack for The Color Purple.
-4. Private funeral: The summary states that Temperton's private funeral has taken place, but the article does not mention this.
-5. Cause of death: The summary states that Temperton died "after a brief aggressive battle with cancer," but the article does not mention the cause of death.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary contains several inaccuracies and exaggerations compared to the article. It is important to ensure that any summaries or summaries of articles are accurate and consistent with the original source.
+1. Inconsistent age: The summary states that Rod Temperton died at the age of 89, while the article states that he died at the age of 66.
+2. Incorrect album: The summary mentions that Temperton wrote the hit album for Michael Jackson, but the article states that he wrote three songs for Off The Wall and three more for Thriller.
+3. Incorrect information: The summary states that Temperton wrote the hit album for Michael Jackson, but the article does not mention any information about a hit album.
+
+Overall, the summary is not consistent with the article because it contains incorrect information and does not accurately reflect the content of the article.
 
 ###Corrected:

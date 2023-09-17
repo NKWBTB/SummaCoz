@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    for three years south sudan has tumbled deeper into self-inflicted chaos, and it now finds itself on the brink of something even more terrifying. 
-
-    Article: 
-    United Nations officials rarely use the words "genocide" and "ethnic cleansing," but they now say potentially both could envelop the world's youngest country.
+<Article>
+United Nations officials rarely use the words "genocide" and "ethnic cleansing," but they now say potentially both could envelop the world's youngest country.
 Since violence flared in Juba in July and spread to the previously peaceful southern Equatoria states of South Sudan, 340,000 people have fled the violence into neighbouring Uganda.
 That is more than any other country this year - the UN says 200,000 people have fled Syria in 2016.
 Every day, on average, another 2,500 South Sudanese become refugees, and the stories of what they escaped and what they saw on the way, add to the evidence of killing, rape and the targeting of civilians along ethnic lines.
@@ -43,23 +40,23 @@ There are so many terrible stories here of what South Sudan is doing to its own 
 Read more:
 'I spent days hiding in a swamp'
 Artists paint for peace
-Uganda: 'One of the best places to be a refugee' 
+Uganda: 'One of the best places to be a refugee'
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+for three years south sudan has tumbled deeper into self-inflicted chaos, and it now finds itself on the brink of something even more terrifying.
+</Summary>
 
-Step 1: Identify the summary's main points.
-The summary mentions that South Sudan is on the brink of something even more terrifying, and that there is potential for genocide and ethnic cleansing.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the article's main points.
-The article states that there is evidence of killing, rape, and targeting of civilians along ethnic lines in South Sudan, and that the violence has displaced over 340,000 people to neighboring Uganda.
+The given summary is not consistent with the article because:
 
-Step 3: Compare the summary's main points with the article's main points.
-The summary's mention of potential genocide and ethnic cleansing is not supported by the article, which focuses on the current violence and displacement in South Sudan. The article does not use language like "genocide" or "ethnic cleansing" to describe the situation.
+Step 1: The summary states that South Sudan is on the brink of something even more terrifying, implying that the situation is about to worsen. However, the article describes the current situation as a "massacre of civilians" and notes that the violence has already spread to other parts of the country.
 
-Step 4: Analyze why the summary is not consistent with the article.
-The summary's use of sensational language and speculation about the future is not supported by the article's focus on the current situation and evidence of violence. The summary's emphasis on potential genocide and ethnic cleansing is not based on the article's facts and evidence.
+Step 2: The summary does not provide any specific information about the nature of the crisis in South Sudan, while the article details the ethnic violence and targeting of civilians along ethnic lines.
 
-In conclusion, the summary is not consistent with the article because it uses sensational language and speculation that is not supported by the article's facts and evidence. The article focuses on the current violence and displacement in South Sudan, without using language like "genocide" or "ethnic cleansing" to describe the situation.
+Step 3: The summary does not mention the displacement of hundreds of thousands of people or the struggles of Uganda in coping with the huge influx of refugees, which are major points in the article.
+
+Therefore, the summary does not accurately reflect the content of the article and is not consistent with it.
 
 ###Corrected:

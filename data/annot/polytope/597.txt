@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mike brown has been advised by leading medics not to play again this season .
-the england full-back has been advised by leading medics not to play again this season .
-brown has been advised by leading medics not to play again this season . 
-
-    Article: 
-    mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
+<Article>
+mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
 the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens at wembley last weekend .
 northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
 england full back mike brown admits he is unsure when he will return to action for club side harlequins
@@ -35,16 +30,23 @@ brown ( right ) says he suffered a headache after playing in england 's clash ag
 ` now i 've been through it i would definitely talk to team-mates urging them not to play on if i thought they were showing symptoms .
 ` at the time you think it 's a pain but now i 'm very glad i took those online modules .
 ` it 's just not worth pushing through . '
-land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2015 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage . 
+land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2015 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mike brown has been advised by leading medics not to play again this season .
+the england full-back has been advised by leading medics not to play again this season .
+brown has been advised by leading medics not to play again this season .
+</Summary>
 
-1. The summary states that Mike Brown has been advised by leading medics not to play again this season, but the article does not mention anything about Brown being advised not to play again this season.
-2. The summary mentions that Brown has been advised not to play again this season due to concussion concerns, but the article only mentions that Brown was knocked out cold in England's 47-17 victory over Italy at Twickenham in February and that he pulled out of the build-up to face Ireland due to symptoms of concussion.
-3. The summary does not include any quotes from Brown about his situation, while the article includes several quotes from Brown about his experience with concussion and his decision to pull out of the Ireland game.
-4. The summary does not mention anything about Northampton wing George North being advised not to play again this season, while the article mentions that North has been advised not to play again this season after suffering four quick-fire concussions.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article and includes information that is not present in the article.
+1. The summary states that Mike Brown has been advised by leading medics not to play again this season.
+2. However, the article does not mention any advice from leading medics for Brown to not play again this season.
+3. Instead, the article states that Brown is taking a cautious approach to his recovery from a concussion and is unsure when he will return to action.
+4. The article also mentions that Brown has suffered a headache after playing in England's clash against France last month and has been advised by the England medical team to take it easy.
+5. Therefore, the summary is not consistent with the article as it does not accurately reflect the information provided in the article.
+
+The error in the summary is that it states Brown has been advised by leading medics not to play again this season, when in fact the article does not mention any such advice. The article only mentions Brown's cautious approach to his recovery and the headache he suffered after playing against France.
 
 ###Corrected:

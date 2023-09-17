@@ -1,26 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hbo documentary `` going clear : scientology and the prison of belief , '' scientologist john travolta is not a fan . travolta says he has not seen the documentary , `` and i do n't really care to '' the actor , one of the church of scientology 's new film , is based on the book `` the forger , '' in clearwater , florida . travolta said he thought the doc was a factor . 
+<Article>
+(CNN)Buzz has surrounded HBO's new documentary "Going Clear: Scientology and the Prison of Belief," but Scientologist John Travolta is not a fan. Travolta told the Tampa Bay Times that he has not seen the documentary, "and I don't really care to." "I've been so happy with my (Scientology) experience in the last 40 years that I really don't have anything to say that would shed light on (a documentary) so decidedly negative," Travolta said. The actor, one of the Church of Scientology's most high-profile members along with stars like Tom Cruise and Kirstie Alley, is premiering his new film, "The Forger," in Clearwater, Florida. The HBO documentary is based on the book "Going Clear: Scientology, Hollywood, and the Prison of Belief" by Lawrence Wright and is critical of the organization, which has close ties to the showbiz industry. Travolta said he believed the doc was a result of "people who were disgruntled with their experiences" with the Church of Scientology, which he touted as a positive experience for him. "I haven't experienced anything that the hearsay has (claimed), so why would I communicate something that wasn't true for me?" Travolta asked. "It wouldn't make sense, nor would it for Tom (Cruise), I imagine." He called Scientology "brilliant" and credited the church with helping him to survive the death of his teen son, Jett, after a seizure while the family was on vacation in the Bahamas in 2009. "Oh, my God, I wouldn't have made it," said Travolta, whose wife, Kelly Preston, is also a member. "Honestly."
+</Article>
 
-    Article: 
-    (CNN)Buzz has surrounded HBO's new documentary "Going Clear: Scientology and the Prison of Belief," but Scientologist John Travolta is not a fan. Travolta told the Tampa Bay Times that he has not seen the documentary, "and I don't really care to." "I've been so happy with my (Scientology) experience in the last 40 years that I really don't have anything to say that would shed light on (a documentary) so decidedly negative," Travolta said. The actor, one of the Church of Scientology's most high-profile members along with stars like Tom Cruise and Kirstie Alley, is premiering his new film, "The Forger," in Clearwater, Florida. The HBO documentary is based on the book "Going Clear: Scientology, Hollywood, and the Prison of Belief" by Lawrence Wright and is critical of the organization, which has close ties to the showbiz industry. Travolta said he believed the doc was a result of "people who were disgruntled with their experiences" with the Church of Scientology, which he touted as a positive experience for him. "I haven't experienced anything that the hearsay has (claimed), so why would I communicate something that wasn't true for me?" Travolta asked. "It wouldn't make sense, nor would it for Tom (Cruise), I imagine." He called Scientology "brilliant" and credited the church with helping him to survive the death of his teen son, Jett, after a seizure while the family was on vacation in the Bahamas in 2009. "Oh, my God, I wouldn't have made it," said Travolta, whose wife, Kelly Preston, is also a member. "Honestly." 
+<Summary>
+hbo documentary `` going clear : scientology and the prison of belief , '' scientologist john travolta is not a fan . travolta says he has not seen the documentary , `` and i do n't really care to '' the actor , one of the church of scientology 's new film , is based on the book `` the forger , '' in clearwater , florida . travolta said he thought the doc was a factor .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that John Travolta has not seen the documentary "Going Clear: Scientology and the Prison of Belief," but the article states that he has not seen the documentary and does not care to.
-
-2. The summary states that Travolta is not a fan of the documentary, but the article states that he has not experienced anything negative with the Church of Scientology and has only positive things to say about it.
-
-3. The summary states that the documentary is based on a book, but the article does not mention this.
-
-4. The summary states that Travolta's new film is premiering in Clearwater, Florida, but the article does not mention this.
-
-5. The summary states that Travolta believes the documentary is a result of "people who were disgruntled with their experiences" with the Church of Scientology, but the article states that he believes the Church of Scientology is brilliant and has helped him survive the death of his teen son.
-
-Overall, the summary is not consistent with the article because it misrepresents Travolta's views on the documentary and the Church of Scientology. The article portrays Travolta as a positive and supportive member of the Church of Scientology, while the summary portrays him as negative towards the documentary.
+1. The summary states that John Travolta is not a fan of the HBO documentary "Going Clear: Scientology and the Prison of Belief."
+2. However, the article states that Travolta has not seen the documentary and has no intention of doing so.
+3. The summary implies that Travolta is not a fan of the documentary because it is critical of the Church of Scientology, but the article does not support this claim.
+4. In fact, the article quotes Travolta as saying that he has been "so happy" with his experience in Scientology over the past 40 years and has no reason to speak negatively about it.
+5. Therefore, the summary is not consistent with the article because it implies that Travolta is not a fan of the documentary due to its critical stance on Scientology, when in fact he has not seen the documentary and has only positive things to say about his experience with the church.
 
 ###Corrected:

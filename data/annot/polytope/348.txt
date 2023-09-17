@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .
-the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two types of flu .
-world health authorities realised that and modified the vaccine to be used in australia this winter . 
-
-    Article: 
-    fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
+<Article>
+fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
 stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .
 the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two types of flu .
 stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against two new strains
@@ -22,19 +17,24 @@ world health authorities realised that and modified the vaccine to be used in au
 ` in fact the vaccine that will be used in the next northern winter will be exactly the same as the one we 'll be using over the next few weeks . '
 dr hampson said people should be booking their flu shots now , given the delay in stocks arriving .
 ` even if people are not in one of the high-risk groups , they are probably coming into contact with people in their own families who are , ' he said .
-` those high-risk groups are harder to protect so it 's great if we can also protect the people around them . ' 
+` those high-risk groups are harder to protect so it 's great if we can also protect the people around them . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the provided summary is not consistent with the article. Here are the steps:
+<Summary>
+stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .
+the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two types of flu .
+world health authorities realised that and modified the vaccine to be used in australia this winter .
+</Summary>
 
-1. The summary states that the vaccine is being modified to include protection against influenza A strain H3N2 and B strain B/Phuket, which is not accurate. The article states that the vaccine is being modified to include protection against two new strains, but it does not specify which strains.
-2. The summary states that the decision to include both strains was triggered by a spike in flu-related deaths in the northern hemisphere, which is partially accurate. The article states that the spike in deaths in Europe and the US was due to the vaccine not providing the right buffer against the diseases, but it does not mention the northern hemisphere.
-3. The summary states that the vaccine will be used in Australia this winter, which is accurate. The article states that the modified vaccine will be used in Australia this winter, but it does not mention the specific time frame.
-4. The summary states that high-risk groups will be able to access free, government-funded flu shots from April 20, which is accurate. The article states that high-risk groups will be able to access free, government-funded flu shots, but it does not mention the specific date.
-5. The summary states that Dr. Alan Hampson said everyone should be getting the vaccine, which is partially accurate. The article states that Dr. Hampson said high-risk groups should be getting the vaccine, but it does not mention everyone.
-6. The summary states that the modified vaccine will provide protection against influenza A strain H1N1, which is not accurate. The article does not mention anything about H1N1.
-7. The summary states that there was a spike in deaths related to H3N2 and B/Phuket in Europe and the US during the northern winter, which is partially accurate. The article states that there was a spike in deaths related to the two new strains in Europe and the US during the northern winter, but it does not mention H3N2 and B/Phuket specifically.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary states that
+1. The article states that the modified vaccine will provide protection against both influenza A strain H3N2 and influenza B strain B/Phuket.
+2. The summary only mentions protection against H3N2 and B/Phuket, but does not mention the inclusion of both strains.
+3. The article states that the decision to include both strains was triggered by a spike in flu-related deaths in the northern hemisphere, as the previous vaccine was not a good match to fight against the two types of flu.
+4. The summary does not mention the reason for including both strains, which is a significant omission.
+5. The article states that high-risk groups, such as the very young and very old, and most indigenous Australians, will be able to access free, government-funded flu shots from April 20.
+6. The summary does not mention anything about high-risk groups or the availability of free flu shots.
+
+Therefore, the summary is not consistent with the article because it omits important information about the reason for including both strains in the vaccine and the availability of free flu shots for high-risk groups.
 
 ###Corrected:

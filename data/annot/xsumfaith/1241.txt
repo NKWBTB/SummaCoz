@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    turkish president recep tayyip erdogan has said fire broke out at offices in istanbul\'s capital, istanbul. 
-
-    Article: 
-    The daily Yeni Safak said its offices and those of Yeni Akit were attacked. No casualties were reported.
+<Article>
+The daily Yeni Safak said its offices and those of Yeni Akit were attacked. No casualties were reported.
 It said four masked assailants attacked the Yeni Safak building. Firefighters quickly extinguished the blaze.
 Police have cordoned off the area around the building.
 The two papers support the governing AK Party of President Recep Tayyip Erdogan.
@@ -14,17 +11,20 @@ The Yeni Akit offices are 20km (12 miles) away from the Yeni Safak building, and
 Windows in both buildings were shattered by the gunfire, Istanbul police said.
 "Numerous spent bullet casings were also found at both scenes," the police added. They are now hunting the assailants.
 So far no group has claimed it was behind the attacks.
-Last September, pro-government protesters attacked the offices of the daily Hurriyet, accusing the paper of misquoting President Erdogan. 
+Last September, pro-government protesters attacked the offices of the daily Hurriyet, accusing the paper of misquoting President Erdogan.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+turkish president recep tayyip erdogan has said fire broke out at offices in istanbul\'s capital, istanbul.
+</Summary>
 
-1. The summary states that Turkish President Recep Tayyip Erdogan said fire broke out at offices in Istanbul's capital, Istanbul. However, the article does not mention President Erdogan making any statement about a fire.
-2. The article states that the Yeni Safak and Yeni Akit buildings were attacked, but the summary does not mention the Yeni Akit building being attacked.
-3. The article states that the attacks happened early on Thursday, but the summary does not mention the day of the week.
-4. The article states that the windows in both buildings were shattered by gunfire and numerous spent bullet casings were found at both scenes, but the summary does not mention any of this information.
-5. The article states that no group has claimed responsibility for the attacks, but the summary does not mention this information.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it omits several key details and includes information that is not present in the article. It is possible that the summary was written based on a different source or that it was mistakenly written based on incomplete or inaccurate information.
+1. The article states that the Yeni Safak and Yeni Akit offices were attacked, but there were no casualties.
+2. The summary states that Turkish President Recep Tayyip Erdogan said fire broke out at offices in Istanbul's capital, Istanbul.
+3. The article does not mention anything about a fire breaking out or the President making a statement about it.
+4. Therefore, the summary is not consistent with the article, as it provides incorrect information about the events.
+5. The article only mentions that the offices were attacked and that there were no casualties, but the summary adds the detail that the President said there was a fire, which is not supported by the article.
+6. The inconsistency is likely due to the fact that the summary is not accurately representing the information in the article.
 
 ###Corrected:

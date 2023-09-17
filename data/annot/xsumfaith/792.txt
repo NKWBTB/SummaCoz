@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested in connection with a gang rape in a convent in kolkata (calcutta), police have said. 
-
-    Article: 
-    The police allege 28-year-old Nazrul, also called Nazu, was the man who raped the 74-year-old nun.
+<Article>
+The police allege 28-year-old Nazrul, also called Nazu, was the man who raped the 74-year-old nun.
 The man, allegedly a Bangladeshi citizen, was arrested at a railway station in Kolkata (Calcutta).
 The incident caused outrage in India and led to street protests in many cities across the country.
 This marks the sixth arrest in the crime.
@@ -14,31 +11,21 @@ Police have identified eight suspects in the attack, of which two still remain u
 "All the five accused arrested earlier have named Nazrul as the person who raped the nun," a police officer told the BBC.
 Dilip Kumar Adak, deputy inspector general of the state's Criminal Investigation Department, told the AFP news agency that police acted on a tip off that Nazu, who had fled to Bangladesh after being identified from CCTV footage of the attack, was due to return to Kolkata by train.
 In May, the police said they had arrested Milon Sarkar and described him as the leader of the gang which attacked the convent. They said it was not clear what role the man had played in the case.
-During the attack in Ranaghat town on 14 March, money was stolen from the convent school and the building ransacked, before the nun was raped in the convent itself. 
+During the attack in Ranaghat town on 14 March, money was stolen from the convent school and the building ransacked, before the nun was raped in the convent itself.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a man has been arrested in connection with a gang rape in a convent in kolkata (calcutta), police have said.
+</Summary>
 
-1. The summary states that a man has been arrested in connection with a gang rape in a convent in Kolkata.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about a gang rape in a convent. Instead, it reports that a 74-year-old nun was raped in a convent school in Ranaghat town on March 14th.
+1. The article states that the police have arrested a man named Nazrul for the gang rape of a 74-year-old nun in a convent in Kolkata.
+2. The summary only states that a man has been arrested in connection with the gang rape, without providing any details about the man's name or nationality.
+3. The article mentions that Nazrul is a Bangladeshi citizen, which is not mentioned in the summary.
+4. The article also mentions that this is the sixth arrest in the case and that eight suspects have been identified, while the summary does not provide any information about the number of arrests or suspects.
+5. The article states that the police acted on a tip-off that Nazrul, who had fled to Bangladesh after being identified from CCTV footage of the attack, was due to return to Kolkata by train, which is not mentioned in the summary.
 
-2. The summary states that the man was arrested at a railway station in Kolkata.
-
-The article does not mention anything about the man being arrested at a railway station. Instead, it states that the man, identified as Nazrul, was arrested in connection with the rape of the nun.
-
-3. The summary states that the incident caused outrage in India and led to street protests in many cities across the country.
-
-While the article does mention that the rape of the nun caused outrage and protests in India, it does not specify that the protests were held in many cities across the country.
-
-4. The summary states that this marks the sixth arrest in the crime.
-
-The article does not mention anything about six arrests being made in connection with the crime. Instead, it states that five accused have been arrested earlier, and that police have identified eight suspects in the attack, of which two still remain untraced.
-
-5. The summary states that all the five accused arrested earlier have named Nazrul as the person who raped the nun.
-
-The article does not mention anything about the accused naming Nazrul as the person who raped the nun. Instead, it states that police have identified Nazrul as the person who raped the nun based on CCTV footage and witness statements.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
+Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the man arrested, his nationality, the number of arrests and suspects, and the circumstances of the arrest.
 
 ###Corrected:

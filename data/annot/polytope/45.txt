@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic ) 
-the survey of 1,100 adults by vehicle leasing firm osv , found that 31 per cent of men have never washed their own car , with only 12 per cent of those that do saying they do it regularly . 
-the rise of hand car washes has been blamed for a decrease in drivers washing their own cars ( file pic ) 
-
-    Article: 
-    it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
+<Article>
+it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
 but new figures show that the art of washing your own car appears to be dying out in britain with a thrid of men admitting they have never picked up a bucket or chamois leather to clean their own motor .
 the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
 a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic )
@@ -24,18 +19,22 @@ audis , toyotas and bmws are most likely to be washed by their owners and range 
 osv spokesman andrew kirkley said : ` a lot of us remember seeing our streets full of men cleaning their cars every sunday .
 it was a national tradition .
 ` but let 's face it , we do n't have as much time any more , the cars are bigger and even the kids do n't seem to want to earn a bit of extra money doing it for us either .
-` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . ' 
+` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic ) 
+the survey of 1,100 adults by vehicle leasing firm osv , found that 31 per cent of men have never washed their own car , with only 12 per cent of those that do saying they do it regularly . 
+the rise of hand car washes has been blamed for a decrease in drivers washing their own cars ( file pic )
+</Summary>
 
-1. The summary states that "a third of men have never picked up a bucket and a chamois leather to wash their own car." However, the article states that "a third of men have never washed their own car." The wording is different, and the summary is not consistent with the article.
-2. The summary mentions "hand car washes" as a reason for the decline in people washing their own cars, but the article does not mention this.
-3. The summary states that "only five per cent of those surveyed said that had ever asked their children to wash the car," but the article does not mention this.
-4. The summary mentions that "brits are more likely to wash their own car during the holidays," but the article does not mention this.
-5. The summary states that "cars are most likely to be washed by their owners every week in Birmingham, Chelmsford, and Sheffield, and least likely in Oxford, Bath, and Edinburgh," but the article does not mention this.
-6. The summary mentions that "Audis, Toyotas, and BMWs are most likely to be washed by their owners," but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that "a third of men have never picked up a bucket and a chamois leather to wash their own car." This statement is not consistent with the article, as the article states that 31% of men have never washed their own car, but does not mention using a bucket and chamois leather.
+2. The summary also states that the rise of hand car washes has been blamed for a decrease in drivers washing their own cars. This is not supported by the article, which does not mention hand car washes as a factor in the decline of self-car washing.
+3. The summary does not provide any information about the reasons for the decline of self-car washing, while the article provides several reasons, such as the rise of automated car washes, the fact that 4x4 and off-road vehicles are too large to clean, and the fact that people have less time.
+4. The summary does not mention the survey of 1,100 adults by vehicle leasing firm OSV, which is a key finding of the article.
+
+Overall, the summary is not a consistent representation of the article's content and leaves out important information.
 
 ###Corrected:

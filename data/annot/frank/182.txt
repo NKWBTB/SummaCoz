@@ -1,28 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    barcelona have rejected a bid from barcelona to sign neymar from barcelona for # [UNK] m (# [UNK] m). 
+<Article>
+However the Spanish champions insisted they had not committed any offence."The aim is to cover eventual interpretations that could be given to the contracts drawn up in the operation to sign Neymar," a club statement read.Barca paid £48.6m for Santos striker Neymar, 22, in the summer with his parents receiving £34m of the fee.Between the initial fee paid in the summer, signing-on fee, wages during his five-year deal, agents fees and this latest tax payment, Neymar will have cost the club £106.8mLast month, Sandro Rosell resigned as Barcelona president following accusations he misappropriated money.He is also being investigated but denies any wrongdoing.At the time of the move, Barcelona said they had paid 57m euros (£48.6m) for Neymar but it has been alleged that, if other contracts are taken into account, the actual cost of the player was far greater.And last week a judge in Spain ruled there was sufficient evidence against Barcelona to continue investigations into the transfer.The club added: "The board denies the existence of any tax-related crime in relation to the fiscal obligations arising from the signing of the player."Given the existence of a possible divergent interpretation of the exact amount of tax responsibility arising from the signing and to defend the club's reputation and good name, FC Barcelona has this morning made a complimentary tax declaration of a total of 13,550,830.56 euros [...] although we remain convinced that the original tax payment was in line with our fiscal obligations."There has not yet been any confirmation whether the case will be dropped after Barcelona's payment.Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches.
+</Article>
 
-    Article: 
-    However the Spanish champions insisted they had not committed any offence."The aim is to cover eventual interpretations that could be given to the contracts drawn up in the operation to sign Neymar," a club statement read.Barca paid £48.6m for Santos striker Neymar, 22, in the summer with his parents receiving £34m of the fee.Between the initial fee paid in the summer, signing-on fee, wages during his five-year deal, agents fees and this latest tax payment, Neymar will have cost the club £106.8mLast month, Sandro Rosell resigned as Barcelona president following accusations he misappropriated money.He is also being investigated but denies any wrongdoing.At the time of the move, Barcelona said they had paid 57m euros (£48.6m) for Neymar but it has been alleged that, if other contracts are taken into account, the actual cost of the player was far greater.And last week a judge in Spain ruled there was sufficient evidence against Barcelona to continue investigations into the transfer.The club added: "The board denies the existence of any tax-related crime in relation to the fiscal obligations arising from the signing of the player."Given the existence of a possible divergent interpretation of the exact amount of tax responsibility arising from the signing and to defend the club's reputation and good name, FC Barcelona has this morning made a complimentary tax declaration of a total of 13,550,830.56 euros [...] although we remain convinced that the original tax payment was in line with our fiscal obligations."There has not yet been any confirmation whether the case will be dropped after Barcelona's payment.Neymar has scored seven goals in 18 league appearances for Barcelona this season, as well as netting three in seven Champions League matches. 
+<Summary>
+barcelona have rejected a bid from barcelona to sign neymar from barcelona for # [UNK] m (# [UNK] m).
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-Step 1: The summary states that Barcelona rejected a bid from Barcelona to sign Neymar from Barcelona. This is not consistent with the article, as there is no mention of any bid from Barcelona to sign Neymar.
-
-Step 2: The summary mentions that Barcelona paid £48.6m for Neymar, which is correct. However, the article states that Barcelona paid 57m euros (£48.6m) for Neymar, which is a different amount.
-
-Step 3: The summary states that Neymar will have cost the club £106.8m, which is not mentioned in the article. The article only mentions the amount of money that Barcelona paid for Neymar, without mentioning any additional costs.
-
-Step 4: The summary mentions that Sandro Rosell resigned as Barcelona president following accusations he misappropriated money, which is not mentioned in the article.
-
-Step 5: The summary states that a judge in Spain ruled there was sufficient evidence against Barcelona to continue investigations into the transfer, which is mentioned in the article. However, the article states that the club denies any wrongdoing and that the judge's ruling does not imply any wrongdoing on the part of Barcelona.
-
-Step 6: The summary mentions that Barcelona made a complimentary tax declaration of a total of 13,550,830.56 euros, which is not mentioned in the article.
-
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations.
+1. The summary states that Barcelona has rejected a bid from Barcelona to sign Neymar from Barcelona for an unknown amount (# [UNK] m).
+2. However, the article states that Barcelona paid £48.6m for Neymar from Santos, and the total cost of the player including agents fees and taxes is £106.8m.
+3. Therefore, the summary is not consistent with the article because there is no mention of any bid or transfer fee in the summary, while the article clearly states that Barcelona paid a significant amount of money for Neymar.
+4. Additionally, the summary mentions Neymar being signed from Barcelona, which is not accurate as Neymar was signed from Santos, not Barcelona.
+5. Therefore, the summary is not a correct summary of the article and contains several factual errors.
 
 ###Corrected:

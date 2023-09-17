@@ -1,22 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    contraband have been thrown over the wall of a wall in chelmsford prison, the justice secretary has said. 
+<Article>
+Chelmsford Prison told residents there had recently been "numerous incidents" of packages being hurled over the wall.One former inmate said the jail was "notorious" for being "flooded" with mobile phones and synthetic cannabis.The Ministry of Justice said staff worked "extremely hard" to stop contraband from getting into prisons."However more must be done, which is why the Justice Secretary has asked us to look at how we can ensure prisons have the tools in place to tackle this kind of problem," the spokeswoman added.Follow updates on this story and other news from EssexA woman who lives near the prison, who did not want to be named, said she had witnessed packages being thrown over the wall "four times in two weeks.""It's getting quite bad at the minute. The prison wants us to come to an evening to talk about what to do if anything does get thrown over," she said."I don't feel frightened, but obviously it's not nice - I always lock the doors and everything."The former inmate claimed drones were used to fly contraband goods "straight up to prison windows", but the Ministry of Justice said there was no evidence of drones coming into the Chelmsford site.The spokeswoman said laws had been introduced which mean people who smuggle packages over prison walls could be jailed for up to two years.
+</Article>
 
-    Article: 
-    Chelmsford Prison told residents there had recently been "numerous incidents" of packages being hurled over the wall.One former inmate said the jail was "notorious" for being "flooded" with mobile phones and synthetic cannabis.The Ministry of Justice said staff worked "extremely hard" to stop contraband from getting into prisons."However more must be done, which is why the Justice Secretary has asked us to look at how we can ensure prisons have the tools in place to tackle this kind of problem," the spokeswoman added.Follow updates on this story and other news from EssexA woman who lives near the prison, who did not want to be named, said she had witnessed packages being thrown over the wall "four times in two weeks.""It's getting quite bad at the minute. The prison wants us to come to an evening to talk about what to do if anything does get thrown over," she said."I don't feel frightened, but obviously it's not nice - I always lock the doors and everything."The former inmate claimed drones were used to fly contraband goods "straight up to prison windows", but the Ministry of Justice said there was no evidence of drones coming into the Chelmsford site.The spokeswoman said laws had been introduced which mean people who smuggle packages over prison walls could be jailed for up to two years. 
+<Summary>
+contraband have been thrown over the wall of a wall in chelmsford prison, the justice secretary has said.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that contraband has been thrown over the wall of Chelmsford Prison, but the article does not mention this. Instead, the article mentions that packages have been hurled over the wall, which is a different type of contraband.
-2. The summary mentions that the Justice Secretary has said that contraband has been thrown over the wall, but the article does not quote any Justice Secretary making this statement. Instead, the article quotes a Ministry of Justice spokeswoman.
-3. The summary states that the Ministry of Justice said staff work "extremely hard" to stop contraband from getting into prisons, but the article does not mention this. Instead, the article states that the Ministry of Justice has introduced laws to punish those who smuggle packages over prison walls.
-4. The summary mentions that a woman who lives near the prison has witnessed packages being thrown over the wall four times in two weeks, but the article does not mention this.
-5. The summary mentions that drones are being used to fly contraband goods "straight up to prison windows", but the article does not mention this. Instead, the article states that there is no evidence of drones coming into the Chelmsford site.
-
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and leaves out other important details that are present in the article.
+1. The summary states that contraband has been thrown over the wall of Chelmsford Prison.
+2. The article does not mention anything about contraband being thrown over the wall. Instead, it talks about packages being hurled over the wall and the prison being "flooded" with mobile phones and synthetic cannabis.
+3. The article also mentions that the Ministry of Justice is working to stop contraband from getting into prisons, but there is no mention of contraband being thrown over the wall.
+4. The former inmate in the article claims that drones are being used to fly contraband goods "straight up to prison windows", but the Ministry of Justice denies this.
+5. Therefore, the summary is not consistent with the article because it mentions contraband being thrown over the wall, which is not supported by the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack grealish must concentrate on his aston villa career rather than his international future .
-sherwood is now at the centre of a tug of war between the republic of ireland and england .
-sherwood is now at the centre of a tug of war between the republic of ireland and england . 
-
-    Article: 
-    jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
+<Article>
+jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
 sherwood has been impressed with the 19-year-old who starred for villa in their fa cup semi-final win over liverpool on sunday and is now at the centre of a tug of war between the republic of ireland and england .
 but sherwood wants grealish to focus on continuing to force his way into the villa first team .
 jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley
@@ -37,15 +32,21 @@ he had a good game against [ liverpool ] and a few games decent recently and he 
 ` it is going to be a difficult decision and it is completely up to jack .
 ` there is a friendly coming up soon and he could play 45 minutes for ireland and 45 minutes for england .
 grealish ( left ) has played for the republic of ireland 's youth teams but england will hope to turn his head
-tim sherwood celebrates villa 's win over liverpool and wants more of the same from grealish 
+tim sherwood celebrates villa 's win over liverpool and wants more of the same from grealish
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+jack grealish must concentrate on his aston villa career rather than his international future .
+sherwood is now at the centre of a tug of war between the republic of ireland and england .
+sherwood is now at the centre of a tug of war between the republic of ireland and england .
+</Summary>
 
-1. The summary states that Sherwood is at the center of a tug of war between the Republic of Ireland and England, while the article only mentions that Sherwood wants Grealish to focus on continuing to force his way into the Villa first team.
-2. The summary suggests that Grealish must concentrate on his international future, while the article quotes Sherwood as saying that it's up to Grealish to decide where he wants to go and that he should focus on his Aston Villa career first.
-3. The summary mentions that Grealish is wanted by both the Republic of Ireland and England, while the article only mentions that Grealish has played for the Republic of Ireland's youth teams but England will hope to turn his head.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary takes a more sensationalist approach and exaggerates the situation by implying that there is a tug of war between two countries, while the article presents a more balanced and realistic view of the situation.
+1. The summary states that Jack Grealish must concentrate on his Aston Villa career rather than his international future.
+2. However, the article states that Tim Sherwood wants Grealish to focus on continuing to force his way into the Villa first team, but also emphasizes that the decision of which country Grealish should play for is ultimately up to Grealish himself.
+3. The summary does not accurately reflect the article's message that Grealish has options for both the Republic of Ireland and England, and that the decision is ultimately up to Grealish.
+4. The summary also does not include the article's mention of Sherwood's advice to Grealish to follow his heart and the fact that Grealish's father also agrees that his son must concentrate on his club football first.
+5. Therefore, the summary is not consistent with the article and does not accurately reflect the main points or messages conveyed in the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a film based on sir roger gwent\'s life has been released in london. 
-
-    Article: 
-    Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
+<Article>
+Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
 Sir Roger talks about how a dialogue coach helped boost his confidence, which helped him forge his career.
 Turning Points has been made for London 2012 Festival, a nationwide arts event.
 The festival is running until 9 September and bringing together leading artists from across the world.
@@ -35,15 +32,21 @@ A social worker told him his life was going to be different, and if he did not c
 "I refused rehab, where I was supposed to go off to another city to be taught how to be a proper, grateful disabled person, threw the Braille card in the bin and have lived exactly the sort of life I always wanted," Tally Evans said.
 "I never saw my social worker again."
 The film also has contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
-Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape." 
+Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a film based on sir roger gwent\'s life has been released in london.
+</Summary>
 
-1. The summary mentions a film based on Sir Roger Gwent's life, but the article does not mention any film about Sir Roger Gwent.
-2. The summary mentions a dialogue coach helping Sir Roger Gwent boost his confidence, but the article does not mention any dialogue coach or any information about Sir Roger Gwent's confidence.
-3. The summary mentions the film being released in London, but the article does not mention any information about the film being released in London.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article. The article is about Turning Points, a film made by Chris Tally Evans, and it does not mention any film about Sir Roger Gwent.
+1. The summary states that a film based on Sir Roger Gwent's life has been released in London.
+2. However, the article does not mention anything about a film based on Sir Roger Gwent's life.
+3. The article is actually about a film called "Turning Points" directed by Chris Tally Evans, which explores the moment when six people's lives change forever.
+4. The article mentions Sir Roger Gwent as one of the participants in the film, but there is no mention of a film based on his life.
+5. Therefore, the summary is not consistent with the article because it implies that the film is about Sir Roger Gwent's life, while the article is actually about a different film called "Turning Points".
+
+Overall, the summary is not accurate because it misrepresents the content of the article.
 
 ###Corrected:

@@ -1,23 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested on suspicion of murder after a man was found dead at a house in dorset. 
-
-    Article: 
-    Police were called to the A35 at Bloxworth, near Wareham, at about 09:10 BST after they were discovered by a dog walker.
+<Article>
+Police were called to the A35 at Bloxworth, near Wareham, at about 09:10 BST after they were discovered by a dog walker.
 Tests are under way to "determine the contents" of the cigarettes and HM Revenue and Customs has been informed.
-Dorset Police urged anyone who may have found other packets in "unusual circumstances" to contact them. No arrests have been made. 
+Dorset Police urged anyone who may have found other packets in "unusual circumstances" to contact them. No arrests have been made.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+a man has been arrested on suspicion of murder after a man was found dead at a house in dorset.
+</Summary>
 
-1. The summary states that a man has been arrested on suspicion of murder, but the article does not mention any arrests being made. This is a clear inconsistency between the summary and the article.
-2. The summary mentions a man being found dead at a house in Dorset, but the article does not mention any death or fatality.
-3. The article only mentions that police were called to the A35 at Bloxworth, near Wareham, after they were discovered by a dog walker, and that tests are underway to determine the contents of the cigarettes.
-4. There is no mention of murder or any other criminal activity in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article. The summary contains information that is not present in the article, specifically the mention of a man being found dead and a murder investigation.
+1. The article states that police were called to the A35 at Bloxworth, near Wareham, after they were discovered by a dog walker.
+2. The article does not mention anything about a man being found dead at a house in Dorset.
+3. The summary states that a man has been arrested on suspicion of murder after a man was found dead at a house in Dorset.
+4. Therefore, the summary is not consistent with the article because there is no mention of a man being found dead at a house in Dorset in the article.
+5. The summary is likely incorrect or misleading because it contains information that is not supported by the article.
 
 ###Corrected:

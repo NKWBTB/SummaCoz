@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the former head of the child sex abuse inquiry, sir edward heath, has called on the uk government to investigate allegations of child sex abuse. 
-
-    Article: 
-    Myra Forde's ex-lawyer says she did not state that the late PM was a client, nor did she threaten to expose him if a prosecution against her was continued.
+<Article>
+Myra Forde's ex-lawyer says she did not state that the late PM was a client, nor did she threaten to expose him if a prosecution against her was continued.
 Forde says she has "no knowledge of any misconduct on his part" and recent media coverage had caused her distress.
 The UK's historical child sex abuse inquiry is to examine claims about Sir Edward if "the facts justify it".
 The Metropolitan, Wiltshire, Hampshire, Jersey and Kent forces are conducting separate inquiries into the late MP.
@@ -25,15 +22,19 @@ Sir Edward, who was Conservative prime minister from 1970 to 1974, died aged 89 
 Wiltshire Police has declined to comment on the claims that it did not follow up accusations against him during his lifetime, but has appealed for information regarding allegations against Sir Edward.
 Meanwhile, Labour MP Tom Watson said he had referred two allegations of child sexual abuse by Sir Edward to the police since 2012, with police confirming that at least one of those allegations was being investigated.
 Friends of Sir Edward have dismissed the claims, saying there is not a shred of evidence to link him to abuse.
-The Sir Edward Heath Charitable Foundation, which operates the museum at Arundells, his home in Salisbury, said it "wholeheartedly" believed the investigation would clear Sir Edward's name. 
+The Sir Edward Heath Charitable Foundation, which operates the museum at Arundells, his home in Salisbury, said it "wholeheartedly" believed the investigation would clear Sir Edward's name.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the former head of the child sex abuse inquiry, sir edward heath, has called on the uk government to investigate allegations of child sex abuse.
+</Summary>
 
-1. The summary states that Sir Edward Heath has called for an investigation into allegations of child sex abuse, but the article states that it is the UK government, not Sir Edward Heath, that is being called upon to investigate the allegations.
-2. The summary states that Myra Forde, a former lawyer of Sir Edward Heath, stated that he was a client of hers and threatened to expose him if a prosecution against her was continued, but the article states that Forde's solicitor, Richard Griffiths, has spoken on her behalf to clarify that she never stated that Sir Edward Heath was a client and has no knowledge of any misconduct on his part.
-3. The summary states that the UK's historical child sex abuse inquiry is to examine claims about Sir Edward Heath, but the article states that the inquiry has not received any direct allegations about Sir Edward Heath.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. Specifically, it misrepresents the position of Myra Forde and the UK government's role in investigating allegations against Sir Edward Heath.
+1. The summary states that the former head of the child sex abuse inquiry, Sir Edward Heath, has called on the UK government to investigate allegations of child sex abuse.
+2. However, the article states that Sir Edward Heath is deceased and has been since 2005. Therefore, it is not possible for him to have called on the government to investigate anything.
+3. The summary is not consistent with the article because it implies that Sir Edward Heath is still alive and capable of making requests, when in fact he has been deceased for over 15 years.
+4. The article does mention that there are ongoing investigations into allegations of child sex abuse, but these investigations are not related to Sir Edward Heath himself, as he is not a subject of the investigations.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

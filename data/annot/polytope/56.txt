@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the croatian-born model , pictured , claimed she collapsed at home due to ` low blood pressure ' 
-italian media claimed ms moric , pictured , was found in her apartment by her mother on saturday night 
-ms moric , pictured , reassured her many fans she only needed some time to recover from her fall  
-
-    Article: 
-    a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
+<Article>
+a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
 nina moric , 38 , posted several photographs of heavy bruising on her arms on her instagram account which has more than 40,000 users .
 italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend in milan .
 nina moric , pictured , took to instagram to deny claims that she tried to take her own life over the weekend
@@ -33,17 +28,25 @@ she was once married to famous paparazzi snapper fabrizio corona , 41 , who ende
 corona , the ` king ' of italy 's paparazzi , was jailed for blackmailing celebs with compromising photographs .
 corona 's scoops helped fuel the celebrity tv culture driven by former prime minister silvio berlusconi 's channels and publications .
 he claimed he never blackmailed celebrities he snapped , merely offering them first option to buy the photos at the rate he would have sold them to publications .
-but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . ' 
+but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the croatian-born model , pictured , claimed she collapsed at home due to ` low blood pressure ' 
+italian media claimed ms moric , pictured , was found in her apartment by her mother on saturday night 
+ms moric , pictured , reassured her many fans she only needed some time to recover from her fall 
+</Summary>
 
-1. The summary states that Nina Moric collapsed at home due to low blood pressure, but the article states that she was taken to the hospital due to a domestic accident and fell, banging her head, and hurting everywhere.
-2. The summary does not mention anything about Italian media claiming that Moric tried to take her own life, while the article mentions that Italian media reported that Moric tried to commit suicide.
-3. The summary does not mention anything about Moric's boyfriend, Luigi Mario Favoloso, suggesting that she tried to commit suicide, while the article mentions that he did so.
-4. The summary does not mention anything about Moric's previous attempt to commit suicide in 2009, while the article mentions it.
-5. The summary does not mention anything about Moric's ex-husband, Fabrizio Corona, being jailed for blackmailing celebrities, while the article mentions it.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide an accurate representation of the article's content. It leaves out important details and includes information that is not supported by the article.
+The provided summary is not consistent with the article because it leaves out important details and includes inaccurate information. Here's a step-by-step explanation of why the summary is not consistent with the article:
+
+1. The summary states that Nina Moric collapsed at home due to low blood pressure, but the article reveals that she was taken to the hospital due to a domestic accident and fell banging her head, which caused her injuries.
+2. The summary does not mention that Italian media reported that Moric tried to take her own life, which is a significant detail that is included in the article.
+3. The summary states that Moric was found in her apartment by her mother on Saturday night, but the article states that her boyfriend Luigi Mario Favoloso suggested that she tried to commit suicide, which is not mentioned in the summary.
+4. The summary does not include any information about Moric's history with her ex-husband Fabrizio Corona, such as his imprisonment for blackmailing celebrities with compromising photographs, which is included in the article.
+5. The summary does not mention that Moric denied the suicide claims and told her fans that she was well and had no intention to end her own life, which is a crucial detail that is included in the article.
+
+Overall, the summary leaves out important details and includes inaccurate information, which makes it not consistent with the article.
 
 ###Corrected:

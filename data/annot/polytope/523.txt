@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    cesc fabregas was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
-the 27-year-old spoke of his happiness in south west london earlier this week but has significantly dipped from that of the player who , around christmas , looked a dead-cert to break the barclays premier league record for assists .
-after a brilliant start to the season at stamford bridge , the spaniard 's form has dropped off somewhat of late . 
-
-    Article: 
-    it seems an accepted trend that chelsea midfielder cesc fabregas struggles during the second half of the season and the spanish midfielder was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
+<Article>
+it seems an accepted trend that chelsea midfielder cesc fabregas struggles during the second half of the season and the spanish midfielder was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
 the 27-year-old spoke of his happiness in south west london earlier this week but his form has significantly dipped from that of the player who , around christmas , looked a dead-cert to break the barclays premier league record for assists .
 on tuesday - his first international appearance since october - he was given just four out of 10 by one spanish newspaper and while his season is likely to end in success with the premier league title following a capital one cup win , questions remain about fabregas ' durability .
 cesc fabregas ( right ) captained spain on tuesday but his poor form continued as they lost 2-0 in holland
@@ -37,16 +32,22 @@ the personal accolade will be important to the midfielder , but more key is the 
 chelsea could need as many as six wins from their remaining nine games , and if fabregas finds form again the premier league title could be wrapped up within weeks .
 mourinho will hope his assist for diego costa in chelsea 's last game against hull city is a sign of a late-season resurgence to prove any doubters wrong .
 fabregas laid on an assist for costa in chelsea 's 3-17 win over hull city , but that was his first in five games
-mourinho is looking to guide his team over the line in the premier league title race , with fabregas a key cog 
+mourinho is looking to guide his team over the line in the premier league title race , with fabregas a key cog
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+cesc fabregas was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
+the 27-year-old spoke of his happiness in south west london earlier this week but has significantly dipped from that of the player who , around christmas , looked a dead-cert to break the barclays premier league record for assists .
+after a brilliant start to the season at stamford bridge , the spaniard 's form has dropped off somewhat of late .
+</Summary>
 
-1. The summary states that Cesc Fabregas was one of the worst players on the pitch in Spain's 2-0 defeat by Holland, but the article does not mention this. Instead, the article states that Fabregas struggled to make an impact in midfield and was given a low rating by one Spanish newspaper.
-2. The summary mentions that Fabregas has significantly dipped in form since Christmas, but the article does not mention this. Instead, the article states that Fabregas has struggled in recent weeks, but does not provide a specific time frame.
-3. The summary states that Fabregas has only one assist in five games, but the article states that he has one assist in 15 games for club and country in 2015.
-4. The summary mentions that Fabregas is on track to fall short of Thierry Henry's record for assists in a Premier League season, but the article does not mention this. Instead, the article focuses on Fabregas' current form and Chelsea's need for him to find form again to win the Premier League title.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates Fabregas' poor form and focuses on specific statistics that are not supported by the article. The article presents a more balanced view of Fabregas' recent form and Chelsea's need for him to improve in the remaining games of the season.
+1. The summary states that Cesc Fabregas was one of the worst players on the pitch in Spain's 2-0 defeat to Holland on Tuesday.
+2. The article, however, states that Fabregas struggled during the second half of the season and has significantly dipped in form from the player who looked a dead-cert to break the Premier League record for assists around Christmas.
+3. The summary does not provide any information about Fabregas' form dipping in the second half of the season, nor does it mention the player's struggles in recent games.
+4. The article highlights that Fabregas has struggled in recent games, with just one assist in five games for club and country in 2015, and has failed to make an impact in midfield in several matches.
+5. The summary does not mention Fabregas' lack of form in recent games, nor does it provide any specific examples of his struggles.
+6. Therefore, the summary is not consistent with the article, as it does not accurately reflect Fabregas' form and struggles in recent games.
 
 ###Corrected:

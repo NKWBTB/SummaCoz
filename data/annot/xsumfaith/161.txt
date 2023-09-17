@@ -1,29 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    work has started on the construction of a new nuclear power station in west yorkshire. 
-
-    Article: 
-    The site at Knottingley, West Yorkshire is to burn fuel from refuse, industrial and commercial waste including wood, said operator Multifuel Energy Ltd.
+<Article>
+The site at Knottingley, West Yorkshire is to burn fuel from refuse, industrial and commercial waste including wood, said operator Multifuel Energy Ltd.
 The Â£300m plant is to create hundreds of jobs over a three-year build and should produce electricity for about 160,000 homes, it said.
 The adjoining coal-fired Ferrybridge 'C' plant is to close in March 2016, it was announced in May.
 The Secretary of State has granted development consent for the new plant.
 Construction is expected to begin in 2016 with about 35 permanent jobs once it is operational.
 The power station is expected to produce up to 90MWe of electricity annually by burning 675,000 tonnes of waste that could have ended up in landfill, said Multifuel Energy
 It is to be built next to the newly-constructed Ferrybridge Multifuel 1 that stated operations earlier this year.
-Multifuel Energy is a joint venture between power company SSE and and waste management company Wheelabrator Technologies. 
+Multifuel Energy is a joint venture between power company SSE and and waste management company Wheelabrator Technologies.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+work has started on the construction of a new nuclear power station in west yorkshire.
+</Summary>
 
-1. The summary states that work has started on the construction of a new nuclear power station in West Yorkshire.
-2. However, the article does not mention anything about a nuclear power station. Instead, it talks about a waste-to-energy plant that will be built next to an existing coal-fired power station.
-3. The article states that the new plant will produce electricity from burning waste, but the summary does not mention this detail.
-4. The summary also mentions that the plant will create hundreds of jobs, but the article only mentions that the project is expected to create about 35 permanent jobs once it is operational.
-5. Finally, the summary does not mention the name of the operator of the plant, Multifuel Energy Ltd, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains incorrect information about the type of power station being built and the number of jobs it will create.
+1. The article states that the new power station will be built next to the Ferrybridge Multifuel 1, which is a waste-to-energy plant.
+2. The article mentions that the power station will burn waste, including wood, to produce electricity.
+3. The article does not mention anything about a nuclear power station.
+4. The summary states that work has started on the construction of a new nuclear power station in West Yorkshire, which is not supported by the article.
+
+Therefore, the summary is not consistent with the article because it mentions a nuclear power station, which is not mentioned in the article. The article only mentions a waste-to-energy power station.
 
 ###Corrected:

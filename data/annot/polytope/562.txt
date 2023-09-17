@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    australian prime minister tony abbott was cheered on by a crowd of about 50 as he UNK a UNK of beer .
-mr abbott was cheered on by a crowd of about 50 as he UNK a UNK of beer .
-mr abbott was applauded by a crowd of about 50 as he UNK a UNK of beer . 
-
-    Article: 
-    tony abbott may have thrilled players at an australian rules function by skolling a beer but he 's drawn the ire of anti-drinking campaigners who claim he 's glorifying binge drinking and associating being a man with drinking booze .
+<Article>
+tony abbott may have thrilled players at an australian rules function by skolling a beer but he 's drawn the ire of anti-drinking campaigners who claim he 's glorifying binge drinking and associating being a man with drinking booze .
 julie robert , a cultural studies professor at the university of technology sydney , said it was ` problematic ' that the prime minister , who she believes should be advocating against binge drinking , thought it acceptable to ` showcase his masculinity ' by skolling a beer .
 ` it sets up a culture that drinking is n't about socialising with friends , it 's about how quickly and how much you can drink , ' she said .
 australian prime minister tony abbott was cheered on by a crowd of about 50 as he skolled a schooner of beer
@@ -32,27 +27,23 @@ during his night out , mr abbott gave a speech to the players , according to aus
 while mr abbott is not the first australian prime minister to show off his skolling skills , with former labor prime minister bob hawke a notable example , dr roberts said he should have taken into consideration recent shifts in attitudes over heavy drinking .
 ` i do n't necessarily think it 's a partisan thing but i do think the climate has changed and we did n't [ used to ] have the concern over binge drinking that we do now , ' she said .
 mr abbott was asked to have a drink by university of technology sydney bats coach simon carradous , and the prime minister happily obliged
-` he drank the entire schooner , dribbling bits on his shirt ... he was proud as punch , ' a witness said 
+` he drank the entire schooner , dribbling bits on his shirt ... he was proud as punch , ' a witness said
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+australian prime minister tony abbott was cheered on by a crowd of about 50 as he UNK a UNK of beer .
+mr abbott was cheered on by a crowd of about 50 as he UNK a UNK of beer .
+mr abbott was applauded by a crowd of about 50 as he UNK a UNK of beer .
+</Summary>
 
-1. The summary states that Tony Abbott "drank a schooner of beer," while the article states that he "skolled" a schooner of beer. The two words have different connotations, with "skolling" implying a more rapid and excessive consumption of alcohol.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention that the event was criticized by anti-drinking campaigners, who argued that the Prime Minister's actions were glorifying binge drinking and perpetuating harmful stereotypes about masculinity.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-3. The summary does not include quotes from Julie Robert, a cultural studies professor who criticized the Prime Minister's actions and argued that they set a bad example for young people.
+1. Inconsistent language: The summary uses the phrase "australian prime minister tony abbott was cheered on by a crowd of about 50 as he UNK a UNK of beer" three times, with "UNK" being an unknown word. This is not a correct representation of the article, as the word "skolled" is used in the article to describe Tony Abbott's action, not "UNK."
+2. Incorrect information: The summary states that Tony Abbott "UNK a UNK of beer," which is not accurate. According to the article, Tony Abbott skolled a schooner of beer, not an unknown amount of beer.
+3. Lack of context: The summary does not provide any context for the event, such as the reason for Tony Abbott's skolling or the reaction of the crowd. The article, on the other hand, provides a detailed description of the event and the reactions of those involved.
 
-4. The summary does not mention that the Prime Minister's actions were seen as problematic by some, and that they sparked a debate about the dangers of excessive drinking and the responsibilities of public figures.
-
-5. The summary does not include the fact that the Prime Minister was praised by some for his ability to "down" the schooner quickly, which is not mentioned in the article.
-
-6. The summary does not include the fact that the Health Minister, Susan Ley, defended the Prime Minister's actions and argued that there was "nothing wrong" with them.
-
-7. The summary does not include the fact that the Prime Minister gave a speech to the players and grabbed the microphone, which is not mentioned in the article.
-
-8. The summary does not include the fact that the event was seen as a "real treat" by the players, which is not mentioned in the article.
-
-Overall, the summary is not consistent with the article because it omits or distorts several key details that are important to understanding the controversy surrounding the Prime Minister's actions.
+Overall, the summary is not a consistent representation of the article and contains incorrect information and a lack of context.
 
 ###Corrected:

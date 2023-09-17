@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    brain tumour patient ashya king has been diagnosed with cancer, the bbc has learned. 
-
-    Article: 
-    Ashya was being treated in hospital in Southampton when his parents took him abroad without telling staff last year.
+<Article>
+Ashya was being treated in hospital in Southampton when his parents took him abroad without telling staff last year.
 They ignored medical advice and took him to Prague for proton beam therapy.
 It was later revealed Ashya did not receive subsequent chemotherapy in Prague, a move the team in Southampton say could jeopardise his recovery.
 Speaking exclusively to the BBC, Dr Peter Wilson, paediatric intensive care consultant at Southampton General Hospital, said: "We are unsure as to exactly what treatment he is receiving but what we do know is... every month that goes by that he's not getting chemotherapy, his outcome worsens.
@@ -29,17 +26,22 @@ Paediatric oncology consultant Dr Ramya Ramanujachar, who was involved in Ashya'
 She said: "I don't think the parents can look after their own child with a brain tumour and be not only the carers but also the professionals directing, managing and dictating their child's treatment."
 Dr Wilson said the case had led to an "impossible situation" for clinicians faced with families in the same situation.
 "That is deeply unfair when the NHS is always supposed to be about equal healthcare for all," he added.
-Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday at 19:30 BST. 
+Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday at 19:30 BST.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+brain tumour patient ashya king has been diagnosed with cancer, the bbc has learned.
+</Summary>
 
-1. The summary states that Ashya King has been diagnosed with cancer, but the article does not confirm this. While the article mentions that Ashya had a brain tumour, it does not explicitly state that he has been diagnosed with cancer.
-2. The summary states that Ashya's parents took him abroad without telling staff, but the article does not support this claim. According to the article, Ashya's parents took him to Prague for proton beam therapy after they received funding for the treatment through the media.
-3. The summary states that Ashya did not receive subsequent chemotherapy in Prague, but the article states that Ashya's parents refused the chemotherapy recommended by doctors and ordered by the High Court.
-4. The summary states that every month that goes by without chemotherapy, Ashya's outcome worsens, but the article quotes Dr. Ramya Ramanujachar as saying that the case could set a worrying precedent and that she does not think the parents can look after their own child with a brain tumour and be not only the carers but also the professionals directing, managing, and dictating their child's treatment.
-5. The summary states that the King family declined to be interviewed for the BBC program, but the article states that Brett King told a national newspaper that a recent scan showed "no evidence" of the tumour.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions that misrepresent the facts of the case.
+1. The summary states that Ashya King has been diagnosed with cancer, but the article does not mention any such diagnosis.
+2. The article states that Ashya was being treated for a brain tumour, but the summary does not mention the specific type of tumour or any treatment details.
+3. The summary is not consistent with the article because it does not provide any supporting information or context from the article.
+4. The article provides information about Ashya's treatment, including proton beam therapy and the fact that he did not receive subsequent chemotherapy, but the summary does not mention any of this information.
+5. The article quotes medical professionals expressing concerns about the potential impact of not receiving chemotherapy on Ashya's recovery, but the summary does not include any of these quotes or concerns.
+6. The article provides a more detailed and nuanced account of Ashya's situation, including the breakdown in the relationship between his parents and the hospital, the controversy surrounding his treatment, and the concerns of medical professionals, but the summary does not provide any of this context or detail.
+
+Overall, the summary is not consistent with the article because it does not provide any supporting information or context and instead focuses on a single, misleading statement about Ashya's diagnosis.
 
 ###Corrected:

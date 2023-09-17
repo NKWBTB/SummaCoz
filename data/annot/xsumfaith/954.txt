@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the internet is a big problem, but it is n\'t only a big. of the world\'s biggest street banks. 
-
-    Article: 
-    On everything from music to microwaves, and taxis to train tickets.
+<Article>
+On everything from music to microwaves, and taxis to train tickets.
 Consumers save money by doing their transactions on a computer or mobile phone.
 But not when it comes to banking.
 Customers of UK banks who use the internet pay just as much for overdrafts and fees as everyone else.
@@ -44,13 +41,21 @@ And there will be no distinction between an authorised and an unauthorised overd
 But even if Atom does offer its users a significantly better deal, the rest of the industry may not feel obliged to follow suit. In this market, competition does not work as it should.
 So without a significant shift in banks' attitudes, digital customers may continue to argue they're not getting a good deal.
 But they may just have to lump it.
-Monday: Do other countries offer consumers better banking than the UK? 
+Monday: Do other countries offer consumers better banking than the UK?
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     The summary states that online banking customers are paying the same fees as those who use branches, despite the lower cost of online transactions. The article argues that this is unfair and that online customers should receive better prices for their banking services. However, the article also states that the banks argue that customers are unlikely to be charged the listed amounts and that differential pricing would make life more expensive for older and vulnerable customers who rely on branches and cheques.
+<Summary>
+the internet is a big problem, but it is n\'t only a big. of the world\'s biggest street banks.
+</Summary>
 
-     The article does not support the summary's claim that the internet is a big problem. In fact, the article highlights the benefits of online banking, such as lower costs and more convenient services. The article also mentions that Atom, the UK's first truly internet-only bank, will offer cheaper prices and a more competitive charge structure.
+Explain your reasoning step by step:[/INST]
 
-     Therefore, the summary is not consistent with the article. The summary's claim that the internet is a big problem is not supported by the article, and the article does not argue that online banking customers are paying too much for their services. Instead, the article highlights the benefits of online banking and the potential for more competitive pricing from new internet-only banks like Atom.
+1. The summary states that the internet is a problem, but it is not the only problem. This implies that there are other issues related to banking that are not addressed in the summary.
+2. The article discusses how customers who use internet banking are not given better prices or deals, despite the lower cost of transactions for banks.
+3. The article mentions that the big High Street banks do not offer separate internet banking, and that HSBC and The Co-operative Bank offer internet banking under separate brands.
+4. The article highlights that Smile, the first full internet bank, charges £7.34 for an overdraft, while HSBC charges £87.52 for the same thing.
+5. The article states that Atom, the UK's first truly internet-only bank, will launch sometime before Easter and will offer cheaper prices.
+
+Based on these points, it is clear that the summary is not consistent with the article because it does not address the issues raised in the article, such as the lack of better deals for internet banking customers and the launch of Atom, the UK's first truly internet-only bank. Additionally, the summary does not provide any specific information about the problems with banking that are mentioned in the article. Therefore, the summary is not an accurate representation of the article's content.
 
 ###Corrected:

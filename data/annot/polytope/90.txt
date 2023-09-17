@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    illinois gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists
-the site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby '
-on tuesday , the 150th anniversary of john wilkes booth 's shooting of lincoln , although the president was pronounced dead the following day 
-
-    Article: 
-    caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+<Article>
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
 for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
 he would roll the agency into another department .
 what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
@@ -42,16 +37,21 @@ william sparks , a visitor to the outside of the tomb tuesday who took an amtrak
 this is very impressive . '
 critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
 lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
-it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo ) 
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help you identify the inconsistency in the summary and the article. Here's my step-by-step reasoning:
+<Summary>
+illinois gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists
+the site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby '
+on tuesday , the 150th anniversary of john wilkes booth 's shooting of lincoln , although the president was pronounced dead the following day
+</Summary>
 
-1. The summary states that "Illinois Gov. Bruce Rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists." This statement is inconsistent with the article because the article does not mention anything about Gov. Rauner proposing to eliminate the state historic preservation agency. Instead, the article focuses on the potential budget cuts that could threaten the management of the historic site.
-2. The summary also states that "the site was pilloried in this month's issue of National Geographic magazine as having 'all the historical character of an office lobby.'" This statement is consistent with the article, which mentions that the tomb was criticized in National Geographic magazine for its interior design.
-3. However, the article does not mention anything about the tomb being "eliminated" or "rolled into another department." Instead, it focuses on the potential budget cuts that could affect the management of the site.
-4. Therefore, the inconsistency between the summary and the article is that the summary states that Gov. Rauner has proposed eliminating the state historic preservation agency, which is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the summary is not consistent with the article because it includes information that is not present in the article. Specifically, the summary states that Gov. Rauner has proposed eliminating the state historic preservation agency, which is not mentioned in the article.
+1. The summary states that the site was pilloried in this month's issue of National Geographic magazine as having "all the historical character of an office lobby."
+2. The article does not mention this criticism of the tomb's interior. Instead, it focuses on the potential threat to the site's management due to budget cuts and the recent repairs and renovations made to the tomb's interior.
+3. Therefore, the summary is not consistent with the article because it highlights a criticism of the tomb's interior that is not mentioned in the article.
+4. Additionally, the summary does not provide any information about the article's focus on the potential threat to the site's management or the recent repairs and renovations made to the tomb's interior.
+5. Overall, the summary is not an accurate representation of the article's content and is not consistent with the article's focus.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    i have been collecting matchboxes seriously since 2012. 
-
-    Article: 
-    My sources include collectors all over the world, dealers, auctions, flea markets, and just about any place I can think of. The accumulation, as I like to call it, includes all kinds of material related to the Indian matchbox industry.
+<Article>
+My sources include collectors all over the world, dealers, auctions, flea markets, and just about any place I can think of. The accumulation, as I like to call it, includes all kinds of material related to the Indian matchbox industry.
 Within this rapidly growing accumulation, I often come across labels and subjects that I get curious about and that is how my collection takes a thematic approach.
 My recent exhibition, titled "Matchbox Labels And The Stories They Tell", features some prominent trends and themes spanning the entire history of the matchbox industry.
 I exhibited 5,000 labels from my collection of 25,000.
@@ -14,16 +11,24 @@ AE Matcheswala was an early matchbox label which started using sulphur. It set u
 The company exported its matchboxes to Arab countries. Ambarnath, written in Hindi on this label, was the location of the first Wimco factory in western Maharashtra state. Very few Wimco labels used Indian languages and they did not last long. This rather drab label featuring the dhow is not one of their common brands.
 This label promoted the Swadeshi (self-reliance) movement during the partition of India's Bengal region in 1905. A number of Indian labels started during the independence struggle after calls were made to boycott British goods. Most firms used Indian languages to add nationalist fervour to their brands. Labels from the 1920s and 30s tell the story of India's struggle for freedom. Some labels even celebrated important personalities associated with the freedom movement.
 It's believed that this matchbox was commissioned by the royal family of Bhavnagar in western Gujarat state for their personal use during British rule. Little is known about such matchboxes because records were not kept at the time and little research is possible today.
-Many Bollywood films were promoted on matchboxes in the 1950s. Some labels even featured Pakistani films. Actors and film posters continue to be featured on matchboxes today. 
+Many Bollywood films were promoted on matchboxes in the 1950s. Some labels even featured Pakistani films. Actors and film posters continue to be featured on matchboxes today.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+i have been collecting matchboxes seriously since 2012.
+</Summary>
 
-1. Timeline: The summary mentions collecting matchboxes since 2012, but the article states that the collection has been accumulated over a longer period of time, including the early 20th century.
-2. Focus: The summary emphasizes the personal collection and exhibitions, while the article highlights the historical significance and themes of the matchbox labels.
-3. Content: The summary mentions only a few specific labels and their stories, while the article provides a more comprehensive overview of the matchbox labels, including their history, trends, and themes.
-4. Purpose: The summary seems to focus on the personal collection and exhibitions, while the article highlights the historical and cultural significance of the matchbox labels.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Therefore, based on these differences, it appears that the summary is not consistent with the article.
+1. The summary states that the collector has been collecting matchboxes "seriously" since 2012. However, the article states that the collector's collection includes 25,000 matchbox labels, which suggests that they have been collecting for much longer than just 2012.
+2. The summary does not mention anything about the collector's collection being thematic, as described in the article. The article states that the collector's collection takes a thematic approach, with labels and subjects that they get curious about.
+3. The summary does not mention anything about the collector's recent exhibition, titled "Matchbox Labels And The Stories They Tell", as described in the article.
+4. The summary does not mention anything about the history of the matchbox industry, such as the early use of sulphur by AE Matcheswala, the export of matchboxes to Arab countries, or the promotion of the Swadeshi movement during the partition of India's Bengal region.
+5. The summary does not mention anything about the use of Indian languages on matchbox labels, or how these labels added nationalist fervour to the brands.
+6. The summary does not mention anything about the matchbox being commissioned by the royal family of Bhavnagar for their personal use during British rule.
+7. The summary does not mention anything about Bollywood films being promoted on matchboxes in the 1950s, or how actors and film posters continue to be featured on matchboxes today.
+
+Overall, the summary does not provide a consistent overview of the collector's matchbox collection as described in the article. It only mentions the collector's recent interest in matchboxes, which is not supported by the rest of the information in the article.
 
 ###Corrected:

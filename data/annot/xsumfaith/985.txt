@@ -1,26 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world para athletics championships are taking place in london on friday, 3 august, for the first time. 
-
-    Article: 
-    Symbols of every event feature on the design, while the London skyline is included with Tower Bridge, the London Eye, the Shard and Big Ben.
+<Article>
+Symbols of every event feature on the design, while the London skyline is included with Tower Bridge, the London Eye, the Shard and Big Ben.
 The reverse features London Stadium, the championships' venue.
 The event takes place from 4-13 August and there will be live coverage across the BBC.
 Medals at July's World Para Athletics Championships, taking place from 14-23 July, will be similar, but feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair.
 Rather than engraving, the reverse will be inscribed with braille.
-For the first time at the World Championships, 'coaches medals' will also be handed out to recognise those who prepare athletes. 
+For the first time at the World Championships, 'coaches medals' will also be handed out to recognise those who prepare athletes.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the world para athletics championships are taking place in london on friday, 3 august, for the first time.
+</Summary>
 
-1. The article states that the World Para Athletics Championships will take place from 4-13 August, but the summary states that the event is taking place on Friday, 3 August. This is not consistent, as the article does not mention any events taking place on that date.
-2. The summary states that the championships are taking place in London for the first time, but the article does not mention this. In fact, the article states that the championships have been held in London before, and that the medals for the previous championships featured distinctive disability sport equipment such as a prosthetic running leg and throwing chair, and were inscribed with braille on the reverse.
-3. The summary mentions live coverage across the BBC, but the article does not mention anything about live coverage.
-4. The summary mentions "coaches medals" being handed out for the first time at the World Championships, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article, and there are several differences between the two.
+1. The article states that the World Para Athletics Championships are taking place from 14-23 July, but the summary states that the championships are taking place on Friday, 3 August. This is not consistent, as the article clearly states that the championships are taking place in July, not in August.
+2. The article mentions that the London Stadium will be the venue for the championships, but the summary does not mention this. This is not consistent, as the article provides specific information about the venue, but the summary does not include this information.
+3. The article states that the medals will feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair, but the summary does not mention this. This is not consistent, as the article provides specific information about the medals, but the summary does not include this information.
+4. The article mentions that the reverse of the medals will be inscribed with braille, but the summary does not mention this. This is not consistent, as the article provides specific information about the design of the medals, but the summary does not include this information.
+5. Finally, the article states that "coaches medals" will be handed out for the first time at the World Championships, but the summary does not mention this. This is not consistent, as the article provides specific information about a new aspect of the championships, but the summary does not include this information.
+
+Overall, the summary is not consistent with the article because it does not include several key details that are mentioned in the article, such as the date, the venue, the design of the medals, and the new "coaches medals" that will be handed out.
 
 ###Corrected:

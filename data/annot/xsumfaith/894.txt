@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sale sharks captain chris charnley says he is confident his side can avoid relegation from next season\'s super league game. 
-
-    Article: 
-    The 25-year-old wing has crossed codes from Super League side Wigan Warriors, in arguably the most high-profile switch since Sam Burgess' move to Bath.
+<Article>
+The 25-year-old wing has crossed codes from Super League side Wigan Warriors, in arguably the most high-profile switch since Sam Burgess' move to Bath.
 Burgess' time in union only lasted a year, but Chorley-born Charnley is hoping he can take to the game more naturally.
 "I just want to learn it and not have to ask where I should be stood. I just want to have it free-flowing," he told BBC Sport.
 Since his move to Sale was announced in March, Charnley has been to the AJ Bell Stadium to watch the team as much as possible.
@@ -29,15 +26,20 @@ England head coach Eddie Jones has spoken about Charnley as having the ability t
 "You don't want to pile the pressure on him but he has the ability to do it, and I'm sure he will.
 "He has such a good career so far, so as a long as he does that in a Sale shirt then he is always going to have a sniff."
 Asked if he thought about running out at Twickenham, Charnley added: "Any player wants to play for their country. You want to put that jersey on.
-"If I'm lucky enough to be successful enough to get picked then it will be a nice thing on my CV." 
+"If I'm lucky enough to be successful enough to get picked then it will be a nice thing on my CV."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+sale sharks captain chris charnley says he is confident his side can avoid relegation from next season\'s super league game.
+</Summary>
 
-1. The summary states that Sale Sharks captain Chris Charnley is confident his side can avoid relegation from next season's Super League game. However, the article does not mention anything about relegation or the upcoming season's Super League game.
-2. The summary mentions that Charnley is the captain of Sale Sharks, but the article does not confirm this. In fact, the article quotes Charnley as saying he is still learning about union and adapting to the game.
-3. The summary states that Charnley is confident about his side's chances, but the article does not quote him as saying this. Instead, the article focuses on Charnley's move to union and his desire to learn and improve.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as relegation and Charnley's role as captain. Additionally, the tone of the summary is more positive and confident, while the article focuses on Charnley's transition to union and his learning process.
+1. The summary is not consistent with the article because the article does not mention anything about Sale Sharks avoiding relegation or the Super League. The article is about Chris Charnley's move from rugby league to union and his hopes to succeed in his new sport.
+2. The summary is a direct quote from Charnley, but the context of the quote is not provided in the summary. The quote is taken out of context and does not accurately reflect the content of the article.
+3. The article does not mention anything about Charnley being the captain of Sale Sharks. While Charnley is mentioned in the article as the player who has switched from rugby league to union, there is no mention of him being the captain of the team.
+4. The summary is a misleading representation of the article's content. It does not accurately reflect the main points of the article and instead focuses on a minor aspect of the article that is not even mentioned in the article.
+
+Overall, the summary is not consistent with the article because it does not accurately represent the content of the article and instead focuses on a minor aspect that is not even mentioned in the article.
 
 ###Corrected:

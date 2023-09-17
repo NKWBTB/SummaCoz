@@ -1,19 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a maritime attraction has been cancelled due to a lack of funds, it has been claimed at the centre of a public inquiry. 
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved. 
+<Summary>
+a maritime attraction has been cancelled due to a lack of funds, it has been claimed at the centre of a public inquiry.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the maritime attraction has been canceled due to a lack of funds.
-2. However, the article does not mention anything about the cancellation of the attraction. Instead, it discusses the problems that have arisen with the new ferry service, such as the ferry breaking down, running aground, and causing damage to cars.
-3. The article also mentions that the council has ordered a review of the project by auditors and that there are ongoing discussions about compensation for local businesses that have been affected by the ferry's teething problems.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The article does not mention a cancellation of the maritime attraction, but instead focuses on the issues with the ferry service and the ongoing efforts to resolve these issues.
+1. The summary states that a maritime attraction has been cancelled due to a lack of funds.
+2. The article does not mention anything about a maritime attraction being cancelled.
+3. The article discusses the issues with the new chain ferry service, including breakdowns, groundings, and training issues.
+4. The article mentions that the council has ordered a review of the project by auditors, but there is no mention of a public inquiry.
+5. Therefore, the summary is not consistent with the article, as there is no mention of a maritime attraction being cancelled due to a lack of funds.
+
+Reasoning:
+
+The summary is not consistent with the article because it makes a claim that is not supported by the information in the article. The article discusses the issues with the new chain ferry service, but there is no mention of a maritime attraction being cancelled due to a lack of funds. Therefore, the summary is incorrect and does not accurately reflect the information in the article.
 
 ###Corrected:

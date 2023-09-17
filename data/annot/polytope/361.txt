@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tragedy : carwyn scott-howell ( left ; right ) fell to his death while on holiday with his mother ceri , nine-year-old sister antonia and brother gerwyn , 19 , in the alps
-the schoolboy was skiing with his family when he became separated from his mother and headed into dense woodland where he fell over a 164ft drop .
-the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' . 
-
-    Article: 
-    the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' .
+<Article>
+the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' .
 carwyn scott-howell was described as a ` daring , outgoing and determined ' youngster whose ` handsome smile lit up any room ' .
 the schoolboy was skiing with his family when he became separated from his mother and headed into dense woodland where he fell over a 164ft drop .
 tragedy : carwyn scott-howell ( left ; right ) fell to his death while on holiday with his mother ceri , nine-year-old sister antonia and brother gerwyn , 19 , in the alps
@@ -47,17 +42,26 @@ a tragic , tragic accident . '
 carwyn lived with his parents at their farmhouse in the village near the brecon beacons .
 he is said to have loved the mountains and helping on the farm where he had grown up .
 the family often attended food fairs across the country and david cameron was pictured buying a scotch egg from the family 's stand last year .
-holiday : carwyn 's family has said ` the most happy ski holiday ' in flaine , france , turned to tragedy after carwyn became detached from the group on the last run of the day 
+holiday : carwyn 's family has said ` the most happy ski holiday ' in flaine , france , turned to tragedy after carwyn became detached from the group on the last run of the day
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+tragedy : carwyn scott-howell ( left ; right ) fell to his death while on holiday with his mother ceri , nine-year-old sister antonia and brother gerwyn , 19 , in the alps
+the schoolboy was skiing with his family when he became separated from his mother and headed into dense woodland where he fell over a 164ft drop .
+the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' .
+</Summary>
 
-1. The summary states that Carwyn fell to his death while skiing with his family in the Alps, but the article does not mention anything about him skiing with his family. Instead, it states that he became separated from his mother while she was helping his sister, and he headed into dense woodland where he fell over a 164ft drop.
-2. The summary mentions that Carwyn was a "daring, outgoing and determined" youngster, but the article does not provide any information about his personality or character.
-3. The summary states that Carwyn's family is staying in a hotel close to the slopes where he died, but the article does not mention anything about the family's accommodation.
-4. The summary mentions that police found Carwyn's body by following his footprints in the snow, but the article does not mention anything about the police finding his body or the footprints. Instead, it states that the family and search teams were looking for him.
-5. The summary states that Carwyn was heading for the resort when he fell, but the article does not mention anything about him heading for the resort. Instead, it states that he became separated from his mother and headed into dense woodland.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important information that is present in the article.
+1. The summary states that Carwyn Scott-Howell fell to his death while on holiday with his family in the Alps.
+2. The article states that Carwyn was skiing with his family when he became separated from his mother and headed into dense woodland, where he fell over a 164ft drop.
+3. However, the summary does not mention that Carwyn was skiing with his family or that he became separated from his mother.
+4. The summary also does not mention the woodland or the 164ft drop that Carwyn fell from.
+5. Instead, the summary only states that Carwyn fell to his death while on holiday with his family in the Alps.
+6. Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the circumstances of Carwyn's death.
+7. The summary is a brief summary of the article, but it does not include all the important details that are provided in the article.
+8. The article provides more information about Carwyn's death, such as the fact that he became separated from his mother and headed into woodland, and that his body was found by footprints in the snow.
+9. The article also provides more information about Carwyn's family and their reaction to his death.
+10. Therefore, the summary is not a complete and accurate summary of the article because it does not include all the important details that are provided in the article.
 
 ###Corrected:

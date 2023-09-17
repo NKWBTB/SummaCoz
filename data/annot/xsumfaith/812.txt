@@ -1,23 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a climber has been airlifted to hospital after being rescued from the sea off the coast of bridgend. been named. 
-
-    Article: 
-    A Porthcawl RNLI crew with a medic and the coastguard search and rescue helicopter were sent to Sker Beach, near Kenfig Nature Reserve, at 12:50 GMT on Sunday.
+<Article>
+A Porthcawl RNLI crew with a medic and the coastguard search and rescue helicopter were sent to Sker Beach, near Kenfig Nature Reserve, at 12:50 GMT on Sunday.
 Crewman Chris Page said the rider had head injuries and was very cold from lying unconscious on wet sand.
-She was treated before being flown to Cardiff's University Hospital of Wales. 
+She was treated before being flown to Cardiff's University Hospital of Wales.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a climber has been airlifted to hospital after being rescued from the sea off the coast of bridgend. been named.
+</Summary>
 
-1. The summary states that the climber was airlifted to hospital after being rescued from the sea off the coast of Bridgend.
-2. However, the article states that the RNLI crew and coastguard search and rescue helicopter were sent to Sker Beach, near Kenfig Nature Reserve, which is on the coast of Bridgend.
-3. The article does not mention anything about the climber being rescued from the sea. Instead, it states that the rider had head injuries and was very cold from lying unconscious on wet sand at Sker Beach.
-4. Therefore, the summary is not consistent with the article because it implies that the climber was rescued from the sea, while the article only mentions a rescue operation at Sker Beach.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it exaggerates the location of the rescue operation and implies that the climber was rescued from the sea, when in fact the rescue operation only took place on land at Sker Beach.
+1. The article states that the person rescued was a rider, not a climber. The summary incorrectly identifies the person as a climber.
+2. The article states that the person was rescued from Sker Beach, near Kenfig Nature Reserve, but the summary does not mention the location.
+3. The article states that the person was treated for head injuries and was cold, but the summary does not mention these details.
+
+Therefore, the summary is not consistent with the article because it incorrectly identifies the person rescued, fails to mention the location, and omits important details about the person's condition.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    singapore is putting pressure on major retailers in singapore to not use or sell materials produced by firms linked to fires in indonesia. 
-
-    Article: 
-    Seven firms, including major supermarkets such as NTUC FairPrice and IKEA, have been asked declare they are not doing so within a week.
+<Article>
+Seven firms, including major supermarkets such as NTUC FairPrice and IKEA, have been asked declare they are not doing so within a week.
 The forest fires in Indonesia have deteriorated Singapore's air quality, causing a blanket of haze in the city.
 FairPrice has said it removing products from one Indonesian firm.
 The state-owned supermarket giant said that it was removing all paper products sourced from Asia Pulp and Paper Group (APP), following the notification from the government.
@@ -15,17 +12,19 @@ What is behind the South East Asia haze?
 In a joint statement, the Singapore Environment Council (SEC) and Consumers Association of Singapore (CASE) said they had asked the retailers to declare that they have "not procured or used wood, paper and/or pulp materials" from firms accused of contributing to the fires.
 The SEC said retailers were "a good starting point" for firms to show their commitment to sustainable procurement processes and "for consumers to show their support for brands that have environmentally friendly practices"
 The haze has caused hazardous air quality across the region. It has led to the cancellation of public events and schools closure over the past month, in Singapore as well as in Malaysia and Indonesia.
-Anger has been rising in the region, with increasing pressure on the Indonesian government to control the annual burning of forests to clear land for palm oil and rubber plantations. 
+Anger has been rising in the region, with increasing pressure on the Indonesian government to control the annual burning of forests to clear land for palm oil and rubber plantations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+singapore is putting pressure on major retailers in singapore to not use or sell materials produced by firms linked to fires in indonesia.
+</Summary>
 
-1. The summary states that Singapore is putting pressure on major retailers not to use or sell materials produced by firms linked to fires in Indonesia.
-2. However, the article states that the retailers have been asked to declare that they have not procured or used wood, paper, and/or pulp materials from firms accused of contributing to the fires, but it does not mention anything about not using or selling these materials.
-3. The article only mentions that FairPrice has removed all paper products sourced from Asia Pulp and Paper Group (APP), which has been named by Singapore authorities as one of the companies suspected of contributing to the haze.
-4. Therefore, the summary is not consistent with the article because it implies that the retailers have been banned from using or selling materials produced by firms linked to the fires, while the article only mentions that they have been asked to declare their procurement practices.
-5. Additionally, the article does not mention any pressure being put on the retailers by the government, whereas the summary states that Singapore is putting pressure on major retailers.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the extent to which the retailers have been affected by the government's request and implies a ban on using or selling materials produced by firms linked to the fires, whereas the article only mentions a declaration of procurement practices and no pressure from the government.
+1. The article states that the Singapore government has asked retailers to declare that they have not procured or used wood, paper, and/or pulp materials from firms accused of contributing to the forest fires in Indonesia.
+2. The article specifically mentions that the retailers have been asked to declare this within a week.
+3. The summary does not mention anything about the retailers being asked to declare that they have not procured or used materials from firms linked to the fires. Instead, it only states that Singapore is putting pressure on major retailers in Singapore.
+4. The summary does not provide any information about the reason for the pressure being put on the retailers, which is the link between the firms and the forest fires in Indonesia.
+5. Therefore, the summary is not consistent with the article because it does not provide the same level of detail and specific information about the request made by the Singapore government to the retailers.
 
 ###Corrected:

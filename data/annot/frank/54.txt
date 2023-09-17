@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    aberdeen have appointed paul sheerin as their new manager on a two-year contract. \'place in the scottish premiership. 
+<Article>
+Former Dons midfielder Sheerin, 39, has been player-manager at the Red Lichties since 2010 and replaces Neil Cooper at Pittodrie.Arbroath were relegated to Scottish League Two after finishing season 2013-14 bottom of League One.Aberdeen chief executive Duncan Fraser said boss Derek McInnes chose Sheerin after "a comprehensive process".Speaking on the club's website, Fraser added: "Despite wishing to retain Paul's services, Arbroath chairman John Christison was good to deal with and completely appreciated Paul's desire to come back to Aberdeen."Sheerin played for several Scottish clubs and also featured for Östersunds in Sweden before moving into coaching. He won a Scotland Under-21 cap in in the mid-1990s.Sheerin guided the Arbroath to their first national trophy in their history by winning the Scottish Third Division title and promotion in 2011.
+</Article>
 
-    Article: 
-    Former Dons midfielder Sheerin, 39, has been player-manager at the Red Lichties since 2010 and replaces Neil Cooper at Pittodrie.Arbroath were relegated to Scottish League Two after finishing season 2013-14 bottom of League One.Aberdeen chief executive Duncan Fraser said boss Derek McInnes chose Sheerin after "a comprehensive process".Speaking on the club's website, Fraser added: "Despite wishing to retain Paul's services, Arbroath chairman John Christison was good to deal with and completely appreciated Paul's desire to come back to Aberdeen."Sheerin played for several Scottish clubs and also featured for Östersunds in Sweden before moving into coaching. He won a Scotland Under-21 cap in in the mid-1990s.Sheerin guided the Arbroath to their first national trophy in their history by winning the Scottish Third Division title and promotion in 2011. 
+<Summary>
+aberdeen have appointed paul sheerin as their new manager on a two-year contract. \'place in the scottish premiership.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Aberdeen have appointed Paul Sheerin as their new manager on a two-year contract. However, the article states that Sheerin has been player-manager at Arbroath since 2010, not Aberdeen. This is a contradiction and indicates that the summary is not consistent with the article.
-2. The article states that Sheerin has been player-manager at Arbroath, and that he has replaced Neil Cooper at Pittodrie. However, the summary does not mention anything about Arbroath or Neil Cooper. This omission suggests that the summary is not a complete representation of the article's content.
-3. The article mentions that Sheerin guided Arbroath to their first national trophy in their history by winning the Scottish Third Division title and promotion in 2011. However, the summary does not mention this achievement. This lack of information suggests that the summary is not a comprehensive summary of the article's content.
+1. The summary states that Aberdeen have appointed Paul Sheerin as their new manager on a two-year contract, which is not consistent with the article.
+2. The article states that Sheerin has been appointed as player-manager at Arbroath, not Aberdeen.
+3. The summary does not mention anything about Sheerin's role as player-manager at Arbroath or his previous experience as a player for several Scottish clubs and Östersunds in Sweden.
+4. The article mentions that Sheerin guided Arbroath to their first national trophy in their history by winning the Scottish Third Division title and promotion in 2011, which is not mentioned in the summary.
 
-Overall, the summary is not consistent with the article because it omits important information and contains contradictory statements.
+Therefore, the summary is not consistent with the article because it does not provide accurate information about Paul Sheerin's appointment as Arbroath's player-manager and his previous experience as a player and coach. The summary only mentions that Aberdeen have appointed Sheerin as their new manager, which is not supported by the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the festival of the world\'s biggest film festival has opened in london, with the aim of turning points for the first time. 
-
-    Article: 
-    Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
+<Article>
+Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
 Sir Roger talks about how a dialogue coach helped boost his confidence, which helped him forge his career.
 Turning Points has been made for London 2012 Festival, a nationwide arts event.
 The festival is running until 9 September and bringing together leading artists from across the world.
@@ -35,16 +32,19 @@ A social worker told him his life was going to be different, and if he did not c
 "I refused rehab, where I was supposed to go off to another city to be taught how to be a proper, grateful disabled person, threw the Braille card in the bin and have lived exactly the sort of life I always wanted," Tally Evans said.
 "I never saw my social worker again."
 The film also has contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
-Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape." 
+Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the festival of the world\'s biggest film festival has opened in london, with the aim of turning points for the first time.
+</Summary>
 
-1. The summary states that the festival is the "world's biggest film festival," but the article does not mention the size of the festival.
-2. The summary mentions that the festival is in London, but the article states that the festival is a nationwide arts event and that the film will be shown in various locations throughout the UK.
-3. The summary does not mention the film "Turning Points" or any of the individuals involved in its production, while the article provides detailed information about the film and its creator, Chris Tally Evans.
-4. The summary does not mention the film's focus on life-changing moments or the stories collected from people of all ages and abilities, which are central themes of the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It seems to be a generic summary that could apply to any film festival or event, rather than a specific summary of the "London 2012 Festival" or "Turning Points."
+1. The summary states that the festival is the "world's biggest film festival," which is not supported by the article. The article states that the festival is the "London 2012 Festival," which is a nationwide arts event in the UK.
+2. The summary mentions that the festival has the aim of showcasing "turning points" for the first time, but the article does not mention this specific aim. The article focuses on the festival's celebration of the moment when six people's lives changed forever.
+3. The summary does not mention the film "Turning Points" or its director, Chris Tally Evans, which are central to the article.
+
+Therefore, the summary is not consistent with the article. It appears to be a brief, misleading summary that does not accurately reflect the content of the article.
 
 ###Corrected:

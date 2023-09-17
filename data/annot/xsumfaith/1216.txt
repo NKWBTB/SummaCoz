@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former football goalkeeper from newport, who was at the auschwitz death camp during world war two, is to be remembered for his work. 
-
-    Article: 
-    As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
+<Article>
+As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
 He was captured in 1943 fighting in the Middle East, and after nine months in Italy, was transferred to forced labour camp E715, part of the Auschwitz complex.
 There he spent 12 hours a day, six days a week, working with hazardous chemicals in the IG Farben works, but on Sundays they were permitted to play football.
 "I think the Germans thought that letting us play football was a quick and easy way of keeping us quiet," he said.
@@ -39,41 +36,19 @@ But by the time the Russians arrived, Mr Jones was long gone; as part of the dea
 "I was 13 stone (82kg) when I was captured, and when I was liberated by the Americans in April 1945, they weighed me, and I was seven stone."
 Mr Jones considers himself one of the lucky ones.
 "I was very lucky. I came home to a good wife, who helped me get over it. But lots never really recovered at all," he said.
-"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late." 
+"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help you identify the inconsistencies in the summary and the article. Here are my steps:
+<Summary>
+a former football goalkeeper from newport, who was at the auschwitz death camp during world war two, is to be remembered for his work.
+</Summary>
 
-Step 1: Identify the main points of the summary.
+Explain your reasoning step by step:[/INST]
 
-Based on the summary, the main points are:
-
-* A former football goalkeeper from Newport, Ron Jones, was at Auschwitz during World War II.
-* He played football with other prisoners, which helped keep them sane and alive.
-* The football games were played near Auschwitz II, Birkenau, where killing was on an industrial scale.
-* Ron Jones survived the war and is now 94 years old.
-
-Step 2: Identify the main points of the article.
-
-Based on the article, the main points are:
-
-* Ron Jones, a former football goalkeeper from Newport, was captured in 1943 and sent to forced labor camp E715, part of the Auschwitz complex.
-* He spent 12 hours a day, six days a week, working with hazardous chemicals in the IG Farben works.
-* On Sundays, the prisoners were allowed to play football, which kept them sane and helped them survive.
-* The football games were played near Auschwitz II, Birkenau, where killing was on an industrial scale.
-* Ron Jones survived the war and is now 94 years old.
-
-Step 3: Identify the inconsistencies.
-
-There are several inconsistencies between the summary and the article:
-
-* The summary states that Ron Jones was at Auschwitz during World War II, but the article does not mention World War II.
-* The summary states that Ron Jones played football near Auschwitz II, Birkenau, but the article does not mention Birkenau.
-* The summary states that the football games kept the prisoners sane and alive, but the article does not mention this.
-* The summary states that Ron Jones survived the war and is now 94 years old, but the article does not mention his age or survival.
-
-Step 4: Explain the inconsistencies.
-
-The inconsistencies between the summary and the article can be explained by the fact that the summary is not a accurate representation of the article. The summary is likely a condensed version of the article, but it has
+1. The summary states that the former football goalkeeper was at the Auschwitz death camp during World War II.
+2. However, the article does not mention anything about the goalkeeper being at Auschwitz. Instead, it talks about Ron Jones, a former prisoner of war who was captured in 1943 and sent to a forced labor camp in Italy.
+3. The summary is not consistent with the article because it mentions Auschwitz, which is not mentioned in the article.
+4. The article does mention that the prisoners were forced to work in a chemical plant, and that they played football on Sundays, but there is no mention of Auschwitz.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

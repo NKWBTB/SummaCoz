@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england\'s innings-and-39-run defeat by pakistan in the third test was " one of the greatest in the history ", says former 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The hosts won with a day to spare at Old Trafford to level the series.
 England made 589-8 declared and 173-1 declared to set up their second biggest win over Pakistan in terms of runs.
 "It's an absolute hammering. It's as good a four days of cricket that you could wish for from an England point of view," Vaughan told Test Match Special.
@@ -30,16 +27,21 @@ Of the Pakistan players, only captain Misbah-ul-Haq and Asad Shafiq have passed 
 "This is a big disappointment for us," said Misbah. "We could have scored around 400 in the first innings - the ball wasn't doing anything much.
 "We are short of confidence and shot selection really cost us.
 "These guys are strong characters - mentally strong. I'm hopeful that everybody is hurt and they will really work hard."
-Media playback is not supported on this device 
+Media playback is not supported on this device
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+england\'s innings-and-39-run defeat by pakistan in the third test was " one of the greatest in the history ", says former
+</Summary>
 
-1. The summary states that England's defeat of Pakistan was "one of the greatest in the history," but the article does not support this claim. The article simply states that England won the third Test against Pakistan with a day to spare, leveling the series.
-2. The summary also states that England's Joe Root had an "absolute hammering," but the article does not mention this. In fact, the article states that Root had a great performance, scoring 254 in the first innings and an unbeaten 71 off 48 balls in the second.
-3. The summary states that Pakistan's spirit was broken, but the article does not support this claim. The article simply states that Pakistan batted for only 63 overs in the first innings and 70 in the second on a pitch that offered the bowlers little assistance.
-4. The summary states that England should enjoy the win and have a good party, but the article does not mention this. Instead, the article quotes former England batsman Geoffrey Boycott as saying that England will win again and that the series will be very tight.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there is a consistency issue. The summary states that England's defeat was "one of the greatest in history," but the article does not support this claim. Here's the reasoning step by step:
 
-Overall, the summary is not consistent with the article because it exaggerates England's victory and makes claims that are not supported by the text.
+1. The article does not mention anything about England's defeat being "great" or "one of the greatest." Instead, it highlights England's dominant performance, with phrases like "hammering," "absolute thrashing," and "controlled."
+2. The article emphasizes England's strong batting performance, with Joe Root scoring a century and Alastair Cook making 105 and 76 not out. It also mentions Pakistan's poor batting, with the team being bowled out for 234 and 198.
+3. The summary, on the other hand, suggests that England suffered a heavy defeat, which is not supported by the article.
+4. The article does not contain any language that would suggest that England's defeat was "one of the greatest in history." In fact, the tone of the article is quite positive, highlighting England's strong performance and Pakistan's struggles.
+
+Therefore, the summary is not consistent with the article. The summary's claim that England's defeat was "one of the greatest in history" is not supported by the text of the article.
 
 ###Corrected:

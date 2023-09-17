@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    microsoft has launched a version of minecraft-the world\'s most popular version of the minecraft computer game-in its uk and canada. 
-
-    Article: 
-    The product will offer teachers new ways to use the world-building video game in a range of subjects.
+<Article>
+The product will offer teachers new ways to use the world-building video game in a range of subjects.
 Microsoft paid $2.5bn (Â£1.8bn) for Mojang, Minecraft's Swedish creator, in 2014. And late last year, it bought the four-year-old MinecraftEdu version of the game from Finland-based independent developer TeacherGaming.
 It is now promising to add features, but schools may face extra costs.
 It says more than 7,000 classrooms around the world already use Minecraft in some form.
@@ -30,16 +27,26 @@ However, he said other teachers should be aware the software had its limitations
 "If all you are doing is sitting them down and leaving them to experience Shakespeare through Minecraft, you would be doing something wrong.
 "Dance, art, drama and music remain the best ways to teach kids.
 "But technology can add to that as an additional tool."
-Microsoft said it would allow teachers to start "beta-testing" Minecraft's education edition at some point "in the summer" without charge, ahead of its formal rollout. 
+Microsoft said it would allow teachers to start "beta-testing" Minecraft's education edition at some point "in the summer" without charge, ahead of its formal rollout.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+microsoft has launched a version of minecraft-the world\'s most popular version of the minecraft computer game-in its uk and canada.
+</Summary>
 
-1. The summary states that Microsoft has launched a version of Minecraft for the UK and Canada, but the article does not mention any specific launch or availability of Minecraft for these regions. Instead, the article focuses on the company's plans to improve the MinecraftEdu experience for teachers and students.
-2. The summary mentions that the new version of Minecraft will be available for a fee, but the article does not provide any information about pricing. In fact, the article states that Microsoft intends to charge an annual fee of $5 for each teacher and child, which is not mentioned in the summary.
-3. The summary states that the new version of Minecraft will allow teachers to modify content in the game and use a shared library of education-themed assets, but the article does not provide any information about these features. Instead, the article focuses on the company's plans to improve the MinecraftEdu experience for teachers and students.
-4. The summary mentions that the new version of Minecraft will be available for "schools," but the article does not mention any specific availability for schools. Instead, the article focuses on the company's plans to improve the MinecraftEdu experience for teachers and students.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it provides information that is not present in the article, such as the availability of Minecraft for the UK and Canada, and it omits information that is present in the article, such as the pricing and features of the new version of Minecraft.
+1. The summary states that Microsoft has launched Minecraft in the UK and Canada, but the article does not mention anything about the game being launched in these countries.
+2. The article states that Microsoft has acquired MinecraftEdu, a version of the game specifically designed for educational use, and is planning to add new features to it. The summary does not mention anything about MinecraftEdu or the new features.
+3. The article mentions that the new features will be available to teachers and students, but the summary only mentions "Microsoft" launching the game.
+4. The article mentions that the current basic set-up for schools to use MinecraftEdu costs $14 per user, plus an additional $41 for server software. The summary does not mention any pricing information.
+5. The article quotes a head teacher who emphasizes the importance of using technology in conjunction with other tools, and not relying solely on Minecraft to teach children. The summary does not include this quote or any other information about the potential limitations of using Minecraft for education.
+
+Therefore, the summary is not consistent with the article because it:
+
+* Fails to mention key details about MinecraftEdu and the new features being added.
+* Incorrectly states that Microsoft has launched Minecraft in the UK and Canada.
+* Fails to provide pricing information.
+* Omits important information about the potential limitations of using Minecraft for education.
 
 ###Corrected:

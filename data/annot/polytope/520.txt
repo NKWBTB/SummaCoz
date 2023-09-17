@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son .
-the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
-the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check . 
-
-    Article: 
-    michael scott shemansky is on the run after authorities named him as a suspect in the murder of his mother
+<Article>
+michael scott shemansky is on the run after authorities named him as a suspect in the murder of his mother
 a florida man wanted as a suspect in the murder of his own mother has been on the run from police since saturday .
 police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son on the same day mother sandra shemansky , 57 , was found dead at the home they shared in winter garden .
 the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
@@ -28,19 +23,24 @@ authorities have the murder weapon , still not publicly identified , but will no
 he allegedly was seen going into the trailer park 's office and asking for a glass of water shortly after the murder .
 shemansky was last seen fleeing on foot without any sort of provisions and no medication .
 his estranged wife is reportedly preparing to protect himself on the chance he arrives at her home .
-anyone with information as to his whereabouts is urged to contact authorities at 407-656-3645 . 
+anyone with information as to his whereabouts is urged to contact authorities at 407-656-3645 .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son .
+the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
+the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
+</Summary>
 
-1. The summary states that the body was discovered when an out-of-state family member called in a well-being check, but the article states that the body was discovered when an initial investigation determined there was foul play.
-2. The summary does not mention that Michael Scott Shemansky is a suspect in his mother's murder, while the article reveals that he is wanted as a suspect and that authorities have named him as a suspect.
-3. The summary does not mention that Shemansky has a history of bipolar mental illness, was involuntarily committed to a psychiatric ward for an attempted suicide, and was on parole for battery on law enforcement, which are all important details mentioned in the article.
-4. The summary does not mention that Shemansky's wife filed a domestic violence injunction against him two years ago, as stated in the article.
-5. The summary suggests that Shemansky's mother may have been preventing him from making the meeting with his son, but the article does not support this idea.
-6. The summary implies that the stress of the divorce proceedings may have pushed Shemansky over the edge, but the article does not directly state this.
-7. The summary mentions that the murder weapon has been found, but the article does not confirm how Sandra Shemansky was killed.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary does not provide an accurate representation of the article's content and is not consistent with the information provided.
+1. The summary only mentions the body being discovered when an out-of-state family member called in a well-being check, while the article states that the body was discovered when an initial investigation determined there was foul play.
+2. The summary does not mention the fact that the suspect, Michael Scott Shemansky, is on the run from police or that he is wanted as a suspect in the murder of his mother.
+3. The summary does not mention the motive for the murder, which is revealed in the article as being related to divorce proceedings and the suspect's history of bipolar mental illness and previous attempts at suicide.
+4. The summary does not mention the fact that the suspect's estranged wife had filed a domestic violence injunction against him two years ago, as stated in the article.
+5. The summary does not mention the murder weapon or any other details about the crime scene, which are provided in the article.
+
+Therefore, the summary is not a consistent representation of the article's content. It only provides a limited and incomplete view of the events, leaving out important details and context that are necessary to understand the full story.
 
 ###Corrected:

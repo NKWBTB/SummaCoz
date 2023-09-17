@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a dumfries teacher who downloaded hundreds of indecent images of children has been struck off. 
-
-    Article: 
-    Timothy Geaney admitted taking or permitting the images to be taken between April 2004 and February 2014.
+<Article>
+Timothy Geaney admitted taking or permitting the images to be taken between April 2004 and February 2014.
 He was made the subject of a community payback order and put on the sex offenders register earlier this year.
 He has now been removed from his profession's register following a General Teaching Council Scotland hearing.
 In February, Dumfries Sheriff Court heard how most of the images he had downloaded were of young boys partially dressed in erotic poses with no sexual activity.
@@ -18,24 +15,22 @@ It also noted that the offending behaviour had taken place over a lengthy period
 "Given the volume of images and the duration of the conduct, taken with the lack of evidence of remedial action, the panel was of the view that there was a strong likelihood of the offending behaviour recurring," it concluded.
 The panel found him unfit to teach and removed him from the professional register.
 Geaney, who was 69 at the time he was sentenced, was not present at the hearing.
-He was prohibited from applying to re-register for a period of two years. 
+He was prohibited from applying to re-register for a period of two years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a dumfries teacher who downloaded hundreds of indecent images of children has been struck off.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that the teacher was "struck off" due to downloading indecent images of children.
-2. However, the article states that the teacher was made the subject of a community payback order and put on the sex offenders register, but was not struck off.
-3. The summary mentions that the teacher had downloaded "hundreds" of indecent images, while the article states that he had downloaded "most" of the images.
-4. The summary does not mention the length of time over which the offending behavior took place, while the article states that it occurred between April 2004 and February 2014.
-5. The summary does not mention the specific program for sex offenders that the teacher was ordered to participate in, while the article states that he was ordered to take part in a special programme for sex offenders.
-6. The summary states that the panel found the teacher unfit to teach and removed him from the professional register, while the article states that the panel found that the teacher had failed to uphold the standards expected of the profession and was prohibited from applying to re-register for a period of two years.
+2. However, the article states that the teacher was made the subject of a community payback order and was put on the sex offenders register, but was later removed from the professional register.
+3. The summary does not mention the community payback order or the sex offenders register, only stating that the teacher was "struck off".
+4. The article explains that the teacher was found to have "condoned and participated in an industry that violates and abuses children" and that his conduct was "fundamentally incompatible" with being a registered teacher.
+5. The summary does not mention any of these details, only stating that the teacher was "struck off" without providing any explanation or context.
+6. Therefore, the summary is not consistent with the article, as it does not provide a complete and accurate representation of the teacher's offenses and the consequences he faced.
 
-Therefore, the summary is not consistent with the article because it:
-
-* Uses the term "struck off" instead of "made the subject of a community payback order and put on the sex offenders register"
-* Incorrectly states that the teacher downloaded "hundreds" of images instead of "most"
-* Omits the length of time over which the offending behavior took place
-* Omits the specific program for sex offenders that the teacher was ordered to participate in
-* Incorrectly states that the panel found the teacher unfit to teach and removed him from the professional register, when in fact the panel found that the teacher had failed to uphold the standards expected of the profession and was prohibited from applying to re-register for a period of two years.
+Overall, the summary is not consistent with the article because it does not include important details about the teacher's offenses and the consequences he faced, and instead only states that the teacher was "struck off" without providing any explanation or context.
 
 ###Corrected:

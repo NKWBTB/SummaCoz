@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a council has said it is " devastated " after one of its tower blocks failed fire safety tests. 
-
-    Article: 
-    Sheffield City Council said the cladding at Hanover House was not made of the solid aluminium panels ordered.
+<Article>
+Sheffield City Council said the cladding at Hanover House was not made of the solid aluminium panels ordered.
 The issue was spotted during fire safety tests carried out in the wake of the Grenfell Tower blaze.
 Councillor Jayne Dunn said: "We will not stop until we get to the bottom of what happened."
 More stories from across Yorkshire
@@ -21,17 +18,21 @@ Mr Cawthorne said: "The Tenants Association were given samples, which I kept for
 "That's what the council asked to be put on this building, but that's not what was discovered on this building when the tests were carried out.
 "People are angry and I personally feel betrayed."
 Tests are being carried out on high rises across England in the wake of the Grenfell Tower fire in London on 14 June, in which at least 79 people died.
-So far 75 UK blocks have failed fire safety tests in 26 areas. 
+So far 75 UK blocks have failed fire safety tests in 26 areas.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's my reasoning step by step:
+<Summary>
+a council has said it is " devastated " after one of its tower blocks failed fire safety tests.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that the council is "devastated" after one of its tower blocks failed fire safety tests.
-2. However, the article does not mention the word "devastated" in relation to the council's response to the failed fire safety tests. Instead, it quotes a councillor as saying that the council will not stop until they get to the bottom of what happened.
-3. The summary also states that the council said the cladding at Hanover House was not made of the solid aluminium panels ordered.
-4. However, the article does not mention anything about the council making such a statement. Instead, it reports that one element of the cladding system failed new fire tests and that the issue was discovered following independent testing of the cladding at the council's 24 tower blocks.
-5. Therefore, the summary is not consistent with the article because it misrepresents the council's response to the failed fire safety tests and the nature of the issue with the cladding at Hanover House.
+2. However, the article states that the council is not devastated, but rather, they are determined to get to the bottom of what happened.
+3. The summary does not mention the reason for the failure of the fire safety tests, while the article reveals that the cladding at Hanover House was not made of the solid aluminium panels ordered, and that a single element of the cladding system had failed new fire tests.
+4. The summary does not provide any specific information about the tower block that failed the fire safety tests, while the article provides detailed information about Hanover House, including the fact that the cladding was not what was expected, and that residents are angry and feel betrayed.
+5. Therefore, the summary is not consistent with the article, as it does not provide the same level of detail or accuracy about the tower block that failed the fire safety tests.
 
-Overall, it appears that the summary was not accurately based on the information in the article.
+Overall, the summary is too general and does not accurately reflect the content of the article. It does not provide specific information about the tower block that failed the fire safety tests, and it does not mention the reason for the failure, which is revealed in the article as being due to the cladding not being what was expected.
 
 ###Corrected:

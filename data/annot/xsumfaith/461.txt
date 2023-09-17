@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a school has been sent back to school after being sent off by students at a school in london. 
-
-    Article: 
-    Hanson Academy strictly enforced its school uniform policy on Tuesday, with almost 10% of pupils failing to reach the academy's standards.
+<Article>
+Hanson Academy strictly enforced its school uniform policy on Tuesday, with almost 10% of pupils failing to reach the academy's standards.
 Angry parents took to the school's Facebook page to complain about the new measures.
 But Hanson Academy claims it "communicated clearly" its expectations for this school year.
 Pupils face being sent home for a variety of reasons, including if they wear hoop earrings, two earrings or more per ear or patterned trousers.
@@ -29,17 +26,19 @@ Another parent expressed concerns about how they were being informed their child
 Fiona Taylor, who has two children aged 13 and 11 at the school, said: "Parents yesterday didn't receive text messages until after 14:00.
 "So all day their children have been sent away and these parents who were out at work did not get informed until late in the afternoon."
 The school insists it will persist with the policy, but Mrs Churton admitted there had been mixed feedback from parents.
-She said the school would work with parents who were struggling to dress their children appropriately. 
+She said the school would work with parents who were struggling to dress their children appropriately.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a school has been sent back to school after being sent off by students at a school in london.
+</Summary>
 
-1. The summary states that the school was "sent back to school" after being sent off by students, but the article does not mention anything about the school being sent off or closed.
-2. The summary mentions that the school has been strict with its uniform policy, but the article does not mention anything about the uniform policy being the reason for the school's actions.
-3. The summary states that the school sent home 63 pupils on Wednesday, but the article only mentions that 63 pupils were sent home on Tuesday.
-4. The summary mentions that the school's policy is to send home students who do not meet the uniform standards, but the article states that the school is enforcing its uniform policy strictly and that students are being sent home for a variety of reasons, including wearing hoop earrings, two earrings or more per ear, patterned trousers, and not having the correct footwear.
-5. The summary does not mention anything about the school's reasons for sending home the students, but the article states that the school is enforcing its policy to prepare students for "adult life" and that the rules are an important part of the educational experience.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the school's actions and reasons for sending home the students.
+1. The summary states that a school has been sent back to school after being sent off by students at a school in London. However, the article does not mention anything about the school being sent off or sent back.
+2. The article only mentions that the school enforced its uniform policy and sent some students home for not adhering to the rules.
+3. The summary is not consistent with the article because it does not accurately reflect the events described in the article.
+4. The article does not mention anything about the school being sent off or sent back, and instead focuses on the school's uniform policy and the reactions of some parents and students.
+5. Therefore, the summary is not a accurate representation of the article and is not consistent with the information provided.
 
 ###Corrected:

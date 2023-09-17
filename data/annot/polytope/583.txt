@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    lillian bay , new jersey , revealed that she is ' UNK ' and ' fat ' .
-she says the word does n't have to be used as a UNK for ' ugly ' .
-she says the word does n't have to be a ' UNK for ugly ' . 
-
-    Article: 
-    a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
+<Article>
+a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
 during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
 and ` fat ' is just another self-descriptor for her , who insists that the word does n't have to be used as a synonym for ` ugly ' .
 ` we as women are programmed to tell each other that we 're not fat , because to many people - both men and women - fat is the worst thing that you can be , ' she said during her talk , which took place earlier this month .
@@ -32,17 +27,22 @@ since then , the clip has generated nearly 38,000 views - and plenty of positive
 ` i 've never been so happy in all my life , ' she wrote for xojane .
 ` i 've had this stupid grin on my face for a week straight . '
 besides a few ` trolls ' posting vicious negative comments , lillian received a slew of positive messages , including letters of thanks , personal stories , and an email from a teenage girl who watched the video with her younger sister and said it made them reevaluate the way they viewed their bodies .
-` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said . 
+` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+lillian bay , new jersey , revealed that she is ' UNK ' and ' fat ' .
+she says the word does n't have to be used as a UNK for ' ugly ' .
+she says the word does n't have to be a ' UNK for ugly ' .
+</Summary>
 
-1. The summary states that Lillian Bay revealed that she is "UNK" and "fat", but the article does not mention her using those words to describe herself. Instead, the article states that she embraces the word "fat" as a positive description of her body.
-2. The summary implies that Lillian Bay is trying to eradicate the negative perception of the word "fat", but the article states that she is trying to change people's perceptions of bigger bodies by exposing them to body diversity.
-3. The summary mentions that Lillian Bay is from New Jersey, but the article does not provide that information.
-4. The summary states that Lillian Bay's talk was posted on YouTube three weeks ago, but the article states that it took place earlier this month.
-5. The summary quotes Lillian Bay as saying that "the more we're exposed to body diversity, the more we tolerate, accept, and yes, even prefer different body types", but the article does not include that quote.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it does not accurately represent Lillian Bay's message or her use of language. The summary emphasizes the word "fat" in a negative way, while the article focuses on body positivity and acceptance.
+1. The summary states that Lillian Bay is "UNK" and "fat", while the article does not use those words to describe her. The article uses the word "burlesque performer" to describe Lillian Bustle, and it does not mention her weight or body shape.
+2. The summary implies that Lillian Bay is using the word "fat" to describe herself in a negative way, while the article actually quotes her as saying that the word "fat" does not have to be used as a synonym for "ugly".
+3. The summary does not accurately convey the message of Lillian Bustle's TED talk, which was about body positivity and challenging societal beauty standards. The article provides more context and details about her talk, including her experiences as a burlesque performer and her message about the importance of exposing people to different body types.
+
+Overall, the summary is not consistent with the article because it does not accurately convey the message or content of Lillian Bustle's TED talk. It misrepresents her words and implies that she is using the word "fat" in a negative way, when in fact she is using it as a positive self-descriptor.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ten pieces produces capsule collection of ten pieces of unisex clothing designed to be worn in 20 ways . 
- empty pool was used as part of mercedes-benz fashion week australia . 
- ten pieces is worn in ten ways .  
-
-    Article: 
-    there may have been a few disgruntled lap swimmers at bondi on thursday .
+<Article>
+there may have been a few disgruntled lap swimmers at bondi on thursday .
 the daily visitors to the iconic icebergs club were forced to take their exercise back to the beach as their beloved pool was drained for the fashion folk .
 the empty pool was used as the unusual catwalk setting for the ten pieces presentation as part of mercedes-benz fashion week australia .
 bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
@@ -26,18 +21,22 @@ worlds collide : beachgoers at bondi stopped and stared as the catwalk show took
 girls and boys : the androgynous wares are designed to be worn by both sexes
 winter is coming : models wrapped up in scarves and hoodies from the unisex collection
 poolside : guests enjoyed the sunny weather as they waited for the show to commence
-public site : passers-by stopped to watch the show from the road above the pool 
+public site : passers-by stopped to watch the show from the road above the pool
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+ten pieces produces capsule collection of ten pieces of unisex clothing designed to be worn in 20 ways . 
+ empty pool was used as part of mercedes-benz fashion week australia . 
+ ten pieces is worn in ten ways . 
+</Summary>
 
-1. The summary states that the pool was used as a catwalk setting for the Ten Pieces presentation, but the article does not mention this. Instead, the article states that the pool was drained for the fashion show.
-2. The summary mentions that the collection is designed to be worn in 20 different ways, but the article does not mention this. The article only states that the collection is a capsule collection of ten pieces of unisex clothing.
-3. The summary states that the show took place on an unseasonably warm 28 degrees Celsius day, but the article does not mention the temperature.
-4. The summary mentions that guests were treated to nibbles and drinks, but the article does not mention this.
-5. The summary states that the collection is suitable for day to night wear, but the article does not mention this.
-6. The summary mentions that the show was held at Bondi's Icebergs club, but the article does not mention the location.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important information that is present in the article.
+1. The summary states that "ten pieces is worn in ten ways," which is not supported by the article. The article states that the collection is designed to be worn in 20 different ways, not ten.
+2. The summary also states that the empty pool was used as part of Mercedes-Benz Fashion Week Australia, which is correct. However, the article provides more information about the event, such as the fact that the pool was drained to create a unique catwalk setting, and that the show took place on an unseasonably warm day.
+3. The summary does not mention the fact that the collection is unisex, which is a key aspect of the article. The article highlights that the label, Ten Pieces, produces unisex collections of clothing that are designed to be worn by both sexes.
+4. The summary does not mention the name of the label, Ten Pieces, which is mentioned several times in the article.
+
+Overall, the summary does not provide an accurate representation of the article's content. It omits key details, such as the fact that the collection is unisex and that it is designed to be worn in 20 different ways, and it includes inaccuracies, such as the statement that the collection is worn in ten ways.
 
 ###Corrected:

@@ -1,24 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an 85-year-old woman has died after being struck by a bin lorry in edinburgh. 
-
-    Article: 
-    The incident happened on Morningside Road, near to Jordan Lane, at about 11:45 on Sunday.
+<Article>
+The incident happened on Morningside Road, near to Jordan Lane, at about 11:45 on Sunday.
 A local diversion was put in place at Comiston Road and Churchill Place, following the incident.
 Police Scotland have appealed to anyone who may have seen the elderly woman, or the bin lorry, before the incident occurred.
-Sgt Andrew Miller, of the road policing unit, said: "The woman was walking with a wheeled walking aid, similar to a zimmer frame, and we're hopeful anyone who might have seen her will come forward with relevant information." 
+Sgt Andrew Miller, of the road policing unit, said: "The woman was walking with a wheeled walking aid, similar to a zimmer frame, and we're hopeful anyone who might have seen her will come forward with relevant information."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+an 85-year-old woman has died after being struck by a bin lorry in edinburgh.
+</Summary>
 
-1. The summary states that the 85-year-old woman died after being struck by a bin lorry in Edinburgh.
-2. The article does not mention the woman's death. Instead, it reports that the incident happened and that police are appealing for witnesses.
-3. The article does not provide any information about the woman's fate, whether she survived or not.
-4. Therefore, the summary is not consistent with the article because it states that the woman died, while the article does not confirm or deny this.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it includes information that is not present in the article, specifically the fact that the woman died.
+1. The summary states that an 85-year-old woman has died after being struck by a bin lorry in Edinburgh.
+2. However, the article does not mention the woman's death. Instead, it reports that the woman was injured and that police are appealing for witnesses.
+3. The summary is not consistent with the article because it states that the woman has died, while the article does not confirm this.
+4. The reason for the inconsistency is that the summary is not supported by the information in the article. The article does not mention the woman's death, only her injury.
+5. Therefore, the summary is not accurate and should not be relied upon as a summary of the article.
 
 ###Corrected:

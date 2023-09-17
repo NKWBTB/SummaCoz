@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim .
-the findings come after the general secretary of the national association of head teachers said he was dubious about using technology as a teaching aid in non-it classes . 
-however , research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices . 
-
-    Article: 
-    children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim .
+<Article>
+children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim .
 the findings come after the general secretary of the national association of head teachers said he was dubious about using technology as a teaching aid in non-it classes .
 however , research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices .
 children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim ( stock image above )
@@ -18,13 +13,24 @@ she worked with 352 students at a midwestern suburban school district during the
 miss blackwell said the findings suggest it 's the ` collaborative learning around the technology that made the difference , not just the collaboration in and of itself ' .
 shared ipad students scored around 30 points higher in a test than students who used the device on their own and non-ipad users ( stock image above )
 she added : ` schools might reconsider how the tablets are used , especially in earlier grades , in order to make the technology most effective . '
-she is due to present her findings at the 65th annual conference of the international communication association in puerto rico . 
+she is due to present her findings at the 65th annual conference of the international communication association in puerto rico .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim .
+the findings come after the general secretary of the national association of head teachers said he was dubious about using technology as a teaching aid in non-it classes . 
+however , research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices .
+</Summary>
 
-1. The summary states that "children who share ipads in class do much better in early literacy tests than those who don't." However, the article does not mention anything about the children's performance in early literacy tests. Instead, it discusses the findings of a study by Courtney Blackwell, which found that kindergarten children who shared ipads in classes over an academic year significantly outscored their peers who were in classes that had no ipads or in which each student had their own device.
-2. The summary also mentions that the researchers claim that sharing ipads leads to better literacy levels, but the article does not provide any direct quotes or statements from the researchers supporting this claim. Instead, it quotes Courtney Blackwell as saying that the findings suggest it's the "collaborative learning around the technology that made the difference, not just the collaboration in and of itself."
-3. Therefore, the summary is not consistent with the article because it makes claims that are not supported by the information in the article. The article does not provide any information about the children's performance in early literacy tests, and it does not directly support the claim that sharing ipads leads to better literacy levels. Instead, it focuses on the findings of the study by Courtney Blackwell and the potential benefits of collaborative learning around technology.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. The article states that "researchers claim" that children who share ipads in class do much better in early literacy tests than those who do not.
+2. However, the summary does not include the phrase "researchers claim." Instead, it simply states that "research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices."
+3. The article provides specific data and statistics to support the claim that shared iPad use leads to better literacy outcomes. For example, the article states that kindergarten children who shared ipads in classes over an academic year significantly outscored their peers who were in classes that had no ipads or in which each student had their own device.
+4. The summary does not include any of these specific data or statistics. Instead, it simply states that "research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices."
+5. Therefore, the summary is not consistent with the article because it does not include the specific data and statistics that support the claim that shared iPad use leads to better literacy outcomes. Instead, it simply states a general conclusion without providing any specific evidence to support it.
+
+Overall, the summary is not consistent with the article because it does not include the specific data and statistics that support the claim that shared iPad use leads to better literacy outcomes. Instead, it simply states a general conclusion without providing any specific evidence to support it.
 
 ###Corrected:

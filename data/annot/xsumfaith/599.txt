@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nico rosberg took his third straight win of 2016 as mercedes team-mate lewis hamilton fought back to seventh in a hectic chinese grand prix. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 World champion Hamilton started from the back, suffered a broken front wing on lap one and did five pit stops.
 The Briton faces the prospect of trying to overhaul a 36-point deficit in the remaining 18 races of the season.
 Ferrari's Sebastian Vettel came second despite colliding with team-mate Kimi Raikkonen on the first lap.
@@ -33,17 +30,21 @@ He began his fightback from there, with the Ferraris doing the same - Vettel sta
 Mercedes F1 boss Toto Wolff said the front wing had damaged the leading edge of the floor and the barge boards when it came off and that the car had lost a "lot of aerodynamic performance".
 After a further switch to the medium compound tyres to last the race, Hamilton was not able to recover as much ground as the Ferraris and faces an uphill battle if he is to stop Rosberg winning his first world title this year.
 Chinese Grand Prix race results
-Chinese Grand Prix coverage details 
+Chinese Grand Prix coverage details
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     The given summary is not consistent with the article because:
+<Summary>
+nico rosberg took his third straight win of 2016 as mercedes team-mate lewis hamilton fought back to seventh in a hectic chinese grand prix.
+</Summary>
 
-1. The summary states that Nico Rosberg took his third straight win of 2016, but the article states that Sebastian Vettel came second.
-2. The summary mentions that Lewis Hamilton fought back to seventh, but the article states that he started from the back, suffered a broken front wing on lap one, and did five pit stops.
-3. The summary does not mention the incidents that occurred on the first lap, including the collision between Sebastian Vettel and Kimi Raikkonen, and the subsequent damage to both cars.
-4. The summary does not mention Lewis Hamilton's struggles with the car's handling and the fact that he was unable to recover as much ground as the Ferraris.
-5. The summary does not mention the post-race rant by Sebastian Vettel and the tensions between him and Kvyat.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not a accurate reflection of the article and does not provide a consistent overview of the Chinese Grand Prix.
+1. The summary states that Nico Rosberg took his third straight win of 2016, but the article states that Rosberg did not win the race.
+2. The summary mentions that Lewis Hamilton fought back to seventh, but the article states that Hamilton started from the back, suffered a broken front wing, and did five pit stops, which is not consistent with a seventh-place finish.
+3. The summary does not mention the incidents that occurred during the race, such as the first-lap collisions and the safety car period, which are significant aspects of the article.
+4. The summary does not provide any information about the Ferrari drivers, Sebastian Vettel and Kimi Raikkonen, who were involved in the incidents and finished second and fifth, respectively.
+5. The summary does not mention the post-race confrontations between the drivers, such as Vettel's rant about Kvyat's driving and Kvyat's response.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the events of the race and omits significant details.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tens of thousands of people have attended the annual anzac day parade in the gallipoli landings in hyde park. 
-
-    Article: 
-    Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
+<Article>
+Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
 Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.
 A service was also held at Westminster Abbey.
 The national anthems of New Zealand and Australia were sung as the service ended.
@@ -16,17 +13,20 @@ Addressing the crowds at the dawn service, Alexander Downer, Australian high com
 "We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."
 Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.
 Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.
-The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war. 
+The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+tens of thousands of people have attended the annual anzac day parade in the gallipoli landings in hyde park.
+</Summary>
 
-1. The summary states that "tens of thousands of people" attended the Anzac Day parade in Hyde Park, but the article states that "thousands" attended the early morning service and up to 400 people took part in the parade. This suggests that the summary's estimate of "tens of thousands" is not supported by the article.
-2. The summary mentions nothing about a service being held at Westminster Abbey, but the article states that a service was held there and that the national anthems of New Zealand and Australia were sung at the end of the service. This suggests that the summary is not consistent with the article.
-3. The summary mentions the Gallipoli landings, but the article does not provide any information about the Gallipoli landings. This suggests that the summary is not consistent with the article.
-4. The summary mentions the Anzac Day commemoration being an important moment for thousands of expatriate and visiting New Zealanders and Australians, but the article does not provide any information about the expatriate and visiting communities. This suggests that the summary is not consistent with the article.
-5. The summary quotes Alexander Downer, the Australian high commissioner to the UK, but the article does not mention him or his quote. This suggests that the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and it omits information that is present in the article.
+1. The summary states that the event took place in the "gallipoli landings in hyde park." However, the article does not mention anything about the gallipoli landings taking place in hyde park.
+2. The article states that the event took place at Hyde Park Corner and the Cenotaph, which are both located in central London.
+3. The summary implies that the event was held in a specific location called the "gallipoli landings," which is not a real place and does not exist in London.
+4. The article does mention the Gallipoli campaign, but it does not mention any specific location called the "gallipoli landings."
+5. The summary is not consistent with the article because it implies that the event took place in a specific location that does not exist and does not match the location described in the article.
+6. Therefore, the summary is not an accurate representation of the article and contains errors.
 
 ###Corrected:

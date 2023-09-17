@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 
-detectives went to rottnest island on saturday and questioned the two men and also seized video evidence of the careless act . 
-the size of a domestic cat quokkas can be found on some small islands off the west australian coast in particular off rottnest island off perth and bald island near albany  
-
-    Article: 
-    a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
+<Article>
+a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
 the two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
 the lucky little critter survived the reckless incident but was singed by the flame .
 two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3
@@ -18,17 +13,28 @@ they have each been charged with animal cruelty and will appear in fremantle mag
 the size of a domestic cat
 quokkas can be found on some small islands off the west australian coast
 in particular off rottnest island off perth and bald island near albany
-the lucky little critter survived the reckless incident but was singed by the flame and the men were charged 
+the lucky little critter survived the reckless incident but was singed by the flame and the men were charged
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 
+detectives went to rottnest island on saturday and questioned the two men and also seized video evidence of the careless act . 
+the size of a domestic cat quokkas can be found on some small islands off the west australian coast in particular off rottnest island off perth and bald island near albany 
+</Summary>
 
-1. The summary states that the two French tourists allegedly ignited an aerosol spray with a lighter, causing a large flame to make contact with a quokka on Rottnest Island.
-2. However, the article states that the two French tourists tried to set the quokka alight, which is a more intentional and malicious act than simply igniting an aerosol spray.
-3. The summary does not mention the intentional nature of the act, which is a key aspect of the article's reporting.
-4. Additionally, the summary states that the quokka was "singed" by the flame, which suggests that the animal was only superficially burned, whereas the article states that the quokka was the "innocent victim" of a "cruel act" and was "singed" by the flame.
-5. Finally, the summary does not mention the charges brought against the two French tourists, which is a significant aspect of the article's reporting.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article and that the summary has left out or altered key information from the article.
+1. The summary states that the quokka was "singed" by the flame, indicating that it was burned.
+2. However, the article states that the quokka "survived the reckless incident" and was not burned to death.
+3. The summary also states that the quokkas can be found on "some small islands off the west australian coast", while the article specifically mentions Rottnest Island and Bald Island.
+4. The summary does not mention the fact that the two French tourists were charged with animal cruelty.
+
+Therefore, the summary is not consistent with the article because it:
+
+* Misstates the extent of the quokka's injuries.
+* Oversimplifies the location of the quokkas.
+* Omits a key detail (the charges against the two tourists).
+
+Overall, the summary is not an accurate representation of the article's content.
 
 ###Corrected:

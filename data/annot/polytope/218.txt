@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
-dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
-manchester city midfielder kean bryan tracks the run of dominic solanke as city looked to stem the tide 
-
-    Article: 
-    chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
+<Article>
+chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
 dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
 sportsmail was at the academy stadium to see how the youngsters got on ...
 tammy abraham smashes chelsea into the lead with a fierce drive into the top corner
@@ -51,17 +46,35 @@ charly musonda : the belgian playmaker , the only overseas man in the starting x
 isaiah brown : said to be interesting jose mourinho but will not want to dwell on his big moment early on when he blasted over bar when unmarked on the edge of the box .
 miss aside , was a constant menace .
 kasey palmer ( abraham , 67 , 6 ) : on for abraham and showed explosive pace straight away but was let down by a hurried attempt at a finish which flew over the bar .
-isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward 
+isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
+dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
+manchester city midfielder kean bryan tracks the run of dominic solanke as city looked to stem the tide
+</Summary>
 
-1. The summary states that Chelsea took a commanding 3-1 lead back to West London, but the article does not mention the score. The article only mentions that Chelsea took a first-half lead and that the game ended in a 3-1 win for the team.
-2. The summary states that Dominic Solanke scored late on to put a gloss on the scoreline, but the article does not mention Solanke scoring. Instead, the article states that Solanke teamed up well with Tammy Abraham before effectively killing the tie with a neat third.
-3. The summary states that Tammy Abraham smashed Chelsea into the lead with a fierce drive into the top corner, but the article does not mention Abraham smashing the ball into the top corner. Instead, the article states that Abraham scored two volleys for his 35th and 36th strikes of the season.
-4. The summary states that Manchester City midfielder Kean Bryan tracks the run of Dominic Solanke, but the article does not mention Bryan tracking Solanke's run. Instead, the article states that Bryan pulled up injured after 36 minutes but battled back bravely.
-5. The summary states that Isaac Buckley-Ricketts produced a measured finish to bring City level, but the article does not mention Buckley-Ricketts scoring. Instead, the article states that Buckley-Ricketts was marshalled well for the majority of the evening.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations that do not match the information provided in the article.
+The given summary is not consistent with the article because it does not accurately reflect the events described in the article. Here's a step-by-step explanation of the inconsistencies:
+
+1. The summary states that Chelsea took a commanding 3-1 lead back to West London, while the article states that Chelsea won 3-1 against Manchester City's young side.
+
+Inconsistency: The summary mentions West London, which is not mentioned in the article. The article only mentions Manchester.
+
+2. The summary states that Dominic Solanke scored late on to put a gloss on the scoreline, while the article states that Solanke scored twice in the first half.
+
+Inconsistency: The summary does not accurately reflect the timing of Solanke's goals.
+
+3. The summary mentions that Manchester City midfielder Kean Bryan tracked the run of Dominic Solanke, while the article does not mention this.
+
+Inconsistency: The summary includes information that is not present in the article.
+
+4. The summary does not mention the other goals scored in the game, while the article states that Tammy Abraham scored two volleys and Dominic Solanke scored once.
+
+Inconsistency: The summary does not provide a complete summary of the game, as it does not mention all of the goals scored.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the events described in the article and includes information that is not present in the article.
 
 ###Corrected:

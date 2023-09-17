@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jessica kemp from eustis says teachers at seminole county elementary threaten to remove kindergartner logan from class because the oils smell and are a distraction to youngsters around him . 
-the family uses detorra oils with scents such as lavender , chamomile and sandalwood . 
-lake county school district told the station they would not suspend logan saying it was a health issue . 
-
-    Article: 
-    a florida mother has accused a school of threatening to suspend her five-year-old autistic son because of ` essential oils ' he wears to help combat his illness .
+<Article>
+a florida mother has accused a school of threatening to suspend her five-year-old autistic son because of ` essential oils ' he wears to help combat his illness .
 jessica kemp from eustis says teachers at seminole county elementary warned they would remove kindergartner logan from class because the products , manufactured by doterra , smell and are a distraction to youngsters around him .
 the 32-year-old says she applies the liquid to his head and neck as it helps him keep calm and focused .
 jessica kemp from eustis says teachers at seminole county elementary threaten to remove kindergartner logan from class because the oils smelled and were a distraction to youngsters around him
@@ -24,15 +19,24 @@ however , on thursday , lake county school district told the station they would 
 the daily mail online has contacted doterra for comment .
 the family uses oils with scents such as lavender , chamomile and sandalwood .
 the company who describes their products as being ` beautifully and powerfully fragrant .
-the family uses detorra oils with scents such as lavender , chamomile and sandalwood 
+the family uses detorra oils with scents such as lavender , chamomile and sandalwood
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jessica kemp from eustis says teachers at seminole county elementary threaten to remove kindergartner logan from class because the oils smell and are a distraction to youngsters around him . 
+the family uses detorra oils with scents such as lavender , chamomile and sandalwood . 
+lake county school district told the station they would not suspend logan saying it was a health issue .
+</Summary>
 
-1. The summary states that the teachers threatened to remove Logan from the classroom because the oils smelled and were a distraction to other students. However, the article states that the teachers threatened to remove Logan because the oils smelled and created a "problem" for staff and students.
-2. The summary mentions that the family uses Detorra oils, but the article does not mention this specific brand of oils.
-3. The summary states that the school district told the station they would not suspend Logan, saying it was a health issue. However, the article does not mention this statement from the school district.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Based on these differences, it appears that the summary is not an accurate representation of the article. The summary emphasizes the issue of the oils smelling and being a distraction, while the article focuses more on the school's reaction to the oils and the potential health benefits for Logan. Additionally, the summary mentions a specific brand of oils that is not mentioned in the article.
+1. The summary states that the teachers threatened to remove Logan from class because the oils smelled and were a distraction to youngsters around him. However, the article states that the teachers threatened to remove Logan because the oils smelled and were creating a problem for staff and students.
+
+2. The summary mentions that the family uses Detorra oils with scents such as lavender, chamomile, and sandalwood. However, the article does not mention the specific brand of oils being used.
+
+3. The summary states that Lake County School District told the station they would not suspend Logan, saying it was a health issue. However, the article does not mention anything about Lake County School District or a health issue.
+
+Based on these differences, it appears that the summary is not consistent with the article. The summary emphasizes the smell of the oils and the distraction they cause, while the article focuses on the school's threat to suspend Logan due to the oils creating a problem for staff and students. Additionally, the summary mentions a specific brand of oils being used, while the article does not provide that detail. Finally, the summary mentions a health issue as the reason for the school's decision, while the article does not mention any such reason.
 
 ###Corrected:

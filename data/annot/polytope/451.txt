@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    leeds-based direct line is running a competition called #everydayfix .  
-they asked people to pick their top ten ` everyday emergencies ' - things that caused them an undue amount of stress in their daily lives .  
-groups from london-based design company makerversity were asked to design products that could alleviate certain emergencies - and three were picked for a shortlist . 
-
-    Article: 
-    have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
+<Article>
+have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
 to deal with these sorts of everyday emergencies , one company has designed a range of prototype products .
 you can vote on which one is your favourite - and the winner will be made into an actual product , funded through a kickstarter campaign .
 leeds-based direct line is running a competition called #everydayfix .
@@ -52,17 +47,39 @@ and as another solution to your phone running out of battery , one team designed
 products that did n't make the final shortlist included the parking pin , shown .
 you could leave this in a parking space , and it will alert you when the space is free , so you can park your car
 the relay app , shown , would let you nominate people to receive your messages when your phone dies
-and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you 
+and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+leeds-based direct line is running a competition called #everydayfix .  
+they asked people to pick their top ten ` everyday emergencies ' - things that caused them an undue amount of stress in their daily lives .  
+groups from london-based design company makerversity were asked to design products that could alleviate certain emergencies - and three were picked for a shortlist .
+</Summary>
 
-1. The summary states that the competition is called "#everydayfix," but the article does not mention this hashtag.
-2. The summary mentions that the competition is run by Direct Line, but the article does not confirm this. Instead, it mentions that Direct Line is running a "design makeathon" and a "kickstarter campaign."
-3. The summary mentions that the top emergency was not being able to sleep, but the article does not mention this. Instead, it lists several common everyday emergencies that the competition aimed to solve.
-4. The summary mentions that the winning product will be made into an actual product and funded through a Kickstarter campaign, but the article does not mention this. Instead, it states that the winning product will go into development.
-5. The summary mentions that the competition was run by Direct Line and Makerversity, but the article only mentions Makerversity.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important information that is present in the article.
+Based on the provided article and summary, there are several inconsistencies between the two. Here's my reasoning step by step:
+
+1. The article mentions a survey of 2,000 people, but the summary does not mention any survey.
+
+Inconsistency: The article provides evidence from a survey, but the summary does not include any such evidence.
+
+2. The article lists the top emergencies as not being able to sleep, losing keys, being stuck in traffic, etc., but the summary only mentions "everyday emergencies" without providing any specific examples.
+
+Inconsistency: The article provides specific examples of common emergencies, while the summary is too general and does not provide any concrete examples.
+
+3. The article describes the products designed by the groups, including the "forget me lock" and "nipper" devices, but the summary does not mention any specific products.
+
+Inconsistency: The article provides detailed information about the products designed to solve common emergencies, while the summary does not mention any such products.
+
+4. The article mentions that the competition is running on Twitter, and people can vote for their favorite product by retweeting tweets about the products, but the summary does not mention any social media component.
+
+Inconsistency: The article provides information about the competition's social media aspect, while the summary does not include any such information.
+
+5. The article provides quotes from the co-founder of makerversity and the head of R&D and innovation at direct line, but the summary does not include any such quotes.
+
+Inconsistency: The article provides additional context and perspectives from the companies involved, while the summary does not include any such information.
+
+Overall, the summary does not provide the same level of detail and specific examples as the article, and it does not accurately convey the information provided in the article.
 
 ###Corrected:

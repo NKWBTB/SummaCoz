@@ -1,21 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    businesses and businesses on the isle of wight are to be allowed to free up the new chain ferry, the council has said. 
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved. 
+<Summary>
+businesses and businesses on the isle of wight are to be allowed to free up the new chain ferry, the council has said.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that businesses on the Isle of Wight will be allowed to use the new chain ferry for free.
-2. However, the article states that the ferry has been plagued by problems, including breaking down, running aground, and "training issues" that have caused damage to cars and disrupted trade for local businesses.
-3. The article does not mention anything about businesses being allowed to use the ferry for free. In fact, the council leader is quoted as saying that the ferry will be free until July 2nd "in recognition of the problems" and to allow feedback.
-4. Therefore, the summary is not consistent with the article because it implies that businesses will be allowed to use the ferry for free, while the article states that the ferry is not yet functional and has caused problems for local businesses.
-
-Overall, the summary is not accurate because it does not reflect the content of the article. The article focuses on the problems with the new chain ferry and the impact it has had on local businesses, rather than allowing businesses to use the ferry for free.
+1. The summary states that businesses on the Isle of Wight are to be allowed to use the new chain ferry for free.
+2. The article does not mention anything about businesses using the ferry for free. Instead, it mentions that the council has ordered a review of the project by auditors and that there have been teething problems with the ferry, including breakdowns, groundings, and damage to cars.
+3. The article does mention that the council is considering compensation for damaged cars, but there is no mention of compensation for businesses.
+4. Therefore, the summary is not consistent with the article, as it makes a claim that is not supported by the information in the article.
 
 ###Corrected:

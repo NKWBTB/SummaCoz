@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man in the northern mexican city of tamaulipas has been kidnapped in the north-eastern city of wrist, officials say. 
-
-    Article: 
-    Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
+<Article>
+Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
 Pulido, 25, was abducted at gunpoint on Saturday night in his home town of Ciudad Victoria in Tamaulipas state.
 A 38-year-old man has been arrested.
 Officials say the man had confessed to belonging to a local criminal gang. Police are searching for another three men believed to have been involved in the kidnapping.
@@ -21,17 +18,23 @@ Pulido, with one of his hands bandaged, told reporters early on Monday: "[I am] 
 Tamaulipas is one of Mexico's most violent states, and Mexico recently deployed more security forces to tackle cartels operating in the area.
 The country has one of the world's highest kidnapping rates, with government figures saying some 1,000 people are abducted every year.
 Pulido joined Olympiakos last July and finished the season with six goals in 15 games.
-He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament. 
+He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a man in the northern mexican city of tamaulipas has been kidnapped in the north-eastern city of wrist, officials say.
+</Summary>
 
-1. Location of the kidnapping: The summary states that the man was kidnapped in the northeastern city of Wrist, but the article states that he was kidnapped in his home town of Ciudad Victoria in Tamaulipas state.
-2. Details of the kidnapping: The summary mentions that the man was taken at gunpoint, but the article does not mention the use of weapons. Instead, it states that the man was abducted when his car was surrounded by several vehicles as he was leaving a party with his girlfriend.
-3. Involvement of a criminal gang: The summary mentions that the man was kidnapped by a local criminal gang, but the article does not mention any involvement of a gang. Instead, it states that the man was abducted by masked men.
-4. Details of the phone calls: The summary mentions that the man made threatening phone calls to the emergency operator, but the article does not mention any phone calls being made. Instead, it states that the man was able to escape by punching a glass pane on a door and calling for help.
-5. Injury to the man: The summary states that the man was injured during the kidnapping, but the article does not mention any injuries. Instead, it states that the man was able to escape without any injuries.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important details that are present in the article.
+1. The summary states that the man was kidnapped in the "north-eastern city of Wrist." However, the article does not mention any city called Wrist.
+2. The article states that the man was kidnapped in his home town of Ciudad Victoria in Tamaulipas state.
+3. Therefore, the summary is not consistent with the article because it mentions a fictional city called Wrist, which does not exist in the article.
+
+Step by step reasoning:
+
+1. The summary states that the man was kidnapped in the "north-eastern city of Wrist."
+2. The article does not mention any city called Wrist.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

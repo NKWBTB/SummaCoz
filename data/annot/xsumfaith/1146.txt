@@ -1,28 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former world champions colin nixon and holly nixon have been named in great britain\'s squad for the quadruple european championships in romania. 
-
-    Article: 
-    The 23 year-old stroked the GB boat to a fast start and they were ahead after 500m but European champions, Romania and New Zealand proved too strong.
+<Article>
+The 23 year-old stroked the GB boat to a fast start and they were ahead after 500m but European champions, Romania and New Zealand proved too strong.
 The Romanians came out on top, with the British eight comfortably holding off the challenge from the Netherlands
 The GB eight now prepare for the World Championships in Sarasota in September.
 There was no medal success for Enniskillen's Holly Nixon in the women's quadruple sculls.
-Nixon and her GB team mates Bethany Bryan, Alice Baatz and Mathilda Hodgkins-Byrne, were always off the pace and finished fifth in a race won by Poland. 
+Nixon and her GB team mates Bethany Bryan, Alice Baatz and Mathilda Hodgkins-Byrne, were always off the pace and finished fifth in a race won by Poland.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+former world champions colin nixon and holly nixon have been named in great britain\'s squad for the quadruple european championships in romania.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that former world champions Colin Nixon and Holly Nixon have been named in Great Britain's squad for the quadruple European championships in Romania.
-
-2. However, the article does not mention anything about Colin Nixon being named in the squad. It only mentions Holly Nixon, who was part of the women's quadruple sculls team that finished fifth in their race.
-
-3. Therefore, the summary is not consistent with the article because it mentions Colin Nixon, who does not exist in the article.
-
-4. Additionally, the article does not mention anything about Great Britain winning the quadruple European championships or any other medals, which contradicts the summary's statement that Great Britain won the quadruple European championships.
-
-5. Overall, the summary is not accurate and does not reflect the information in the article.
+2. However, the article does not mention anything about Colin Nixon or Holly Nixon being in the squad for the European championships.
+3. In fact, the article states that Holly Nixon was not successful in the women's quadruple sculls, finishing fifth in a race won by Poland.
+4. Therefore, the summary is not consistent with the article, as it makes a claim about the squad for the European championships that is not supported by the article.
 
 ###Corrected:

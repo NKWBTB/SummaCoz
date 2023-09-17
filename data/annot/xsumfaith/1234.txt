@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    as russia\'s roubles has broken the country\'s debt crisis, the country\'s second-largest bank has ever seen, having lost 
-
-    Article: 
-    At the start of each month Elena, a 40-year-old Muscovite, spreads all the family cash on the table and starts dividing it into small piles.
+<Article>
+At the start of each month Elena, a 40-year-old Muscovite, spreads all the family cash on the table and starts dividing it into small piles.
 "When I do this I shake, I feel nauseous," she says.
 "This goes to one bank, that to another, then the third one… There's one more bank, but we don't have the money for them - I had to go and buy some food. I guess we'll have to put up with their telephone reminders."
 Elena and her husband owe well over 1m roubles (about £10,800; $17,000) to those four banks.
@@ -34,24 +31,26 @@ Besides the mortgage, Vladimir Frolov's parents took out two loans to help him, 
 And now Vladimir has defaulted on the mortgage. The bank is suing and they may well lose their only dwelling.
 "There must be a normal way out - maybe give the bank a fixed share of my wages?" Vladimir wonders. But so far he has not found anyone at the bank to discuss his dilemma.
 "Isn't there a law against this?" asks his father, equally helplessly. "How can they let people borrow so much without checking them first?"
-After the good years many Russians are now getting a harsh lesson in capitalism - and inadequate regulations mean there is nothing to soften the blow. 
+After the good years many Russians are now getting a harsh lesson in capitalism - and inadequate regulations mean there is nothing to soften the blow.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+as russia\'s roubles has broken the country\'s debt crisis, the country\'s second-largest bank has ever seen, having lost
+</Summary>
 
-Step 1: Identify the main points of the summary
-The summary mentions that Russia's roubles have broken the country's debt crisis, and the second-largest bank has ever seen, with losses.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article
-The article describes the struggles of Elena, a 40-year-old Muscovite, who owes well over 1m roubles to four banks and is left with only 10,000 roubles after paying off the monthly cash piles. The article also mentions that millions of Russians are in debt and that the total personal debt has risen to 1tn roubles.
+1. The article discusses Russia's debt crisis and the struggles of individuals who have taken out loans they cannot afford to repay.
+2. The summary states that Russia's debt crisis has been caused by the country's currency, the roubles, breaking.
 
-Step 3: Identify the inconsistencies
-The summary mentions that Russia's roubles have broken the country's debt crisis, but the article describes the struggles of Elena and millions of other Russians who are in debt. The summary also mentions that the second-largest bank has ever seen losses, but the article does not mention any specific bank losses.
+This is not consistent with the article for several reasons:
 
-Step 4: Analyze the reasons for the inconsistencies
-The inconsistencies are likely due to the fact that the summary is focusing on the overall economic situation in Russia, while the article is focusing on the personal struggles of Elena and other individuals. The summary may be using a broader perspective to paint a picture of the country's economic situation, while the article is providing a more specific and personal account of the debt crisis. Additionally, the summary may be using a different time frame than the article, as the article mentions that the debt crisis started in 2014, while the summary does not provide a specific time frame.
+a. The article does not mention anything about the roubles breaking or causing the debt crisis.
 
-Step 5: Conclude
-In conclusion, the summary is not consistent with the article because it paints a different picture of the country's debt crisis. While the summary mentions that Russia's roubles have broken the country's debt crisis, the article describes the struggles of Elena and millions of other Russians who are in debt. The inconsistencies are likely due to the different perspectives and time frames used in the two sources.
+b. The article explains that the debt crisis is caused by a combination of factors, including high levels of personal debt, a lack of regulation in the lending industry, and a sudden drop in income for many Russians.
+
+c. The summary does not provide any specific information or evidence to support the claim that the roubles breaking caused the debt crisis.
+
+Therefore, the summary is not consistent with the article and does not accurately reflect the content of the article.
 
 ###Corrected:

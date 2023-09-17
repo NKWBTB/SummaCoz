@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than 200 students signed the school not to show the movie as part of umix , a series of social events for students . 
- bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and most lethal sniper . 
- michigan head football coach jim harbaugh . 
-
-    Article: 
-    ( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
+<Article>
+( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
 more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
 bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history .
 kyle was fatally shot at a texas shooting range in 2013 .
@@ -18,20 +13,21 @@ but there was a backlash to the decision to yank the movie , and a counter-petit
 on wednesday , e. royster harper , university of michigan 's vice president for student life , said in a statement that " it was a mistake to cancel the showing of the movie ` american sniper ' on campus as part of a social event for students " and that the show will go on .
 " the initial decision to cancel the movie was not consistent with the high value the university of michigan places on freedom of expression and our respect for the right of students to make their own choices in such matters , " the statement said .
 umix will offer a screening of the family-friendly " paddington " for those who would rather not attend " american sniper . "
-the announcement drew praise from michigan head football coach jim harbaugh . 
+the announcement drew praise from michigan head football coach jim harbaugh .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+more than 200 students signed the school not to show the movie as part of umix , a series of social events for students . 
+ bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and most lethal sniper . 
+ michigan head football coach jim harbaugh .
+</Summary>
 
-1. The summary states that more than 200 students signed a petition asking the school not to show the movie "American Sniper" as part of umix, a series of social events for students. However, the article states that more than 200 students signed a petition asking the school to reconsider showing the movie, not to not show it.
-2. The summary mentions that Bradley Cooper was nominated for an Oscar for his portrayal of Chris Kyle, but the article does not mention this.
-3. The summary states that the movie's depiction of the Iraq war reflected negatively on the Middle East and people from that region, but the article does not mention this as a reason for the students' objections. Instead, the article states that some students believed the movie's portrayal of the Iraq war was inaccurate and disrespectful.
-4. The summary states that the university decided to yank the movie, but the article states that the university initially decided to cancel the movie but later reversed that decision.
-5. The summary mentions that a counter-petition asked school officials to reconsider showing the movie, but the article does not mention this.
-6. The summary states that the university's vice president for student life said that it was a mistake to cancel the showing of the movie and that the show will go on, but the article does not mention this statement.
-7. The summary states that umix will offer a screening of the family-friendly "Paddington" for those who would rather not attend "American Sniper," but the article does not mention this.
-8. The summary states that the announcement drew praise from Michigan head football coach Jim Harbaugh, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omits important details.
+1. The summary states that "more than 200 students signed the school not to show the movie." However, the article states that there was a backlash to the decision to cancel the movie, and a counter-petition asked school officials to reconsider. This implies that not all students objected to the movie being shown.
+2. The summary mentions Bradley Cooper's Oscar nomination for his portrayal of Chris Kyle, but the article does not mention this.
+3. The summary mentions Michigan head football coach Jim Harbaugh, but the article does not mention him.
+
+Therefore, the summary is not consistent with the article because it misrepresents the views of the students and includes information that is not present in the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    isle of wight council leader andrew cowes has said he is " disappointed " a meeting with the council leader has been suspended. 
-
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
 Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.
 Mr Stewart said the council had ordered a review of the project by auditors.
 He said it had been a "frustrating and disappointing start" to the ferry.
@@ -17,21 +14,21 @@ Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come o
 Transport councillor Ian Ward said compensation was up for discussion.
 He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."
 He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.
-He said groundings were an issue with seamanship, which had been resolved. 
+He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+isle of wight council leader andrew cowes has said he is " disappointed " a meeting with the council leader has been suspended.
+</Summary>
 
-1. The summary states that the Council Leader, Andrew Cowes, is disappointed that a meeting with the Council Leader has been suspended.
+Explain your reasoning step by step:[/INST]
 
-However, in the article, there is no mention of a meeting being suspended. Instead, the article discusses the issues with the new ferry and the council's plans to address them.
-
-2. The summary implies that the Council Leader is disappointed about the suspension of the meeting, but there is no evidence in the article to support this claim.
-
-3. The article does mention that the council leader, Dave Stewart, is disappointed with the start of the ferry service, but this is in relation to the issues with the ferry, not the suspension of a meeting.
-
-4. The summary does not accurately reflect the content of the article. The article discusses the problems with the new ferry and the council's plans to address them, but there is no mention of a meeting being suspended.
-
-Therefore, the summary is not consistent with the article, and it appears to be incorrect.
+1. The summary states that the Isle of Wight Council leader, Andrew Cowes, has said he is "disappointed" that a meeting with the council has been suspended.
+2. However, the article does not mention anything about Andrew Cowes or the meeting being suspended.
+3. The article does mention that the council leader, Dave Stewart, said the crossing at Cowes would be free until 2 July to allow feedback and that the council has ordered a review of the project by auditors.
+4. The article also mentions that the chain ferry has broken down, run aground, and been suspended by the Maritime and Coastguard Agency due to "training issues".
+5. Based on the information in the article, it is clear that the summary is not consistent with the article because there is no mention of Andrew Cowes or the meeting being suspended.
+6. The summary is also incorrect in stating that the meeting was suspended, as there is no such information in the article.
+7. Therefore, the summary is not a accurate representation of the information in the article.
 
 ###Corrected:

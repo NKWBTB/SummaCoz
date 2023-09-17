@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    martin skrtel believes liverpool can overcome difficult challenge .
-liverpool captain steven gerrard is still one of the best players in the world .
-liverpool captain steven gerrard is still one of the best players in the world . 
-
-    Article: 
-    martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
+<Article>
+martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
 reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
 should liverpool emerge victorious against villa , gerrard will sign off his anfield career in the final which takes place on his birthday of may 30 , before moving to la galaxy .
 martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
@@ -29,15 +24,21 @@ skrtel ( left ) still considers 34-year-old midfield player gerrard one of the b
 skrtel ( left ) believes liverpool have the players to fill gerrard 's void providing they are given the right help
 ` he will be leaving after this season and we have a few players who can replace him .
 we will try to help them and try to work as a team , ' skrtel explained .
-both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march . 
+both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+martin skrtel believes liverpool can overcome difficult challenge .
+liverpool captain steven gerrard is still one of the best players in the world .
+liverpool captain steven gerrard is still one of the best players in the world .
+</Summary>
 
-1. The summary states that Steven Gerrard is still one of the best players in the world, but the article does not mention this. Instead, the article focuses on Gerrard's impact on Martin Skrtel and Liverpool's potential to replace him.
-2. The summary mentions that Liverpool can overcome the difficult challenge of replacing Gerrard, but the article does not address this point directly. Instead, the article focuses on Skrtel's praise for Gerrard and the potential for other players to fill his void.
-3. The summary states that Skrtel believes Liverpool will be a different side without Gerrard, but the article does not quote Skrtel as saying this. Instead, the article quotes Skrtel as saying that Liverpool have the players to fill Gerrard's void, provided they are given the right help.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it emphasizes different points and takes a more positive tone on Liverpool's ability to replace Gerrard. The article, on the other hand, focuses on Skrtel's praise for Gerrard and the potential challenges facing Liverpool in replacing such an iconic player.
+1. The summary states that Martin Skrtel believes Liverpool can overcome the difficult challenge of replacing Steven Gerrard. However, the article does not mention anything about replacing Gerrard.
+2. The summary also states that Gerrard is still one of the best players in the world. The article does mention that Gerrard is considered one of the best players in the world by Skrtel, but the wording is different. The article states that Skrtel believes Gerrard is still one of the best players in the world, while the summary simply states that Gerrard is still one of the best players in the world.
+3. The summary does not accurately reflect the article's content. The article discusses Skrtel's praise for Gerrard and the impact he has had on him, as well as Gerrard's upcoming departure from Liverpool and the team's potential replacements for him. The summary only mentions Skrtel's belief that Liverpool can overcome the challenge of replacing Gerrard.
+
+Therefore, the summary is not consistent with the article. It does not accurately reflect the content of the article and includes information that is not present in the article.
 
 ###Corrected:

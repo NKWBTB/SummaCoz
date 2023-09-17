@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wales \'natural resources wales ( nrw ) has accused the uk government of " unrealistic " plans for a tidal lagoon in swansea bay. 
-
-    Article: 
-    Earlier this month, NRW estimated the lagoon would mean 21% of salmon and 25% of sea trout dying each year, as they migrate to and from local rivers.
+<Article>
+Earlier this month, NRW estimated the lagoon would mean 21% of salmon and 25% of sea trout dying each year, as they migrate to and from local rivers.
 Tidal Lagoon Power (TLP) said the claims had no "clear scientific basis".
 NRW said its figures were based on the "best available evidence" it received.
 In a briefing note sent to AMs and seen by BBC Wales, TLP disputed NRW's figures and claimed that the regulator refused to share its methodology for calculating them.
@@ -19,19 +16,20 @@ Wales' Environment Secretary Lesley Griffiths said the Welsh Government was "ver
 But she said both it and the industry needed clarity on the UK government's position in the "very, very near future."
 NRW said it strongly disagreed with TLP's criticism, which it was "very surprised and disappointed by".
 Gareth O'Shea, an NRW executive director, said: "We have received a vast amount of evidence on this subject from the applicant and have held detailed discussions with the developer for a year-and-a-half where we have shared a huge amount of information, data and our methodology.
-"This has been assessed by independent experts and our own technical experts, and we have the utmost confidence that it is the best evidence available to enable us to make the right decision for the environment in Wales, as we are legally bound to do." 
+"This has been assessed by independent experts and our own technical experts, and we have the utmost confidence that it is the best evidence available to enable us to make the right decision for the environment in Wales, as we are legally bound to do."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+wales \'natural resources wales ( nrw ) has accused the uk government of " unrealistic " plans for a tidal lagoon in swansea bay.
+</Summary>
 
-1. The summary states that NRW has accused the UK government of having "unrealistic" plans for the tidal lagoon in Swansea Bay.
-2. However, the article states that NRW's figures for the impact of the lagoon on fish are based on "what if" scenarios and have no "clear scientific basis".
-3. The article also states that TLP disputes NRW's figures and claims that the regulator refused to share its methodology for calculating them.
-4. Furthermore, the article states that TLP's own computer modelling estimates a "worst case scenario" of the lagoon killing 2% of all species of fish, which is significantly lower than NRW's estimates.
-5. Therefore, based on the information in the article, it appears that NRW's claims about the UK government's plans for the tidal lagoon are not supported by scientific evidence.
-6. Additionally, the article states that TLP is viewing the Swansea tidal lagoon project as a test bed for larger and more cost-effective versions around the coast, which suggests that the project is not just about the Swansea Bay location.
-7. Finally, the article states that the Welsh Government is "very supportive" of the scheme, but needs clarity on the UK government's position "in the very, very near future".
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the information in the article, it appears that NRW's claims about the UK government's plans for the tidal lagoon are not supported by scientific evidence, and the project is being viewed as a test bed for larger and more cost-effective versions around the coast. The Welsh Government is supportive of the scheme, but needs clarity on the UK government's position.
+1. The summary states that NRW has accused the UK government of having "unrealistic" plans for a tidal lagoon in Swansea Bay.
+2. However, the article does not mention any accusations by NRW against the UK government. Instead, it reports that NRW has estimated that the lagoon would result in a significant number of fish deaths, and that Tidal Lagoon Power (TLP) has disputed these figures.
+3. Therefore, the summary is not consistent with the article, as it misrepresents the content of the article by attributing accusations to NRW that are not present in the article.
+4. The discrepancy between the summary and the article can be explained by the fact that the summary is not a accurate representation of the content of the article. It appears to be a misleading or sensationalized summary that does not accurately reflect the information presented in the article.
+5. The article does not mention any accusations by NRW against the UK government, and instead focuses on the dispute between NRW and TLP over the estimated impact of the tidal lagoon on fish populations.
+6. Therefore, the summary is not supported by the article, and is not a reliable representation of the content of the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been jailed for eight years after being convicted of attempting to blackmail a woman and sexual activity with her boyfriend. 
-
-    Article: 
-    Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
+<Article>
+Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
 A court heard he sent a message containing a sexually explicit clip to the victim's sister on Christmas Day.
 Weatherhogg, 42, was also placed on the sex offenders register.
 He had denied the charges but was found guilty following a trial at Dundee Sheriff Court.
@@ -16,17 +13,21 @@ He was also convicted of intentionally causing the woman's sister and father to 
 The woman told the trial she had felt "blackmailed" by Weatherhogg.
 Lady Wolffe told the Weatherhogg that she had to pass a sentence on him that "reflected society's abhorrence" at such conduct.
 The judge said that Weatherhogg, a first offender, had been assessed as posing "a moderate risk" of sexual re-offending.
-Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing. 
+Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a man has been jailed for eight years after being convicted of attempting to blackmail a woman and sexual activity with her boyfriend.
+</Summary>
 
-1. The summary states that the man was jailed for eight years for attempting to blackmail a woman and engaging in sexual activity with her boyfriend. However, the article does not mention blackmail. Instead, it states that the man coerced the woman to engage in sexual activity with him and with another man that he found through an adult website.
-2. The summary mentions that the man sent a sexually explicit clip to the victim's sister on Christmas Day. However, the article does not mention this detail.
-3. The summary states that the man was placed on the sex offenders register. While this is mentioned in the article, it is not the main focus of the article.
-4. The summary does not mention the woman's feelings of being "blackmailed" by the man, which is mentioned in the article.
-5. The summary mentions that the judge said the man posed a "moderate risk" of sexual re-offending. However, this is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the given summary is not a consistent summary of the article. It omits several important details and includes some inaccuracies.
+1. The summary states that the man was convicted of attempting to blackmail a woman and engaging in sexual activity with her boyfriend.
+2. However, the article states that the man, Clive Weatherhogg, was convicted of coercing the woman to engage in sexual activity with a man he found through an adult website, and intentionally causing the woman's sister and father to look at sexual images.
+3. The article does not mention anything about the man attempting to blackmail the woman.
+4. Therefore, the summary is not consistent with the article because it omits the fact that the man was convicted of coercing the woman and instead focuses only on the blackmail aspect.
+5. Additionally, the summary's mention of the man's sexual activity with the woman's boyfriend is not supported by the article, which only mentions the man's own sexual activity with the woman.
+
+Overall, the summary is not a accurate representation of the article's content and is therefore not consistent with the article.
 
 ###Corrected:

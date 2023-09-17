@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the us secretary of state has said he is in talks to close the controversial guantanamo bay detention centre. 
-
-    Article: 
-    Josh Earnest said the closure of the Cuban detention camp was a national security interest.
+<Article>
+Josh Earnest said the closure of the Cuban detention camp was a national security interest.
 It was one of the first directives President Barack Obama ordered two months after he was elected in 2008.
 Inmates have slowly been transferred out and at the start of the year, 122 men were left.
 The peak population in 2003 was 684.
@@ -17,17 +14,20 @@ Since then, Congress bipartisan opposition has meant the transfer of prisoners t
 Some have been considered too dangerous to be released, but the US holds no evidence that can be used in civilian or military trials against them.
 The US has slowly been sending prisoners back to their home countries or to third countries, a process Mr Earnest said needs to continue if the facility is to shut.
 The camp was established in 2002 by the Bush administration to detain the most dangerous suspects for interrogation and the prosecution of war crimes.
-Controversy has centred around the period of time detainees have been held without charge and the use of interrogation techniques. 
+Controversy has centred around the period of time detainees have been held without charge and the use of interrogation techniques.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the us secretary of state has said he is in talks to close the controversial guantanamo bay detention centre.
+</Summary>
 
-1. The summary states that the US Secretary of State is in talks to close the Guantanamo Bay detention center, but the article does not mention the Secretary of State or any talks about closing the facility.
-2. The summary mentions that the closure of the Cuban detention camp is a national security interest, but the article does not mention anything about a Cuban detention camp.
-3. The summary states that the administration is "in the final stages of drafting a plan to safely and responsibly (close) the prison at Guantanamo Bay and to present that to Congress", but the article does not mention any plan to close the facility or present it to Congress.
-4. The summary mentions that the facility was established in 2002 by the Bush administration, but the article does not mention when the facility was established.
-5. The summary states that the US has slowly been sending prisoners back to their home countries or to third countries, but the article does not mention anything about prisoners being sent back to their home countries or third countries.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the US Secretary of State is in talks to close the Guantanamo Bay detention center.
+2. However, the article states that the administration is "in the final stages of drafting a plan to safely and responsibly close the prison at Guantanamo Bay and to present that to Congress." (emphasis added)
+3. The article does not mention the Secretary of State being involved in the process of closing the detention center.
+4. Therefore, the summary is not consistent with the article, as it implies that the Secretary of State is directly involved in the closure of the detention center, while the article states that the administration is working on the plan and will present it to Congress.
+5. Additionally, the summary does not provide any specific information about the closure of the detention center, such as the timeline, the number of prisoners to be transferred, or the plans for the remaining prisoners.
+6. Overall, the summary is a simplification of the article's content, but it is not an accurate representation of the information provided in the article.
 
 ###Corrected:

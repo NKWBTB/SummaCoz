@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    as the uk voted to leave the eu, the bbc\'s karen allen looks at why the uk voted to leave the european union. 
-
-    Article: 
-    It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
+<Article>
+It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
 It wasn't just the weather that made the Stevensons leave the UK.
 Their cleaning business was in trouble because it was being undercut by companies run by Polish migrants.
 But so what, Nigel says. He thinks British people need to ''up their game'' and stop complaining about immigration.
@@ -30,15 +27,18 @@ Largest number of Brits living in EU countries, according to Migration Watch.
 There have also been warnings that the Spanish government could start charging them for their healthcare.
 Speaking to members after the match it was striking how many wanted to get out of the EU and how few had thought about how they might be affected financially.
 Whilst one couple worried about their pensions, the others did not seem particularly bothered about being charged for health care; almost all of them had private health insurance.
-John Richardson, summed up the mood best. ''Oh, they'll sort something out''. 
+John Richardson, summed up the mood best. ''Oh, they'll sort something out''.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+as the uk voted to leave the eu, the bbc\'s karen allen looks at why the uk voted to leave the european union.
+</Summary>
 
-1. The summary states that the UK voted to leave the EU, but the article does not mention any information about the UK voting to leave the EU. Instead, the article discusses the perspectives of British expats living in Spain on the upcoming EU referendum.
-2. The summary mentions the BBC's Karen Allen looking at why the UK voted to leave the EU, but there is no mention of Karen Allen or the BBC in the article.
-3. The summary states that the article discusses the reasons why the UK voted to leave the EU, but the article does not provide any information about the reasons for the UK's decision to leave the EU. Instead, it focuses on the perspectives of British expats living in Spain.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents information that is not present in the article and omits information that is actually present in the article.
+1. The summary states that the UK voted to leave the European Union, but the article does not support this statement. The article discusses the perspectives of British expats living in Spain and does not mention the outcome of the EU referendum.
+2. The summary is not consistent with the article because it implies that the UK as a whole voted to leave the EU, while the article focuses on the experiences of individual expats in Spain.
+3. The article does not mention any information about the EU referendum outcome or the reasons why the UK might have voted to leave the EU. Instead, it discusses the perspectives of British expats living in Spain and their concerns about their financial and healthcare status in the event of a Brexit.
+4. Therefore, the summary is not an accurate reflection of the content of the article. It is a misleading summary that does not accurately represent the information presented in the article.
 
 ###Corrected:

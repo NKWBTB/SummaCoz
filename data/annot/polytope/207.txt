@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
-firechat launched last year and has been downloaded more than five million times .
-it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework ( mcf ) . 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -55,16 +50,23 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
+firechat launched last year and has been downloaded more than five million times .
+it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework ( mcf ) .
+</Summary>
 
-1. The summary states that Greenstone is an egg-shaped gadget that helps messages move around wireless mesh networks more easily. However, the article does not mention anything about Greenstone being an egg-shaped gadget. Instead, it describes Greenstone as a small device that acts like a beacon or booster to help messages move around wireless mesh networks.
-2. The summary states that Greenstone has been designed to solve the limitations of how far a message can travel in a wireless mesh network. However, the article does not mention any specific limitations of wireless mesh networks or how Greenstone solves these limitations.
-3. The summary mentions that Greenstone can be used in situations where there is no connectivity, such as on a plane or in the underground. However, the article does not mention anything about Greenstone being used in these types of situations. Instead, it focuses on how Greenstone can be used to send messages to people in close proximity using Bluetooth or Wi-Fi Direct range.
-4. The summary states that Greenstone has a one-year battery life and can hold up to 1,000 of the most recent messages. However, the article does not mention these details.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, such as the shape of Greenstone, its ability to solve limitations of wireless mesh networks, and its battery life and message storage capabilities. Additionally, the summary focuses on different aspects of Greenstone than the article, such as its use in situations with no connectivity, while the article focuses on its use for sending messages in close proximity.
+1. The summary states that greenstone is an egg-shaped gadget that helps messages move around wireless mesh networks more easily.
+2. However, the article states that greenstone is still under development and only currently works with FireChat at a range of around 20ft (6 meters).
+3. The article also mentions that greenstone is designed to solve the limitations of how far a message can travel in the current wireless mesh network system, which is around 200ft (61 meters).
+4. The summary does not mention any of these limitations or the fact that greenstone is still under development.
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the current state of greenstone and its capabilities.
+
+Overall, the summary is an oversimplification of the article's content and does not provide a complete picture of greenstone's features and limitations.
 
 ###Corrected:

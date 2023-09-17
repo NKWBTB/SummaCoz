@@ -1,24 +1,32 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the attack in kenya killed 142 students, three university security personnel. 
+<Article>
+(CNN)One hundred and forty-seven victims. Many more families affected. Even more broken hopes and dreams. As Kenyans mourned those killed last week in one of the deadliest terrorist attacks in the nation, citizens used social media to share the victims' stories, hopes and dreams. Using the hashtag #147notjustanumber -- a reference to the number of people, mostly students, killed at Garissa University College on Thursday -- Kenyans tweeted pictures of the victims in happier times. Kenyan authorities have not released a list of the victims. The posts provided heart-wrenching details on the victims, including one about an elderly man whose dreams died with his son. He had reportedly taken a loan to educate him at the university, where he was killed by Al-Shabaab terrorists. The attack in Kenya killed 142 students, three security officers and two university security personnel, and was the nation's deadliest since the bombing of the U.S. Embassy in 1998. Kenyan churches mourned the dead during Easter services Sunday as armed guards protected the congregations. In emotional services nationwide, churchgoers wept as they paid tribute to the victims of the massacre. The gunmen who attacked the university in the predawn hours separated Muslims from Christians and killed the latter. The extremist group has also killed Muslims in recent attacks. The Interior Ministry has identified one of the attackers killed by security forces as the son of a government official. The father of suspect Abdirahim Abdullahi is a chief in Mandera and had reported his son missing, officials said. The Islamist extremist group is based in Somalia, but it hasn't confined its terrorism to the nation that shares a border with Kenya. In 2013, militants attacked Nairobi's upscale Westgate Mall, killing nearly 70 people.
+</Article>
 
-    Article: 
-    (CNN)One hundred and forty-seven victims. Many more families affected. Even more broken hopes and dreams. As Kenyans mourned those killed last week in one of the deadliest terrorist attacks in the nation, citizens used social media to share the victims' stories, hopes and dreams. Using the hashtag #147notjustanumber -- a reference to the number of people, mostly students, killed at Garissa University College on Thursday -- Kenyans tweeted pictures of the victims in happier times. Kenyan authorities have not released a list of the victims. The posts provided heart-wrenching details on the victims, including one about an elderly man whose dreams died with his son. He had reportedly taken a loan to educate him at the university, where he was killed by Al-Shabaab terrorists. The attack in Kenya killed 142 students, three security officers and two university security personnel, and was the nation's deadliest since the bombing of the U.S. Embassy in 1998. Kenyan churches mourned the dead during Easter services Sunday as armed guards protected the congregations. In emotional services nationwide, churchgoers wept as they paid tribute to the victims of the massacre. The gunmen who attacked the university in the predawn hours separated Muslims from Christians and killed the latter. The extremist group has also killed Muslims in recent attacks. The Interior Ministry has identified one of the attackers killed by security forces as the son of a government official. The father of suspect Abdirahim Abdullahi is a chief in Mandera and had reported his son missing, officials said. The Islamist extremist group is based in Somalia, but it hasn't confined its terrorism to the nation that shares a border with Kenya. In 2013, militants attacked Nairobi's upscale Westgate Mall, killing nearly 70 people. 
+<Summary>
+the attack in kenya killed 142 students, three university security personnel.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the attack in Kenya killed 142 students, three security officers, and two university security personnel.
+1. The article states that "142 students, three security officers, and two university security personnel" were killed in the attack.
 
-2. However, the article states that the attack killed 147 victims, not 142. This means that the summary is not consistent with the article.
+2. The summary only mentions "142 students" and does not include the other victims mentioned in the article (the three security officers and two university security personnel).
 
-3. The article provides a list of the victims, including students, security officers, and university security personnel. The summary only mentions students and security personnel, but does not provide a specific number or list of victims.
+3. Therefore, the summary is not consistent with the article because it only includes part of the information provided in the article.
 
-4. The article also states that the attackers separated Muslims from Christians and killed the latter, while the summary does not mention this detail.
+4. The article provides a comprehensive list of all the victims of the attack, including students, security officers, and university security personnel.
 
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the number of victims, the list of victims, or the details of the attackers' actions.
+5. The summary, on the other hand, only focuses on the students and does not provide any information about the other victims.
+
+6. By only mentioning "142 students," the summary gives the impression that only students were killed in the attack, which is not accurate according to the article.
+
+7. To make the summary consistent with the article, it should include all the victims mentioned in the article, such as "142 students, three security officers, and two university security personnel."
+
+In conclusion, the summary is not consistent with the article because it only includes part of the information provided and gives an incomplete picture of the victims of the attack. To make it consistent, the summary should include all the victims mentioned in the article.
 
 ###Corrected:

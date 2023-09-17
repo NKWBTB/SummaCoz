@@ -1,21 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    paralympic champion sarah storey won her second gold medal of the para-cycling road world championships with victory in the women\'s road race in switzerland. 
+<Article>
+The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005.
+</Article>
 
-    Article: 
-    The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005. 
+<Summary>
+paralympic champion sarah storey won her second gold medal of the para-cycling road world championships with victory in the women\'s road race in switzerland.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Sarah Storey won her second gold medal of the para-cycling road world championships, but the article does not mention any gold medals won by Storey in the para-cycling road world championships. Instead, the article states that Storey won the women's road race in Switzerland.
-2. The summary mentions that Storey won her second gold medal, implying that she had already won one gold medal before the women's road race in Switzerland. However, the article does not mention any previous gold medals won by Storey.
-3. The summary states that Storey won the women's road race in Switzerland, but the article does not mention any specific event or race won by Storey. Instead, the article mentions that Storey finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.
-4. The summary mentions that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the article does not mention anything about the Paralympics or Rio de Janeiro.
+1. The article states that Sarah Storey won the women's road race in Nottwil, Switzerland, but the summary only mentions that she won her second gold medal of the para-cycling road world championships. This is inconsistent, as the article does not mention any other gold medals won by Storey.
+2. The article states that Storey finished more than two minutes ahead of Poland's Anna Harkowska, but the summary does not mention this.
+3. The summary states that Storey won her second gold medal, implying that she had already won one gold medal before this race. However, the article does not mention any other gold medals won by Storey.
+4. The article states that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the summary does not mention this.
 
-Therefore, the summary is not consistent with the article because it mentions events and details that are not present in the article.
+Overall, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. The summary should have mentioned Storey's victory in the women's road race, her dominance in the race, and her target of further Paralympic success in Rio de Janeiro.
 
 ###Corrected:

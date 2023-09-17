@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the wide leg trouser is at the forefront of ss15 trends
-it 's not the first time this look has made a comeback since the seventies
-louise and emma say to avoid being drowned by too much fabric try a high heeled shoe 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,17 +28,23 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the wide leg trouser is at the forefront of ss15 trends
+it 's not the first time this look has made a comeback since the seventies
+louise and emma say to avoid being drowned by too much fabric try a high heeled shoe
+</Summary>
 
-1. The summary states that the wide leg trouser is at the forefront of SS15 trends, but the article does not mention this. Instead, the article states that the trend is just starting to gain popularity.
-2. The summary mentions that the wide leg trouser has made a comeback since the seventies, but the article does not mention this. The article only mentions that the trend has been seen on catwalks and that it is a new look.
-3. The summary suggests that the wide leg trouser is intimidating, especially for shorter women, but the article does not mention this. Instead, the article focuses on the effortlessness of the look and how it can be pulled off with confidence.
-4. The summary recommends pairing a wide-leg trouser with a high heeled shoe to elongate the leg, but the article does not mention this. Instead, the article suggests that a high heel will help to balance out the volume of the trouser.
-5. Finally, the summary mentions that denim is the easiest way to nail the trend, but the article does not mention this. Instead, the article highlights several other brands and styles that are also incorporating the trend.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the popularity of the trend and includes specific styling tips that are not mentioned in the article.
+The given summary is not consistent with the article because:
+
+1. The summary only mentions the wide leg trouser being at the forefront of SS15 trends, while the article discusses the trend in more detail and provides specific styling tips and recommendations.
+2. The summary does not mention the seventies comeback of the wide leg trouser, which is a key point in the article.
+3. The summary only mentions avoiding being drowned by too much fabric, but the article provides more specific advice on how to style the wide leg trouser, such as wearing a high heel and keeping the top half simple.
+
+Therefore, the summary does not accurately represent the content of the article.
 
 ###Corrected:

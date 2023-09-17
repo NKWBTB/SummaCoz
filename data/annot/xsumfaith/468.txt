@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland moved to the top of the scottish premiership with a hard-fought victory over scotland. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The visitors led briefly through Vasil Lobzhanidze's early try, but the Scots raced ahead through Tommy Seymour, a penalty try, Sean Maitland and Stuart Hogg before the break.
 Hamish Watson extended the lead, battling over soon after half-time.
 Lobzhanidze bagged a second from a huge Georgian scrum, before Hogg finished off a searing counter-attack.
@@ -27,19 +24,21 @@ Scotland head coach Vern Cotter: "It was a good first half. We scored three pret
 Scotland: 15-Stuart Hogg, 14-Sean Maitland, 13-Mark Bennett, 12-Alex Dunbar, 11-Tommy Seymour, 10-Finn Russell, 9-Greig Laidlaw (capt); 1-Allan Dell, 2-Ross Ford, 3-Zander Fagerson, 4-Richie Gray, 5-Jonny Gray, 6-Rob Harley, 7-Hamish Watson, 8-Ryan Wilson.
 Replacements: 16-Fraser Brown, 17-Alex Allan, 18-Moray Low, 19-Grant Gilchrist, 20-John Barclay, 21-Ali Price, 22-Pete Horne, 23-Rory Hughes.
 Georgia: 15-Merab Kvirikashvili, 14-Giorgi Aptsiauri, 13-Merab Sharikadze, 12-Tamaz Mchedlidze, 11-Sandro Todua, 10-Lasha Malaguradze, 9-Vasil Lobzhanidze; 1-Mikheil Nariashvili, 2-Jaba Bregvadze, 3-Levan Chilachava, 4-Kote Mikautadze, 5-Giorgi Nemsadze, 6-Vito Kolelishvili, 7-Mamuka Gorgodze (capt), 8-Beka Bitsadze.
-Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili 
+Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili, 19-Lasha Lomidze, 20-Giorgi Tkhilaishvili, 21-Giorgi Begadze, 22-Beka Tsiklauri, 23-Shalva Sutiashvili
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scotland moved to the top of the scottish premiership with a hard-fought victory over scotland.
+</Summary>
 
-1. The summary states that Scotland moved to the top of the Scottish Premiership, but the article is about a match between Scotland and Georgia in the Rugby World Cup.
-2. The summary mentions that Scotland won the match 38-11, but the article does not provide a final score.
-3. The summary states that Scotland scored six tries, but the article only mentions four tries scored by Scotland.
-4. The summary mentions that Georgia scored two tries, but the article only mentions one try scored by Georgia.
-5. The summary states that Scotland head coach Vern Cotter said that the team scored three quick tries in the first half and held the ball well, but the article does not quote Cotter as saying this.
-6. The summary states that Georgia's scrum caused problems for Scotland, but the article does not mention this.
-7. The summary states that Scotland's Greig Laidlaw did a great job managing the game, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations about the match.
+1. Inconsistent information: The summary states that Scotland moved to the top of the Scottish Premiership, but the article does not mention anything about the Premiership. Instead, it talks about Scotland's victory over Georgia in an international rugby match.
+2. Incorrect sport: The summary mentions "scottish premiership," which is a fictional sport. There is no such thing as the Scottish Premiership in real life. The article, on the other hand, is about a real rugby match between Scotland and Georgia.
+3. Incorrect teams: The summary mentions "scotland" and "georgia," but the article is about Scotland playing against Georgia in a rugby match. The summary does not accurately reflect the teams that played in the match.
+4. Incorrect outcome: The summary states that Scotland won, but the article does not mention a victory for Scotland. Instead, it talks about Scotland's dominant performance and their scoring of several tries.
+
+Overall, the summary is not consistent with the article because it contains incorrect information about the sport, teams, and outcome of the match.
 
 ###Corrected:

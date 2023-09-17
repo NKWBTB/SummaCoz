@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie
-pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 , after svetlana kuznetsova beat julia goerges in straight sets in the opening rubber .
-the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 . 
-
-    Article: 
-    russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
+<Article>
+russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
 pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 , after svetlana kuznetsova beat julia goerges in straight sets in the opening rubber .
 pavlyuchenkova said lisicki 's power caused her problems : ` in the first set i believed i could win but i could n't find the rhythm because she plays a bit boom-boom . '
 anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie
@@ -16,35 +11,25 @@ svetlana kuznetsova had earlier beaten julia goerges in straight sets
 both players had problems on their serve - pavlyuchenkova racked up 13 double faults but lisicki 's 63 unforced errors proved crucial .
 ` it was very close and i had a match point but she played a good point on that .
 i did n't play a good tiebreaker , ' lisicki said .
-the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 . 
+the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the provided summary is not consistent with the article. Here are the steps:
+<Summary>
+anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie
+pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 , after svetlana kuznetsova beat julia goerges in straight sets in the opening rubber .
+the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 .
+</Summary>
 
-Step 1: Identify the inconsistencies
+Explain your reasoning step by step:[/INST]
 
-The summary states that Anastasia Pavlyuchenkova of Russia beat Germany's Sabine Lisicki for a 2-0 lead in their Fed Cup tie, while the article states that Russia is on the brink of making the Fed Cup final with a 2-0 lead after Pavlyuchenkova saved a match point to beat Lisicki.
+1. The summary states that Anastasia Pavlyuchenkova beat Sabine Lisicki for a 2-0 lead in their Fed Cup tie.
+2. The article states that Pavlyuchenkova saved a match point in the second set before going on to beat Lisicki 4-6, 7-6(4), 6-3.
+3. The summary does not mention that Pavlyuchenkova saved a match point, nor does it mention the score of the second set.
+4. The article states that Lisicki had 63 unforced errors, which suggests that she struggled with her serve.
+5. The summary does not mention any issues with Lisicki's serve.
+6. The article states that Pavlyuchenkova racked up 13 double faults, which suggests that she also struggled with her serve.
+7. The summary does not mention any issues with Pavlyuchenkova's serve.
 
-Step 2: Analyze the reasons for the inconsistencies
-
-The reason for the inconsistency is that the summary does not accurately convey the content of the article. Specifically:
-
-* The summary states that Pavlyuchenkova beat Lisicki 4-6, 7-6 (4), 6-3, while the article states that Pavlyuchenkova saved a match point in the second set before going on to beat Lisicki 4-6, 7-6 (4), 6-3.
-* The summary does not mention that Pavlyuchenkova saved a match point in the second set, which is a significant detail that is included in the article.
-* The summary also does not accurately convey Lisicki's comments about her power causing problems for Pavlyuchenkova, which are included in the article.
-
-Step 3: Evaluate the impact of the inconsistencies
-
-The inconsistencies in the summary have a significant impact on the reader's understanding of the article, as they do not accurately convey the content of the article. Specifically, the summary does not convey the full detail of Pavlyuchenkova's win, and does not accurately represent Lisicki's comments about her power.
-
-Step 4: Provide recommendations for improvement
-
-To improve the consistency of the summary, the following changes could be made:
-
-* Include all relevant details from the article, such as Pavlyuchenkova saving a match point in the second set and Lisicki's comments about her power.
-* Use more accurate language to convey the content of the article, such as using "match point" instead of "close" to describe the second set.
-* Avoid using language that is not supported by the article, such as "boom-boom" to describe Lisicki's power.
-
-
+Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the match, particularly regarding the second set and the struggles of both players with their serves. The summary only provides a brief overview of the match results, without providing the specifics that are mentioned in the article.
 
 ###Corrected:

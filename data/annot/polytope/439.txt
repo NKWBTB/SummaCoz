@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the map should allow astronomers to study how galaxies formed in the universe .  it shows clumps of mystery particles across 0.4 per cent of the sky .  the map was released today at the april meeting of the american physical society in baltimore , maryland .  
-
-    Article: 
-    the largest single high-definition map of mysterious dark matter has been produced .
+<Article>
+the largest single high-definition map of mysterious dark matter has been produced .
 it is the first in a series of maps of the cosmos that will eventually allow a 3d view of dark matter across one eighth of the night sky .
 and the map should allow astronomers to study how galaxies formed in the universe .
 university of manchester researchers have revealed an hd dark matter map ( shown ) .
@@ -51,20 +48,19 @@ it will be completed by 2018 , mapping dark matter of an eighth of the sky in th
 dark matter , the mysterious substance that makes up 85 per cent of all matter in the universe , is invisible to even the most sensitive astronomical instruments because it does not emit or block light .
 but its effects can be seen using a technique called gravitational lensing - studying the distortion that occurs when the gravitational pull of dark matter bends light around distant galaxies .
 understanding how the clumpiness of dark matter changes with time will reveal the nature of the enigmatic dark energy , which is the ultimate goal of the survey .
-the dark matter map released makes use of early des observations and covers only about three percent of the area of sky des will document over its five-year mission . 
+the dark matter map released makes use of early des observations and covers only about three percent of the area of sky des will document over its five-year mission .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+the map should allow astronomers to study how galaxies formed in the universe .  it shows clumps of mystery particles across 0.4 per cent of the sky .  the map was released today at the april meeting of the american physical society in baltimore , maryland . 
+</Summary>
 
-1. The summary states that the map allows astronomers to study how galaxies formed in the universe, but the article does not mention anything about galaxy formation. Instead, the article focuses on the mapping of dark matter and its relationship with visible matter.
-2. The summary mentions that the map shows clumps of mystery particles across 0.4% of the sky, but the article states that the map covers only about 3% of the area of sky that the Dark Energy Survey (DES) will document over its five-year mission.
-3. The summary states that the map was released today at the April meeting of the American Physical Society in Baltimore, Maryland, but the article does not mention the date or location of the release.
-4. The summary refers to the map as an "HD dark matter map," but the article does not use this term. Instead, it refers to the map as a "dark matter map."
-5. The summary mentions that the project is run as part of the five-year Dark Energy Survey (DES), but the article does not mention the timeframe of the survey.
-6. The summary states that the map shows large filaments of matter and cosmic voids, but the article does not mention these features. Instead, it focuses on the clumpiness of dark matter and its relationship with visible matter.
-7. The summary mentions that the team at Manchester analyzed 130 million separate telescope images of galaxies to make the map, but the article does not mention the number of images analyzed.
-8. The summary states that the process of measuring the galaxies is so complex and time-consuming that some of the world's largest supercomputers are needed to do it, but the article does not mention the complexity or time required for the measurement process.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes some inaccuracies and exaggerations, such as the percentage of the sky covered by the map, the timeframe of the survey, and the features of the map. Additionally, some of the language used in the summary is not found in the article, such as "HD dark matter map" and "galaxy formation."
+1. The summary states that the map should allow astronomers to study how galaxies formed in the universe. However, the article does not mention anything about the formation of galaxies.
+2. The summary mentions that the map shows clumps of mystery particles across 0.4% of the sky. The article does mention that the map shows clumps of dark matter, but it does not specify the percentage of the sky that is covered.
+3. The summary states that the map was released today at the April meeting of the American Physical Society in Baltimore, Maryland. The article does not mention the date or location of the map's release.
+
+Therefore, the summary is not consistent with the article because it contains information that is not present in the article. Specifically, the summary mentions the formation of galaxies, the percentage of the sky covered by the map, and the date and location of the map's release, none of which are mentioned in the article.
 
 ###Corrected:

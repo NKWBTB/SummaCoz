@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mohammad irfan will miss the remainder of the world cup with a pelvis injury. left-armer irfan has taken three wickets in five matches so far. mohammad irfan, 23, will take no further part in the world cup. he had taken eight wickets in the first five games for pakistan. 
+<Article>
+Pakistan fast bowler Mohammad Irfan will miss the remainder of the World Cup with a pelvis injury. Left-armer Irfan, who has taken eight wickets in five matches so far, underwent an MRI scan after sitting out Pakistan's seven-wicket win over Ireland on Sunday with pain in his hip. After an initial scan proved inconclusive on Monday, Irfan underwent further tests on Tuesday where it was confirmed the seven-foot bowler had suffered 'an obvious stress fracture in the pelvis', according to a Pakistan Cricket Board statement. Mohammad Irfan will take no further part in the World Cup after scans revealed he has a fractured pelvis . Irfan had taken eight wickets in the first five games for Pakistan before missing the Ireland match . Team physiotherapist Brad Robinson said: 'This injury rules Irfan out of the World Cup.' Pakistan face Australia on March 20 in Adelaide, with a potential semi-final against defending champions India at stake, should the latter beat Bangladesh. Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan.
+</Article>
 
-    Article: 
-    Pakistan fast bowler Mohammad Irfan will miss the remainder of the World Cup with a pelvis injury. Left-armer Irfan, who has taken eight wickets in five matches so far, underwent an MRI scan after sitting out Pakistan's seven-wicket win over Ireland on Sunday with pain in his hip. After an initial scan proved inconclusive on Monday, Irfan underwent further tests on Tuesday where it was confirmed the seven-foot bowler had suffered 'an obvious stress fracture in the pelvis', according to a Pakistan Cricket Board statement. Mohammad Irfan will take no further part in the World Cup after scans revealed he has a fractured pelvis . Irfan had taken eight wickets in the first five games for Pakistan before missing the Ireland match . Team physiotherapist Brad Robinson said: 'This injury rules Irfan out of the World Cup.' Pakistan face Australia on March 20 in Adelaide, with a potential semi-final against defending champions India at stake, should the latter beat Bangladesh. Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan. 
+<Summary>
+mohammad irfan will miss the remainder of the world cup with a pelvis injury. left-armer irfan has taken three wickets in five matches so far. mohammad irfan, 23, will take no further part in the world cup. he had taken eight wickets in the first five games for pakistan.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Mohammad Irfan will take no further part in the World Cup, implying that he will not play again in the tournament. However, the article states that Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan, indicating that he may still have a chance to play again.
-2. The summary mentions that Irfan has taken three wickets in five matches, which is not consistent with the article's statement that he has taken eight wickets in five matches before missing the Ireland match.
-3. The summary states that Irfan has a pelvis injury, which is correct. However, the article adds that he has a fractured pelvis, which is a more severe injury than just a pelvis injury.
+1. The article states that Mohammad Irfan has taken eight wickets in five matches so far, whereas the summary states that he has taken three wickets in five matches. This is a discrepancy.
+2. The article states that Irfan has suffered an "obvious stress fracture in the pelvis", whereas the summary does not mention any injury or fracture.
+3. The article states that Irfan will miss the remainder of the World Cup, whereas the summary states that he will take no further part in the World Cup. This wording suggests that he may not be missing the entire tournament, but the article makes it clear that he will not be playing any further matches.
+4. The article states that Pakistan will wait until after the quarter-finals to decide whether to call up a replacement for Irfan, whereas the summary does not mention this.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the severity of Irfan's injury or his chances of playing again in the World Cup.
+Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

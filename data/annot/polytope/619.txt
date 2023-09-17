@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack grealish is renowned for wearing his socks low when he takes to the field for aston villa .
-grealish is renowned for wearing his socks low when he takes to the field for aston villa .
-grealish is renowned for wearing his socks low when he takes to the field for aston villa . 
-
-    Article: 
-    jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
+<Article>
+jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
 the aston villa teenager is renowned for keeping his stockings just above the roll of his shinpads .
 and grealish says , due to superstition , that he 'll carry on that way after making his first premier league start on tuesday night .
 jack grealish is renowned for wearing his socks low when he takes to the field for aston villa
@@ -21,23 +16,22 @@ his first league start for the club came in the pulsating 3-3 draw against qpr o
 grealish was pleased to have finally made his first premier league start for villa against qpr
 ` it was a bit of a tough game to get my first start , in a big relegation scrap , but i 'm pleased even if i 'm not happy about how the game ended up , ' he added .
 ` i try and see it as any other football match but it 's nice that the gaffer has got that faith in me and hopefully i can try to get a few more starts before the end of the season .
-` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . ' 
+` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the given summary is not consistent with the article:
+<Summary>
+jack grealish is renowned for wearing his socks low when he takes to the field for aston villa .
+grealish is renowned for wearing his socks low when he takes to the field for aston villa .
+grealish is renowned for wearing his socks low when he takes to the field for aston villa .
+</Summary>
 
-Step 1: Identify the main idea of the summary.
-The main idea of the summary is that Jack Grealish wears his socks low when he plays for Aston Villa.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main idea of the article.
-The main idea of the article is that Jack Grealish has a superstition about wearing his socks low and he will continue to do so despite referees telling him to pull them up.
+1. The article states that Jack Grealish wears children's shinpads and keeps his socks high above his shinpads due to superstition.
+2. The summary does not mention anything about children's shinpads or superstition, instead it simply states that Grealish wears his socks low when he takes to the field for Aston Villa.
+3. The article also mentions that Grealish has been told by referees to pull his socks up, but he has refused to do so.
+4. The summary does not mention anything about referees telling Grealish to pull his socks up.
 
-Step 3: Identify the inconsistencies.
-The inconsistency is that the summary only mentions that Jack Grealish wears his socks low, but the article provides more information about his superstition and the reason why he wears them low.
-
-Step 4: Explain the inconsistencies.
-The summary does not provide the full context of Jack Grealish's sock-wearing habits as described in the article. The article explains that Grealish wears children's shinpads and has a superstition about keeping his socks low, which is not mentioned in the summary.
-
-Therefore, the summary is not consistent with the article because it does not provide the full context of Jack Grealish's sock-wearing habits and superstition.
+Therefore, the summary is not consistent with the article because it does not include the details about children's shinpads, superstition, and referees telling Grealish to pull his socks up. These details are important aspects of the article and their omission makes the summary incomplete and inaccurate.
 
 ###Corrected:

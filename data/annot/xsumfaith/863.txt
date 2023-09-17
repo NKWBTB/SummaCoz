@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the government is seeking legislation to ban the use of social networking sites for the first time in a row over social media users. 
-
-    Article: 
-    It was scrapped this week at the eleventh hour when the government removed it from parliament moments before it was due to be voted into law.
+<Article>
+It was scrapped this week at the eleventh hour when the government removed it from parliament moments before it was due to be voted into law.
 Under the proposal, which had already passed a first round of voting, it would have been illegal to share information electronically that could "destroy, alter or subvert state institutions" or "damage national integrity or independence".
 This would have meant anyone criticising the government on social networking sites such as Facebook, or receiving an email containing anti-government sentiment, could have faced up to 12 years in prison.
 The law also wanted to ban the online sharing of videos, pictures or recordings without the subject's consent, criminalise "whistle-blowing" under the crime of "espionage" and make it illegal for anyone to search for information about the state, even if it was not classified.
@@ -36,19 +33,25 @@ A spokesman for Luanda's provincial government told state media that the youth i
 Although small in size and number, protests like these are a relatively new phenomenon in Angola where few have dared to question the authority of President Dos Santos and his ruling MPLA.
 "The people leading these protests are young and they don't have as much to lose. They were born after independence so they don't have that connection to the ruling party like older generations," Ms Cutaia says.
 "All they see is that despite Angola's wealth under the MPLA most people have remained poor and they want that to change.
-"Most of all they want the right to be able to make their voices heard." 
+"Most of all they want the right to be able to make their voices heard."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+the government is seeking legislation to ban the use of social networking sites for the first time in a row over social media users.
+</Summary>
 
-1. The summary states that the government was seeking legislation to ban the use of social networking sites, but the article states that the government had already passed a first round of voting on the legislation before it was scrapped.
-2. The summary implies that the government wanted to ban the use of social networking sites to suppress freedom of expression, but the article states that the government claimed the legislation was needed to curb crimes such as child pornography, hacking, and online financial fraud.
-3. The summary mentions that the law would have criminalized "whistle-blowing" under the crime of "espionage" and made it illegal for anyone to search for information about the state, even if it was not classified, but the article does not mention these specific provisions.
-4. The summary states that the law was intended to "undercut both freedom of expression and information," but the article quotes the Minister of State Carlos Feijo as saying that a decision had been made instead to insert special clauses about internet crimes into the new penal code currently under revision.
-5. The summary mentions that the legislation was opposed by civil society and local journalists, who claimed it was "totalitarian" and violated basic freedom of expression, but the article does not mention any specific opposition to the legislation.
-6. The summary states that the government had backed down on the legislation, but the article mentions that the government had removed it from parliament moments before it was due to be voted into law.
-7. The summary mentions that civil society celebrations around the scrapping of the legislation were short-lived after a number of activists were arrested on Wednesday for taking part in an anti-poverty demonstration in Luanda, but the article does not mention any arrests or demonstrations.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the extent of the government's efforts to suppress freedom of expression, misrepresents the government's motivations for introducing the legislation, and fails to accurately represent the content of the legislation.
+1. The article states that the government proposed a law that would have made it illegal to share information electronically that could "destroy, alter or subvert state institutions" or "damage national integrity or independence". This law would have included penalties of up to 12 years in prison.
+2. The article also states that the law would have criminalized "whistle-blowing" under the crime of "espionage" and made it illegal for anyone to search for information about the state, even if it was not classified.
+3. The article mentions that the law was withdrawn at the eleventh hour, and that the government instead decided to insert special clauses about internet crimes into the new penal code currently under revision.
+4. The article states that the proposed law was strongly opposed by civil society and local journalists, who claimed that it was "totalitarian" and violated basic freedom of expression.
+5. The article also states that the government has been trying to quash online discussion that is fuelling unrest in the country.
+
+Based on these points, it is clear that the government was seeking to pass legislation that would have restricted freedom of expression and information online. The law would have made it illegal to share certain types of information online, and would have included penalties of up to 12 years in prison. The government's decision to withdraw the law was likely due to opposition from civil society and local journalists, who claimed that the law was "totalitarian" and violated basic freedom of expression.
+
+In contrast, the summary states that the government is seeking legislation to ban the use of social networking sites for the first time, which is not accurate. The proposed law was not a ban on social networking sites, but rather a restriction on the types of information that could be shared online.
+
+Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the proposed law or the government's intentions.
 
 ###Corrected:

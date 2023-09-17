@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ben parkinson\'s mother has said he was ``overwhelmed\'\'by the response to his death in afghanistan. 
-
-    Article: 
-    He was seriously injured in a bomb attack in Afghanistan in 2006.
+<Article>
+He was seriously injured in a bomb attack in Afghanistan in 2006.
 Since carrying the torch on 26 June, Doncaster-based L/Bdr Parkinson has had thousands of requests on Facebook.
 But the site limits friend associations to 5,000 per personal page and he cannot accept all the requests.
 Flanked by hundreds of people, he walked for nearly half an hour with the Olympic torch with an assistant who supported his arm.
@@ -25,16 +22,21 @@ She added: "Some mail has just been addressed to Ben, please Mr Postie.
 "He's absolutely bouncing and buoyed up and elated."
 Facebook would not comment on the issue but their guidance was that if people were receiving this many requests then they have become a public figure, so should consider having a page instead of a profile.
 Alternatively, Ben could use subscribe so that people can see his public updates without actually becoming a friend.
-A total of 8,000 people will carry the flame during its 8,000 mile, 70-day journey to the opening ceremony of the Olympic Games in London on 27 July. 
+A total of 8,000 people will carry the flame during its 8,000 mile, 70-day journey to the opening ceremony of the Olympic Games in London on 27 July.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+ben parkinson\'s mother has said he was ``overwhelmed\'\'by the response to his death in afghanistan.
+</Summary>
 
-1. The summary states that Ben Parkinson's mother said he was "overwhelmed" by the response to his death in Afghanistan. However, the article does not mention anything about Ben's death. Instead, it talks about his injury in Afghanistan and his participation in the Olympic torch relay.
-2. Therefore, the summary is not consistent with the article because there is no mention of Ben's death.
-3. The article states that Ben was injured in a bomb attack in Afghanistan in 2006 and that he has been receiving thousands of requests on Facebook since carrying the torch. The article also mentions that Ben's mother has said that the responses have been "phenomenal" and that Ben is "bouncing and buoyed up" by the support he has received.
-4. However, the summary does not mention any of these details from the article. Instead, it focuses on Ben's mother saying that he was "overwhelmed" by the response to his death, which is not supported by the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the information and focuses on a non-existent detail (Ben's death) rather than the actual details of the article (Ben's injury and the responses he has received).
+1. The summary states that Ben Parkinson's mother said he was "overwhelmed" by the response to his death in Afghanistan.
+2. However, the article states that Ben Parkinson was injured in a bomb attack in Afghanistan in 2006, but he did not die.
+3. Therefore, the summary is not consistent with the article, as there is no mention of Ben Parkinson's death in the article.
+4. The article actually focuses on the large number of friend requests Ben Parkinson received on Facebook after carrying the Olympic torch, and his mother's statement about the phenomenal support and friendship he has received.
+5. The summary incorrectly implies that Ben Parkinson died in Afghanistan, which is not supported by the article.
+
+Therefore, the summary is not consistent with the article, and the error lies in the statement that Ben Parkinson died in Afghanistan.
 
 ###Corrected:

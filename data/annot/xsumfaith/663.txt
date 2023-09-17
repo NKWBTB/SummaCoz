@@ -1,31 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    declan mcmanus scored twice as greenock morton beat scottish championship bottom side alloa athletic, who remain 10 points adrift. 
-
-    Article: 
-    McManus netted from close range on the quarter-hour mark to open the scoring and Ross Forbes' deflected strike quickly doubled Morton's lead.
+<Article>
+McManus netted from close range on the quarter-hour mark to open the scoring and Ross Forbes' deflected strike quickly doubled Morton's lead.
 A shot by Kyle McAusland pulled Alloa back into the game before half-time.
-But another McManus finish and one by Denny Johnstone late on ensured a comfortable win for the hosts. 
+But another McManus finish and one by Denny Johnstone late on ensured a comfortable win for the hosts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+declan mcmanus scored twice as greenock morton beat scottish championship bottom side alloa athletic, who remain 10 points adrift.
+</Summary>
 
-1. The summary states that Declan McManus scored twice, but the article states that he netted once and Denny Johnstone scored late on, so the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that Greenock Morton beat Scottish Championship bottom side Alloa Athletic, but the article states that Alloa pulled one back before half-time, so the summary is not accurate.
-
-3. The summary does not mention Ross Forbes' deflected strike, which is mentioned in the article as one of the goals scored by Greenock Morton.
-
+1. The summary states that Declan McManus scored twice for Greenock Morton in their win against Alloa Athletic.
+2. The article does not mention Declan McManus as one of the goalscorers for Morton. Instead, it mentions McManus netting from close range on the quarter-hour mark, but does not specify that he scored twice.
+3. The article mentions Ross Forbes' deflected strike as the second goal for Morton, but the summary does not include this information.
 4. The summary states that Alloa remain 10 points adrift, but the article does not mention this information.
 
-Therefore, the summary is not consistent with the article, and the reasons for this are:
+Therefore, the summary is not consistent with the article because it:
 
-* The summary does not accurately reflect the number of goals scored by Declan McManus.
-* The summary does not accurately reflect the final score of the match.
-* The summary does not mention a significant event mentioned in the article (Ross Forbes' deflected strike).
-* The summary includes information not present in the article (Alloa's position in the league table).
+* Incorrectly states that Declan McManus scored twice, when the article only mentions one goal for him.
+* Omits Ross Forbes' goal, which is mentioned in the article.
+* Includes information about Alloa's position in the table, which is not present in the article.
+
+Overall, the summary is not an accurate representation of the article's content.
 
 ###Corrected:

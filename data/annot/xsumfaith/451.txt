@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the uk\'s oil and gas authority (nda) has confirmed it is investigating the discovery of a massive earthquake in the uk. 
-
-    Article: 
-    Cuadrilla, the firm behind the tests, said drilling had been suspended as a precaution after the 1.5 magnitude tremor - the second in two months.
+<Article>
+Cuadrilla, the firm behind the tests, said drilling had been suspended as a precaution after the 1.5 magnitude tremor - the second in two months.
 It will now examine the data collected by the British Geological Survey (BGS) before deciding whether to resume.
 A tremor centred on Poulton-le-Fylde on 1 April shared a "similar location and mechanism", the BSG said.
 Shale gas drilling, known as "fracking", involves shattering hard shale rocks underground to release gas using either hydraulic pressure or tiny explosions.
@@ -21,17 +18,19 @@ The BGS said the April tremor took place 1.2 miles (2km) away from the drilling 
 Speaking about the latest quake, Dr Brian Baptie, head of seismology at the BGS, said: "The earthquake was felt by at least one person in Poulton-Le-Fylde.
 "Our analysis places the epicentre of the event to within 2km of the Preese Hall site.
 "Data from two temporary instruments close to the drill site, installed after the magnitude 2.3 earthquake on 1 April, indicate that the event occurred at a depth of approximately 2km (1.2 miles).
-"The recorded waveforms are very similar to those from the magnitude 2.3 event last month, which suggests that the two events share a similar location and mechanism." 
+"The recorded waveforms are very similar to those from the magnitude 2.3 event last month, which suggests that the two events share a similar location and mechanism."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the uk\'s oil and gas authority (nda) has confirmed it is investigating the discovery of a massive earthquake in the uk.
+</Summary>
 
-1. The summary states that the UK's oil and gas authority (NDA) has confirmed it is investigating the discovery of a massive earthquake in the UK. However, the article does not mention anything about the NDA investigating an earthquake.
-2. The summary mentions a magnitude 1.5 earthquake, but the article only mentions a magnitude 2.3 earthquake.
-3. The summary states that the earthquake was centered in Poulton-le-Fylde, but the article only mentions that the epicenter was near the Preese Hall site.
-4. The summary does not mention anything about the drilling operations being suspended as a precaution, as stated in the article.
-5. The summary does not mention the British Geological Survey (BGS) or their monitoring of fracking, which is a significant aspect of the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, the summary is not consistent with the article.
+1. The summary states that the UK's oil and gas authority (NDA) is investigating the discovery of a massive earthquake in the UK.
+2. However, the article does not mention the NDA or any investigation.
+3. The article does mention that Cuadrilla, the firm behind the fracking operations, has suspended drilling as a precaution after a 1.5 magnitude tremor, and that the British Geological Survey (BGS) is monitoring the situation.
+4. The summary is not consistent with the article because it mentions the NDA and an investigation, while the article does not mention these things.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

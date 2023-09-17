@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    google\'s executive chairman eric schmidt has said he is ``perplexed\'\'by the ongoing debate over the company\'s tax contributions in the uk. 
-
-    Article: 
-    Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
+<Article>
+Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
 Google paid Â£10m in UK corporate taxes between 2006 and 2011.
 Mr Schmidt said it was up to the government to change its tax system if it wanted companies to pay more taxes.
 Speaking on BBC Radio 4's Start the Week, he said: "What we are doing is legal. I'm rather perplexed by this debate, which has been going in the UK for some time, because I view taxes as not optional.
@@ -19,15 +16,19 @@ Last week, European Union leaders agreed to tackle tax avoidance through an "aut
 The Google chairman has previously argued that corporate taxes should be levied in the country where it conducts economic activity and takes risks, rather than where products are consumed.
 He has also called for a debate on international tax reform.
 "Politicians - not companies - [should] set the rules...When legislators are doing the lobbying and companies are articulating the law as it stands, it's a confusing spectacle for everyone," he recently wrote in the Observer.
-"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them." 
+"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+google\'s executive chairman eric schmidt has said he is ``perplexed\'\'by the ongoing debate over the company\'s tax contributions in the uk.
+</Summary>
 
-1. The summary states that Eric Schmidt, Google's executive chairman, is "perplexed" by the ongoing debate over the company's tax contributions in the UK. However, in the article, Schmidt is quoted as saying that he views taxes as "not optional" and that Google pays the taxes that are "legally required." This suggests that Schmidt is not actually perplexed by the debate, but rather has a clear stance on the matter.
-2. The summary implies that Schmidt is criticizing the UK's tax system and calling for change, but in the article, he is quoted as saying that it is up to the government to change the tax system if it wants companies to pay more taxes. This suggests that Schmidt is not taking a critical stance towards the UK's tax system, but rather is expressing a neutral or practical viewpoint.
-3. The summary mentions that Margaret Hodge, the head of the Parliamentary Public Accounts Committee, has suggested a new committee should be established to oversee the tax arrangements of major firms. However, this information is not present in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary takes a more sensationalist tone and presents a different view of Schmidt's stance on the matter than what is actually presented in the article.
+1. The summary states that Eric Schmidt, Google's executive chairman, is "perplexed" by the ongoing debate over the company's tax contributions in the UK.
+2. However, the article does not mention any debate or controversy over Google's tax contributions in the UK. Instead, it reports that Mr. Schmidt defended the company's tax payments and called for a change in the tax system if the government wants companies to pay more taxes.
+3. Therefore, the summary is not consistent with the article because it implies that there is a debate over Google's tax contributions in the UK, while the article does not mention any such debate.
+4. The article does mention that Margaret Hodge, the head of the Parliamentary Public Accounts Committee, has suggested a new committee should be established to oversee the tax arrangements of major firms, and that Google has been criticized for organizing its tax affairs in ways that minimize the amounts it pays in the UK. However, these points are not mentioned in the summary.
+5. Overall, the summary is not a accurate reflection of the content of the article, and is therefore not consistent with the article.
 
 ###Corrected:

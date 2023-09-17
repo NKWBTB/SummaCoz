@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an investigation into the disappearance of a woman who was allegedly murdered is to be probed by the police watchdog. 
-
-    Article: 
-    The body of India Chipchase, 20, a bar worker, was found in Northampton on Sunday.
+<Article>
+The body of India Chipchase, 20, a bar worker, was found in Northampton on Sunday.
 Book-keeper Edward Tenniswood, 51, from Stanley Road, faces a charge of murder and has appeared at crown court.
 Northamptonshire Police referred itself to the Independent Police Complaints Commission over its "responses before and during" the search.
 Read this and other stories from Northamptonshire
@@ -19,15 +16,19 @@ There was no application for bail and he was remanded in custody.
 Ms Chipchase was last seen by friends on Bridge Street at about 01:15 GMT on Saturday.
 Her disappearance was reported later that day after she failed to turn up to work at The Collingtree pub and restaurant.
 Her body was found at the defendant's terraced house in Stanley Road. A post-mortem examination concluded she died as a result of pressure to the neck.
-There will be a plea hearing on the 25 May, and a trial date was set for 18 July, to last for 10 days. 
+There will be a plea hearing on the 25 May, and a trial date was set for 18 July, to last for 10 days.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+an investigation into the disappearance of a woman who was allegedly murdered is to be probed by the police watchdog.
+</Summary>
 
-1. The summary states that the police watchdog is investigating the disappearance of the woman, while the article states that the police have referred themselves to the Independent Police Complaints Commission (IPCC) over their "responses before and during the search" for the woman. This suggests that the police are being investigated for their actions during the investigation, rather than the disappearance itself.
-2. The summary does not mention the fact that the body of the woman was found, and that the accused, Edward Tenniswood, has been charged with murder. These details are not present in the summary, which makes it incomplete and not consistent with the article.
-3. The summary mentions a "plea hearing" and a "trial date", which suggests that the case is still ongoing, while the article states that Tenniswood has appeared in court via video link and has been remanded in custody. This implies that the case has already progressed further than the summary suggests.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the information presented in the article, and is therefore not consistent with it.
+1. The summary states that the police watchdog is investigating the disappearance of a woman who was allegedly murdered.
+2. However, the article states that the body of India Chipchase was found, and the defendant, Edward Tenniswood, has been charged with murder.
+3. Therefore, it is not accurate to say that the police are investigating the disappearance of the woman, as her body has already been found and a charge has been brought against the defendant.
+4. Additionally, the article does not mention any investigation into the police's actions, which is a key aspect of the police watchdog's remit.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
 
 ###Corrected:

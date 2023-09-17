@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday 
-alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer 
-dinorah santana , the player 's agent and ex-wife , said at a press conference on thursday that her client had rejected the offer of a three-year contract extension , which was dependent on the player taking part in 60 per cent of matches for the club .  
-
-    Article: 
-    dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
+<Article>
+dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
 alves has enjoyed seven successful years at barcelona , winning four spanish titles and the champions league twice .
 but the 31-year-old has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
 dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday
@@ -25,17 +20,23 @@ the former sevilla full-back has been linked with manchester united and manchest
 santana said alves has two offers on the table at the moment , but has not yet been approached by big-spending psg .
 ` he has had conversations with future candidates , ' santana said .
 ` psg have not made an offer , but we have two offers of three years . '
-alves has been linked with a number of clubs including manchester united and manchester city 
+alves has been linked with a number of clubs including manchester united and manchester city
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday 
+alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer 
+dinorah santana , the player 's agent and ex-wife , said at a press conference on thursday that her client had rejected the offer of a three-year contract extension , which was dependent on the player taking part in 60 per cent of matches for the club . 
+</Summary>
 
-1. The summary states that Dani Alves rejected a three-year contract extension with Barcelona, while the article states that the club made a final offer to Alves, which he rejected.
-2. The summary implies that the reason for Alves' rejection of the contract extension is that it was dependent on him taking part in 60% of matches for the club, while the article does not mention this condition.
-3. The summary states that Alves will leave Barcelona this summer, while the article does not mention a specific time frame for his departure.
-4. The summary mentions that Alves has two offers on the table, but the article does not mention this.
-5. The summary states that Alves is sad about leaving Barcelona, while the article does not mention his emotional state.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important information that is present in the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that Dani Alves has been unable to agree a new deal with the club and will leave the Nou Camp this summer. However, the article states that Alves has rejected the club's final contract offer, but does not mention anything about leaving the club this summer.
+2. The summary mentions that Alves' agent and ex-wife, Dinorah Santana, said at a press conference that her client had rejected the offer of a three-year contract extension, which was dependent on Alves taking part in 60% of matches for the club. However, the article does not mention anything about a three-year contract extension or the condition of taking part in 60% of matches.
+3. The summary states that Alves has two offers on the table, but the article does not mention anything about offers from other clubs.
+
+Therefore, based on the inconsistencies listed above, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

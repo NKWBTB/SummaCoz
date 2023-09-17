@@ -1,25 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a brand new restaurant in london has taken place in london to encourage dogs to eat at schools in england and wales. 
-
-    Article: 
-    27 August 2016 Last updated at 12:34 BST
+<Article>
+27 August 2016 Last updated at 12:34 BST
 The restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants -  as long as they were outdoors!
-It looks like a right dog's dinner - check out this clip. 
+It looks like a right dog's dinner - check out this clip.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a brand new restaurant in london has taken place in london to encourage dogs to eat at schools in england and wales.
+</Summary>
 
-1. The article states that a new law was introduced allowing dogs to eat at restaurants, but only outdoors.
-2. The summary claims that the restaurant in London is encouraging dogs to eat at schools in England and Wales.
-3. There is no mention of schools or any reference to indoor settings in the article.
-4. The article only mentions outdoor settings and the restaurant serving puppy platters.
-5. Therefore, the summary is not consistent with the article because it mentions indoor settings (schools) and outdoor settings (restaurants) in the same sentence, which is not supported by the article.
-6. Additionally, the article only talks about a new law allowing dogs to eat at restaurants outdoors, but the summary does not mention anything about a law or any specific location (schools or restaurants).
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it contains information that is not supported by the text.
+1. The article states that the new law allows dogs to eat at restaurants "as long as they were outdoors." This implies that the dogs are eating outside, not inside the restaurant.
+2. The summary states that the restaurant is "in london" and encourages dogs to eat at "schools in england and wales." This implies that the restaurant is located in London and serves dogs at schools, which is not supported by the article.
+3. The article does not mention anything about schools or encouraging dogs to eat at schools. The article only mentions that the restaurant began serving puppy platters after a new law was introduced allowing dogs to eat at restaurants outdoors.
+4. Therefore, the summary is not consistent with the article because it mentions things that are not present in the article, such as schools and encouraging dogs to eat at schools.
+
+Overall, the summary is not a accurate representation of the article's content.
 
 ###Corrected:

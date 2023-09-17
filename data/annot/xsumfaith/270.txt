@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    brexit secretary david davis has met the uk government for a meeting with brexit secretary david davis. 
-
-    Article: 
-    The views were expressed following a meeting of the EU Negotiation Joint Ministerial Committee in London.
+<Article>
+The views were expressed following a meeting of the EU Negotiation Joint Ministerial Committee in London.
 Mr Davis said the UK government would keep Scotland, Wales and Northern Ireland up-to-date about negotiations.
 However, Mr Russell said transparency about UK government plans was needed.
 Mr Davis said he wanted to hold a monthly meeting to share analysis as part of a "two-way information flow" with each of the three nations.
@@ -21,16 +18,20 @@ But he added: "More than four months after the referendum the UK government has 
 He said he made it "absolutely clear" that membership of the single market "is essential for the economic prosperity of Scotland".
 The UK government hopes the High Court judgment on how Article 50 will be triggered will be overruled on appeal to the Supreme Court next month.
 However, the Scottish government will seek to oppose the UK government in the Supreme Court during the appeal.
-The intention is for Lord Advocate James Wolffe, Scotland's most senior law officer, to apply to be heard in the case. 
+The intention is for Lord Advocate James Wolffe, Scotland's most senior law officer, to apply to be heard in the case.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+brexit secretary david davis has met the uk government for a meeting with brexit secretary david davis.
+</Summary>
 
-1. The summary states that Brexit Secretary David Davis met with the UK government, but the article does not mention any meeting between David Davis and the UK government. Instead, the article states that David Davis met with the EU Negotiation Joint Ministerial Committee in London.
-2. The summary states that the purpose of the meeting was to share analysis and keep Scotland, Wales, and Northern Ireland up-to-date about negotiations, but the article does not mention any specific discussions about sharing analysis or keeping the devolved administrations up-to-date. Instead, the article focuses on the need for transparency and clarity from the UK government regarding its negotiating strategy.
-3. The summary states that Mr. Davis said the UK government would work positively with the Scottish government, Welsh government, and Northern Ireland Executive, but the article does not mention any specific commitments to work positively with the devolved administrations. Instead, the article highlights the tension between the UK government and the Scottish government regarding the need for transparency and clarity.
-4. The summary states that Mr. Russell said the UK government must provide greater clarity and transparency on its intentions, but the article does not mention any specific calls for clarity and transparency from Mr. Russell. Instead, the article quotes Mr. Russell as saying that the UK government's lack of transparency is a "considerable problem" for Scotland.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the content and tone of the article. The article focuses on the need for transparency and clarity from the UK government regarding its negotiating strategy, while the summary focuses on the meeting between David Davis and the devolved administrations, which is not a central theme of the article.
+1. The summary states that Brexit Secretary David Davis met with the UK government for a meeting. This is not consistent with the article, as the article states that Mr. Davis met with the devolved administrations (Scotland, Wales, and Northern Ireland) to discuss Brexit negotiations.
+2. The summary does not provide any information about the content of the meeting, such as what was discussed or any agreements reached. The article provides detailed information about the topics discussed, including EU market access and the single market.
+3. The summary does not mention any of the specific points made by Mr. Russell, such as the need for transparency and clarity from the UK government on its intentions for Brexit negotiations. The article quotes Mr. Russell extensively on these issues.
+4. The summary does not provide any context for the meeting, such as the fact that it was held in London or that it was part of a regular series of meetings to be held between the UK government and the devolved administrations. The article provides this context.
+
+Overall, the summary does not provide a accurate or informative summary of the article. It is a very brief and incomplete summary that does not capture any of the key points or details of the article.
 
 ###Corrected:

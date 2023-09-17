@@ -1,21 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a prison has said it is " frightened " after reports reports reports people were thrown into a prison by drones in essex. 
+<Article>
+Chelmsford Prison told residents there had recently been "numerous incidents" of packages being hurled over the wall.One former inmate said the jail was "notorious" for being "flooded" with mobile phones and synthetic cannabis.The Ministry of Justice said staff worked "extremely hard" to stop contraband from getting into prisons."However more must be done, which is why the Justice Secretary has asked us to look at how we can ensure prisons have the tools in place to tackle this kind of problem," the spokeswoman added.Follow updates on this story and other news from EssexA woman who lives near the prison, who did not want to be named, said she had witnessed packages being thrown over the wall "four times in two weeks.""It's getting quite bad at the minute. The prison wants us to come to an evening to talk about what to do if anything does get thrown over," she said."I don't feel frightened, but obviously it's not nice - I always lock the doors and everything."The former inmate claimed drones were used to fly contraband goods "straight up to prison windows", but the Ministry of Justice said there was no evidence of drones coming into the Chelmsford site.The spokeswoman said laws had been introduced which mean people who smuggle packages over prison walls could be jailed for up to two years.
+</Article>
 
-    Article: 
-    Chelmsford Prison told residents there had recently been "numerous incidents" of packages being hurled over the wall.One former inmate said the jail was "notorious" for being "flooded" with mobile phones and synthetic cannabis.The Ministry of Justice said staff worked "extremely hard" to stop contraband from getting into prisons."However more must be done, which is why the Justice Secretary has asked us to look at how we can ensure prisons have the tools in place to tackle this kind of problem," the spokeswoman added.Follow updates on this story and other news from EssexA woman who lives near the prison, who did not want to be named, said she had witnessed packages being thrown over the wall "four times in two weeks.""It's getting quite bad at the minute. The prison wants us to come to an evening to talk about what to do if anything does get thrown over," she said."I don't feel frightened, but obviously it's not nice - I always lock the doors and everything."The former inmate claimed drones were used to fly contraband goods "straight up to prison windows", but the Ministry of Justice said there was no evidence of drones coming into the Chelmsford site.The spokeswoman said laws had been introduced which mean people who smuggle packages over prison walls could be jailed for up to two years. 
+<Summary>
+a prison has said it is " frightened " after reports reports reports people were thrown into a prison by drones in essex.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that the prison is "frightened" after reports of people being thrown into the prison by drones in Essex.
-2. However, the article does not mention anything about drones being used to throw people into the prison. Instead, it mentions that there have been numerous incidents of packages being hurled over the prison wall, and that one former inmate claimed drones were used to fly contraband goods "straight up to prison windows".
-3. The article also states that the Ministry of Justice said there was no evidence of drones coming into the Chelmsford site.
-4. Therefore, the summary is not consistent with the article because it mentions drones being used to throw people into the prison, which is not supported by the article.
+2. However, the article does not mention anything about people being thrown into the prison by drones. Instead, it talks about packages being thrown over the prison wall and the Ministry of Justice's efforts to tackle contraband smuggling.
+3. The article does mention that the prison has witnessed packages being thrown over the wall "four times in two weeks," but this is not the same as people being thrown into the prison by drones.
+4. Therefore, the summary is not consistent with the article, as it misrepresents the information provided in the article.
 
-I hope this helps! Let me know if you have any further questions.
+Step by step reasoning:
+
+1. The summary states that the prison is "frightened" after reports of people being thrown into the prison by drones in Essex.
+2. However, the article does not mention anything about people being thrown into the prison by drones.
+3. The article talks about packages being thrown over the prison wall and the Ministry of Justice's efforts to tackle contraband smuggling.
+4. Therefore, the summary is not consistent with the article, as it misrepresents the information provided in the article.
 
 ###Corrected:

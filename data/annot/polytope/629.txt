@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bus driver caught reading newspaper while driving in auckland , new zealand .
-passenger filmed bus as bus slows to a stop at a set of traffic lights .
-passenger filmed the driver and sent video to bus company UNK UNK . 
-
-    Article: 
-    a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
+<Article>
+a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
 a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
 in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
 a bus driver was caught reading a newspaper while driving in auckland , new zealand
@@ -20,16 +15,23 @@ bloody irresponsible behaviour to the first degree , i ca n't believe it , ' mr 
 he was n't even trying to hide it , he was holding the whole newspaper open , over the steering wheel . '
 mr ritchie said the driver would be disciplined , but would not go into detail .
 a passenger filmed the driver and sent the video to bus company ritchies coachlines along with a complaint
-ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions 
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+bus driver caught reading newspaper while driving in auckland , new zealand .
+passenger filmed bus as bus slows to a stop at a set of traffic lights .
+passenger filmed the driver and sent video to bus company UNK UNK .
+</Summary>
 
-1. The summary states that the bus driver was "caught reading a newspaper while driving" and that the passenger filmed the driver as the bus slowed to a stop at a set of traffic lights. However, the article does not mention the driver reading a newspaper while driving. Instead, it states that the driver was holding the newspaper open over the steering wheel while the bus was in motion.
-2. The summary also states that the passenger sent the video to the bus company, but the article does not mention the passenger sending a video. Instead, it states that the passenger filmed the driver and sent a complaint to the bus company.
-3. The summary quotes the bus company's boss, Andrew Ritchie, as saying that the driver was a "complete idiot" and that the driver's actions were "bloody irresponsible behavior to the first degree." However, the article does not quote Mr. Ritchie using these exact words. Instead, it quotes him as saying that he was "absolutely amazed" by the driver's actions and that he was "embarrassed" by the driver's behavior.
-4. Finally, the summary states that the driver would be disciplined, but the article does not mention the specific disciplinary action that would be taken.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The article provides a more balanced and accurate account of the events, and it does not sensationalize the driver's actions as much as the summary does.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent information: The summary states that the passenger filmed the bus as it slows to a stop at a set of traffic lights, but the article does not mention anything about the bus slowing down or stopping.
+2. Incorrect attribution: The summary incorrectly attributes the statement "passenger filmed the driver and sent video to bus company UNK UNK" to the article. This statement is not present in the article.
+3. Lack of detail: The summary lacks detail and only provides a brief summary of the article's content. It does not include any specific information about the driver's actions or the company's response, which are the main points of the article.
+
+Overall, the summary is not a accurate representation of the article's content and contains several inconsistencies and errors.
 
 ###Corrected:

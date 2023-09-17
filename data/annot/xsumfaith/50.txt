@@ -1,28 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    australia\'s nick kyrgios beat world number one querrey in straight sets to reach the second round of the shanghai masters. 
-
-    Article: 
-    The Australian, 21, beat world number 29 Querrey 6-4 6-4 in 53 minutes to progress to the second round.
+<Article>
+The Australian, 21, beat world number 29 Querrey 6-4 6-4 in 53 minutes to progress to the second round.
 Kyrgios, ranked a career-high 12th in the world, won the Japan Open on Sunday and is closing in on the top 10.
 "I was just a bit bored at times," said Kyrgios, when asked why he was not his usual vocal self against Querrey.
 "I was feeling very tired. It was just tough. I'm just tired so maybe I just wanted to get the job done."
 Kyrgios said his success in Japan, and the travelling involved in playing at the Qi Zhong Stadium, an hour from Shanghai city centre, had taken its toll.
 "I didn't have the greatest sleep last night and obviously got in late the day before," he said. "The ride to the courts isn't great either."
-It was at the Shanghai Masters last year that Kyrgios was fined $1,500 (£984) for a foul-mouthed outburst, describing the tournament a "circus". 
+It was at the Shanghai Masters last year that Kyrgios was fined $1,500 (£984) for a foul-mouthed outburst, describing the tournament a "circus".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+australia\'s nick kyrgios beat world number one querrey in straight sets to reach the second round of the shanghai masters.
+</Summary>
 
-1. The summary states that Nick Kyrgios beat world number one Querrey in straight sets, but the article states that Kyrgios beat world number 29 Querrey. This is not consistent, as world number one is a higher ranking than world number 29.
-2. The summary states that Kyrgios won the Japan Open on Sunday, but the article does not mention this. The article only mentions that Kyrgios won the Shanghai Masters last year.
-3. The summary states that Kyrgios is closing in on the top 10, but the article does not mention this.
-4. The summary states that Kyrgios was not his usual vocal self against Querrey because he was tired, but the article states that Kyrgios said he was feeling very tired and that the travelling involved in playing at the Qi Zhong Stadium had taken its toll.
-5. The summary does not mention Kyrgios's foul-mouthed outburst at the Shanghai Masters last year, as mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, as it contains several inaccuracies and omissions.
+1. The summary states that Nick Kyrgios, an Australian player, beat world number one Querrey in straight sets to reach the second round of the Shanghai Masters.
+2. However, the article states that Kyrgios beat world number 29 Querrey, not world number one.
+3. Therefore, the summary is not consistent with the article, as it incorrectly states that Kyrgios beat the world number one.
+4. The article explains that Kyrgios won the match in 53 minutes, but the summary does not mention this detail.
+5. The article also mentions that Kyrgios was feeling tired and had a poor sleep the night before, but the summary does not include this information.
+6. Finally, the article mentions that Kyrgios was fined $1,500 last year at the Shanghai Masters for a foul-mouthed outburst, but the summary does not include this detail.
+
+Therefore, the summary is not consistent with the article because it incorrectly states that Kyrgios beat the world number one, does not mention the duration of the match, does not include information about Kyrgios' tiredness, and does not mention the fine he received last year.
 
 ###Corrected:

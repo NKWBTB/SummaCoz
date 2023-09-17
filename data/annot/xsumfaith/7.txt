@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ipswich town ended qpr\'s seven-game winning run in the championship with a comfortable win at carrow road. 
-
-    Article: 
-    Grant Ward's scuffed shot put Town ahead before Luke Varney rolled the ball into an empty net after QPR keeper Alex Smithies miscued a clearance.
+<Article>
+Grant Ward's scuffed shot put Town ahead before Luke Varney rolled the ball into an empty net after QPR keeper Alex Smithies miscued a clearance.
 Cole Skuse's long-range shot fell to Tom Lawrence, who capped the scoring with a calm finish into the corner.
 Rangers offered little in attack, but sub Sandro headed Tjarron Cherry's corner against the post late on.
 Ipswich had failed to score in seven of their previous 10 Championship games, but could have had plenty more, with Christophe Berra heading wide from six yards, and Skuse firing a volley straight at Smithies.
@@ -58,18 +55,20 @@ Attempt missed. David McGoldrick (Ipswich Town) right footed shot from outside t
 Foul by Sandro (Queens Park Rangers).
 Jonathan Douglas (Ipswich Town) wins a free kick in the defensive half.
 Foul by Karl Henry (Queens Park Rangers).
-Cole Skuse (Ipswich Town) wins a free kick on the left wing. 
+Cole Skuse (Ipswich Town) wins a free kick on the left wing.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+ipswich town ended qpr\'s seven-game winning run in the championship with a comfortable win at carrow road.
+</Summary>
 
-1. The summary states that Ipswich Town ended QPR's seven-game winning run, but the article does not mention anything about QPR's winning run.
-2. The summary mentions that Luke Varney rolled the ball into an empty net, but the article states that Alex Smithies miscued a clearance and Varney headed the ball into the net.
-3. The summary does not mention the goal scored by Cole Skuse, which is described in detail in the article.
-4. The summary states that QPR offered little in attack, but the article mentions that QPR had a few chances, including a header against the post by Sandro.
-5. The summary quotes Mick McCarthy as saying that the irony was that poor old Alex Smithies cost them the second goal, but the article does not mention McCarthy saying this.
-6. The summary quotes Ian Holloway as saying that everyone will blame his keeper, but the article does not mention Holloway saying this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a consistent representation of the article's content. It omits or misrepresents several key details and quotes, and does not provide an accurate summary of the match.
+1. The summary states that Ipswich Town ended QPR's seven-game winning run in the Championship, which is not consistent with the article. The article states that QPR lost 3-0 to Ipswich Town, which does not match the idea of a seven-game winning run.
+2. The article mentions that QPR have won only once in their last six matches away from Loftus Road, which suggests that they have been struggling on the road. This is not consistent with the idea of a seven-game winning run.
+3. The article quotes Ipswich manager Mick McCarthy as saying that the team has not been bristling with confidence and that they have had a couple of rotten weekends, which suggests that they have been struggling as well. This is not consistent with the idea of a seven-game winning run.
+4. The article mentions that QPR boss Ian Holloway blamed his keeper for the second goal, which suggests that the team is not performing well defensively. This is not consistent with the idea of a seven-game winning run.
+
+Based on these points, it is clear that the summary is not consistent with the article. The article does not support the idea of QPR being on a seven-game winning run, and instead suggests that both teams have been struggling in recent matches.
 
 ###Corrected:

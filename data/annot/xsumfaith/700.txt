@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    woodland bigger than the size of cardiff needs to be re-planted in wales to make up for commercial forestry lost over the past 15 years, industry experts have warned. 
-
-    Article: 
-    They believe ministers are placing too much emphasis on the environment at the expense of trees grown for timber.
+<Article>
+They believe ministers are placing too much emphasis on the environment at the expense of trees grown for timber.
 Britain is currently the world's third largest importer of wood.
 Ministers said they were encouraging commercial forestry organisations to invest in woodland creation.
 Conifer forests have been a familiar sight for half a century in Wales and have helped the timber industry grow.
@@ -22,21 +19,21 @@ It said its Woodlands for Wales forestry strategy "sets out how we want Wales to
 Martin Bishop, of Confor, which represents 200 businesses in Wales, believes the emphasis on environmental aspects is seen as "sexier" than commercial forestry.
 He said the current system is also too bureaucratic for creating new woodland areas.
 Mr Bishop said 90 hectares were planted last year but there needed to be 20,000 hectares a year to meet long-term targets set by ministers.
-"There's a huge market for our timber. Every saw miller tells me he would double or treble production if the timber was there to feed that mill," he added. 
+"There's a huge market for our timber. Every saw miller tells me he would double or treble production if the timber was there to feed that mill," he added.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+woodland bigger than the size of cardiff needs to be re-planted in wales to make up for commercial forestry lost over the past 15 years, industry experts have warned.
+</Summary>
 
-1. The summary states that commercial forestry has been lost over the past 15 years and needs to be re-planted to meet needs.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about commercial forestry being lost or needing to be re-planted. Instead, it focuses on the conflict between environmental policy and commercial forestry, and the challenges of balancing the environmental, economic, and social aspects of forestry development.
+1. The summary states that "woodland bigger than the size of Cardiff needs to be re-planted in Wales." This statement is not consistent with the article, as the article does not mention any specific size of woodland that needs to be re-planted, nor does it mention Cardiff.
+2. The article states that "at least 16,000 hectares - or 40,000 acres - of commercial forest have been lost since 2001 and need to be re-planted to meet needs." This is a different figure from the summary's claim of "woodland bigger than the size of Cardiff."
+3. The article mentions that the Welsh government wants a balance between the environmental, economic, and social aspects of forestry development, but the summary does not mention this.
+4. The article mentions that there is a conflict between environmental policy and commercial forestry, but the summary does not mention this.
+5. The article mentions that the Welsh government has a forestry strategy that aims to create high-quality woodlands that enhance the landscape, provide social and community benefits, and support thriving woodland-based industries, but the summary does not mention this.
 
-2. The summary implies that the emphasis on environmental aspects is seen as more important than commercial forestry, which is not supported by the article. The article states that successive ministers have wanted more native, broadleaf species of trees and better access for walkers and bike riders, but it does not suggest that environmental policy is prioritized over commercial forestry.
-
-3. The summary mentions that 90 hectares were planted last year, but the article does not provide any information about the amount of land planted last year. Instead, it mentions that there needs to be 20,000 hectares a year to meet long-term targets set by ministers, which is not supported by the article.
-
-4. The summary states that the Welsh government wants a balance between the environmental, the economic, and the social in how forestry is developed, which is supported by the article. The article states that the Welsh government wants to balance the need for woodland creation with the need to protect wildlife and the environment, and that the Glastir scheme encourages farmers and other landowners to plant woodland.
-
-Therefore, the summary is not consistent with the article because it exaggerates the loss of commercial forestry, misrepresents the emphasis on environmental aspects, and provides incorrect information about the amount of land planted last year.
+Therefore, the summary is not consistent with the article because it does not accurately represent the content or main points of the article. The summary is too focused on the size of the woodland that needs to be re-planted, and it does not provide a balanced view of the issues related to commercial forestry in Wales.
 
 ###Corrected:

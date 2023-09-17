@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup
-stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
-congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas . 
-
-    Article: 
-    congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+<Article>
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
 it leaves england looking old-fashioned and they need to react .
 stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
 if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
@@ -44,20 +39,24 @@ you simply ca n't let the rfu or premier rugby tie your hands behind your back a
 at toulon , they 've got bryan habana playing for south africa and leigh halfpenny playing for wales .
 they 're among the best players in the world .
 it 's just crazy and misguided not to make any englishman available for selection .
-bryan habana plays for toulon but the springboks have continued to select the winger for test matches 
+bryan habana plays for toulon but the springboks have continued to select the winger for test matches
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the given summary is not consistent with the article:
+<Summary>
+matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup
+stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+</Summary>
 
-1. The summary states that Matt Giteau's performances for Toulon have put him back on the Wallabies radar ahead of the World Cup, but the article does not mention Giteau at all.
-2. The summary mentions Stuart Lancaster selecting his best players regardless of where they play, but the article does not mention Lancaster's selection policy.
-3. The summary states that England are looking old-fashioned and need to react, but the article does not mention England at all.
-4. The summary mentions Steffon Armitage's performances for Toulon and how he has improved since moving to France, but the article does not mention Armitage.
-5. The summary states that Nick Abendanon has become better since moving to France, but the article does not mention Abendanon.
-6. The summary states that Jonny Wilkinson moved to France and became even better, but the article does not mention Wilkinson.
-7. The summary mentions that England players deserve to go on the field knowing they have been given the best chance of winning, but the article does not mention England players or the World Cup.
-8. The summary states that the RFU or Premier Rugby should not tie the hands of the coach and dictate who can or cannot be picked, but the article does not mention the RFU or Premier Rugby.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it mentions several players and teams that are not mentioned in the article, and it raises points that are not addressed in the article.
+1. The summary states that Australia has "dropped the ridiculous policy of not selecting their best players if they are playing overseas," but the article does not mention this. In fact, the article suggests that England should do the opposite and select their best players regardless of where they play.
+2. The summary mentions that Stuart Lancaster should be free to pick his best players, regardless of where they play, but the article argues that England should select their best starting XV, which may not include overseas players.
+3. The summary congratulates Australia for "seeing sense," but the article does not mention Australia at all.
+4. The summary states that Nick Abendanon has become better since he crossed the channel, but the article does not mention Abendanon.
+5. The summary mentions that Jonny Wilkinson moved to France and became even better, but the article does not mention Wilkinson.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the content or arguments presented in the article.
 
 ###Corrected:

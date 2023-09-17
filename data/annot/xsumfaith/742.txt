@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a large billboard has been puzzling residents of a county down town, and commuters on the main route between bangor and belfast. 
-
-    Article: 
-    The poster with the phrase #prayforjosh appeared in Holywood by the A2 within the last week.
+<Article>
+The poster with the phrase #prayforjosh appeared in Holywood by the A2 within the last week.
 It is part of a social media campaign supporting 13-year-old Joshua Martin, from Donaghadee, County Down.
 Life took a dramatic turn for the teenager when he was diagnosed with cancer on Christmas Eve.
 He was due to have an operation on his appendix at the Royal Victoria Hospital in Belfast.
@@ -23,16 +20,19 @@ But how did a social media hashtag lead to the appearance of the massive billboa
 Gary said that last week a mystery donor paid for the sign and it was erected at Holywood playing fields.
 "We do not know where it came from, we didn't put it there, but it means a lot to have such support," Gary said.
 There has also been a huge outpouring of support on Twitter for the Bangor Grammar pupil, with his classmates using the now-global hashtag for their friend.
-As Josh's family and friends continue to support him in his recovery, it now seems there will be people all over the world will be following suit, thanks to the kindness of County Down strangers. 
+As Josh's family and friends continue to support him in his recovery, it now seems there will be people all over the world will be following suit, thanks to the kindness of County Down strangers.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a large billboard has been puzzling residents of a county down town, and commuters on the main route between bangor and belfast.
+</Summary>
 
-1. The summary mentions a large billboard, but the article does not mention any billboard.
-2. The summary states that the billboard is in Holywood, but the article does not mention the location of the billboard.
-3. The summary implies that the billboard was put up as part of a social media campaign, but the article does not mention any campaign or any connection to social media.
-4. The summary mentions a mystery donor paying for the billboard, but the article does not mention any donor or any funding for the billboard.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and omits other important information that is present in the article.
+1. The summary states that a large billboard has been puzzling residents of a county down town and commuters on the main route between Bangor and Belfast.
+2. However, the article does not mention anything about a billboard.
+3. The article only mentions a social media campaign supporting 13-year-old Joshua Martin, who was diagnosed with cancer, and a mystery donor paying for a sign at Holywood playing fields.
+4. Therefore, the summary is not consistent with the article because it mentions a billboard, which is not present in the article.
+5. The summary is likely incorrect or misleading because it does not accurately reflect the content of the article.
 
 ###Corrected:

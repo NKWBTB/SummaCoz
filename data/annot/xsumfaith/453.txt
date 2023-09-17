@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    thousands of people have taken part in a protest in londonderry to help save the lives of thousands of native oak trees. 
-
-    Article: 
-    On Saturday afternoon, members of the public have been invited to take part in planting thousands of new trees at Brackfield Wood in the Faughan Valley.
+<Article>
+On Saturday afternoon, members of the public have been invited to take part in planting thousands of new trees at Brackfield Wood in the Faughan Valley.
 The project has been organised by the Woodland Trust, and is one of four new woods being created across the UK.
 Its aim is to plant "millions" of native UK trees to commemorate the millions of people who died during WW1.
 The four-year project is one of the trust's most ambitious planting programmes and uses the pledge: "We will stand for those who fell."
@@ -16,15 +13,20 @@ Its director, Patrick Cregg, said: "This is a special opportunity to make a pers
 "By the end of the project, our aim is to have 40,000 native trees planted here at Brackfield, with carpets of wildflowers including iconic poppies.  It will be a place where wildlife will thrive and where people can walk, relax and reflect."
 The charity is providing the saplings for members of the public to plant, and has advised volunteers to wear welly boots or "stout footwear".
 Brackfield Wood is about seven miles outside Derry city, just off the Glenshane Road and limited parking is available for those taking part in the project.
-"The trees, which will stand for generations to come, will be a living, growing tribute to the people from Ireland who played a part in the war: the soldiers, their families and loved ones," Mr Cregg said. 
+"The trees, which will stand for generations to come, will be a living, growing tribute to the people from Ireland who played a part in the war: the soldiers, their families and loved ones," Mr Cregg said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+thousands of people have taken part in a protest in londonderry to help save the lives of thousands of native oak trees.
+</Summary>
 
-1. The summary states that thousands of people have taken part in a protest to save native oak trees, but the article does not mention any protest or saving of oak trees.
-2. The article only mentions a tree planting event at Brackfield Wood, where members of the public are invited to plant thousands of new trees to commemorate the millions of people who died during WW1.
-3. The summary's mention of "thousands of people" taking part in a protest is not consistent with the article's focus on a single tree planting event.
-4. The summary's reference to "native oak trees" is also not consistent with the article, which does not mention oak trees or any specific type of tree.
-5. Therefore, the summary is not consistent with the article, and it appears to be a misleading or inaccurate summary of the event.
+Explain your reasoning step by step:[/INST]
+
+1. The article is about the planting of thousands of native trees in Brackfield Wood in the Faughan Valley, as part of a four-year project by the Woodland Trust to commemorate the millions of people who died during WW1.
+2. The summary, however, states that thousands of people have taken part in a protest in Londonderry to save the lives of thousands of native oak trees.
+3. The article does not mention anything about a protest or oak trees. Instead, it focuses on the planting of native trees in Brackfield Wood as a tribute to the people from Ireland who lost their lives in WW1.
+4. Therefore, the summary is not consistent with the article, as it describes a completely different event (a protest to save oak trees) instead of the planting of native trees in Brackfield Wood.
+5. The reason for the inconsistency is likely that the person who wrote the summary misunderstood or misread the article, or that they intentionally changed the content of the article to fit their own agenda.
+6. In any case, the summary is not an accurate reflection of the article and should not be relied upon as a summary of the content.
 
 ###Corrected:

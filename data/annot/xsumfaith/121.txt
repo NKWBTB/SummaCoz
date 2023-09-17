@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the mother of a three-year-old boy with a rare form of brain cancer has paid for a £2, 000 donation from his mother. 
-
-    Article: 
-    Sophie Fearns said son Charlie, of Merseyside, needs to fly back to Seattle, America for experimental treatment unavailable in the UK.
+<Article>
+Sophie Fearns said son Charlie, of Merseyside, needs to fly back to Seattle, America for experimental treatment unavailable in the UK.
 She said he urgently needs more T-Cell Therapy at Seattle Children's Hospital after the last transplant failed.
 His mother said she was "ecstatic" and "overwhelmed" by the "selfless amazing person" who paid for his treatment.
 Charlie has been ill since the age of three, she said.
@@ -20,16 +17,23 @@ Charlie's father Rob Fearns said they were "extremely grateful" for the generosi
 His parents said they received the confirmation via an email from the hospital on Wednesday saying someone had offered to foot the bill for them.
 Now Charlie has had financial clearance from the hospital, the treatment will start as soon as possible.
 Mr Fearns said he is expecting to find out the date next week.
-Information from Seattle Children's Hospital 
+Information from Seattle Children's Hospital
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the mother of a three-year-old boy with a rare form of brain cancer has paid for a £2, 000 donation from his mother.
+</Summary>
 
-1. The summary states that the mother paid for a £2,000 donation for her son's treatment, while the article states that an anonymous donor paid for the treatment.
-2. The summary does not mention that the treatment is taking place in Seattle, while the article states that the treatment is at Seattle Children's Hospital.
-3. The summary does not mention that the family was left "heartbroken" when the first T-Cell transplant did not work, as stated in the article.
-4. The summary does not mention that the donor specifically asked to pay for Charlie, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not include all of the information provided in the article.
+1. The article states that an anonymous donor has paid for Charlie's treatment, not his mother.
+
+2. The summary states that Charlie's mother paid for the £2,000 donation, which is not supported by the article.
+
+3. The article clearly states that an anonymous donor paid for Charlie's treatment, and there is no mention of Charlie's mother paying for anything.
+
+4. The summary is not consistent with the article, as it states that Charlie's mother paid for the donation, while the article states that an anonymous donor paid for the treatment.
+
+5. Therefore, the summary is not accurate and does not reflect the information in the article.
 
 ###Corrected:

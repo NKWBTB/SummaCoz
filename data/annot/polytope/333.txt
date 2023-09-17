@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
-since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
-ian , who is single , became interested in the supernatural as a child and now is hooked on haunted dolls . 
-
-    Article: 
-    one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+<Article>
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
 ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
 since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
 ian rogers owns nine haunted dolls all of which he says contain their own personality
@@ -59,19 +54,24 @@ she likes to be in the kitchen and had a husband that died of tb .
 max : an raf pilot who died in the second world war .
 he had a little girl who was five who he misses very much .
 he gave up his life to care for his sick mother , but when she passed away he took his own life .
-the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium . 
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
+since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
+ian , who is single , became interested in the supernatural as a child and now is hooked on haunted dolls .
+</Summary>
 
-1. The summary states that Ian Rogers is 36 years old, but the article states that he is 37.
-2. The summary states that Ian has been interested in the supernatural since he was a child, but the article does not mention this.
-3. The summary states that Ian has spent hundreds of pounds on haunted dolls, but the article does not mention the cost of the dolls.
-4. The summary states that Ian's sister found the dolls too mischievous, but the article does not mention his sister.
-5. The summary states that Ian holds sessions with his dolls where guests can undertake different paranormal experiences, but the article does not mention this.
-6. The summary states that Ian is looking into investing in other supernatural souvenirs, but the article does not mention this.
-7. The summary states that Ian hopes his next paranormal purchase will be a haunted mirror, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several details that are not present in the article, and some details in the article are not present in the summary. Therefore, the summary is not consistent with the article.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent information: The summary states that Ian Rogers became hooked on all things paranormal as a child, but the article does not mention this. Instead, the article states that Ian became interested in the supernatural as a child and is now hooked on haunted dolls.
+2. Missing details: The summary does not mention the fact that Ian has a favorite doll named Annabel, who he believes is haunted by the spirit of a seven-year-old girl who drowned. Additionally, the summary does not mention the other dolls in Ian's collection, such as Jocelyn, Harriet, Hubert, Sarah, Esme, and Max.
+3. Incorrect information: The summary states that Ian is single, but the article mentions that Ian is in a relationship.
+4. Lack of context: The summary does not provide any context for Ian's obsession with haunted dolls, such as his childhood experiences or his interest in the supernatural.
+
+Overall, the summary is not a consistent representation of the article's content. It omits important details, provides incorrect information, and lacks context, which can lead to a misleading understanding of the article's content.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
-the survey of 1,100 adults by vehicle leasing firm osv , found that 31 per cent of men have never washed their own car , with only 12 per cent of those that do saying they do it regularly .
-meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money . 
-
-    Article: 
-    it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
+<Article>
+it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
 but new figures show that the art of washing your own car appears to be dying out in britain with a thrid of men admitting they have never picked up a bucket or chamois leather to clean their own motor .
 the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
 a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic )
@@ -24,16 +19,22 @@ audis , toyotas and bmws are most likely to be washed by their owners and range 
 osv spokesman andrew kirkley said : ` a lot of us remember seeing our streets full of men cleaning their cars every sunday .
 it was a national tradition .
 ` but let 's face it , we do n't have as much time any more , the cars are bigger and even the kids do n't seem to want to earn a bit of extra money doing it for us either .
-` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . ' 
+` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
+the survey of 1,100 adults by vehicle leasing firm osv , found that 31 per cent of men have never washed their own car , with only 12 per cent of those that do saying they do it regularly .
+meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money .
+</Summary>
 
-1. The summary states that "three-quarters of women never wash their own car." However, the article does not support this statement. According to the article, 31% of men have never washed their own car, and there is no mention of women's car washing habits.
-2. The summary also states that "drivers are more likely to take it to a car wash on a local forecourt." This is not entirely accurate, as the article states that three-quarters of drivers never wash their own car, but it does not specify where they take their cars to be washed.
-3. The summary mentions that only 5% of those surveyed said they had ever asked their children to wash the car as a way for them to earn extra pocket money. However, the article does not mention this statistic.
-4. The summary does not mention the factor of the rise of hand car washes, which is mentioned in the article as one of the reasons for the decline of drivers washing their own cars.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article. It appears to be a summary of a different article or a misinterpretation of the information provided in the article.
+1. The summary states that "three-quarters of women never wash their own car." However, the article states that "three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt." This is not consistent as the article does not mention anything about drivers taking their cars to a car wash.
+2. The summary also states that "12 per cent of men wash their own car regularly." However, the article states that "31 per cent of men have never washed their own car." This is not consistent as the article states that a higher percentage of men have never washed their own car.
+3. The summary does not mention anything about the reasons for the decline in people washing their own cars, while the article provides several reasons, such as the rise of hand car washes and the fact that 4x4 and off-road vehicles are too large to clean.
+4. The summary does not mention the survey finding that only 5% of those surveyed had ever asked their children to wash the car as a way for them to earn extra pocket money.
+
+Therefore, the summary is not consistent with the article as it does not accurately represent the information provided in the article.
 
 ###Corrected:

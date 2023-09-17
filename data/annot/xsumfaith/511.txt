@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    prince harry has laid wreaths during a dawn service at london\'s wellington arch and on behalf of the queen at the cenotaph to mark anzac day in the uk. 
-
-    Article: 
-    Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
+<Article>
+Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
 Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.
 A service was also held at Westminster Abbey.
 The national anthems of New Zealand and Australia were sung as the service ended.
@@ -16,17 +13,20 @@ Addressing the crowds at the dawn service, Alexander Downer, Australian high com
 "We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."
 Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.
 Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.
-The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war. 
+The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+prince harry has laid wreaths during a dawn service at london\'s wellington arch and on behalf of the queen at the cenotaph to mark anzac day in the uk.
+</Summary>
 
-1. The summary states that Prince Harry laid wreaths at London's Wellington Arch and the Cenotaph to mark Anzac Day.
-2. However, the article does not mention Prince Harry at all.
-3. Instead, the article states that thousands attended an early morning service at Hyde Park Corner, and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
-4. The article also mentions that the national anthems of New Zealand and Australia were sung as the service ended.
-5. Therefore, the summary is not consistent with the article because it mentions Prince Harry, who is not mentioned in the article.
-6. Additionally, the article does not mention any wreath-laying at London's Wellington Arch, which is not a part of the Anzac Day commemorations described in the article.
-7. Overall, the summary is not accurate and does not reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that Prince Harry laid wreaths at both the dawn service and the Cenotaph.
+2. The article does not mention Prince Harry at all.
+3. The article does mention the Australian High Commissioner, Alexander Downer, laying a wreath at the Cenotaph, but there is no mention of Prince Harry.
+4. Therefore, the summary is not consistent with the article, as Prince Harry is not mentioned in the article as attending any Anzac Day events.
+
+The reason for the inconsistency is likely that the summary is incorrect or incomplete information. It is possible that the summary was based on a different article or source that mentioned Prince Harry attending Anzac Day events, but the article provided does not support this information.
 
 ###Corrected:

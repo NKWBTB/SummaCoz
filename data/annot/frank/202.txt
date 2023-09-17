@@ -1,20 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a russian air strike in turkey has been shot down and killed by a russian jet, the russian president has said. 
+<Article>
+The "black box" of the Su-24 jet was officially opened in Moscow on Friday in front of journalists and diplomats.Nikolai Primak, head of the Russian investigation, said flight information appeared to be missing.Data from the box could help resolve the dispute over the jet's location when it was hit.An analysis is expected to be released next week.The downing of the jet plunged relations between Russia and Turkey into crisis, with Moscow imposing sanctions in response.Turkey insists that the jet, from the Russian air contingent deployed in Syria in support of President Bashar al-Assad, ignored warnings to leave its airspace.Russia says it was shot down within Syrian airspace and President Vladimir Putin vented his anger at Turkey's government again on Thursday, accusing it of subservience to the US and of "creeping Islamisation".What we know about how the Su-24 was downedHow Russia's sanctions could hit TurkeyThe war of words as it eruptedThe two countries are heavily involved in Syria but take radically different positions despite both being ostensibly opposed to the Islamic State (IS) militant group.The Su-24 was shot down by F-16 fighters on 24 November.Both crew members ejected but the pilot was killed, apparently by militants on the ground while the navigator was rescued.A Russian marine sent to rescue the crew was also killed and a helicopter destroyed on the ground.Russia has demanded an apology from Turkey and in the meantime has imposed sanctions including a ban on package holidays, which could cost Turkey billions of dollars.
+</Article>
 
-    Article: 
-    The "black box" of the Su-24 jet was officially opened in Moscow on Friday in front of journalists and diplomats.Nikolai Primak, head of the Russian investigation, said flight information appeared to be missing.Data from the box could help resolve the dispute over the jet's location when it was hit.An analysis is expected to be released next week.The downing of the jet plunged relations between Russia and Turkey into crisis, with Moscow imposing sanctions in response.Turkey insists that the jet, from the Russian air contingent deployed in Syria in support of President Bashar al-Assad, ignored warnings to leave its airspace.Russia says it was shot down within Syrian airspace and President Vladimir Putin vented his anger at Turkey's government again on Thursday, accusing it of subservience to the US and of "creeping Islamisation".What we know about how the Su-24 was downedHow Russia's sanctions could hit TurkeyThe war of words as it eruptedThe two countries are heavily involved in Syria but take radically different positions despite both being ostensibly opposed to the Islamic State (IS) militant group.The Su-24 was shot down by F-16 fighters on 24 November.Both crew members ejected but the pilot was killed, apparently by militants on the ground while the navigator was rescued.A Russian marine sent to rescue the crew was also killed and a helicopter destroyed on the ground.Russia has demanded an apology from Turkey and in the meantime has imposed sanctions including a ban on package holidays, which could cost Turkey billions of dollars. 
+<Summary>
+a russian air strike in turkey has been shot down and killed by a russian jet, the russian president has said.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that a Russian air strike in Turkey was shot down by a Russian jet, but the article does not mention any such air strike or incident.
-2. The summary mentions that the Russian president has said this, but there is no quote or reference to any such statement in the article.
-3. The article focuses on the investigation into the downing of the Su-24 jet and the aftermath, including the imposition of sanctions by Russia, but there is no mention of any air strike or attack by a Russian jet.
+1. The summary states that a Russian air strike in Turkey was shot down and killed by a Russian jet. This is not consistent with the article, as the article states that the Su-24 jet was shot down by F-16 fighters, not by another Russian jet.
+2. The article does not mention any Russian air strikes in Turkey. The article only mentions the downing of the Su-24 jet and the subsequent tensions between Russia and Turkey.
+3. The summary misquotes the Russian President, as there is no mention in the article of the President saying that a Russian jet shot down the Su-24.
+4. The summary does not provide any information about the crew of the Su-24 or the Russian marine who was killed, as mentioned in the article.
 
-Therefore, the summary is not consistent with the article, and it appears to be a fictional or misleading account of events.
+Therefore, the summary is not consistent with the article and contains inaccuracies and misquotes.
 
 ###Corrected:

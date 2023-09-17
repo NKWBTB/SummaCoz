@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    locations in ceredigion , powys and pembrokeshire are being used to radicalise muslims .
-those involved in such activities ' take part in seemingly ordinary activities ' .
-those involved in such activities ' take part in seemingly ordinary activities ' . 
-
-    Article: 
-    terrorists are undergoing training in rural areas of west wales , it has emerged .
+<Article>
+terrorists are undergoing training in rural areas of west wales , it has emerged .
 locations in ceredigion , powys and pembrokeshire are also being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit .
 those involved in such activities ` take part in seemingly ordinary activities ' in the community but ` have an ulterior motive ' , detective constable gareth jones said .
 training : locations in ceredigion , powys and pembrokeshire in west wales , illustrated above , are being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit
@@ -29,16 +24,22 @@ would-be terrorists : omar latif , 28 , right , gurukanth desai , 30 , and abdul
 ` these people do turn up and take part in seemingly ordinary activities , but they do have an ulterior motive .
 this does happen in ceredigion . '
 dc jones added that community intelligence was important to authorities .
-he said : ` it really is vital that if any intelligence comes from the community that we look at it . 
+he said : ` it really is vital that if any intelligence comes from the community that we look at it .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+locations in ceredigion , powys and pembrokeshire are being used to radicalise muslims .
+those involved in such activities ' take part in seemingly ordinary activities ' .
+those involved in such activities ' take part in seemingly ordinary activities ' .
+</Summary>
 
-1. The summary states that locations in Ceredigion, Powys, and Pembrokeshire are being used to radicalize Muslims, but the article does not mention anything about radicalization. Instead, it focuses on the training of terrorists in these locations.
-2. The summary implies that the activities in these locations are ordinary, but the article describes the training as "seemingly ordinary activities" with an ulterior motive.
-3. The summary does not mention anything about the British military using these locations for training, which is a significant detail in the article.
-4. The summary does not mention the specific incidents of Islamic extremist activity in Wales that the article references, such as the 7/7 bombings and the plot to attack Britain.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary does not accurately reflect the content of the article. It is possible that the summary was written based on a different article or source, or that it was incorrect or incomplete.
+1. The summary states that locations in Ceredigion, Powys, and Pembrokeshire are being used to radicalize Muslims. However, the article does not mention anything about radicalization. Instead, it talks about terrorist training and the use of these locations for that purpose.
+2. The summary implies that the individuals involved in these activities are participating in seemingly ordinary activities. However, the article reveals that these individuals are actually undergoing terrorist training in secret meetings and activities.
+3. The summary does not provide any specific information about the activities or locations mentioned in the article. It simply states that the locations are being used for radicalization without providing any supporting details.
+
+Therefore, based on the differences between the summary and the article, it is clear that the summary is not consistent with the article. It appears to be a general summary of the topic without providing any specific information or details from the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man is in a critical condition in hospital after being shot in the head in north belfast. 
-
-    Article: 
-    The victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre.
+<Article>
+The victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre.
 People living in the area said the man was either in, or close to, a black Mercedes car he had been driving when he was shot.
 Officers, called to the scene at about 13:35 GMT, found the man with a gunshot wound to his chest. Armed police sealed off the area.
 The victim was taken to Northern General hospital but died from his injuries.
@@ -16,17 +13,20 @@ Many came out of the house to try to help him after hearing the shot, neighbours
 There have been a number of shootings in Sheffield in recent weeks, although all the previous incidents have been in the north of the city and not close to the Upperthorpe area.
 On Monday, a 25-year-old man was seriously injured when he was shot in the street in the Shiregreen area.
 Earlier this month, an elderly couple were left shocked when shots were fired through their living room window in the Southey Green area - an incident police believe was a case of mistaken identity.
-In January shots were fired at houses in two separate incidents in the same street in High Green. 
+In January shots were fired at houses in two separate incidents in the same street in High Green.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man is in a critical condition in hospital after being shot in the head in north belfast.
+</Summary>
 
-1. The summary states that the man was shot in the head, but the article states that he was shot in the chest. This is a inconsistency between the two.
-2. The summary does not mention the victim's death, but the article states that he died from his injuries. This is another inconsistency.
-3. The summary does not mention the location of the shooting as being close to a hospital, but the article states that the shooting occurred on Daniel Hill Terrace, which is close to the city center. This is a inconsistency in the location of the shooting.
-4. The summary does not mention the presence of armed police or the sealing off of the area, but the article states that armed police were called to the scene and sealed off the area. This is another inconsistency.
-5. The summary does not mention any previous shootings in the area, but the article states that there have been a number of shootings in Sheffield in recent weeks, including one on Monday and another earlier this month. This is a inconsistency in the context of the shooting.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and may not accurately reflect the content of the article.
+1. The article states that the shooting took place in Sheffield, England, while the summary states that the shooting took place in North Belfast. This is a clear inconsistency.
+2. The article describes the victim as being shot in the chest, while the summary states that the victim was shot in the head. This is another inconsistency.
+3. The article mentions that the shooting took place in the Upperthorpe area of Sheffield, while the summary does not provide any information about the location of the shooting.
+4. The article states that the victim was taken to Northern General Hospital, while the summary does not provide any information about the victim's medical condition or where they were taken for treatment.
+
+Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary is incorrect in several key details, including the location of the shooting, the nature of the victim's injuries, and the victim's medical condition.
 
 ###Corrected:

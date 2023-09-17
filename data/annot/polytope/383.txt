@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
-be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
-the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right ) 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,19 +28,22 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
+be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
+the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right )
+</Summary>
 
-1. The summary states that Louise Redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean, but in the article, there is no quote from Louise Redknapp.
-2. The summary mentions that the wide-leg trouser is at the forefront of SS15 trends, but the article does not mention any specific season or trend.
-3. The summary states that the wide-leg trouser can be intimidating, especially for shorter women, but the article does not mention this.
-4. The summary recommends pairing a wide-leg trouser with a simple knit to keep the outfit in proportion, but the article does not provide any specific styling advice.
-5. The summary mentions that denim is the easiest way to nail the trend, but the article does not mention denim as a specific fabric for the trend.
-6. The summary states that the wide-leg trouser made an appearance on several catwalks, including Gucci's SS15 runway, but the article does not mention any specific designer or runway show.
-7. The summary mentions that Celine and Stella McCartney kept it classy with a dressier-style pant, but the article does not mention these designers or any specific styles.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes specific details and quotes that are not present in the article.
+1. The summary states that the wide-leg trouser is at the forefront of SS15 trends, but the article does not mention this. Instead, the article focuses on the trend's comeback and how to style it.
+2. The summary mentions that Louise Redknapp says the wide-leg trouser can come as a welcome relief from the skinny jean, but the article does not quote her saying this.
+3. The summary mentions the wide-leg trouser made an appearance on several catwalks, but the article only mentions Gucci and Celine showcasing the trend on their runways.
+4. The summary mentions trying new online label Finery London for a similar style with a lower price tag, but this is not mentioned in the article.
+
+Overall, the summary is not consistent with the article because it includes information that is not supported by the article and leaves out information that is present in the article.
 
 ###Corrected:

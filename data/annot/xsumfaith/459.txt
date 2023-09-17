@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland\'s first minister arlene foster has announced plans for a new body body in northern ireland. 
-
-    Article: 
-    The move was announced by Stormont's Enterprise, Trade and Investment (DETI) Minister Arlene Foster.
+<Article>
+The move was announced by Stormont's Enterprise, Trade and Investment (DETI) Minister Arlene Foster.
 She said Northern Ireland's agri-food industry was "hugely important", with almost 100,000 jobs including farming, fishing, retail and distribution.
 The marketing body will be developed by the Agri-Food Strategy Board (AFSB).
 Ms Foster said: "The establishment of a new industry-led agri-food marketing body, which would be similar to the already successful Scotland Food and Drink, will provide a significant and exciting opportunity for the Northern Ireland agri-food industry to work together for the benefit of the entire sector.
@@ -15,16 +12,21 @@ Stormont's Agriculture Minister Michelle O'Neill welcomed the announcement.
 "Agri-food is one of the key sectors in delivering export-led economic growth for the north," she said.
 She said industry representatives had made it clear that there was "a need for better coordination of current marketing activities" in Northern Ireland.
 However, Ms O'Neill added that while the new body was "clearly a positive step", the plans could have "implications for the work of other organisations", including her own department.
-She said she looked forward to discussing the plans with AFSB. 
+She said she looked forward to discussing the plans with AFSB.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+northern ireland\'s first minister arlene foster has announced plans for a new body body in northern ireland.
+</Summary>
 
-1. The summary states that Arlene Foster announced plans for a new body in Northern Ireland, but the article does not mention any plans for a new body. Instead, the article discusses the establishment of an industry-led agri-food marketing body, which will be developed by the Agri-Food Strategy Board (AFSB).
-2. The summary mentions that the new body will be similar to the already successful Scotland Food and Drink, but the article does not mention anything about Scotland Food and Drink or any other successful marketing bodies in other countries.
-3. The summary states that the new body will provide strategic leadership and direction for the marketing activities of both government and private sector organisations, but the article only mentions that the AFSB will provide strategic leadership and direction for the marketing activities of the agri-food industry.
-4. The summary does not mention anything about the need for better coordination of current marketing activities in Northern Ireland, which is mentioned in the article as a reason for the establishment of the new body.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The summary states that "Northern Ireland's first minister Arlene Foster has announced plans for a new body." However, the article does not mention anything about a new body being established.
+2. The article states that the Agri-Food Strategy Board (AFSB) will develop a marketing body for the agri-food industry, but the summary does not mention the AFSB or any other organization involved in the development of the new body.
+3. The article states that the new marketing body will be industry-led and will provide strategic leadership and direction for the marketing activities of both government and private sector organisations, but the summary does not mention any of these details.
+4. The article states that the new body will be similar to the already successful Scotland Food and Drink, but the summary does not mention this.
+5. The article mentions that the Agriculture Minister Michelle O'Neill welcomed the announcement, but the summary does not mention her or any other government official's reaction to the plans.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the details of the announcement made by Arlene Foster. The summary is too brief and lacks important information about the new body, such as its purpose, composition, and how it will be developed.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    residents of new south wales are being warned to brace for more floods and damage , with heavy rain possible from thursday . 
- state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed . 
- the same weather system that lashed the state 's east coast for three days last week could hit the region . 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -64,19 +59,30 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+residents of new south wales are being warned to brace for more floods and damage , with heavy rain possible from thursday . 
+ state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed . 
+ the same weather system that lashed the state 's east coast for three days last week could hit the region .
+</Summary>
 
-1. The summary states that "residents of New South Wales are being warned to brace for more floods and damage, with heavy rain possible from Thursday." However, the article states that the weather system is expected to hit the region later in the week, with the heaviest rain expected in the far northern parts of the state.
-2. The summary mentions that the State Emergency Service (SES) has more than 4,000 jobs from the 24,196 requests still to be completed, but the article does not mention this.
-3. The summary states that the SES is concerned that more storms will hamper clean-up efforts, but the article does not mention this.
-4. The summary mentions that the weather system is expected to bring heavy rain and strong winds, but the article states that the weather system appears to be moving quickly and is not expected to be as severe as the previous storm.
-5. The summary mentions that the hard-hit Hunter region is a focus of concern for the SES, but the article does not mention this.
-6. The summary states that the weather system is expected to peak between Thursday and Saturday, but the article states that the weather system is expected to move quickly and not be as severe as the previous storm.
-7. The summary mentions that the Bureau of Meteorology is warning of intense rainfall and strong winds, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, such as the number of SES jobs still to be completed, and it omits other details that are mentioned in the article, such as the location of the weather system and the expected severity of the storm.
+1. The summary states that "residents of New South Wales are being warned to brace for more floods and damage, with heavy rain possible from Thursday."
+2. The article states that "the State Emergency Service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed."
+3. The article also states that "the same weather system that lashed the state's east coast for three days last week could hit the region again."
+4. However, the article also mentions that "the weather system appears to be moving quickly" and "it's not likely to be the same three days of wind and rain we saw last week."
+5. The article also provides information about the expected impact of the weather system, including the possibility of heavy rain and strong winds in coastal areas, particularly in the northern rivers and mid-north coasts.
+
+Based on the information provided in the article, the following points can be made:
+
+1. The State Emergency Service has received a large number of requests for assistance last week and still has many jobs to complete.
+2. The same weather system that caused flooding and damage last week could hit the region again, potentially causing further floods and damage.
+3. The weather system is expected to move quickly and may not be as severe as the previous storm.
+4. Heavy rain and strong winds are expected in coastal areas, particularly in the northern rivers and mid-north coasts.
+
+Therefore, the summary is not consistent with the article because it does not provide any information about the expected impact of the weather system or the fact that the system is expected to move quickly. Additionally, the summary does not mention the large number of requests for assistance received by the State Emergency Service or the fact that the organization has many jobs still to be completed.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    khan ( left ) has announced his next fight will be against chris algieri at welterweight on may 30
-bolton-born boxer amir khan enjoyed a day a safari park with his family in northern california
-khan posed alongside , and also fed , a rare but dangerous white tiger as well posing with stunning giraffes and sea lions at six flags discovery kingdom . 
-
-    Article: 
-    bolton-born boxer amir khan spent his friday alongside some fellow natural born fighters as he enjoyed a family trip to a safari park in northern california .
+<Article>
+bolton-born boxer amir khan spent his friday alongside some fellow natural born fighters as he enjoyed a family trip to a safari park in northern california .
 khan posed alongside , and also fed , a rare but dangerous white tiger as well posing with stunning giraffes and sea lions at six flags discovery kingdom .
 the 28-year-old was joined by his wife faryal makhdoom khan as well as his daughter lamysa as they all enjoyed some time off .
 bolton-born boxer amir khan enjoyed a day a safari park with his family in northern california
@@ -17,40 +12,21 @@ khan feeds a rare white tiger during his time at the american adventure park in 
 earlier this week khan ended speculation over his next opponent by announcing he will fight former light-welterweight world champion chris algieri on may 30 .
 khan had come under increasing pressure to take on british rival and ibf welterweight champion kell brook in june .
 however , khan , who was also linked with bouts against adrien broner and keith thurman , said he was already deep in negotiations to fight somebody else .
-khan ( left ) has announced his next fight will be against chris algieri at welterweight on may 30 
+khan ( left ) has announced his next fight will be against chris algieri at welterweight on may 30
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+khan ( left ) has announced his next fight will be against chris algieri at welterweight on may 30
+bolton-born boxer amir khan enjoyed a day a safari park with his family in northern california
+khan posed alongside , and also fed , a rare but dangerous white tiger as well posing with stunning giraffes and sea lions at six flags discovery kingdom .
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary mentions the following points:
-
-* Amir Khan will fight Chris Algieri on May 30
-* Khan enjoyed a day at a safari park with his family in Northern California
-* Khan posed with a rare white tiger and other animals at the park
-
-Step 2: Identify the main points of the article
-
-The article mentions the following points:
-
-* Amir Khan spent a day at a safari park in Northern California with his family
-* Khan posed with a giraffe and other animals at the park
-* Khan's next fight will be against Chris Algieri on May 30
-* Khan had been linked to bouts against Adrien Broner and Keith Thurman, but he has announced that he will fight Algieri instead
-
-Step 3: Identify the inconsistencies
-
-There are several inconsistencies between the summary and the article:
-
-* The summary mentions that Khan will fight Algieri at welterweight, but the article does not mention the weight class.
-* The summary mentions that Khan posed with a white tiger, but the article only mentions giraffes and sea lions.
-* The summary does not mention Khan's family, but the article does.
-
-Step 4: Explain the inconsistencies
-
-The inconsistencies between the summary and the article are likely due to the fact that the summary is not a accurate representation of the article. The summary may have been written based on a different article or source, or it may have been written with a different purpose or audience in mind. The article and the summary may have different focuses or emphases, which could also contribute to the inconsistencies.
-
-In conclusion, the summary is not consistent with the article because it contains inaccuracies and omissions. The article provides more detailed and accurate information about Amir Khan's next fight and his activities at the safari park.
+1. The summary states that Amir Khan posed alongside and fed a rare white tiger.
+2. However, the article does not mention anything about Khan feeding a white tiger. It only mentions that he posed with a giraffe and sea lions.
+3. Therefore, the statement in the summary about Khan feeding a white tiger is not supported by the article.
+4. Additionally, the summary states that Khan enjoyed a day at a safari park with his family in northern California, but the article does not mention anything about a safari park or a trip to California.
+5. Therefore, the summary is not consistent with the article and contains inaccuracies.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    google chairman joe schmidt has said the uk government is " not doing enough " to pay tax on its tax arrangements, following a debate on the uk \' 
-
-    Article: 
-    Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
+<Article>
+Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
 Google paid Â£10m in UK corporate taxes between 2006 and 2011.
 Mr Schmidt said it was up to the government to change its tax system if it wanted companies to pay more taxes.
 Speaking on BBC Radio 4's Start the Week, he said: "What we are doing is legal. I'm rather perplexed by this debate, which has been going in the UK for some time, because I view taxes as not optional.
@@ -19,17 +16,19 @@ Last week, European Union leaders agreed to tackle tax avoidance through an "aut
 The Google chairman has previously argued that corporate taxes should be levied in the country where it conducts economic activity and takes risks, rather than where products are consumed.
 He has also called for a debate on international tax reform.
 "Politicians - not companies - [should] set the rules...When legislators are doing the lobbying and companies are articulating the law as it stands, it's a confusing spectacle for everyone," he recently wrote in the Observer.
-"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them." 
+"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+google chairman joe schmidt has said the uk government is " not doing enough " to pay tax on its tax arrangements, following a debate on the uk \'
+</Summary>
 
-1. The summary states that Google chairman Joe Schmidt said the UK government is "not doing enough" to pay tax on its tax arrangements.
-2. However, in the article, Schmidt is quoted as saying that Google does what is "legally required" to pay the right amount of taxes.
-3. The summary implies that Schmidt is criticizing the UK government for not doing enough to collect taxes from companies like Google.
-4. However, in the article, Schmidt is actually advocating for a clearer and simpler system of international tax reform, where companies that abide by the law know that politicians who devised the rules are willing to defend and commend them.
-5. Therefore, the summary is not consistent with the article because it misrepresents Schmidt's position and implies that he is criticizing the UK government, when in fact he is advocating for international tax reform.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it misrepresents Schmidt's position and implies criticism of the UK government, when in fact he is advocating for international tax reform.
+1. The summary states that Google Chairman Joe Schmidt has said the UK government is "not doing enough" to pay tax on its tax arrangements.
+2. However, the article does not mention anything about the UK government not doing enough to pay tax. Instead, it quotes Schmidt as saying that Google pays the taxes that are legally required and that it is up to the government to change the tax system if it wants companies to pay more taxes.
+3. Therefore, the summary is not consistent with the article because it implies that Schmidt criticized the UK government for not doing enough to pay tax, while the article quotes him as taking a more neutral stance on the issue.
+4. The discrepancy between the summary and the article is likely due to a misinterpretation or misrepresentation of Schmidt's comments. The article quotes him as saying that companies should pay the taxes that are legally required, which is different from saying that the UK government is not doing enough to pay tax.
+5. Overall, the summary is not an accurate representation of the article's content, and it is not consistent with the information provided in the article.
 
 ###Corrected:

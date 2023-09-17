@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an appeal has been launched for public donations towards a national memorial to police officers killed in the line of duty. 
-
-    Article: 
-    PC Keith Palmer's murder, in an attack outside the Houses of Parliament in March, prompted "greater emphasis" on the need for a permanent memorial.
+<Article>
+PC Keith Palmer's murder, in an attack outside the Houses of Parliament in March, prompted "greater emphasis" on the need for a permanent memorial.
 The UK Police Memorial Trust appealed for £1.5m towards its construction at the National Memorial Arboretum.
 It is set to bear the names of more than 1,400 officers and staff.
 Sir Hugh Orde, chairman of the trust, said: "PC Palmer's death has put greater emphasis on the need to create a place where the nation can honour and commemorate our police service and where family, friends and colleagues of those killed on duty can go to carry out personal acts of remembrance.
@@ -17,16 +14,19 @@ The memorial, at the site in Alrewas, Staffordshire, will be dedicated to the co
 A brass screen will have leaf shapes cut out and given to the families of fallen officers, with the names of loved ones as a personal memorial.
 Home Secretary Amber Rudd said the government had committed £1m towards the £4m needed for it.
 "It is entirely fitting that those officers and staff who give their lives in the line of duty should be remembered with a lasting tribute," she said.
-The memorial is expected to be completed by 2019. 
+The memorial is expected to be completed by 2019.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+an appeal has been launched for public donations towards a national memorial to police officers killed in the line of duty.
+</Summary>
 
-1. The summary states that an appeal has been launched for public donations towards a national memorial to police officers killed in the line of duty. However, the article does not mention any appeal for public donations.
-2. The summary mentions that the memorial will be dedicated to the courage and sacrifice of the officers, but the article does not provide any information about the purpose or focus of the memorial.
-3. The summary states that a brass screen will have leaf shapes cut out and given to the families of fallen officers, with the names of loved ones as a personal memorial. However, the article does not mention anything about a brass screen or leaf shapes.
-4. The summary quotes Home Secretary Amber Rudd as saying that the government has committed £1m towards the £4m needed for the memorial. However, the article does not mention this quote or any information about government funding for the memorial.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary includes information that is not present in the article, and omits other important information that is included in the article.
+1. The article states that the UK Police Memorial Trust appealed for £1.5m towards the construction of a memorial at the National Memorial Arboretum.
+2. The summary only mentions an appeal for public donations towards a national memorial, without specifying the amount or the location of the memorial.
+3. The article explains that the memorial will be dedicated to the courage and sacrifice of police officers who have lost their lives over the past 250 years, and will feature a brass screen with leaf shapes cut out and given to the families of fallen officers as a personal memorial.
+4. The summary does not mention any of these details, and only mentions a general appeal for a national memorial.
+5. Therefore, the summary is not consistent with the article, as it does not provide the same level of detail or specific information about the memorial.
 
 ###Corrected:

@@ -1,28 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    great britain\'s olympic taekwondo champion luke luke has been cut off at the austrian taekwondo federation (austrian). 
-
-    Article: 
-    Luke, 18, is one of 14 successful candidates from the 282 youngsters who entered the Fighting Chance scheme.
+<Article>
+Luke, 18, is one of 14 successful candidates from the 282 youngsters who entered the Fighting Chance scheme.
 GB Taekwondo chief Gary Hall said that, like his sister Jade, the teenager is "a good character".
 Hall added: "He hasn't got the tactical game finesse his sister has but he has a lot of the basic ingredients."
 The 14 who made the cut will undergo a three-month training regime before fighting at the Austrian Open in June.
 Performance director Hall added: "This group is really strong. We have done [the Fighting Chance scheme] four times and this has got to be one of the strongest intakes we have had.
 "They will go on a three-month programme, including participation in the Austrian Open, to see how they perform.
 "If they are really making progress in the system then we will continue with them."
-Find out how to get into taekwondo in our special guide. 
+Find out how to get into taekwondo in our special guide.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+great britain\'s olympic taekwondo champion luke luke has been cut off at the austrian taekwondo federation (austrian).
+</Summary>
 
-1. The summary mentions that Luke Luke has been "cut off" by the Austrian Taekwondo Federation, implying that he has been excluded or rejected from the federation. However, the article does not mention anything about Luke being cut off or rejected.
-2. The article states that Luke is one of 14 successful candidates from the 282 youngsters who entered the Fighting Chance scheme, and that he will undergo a three-month training regime before fighting at the Austrian Open in June. This suggests that Luke is still a part of the program and will continue to train and compete.
-3. The summary also mentions that Luke is a champion, but the article does not provide any information about him winning any championships or competitions.
-4. The article is focused on the GB Taekwondo's Fighting Chance scheme and the 14 successful candidates, including Luke, who will undergo training and compete at the Austrian Open. The article does not mention anything about Luke being cut off or excluded from the federation.
+Explain your reasoning step by step:[/INST]
 
-Based on these points, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, such as Luke being cut off by the Austrian Taekwondo Federation, and omits other important information that is present in the article, such as Luke's participation in the Fighting Chance scheme and his upcoming training and competition.
+1. The article states that Luke, 18, is one of 14 successful candidates from the 282 youngsters who entered the Fighting Chance scheme. This means that Luke has been selected as one of the successful candidates, and he will undergo a three-month training regime before fighting at the Austrian Open in June.
+2. The summary, on the other hand, states that Great Britain's Olympic taekwondo champion Luke has been cut off at the Austrian Taekwondo Federation (Austrian). This is not consistent with the article, as there is no mention of Luke being cut off or eliminated from the competition.
+3. The word "cut off" implies that Luke has been rejected or eliminated from the competition, which is not supported by the article. Instead, the article states that Luke has been selected as one of the successful candidates and will undergo training before competing at the Austrian Open.
+4. Therefore, the summary is not consistent with the article, and it appears to be incorrect or misleading.
 
 ###Corrected:

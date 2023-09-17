@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the russian embassy has honoured 30 world war two veterans in southampton for their part in transporting crucial supplies to russia. 
-
-    Article: 
-    Defence attaché Capt Oleg Kornienko presented Ushakov medals to the men of the Arctic Convoys.
+<Article>
+Defence attaché Capt Oleg Kornienko presented Ushakov medals to the men of the Arctic Convoys.
 Able seaman Charles Lewis, 91, from Calmore, Hampshire said he was "honoured and delighted".
 The Foreign Office initially did not allow Russia to honour the veterans as it broke the rules on foreign medals.
 The Russian embassy said the convoys allowed Russian soldiers to defeat the Germans on the Eastern Front.
@@ -26,15 +23,20 @@ But the move was blocked by the Foreign Office as its rules stated British soldi
 The British Government created the Arctic Star in 2012 following a long campaign for the convoy veterans to be recognised.
 But campaigners believed veterans should still be able to receive the Russian accolade.
 The Foreign Office allowed an "exception to the rules" last year and President Vladimir Putin presented the first medals during his visit to London on 16 June 2013.
-The Ushakov medal is awarded to sailors who have displayed courage in the course of defending Russia or its interests. 
+The Ushakov medal is awarded to sailors who have displayed courage in the course of defending Russia or its interests.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the russian embassy has honoured 30 world war two veterans in southampton for their part in transporting crucial supplies to russia.
+</Summary>
 
-1. The summary states that the Russian embassy honored 30 World War II veterans in Southampton, but the article does not mention anything about the location of the ceremony or the number of veterans honored.
-2. The summary states that the veterans were honored for transporting crucial supplies to Russia, but the article does not mention anything about the supplies being transported. Instead, it focuses on the Arctic convoys and the sacrifices made by the sailors during World War II.
-3. The summary does not mention the Arctic convoys or the fact that the sailors were awarded the Ushakov medal for their bravery during the war.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The article focuses on the Arctic convoys and the bravery of the sailors, while the summary focuses on the location of the ceremony and the number of veterans honored, and does not mention the Arctic convoys or the Ushakov medal.
+1. The summary states that the Russian embassy honored 30 World War II veterans in Southampton for their part in transporting crucial supplies to Russia.
+2. However, the article states that the Russian embassy awarded the Ushakov medals to the veterans, not honored them.
+3. The summary does not mention anything about the Ushakov medals or the reason for the awards.
+4. The article explains that the Ushakov medals are awarded to sailors who have displayed courage in the course of defending Russia or its interests.
+5. Therefore, the summary is not consistent with the article because it does not mention the Ushakov medals or the reason for the awards, while the article provides specific information about the medals and the reason for their presentation.
+6. The inconsistency is likely due to the fact that the summary is a brief summary of the article and does not include all the details provided in the article.
 
 ###Corrected:

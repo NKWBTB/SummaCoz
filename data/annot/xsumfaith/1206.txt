@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been jailed for sexually abusing a 15-year-old girl in dundee. 
-
-    Article: 
-    Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
+<Article>
+Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
 A court heard he sent a message containing a sexually explicit clip to the victim's sister on Christmas Day.
 Weatherhogg, 42, was also placed on the sex offenders register.
 He had denied the charges but was found guilty following a trial at Dundee Sheriff Court.
@@ -16,17 +13,21 @@ He was also convicted of intentionally causing the woman's sister and father to 
 The woman told the trial she had felt "blackmailed" by Weatherhogg.
 Lady Wolffe told the Weatherhogg that she had to pass a sentence on him that "reflected society's abhorrence" at such conduct.
 The judge said that Weatherhogg, a first offender, had been assessed as posing "a moderate risk" of sexual re-offending.
-Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing. 
+Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been jailed for sexually abusing a 15-year-old girl in dundee.
+</Summary>
 
-1. The summary states that the man was jailed for sexually abusing a 15-year-old girl, but the article does not mention the age of the victim. The article only mentions that the victim was a woman.
-2. The summary states that the man was found guilty of coercing the woman to engage in sexual activity and intercourse with another man, but the article does not mention this. The article only mentions that the man set up meetings between the woman and another man found through an adult website and filmed them having sex.
-3. The summary states that the man sent a sexually explicit clip to the victim's sister on Christmas Day, but the article does not mention this.
-4. The summary states that the man was placed on the sex offenders register, but the article does not mention this.
-5. The summary states that the man was found guilty following a trial at Dundee Sheriff Court, but the article does not mention the location of the trial.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that a man has been jailed for sexually abusing a 15-year-old girl in Dundee.
+2. However, the article states that the man, Clive Weatherhogg, was found guilty of coercing a woman to engage in sexual activity with a man, and intentionally causing the woman's sister and father to look at sexual images.
+3. The article does not mention anything about a 15-year-old girl being sexually abused.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the crimes for which Weatherhogg was found guilty.
+5. The summary is too vague and does not provide any specific details about the crimes, which is another indication that it is not consistent with the article.
+6. The article provides specific details about the crimes, such as the dates they occurred on and the fact that Weatherhogg filmed the woman having sex with the man.
+7. In conclusion, the summary is not consistent with the article because it does not accurately reflect the crimes for which Weatherhogg was found guilty, and it is too vague and lacks specific details.
 
 ###Corrected:

@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sickening video captured on security cameras shows crazed milton vieira severiano dragging the limp body of dancer cicera alves de sena into the garden of their apartment in the city of rio de janeiro in eastern brazil . 
-he then grabs her by the hair and savagely slams the back of her head into the concrete 11 times before viciously punching her in the face another 10 times . 
-leaving the battered and unconscious dancer on the ground he goes into the house and returns with a handgun , shooting her five times at pointblank range . 
-severiano later confessed that he 'd carried out the brutal act ` because he was jealous of men looking at 
-
-    Article: 
-    horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times .
+<Article>
+horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times .
 he later confessed that he 'd carried out the brutal act ` because he was jealous of men looking at her ' .
 sickening video captured on security cameras shows crazed milton vieira severiano , 32 , dragging the limp body of dancer cicera alves de sena , 29 , into the garden of their apartment in the city of rio de janeiro in eastern brazil .
 horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times
@@ -27,29 +21,24 @@ a police spokesman said : ` in his car we found four handguns , a shotgun and a 
 ` he confessed to murdering his wife and said he had been jealous of men looking at her . '
 he now faces life in jail .
 crime scene : people gather outside the couple 's house after the shocking incident took place
-police found four handguns , a shotgun and a bullet proof vest in severiano 's getaway car 
+police found four handguns , a shotgun and a bullet proof vest in severiano 's getaway car
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+sickening video captured on security cameras shows crazed milton vieira severiano dragging the limp body of dancer cicera alves de sena into the garden of their apartment in the city of rio de janeiro in eastern brazil . 
+he then grabs her by the hair and savagely slams the back of her head into the concrete 11 times before viciously punching her in the face another 10 times . 
+leaving the battered and unconscious dancer on the ground he goes into the house and returns with a handgun , shooting her five times at pointblank range . 
+severiano later confessed that he 'd carried out the brutal act ` because he was jealous of men looking at
+</Summary>
 
-Step 1: Identify the inconsistent information in the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary states that Milton Viera Severiano dragged the limp body of dancer Cicera Alves de Sena into the garden of their apartment and then shot her five times at point-blank range. However, the article states that he dragged her into the garden and then battered her head into the concrete 11 times before shooting her in the face five times.
+The given summary is not consistent with the article because it:
 
-Step 2: Analyze the reason for the inconsistency.
+1. Omits the husband's motive: The summary does not mention the husband's jealousy as the motive for the murder, which is explicitly stated in the article.
+2. Falsely states the number of times the husband shot the wife: The summary states that the husband shot the wife five times, but the article states that he shot her 11 times.
+3. Falsely states the number of times the husband physically assaulted the wife: The summary states that the husband slammed the wife's head into the concrete 11 times and punched her in the face another 10 times, but the article states that he battered her head into the concrete 11 times and punched her in the face another 5 times.
 
-The inconsistency is likely due to a misunderstanding or misinterpretation of the information in the article. The summary writer may have misread or misinterpreted the information in the article, leading to the inconsistent details.
-
-Step 3: Identify the correct information in the article.
-
-According to the article, Milton Viera Severiano battered his wife Cicera Alves de Sena's head into the concrete 11 times before shooting her in the face five times. The article does not mention anything about dragging her into the garden.
-
-Step 4: Correct the inconsistent information in the summary.
-
-To correct the inconsistency, the summary should be revised to match the correct information in the article. The revised summary should state that Milton Viera Severiano battered his wife Cicera Alves de Sena's head into the concrete 11 times before shooting her in the face five times, without mentioning that he dragged her into the garden.
-
-Step 5: Review the revised summary for accuracy.
-
-After revising the summary, it should be reviewed for accuracy to ensure that it correctly reflects the information in the article. This includes checking the details of the crime, the suspect's confession, and any other relevant information.
+Therefore, the summary is not a accurate representation of the article and contains several factual errors.
 
 ###Corrected:

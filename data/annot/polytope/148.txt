@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    staff heard the baby crying in the ladies ' toilet of a burger bar in chengdu , sichuan province
-the woman , yuan yen , 34 , was found to have blood on her when she was approached
-she was arrested after receiving medical attention and faces charges of neglect 
-
-    Article: 
-    a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
+<Article>
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
 staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online .
 workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance .
 a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar
@@ -26,17 +21,21 @@ a worker at the fast food outlet said : ` the mother was in shock herself and wa
 i think she was just traumatised . '
 cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her .
 she was later transferred to the police station where she is facing charges of neglect .
-the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors . 
+the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+staff heard the baby crying in the ladies ' toilet of a burger bar in chengdu , sichuan province
+the woman , yuan yen , 34 , was found to have blood on her when she was approached
+she was arrested after receiving medical attention and faces charges of neglect
+</Summary>
 
-1. The summary states that the woman was arrested after receiving medical attention, but the article states that she was arrested before receiving medical attention.
-2. The summary states that the woman was found to have blood on her when she was approached, but the article does not mention this.
-3. The summary states that the woman was in a trance and refused to look at her baby or talk to police, but the article does not mention this.
-4. The summary states that the woman was transferred to the police station and is facing charges of neglect, but the article does not mention the charges or the police station.
-5. The summary states that the infant was declared healthy after being checked over by doctors, but the article does not mention the infant's health.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a consistent summary of the article because it includes details that are not present in the article and omits other important information that is present in the article.
+1. The summary states that the woman, Yuan Yen, was found to have blood on her when she was approached. However, the article does not mention anything about blood on her person.
+2. The summary states that she was arrested after receiving medical attention, but the article does not mention her receiving any medical attention before being arrested.
+3. The summary states that she faces charges of neglect, but the article does not mention any specific charges against her.
+
+Therefore, the summary is not consistent with the article because it includes details that are not present in the article. The summary should have been more careful in summarizing the information from the article to ensure that it accurately reflects the content of the article.
 
 ###Corrected:

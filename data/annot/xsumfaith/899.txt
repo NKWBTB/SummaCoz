@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scientists have discovered a new species of ancient species of plant places in the world\'s most remote neighbourhoods. 
-
-    Article: 
-    Swansea University's Dr Neil Loader and Emeritus Prof Alayne Street-Perrott, are among a team who have found ancient earthworks, possibly 2,000 years old.
+<Article>
+Swansea University's Dr Neil Loader and Emeritus Prof Alayne Street-Perrott, are among a team who have found ancient earthworks, possibly 2,000 years old.
 The discoveries were made in Acre state in the western Brazilian Amazon.
 Researchers from the universities of Exeter and Reading, and Brazil's SÃ£o Paulo, BelÃ©m are also part of the team.
 Their research investigated ditched enclosures which were concealed for centuries by bamboo-dominated rainforest until modern deforestation allowed the discovery of more than 450 large geometrical "geoglyphs".
@@ -20,16 +17,19 @@ It had been assumed prior to the arrival of Europeans in the early 16th Century,
 But the new research indicates a wide variety of plant species spread over 6,000 years, which could only have been artificially brought together by humans.
 It suggested instead of burning large tracts of forest - either for geoglyph construction or agricultural practices - people transformed their environment by concentrating on economically valuable trees such as palms.
 The team have likened it to a form of "prehistoric supermarket" of useful forest products.
-They said there is "tantalizing evidence" to suggest the biodiversity of some of Acre's remaining forests may retain a strong legacy of these ancient "agroforestry" practices to this day. 
+They said there is "tantalizing evidence" to suggest the biodiversity of some of Acre's remaining forests may retain a strong legacy of these ancient "agroforestry" practices to this day.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+scientists have discovered a new species of ancient species of plant places in the world\'s most remote neighbourhoods.
+</Summary>
 
-1. The summary mentions "ancient species of plant places," which is not supported by the article. The article does not discuss any specific plant species or places, but rather focuses on the discovery of geoglyphs and the researchers' attempts to understand their purpose.
-2. The summary states that the researchers discovered the geoglyphs in the world's most remote neighborhoods, which is also not supported by the article. The article only mentions that the geoglyphs were found in Acre state in the western Brazilian Amazon, without specifying their location or remoteness.
-3. The summary implies that the researchers found evidence of a pristine ecosystem prior to human influence, which is not accurate. The article states that the new research indicates that the Amazonian forests had been transformed by humans over the past 6,000 years, rather than being pristine ecosystems.
-4. The summary mentions "prehistoric supermarket" and "agroforestry practices," which are not mentioned in the article. The article focuses on the geoglyphs and the researchers' attempts to understand their purpose, without discussing any specific economic or agricultural practices.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes inaccurate details and exaggerated claims about the researchers' findings.
+1. The summary states that scientists have discovered a new species of ancient plant places in the world's most remote neighborhoods.
+2. The article does not mention the discovery of a new species of plant, but rather the discovery of ancient earthworks and geoglyphs in the Amazon rainforest.
+3. The summary is not consistent with the article, as it makes a claim that is not supported by the information in the article.
+4. The article does not mention the word "species" or "plant places" at all, and instead focuses on the discovery of ancient earthworks and geoglyphs, and the researchers' theories about their purpose and function.
+5. Therefore, the summary is not a accurate representation of the information in the article, and is instead a misleading summary that introduces new information that is not supported by the article.
 
 ###Corrected:

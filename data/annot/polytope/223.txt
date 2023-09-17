@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it comes after professor david spiegelhalter , a statistician at cambridge university , revealed in a new book how a typical heterosexual couple was now having sex three times a month .
-research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet ( file picture )
-this was compared to four times a month in 2000 and five times a month in 1990 , according to research published in prof spiegelhalter 's book sex by numbers . 
-
-    Article: 
-    smartphone use may be to blame for a drop in the number of times couples are having sex each month , a leading expert has suggested .
+<Article>
+smartphone use may be to blame for a drop in the number of times couples are having sex each month , a leading expert has suggested .
 research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet .
 it comes after professor david spiegelhalter , a statistician at cambridge university , revealed in a new book how a typical heterosexual couple was now having sex three times a month .
 research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet ( file picture )
@@ -20,17 +15,24 @@ passion killed : people are check their emails ` all the time ' , according to p
 but he added : ` a more realistic explanation is that as we 've become better connected technologically , our lives have become busier with the boundaries eroded between home , work and the outside world .
 this has squeezed out time we would have spent with our other halves .
 the statistician quotes catherine mercer , a researcher on the british national survey , as saying : ` with an increasing number of competing demands on our time , sex just falls down our list of priorities . '
-she adds that dealing with work emails late in the evening can mean that ` come bedtime , we 're just still too connected with everyone and everything out there to be able to focus just on our partner . ' 
+she adds that dealing with work emails late in the evening can mean that ` come bedtime , we 're just still too connected with everyone and everything out there to be able to focus just on our partner . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+it comes after professor david spiegelhalter , a statistician at cambridge university , revealed in a new book how a typical heterosexual couple was now having sex three times a month .
+research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet ( file picture )
+this was compared to four times a month in 2000 and five times a month in 1990 , according to research published in prof spiegelhalter 's book sex by numbers .
+</Summary>
 
-1. The summary states that the frequency of sex among Britons has declined since the emergence of the internet, but the article does not mention this. Instead, the article suggests that smartphone use may be responsible for the decline in sexual activity.
-2. The summary mentions Professor David Spiegelhalter's book "Sex by Numbers," but the article does not provide any information about the book.
-3. The summary states that Britons are having sex three times a month, but the article does not provide any information about the current frequency of sex among Britons.
-4. The summary quotes Professor Spiegelhalter as saying that people are checking their emails all the time and that this has squeezed out time spent with partners, but the article does not mention this.
-5. The summary mentions Catherine Mercer, a researcher on the British National Survey, but the article does not provide any information about her or her views.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it presents information that is not supported by the article. The article focuses on the potential impact of smartphone use on sexual activity, while the summary presents a different set of facts and quotes from Professor Spiegelhalter's book.
+1. The summary states that the frequency of sex among Britons has been declining since the emergence of the internet.
+2. However, the article states that Professor David Spiegelhalter, a statistician at Cambridge University, revealed in a new book that a typical heterosexual couple is now having sex three times a month.
+3. The article does not mention anything about a decline in the frequency of sex since the emergence of the internet. In fact, it suggests the opposite - that the frequency of sex has remained steady over the past few decades.
+4. Therefore, the summary is not consistent with the article because it claims that the frequency of sex is declining, while the article states that the frequency is steady.
+5. It's possible that the summary was based on outdated information or a different study, but without more context, it's difficult to say for sure.
+
+Overall, the summary is not consistent with the article because it makes a claim about the frequency of sex that is not supported by the information in the article.
 
 ###Corrected:

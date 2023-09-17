@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in other videos , he called nidal hasan , the army officer sentenced to death in the 2009 shootings at fort hood , texas , " the ideal role model for every repentant muslim in the armies of the unbelievers and apostate regimes , " and praised the 2012 killing of u.s. ambassador chris stevens in benghazi , libya . 
-your failure to heed our demands ... means that you and your people will ... experience things which will make you forget about the horrors of september 11 , afghanistan and iraq and virginia tech , " he said , 
-
-    Article: 
-    ( cnn ) he was known as the american mouthpiece of al qaeda , speaking against his native country on behalf of a terrorist organization that 's devoted blood and resources to attacking it .
+<Article>
+( cnn ) he was known as the american mouthpiece of al qaeda , speaking against his native country on behalf of a terrorist organization that 's devoted blood and resources to attacking it .
 the white house announced thursday that adam gadahn , 36 , was killed in january in a u.s. government counterterrorism operation .
 neither he nor ahmed farouq -- another u.s. citizen and al qaeda operative who died in what the white house said was " likely a separate " operation -- was specifically targeted , according to the statement .
 warren weinstein , a u.s. citizen who was abducted by al qaeda in pakistan in 2011 , died along with another hostage , italian giovanni lo porto , in the attack that killed farouq , according to the white house .
@@ -45,17 +41,22 @@ he called for muslims to work to overthrow governments in saudi arabia and pakis
 cruickshank said gadahn had begun to play an increasingly prominent institutional role inside al qaeda .
 among the documents recovered from osama bin laden 's compound in abbottabad after bin laden 's death was a 2042 letter from gadahn making recommendations for al qaeda 's media strategy .
 gadahn was married to a muslim woman from afghanistan and reportedly had at least one child .
-cnn 's steve almasy contributed to this report . 
+cnn 's steve almasy contributed to this report .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided articles, it is clear that the summary provided is not consistent with the content of the articles. Here are the reasons why:
+<Summary>
+in other videos , he called nidal hasan , the army officer sentenced to death in the 2009 shootings at fort hood , texas , " the ideal role model for every repentant muslim in the armies of the unbelievers and apostate regimes , " and praised the 2012 killing of u.s. ambassador chris stevens in benghazi , libya . 
+your failure to heed our demands ... means that you and your people will ... experience things which will make you forget about the horrors of september 11 , afghanistan and iraq and virginia tech , " he said ,
+</Summary>
 
-1. The summary states that Adam Gadahn called Nidal Hasan, the army officer sentenced to death in the 2009 shootings at Fort Hood, Texas, "the ideal role model for every repentant Muslim in the armies of the unbelievers and apostate regimes" and praised the 2012 killing of U.S. Ambassador Chris Stevens in Benghazi, Libya. However, the articles do not mention such statements from Gadahn.
-2. The summary also states that Gadahn urged Muslims to target American, western, and Jewish interests to topple the regime in Pakistan. However, the articles do not contain such statements from Gadahn.
-3. The summary mentions that Gadahn appeared in videos commemorating the 9/11 attacks and urged Muslims in the United States to stage their own lone-wolf attacks. However, the articles do not mention such videos or statements from Gadahn.
-4. The summary states that Gadahn was known as Azzam the American and was born in 1978. However, the articles do not mention this name or birthdate.
-5. The summary mentions that Gadahn was one of al Qaeda's most prominent members and had risen through the ranks in the tribal areas of Pakistan. However, the articles do not contain such information.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the provided summary is not accurate and does not reflect the content of the articles.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only includes a small portion of the article: The summary only includes a few sentences from the article, specifically the parts where Gadahn praised the 2012 killing of U.S. Ambassador Chris Stevens in Benghazi, Libya, and urged Muslims to stage their own lone-wolf attacks. However, the article provides much more information about Gadahn's background, his rise to prominence in Al Qaeda, and his involvement in terrorist activities.
+2. The summary is misleading: The summary makes it seem like Gadahn's only role in Al Qaeda was to praise the killing of Ambassador Stevens and urge Muslims to stage attacks. However, the article provides evidence that Gadahn was a prominent member of Al Qaeda, with a significant role in the organization's media strategy and a history of threatening the United States and its interests.
+3. The summary omits important details: The summary does not mention Gadahn's Jewish ancestry, his conversion to Islam, or his rise to prominence in Al Qaeda. It also does not mention the 2006 federal grand jury indictment against Gadahn or the fact that he was among the FBI's "most wanted terrorists."
+
+In conclusion, the summary is not a consistent representation of the article. It only includes a small portion of the information provided in the article, omits important details, and presents a misleading view of Gadahn's role in Al Qaeda.
 
 ###Corrected:

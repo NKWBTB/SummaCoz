@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ulster unionist leader mike nesbitt has said he was ``surprised\'\'by the response to his party\'s election victory. 
-
-    Article: 
-    At the end of his speech launching the party's manifesto, Mike Nesbitt said: "Domination doesn't work, partnership does."
+<Article>
+At the end of his speech launching the party's manifesto, Mike Nesbitt said: "Domination doesn't work, partnership does."
 Ulster Unionists want the election to be a referendum on how the Renewable Heat Incentive debacle was handled.
 But the focus has now turned on them following Mr Nesbitt's comments.
 Mr Nesbitt was asked about the decision of his senior party colleague Danny Kennedy to publicly distance himself from the remarks.
@@ -23,15 +20,20 @@ Mr Nesbitt went on to say that, on Monday, he spent a lot of time time knocking 
 The manifesto, entitled 'Real Partnership', includes calls for action in tackling waiting lists, increasing PSNI numbers to 7,500, prioritising the York Street interchange, standing up for the LGBT community and "guaranteeing" that no group is worse off because of Brexit.
 In a section entitled 'Cleaning Up Stormont', the party calls for:
 On the theme of the election being a referendum, he said it was about "incompetence, arrogance, cronyism and the strong whiff of corruption".
-He must hope that message will resonate more strongly than the continuing controversy over his remarks about transferring to the SDLP. 
+He must hope that message will resonate more strongly than the continuing controversy over his remarks about transferring to the SDLP.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+ulster unionist leader mike nesbitt has said he was ``surprised\'\'by the response to his party\'s election victory.
+</Summary>
 
-1. The summary states that Mike Nesbitt said he was "surprised" by the response to his party's election victory, but the article does not mention anything about him being surprised. Instead, the article states that he was confident and relaxed about the election.
-2. The summary also states that Nesbitt's comments about transferring to the SDLP have caused controversy, but the article does not mention any controversy or criticism of his remarks. Instead, the article states that he was confident in his position and that candidates behind him were taking different positions in terms of vote transfer.
-3. The summary mentions that the election is a referendum on the Renewable Heat Incentive debacle, but the article does not mention this. Instead, the article focuses on Nesbitt's comments about the SDLP and the party's manifesto.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and omits other important information that is present in the article.
+1. The summary states that Mike Nesbitt, the leader of the Ulster Unionist party, was "surprised" by the response to his party's election victory.
+2. However, the article states that Mr. Nesbitt was asked about the decision of his senior party colleague Danny Kennedy to publicly distance himself from Mr. Nesbitt's remarks, and Mr. Nesbitt denied having any regrets or making a mistake.
+3. The article also states that Mr. Nesbitt was confident in his position and that he was thinking only of what would happen after the election, which suggests that he did not expect to be surprised by the response to his party's victory.
+4. Therefore, the summary is not consistent with the article, as there is no mention in the article of Mr. Nesbitt being surprised by the response to his party's victory.
+
+The reason for the inconsistency is likely that the summary was not accurately written based on the content of the article. It is possible that the person who wrote the summary misunderstood or misinterpreted the information in the article, or that they intentionally altered the information to convey a different message.
 
 ###Corrected:

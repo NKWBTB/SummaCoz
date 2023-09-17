@@ -1,37 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans for a # 325m motor racing track in blaenau gwent have been given the go-ahead. 
-
-    Article: 
-    The eight-day hearing in Ebbw Vale is examining the request to take over 250 hectares (600 acres) of common land.
+<Article>
+The eight-day hearing in Ebbw Vale is examining the request to take over 250 hectares (600 acres) of common land.
 Backers, including Blaenau Gwent council, have offered around 320 hectares (800 acres) replacement land.
 The inquiry has heard conflicting accounts from experts over claims the circuit would damage habitats and plant life by building on the common land.
 Natural Resources Wales said it was "difficult to conclude" that the replacement land was of equal value, but it was not opposing the development overall.
 But an ecology report presented by the developers said there would be a "net gain" in biodiversity because the plans included work to enhance other habitats nearby - which the Gwent wildlife trust argued against.
-The Planning Inspectorate for Wales will make a recommendation after the inquiry in Ebbw vale, before Welsh government ministers have the final say on whether the plans can go ahead. 
+The Planning Inspectorate for Wales will make a recommendation after the inquiry in Ebbw vale, before Welsh government ministers have the final say on whether the plans can go ahead.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+plans for a # 325m motor racing track in blaenau gwent have been given the go-ahead.
+</Summary>
 
-1. The summary states that plans for a #325m motor racing track in Blaenau Gwent have been given the go-ahead.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention any approval or go-ahead for the plans. Instead, it reports that an inquiry is ongoing to examine the request to take over common land for the circuit.
-
-2. The summary mentions the replacement land offered by backers, but the article does not provide any information about the replacement land.
-
-3. The article states that the inquiry has heard conflicting accounts from experts over claims the circuit would damage habitats and plant life by building on the common land.
-
-The summary does not mention any concerns about the impact of the circuit on the environment.
-
-4. The article reports that Natural Resources Wales has expressed concerns about the replacement land not being of equal value, but the summary does not mention this.
-
-5. The article mentions an ecology report presented by the developers that claims there would be a "net gain" in biodiversity, but the summary does not mention this.
-
-6. The article states that the Gwent Wildlife Trust has argued against the developers' claims, but the summary does not mention this.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary presents a positive outcome (approval of the plans) that is not supported by the article, which reports on an ongoing inquiry with conflicting views and concerns about the impact of the circuit on the environment.
+1. The article states that the plans for a motor racing track in Blaenau Gwent are being examined during an eight-day hearing, and the Planning Inspectorate for Wales will make a recommendation after the inquiry. This suggests that the plans have not yet been approved or given the go-ahead.
+2. The article also states that there are conflicting accounts from experts over the potential damage to habitats and plant life, and Natural Resources Wales has expressed concerns about the replacement land being of equal value. This suggests that the plans are not without controversy and have not been unanimously approved.
+3. The summary states that the plans have been given the go-ahead, which is not supported by the article. The article does not mention any approval or go-ahead for the plans.
+4. Therefore, the summary is not consistent with the article, as it states that the plans have been given the go-ahead when the article suggests that the plans are still being examined and have not yet been approved.
 
 ###Corrected:

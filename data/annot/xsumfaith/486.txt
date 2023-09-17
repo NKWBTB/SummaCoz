@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the leader of fianna fáil, micheál martin, is to step down as leader of fianna fáil in the republic of ireland. 
-
-    Article: 
-    Acting Taoiseach Enda Kenny of Fine Gael and Micheál Martin of  Fianna Fáil hope to avoid a second election.
+<Article>
+Acting Taoiseach Enda Kenny of Fine Gael and Micheál Martin of  Fianna Fáil hope to avoid a second election.
 Mr Martin has said his party will facilitate a minority government, but will not support a programme for government.
 Water charges are one of the main sticking points to reaching agreement.
 A commission to consider the future of national water utility Irish Water is one of the proposals being considered.
 Fianna Fáil want to see the immediate removal of water charges, but Fine Gael see a role for them.
 Following the election, almost two months ago, Fine Gael had 50 seats, Fianna Fáil 44, Sinn Féin 23 and the Labour Party got seven.
-But no party was able to form a majority government and TDs have so far failed to elect a taoiseach. 
+But no party was able to form a majority government and TDs have so far failed to elect a taoiseach.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my step-by-step reasoning for why the given summary is not consistent with the article:
+<Summary>
+the leader of fianna fáil, micheál martin, is to step down as leader of fianna fáil in the republic of ireland.
+</Summary>
 
-1. The summary states that Micheál Martin is stepping down as leader of Fianna Fáil, but the article does not mention anything about him stepping down.
-2. The summary mentions that Fianna Fáil will facilitate a minority government, but the article states that Fianna Fáil will not support a programme for government. This suggests that the party is not willing to participate in a minority government.
-3. The summary mentions water charges as a sticking point in reaching agreement, but the article does not mention water charges as a specific issue. Instead, it mentions that the parties are at odds over the future of Irish Water.
-4. The summary implies that Fianna Fáil is willing to support a minority government, but the article states that the party will not support a programme for government. This suggests that the party is not willing to participate in a minority government.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents Fianna Fáil's stance on participating in a minority government, misstates the reasons for the parties' failure to reach agreement, and omits important details about the issues at hand.
+1. The summary states that Micheál Martin is to step down as leader of Fianna Fáil, but the article does not mention anything about him stepping down.
+2. The article states that Fianna Fáil will facilitate a minority government but will not support a programme for government, which is not consistent with the summary's statement that Martin is stepping down.
+3. The article mentions water charges as one of the main sticking points to reaching agreement, but the summary does not mention anything about water charges or the negotiations to form a government.
+
+Therefore, the summary is not consistent with the article. The statement about Micheál Martin stepping down is not supported by the information in the article.
 
 ###Corrected:

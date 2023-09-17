@@ -1,18 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police investigating the disappearance of a man in county antrim have released cctv footage of a man they want to trace. 
+<Article>
+Trevor Deely, 22, was last seen walking home from a Christmas party in December 2000.A search of a site in Chapelizod in Dublin started early on Saturday morning, Irish national broadcaster, RTÉ reports.The area is three acres of Woodlands beside the R112 which runs down to the River Liffey.Gardaí said the search will involve excavations and is expected to take a number of weeks.Earlier this year a team of six detectives began conducting a complete review of Mr Deely's disappearance.CCTV footage from the night he went missing was enhanced using specialist technology.It shows Mr Deely talking to a man dressed in black outside the Bank of Ireland on Baggot Street, where he worked.It is understood he was returning to get an umbrella after the party.Detectives released the footage in April and appealed for the man to come forward.They believe he was the same man captured on CCTV following Mr Deely, who was from County Kildare in the Republic of Ireland, a short time later on Haddington Road.On Saturday gardaí said the man seen in the CCTV has not yet been identified and they renewed their appeal for him to come forward.
+</Article>
 
-    Article: 
-    Trevor Deely, 22, was last seen walking home from a Christmas party in December 2000.A search of a site in Chapelizod in Dublin started early on Saturday morning, Irish national broadcaster, RTÉ reports.The area is three acres of Woodlands beside the R112 which runs down to the River Liffey.Gardaí said the search will involve excavations and is expected to take a number of weeks.Earlier this year a team of six detectives began conducting a complete review of Mr Deely's disappearance.CCTV footage from the night he went missing was enhanced using specialist technology.It shows Mr Deely talking to a man dressed in black outside the Bank of Ireland on Baggot Street, where he worked.It is understood he was returning to get an umbrella after the party.Detectives released the footage in April and appealed for the man to come forward.They believe he was the same man captured on CCTV following Mr Deely, who was from County Kildare in the Republic of Ireland, a short time later on Haddington Road.On Saturday gardaí said the man seen in the CCTV has not yet been identified and they renewed their appeal for him to come forward. 
+<Summary>
+police investigating the disappearance of a man in county antrim have released cctv footage of a man they want to trace.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that police are releasing CCTV footage of a man they want to trace, implying that the man in the footage is a suspect in the disappearance of Trevor Deely.
-2. However, the article states that the man in the CCTV footage has not yet been identified, and that detectives are still appealing for him to come forward. This suggests that the man in the footage is not a suspect, but rather a person of interest who may have information about Trevor Deely's disappearance.
-3. Therefore, the summary is not consistent with the article because it implies that the man in the CCTV footage is a suspect, while the article states that he is not yet identified and is being appealed for information.
+1. The article is about the disappearance of Trevor Deely in Dublin, Ireland, while the summary is about the disappearance of a man in County Antrim.
+2. The article mentions that the search for Trevor Deely will involve excavations and is expected to take a number of weeks, while the summary does not mention any search or excavations.
+3. The article mentions that the man in the CCTV footage has not yet been identified, while the summary mentions that the police want to trace a man.
+4. The article is about Trevor Deely's disappearance in Dublin, while the summary is about a man's disappearance in County Antrim.
+
+Therefore, the summary is not consistent with the article because it is about a different person and a different location. The article is specific to Trevor Deely's disappearance in Dublin, while the summary is a completely different story about a man's disappearance in County Antrim.
 
 ###Corrected:

@@ -1,21 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    eu will be forced to provide a criminal records certificate from their home country. 
+<Article>
+Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders. Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK, the Mail can reveal. Ministers hope to bolster existing checks to prevent serious and violent criminals from being allowed to enter the UK. Tighter measures: Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders . Under the scheme, which will begin to be rolled-out in the summer, non-EU migrants wanting to move to Britain to live or work will be compelled to produce a certificate from the authorities in any country they have resided in the previous decade. This would disclose whether they had a clean criminal record or had committed offences. A Home Office spokesman said: ‘This power will enable us to require those applying for a visa to provide a criminal record certificate covering the last ten years – an additional tool to help stop criminals from coming to our country.’ Some 1.9million people arriving on visitor visas, or those from 56 countries and territories which do not need visas, will not need to provide their criminal histories because this would be ‘disproportionate’ in terms of time, cost and bureaucracy. The system will also exempt under-18s, asylum seekers and those people where it is not ‘reasonably practicable’. Tougher stance: Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK .
+</Article>
 
-    Article: 
-    Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders. Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK, the Mail can reveal. Ministers hope to bolster existing checks to prevent serious and violent criminals from being allowed to enter the UK. Tighter measures: Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders . Under the scheme, which will begin to be rolled-out in the summer, non-EU migrants wanting to move to Britain to live or work will be compelled to produce a certificate from the authorities in any country they have resided in the previous decade. This would disclose whether they had a clean criminal record or had committed offences. A Home Office spokesman said: ‘This power will enable us to require those applying for a visa to provide a criminal record certificate covering the last ten years – an additional tool to help stop criminals from coming to our country.’ Some 1.9million people arriving on visitor visas, or those from 56 countries and territories which do not need visas, will not need to provide their criminal histories because this would be ‘disproportionate’ in terms of time, cost and bureaucracy. The system will also exempt under-18s, asylum seekers and those people where it is not ‘reasonably practicable’. Tougher stance: Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK . 
+<Summary>
+eu will be forced to provide a criminal records certificate from their home country.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that EU migrants will be forced to provide a criminal records certificate from their home country.
-2. However, the article does not mention anything about EU migrants being required to provide criminal records certificates.
-3. The article only mentions that non-EU migrants will be required to provide criminal records certificates from their home country.
-4. Therefore, the summary is not consistent with the article because it includes information about EU migrants that is not present in the article.
+1. The article states that "Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK."
+2. The summary incorrectly states that "EU will be forced to provide a criminal records certificate from their home country."
+3. The article does not mention anything about the EU being subject to these new measures. In fact, it specifically states that the new measures will apply to "foreigners from outside the EU."
+4. Therefore, the summary is not consistent with the article because it incorrectly includes the EU in the list of groups that will be subject to the new criminal records certificate requirement.
 
-So, the reason why the summary is not consistent with the article is that it includes information about EU migrants that is not supported by the article. The article only discusses non-EU migrants being required to provide criminal records certificates, and does not mention anything about EU migrants being subject to this requirement.
+Reasoning step by step:
+
+1. The article states that foreigners from outside the EU will be subject to the new criminal records certificate requirement.
+2. The summary incorrectly includes the EU in the list of groups that will be subject to this requirement.
+3. The article does not mention the EU being subject to this requirement, and in fact specifically excludes the EU from the list of groups that will be subject to the new measure.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world health organization (who) has lifted a ban on gay men donating to gay men in england and wales. 
-
-    Article: 
-    Now the complete ban is being lifted.  Until now, any man who had ever had sex with another man was barred for life from donation.
+<Article>
+Now the complete ban is being lifted.  Until now, any man who had ever had sex with another man was barred for life from donation.
 From 7 November the ban is being lifted in England, Scotland and Wales.   But men who want to donate must not have had sex with another man in the past 12 months.
 This deferral period has been left in place because there is a "window period" after infection with blood-borne viruses where they are not detectable.
 This window period is far less than 12 months.
@@ -19,17 +16,28 @@ But Sir Nick Partridge, Chief Executive of Terrence Higgins Trust said: "The rem
 A one year deferral period for donation applies to other groups as well: for example anyone who has been sexually active in countries where HIV/Aids is very common, and anyone who has had sex with a prostitute.
 NHS Blood and Transplant has a complete list of who can and cannot donate.
 The hope will be that the shift in policy will lead to an increase in the number of donors.
-If you want more detail about the reasoning behind the decision to lift the ban, then the full report from the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) can be read here. 
+If you want more detail about the reasoning behind the decision to lift the ban, then the full report from the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) can be read here.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the world health organization (who) has lifted a ban on gay men donating to gay men in england and wales.
+</Summary>
 
-1. The summary states that the World Health Organization (WHO) has lifted a ban on gay men donating to gay men in England and Wales, but the article does not mention the WHO.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the ban has been lifted completely, but the article states that there is a deferral period of one year for men who have had sex with other men.
+1. The article states that the ban on gay men donating blood in England, Scotland, and Wales has been lifted, but men who have had sex with other men in the past 12 months are deferred for one year.
+2. The summary states that the World Health Organization (WHO) has lifted a ban on gay men donating blood in England and Wales.
+3. The article does not mention the WHO lifting any ban, and instead states that the ban has been lifted by the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) in the UK.
+4. The summary is not consistent with the article because it implies that the WHO has lifted the ban, when in fact it is the SaBTO that has lifted the ban in the UK.
+5. The WHO has not lifted any ban on gay men donating blood, and the article does not mention the WHO lifting any ban.
+6. The summary is incorrect and should be revised to reflect the correct information.
 
-3. The summary does not mention the deferral period or any restrictions on donations, which is a key aspect of the article.
+Therefore, the reasoning step by step is:
 
-Overall, the summary is not consistent with the article because it misrepresents the content and omits key information. The article provides a more nuanced and accurate view of the changes to blood donation policies in the UK.
+1. The article and summary have different information.
+2. The article states that the ban has been lifted by SaBTO, not WHO.
+3. The summary implies that WHO has lifted the ban.
+4. WHO has not lifted any ban.
+5. The summary is incorrect and should be revised.
 
 ###Corrected:

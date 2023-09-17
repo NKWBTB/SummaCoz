@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
-two gunman shot her dead at point-blank range late friday after she locked up the second floor cafe in karachi for the night , police said .
-she is in a hospital but is expected to be released on time for her daughter 's funeral . 
-
-    Article: 
-    islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
+<Article>
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
 and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship .
 introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed .
 but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
@@ -47,17 +42,25 @@ her tightly coiffed short hair and angular glasses framed her bright-eyed featur
 missing was a head scarf .
 on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " her white dress replaced by a traditional outfit of mustard , ocher and green .
 but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image .
-the artistic expression sticks out and triggers passions , like many things mahmud said and did . 
+the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
+two gunman shot her dead at point-blank range late friday after she locked up the second floor cafe in karachi for the night , police said .
+she is in a hospital but is expected to be released on time for her daughter 's funeral .
+</Summary>
 
-1. The summary states that Sabeen Mahmud was shot dead by gunmen in Pakistan, but the article does not mention her death. Instead, it describes her as a Pakistani figurehead for humanism, love, and tolerance who was known for her discussions on technology, human rights, and women's entrepreneurship.
-2. The summary mentions that Mahmud was killed after she led a discussion group on a topic that many want silenced, but the article does not mention any specific topic or discussion that she led.
-3. The summary states that Mahmud received death threats in the past when she handled the topic of Balochistan, but the article does not mention any specific threats or danger that she faced.
-4. The summary describes Mahmud as a brave woman who was killed for her exuberant exercise of free speech, but the article portrays her as a figure who was known for her discussions and her work in promoting humanism, love, and tolerance.
-5. The summary mentions that Mahmud's killing broke hearts beating for non-violence and progressive values across the country, but the article does not mention any specific reactions to her death.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents a much more dramatic and dangerous picture of Sabeen Mahmud's life and death than the article does. While the article does mention that she was known for her discussions and her work in promoting humanism, it does not portray her as a brave woman who was killed for her exuberant exercise of free speech, as the summary does.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only mentions that Sabeen Mahmud was shot dead, but it does not provide any context or details about her life, her work, or the events leading up to her death. In contrast, the article provides a comprehensive profile of Mahmud, highlighting her accomplishments, her values, and the controversy surrounding her death.
+2. The summary does not mention the article's focus on Mahmud's advocacy for free speech, human rights, and women's empowerment. Instead, it simply states that she was shot dead, which does not convey the full significance of her work and the impact it had on her community.
+3. The summary does not mention the article's reference to Mahmud's death being a result of her exuberant exercise of free speech, which is a key point in understanding the context of her murder.
+4. The summary does not mention the article's mention of the graffiti and street art that adorned the walls of Mahmud's cafe, which was a reflection of her values and the values of her community.
+5. Finally, the summary does not mention the article's mention of Mahmud's mother being shot alongside her, which is a crucial detail that highlights the senseless violence of the attack.
+
+In conclusion, the summary is not consistent with the article because it fails to provide context, details, and significance of Mahmud's life and work, and instead focuses solely on her death. The summary should be revised to better reflect the content and themes of the article.
 
 ###Corrected:

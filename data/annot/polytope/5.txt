@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer 
-an emotional klopp said he believed dortmund need a change of manager next season 
-klopp will officially cease to be dortmund manager on june 30 as he looks for a fresh start elsewhere  
-
-    Article: 
-    jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
+<Article>
+jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
 klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
 the colourful 47-year-old coach has been linked with several other english teams in the past , including liverpool and arsenal , and has a long-standing interest in working here .
 jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer
@@ -64,17 +59,23 @@ klopp was under contract until 2018 but his relationship with his squad is belie
 ` i believe this is the right decision at the right time , ' he added .
 ` i just wanted to make my decision known now so that the club can plan for the future .
 in the last few years , some player decisions were made late and there was no time to react . '
-thomas tuchel , klopp 's former youth-team coach at mainz , is set to succeed him at dortmund after he was overlooked for the managerial vacancy at hamburg on wednesday in favour of bruno labbadia . 
+thomas tuchel , klopp 's former youth-team coach at mainz , is set to succeed him at dortmund after he was overlooked for the managerial vacancy at hamburg on wednesday in favour of bruno labbadia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer 
+an emotional klopp said he believed dortmund need a change of manager next season 
+klopp will officially cease to be dortmund manager on june 30 as he looks for a fresh start elsewhere 
+</Summary>
 
-1. The summary states that Klopp confirmed he is to leave Borussia Dortmund this summer, while the article states that Klopp has not had any contact with other clubs and is open to offers. This implies that Klopp has not yet made a decision to leave Dortmund.
-2. The summary states that Klopp believes Dortmund needs a change of manager next season, while the article does not mention this. Instead, Klopp is quoted as saying that he has not decided if he is the right manager for the club.
-3. The summary states that Klopp will officially cease to be Dortmund manager on June 30, while the article does not mention a specific date.
-4. The summary states that Klopp has been linked with several English teams, including Liverpool and Arsenal, while the article does not mention these teams.
-5. The summary states that Klopp is unlikely to take a sabbatical, while the article quotes Klopp as saying that he has thought about the topic in the past and has asked himself if he is still the right manager for the club.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it implies that Klopp has already made the decision to leave Dortmund, while the article states that he has not yet made a decision and is open to offers. Additionally, the summary mentions specific teams that Klopp has been linked with, while the article does not mention these teams.
+The given summary is not consistent with the article because:
+
+1. The summary states that Klopp will leave Borussia Dortmund this summer, but the article does not mention anything about Klopp leaving the club this summer. Instead, the article states that Klopp has confirmed he will leave the club at the end of the season, which is in June.
+2. The summary mentions that Klopp believes Dortmund needs a change of manager next season, but the article does not provide any information about Klopp's reasons for leaving the club. The article only mentions that Klopp has not had any contact with other clubs and that he is open to offers.
+3. The summary does not mention anything about Klopp's future plans or where he might go next, but the article mentions that Klopp has been linked with several top European clubs, including Bayern Munich, Real Madrid, and Liverpool.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article.
 
 ###Corrected:

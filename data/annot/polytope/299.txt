@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses .
-tibetan mastiffs has had a huge impact on the breed 's popularity .
-mastiffs are also being stolen from the streets by ruthless gangs . 
-
-    Article: 
-    big beauty : tibetan mastiffs can weigh 80 kg
+<Article>
+big beauty : tibetan mastiffs can weigh 80 kg
 just a year ago they could command prices of up to £ 1.2 million each .
 but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
 the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
@@ -38,16 +33,22 @@ a property develop bought the golden-haired one-year-old from breeder zhang geng
 mr zhang said of his dogs : ` they have lion 's blood and are top-of-the-range mastiff studs . '
 most expensive dog in the world : the gold-maned tibetan mastiff pup ( left ) sold last year in east china for £ 1.2 million .
 the red pup of the same breed ( right ) fetched nearly £ 600,007 .
-the dogs are seen with a model 
+the dogs are seen with a model
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the given summary is not consistent with the article:
+<Summary>
+tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses .
+tibetan mastiffs has had a huge impact on the breed 's popularity .
+mastiffs are also being stolen from the streets by ruthless gangs .
+</Summary>
 
-1. The summary states that Tibetan Mastiffs are being sent to slaughterhouses, but the article does not mention this. Instead, the article focuses on the decline in popularity of the breed and the impact of the anti-corruption crackdown and bans on owning large dogs in Chinese cities.
-2. The summary mentions that the dogs are being stolen from the streets by ruthless gangs, but the article does not mention this. Instead, the article highlights the impact of the anti-corruption drive and the bans on owning large dogs on the breed's popularity.
-3. The summary states that the dogs are being sent to slaughterhouses for their meat, but the article does not mention this. Instead, the article focuses on the decline in popularity of the breed and the impact of the anti-corruption crackdown and bans on owning large dogs in Chinese cities.
-4. The summary mentions that the dogs are being damaged by breeders to make more money, but the article does not mention this. Instead, the article highlights the impact of the anti-corruption drive and the bans on owning large dogs on the breed's popularity.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the dogs being sent to slaughterhouses for their meat, and it omits other important information that is present in the article, such as the impact of the anti-corruption crackdown and bans on owning large dogs in Chinese cities.
+1. The summary states that Tibetan Mastiffs are being sent to slaughterhouses, which is not consistent with the article. The article does mention that some dogs are being sent to slaughterhouses, but it also highlights the decline in popularity of the breed and the impact of the anti-corruption crackdown, rather than simply stating that the dogs are being sent to slaughterhouses.
+2. The summary does not mention the anti-corruption crackdown, which is a significant factor in the decline of the Tibetan Mastiff breed, according to the article.
+3. The summary mentions "ruthless gangs" stealing the dogs, but the article does not mention this.
+4. The summary states that the breed's popularity has had a huge impact on the breed's popularity, but the article does not mention this.
+
+Therefore, the summary is not consistent with the article. It omits important details and highlights different aspects of the situation, which results in an inaccurate summary of the article's content.
 
 ###Corrected:

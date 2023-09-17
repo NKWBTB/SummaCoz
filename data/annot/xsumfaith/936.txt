@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland\'s euro 2016 qualifier against northern ireland is a ``crazy moment\'\', according to former world cup winner gareth washington. 
-
-    Article: 
-    The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
+<Article>
+The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
 Washington, a postman just four years ago, followed that up with another goal against Belarus on Saturday.
 "The last few months have been a crazy time and I don't think it has sunk in yet. I know I have been fortunate," said the 24-year-old.
 "Football can be about being in the right place at the right time, and I have been lucky.
@@ -17,17 +14,20 @@ The Welsh club were promoted to the Football League in his first season, althoug
 He then moved to Peterborough in 2014 and by mid-January of this year, when QPR took him from London Road, Washington had scored 15 goals and aroused the interest of Northern Ireland manager Michael O'Neill.
 Washington had only been to the country once before his international bow against Wales in March but he qualified through the grandparent rule.
 "It was nice to be accepted so quickly and so readily with Northern Ireland," he added.
-"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it." 
+"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+northern ireland\'s euro 2016 qualifier against northern ireland is a ``crazy moment\'\', according to former world cup winner gareth washington.
+</Summary>
 
-Step 1: The summary mentions "Northern Ireland's Euro 2016 qualifier," but the article does not mention any information about the Euro 2016 qualifiers.
+Explain your reasoning step by step:[/INST]
 
-Step 2: The summary states that Gareth Washington said it was a "crazy moment," but the article does not quote him as saying that. Instead, it quotes him as saying that the last few months have been a "crazy time" and that he is proud of his achievements.
+1. The summary states that Northern Ireland's Euro 2016 qualifier against Northern Ireland is a "crazy moment", but the article does not mention anything about Northern Ireland playing against Northern Ireland.
+2. The article does mention that Washington made his international debut for Northern Ireland in March, but there is no mention of any qualifier against Northern Ireland.
+3. The summary is incorrect in stating that the qualifier is against Northern Ireland, as the article clearly states that Washington played against Slovenia and Belarus, not Northern Ireland.
+4. The summary is also incorrect in attributing a quote to former World Cup winner Gareth Washington, as there is no such person mentioned in the article.
 
-Step 3: The summary implies that Gareth Washington is a Northern Ireland player, but the article only mentions that he is eligible to play for Northern Ireland through the grandparent rule.
-
-Therefore, based on these differences, the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article and contains several errors.
 
 ###Corrected:

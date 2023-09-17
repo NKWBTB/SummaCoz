@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s geraint thomas moved into second place in the giro d\'italia with victory in the giro d\'italia. 
-
-    Article: 
-    It was the 29-year-old Spaniard's first Grand Tour stage win and Movistar's first at this year's Giro - still led by Jungels, with Geraint Thomas second.
+<Article>
+It was the 29-year-old Spaniard's first Grand Tour stage win and Movistar's first at this year's Giro - still led by Jungels, with Geraint Thomas second.
 Thomas' Team Sky team-mate Mikel Landa's late attack was caught as time gaps in the top 10 stayed the same.
 Thomas is six seconds behind Jungels, with fellow Briton Adam Yates third.
 Orica-Scott rider Yates is 10 seconds behind Quick-Step's Jungels, on the same time as favourites Nairo Quintana and Vincenzo Nibali, who also finished safely in the main bunch on Saturday.
@@ -31,16 +28,20 @@ Sunday's stage takes the riders into the high mountains for the first time since
 7. Nairo Quintana (Col/Movistar)
 8. Bauke Mollema (Ned/Trek)
 9. Andrey Amador (Crc/ Movistar)
-10. Thibaut Pinot (Fra/FDJ) 
+10. Thibaut Pinot (Fra/FDJ)
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+britain\'s geraint thomas moved into second place in the giro d\'italia with victory in the giro d\'italia.
+</Summary>
 
-1. The summary states that Geraint Thomas moved into second place in the Giro d'Italia, but the article states that he is currently in third place, six seconds behind Bob Jungels.
-2. The summary mentions that Thomas' Team Sky team-mate Mikel Landa had a late attack, but the article does not mention this.
-3. The summary states that Landa built up a lead of 15 seconds on Jungels, but the article states that Landa was caught by the peloton on the up-and-down finish into Peschici.
-4. The summary does not mention that the stage was won by Gorka Izagirre, but the article states that he won the stage.
+Explain your reasoning step by step:[/INST]
+  Sure, I can help you with that! Here's why the given summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains information that is not supported by the article, such as Thomas moving into second place and Landa's late attack. Additionally, it omits information that is present in the article, such as the winner of the stage.
+1. The summary states that "Britain's Geraint Thomas moved into second place in the Giro d'Italia with victory in the Giro d'Italia." This is not accurate because the article states that Thomas is currently in second place, but he did not win the stage.
+2. The summary does not provide any information about the stage winner, Gorka Izagirre, or any other riders who finished in the top 10. The article mentions the top 10 finishers, including Izagirre, Giovanni Visconti, Luis Leon Sanchez, and Enrico Battaglin.
+3. The summary does not mention the overall leader, Bob Jungels, or any other riders in the top 5 of the general classification. The article mentions Jungels' lead and the other riders in the top 5.
+
+Overall, the summary does not provide a complete or accurate summary of the article. It only mentions one rider, Geraint Thomas, and does not provide any information about the stage winner or the overall leader.
 
 ###Corrected:

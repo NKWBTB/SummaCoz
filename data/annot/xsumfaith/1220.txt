@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    uk sport\'s decision to withdraw funding from uk sport has been criticised by uk sport\'s decision to cut funding to olympic funding. 
-
-    Article: 
-    Archery, fencing, weightlifting and wheelchair rugby have also missed out.
+<Article>
+Archery, fencing, weightlifting and wheelchair rugby have also missed out.
 Cycling - which brought Team GB 12 medals in Rio - has had its funding cut by more than £4m to £25.98m.
 Badminton England chief executive Adrian Christy said he was "staggered" by the "incomprehensible" decision to remove the sport's funding.
 A total of £345m will be invested in 31 Olympic and Paralympic sports - £2m less than the record £347m allocated for the Rio Games.
@@ -31,17 +28,21 @@ UK Sport says investment in the five Olympic sports and two Paralympic sports ad
 Baseball/softball will return to the programme, with karate, skateboard, sports climbing and surfing also added, while Para-taekwondo and Para-badminton join the Paralympic programme.
 UK Sport says funding will be determined "following further exploration of medal potential", with £9m of the £345m total still to be allocated.
 Liam Carroll, head coach of the GB baseball team, said: "The key to unlocking our potential is investment and I'm pleased that UK Sport has left the door open.
-"We look forward to the opportunity to impress upon them that getting behind Great Britain Baseball can extend their tremendous track record of investing in Olympic medal contenders." 
+"We look forward to the opportunity to impress upon them that getting behind Great Britain Baseball can extend their tremendous track record of investing in Olympic medal contenders."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+uk sport\'s decision to withdraw funding from uk sport has been criticised by uk sport\'s decision to cut funding to olympic funding.
+</Summary>
 
-1. The summary states that UK Sport has withdrawn funding for all Olympic sports, but the article states that only badminton has had its funding withdrawn.
-2. The summary states that the decision to withdraw funding has been criticized by UK Sport, but the article quotes UK Sport CEO Liz Nicholl as saying that the decision was not taken lightly and that they had to prioritize to protect and enhance the medal potential.
-3. The summary states that the decision to withdraw funding represents a "catastrophic impact" on badminton, but the article quotes UK Sport CEO Liz Nicholl as saying that the decision was not taken lightly and that they had to prioritize to protect and enhance the medal potential.
-4. The summary states that the decision to withdraw funding is not consistent with UK Sport's review last year to build "performance pathways for future success", but the article does not mention this review.
-5. The summary states that the decision to withdraw funding has been criticized by sports minister Tracey Crouch, but the article does not quote her as saying anything about the decision.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the scope of the funding cuts and misrepresents UK Sport's reasoning for cutting funding to badminton. The article provides a more nuanced view of the situation, highlighting the challenges of prioritizing funding for Olympic sports and the need to balance investment in established sports with the development of new sports.
+1. The summary states that UK Sport's decision to withdraw funding from Olympic sports has been criticized.
+2. However, the article states that UK Sport has cut funding to Olympic sports, but also mentions that the decision was not taken lightly and that the funding was prioritized to protect and enhance medal potential.
+3. The summary does not provide any specific information about the funding cuts or the reasons behind them, other than the statement that UK Sport's decision has been criticized.
+4. The article provides information about the specific sports that have had their funding cut, such as badminton, and the reasons for the funding decisions, including the need to prioritize medal potential.
+5. Therefore, the summary is not consistent with the article because it does not provide any specific information about the funding cuts or the reasons behind them, while the article provides detailed information on these topics.
+
+Overall, the summary is too general and does not accurately reflect the information in the article. It does not provide any specific details or examples to support the statement that UK Sport's decision has been criticized, and therefore does not provide a clear or accurate summary of the article.
 
 ###Corrected:

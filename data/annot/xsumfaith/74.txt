@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nigeria\'s main opposition party has suffered its biggest defeat since the end of the country\'s four-year elections. 
-
-    Article: 
-    The All Progressives Congress (APC) won 19 of the 28 governor posts in results declared from Saturday's elections.
+<Article>
+The All Progressives Congress (APC) won 19 of the 28 governor posts in results declared from Saturday's elections.
 It is the biggest defeat for the Peoples Democratic Party (PDP) since military ruled ended in 1999.
 It lost the presidential poll last month for the first time.
 APC leader Muhammadu Buhari will be inaugurated on 29 May, after he defeated President Goodluck Jonathan.
@@ -31,17 +28,19 @@ It means that when Gen Buhari takes over the presidency it will be the first tim
 Our correspondent says the PDP will have to go through a period of introspection, and then rebuild itself under a new leader.
 The party was in power for 16 years, and voters felt that it was time for change, he says.
 It had been hit by the defection of governors and MPs to the APC ahead of the elections.
-The PDP also faced widespread allegations of corruption during its rule, and was accused of failing to do enough to end an Islamist-led insurgency in the north-east where it suffered huge defeats. 
+The PDP also faced widespread allegations of corruption during its rule, and was accused of failing to do enough to end an Islamist-led insurgency in the north-east where it suffered huge defeats.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+nigeria\'s main opposition party has suffered its biggest defeat since the end of the country\'s four-year elections.
+</Summary>
 
-1. The summary states that Nigeria's main opposition party has suffered its biggest defeat since the end of the country's four-year elections, but the article states that the All Progressives Congress (APC) won 19 of the 28 governor posts in results declared from Saturday's elections.
-2. The summary mentions that the Peoples Democratic Party (PDP) lost the presidential poll last month for the first time, but the article states that the PDP won eight governorships, mostly in the south-east.
-3. The summary states that the PDP lost control of Adamawa, one of three states badly hit by militant Islamist group Boko Haram's insurgency, but the article does not mention this.
-4. The summary mentions that the PDP failed to get a national spread of votes, but the article states that the APC failed to win in any of Nigeria's five oil-producing states.
-5. The summary states that the PDP will have to go through a period of introspection, and then rebuild itself under a new leader, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the PDP's losses and downplays the APC's gains. The article provides a more balanced view of the election results, highlighting the APC's historic gains and the PDP's decline, but also noting that the PDP still won some governorships and that the elections were generally peaceful.
+1. The summary states that Nigeria's main opposition party has suffered its biggest defeat since the end of the country's four-year elections.
+2. However, the article states that the All Progressives Congress (APC) won 19 of the 28 governor posts in results declared from Saturday's elections, which is not consistent with the idea that the opposition party suffered a big defeat.
+3. The article also mentions that the APC made historic gains and relegated the Peoples Democratic Party (PDP) to a regional party, which contradicts the idea that the PDP suffered a big defeat.
+4. Additionally, the article states that the PDP lost control of Adamawa, one of three states badly hit by militant Islamist group Boko Haram's insurgency, which suggests that the party faced significant challenges in the elections.
+5. Therefore, based on the information provided in the article, it can be concluded that the summary is not consistent with the article, as the PDP did not suffer a big defeat, but rather the APC made historic gains and the PDP lost control of some states.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    great britain\'s laura muir has won the scottish 1500m title at the european indoor championships in stockholm. 
-
-    Article: 
-    The 23-year-old from Kinross finished second behind Kenyan Faith Kipyegon in four minutes, 19.12 seconds.
+<Article>
+The 23-year-old from Kinross finished second behind Kenyan Faith Kipyegon in four minutes, 19.12 seconds.
 That erased Yvonne Murray's 1994 effort of 4:22.60 in the Scottish rankings and moved her second on the British all-time list behind Zola Budd's 4:17.57.
 The new record holder said: "I am really pleased to get that Scottish record. It means a lot to me."
 Muir, who finished fifth in last year's World Championships, now holds the Scottish 1500m and mile records.
@@ -15,17 +12,27 @@ Muir, who finished fifth in last year's World Championships, now holds the Scott
 Murray's husband, Tom Mooney, said on Facebook: "Yvonne says: 'Well done to you, Laura."
 Muir hopes to secure an Olympics place for Great Britain in Rio at the British trials in Birmingham from 24 to 26 June.
 The Scot started her season with an 800m victory in Montbeliard, France, last week and next competes in a week's time in a 1500m race in Stockholm.
-"Training's been going really, so I was expecting to run a good race," added Muir, who fits her training around her veterinary studies. She recently completed her fourth year of vet school. 
+"Training's been going really, so I was expecting to run a good race," added Muir, who fits her training around her veterinary studies. She recently completed her fourth year of vet school.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+great britain\'s laura muir has won the scottish 1500m title at the european indoor championships in stockholm.
+</Summary>
 
-1. The summary states that Laura Muir won the Scottish 1500m title at the European Indoor Championships, but the article does not mention anything about a title or a championship.
-2. The summary says that Muir finished second behind Kenyan Faith Kipyegon, but the article states that Muir finished fifth.
-3. The summary mentions a Scottish record, but the article does not mention any records being set or broken.
-4. The summary states that Muir holds the Scottish 1500m and mile records, but the article only mentions the 1500m record.
-5. The summary mentions that Muir hopes to secure an Olympics place for Great Britain in Rio at the British trials, but the article does not mention anything about the Olympics or the British trials.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and omissions compared to the article. It is not a consistent summary of the information provided in the article.
+1. The summary states that Laura Muir won the Scottish 1500m title at the European Indoor Championships in Stockholm.
+2. However, the article does not mention anything about the Scottish 1500m title or the European Indoor Championships in Stockholm.
+3. Instead, the article states that Muir finished second behind Kenyan Faith Kipyegon in the 1500m race at the European Indoor Championships in Glasgow, with a time of 4:19.12, which is a new Scottish record.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
+
+Reasoning step by step:
+
+1. The summary states that Muir won the Scottish 1500m title, but the article does not mention anything about a Scottish title.
+2. The summary mentions the European Indoor Championships in Stockholm, but the article takes place in Glasgow.
+3. The article states that Muir finished second behind Kipyegon, but the summary does not mention the placement or the name of the winner.
+4. The article mentions that Muir set a new Scottish record, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
 
 ###Corrected:

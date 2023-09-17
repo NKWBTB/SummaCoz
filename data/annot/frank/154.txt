@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new augmented reality experience is being launched in the isle of isle of lewis as part of the new augmented reality headset. 
+<Article>
+Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are."
+</Article>
 
-    Article: 
-    Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are." 
+<Summary>
+a new augmented reality experience is being launched in the isle of isle of lewis as part of the new augmented reality headset.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary mentions a new augmented reality experience being launched in the Isle of Lewis, but the article does not mention anything about a new augmented reality experience. Instead, the article talks about an app that will provide online information about the Hebridean Celtic Festival.
-2. The summary states that the new augmented reality experience is part of a new augmented reality headset, but the article does not mention anything about a headset.
-3. The summary mentions that the experience will be available to people around the world, but the article only talks about people attending the festival in person.
+1. The article does not mention anything about an augmented reality headset. The summary states that a new augmented reality experience is being launched in the Isle of Lewis as part of an augmented reality headset, but this is not supported by the article.
+2. The article mentions that the festival will have an app that allows visitors to trigger online information from signs and posters on the site, but there is no mention of an augmented reality experience.
+3. The summary states that the new augmented reality experience will be available to people around the world, but the article only mentions that the app will be available to visitors at the festival.
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary is describing a different product or feature than what is described in the article.
+Therefore, the summary is not consistent with the article because it mentions an augmented reality headset, which is not mentioned in the article, and it also implies that the experience will be available to people around the world, which is not true according to the article.
 
 ###Corrected:

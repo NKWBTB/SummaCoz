@@ -1,34 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    belfast\'s rebecca shorten won a bronze medal as part of the great britain women\'s eight at the final world cup regatta of the season in lucerne. 
-
-    Article: 
-    The 23 year-old stroked the GB boat to a fast start and they were ahead after 500m but European champions, Romania and New Zealand proved too strong.
+<Article>
+The 23 year-old stroked the GB boat to a fast start and they were ahead after 500m but European champions, Romania and New Zealand proved too strong.
 The Romanians came out on top, with the British eight comfortably holding off the challenge from the Netherlands
 The GB eight now prepare for the World Championships in Sarasota in September.
 There was no medal success for Enniskillen's Holly Nixon in the women's quadruple sculls.
-Nixon and her GB team mates Bethany Bryan, Alice Baatz and Mathilda Hodgkins-Byrne, were always off the pace and finished fifth in a race won by Poland. 
+Nixon and her GB team mates Bethany Bryan, Alice Baatz and Mathilda Hodgkins-Byrne, were always off the pace and finished fifth in a race won by Poland.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain my reasoning step by step. Here's why the given summary is not consistent with the article:
+<Summary>
+belfast\'s rebecca shorten won a bronze medal as part of the great britain women\'s eight at the final world cup regatta of the season in lucerne.
+</Summary>
 
-Step 1: Identify the main points of the summary:
+Explain your reasoning step by step:[/INST]
 
-The summary mentions that Rebecca Shorten won a bronze medal as part of the Great Britain women's eight at the final World Cup regatta of the season in Lucerne.
-
-Step 2: Identify the main points of the article:
-
-The article mentions that the GB eight was ahead after 500m, but European champions Romania and New Zealand proved too strong. The GB eight comfortably held off the challenge from the Netherlands, but there was no medal success for Enniskillen's Holly Nixon in the women's quadruple sculls.
-
-Step 3: Identify the inconsistencies:
-
-The inconsistency is that the summary mentions that Rebecca Shorten won a bronze medal, but the article does not mention any medal success for her. In fact, the article states that Holly Nixon, who is from Enniskillen, did not have any medal success in the women's quadruple sculls.
-
-Step 4: Explain the reason for the inconsistency:
-
-The inconsistency is likely due to a mistake in the summary. The summary incorrectly mentioned Rebecca Shorten winning a bronze medal, when in fact, there is no mention of her winning any medal in the article.
+1. The summary states that Rebecca Shorten from Belfast won a bronze medal as part of the Great Britain women's eight.
+2. The article does not mention any medal wins for Rebecca Shorten or the Great Britain women's eight.
+3. The article only mentions the British eight preparing for the World Championships in Sarasota in September, with no mention of any medal wins.
+4. The article does mention that the Romanians came out on top and that the British eight comfortably held off the challenge from the Netherlands, but there is no mention of a bronze medal win for the Great Britain women's eight.
+5. Therefore, the summary is not consistent with the article, as there is no mention of a bronze medal win for Rebecca Shorten or the Great Britain women's eight in the article.
 
 ###Corrected:

@@ -1,22 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man who died after being stabbed at a house in rotherham has been named by police. 
-
-    Article: 
-    Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
+<Article>
+Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
 Mr Fatchett died on Saturday night despite being treated at the scene by paramedics, officers said.
-A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police. 
+A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man who died after being stabbed at a house in rotherham has been named by police.
+</Summary>
 
-1. The summary states that the man who died was named by police, but the article does not mention the name of the deceased.
-2. The summary states that the man died after being stabbed at a house in Rotherham, but the article only mentions that he was injured at a house in Highfield Avenue, Athersley South.
-3. The summary states that the 17-year-old boy arrested on suspicion of murder has been bailed, but the article does not mention this detail.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not supported by the article. Specifically, the name of the deceased, the location of the incident, and the status of the suspect are not mentioned in the article.
+1. The article states that Adrian Fatchett died after being injured at a house in Highfield Avenue, Athersley South.
+2. The summary states that the man died after being stabbed at a house in Rotherham.
+3. The article does not mention anything about the man being stabbed, only that he was injured.
+4. Therefore, the summary is not consistent with the article because it implies that the man died as a result of being stabbed, while the article only mentions that he died after being injured.
+
+So, the reason why the summary is not consistent with the article is that it provides additional information that is not supported by the article. The article only mentions that the man died after being injured, but it does not specify the cause of death or the method of injury.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a group of women\'s rights activists has been criticised for letting adverts for women with special educational needs. 
-
-    Article: 
-    Matching Models in London describes itself as "an international temp agency for beautiful and talented people".
+<Article>
+Matching Models in London describes itself as "an international temp agency for beautiful and talented people".
 It advertised for a personal assistant with "a classic look, brown long hair with b-c cup".
 The Equality and Human Rights Commission (EHRC) called it "appalling, unlawful and demeaning to women".
 Rebecca Hilsenrath, chief executive of the EHRC, said it would be writing to Matching Models "asking for them to clarify their hiring practices immediately".
@@ -28,18 +25,22 @@ As for specifying clothing sizes, an employer has to be able to show that it is 
 Talking about the personal assistant advert, Ms Jansen said: "The client who wants the specific cup size is an older gentleman - he has a specific outfit he designed with Christian Dior. He wants a "Jackie O" look. And he wants a lady with a smaller cup size to fit into the outfit."
 "I recently had an Indian businessman who interviewed 60 women from my firm. He wanted a blonde, blue eyed, Greek woman. He hired 6 of them to work on his plane."
 Matching Models clients include MTV, Louis Vuitton, Coca-Cola, the Renualt Formula 1 team and Harrods.
-Ms Jansen said she had hired 5,000 people worldwide and pointed out MTV wanted models with tattoos and piercings. 
+Ms Jansen said she had hired 5,000 people worldwide and pointed out MTV wanted models with tattoos and piercings.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a group of women\'s rights activists has been criticised for letting adverts for women with special educational needs.
+</Summary>
 
-1. The summary states that the women's rights activists were criticized for letting adverts for women with special educational needs, but the article does not mention anything about special educational needs.
-2. The summary mentions that the agency's ads are "straight out of the 1970s", but the article does not mention the decade.
-3. The summary states that the agency is looking for a "sexy female driver", but the article does not use that wording. Instead, it states that the agency is looking for a "female driver" who is "attractive".
-4. The summary mentions that the agency's clients include MTV, Louis Vuitton, and Harrods, but the article does not mention those specific clients.
-5. The summary states that the agency's founder, Nathalie Jansen, said that "looks are important", but the article does not quote her as saying that. Instead, it quotes her as saying that "our clients are important to us".
-6. The summary mentions that the Equality and Human Rights Commission (EHRC) called the ads "appalling, unlawful and demeaning to women", but the article does not mention the EHRC's specific words. Instead, it quotes the chief executive of the EHRC, Rebecca Hilsenrath, as saying that the ads are "almost certainly falls foul of equality legislation".
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates and misrepresents some of the information in the article, and it includes information that is not present in the article.
+1. The summary states that a group of women's rights activists has been criticized for letting adverts for women with special educational needs.
+2. However, the article does not mention anything about women's rights activists or special educational needs.
+3. The article actually discusses an international temp agency called Matching Models, which advertised for a personal assistant with specific physical requirements, such as a "classic look, brown long hair with B-C cup".
+4. The Equality and Human Rights Commission (EHRC) criticized the agency's ads as "appalling, unlawful, and demeaning to women".
+5. The article highlights how the agency's hiring practices are discriminatory against women and potentially fall foul of equality legislation.
+6. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
+
+In conclusion, the summary is not consistent with the article because it misrepresents the content of the article by focusing on a non-existent issue about women's rights activists and special educational needs, instead of the actual issue of discriminatory hiring practices by Matching Models.
 
 ###Corrected:

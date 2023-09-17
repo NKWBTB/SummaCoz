@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman has been sentenced to six years in prison for sex offences against a woman and a woman. 
-
-    Article: 
-    Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
+<Article>
+Clive Weatherhogg set up meetings between the woman and a man he found through an adult website, and filmed them having sex.
 A court heard he sent a message containing a sexually explicit clip to the victim's sister on Christmas Day.
 Weatherhogg, 42, was also placed on the sex offenders register.
 He had denied the charges but was found guilty following a trial at Dundee Sheriff Court.
@@ -16,15 +13,21 @@ He was also convicted of intentionally causing the woman's sister and father to 
 The woman told the trial she had felt "blackmailed" by Weatherhogg.
 Lady Wolffe told the Weatherhogg that she had to pass a sentence on him that "reflected society's abhorrence" at such conduct.
 The judge said that Weatherhogg, a first offender, had been assessed as posing "a moderate risk" of sexual re-offending.
-Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing. 
+Defence counsel Jonathan Crowe said it had been "a dramatic shock" for Weatherhogg to be placed on remand ahead of sentencing.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided information, the summary is not consistent with the article because:
+<Summary>
+a woman has been sentenced to six years in prison for sex offences against a woman and a woman.
+</Summary>
 
-1. The summary mentions the woman being sentenced to six years in prison for sex offences against a woman and a woman, but the article does not mention any such sentence or offences.
-2. The article only mentions Clive Weatherhogg being found guilty of coercing a woman to engage in sexual activity and intentionally causing her sister and father to look at sexual images. There is no mention of the woman being sentenced to prison for sex offences.
-3. The summary mentions the woman being sentenced to six years in prison, but the article only mentions Weatherhogg being found guilty and the case being remitted to the High Court in Edinburgh for sentencing.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article.
+1. The summary states that a woman has been sentenced to six years in prison for sex offences against a woman and a woman.
+2. However, the article states that Clive Weatherhogg, a man, was found guilty of coercing a woman to engage in sexual activity with him and with another man, and of intentionally causing the woman's sister and father to look at sexual images.
+3. Therefore, the summary is not consistent with the article because it does not accurately reflect the gender of the person who was sentenced and the nature of the offenses for which they were sentenced.
+4. The article states that Weatherhogg was found guilty of coercing a woman to engage in sexual activity with him and with another man, which is a sexual offense against the woman.
+5. The article also states that Weatherhogg was found guilty of intentionally causing the woman's sister and father to look at sexual images, which is a separate offense.
+6. The summary does not mention any of these details and instead states that a woman has been sentenced to six years in prison for sex offences against a woman and a woman, which is not accurate.
+7. Therefore, the summary is not consistent with the article and does not accurately reflect the information contained within it.
 
 ###Corrected:

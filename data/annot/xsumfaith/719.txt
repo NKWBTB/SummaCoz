@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    shopkeepers near the isle of wight\'s troubled new ``floating bridge\'\'have asked councillors to consider compensating them for loss of business. 
-
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.
 Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.
 Mr Stewart said the council had ordered a review of the project by auditors.
 He said it had been a "frustrating and disappointing start" to the ferry.
@@ -17,16 +14,17 @@ Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come o
 Transport councillor Ian Ward said compensation was up for discussion.
 He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."
 He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.
-He said groundings were an issue with seamanship, which had been resolved. 
+He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+shopkeepers near the isle of wight\'s troubled new ``floating bridge\'\'have asked councillors to consider compensating them for loss of business.
+</Summary>
 
-1. The summary mentions "shopkeepers near the Isle of Wight's troubled new 'floating bridge'" asking councillors to consider compensating them for loss of business, but the article does not mention any specific requests for compensation from shopkeepers. Instead, it mentions one shopkeeper, Angie Booth, expressing her concerns about the impact of the ferry's problems on her business.
-2. The summary suggests that the shopkeepers are asking for compensation for "loss of almost six months of trade," but the article does not mention any specific timeframe for the ferry's problems or the resulting loss of business.
-3. The summary implies that the ferry's problems are the sole cause of the shopkeepers' loss of business, but the article mentions other factors, such as electrical problems and seamanship issues, that may have contributed to the ferry's difficulties.
-4. The summary mentions the ferry's "troubled" start, but the article does not use that word to describe the ferry's launch. Instead, it describes the ferry's launch as "frustrating and disappointing."
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the extent to which the shopkeepers are affected by the ferry's problems and implies that the ferry's issues are the sole cause of their loss of business. The article presents a more nuanced view of the situation, acknowledging that there may be multiple factors contributing to the ferry's difficulties and the impact on local businesses.
+1. The summary states that shopkeepers near the Isle of Wight's new floating bridge have asked councillors to consider compensating them for loss of business.
+2. The article does not mention anything about shopkeepers asking for compensation. Instead, it reports that the council leader has ordered a review of the project by auditors and that there have been teething problems with the ferry, including breakdowns, groundings, and training issues.
+3. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article. Specifically, it omits the fact that the council leader has ordered a review of the project and that there have been teething problems with the ferry, and instead focuses on the request for compensation, which is not mentioned in the article.
 
 ###Corrected:

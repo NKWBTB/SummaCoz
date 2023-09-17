@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a painting by peter simpson has won this year\'s peter simpson award for his " extraordinary " work to win the turner prize. 
-
-    Article: 
-    The 76-year-old, who received the Â£25,000 prize for Squint (19) at Liverpool's Walker Art Gallery, was one of the shortlisted artists in 1991.
+<Article>
+The 76-year-old, who received the Â£25,000 prize for Squint (19) at Liverpool's Walker Art Gallery, was one of the shortlisted artists in 1991.
 Simpson, who has also made the prize longlist on three other occasions, said finally winning was "very nice indeed".
 Judge Ansel Krut said Squint (19) was "quite extraordinary", even though it was a "difficult painting to look at".
 The work depicts a leper squint, which Simpson said were "holes made in the sides of medieval churches so the undesirables could look through to the service and somehow take part".
@@ -18,17 +15,25 @@ Krut said Simpson's piece was "a little bit like a tone poem - when you spend so
 "Technically, it's very subtle and his language is very minimal, very reduced, but when you enter into it, you get into this broad field of great sympathy, because of the subject matter.
 "We couldn't have asked for a better painting."
 Established in 1957, the biennial John Moores Painting Prize is one of Britain's oldest art awards.
-Previous winners include David Hockney and Peter Doig. Sir Peter Blake, who is now the prize's patron, won the junior title in 1961. 
+Previous winners include David Hockney and Peter Doig. Sir Peter Blake, who is now the prize's patron, won the junior title in 1961.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+a painting by peter simpson has won this year\'s peter simpson award for his " extraordinary " work to win the turner prize.
+</Summary>
 
-1. The summary states that Peter Simpson won the Turner Prize, but the article does not mention the Turner Prize. Instead, it mentions the John Moores Painting Prize, which is a different award.
-2. The summary describes the painting as "extraordinary," but the article does not use that word to describe the painting. Instead, the article describes it as "quite extraordinary" and "a little bit like a tone poem."
-3. The summary states that Simpson won the prize for his painting "Squint (19)," but the article does not mention that specific painting. Instead, it mentions that Simpson won the prize for his work "Squint (19)," which is a different title.
-4. The summary does not mention that Simpson has been shortlisted for the prize on three other occasions, as stated in the article.
-5. The summary does not mention that the prize is biennial, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. The article provides more detailed and accurate information about the painting and the prize, while the summary is a brief and simplified version that contains errors.
+1. The summary states that Peter Simpson has won the Peter Simpson Award for his "extraordinary" work. This is incorrect, as there is no such award as the Peter Simpson Award.
+2. The article states that the prize was won by Simpson for his work "Squint (19)", which was selected from a shortlist of 500 entries. The summary makes no mention of the work or its title.
+3. The article states that the prize is the John Moores Painting Prize, which is one of Britain's oldest art awards. The summary makes no mention of the prize's name or its history.
+4. The article states that Simpson is 76 years old and received a prize of £25,000. The summary makes no mention of Simpson's age or the prize amount.
+
+Therefore, the summary is not consistent with the article because it:
+
+* Mentions a non-existent award (Peter Simpson Award)
+* Fails to mention the work or its title that won the prize
+* Fails to mention the name of the prize (John Moores Painting Prize)
+* Fails to mention the artist's age or the prize amount.
 
 ###Corrected:

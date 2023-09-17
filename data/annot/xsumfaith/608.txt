@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england produced a flawless performance to beat pakistan by 330 runs in the second test, says former captain michael vaughan. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The hosts won with a day to spare at Old Trafford to level the series.
 England made 589-8 declared and 173-1 declared to set up their second biggest win over Pakistan in terms of runs.
 "It's an absolute hammering. It's as good a four days of cricket that you could wish for from an England point of view," Vaughan told Test Match Special.
@@ -30,19 +27,21 @@ Of the Pakistan players, only captain Misbah-ul-Haq and Asad Shafiq have passed 
 "This is a big disappointment for us," said Misbah. "We could have scored around 400 in the first innings - the ball wasn't doing anything much.
 "We are short of confidence and shot selection really cost us.
 "These guys are strong characters - mentally strong. I'm hopeful that everybody is hurt and they will really work hard."
-Media playback is not supported on this device 
+Media playback is not supported on this device
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+england produced a flawless performance to beat pakistan by 330 runs in the second test, says former captain michael vaughan.
+</Summary>
 
-1. The summary states that former captain Michael Vaughan said England produced a flawless performance, but the article does not mention Vaughan's comment.
-2. The summary mentions that England won by 330 runs, but the article states that England won with a day to spare, which is not the same as a 330-run victory.
-3. The summary states that Pakistan were bowled out for 234 in the second innings, but the article states that Pakistan were bowled out for 198 in the second innings.
-4. The summary states that Pakistan batted for only 63 overs in the first innings and 70 in the second, but the article does not mention the overs that Pakistan batted.
-5. The summary quotes Michael Vaughan as saying that Pakistan's spirit was broken, but the article does not mention this quote.
-6. The summary states that England should enjoy the win and have a good party, but the article does not mention this statement.
-7. The summary mentions that only two Pakistan players have passed 50 in the first two Tests, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the given summary is not consistent with the article because it contains several inaccuracies and quotes that are not present in the article.
+1. The summary states that England produced a flawless performance to beat Pakistan by 330 runs in the second Test.
+2. However, the article states that Pakistan were bowled out for 234 on Monday, and England won the match by 330 runs.
+3. The summary does not mention Pakistan's bowling or their second innings, which is inconsistent with the article.
+4. The article provides details about England's batting, including Joe Root's man of the match performance and Alastair Cook's contributions.
+5. The summary does not mention any of these details, which suggests that it is not a accurate summary of the article.
+
+Therefore, the summary is not consistent with the article because it does not provide a comprehensive summary of the match, and it does not mention important details about England's batting and Pakistan's bowling.
 
 ###Corrected:

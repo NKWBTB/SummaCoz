@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant fights in ring history .
-evaluating the greatest ever fights is a complex variable of several factors including not only the quality and excitement of the action . 
-
-    Article: 
-    floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant this century .
+<Article>
+floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant this century .
 evaluating the greatest ever fights is a complex variable of several factors including not only the quality and excitement of the action but the political , social and cultural undertones , the scale of expectation and outside influences .
 where money man v pacman comes to rank among the most important fights in ring history will depend upon what happens that coming night in the mgm grand garden arena .
 in this , the sixth in a series of 12 fights that shaped boxing history , i recall when a hard man could take no more ...
@@ -54,19 +50,22 @@ he did so on june 16 , 1983 , his 32nd birthday , by knocking out davey moore in
 rejoicing returned to the streets .
 leonard would win their third fight in 2017 by a points landslide , thereby retaining the world super-middleweight title .
 but sugar ray took most pride from the trilogy from forcing duran to say no mas .
-he said : ` to me , making roberto duran to quit was better than knocking him out . ' 
+he said : ` to me , making roberto duran to quit was better than knocking him out . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant fights in ring history .
+evaluating the greatest ever fights is a complex variable of several factors including not only the quality and excitement of the action .
+</Summary>
 
-1. The summary states that the fight between Floyd Mayweather and Manny Pacquiao will be the biggest fight of all time financially and the most significant this century, while the article only states that it will be the biggest fight of the century financially.
-2. The summary does not mention the political, social, and cultural undertones, the scale of expectation, and outside influences that the article highlights as factors in evaluating the greatest ever fights.
-3. The summary mentions Sugar Ray Leonard vs. Roberto Duran as one of the greatest fights in ring history, but the article only mentions it as one of the 12 fights that shaped boxing history.
-4. The summary does not include any information about the other fights mentioned in the article, such as Thomas Hearns vs. Marvin Hagler, Felix Trinidad vs. Sugar Ray Leonard, or the third fight between Sugar Ray Leonard and Roberto Duran.
-5. The summary mentions that Sugar Ray Leonard celebrates after Roberto Duran quit, but the article states that Leonard celebrated after Duran said "no mas."
-6. The summary does not mention the controversy surrounding the scoring of the first fight or the fact that the judge who marked just three rounds in favor of Duran and only two for Leonard was revealed to have totalled his score incorrectly.
-7. The summary does not mention the rematch between Sugar Ray Leonard and Roberto Duran, which took place eight months after the first fight.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide a comprehensive or accurate summary of the article, as it focuses solely on the Floyd Mayweather-Manny Pacquiao fight and neglects to mention many of the key details and factors mentioned in the article.
+1. The summary does not accurately reflect the content of the article. The article discusses the historical significance of the fight between Sugar Ray Leonard and Roberto Duran, while the summary only mentions the upcoming fight between Floyd Mayweather and Manny Pacquiao.
+2. The summary does not include any specific details or quotes from the article, while the article provides several quotes and descriptions of the Leonard-Duran fights.
+3. The summary does not provide any context or background information about the Leonard-Duran fights, while the article provides a detailed description of the fights and their significance in boxing history.
+4. The summary does not mention any of the key factors that the article uses to evaluate the greatest ever fights, such as the quality and excitement of the action, the political and social undertones, and the scale of expectation and outside influences.
+5. The summary does not provide any analysis or evaluation of the Leonard-Duran fights, while the article provides a detailed analysis of the fights and their significance in boxing history.
+
+Overall, the summary does not accurately reflect the content of the article and does not provide any specific details or context about the Leonard-Duran fights. The summary is too brief and lacks the specific details and analysis that are provided in the article.
 
 ###Corrected:

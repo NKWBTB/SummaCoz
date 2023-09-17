@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a kenyan student has described how she escaped from al-shabab militants who attacked her college in nairobi last week. 
-
-    Article: 
-    Cynthia Cheroitich, 19, said she drank body lotion because she was hungry and thirsty.
+<Article>
+Cynthia Cheroitich, 19, said she drank body lotion because she was hungry and thirsty.
 She was only brought out on Saturday morning after security forces found a teacher she knew to convince her it was safe to come out.
 Ms Cheroitich said her ordeal began at around 05:30 (02:30 GMT) on Thursday when she and her fellow students were in class studying for their exams.
 "Suddenly, we heard the bullets and then we started coming out and then we said: 'What is happening?'" she told the Associated Press news agency.
@@ -19,15 +16,24 @@ She said she found some bottles of body lotion where she was hiding and "drank a
 But she was too scared to move. "I was just praying to my God," she said.
 It was not until 10:00 on Saturday, long after the attack ended, that the authorities were able to persuade her to come out.
 She told AP: "You know at first I did not believe it [when police came to rescue her], at first I was thinking that maybe they were the al-Shabab.  So I said: 'How do I know that you are the Kenyan police?'"
-It was only after a member of the college staff came to convince her that it was safe to come out that she emerged. 
+It was only after a member of the college staff came to convince her that it was safe to come out that she emerged.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a kenyan student has described how she escaped from al-shabab militants who attacked her college in nairobi last week.
+</Summary>
 
-1. The summary states that the student escaped from al-Shabab militants who attacked her college in Nairobi, but the article does not mention anything about the student escaping or being rescued by the authorities.
-2. The summary mentions that the student drank body lotion because she was hungry and thirsty, but the article does not mention this detail. Instead, the article states that the student found some bottles of body lotion in her hiding place and described them as "nice and lovely."
-3. The summary states that the student was only brought out on Saturday morning after security forces found a teacher she knew to convince her it was safe to come out, but the article does not mention this detail. Instead, the article states that the student emerged from her hiding place after a member of the college staff came to convince her that it was safe to come out.
+Explain your reasoning step by step:[/INST]
+  Sure, I can help you with that! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article and omits other important details that are present in the article.
+Step 1: The summary states that the Kenyan student escaped from al-Shabab militants who attacked her college in Nairobi last week. However, the article does not mention anything about the student escaping or being rescued. Instead, it describes how the student was hiding in a wardrobe during the attack and was too scared to move.
+
+Step 2: The summary implies that the student was rescued by the authorities, but the article does not mention any rescue efforts or intervention by the authorities. Instead, it states that the student was only brought out on Saturday morning after a teacher she knew convinced her it was safe to come out.
+
+Step 3: The summary describes the student drinking body lotion during the attack, but the article does not mention this detail. The article only states that the student found some bottles of body lotion in the wardrobe where she was hiding and describes her experience of hiding and praying during the attack.
+
+Step 4: The summary does not provide any information about the student's experience during the attack, such as what happened to her roommates or how she spent her time hiding. The article, on the other hand, provides more details about the student's experience, including how she and her fellow students were in class when the attack began, how they ran to their rooms and hid under the beds, and how the gunmen entered the room and separated the students based on their ability to recite verses of the Koran.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the student's experience during the attack or the events that occurred after the attack. The summary is too brief and lacks important details, while the article provides more context and information about the student's experience.
 
 ###Corrected:

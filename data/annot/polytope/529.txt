@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    survey of 1,100 adults by vehicle leasing firm osv found that 31 per cent of men have never picked up a bucket or chamois leather to clean their own motor .
-meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money . 
-
-    Article: 
-    it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
+<Article>
+it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
 but new figures show that the art of washing your own car appears to be dying out in britain with a thrid of men admitting they have never picked up a bucket or chamois leather to clean their own motor .
 the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
 a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic )
@@ -23,15 +19,21 @@ audis , toyotas and bmws are most likely to be washed by their owners and range 
 osv spokesman andrew kirkley said : ` a lot of us remember seeing our streets full of men cleaning their cars every sunday .
 it was a national tradition .
 ` but let 's face it , we do n't have as much time any more , the cars are bigger and even the kids do n't seem to want to earn a bit of extra money doing it for us either .
-` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . ' 
+` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+survey of 1,100 adults by vehicle leasing firm osv found that 31 per cent of men have never picked up a bucket or chamois leather to clean their own motor .
+meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money .
+</Summary>
 
-1. The summary states that only 5% of those surveyed have ever asked their children to wash the car as a way for them to earn extra pocket money, while the article states that only 5% of those surveyed have ever asked their children to wash the car, period. This discrepancy suggests that the summary is not accurately representing the information in the article.
-2. The summary states that 31% of men have never picked up a bucket or chamois leather to clean their own motor, while the article states that 31% of men have never washed their own car. This difference suggests that the summary is not accurately representing the information in the article.
-3. The summary states that the study found that 31% of men have never washed their own car, while the article states that the study found that 31% of men have never picked up a bucket or chamois leather to clean their own motor. This difference suggests that the summary is not accurately representing the information in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the given summary is not consistent with the article because it contains inaccuracies and discrepancies in the information presented.
+1. The summary states that "31 per cent of men have never picked up a bucket or chamois leather to clean their own motor." This statement is not consistent with the article, as the article states that "a third of men have never picked up a bucket and a chamois leather to wash their own car."
+2. The summary also states that "only five per cent of those surveyed said that had ever asked their children to wash the car, as a way for them to earn extra pocket money." This statement is not consistent with the article, as the article does not mention anything about asking children to wash the car.
+3. The summary does not mention the other findings of the survey, such as the fact that three-quarters of women never wash their own car and that drivers are more likely to take their car to a car wash on a local forecourt.
+4. The summary is not a comprehensive summary of the article, as it only focuses on two aspects of the survey (the percentage of men who have never washed their own car and the percentage of people who have asked their children to wash the car) and omits other important information.
+
+Therefore, the summary is not consistent with the article and does not provide a comprehensive overview of the survey's findings.
 
 ###Corrected:

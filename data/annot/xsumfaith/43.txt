@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a oil company has said it is " extremely concerned " about the health of six workers who were exposed to radioactive radiation at a north sea platform. 
-
-    Article: 
-    The incident happened on EnQuests's Thistle platform, off Shetland, last December.
+<Article>
+The incident happened on EnQuests's Thistle platform, off Shetland, last December.
 Rigging supervisor Steve Innes, from Sunderland, told the BBC he and fellow Wood Group contractors discovered they had been exposed to alpha radiation.
 EnQuest said "additional precautionary steps" had since been taken.
 Wood Group said it was committed to employee safety.
@@ -33,23 +30,20 @@ A Wood Group spokeswoman said: "The health and safety of our people is always ou
 John Boland, regional officer for the Unite union, said: "Unite believes that the way these workers has been treated is terrible.
 "It's vital for workers' safety that there is openness and transparency about serious safety incidents, so that we can learn lessons and create a safer working environment for everyone offshore."
 A spokesperson for the Health and Safety Executive (HSE) said: "HSE has been made aware of this incident.
-"However, it was not reportable under the present RIDDOR system (Reporting of Injuries, Diseases and Dangerous Occurrences Regulations) and no staff raised the issue with HSE separately so no investigation has been carried out." 
+"However, it was not reportable under the present RIDDOR system (Reporting of Injuries, Diseases and Dangerous Occurrences Regulations) and no staff raised the issue with HSE separately so no investigation has been carried out."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistency in the summary and the article. Here's my reasoning step by step:
+<Summary>
+a oil company has said it is " extremely concerned " about the health of six workers who were exposed to radioactive radiation at a north sea platform.
+</Summary>
 
-Step 1: Identify the main points in the summary
-The summary states that an oil company is "extremely concerned" about the health of six workers who were exposed to radioactive radiation at a North Sea platform. The workers were exposed to alpha radiation, and the company has taken additional precautionary steps to ensure the safety of its employees.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points in the article
-The article reports that six workers were exposed to low levels of naturally occurring radioactive material (NORM) during shutdown activities on EnQuest's Thistle platform in December 2016. The workers were employed by Wood Group under a contract with EnQuest. The level of exposure was less than 1% of the reportable level to the Health and Safety Executive (HSE). EnQuest advised the HSE of the matter, and the company took additional precautionary steps to prevent further exposure.
-
-Step 3: Identify the inconsistency
-The inconsistency lies in the language used in the summary and the article. The summary states that the company is "extremely concerned" about the health of the workers, while the article states that EnQuest advised the HSE of the matter and took additional precautionary steps to prevent further exposure. The language used in the summary implies a higher level of concern and urgency than the language used in the article.
-
-Step 4: Analyze the reason for the inconsistency
-The inconsistency likely arises from the fact that the article is a news report, while the summary is a statement from the company. The company's statement may have been crafted to present a more urgent and concerned tone to the public, while the article provides a more factual account of the incident.
-
-In conclusion, the inconsistency between the summary and the article lies in the language used to describe the company's response to the incident. The summary presents a more urgent tone, while the article provides a more factual account of the incident and the company's response.
+1. The summary states that the oil company is "extremely concerned" about the health of six workers who were exposed to radioactive radiation.
+2. However, the article states that the level of exposure was less than 1% of the reportable level to the Health and Safety Executive (HSE).
+3. The article also states that EnQuest, the oil company, advised the HSE of the matter and took appropriate control measures to prevent exposure to NORM (naturally occurring radioactive material).
+4. The article does not mention any concern from the oil company about the health of the workers.
+5. The only mention of concern in the article is from the Unite union, which states that the way the workers were treated was "terrible" and that there should be openness and transparency about serious safety incidents.
+6. Therefore, the summary is not consistent with the article because it implies that the oil company is concerned about the health of the workers, when in fact, there is no mention of such concern in the article.
 
 ###Corrected:

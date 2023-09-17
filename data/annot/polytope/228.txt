@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
-martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
-gerrard is aiming to end his liverpool career by making the fa cup final and beating arsenal 
-
-    Article: 
-    martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
+<Article>
+martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
 reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
 should liverpool emerge victorious against villa , gerrard will sign off his anfield career in the final which takes place on his birthday of may 30 , before moving to la galaxy .
 martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
@@ -29,15 +24,25 @@ skrtel ( left ) still considers 34-year-old midfield player gerrard one of the b
 skrtel ( left ) believes liverpool have the players to fill gerrard 's void providing they are given the right help
 ` he will be leaving after this season and we have a few players who can replace him .
 we will try to help them and try to work as a team , ' skrtel explained .
-both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march . 
+both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
+martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
+gerrard is aiming to end his liverpool career by making the fa cup final and beating arsenal
+</Summary>
 
-1. Gerrard playing in the FA Cup final: The summary states that Gerrard is set to feature for Liverpool in the FA Cup semi-final against Aston Villa, but the article states that he will sign off his Anfield career in the final, which takes place on his birthday of May 30, before moving to LA Galaxy.
-2. Gerrard's departure: The summary mentions that Gerrard is leaving Liverpool after the FA Cup semi-final, but the article states that he will sign off his Anfield career in the final and then move to LA Galaxy.
-3. Skrtel's quotes: The summary attributes quotes to Skrtel that are not present in the article. Specifically, the summary states that Skrtel said "Liverpool will never be the same" without Gerrard, but this is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations.
+1. The summary states that Martin Skrtel says Steven Gerrard is still one of the best players in the world.
+2. However, the article states that Skrtel believes Liverpool will be a different side without Gerrard, indicating that he will not be one of the best players in the world for Liverpool next season.
+3. Therefore, the summary is not consistent with the article, as it quotes Skrtel as saying that Gerrard is still one of the best players in the world, while the article states that Skrtel believes Liverpool will be different without Gerrard.
+
+Step by step reasoning:
+
+1. The summary states that Martin Skrtel says Steven Gerrard is still one of the best players in the world.
+2. However, the article states that Skrtel believes Liverpool will be a different side without Gerrard, indicating that he will not be one of the best players in the world for Liverpool next season.
+3. Therefore, the summary is not consistent with the article, as it quotes Skrtel as saying that Gerrard is still one of the best players in the world, while the article states that Skrtel believes Liverpool will be different without Gerrard.
 
 ###Corrected:

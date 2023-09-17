@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police investigating the disappearance of a man in county antrim have released cctv footage of a man they want to trace. 
-
-    Article: 
-    Trevor Deely, 22, was last seen walking home from a Christmas party in December 2000.
+<Article>
+Trevor Deely, 22, was last seen walking home from a Christmas party in December 2000.
 A search of a site in Chapelizod in Dublin started early on Saturday morning, Irish national broadcaster, RTÉ reports.
 The area is three acres of Woodlands beside the R112 which runs down to the River Liffey.
 Gardaí said the search will involve excavations and is expected to take a number of weeks.
@@ -16,19 +13,20 @@ It shows Mr Deely talking to a man dressed in black outside the Bank of Ireland 
 It is understood he was returning to get an umbrella after the party.
 Detectives released the footage in April and appealed for the man to come forward.
 They believe he was the same man captured on CCTV following Mr Deely, who was from County Kildare in the Republic of Ireland, a short time later on Haddington Road.
-On Saturday gardaí said the man seen in the CCTV has not yet been identified and they renewed their appeal for him to come forward. 
+On Saturday gardaí said the man seen in the CCTV has not yet been identified and they renewed their appeal for him to come forward.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+police investigating the disappearance of a man in county antrim have released cctv footage of a man they want to trace.
+</Summary>
 
-1. The summary states that police are releasing CCTV footage of a man they want to trace, but the article does not mention any CCTV footage being released.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the man in the CCTV footage has not yet been identified, but the article states that detectives released the enhanced CCTV footage in April and appealed for the man to come forward.
+1. The article is about the disappearance of Trevor Deely in Dublin, Ireland, while the summary is about the disappearance of a man in County Antrim.
+2. The article mentions that the search for Trevor Deely will involve excavations and is expected to take a number of weeks, while the summary does not mention any search or excavations.
+3. The article mentions that the man seen in the CCTV footage has not yet been identified, while the summary does not mention any CCTV footage or appeal for the man to come forward.
+4. The article is about Trevor Deely's disappearance in December 2000, while the summary is about a man's disappearance in County Antrim, which is not mentioned in the article.
 
-3. The summary does not mention anything about a search of a site in Chapelizod, Dublin, or any excavations, but the article states that a search of the site started early on Saturday morning and will involve excavations.
-
-4. The summary does not mention anything about a review of Mr. Deely's disappearance being conducted by a team of six detectives, but the article states that a complete review of Mr. Deely's disappearance began earlier this year.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article, as it does not provide any information about Trevor Deely's disappearance or the search for him, and instead mentions a different location (County Antrim) and a different person.
 
 ###Corrected:

@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million nicholson was shot in the back by officer miguel gutierrez and is in pain but he says he and his friends feel lucky to be alive . 
-seeking justice : jamar nicholson , second from left , listens to his attorney john harris speak during a press conference on wednesday in south los angeles 
-
-    Article: 
-    an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
+<Article>
+an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
 jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
 the la times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
 suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
@@ -37,20 +33,24 @@ nicholson and huerta say they have never been in trouble with the law before .
 ` you can check our records , ' huerta insisted .
 ` that 's a bad way to meet officers , ' nicholson said .
 ` got off on the wrong foot , ' huerta said .
-officer gutierrez has returned to full duty since the incident , though it remains under investigation . 
+officer gutierrez has returned to full duty since the incident , though it remains under investigation .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million nicholson was shot in the back by officer miguel gutierrez and is in pain but he says he and his friends feel lucky to be alive . 
+seeking justice : jamar nicholson , second from left , listens to his attorney john harris speak during a press conference on wednesday in south los angeles
+</Summary>
 
-1. The summary states that Jamar Nicholson and his friend Jason Huerta are suing the city of Los Angeles for $20 million, while the article states that Nicholson is suing the city for $20 million, but it does not mention Huerta as a plaintiff.
-2. The summary states that Nicholson was shot in the back by Officer Miguel Gutierrez, while the article does not mention the location of the shooting.
-3. The summary states that the officers approached the boys with their guns drawn, while the article does not mention this.
-4. The summary states that the officers thought the toy gun was real, while the article states that the officers thought it was a real gun.
-5. The summary states that Nicholson and Huerta were standing next to the teenager who was holding the replica gun, while the article does not mention this.
-6. The summary states that the LAPD shot first and then asked questions later, while the article states that the officers ordered the teenager to drop the weapon multiple times before shooting.
-7. The summary states that the officer who shot Nicholson, Miguel Gutierrez, also shot and killed a dog in 2008, while the article does not mention this.
-8. The summary states that Nicholson and Huerta feel traumatized by what happened to them, while the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations compared to the article. It is not a consistent summary of the article's content.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that Jamar Nicholson was shot in the back by Officer Miguel Gutierrez, while the article states that Nicholson was shot in the back because his friend was holding a toy gun that the officers thought was real.
+2. The summary does not mention that the toy gun had an orange tip indicating that it was fake, while the article highlights this detail.
+3. The summary does not mention that the officers told the teenagers to drop the weapon multiple times before shooting, while the article states that the officers ordered the teenagers to drop the weapon but they ignored the commands.
+4. The summary does not mention that the officer who shot Nicholson had shot and killed a dog in 2008, while the article includes this detail.
+5. The summary does not mention that the teenagers were never in trouble with the law before, while the article includes this detail.
+
+Overall, the summary omits several important details from the article and presents a simplified version of the events that does not accurately reflect the full context of the situation. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

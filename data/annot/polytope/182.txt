@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    A woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant. staff heard the baby girl crying in the ladies'toilet of a burger bar in chengdu, sichuan province. workers who found the baby, who was wrapped in a shirt but was still attached to the umbilical cord and placenta, called the police and ambulance.  
-
-    Article: 
-    a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
+<Article>
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
 staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online .
 workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance .
 a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar
@@ -24,17 +21,24 @@ a worker at the fast food outlet said : ` the mother was in shock herself and wa
 i think she was just traumatised . '
 cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her .
 she was later transferred to the police station where she is facing charges of neglect .
-the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors . 
+the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+A woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant. staff heard the baby girl crying in the ladies'toilet of a burger bar in chengdu, sichuan province. workers who found the baby, who was wrapped in a shirt but was still attached to the umbilical cord and placenta, called the police and ambulance. 
+</Summary>
 
-1. The summary states that the woman was arrested after dumping her newborn baby in a rubbish bin, but the article does not mention anything about the baby being dumped in a rubbish bin. Instead, the article states that the baby was found in the ladies' toilet inside a plastic bag wrapped in a shirt.
-2. The summary mentions that the woman was arrested after being found with blood on her, but the article does not mention anything about the woman having blood on her.
-3. The summary states that the woman refused to look at her baby or talk to police, but the article does not mention anything about the woman refusing to look at or talk to her baby or the police.
-4. The summary mentions that the woman was in a trance, but the article does not mention anything about the woman being in a trance.
-5. The summary states that the woman faces charges of neglect, but the article does not mention anything about the woman facing charges of neglect. Instead, the article states that the woman was arrested and taken to the police station for further investigation.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, such as the baby being dumped in a rubbish bin, the woman having blood on her, and the woman refusing to look at or talk to her baby or the police. Additionally, the summary includes details that are not accurate, such as the woman being in a trance.
+1. The summary states that the woman was arrested after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant.
+2. However, the article states that the baby was found in the ladies' toilet, not in a rubbish bin.
+3. The summary also states that the baby was wrapped in a shirt but was still attached to the umbilical cord and placenta, which is not mentioned in the article.
+4. The article states that the woman, Yuan Yen, was found to have blood on her when she was approached, but the summary does not mention this detail.
+5. The summary states that the woman refused to look at her baby or talk to police, but the article states that she was in a trance and did not speak.
+6. The summary also states that the woman faces charges of neglect, but the article does not mention this.
+7. Finally, the summary does not mention that the baby was declared healthy after being checked over by doctors, which is mentioned in the article.
+
+Therefore, the summary is not consistent with the article, as it contains several inaccuracies and omissions.
 
 ###Corrected:

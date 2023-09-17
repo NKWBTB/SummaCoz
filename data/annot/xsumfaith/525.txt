@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sir nicholas winton, who has died aged 106, has been hailed as a hero of the holocaust. 
-
-    Article: 
-    During the first nine months of 1938, he oversaw the Czech Kindertransport, which brought Jewish children from German-occupied Czechoslovakia to safety in the UK.
+<Article>
+During the first nine months of 1938, he oversaw the Czech Kindertransport, which brought Jewish children from German-occupied Czechoslovakia to safety in the UK.
 He worked tirelessly to ensure money was raised and homes were found for the young refugees.
 Yet, amazingly, his self-effacing manner meant that it was 50 years before the full story of his heroic efforts became public knowledge.
 Nicholas George Winton was born on 19 May 1909 in the well-heeled Hampstead district of north London.
@@ -41,19 +38,19 @@ In October 2014, at the age of 105, he travelled to Prague to receive the Czech 
 In his acceptance speech, he was typically modest: "In a way, I shouldn't have lived so long to give everyone the opportunity to exaggerate things the way they are doing today."
 It was another Nobel Peace Prize recipient, Holocaust survivor Elie Wiesel, who summed up the vital role of those who, like Winton, tried to save Europe's Jewish children from the Nazis:
 "In those times there was darkness everywhere. In Heaven and on Earth, all the gates of compassion seemed to have been closed.
-"The killer killed and the Jews died and the outside world adopted an attitude either of complicity or of indifference. Only a few had the courage to care." 
+"The killer killed and the Jews died and the outside world adopted an attitude either of complicity or of indifference. Only a few had the courage to care."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+sir nicholas winton, who has died aged 106, has been hailed as a hero of the holocaust.
+</Summary>
 
-1. The summary states that Sir Nicholas Winton "has been hailed as a hero of the Holocaust." However, the article does not use the phrase "hero of the Holocaust." Instead, it describes him as a "self-effacing" man who worked tirelessly to rescue Jewish children from Nazi-occupied Czechoslovakia.
-2. The summary mentions that Winton "oversaw the Czech Kindertransport," but the article does not use that phrase. Instead, it states that he "set up an office in a hotel in Prague" to help rescue Jewish children.
-3. The summary states that Winton "worked tirelessly to ensure money was raised and homes were found for the young refugees," but the article does not mention that detail.
-4. The summary states that Winton was "awarded an MBE in 1983 for his work in establishing the Abbeyfield care homes," but the article does not mention that award.
-5. The summary states that Winton was "knighted in recognition of his efforts on the Kindertransport" in 2003, but the article does not mention the date of his knighting or the specific reason for it.
-6. The summary states that Winton "received the Czech Republic's highest military decoration, the Cross of the 1st Class, and was nominated by the Czech government for the 2008 Nobel Peace Prize," but the article does not mention the specific award or the Nobel Peace Prize nomination.
-7. The summary states that Winton "travelled to Prague to receive the Czech Republic's highest honour, the Order of the White Lion, in October 2014," but the article does not mention the specific date or the award.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary exaggerates and embellishes Winton's achievements and contributions, while the article provides a more balanced and factual account of his life and work.
+1. The summary states that Sir Nicholas Winton has been hailed as a hero of the Holocaust, but the article does not mention the Holocaust at all.
+2. The summary does not provide any specific information about Winton's actions or achievements, other than his age and the fact that he has died.
+3. The article, on the other hand, provides detailed information about Winton's efforts to rescue Jewish children from Nazi-occupied Czechoslovakia, including his work with the Czech Kindertransport, his fundraising efforts, and his personal risk in traveling to Prague to help the refugees.
+4. The article also highlights the significance of Winton's actions, noting that his efforts saved the lives of 669 children and that he was recognized for his work with several honors and awards.
+5. Therefore, the summary is not consistent with the article because it does not provide any specific information about Winton's achievements or the significance of his actions, and instead simply states that he has been hailed as a hero of the Holocaust without providing any context or explanation.
 
 ###Corrected:

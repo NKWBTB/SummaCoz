@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    emanuele giaccherini and graziano pelle scored as italy began their euro 2016 campaign with victory over much-fancied belgium in lyon. 
-
-    Article: 
-    Sunderland's Giaccherini slotted home in the first half after collecting Leonardo Bonucci's superb long pass.
+<Article>
+Sunderland's Giaccherini slotted home in the first half after collecting Leonardo Bonucci's superb long pass.
 Southampton's Pelle sealed the win in injury time with an emphatic volley following an incisive break.
 Belgium were very disappointing, with Romelu Lukaku and Divock Origi wasteful in front of goal.
 Everton forward Lukaku curled over from the edge of the box with just the keeper to beat while Liverpool's Origi missed two opportunities to head his side level.
@@ -74,21 +71,21 @@ Foul by Éder (Italy).
 Corner,  Italy. Conceded by Laurent Ciman.
 Attempt blocked. Emanuele Giaccherini (Italy) right footed shot from outside the box is blocked. Assisted by Marco Parolo.
 Substitution, Belgium. Divock Origi replaces Romelu Lukaku.
-Foul by Dries Mertens (Belgium). 
+Foul by Dries Mertens (Belgium).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Emanuele Giaccherini and Graziano Pelle scored for Italy, but the article states that Giaccherini scored after collecting Leonardo Bonucci's long pass and Pelle sealed the win with an emphatic volley.
+<Summary>
+emanuele giaccherini and graziano pelle scored as italy began their euro 2016 campaign with victory over much-fancied belgium in lyon.
+</Summary>
 
-2. The summary does not mention that Italy won the game 2-0, and instead states that Italy began their Euro 2016 campaign with victory over much-fancied Belgium.
+Explain your reasoning step by step:[/INST]
 
-3. The article notes that Italy's triumph was due to superior organization and discipline against 11 Belgian individuals who possess more talent on paper. However, the summary does not mention this aspect of the game.
+1. The summary states that Italy began their Euro 2016 campaign with a victory over Belgium, but the article does not mention anything about Belgium being much-fancied.
+2. The article states that Italy won the game with two goals, but the summary only mentions one goal scored by Emanuele Giaccherini.
+3. The article mentions that Italy's defense was solid and limited Belgium's chances, but the summary does not mention anything about Italy's defense.
+4. The article mentions that Belgium's attack was poor and they failed to create many chances, but the summary does not mention anything about Belgium's attack.
+5. The article quotes Antonio Conte, the Italy coach, as saying that his team demonstrated that they can outclass opponents with organization and discipline, but the summary does not mention anything about organization or discipline.
 
-4. The article notes that Belgium failed to convert their chances, with Romelu Lukaku and Divock Origi wasteful in front of goal. The summary does not mention this.
-
-5. The article notes that Italy coach Antonio Conte praised his team's organization and spirit, while Belgium coach Marc Wilmots lamented his team's lack of cohesion and poor defending. The summary does not mention these quotes.
-
-6. The article notes that Italy face Sweden in Toulouse on Friday, while Belgium take on the Republic of Ireland in Bordeaux on Saturday. The summary does not mention the upcoming fixtures.
-
-Overall, the summary is not consistent with the article because it does not accurately convey the details of the game and focuses more on the final score rather than the performance of the teams.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary only mentions one goal scored by Italy, while the article mentions two goals, and it does not mention anything about Italy's defense or Belgium's poor attack. Additionally, the summary does not include any quotes from the Italy coach, which are included in the article.
 
 ###Corrected:

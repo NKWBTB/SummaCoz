@@ -1,20 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    people will soon be able to watch digital information at next year\'s celtic music festival. 
+<Article>
+Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are."
+</Article>
 
-    Article: 
-    Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are." 
+<Summary>
+people will soon be able to watch digital information at next year\'s celtic music festival.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that people will be able to watch digital information at next year's Celtic music festival.
-2. However, the article does not mention anything about watching digital information. Instead, it talks about an app that will provide access to online material such as videos and band interviews.
-3. The summary is not consistent with the article because it implies that there will be a specific digital content to watch, whereas the article only mentions the app providing access to existing online material.
-4. The article does mention that the app will provide an "augmented reality experience" and that people around the world can interact with the festival, but it does not mention any specific digital content to watch.
-5. Therefore, the summary is not accurate and does not reflect the content of the article.
+2. The article does not mention anything about watching digital information. Instead, it talks about an app that will provide online information, videos, and band interviews.
+3. The word "watch" implies that the information will be presented in a visual format, such as a video or a live stream. However, the article only mentions online material that can be viewed on phones and tablets, not a visual format.
+4. Therefore, the summary is not consistent with the article because it implies that the festival will feature digital information that can be watched, while the article only mentions online material that can be viewed on devices.
 
 ###Corrected:

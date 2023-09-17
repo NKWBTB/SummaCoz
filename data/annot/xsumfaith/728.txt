@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tunisia and morocco\'s differences with the confederation of african football (caf) are in the past, both north african nations say. 
-
-    Article: 
-    Tunisia had faced expulsion from the 2017 Africa Cup of Nations until apologising to Caf for complaints it lodged against the organisation during this year's Nations Cup.
+<Article>
+Tunisia had faced expulsion from the 2017 Africa Cup of Nations until apologising to Caf for complaints it lodged against the organisation during this year's Nations Cup.
 Morocco, meanwhile, were only able to enter the 2017 Nations Cup qualifying draw after the Court of Arbitration for Sport (Cas) overturned a ban on its participation.
 We are preparing for a future full of good things for both Africa and Morocco
 "We are preparing for a future full of good things for both Africa and Morocco," said Moroccan FA chief Fouzi Lekjaa.
@@ -29,16 +26,19 @@ Tunisia's 2017 participation seemed in doubt until a meeting with Caf president 
 "Luckily, with the strong pressure of Issa Hayatou, with whom I had a meeting in Dakar where we discussed our difference, we've managed to turn the page," said Snoussi.
 "We are very happy to be playing the (2017) Nations Cup and I feel this difference has been now completely ironed out."
 Following last week's draw in Cairo, Tunisia will face Togo, Liberia and Djibouti in Group A while Morocco will Cape Verde, Libya and Sao Tome in Group F.
-Should the Tunisians reach the 2017 finals in Gabon, they will reach their thirteenth straight Nations Cup - which would be a record. 
+Should the Tunisians reach the 2017 finals in Gabon, they will reach their thirteenth straight Nations Cup - which would be a record.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given article, it is clear that the summary provided is not consistent with the content of the article. Here's why:
+<Summary>
+tunisia and morocco\'s differences with the confederation of african football (caf) are in the past, both north african nations say.
+</Summary>
 
-1. The summary states that Tunisia and Morocco have put their differences with the Confederation of African Football (CAF) in the past, but the article indicates that both countries have had recent conflicts with CAF.
-2. The summary mentions nothing about the reasons for Morocco's ban from the 2017 Africa Cup of Nations, but the article explains that Morocco was punished for refusing to host the 2015 Nations Cup and for complaining about the referee's decisions.
-3. The summary does not mention the controversial penalty awarded to Equatorial Guinea in the 2015 Nations Cup quarter-final match against Tunisia, which led to Tunisia's row with CAF.
-4. The summary states that Tunisia and Morocco are preparing for a future full of good things, but the article highlights the tensions between the countries and CAF, indicating that the future is uncertain.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the given article, the summary provided is not consistent with the content of the article.
+1. The summary states that Tunisia and Morocco's differences with CAF are in the past, but the article reveals that this is not entirely true.
+2. The article mentions that Tunisia had faced expulsion from the 2017 Africa Cup of Nations until they apologized to CAF for complaints they lodged during the 2015 Nations Cup. This indicates that there were still issues between Tunisia and CAF as of March 2017.
+3. The summary does not mention Morocco's issues with CAF, but the article reveals that Morocco was punished in February 2015 for refusing to host the 2015 Nations Cup and was only allowed to enter the 2017 qualifying draw after a court overturned their ban.
+4. The summary also does not mention the tensions between Tunisia and CAF that led to a contentious penalty in their quarter-final match against Equatorial Guinea, which further strained their relationship.
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the current status of Tunisia and Morocco's relationships with CAF. While both countries have apologized and made amends, there were still outstanding issues between them and CAF as of March 2017.
 
 ###Corrected:

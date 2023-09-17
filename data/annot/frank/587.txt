@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    " going clear : scientology and the prison of belief " premieres in clearwater , florida . scientologist john travolta says he has not seen the documentary . travolta calls scientology " brilliant " and credited the church with helping him survive the death of his teen son . 
+<Article>
+(CNN)Buzz has surrounded HBO's new documentary "Going Clear: Scientology and the Prison of Belief," but Scientologist John Travolta is not a fan. Travolta told the Tampa Bay Times that he has not seen the documentary, "and I don't really care to." "I've been so happy with my (Scientology) experience in the last 40 years that I really don't have anything to say that would shed light on (a documentary) so decidedly negative," Travolta said. The actor, one of the Church of Scientology's most high-profile members along with stars like Tom Cruise and Kirstie Alley, is premiering his new film, "The Forger," in Clearwater, Florida. The HBO documentary is based on the book "Going Clear: Scientology, Hollywood, and the Prison of Belief" by Lawrence Wright and is critical of the organization, which has close ties to the showbiz industry. Travolta said he believed the doc was a result of "people who were disgruntled with their experiences" with the Church of Scientology, which he touted as a positive experience for him. "I haven't experienced anything that the hearsay has (claimed), so why would I communicate something that wasn't true for me?" Travolta asked. "It wouldn't make sense, nor would it for Tom (Cruise), I imagine." He called Scientology "brilliant" and credited the church with helping him to survive the death of his teen son, Jett, after a seizure while the family was on vacation in the Bahamas in 2009. "Oh, my God, I wouldn't have made it," said Travolta, whose wife, Kelly Preston, is also a member. "Honestly."
+</Article>
 
-    Article: 
-    (CNN)Buzz has surrounded HBO's new documentary "Going Clear: Scientology and the Prison of Belief," but Scientologist John Travolta is not a fan. Travolta told the Tampa Bay Times that he has not seen the documentary, "and I don't really care to." "I've been so happy with my (Scientology) experience in the last 40 years that I really don't have anything to say that would shed light on (a documentary) so decidedly negative," Travolta said. The actor, one of the Church of Scientology's most high-profile members along with stars like Tom Cruise and Kirstie Alley, is premiering his new film, "The Forger," in Clearwater, Florida. The HBO documentary is based on the book "Going Clear: Scientology, Hollywood, and the Prison of Belief" by Lawrence Wright and is critical of the organization, which has close ties to the showbiz industry. Travolta said he believed the doc was a result of "people who were disgruntled with their experiences" with the Church of Scientology, which he touted as a positive experience for him. "I haven't experienced anything that the hearsay has (claimed), so why would I communicate something that wasn't true for me?" Travolta asked. "It wouldn't make sense, nor would it for Tom (Cruise), I imagine." He called Scientology "brilliant" and credited the church with helping him to survive the death of his teen son, Jett, after a seizure while the family was on vacation in the Bahamas in 2009. "Oh, my God, I wouldn't have made it," said Travolta, whose wife, Kelly Preston, is also a member. "Honestly." 
+<Summary>
+" going clear : scientology and the prison of belief " premieres in clearwater , florida . scientologist john travolta says he has not seen the documentary . travolta calls scientology " brilliant " and credited the church with helping him survive the death of his teen son .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that John Travolta has not seen the documentary "Going Clear: Scientology and the Prison of Belief," but the article states that he has not seen the documentary and has no intention of doing so.
-2. The summary quotes Travolta as saying that he has been happy with his Scientology experience over the past 40 years, but the article states that he has not experienced anything negative with the church.
-3. The summary states that Travolta calls Scientology "brilliant," but the article does not mention this.
-4. The summary mentions that Travolta credits Scientology with helping him survive the death of his teen son, Jett, but the article does not mention this.
-
-Overall, the summary is not consistent with the article because it includes quotes and information that are not present in the article. It appears that the summary may have been based on other sources or interviews that Travolta has given, rather than the article itself.
+1. The summary states that John Travolta has not seen the documentary "Going Clear: Scientology and the Prison of Belief."
+2. However, the article states that Travolta has been quoted as saying that he has not seen the documentary and has no intention of doing so.
+3. The summary omits the fact that Travolta has been a member of the Church of Scientology for 40 years and has positive experiences with the organization.
+4. The summary also omits the fact that Travolta credits Scientology with helping him survive the death of his teen son, Jett.
+5. Therefore, the summary is not consistent with the article because it does not provide a complete and accurate representation of John Travolta's views on Scientology and the documentary.
+6. The summary is biased towards presenting a negative view of Scientology, which is not supported by the article.
+7. The article provides a balanced view of Travolta's comments on Scientology, while the summary selectively omits certain information to present a one-sided perspective.
 
 ###Corrected:

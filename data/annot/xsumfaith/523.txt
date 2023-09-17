@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    millions of russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side, the bbc\'s oleg boldyrev reports. 
-
-    Article: 
-    At the start of each month Elena, a 40-year-old Muscovite, spreads all the family cash on the table and starts dividing it into small piles.
+<Article>
+At the start of each month Elena, a 40-year-old Muscovite, spreads all the family cash on the table and starts dividing it into small piles.
 "When I do this I shake, I feel nauseous," she says.
 "This goes to one bank, that to another, then the third one… There's one more bank, but we don't have the money for them - I had to go and buy some food. I guess we'll have to put up with their telephone reminders."
 Elena and her husband owe well over 1m roubles (about £10,800; $17,000) to those four banks.
@@ -34,25 +31,18 @@ Besides the mortgage, Vladimir Frolov's parents took out two loans to help him, 
 And now Vladimir has defaulted on the mortgage. The bank is suing and they may well lose their only dwelling.
 "There must be a normal way out - maybe give the bank a fixed share of my wages?" Vladimir wonders. But so far he has not found anyone at the bank to discuss his dilemma.
 "Isn't there a law against this?" asks his father, equally helplessly. "How can they let people borrow so much without checking them first?"
-After the good years many Russians are now getting a harsh lesson in capitalism - and inadequate regulations mean there is nothing to soften the blow. 
+After the good years many Russians are now getting a harsh lesson in capitalism - and inadequate regulations mean there is nothing to soften the blow.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+millions of russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side, the bbc\'s oleg boldyrev reports.
+</Summary>
 
-1. The summary states that millions of Russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side. However, the article does not mention anything about the economic boom years or the law not being on the debtors' side.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that Elena and her husband owe well over 1m roubles to four banks, but the article only mentions that they owe 10,000 roubles to one bank.
-
-3. The summary states that Elena and her husband have been struggling to pay their debts for almost two decades, but the article only mentions that they started borrowing in the mid-1990s to pay for their daughter's medical treatment and took out another loan to pay off the smaller ones.
-
-4. The summary mentions that debtors cannot get much help, but the article states that there are plans to amend the law on insolvency to allow individuals to be declared bankrupt.
-
-5. The summary states that Russia's financial ombudsman Pavel Medvedev says that lenders refuse to restructure personal debts, but the article states that Medvedev says that he has a low success rate in helping debtors.
-
-6. The summary mentions that Vladimir Frolov started borrowing four years ago to help his partner in Ukraine, but the article only mentions that he mortgaged the flat he shares with his elderly parents.
-
-7. The summary states that the bank is suing Vladimir Frolov and his parents may well lose their only dwelling, but the article does not mention anything about the bank suing them.
-
-In conclusion, the summary is not consistent with the article because it exaggerates the amount of debt that Russians owe, misrepresents the duration of their debt struggles, and misstates the current legal situation regarding debt restructuring. Additionally, the summary includes details that are not present in the article, such as the economic boom years and the law not being on the debtors' side.
+1. The summary states that "millions of Russians took out loans during the economic boom years," which is consistent with the article.
+2. However, the summary also states that "the law is not on their side," which is not consistent with the article. The article does not mention anything about the law being against the debtors.
+3. In fact, the article highlights that the debtors have limited options for seeking help and that the banks are not willing to restructure their debts. This suggests that the law is not providing adequate protection for the debtors.
+4. Therefore, the summary is not consistent with the article because it implies that the law is against the debtors, while the article suggests that the law is not providing adequate protection for them.
 
 ###Corrected:

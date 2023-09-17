@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bobbi kristina brown , the daughter of bobby brown and whitney houston , has `` global and irreversible brain damage , '' her grandmother says .
-she told cnn on monday that she remained in the same neurological state she has been in for nearly three months . 
-
-    Article: 
-    ( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
+<Article>
+( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
 though the 25-year-old is no longer in a medically induced coma , she remains unresponsive , cissy houston said in a statement monday after visiting her granddaughter .
 " meeting with the doctors and understanding that she can live in this condition for a lifetime truly saddens me , " houston said .
 " we can only trust in god for a miracle at this time . "
@@ -22,17 +18,33 @@ in a statement monday , an attorney for the brown family said that bobbi kristin
 " however , bobbi kristina is presently embarking on a rehabilitation process , and the quality of her life will not be known for years to come . "
 who 's who in the bobbi kristina brown case ?
 bobby brown was in an " emotional state " on stage when he made the remarks about his daughter being awake , according to the statement .
-" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown . 
+" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+bobbi kristina brown , the daughter of bobby brown and whitney houston , has `` global and irreversible brain damage , '' her grandmother says .
+she told cnn on monday that she remained in the same neurological state she has been in for nearly three months .
+</Summary>
 
-1. The summary states that Bobbi Kristina Brown has "global and irreversible brain damage," while the article states that she has "global and irreversible brain damage, but she is no longer in a medically induced coma."
-2. The summary states that Bobbi Kristina Brown remains in the same neurological state she has been in for nearly three months, while the article states that she has improved but the kind of life she will lead remains to be seen.
-3. The summary does not mention that Bobbi Kristina Brown has a tracheostomy in her throat, which is mentioned in the article.
-4. The summary does not mention that Bobbi Kristina Brown does not respond to visitors or familiar voices, which is mentioned in the article.
-5. The summary states that Bobbi Kristina Brown's father, Bobby Brown, said his daughter's condition had improved, while the article states that Bobby Brown's wife, Alicia Etheredge-Brown, made this statement.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there are several inconsistencies that can be identified:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the current state of Bobbi Kristina Brown's health and the statements made by her family members.
+Step 1: Inconsistency in the summary
+
+The summary states that Bobbi Kristina Brown has "global and irreversible brain damage," which is not supported by the article. The article states that she has made some progress and is no longer in a medically induced coma, but it does not mention any irreversible brain damage.
+
+Step 2: Inconsistency in the grandmother's statement
+
+The summary quotes Cissy Houston, Bobbi Kristina's grandmother, as saying that her granddaughter has "global and irreversible brain damage." However, in the article, Cissy Houston's statement does not mention any irreversible brain damage. Instead, she states that Bobbi Kristina remains unresponsive and has a long rehabilitation ahead of her.
+
+Step 3: Inconsistency in Bobby Brown's statement
+
+The summary quotes Bobby Brown as saying that his daughter is awake and watching him, which is not supported by the article. The article states that Bobby Brown made these comments while in an "emotional state" on stage, and that doctors have indicated that Bobbi Kristina will have a long life but the quality of her life remains uncertain.
+
+Step 4: Inconsistency in the attorney's statement
+
+The summary quotes an attorney for the Brown family as saying that Bobbi Kristina's condition has improved but the quality of her life remains to be seen. However, the article does not mention any improvement in Bobbi Kristina's condition. Instead, it states that she remains unresponsive and has a long rehabilitation ahead of her.
+
+Therefore, based on the inconsistencies identified above, it is clear that the summary is not consistent with the article. The summary exaggerates the severity of Bobbi Kristina's condition and includes statements that are not supported by the article.
 
 ###Corrected:

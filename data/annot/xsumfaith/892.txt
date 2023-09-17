@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new burial site is to be held in oxford city centre, the city council has said in a new burial centre. 
-
-    Article: 
-    Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
+<Article>
+Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
 Two cemeteries still have space, in Wolvercote and Botley, but they are expected to be full by 2018 and 2021.
 The council said it had not given up and was "still exploring options".
 Linda Smith, board member for leisure, parks and sport, said the council has been "searching for a suitable new burial site for many years".
@@ -14,30 +11,19 @@ She added: "But ultimately, as with new housing sites, we have run out of suitab
 "So far all the council-owned sites that we have identified have, following ground investigations and surveys, had to be discounted.
 "Either due to the size of the site, the ground conditions, a high water table or a covenant restricting the use of the site."
 After the two remaining cemeteries are full the council said only the reopening of family plots, the use of a few reserved plots, and the interment of ashes would be possible.
-The last increase in burial space in Oxford was in 1932. 
+The last increase in burial space in Oxford was in 1932.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+a new burial site is to be held in oxford city centre, the city council has said in a new burial centre.
+</Summary>
 
-Step 1: Identify the main points of the summary
-The main points of the summary are:
+Explain your reasoning step by step:[/INST]
 
-* A new burial site is to be held in Oxford city centre.
-* The city council has said this in a new burial centre.
-
-Step 2: Identify the main points of the article
-The main points of the article are:
-
-* Oxford City Council has been searching for a new burial site for many years.
-* Two cemeteries still have space, but they are expected to be full by 2018 and 2021.
-* The council has not given up and is still exploring options.
-* The council has run out of suitable land within Oxford.
-* All council-owned sites that have been identified have been discounted due to various reasons such as size, ground conditions, high water table, or covenant restrictions.
-
-Step 3: Identify the inconsistencies
-The summary states that a new burial site is to be held in Oxford city centre, but the article states that the council has not found a suitable new burial site and has run out of suitable land within Oxford. Therefore, the summary is not consistent with the article.
-
-Step 4: Explain the inconsistencies
-The inconsistency between the summary and the article is due to the fact that the summary implies that a new burial site is being established in Oxford city centre, while the article states that the council has not found a suitable site and has run out of land within Oxford. The article provides reasons why the council has not been able to find a suitable site, such as the size of the site, ground conditions, high water table, or covenant restrictions. Therefore, the summary is not accurate and does not reflect the content of the article.
+1. The article states that the Oxford City Council has been searching for a new burial site for many years, but has not found any suitable sites within the city.
+2. The article mentions that two cemeteries, in Wolvercote and Botley, are still available, but they are expected to be full by 2018 and 2021, respectively.
+3. The council has not given up and is still exploring options, but so far, all council-owned sites that have been identified have been discounted due to various reasons such as size, ground conditions, high water table, or covenant restrictions.
+4. The article does not mention anything about a new burial site in the city centre.
+5. Therefore, the summary statement "a new burial site is to be held in oxford city centre" is not supported by the article and is inconsistent with the information provided.
 
 ###Corrected:

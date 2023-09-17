@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an 18th century coin believed to be worth more than # 1m has been discovered in a norfolk village. 
-
-    Article: 
-    Discovered on land at North Elmham, near Dereham, the circa 600 AD coin was created by French rulers of the time to increase their available currency.
+<Article>
+Discovered on land at North Elmham, near Dereham, the circa 600 AD coin was created by French rulers of the time to increase their available currency.
 Adrian Marsden, finds officer based at Norwich Castle Museum, said the object was probably buried with its owner.
 The pendant was declared treasure by the Norfolk coroner on Wednesday.
 Mr Marsden added: "This is an early copy of a Byzantine gold coin made in France.
@@ -15,16 +12,26 @@ The 23.5mm diameter pendant, created from an imitation of a gold solidus of empe
 "What's interesting is you have somebody in France copying a Byzantine coin which then also followed the trend of turning it into jewellery."
 Mr Marsden said the coin was likely to have come to England as a result of export trade at the time.
 "We see very few of these so it's an interesting find and one that we will hope to acquire for the Norwich Castle Museum collection."
-Other items declared treasure at the coroner's inquest include an early-medieval Carolingian-style silver mount found in Barnham Broom, a hoard of 150 Roman coins discovered in Quidenham and an early-medieval biconical gold bead which would have been worn on high-status necklaces. 
+Other items declared treasure at the coroner's inquest include an early-medieval Carolingian-style silver mount found in Barnham Broom, a hoard of 150 Roman coins discovered in Quidenham and an early-medieval biconical gold bead which would have been worn on high-status necklaces.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+an 18th century coin believed to be worth more than # 1m has been discovered in a norfolk village.
+</Summary>
 
-1. The article states that the coin was created by French rulers in the 600s AD, while the summary states that the coin is from the 18th century. This is a significant inconsistency and indicates that the summary is not consistent with the article.
-2. The article describes the coin as an imitation of a Byzantine gold coin, while the summary makes no mention of this fact. The summary instead states that the coin is worth more than #1m, which is not supported by the article.
-3. The article explains that the coin was likely brought to England through export trade, while the summary makes no mention of this. Instead, the summary implies that the coin was discovered in Norfolk, which is not supported by the article.
-4. The article mentions that the coin is an early copy of a Byzantine gold coin and that the Merovingian rulers created copies of Byzantine coins as there wasn't enough currency coming in from the eastern Roman empire. This is not mentioned in the summary.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article and should not be relied upon as an accurate summary of the content.
+1. The article states that the coin was discovered in Norfolk, while the summary states that the coin is from the 18th century, which is not consistent with the article.
+2. The article describes the coin as being from the 600 AD period, while the summary states that the coin is from the 18th century, which is not consistent with the article.
+3. The article mentions that the coin was created by French rulers, while the summary does not mention this detail.
+4. The article mentions that the coin was likely brought to England through export trade, while the summary does not mention this detail.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. Specifically, the summary:
+
+* Mentions an 18th century coin, while the article states that the coin is from the 600 AD period.
+* Fails to mention the French rulers who created the coin.
+* Fails to mention the likely export of the coin to England.
+
+Overall, the summary is not a reliable representation of the article's content.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than 20 parties have come forward with bids to either recycle four royal navy frigates or turn some of them into artificial reefs, the bbc has learned. 
-
-    Article: 
-    The decommissioned Type 22 frigates HMS Cumberland, HMS Campbeltown, HMS Chatham and HMS Cornwall are currently moored in Portsmouth Harbour.
+<Article>
+The decommissioned Type 22 frigates HMS Cumberland, HMS Campbeltown, HMS Chatham and HMS Cornwall are currently moored in Portsmouth Harbour.
 Bidders had until 23 January to register an interest in the former Devonport-based ships.
 The BBC understands no proposals to preserve the ships have been submitted.
 Those who have registered an interest are finalising their bids with viewings set to take place in late February and March.
@@ -20,17 +17,30 @@ The Ministry of Defence has previously said it will "consider all options" for t
 A spokeswoman would not comment on the number or nature of the bids received due to "commercial sensitivity".
 Originally designed as a specialist anti-submarine ship, the Type 22 frigate evolved into a powerful surface combatant with substantial anti-surface, anti-submarine and anti-aircraft weapons systems.
 They were also known for having excellent command and control, and communication facilities, making them ideal flagships on deployments, with a complement of about 280 crew.
-Last year, the aircraft carrier HMS Ark Royal was sold as scrap for Â£3m. 
+Last year, the aircraft carrier HMS Ark Royal was sold as scrap for Â£3m.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+more than 20 parties have come forward with bids to either recycle four royal navy frigates or turn some of them into artificial reefs, the bbc has learned.
+</Summary>
 
-1. The summary states that more than 20 parties have come forward with bids to either recycle or turn the frigates into artificial reefs. However, the article states that no proposals to preserve the ships have been submitted.
-2. The summary mentions that bidders are finalizing their bids with viewings set to take place in late February and March, but the article states that the bidders have until 23 January to register an interest in the former Devonport-based ships.
-3. The summary mentions that the government's Disposal Services Authority wants to award at least one of the frigates to a UK ship recycler to determine the capacity of the UK's industry in the field. However, the article does not mention this.
-4. The summary quotes Penny Mordaunt, Conservative MP for Portsmouth North, as saying that she is keen to see at least one of the frigates saved from the scrapyard. However, the article does not mention any MPs or their preferences.
-5. The summary mentions that the Ministry of Defence will consider all options for the frigates to ensure best financial return for the taxpayer, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains information that is not present in the article, and therefore it is not consistent with the article.
+1. The article states that "bidders had until 23 January to register an interest in the former Devonport-based ships."
+2. The summary states that "more than 20 parties have come forward with bids."
+
+This is inconsistent because the article states that bidders had until a specific date to register their interest, but the summary states that more than 20 parties have already come forward with bids. This implies that the deadline for bidding has passed, but the article does not mention this.
+
+1. The article states that "no proposals to preserve the ships have been submitted."
+2. The summary does not mention anything about preserving the ships.
+
+This is inconsistent because the article mentions that no proposals to preserve the ships have been submitted, but the summary does not mention anything about preserving the ships. This suggests that the summary is not accurately summarizing the information in the article.
+
+1. The article states that "a final decision is not expected until the spring."
+2. The summary does not mention anything about when a final decision is expected.
+
+This is inconsistent because the article provides information about when a final decision is expected, but the summary does not include this information. This suggests that the summary is not providing a complete summary of the information in the article.
+
+Overall, the summary is not consistent with the article because it does not accurately summarize the information in the article. It does not mention the deadline for bidding, it does not mention the fact that no proposals to preserve the ships have been submitted, and it does not provide information about when a final decision is expected.
 
 ###Corrected:

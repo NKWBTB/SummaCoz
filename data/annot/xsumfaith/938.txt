@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    construction work has started on a new # [UNK] power station in brighton, which would create a new power station in brighton. 
-
-    Article: 
-    It would make the disused Fawley power station chimney the tallest such attraction south of London's Shard.
+<Article>
+It would make the disused Fawley power station chimney the tallest such attraction south of London's Shard.
 Developers Fawley Waterside said it would be the centrepiece of a "merchant city" development.
 The power station closed in 2013 after more than 40 years in operation.
 Architects plans show a petal-shaped glass structure at the centre of a Â£1bn development featuring a marina, housing and restaurants.
@@ -21,19 +18,25 @@ Commissioned on the western shore of Southampton Water
 2,000 megawatt oil-fired power station fuelled by nearby Esso refinery
 198 metre-high chimney dominates the Solent sykline
 1,100  miles of cable were laid within the power station
-One million homes were powered by Fawley 
+One million homes were powered by Fawley
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+construction work has started on a new # [UNK] power station in brighton, which would create a new power station in brighton.
+</Summary>
 
-1. The summary states that construction has started on a new power station in Brighton, but the article does not mention anything about a new power station in Brighton. Instead, the article is about the redevelopment of the disused Fawley power station in Southampton.
-2. The summary mentions that the power station will create a new power station in Brighton, but this is not accurate. The article states that the power station is located on the western side of Southampton Water, not in Brighton.
-3. The summary does not mention anything about the Fawley power station chimney being the centrepiece of a "merchant city" development, as stated in the article.
-4. The summary does not mention the architectural plans for the redevelopment of the Fawley power station, including the petal-shaped glass structure and the marina, housing, and restaurants.
-5. The summary does not mention the fast ferry links to Southampton and Portsmouth, which are mentioned in the article.
-6. The summary does not mention the year the power station closed, which is mentioned in the article (2013).
-7. The summary does not mention the capacity of the power station, which is mentioned in the article (2013).
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately describe the redevelopment of the Fawley power station. The summary contains several inaccuracies and omissions compared to the information provided in the article.
+1. The summary states that construction work has started on a new power station in Brighton.
+2. However, the article does not mention anything about Brighton. Instead, it talks about Fawley Power Station in Southampton.
+3. The article states that the power station closed in 2013 and that the site was sold to developers in 2016.
+4. The article also mentions that the developers plan to turn the site into a "merchant city" with a marina, housing, and restaurants, but there is no mention of a new power station being built.
+5. Therefore, the summary is not consistent with the article because it mentions a new power station in Brighton, while the article only talks about Fawley Power Station in Southampton.
+
+Reasoning step by step:
+
+1. The summary mentions a new power station in Brighton, which is not mentioned in the article.
+2. The article only talks about Fawley Power Station in Southampton.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

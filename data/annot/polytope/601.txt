@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    UNK direct line is running a competition called # UNK .
-the products were designed as part of the direct line everyday fix design UNK .
-the products were designed as part of the direct line everyday fix design UNK . 
-
-    Article: 
-    have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
+<Article>
+have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
 to deal with these sorts of everyday emergencies , one company has designed a range of prototype products .
 you can vote on which one is your favourite - and the winner will be made into an actual product , funded through a kickstarter campaign .
 leeds-based direct line is running a competition called #everydayfix .
@@ -52,18 +47,24 @@ and as another solution to your phone running out of battery , one team designed
 products that did n't make the final shortlist included the parking pin , shown .
 you could leave this in a parking space , and it will alert you when the space is free , so you can park your car
 the relay app , shown , would let you nominate people to receive your messages when your phone dies
-and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you 
+and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+UNK direct line is running a competition called # UNK .
+the products were designed as part of the direct line everyday fix design UNK .
+the products were designed as part of the direct line everyday fix design UNK .
+</Summary>
 
-1. The summary mentions UNK direct line running a competition called #UNK, but there is no mention of such a competition in the article.
-2. The summary states that the products were designed as part of the direct line everyday fix design UNK, but the article does not mention any such design.
-3. The summary mentions a product called "Snooze" which is not mentioned in the article.
-4. The summary mentions a product called "Nipper" which is mentioned in the article, but the description is not accurate. The article describes Nipper as the world's smallest mobile phone charger, but the summary describes it as a device to help people who run out of battery while they are out and about.
-5. The summary mentions a product called "Forget Me Lock" which is mentioned in the article, but the description is not accurate. The article describes it as a device to reassure you that you have locked the front door, but the summary describes it as a device to show whether the door is open or locked.
-6. The summary mentions a product called "Hat Nav" which is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article as it mentions products and a competition that are not mentioned in the article, and describes the products inaccurately.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent language: The summary uses the phrase "UNK direct line" instead of "Direct Line," which is the correct name of the company mentioned in the article. This inconsistency suggests that the summary was not written based on the same information as the article.
+2. Incorrect information: The summary mentions a competition called "#UNK," but there is no mention of such a competition in the article. The article only mentions a competition called "#everydayfix" and provides details about it.
+3. Lack of specific details: The summary does not provide any specific details about the products designed by the groups, whereas the article provides detailed descriptions of the products and their functions.
+4. Incorrect emphasis: The summary emphasizes the "UNK" competition, which is not the main focus of the article. The article focuses on the products designed to solve everyday emergencies and the competition held to select the best product.
+
+Based on these inconsistencies, it is clear that the summary was not written based on the same information as the article. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

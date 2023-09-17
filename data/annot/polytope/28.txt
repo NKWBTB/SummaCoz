@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    haneda airport in tokyo , japan : £ 4,559 ( $ 6,850 ) 
-narita international airport in tokyo , japan : £ 3,728 ( $ 5,600 ) 
-kansai international airport in osaka , japan : £ 3,594 ( $ 5,400 ) 
-
-    Article: 
-    it is a problem the average traveller does n't often have to deal with .
+<Article>
+it is a problem the average traveller does n't often have to deal with .
 but for those lucky few who travel the world by private jet , the landing fees charged at airports can differ dramatically , with some surprising hubs asking for the highest fees .
 the high landings fees give an insight into some of the most unexpectedly popular transport hubs for the rich and famous , from salzburg , in austria , to darwin , in australia .
 owning a private jet is a luxury only afford to the wealthy , and you 'll need to be to continually fork out for landing charges which can reach thousands every time
@@ -40,16 +35,38 @@ tokyo 's narita international airprot comes second , charging £ 3,728 ( $ 5,600
 number eight on the list of the most expensive airport landing fees is dublin airport at £ 2,729
 somewhat surprisingly , the uk 's bristol airport makes it into the top 10 as the only british airport featured , charging £ 2,929 ( $ 4,400 ) per private jet landing , just behind toronto in canada and darwin , australia .
 the only us airport to make it into the top 10 is laguardia , in new york , which charges $ 3,950 ( £ 2,630 ) for private jets arriving in the city .
-other unexpected appearances in the top 10 also include dublin airport , in eighth place and salzburg , in austria , in 10th . 
+other unexpected appearances in the top 10 also include dublin airport , in eighth place and salzburg , in austria , in 10th .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+haneda airport in tokyo , japan : £ 4,559 ( $ 6,850 ) 
+narita international airport in tokyo , japan : £ 3,728 ( $ 5,600 ) 
+kansai international airport in osaka , japan : £ 3,594 ( $ 5,400 )
+</Summary>
 
-1. The summary mentions that Haneda Airport in Tokyo, Japan has the highest landing fees at £4,559 ($6,850), while the article states that the fees are £3,728 ($5,600) for Narita International Airport in Tokyo, Japan.
-2. The summary states that the three most expensive airports for landing fees are in Japan, but the article does not support this claim. The article mentions that the fees are highest at Haneda Airport, but also states that Narita International Airport and Kansai International Airport in Osaka, Japan have high fees as well.
-3. The summary mentions that Dublin Airport in Ireland is the eighth most expensive airport for landing fees, but the article does not include Dublin Airport in the list of the top 10 most expensive airports.
-4. The summary states that Salzburg Airport in Austria is the tenth most expensive airport for landing fees, but the article does not include Salzburg Airport in the list of the top 10 most expensive airports.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. The article provides more detailed information about the landing fees at different airports and does not support the claim that the three most expensive airports are in Japan.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only lists three airports, while the article provides a list of 10 airports with the highest landing fees.
+2. The summary only includes airports in Japan, while the article includes airports from different countries.
+3. The summary does not provide the correct landing fees for the airports listed. For example, Haneda Airport's landing fee is £4,559, not £6,850 as stated in the summary.
+
+To fix the summary, it should include all the airports listed in the article, provide the correct landing fees for each airport, and include airports from different countries. Here's an updated summary that is consistent with the article:
+
+"According to the article, the most expensive airports for landing fees are:
+
+1. Haneda Airport in Tokyo, Japan: £4,559 ($6,850)
+2. Narita International Airport in Tokyo, Japan: £3,728 ($5,600)
+3. Kansai International Airport in Osaka, Japan: £3,594 ($5,400)
+4. Dublin Airport in Dublin, Ireland: £2,729 ($4,100)
+5. La Guardia Airport in New York, USA: £2,630 ($3,950)
+6. Salzburg Airport in Salzburg, Austria: £2,530 ($3,800)
+7. Toronto Pearson International Airport in Toronto, Canada: £2,461 ($3,600)
+8. Bristol Airport in Bristol, England: £2,929 ($4,400)
+9. Chūbu Centrair International Airport in Nagoya, Japan: £2,863 ($4,300)
+10. Dubai International Airport in Dubai, UAE: £2,729 ($4,100)
+
+These airports charge significantly higher landing fees than other airports, making them some of the most expensive in the world."
 
 ###Corrected:

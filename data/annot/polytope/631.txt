@@ -1,26 +1,34 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    french customs officers seized more than 2 tons of cocaine aboard a sailboat .
-the drugs , whose value is estimated at $ 105 million , are the biggest cocaine seizure ever carried out by french authorities . 
-
-    Article: 
-    ( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
+<Article>
+( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
 the drugs , whose value is estimated at more than $ 105 million , are the biggest cocaine seizure ever carried out by french authorities , said michael lachaux , director of customs operations in martinique .
 officers arrested one venezuelan and two spanish citizens who were on board the vessel off the coast of martinique on wednesday , lachaux said in an interview with the radio station france info on saturday .
 martinique is an overseas department of france .
-in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities . 
+in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+french customs officers seized more than 2 tons of cocaine aboard a sailboat .
+the drugs , whose value is estimated at $ 105 million , are the biggest cocaine seizure ever carried out by french authorities .
+</Summary>
 
-1. The summary states that the drugs are worth $105 million, while the article states that the drugs are worth "more than $105 million". This discrepancy suggests that the summary is not consistent with the article.
-2. The summary states that the seizure was carried out by French authorities, which is correct. However, the article states that the seizure was carried out by French customs officers, which is a specific subset of French authorities. This difference in wording suggests that the summary is not consistent with the article.
-3. The summary states that the sailboat was flying an American flag, which is not mentioned in the article. This omission suggests that the summary is not consistent with the article.
-4. The summary states that one Venezuelan and two Spanish citizens were arrested, which is correct. However, the article only mentions that one Venezuelan citizen was arrested, and does not mention the nationality of the other two individuals. This difference in wording suggests that the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. Specifically, the summary overestimates the value of the drugs, misstates the entity that carried out the seizure, and fails to mention the nationality of two of the individuals arrested.
+1. The article states that the French customs officers seized "more than 2 tons of cocaine" aboard a sailboat, while the summary states that the seizure was "more than 2 tons."
+
+Reasoning: The article provides a specific quantity of cocaine seized (2 tons), while the summary only provides a range (more than 2 tons).
+
+2. The article estimates the value of the seized drugs to be "more than $105 million," while the summary states that the value is "estimated at $105 million."
+
+Reasoning: The article provides a more precise estimate of the value, using the phrase "more than," while the summary uses the phrase "estimated at," which implies a less precise estimate.
+
+3. The article mentions that this is the "biggest cocaine seizure ever carried out by French authorities," while the summary does not include this information.
+
+Reasoning: The article provides additional information that is not included in the summary, which makes the summary inconsistent with the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the specific quantity of cocaine seized, the estimated value of the drugs, and the significance of the seizure.
 
 ###Corrected:

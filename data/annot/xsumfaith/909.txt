@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nico rosberg beat mercedes team-mate lewis hamilton in the first practice session for the first formula 1 race of the season. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 World champion Hamilton started from the back, suffered a broken front wing on lap one and did five pit stops.
 The Briton faces the prospect of trying to overhaul a 36-point deficit in the remaining 18 races of the season.
 Ferrari's Sebastian Vettel came second despite colliding with team-mate Kimi Raikkonen on the first lap.
@@ -33,16 +30,23 @@ He began his fightback from there, with the Ferraris doing the same - Vettel sta
 Mercedes F1 boss Toto Wolff said the front wing had damaged the leading edge of the floor and the barge boards when it came off and that the car had lost a "lot of aerodynamic performance".
 After a further switch to the medium compound tyres to last the race, Hamilton was not able to recover as much ground as the Ferraris and faces an uphill battle if he is to stop Rosberg winning his first world title this year.
 Chinese Grand Prix race results
-Chinese Grand Prix coverage details 
+Chinese Grand Prix coverage details
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+nico rosberg beat mercedes team-mate lewis hamilton in the first practice session for the first formula 1 race of the season.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+The given summary is not consistent with the article because it does not accurately reflect the events of the race. Here's why:
 
 1. The summary states that Nico Rosberg beat Mercedes teammate Lewis Hamilton in the first practice session, but the article does not mention any practice sessions.
-2. The summary states that Lewis Hamilton started from the back and did five pit stops, but the article states that Hamilton started from third and did three pit stops.
-3. The summary states that Sebastian Vettel came second, but the article states that Vettel came third.
-4. The summary mentions that Hamilton's progress was affected by damage to the car, but the article does not mention any damage to Hamilton's car.
+2. The article describes the race as being shaped by an incident-packed opening, with several collisions on the first lap leading to the introduction of the safety car. The summary does not mention any of these incidents.
+3. The article states that Hamilton started from the back of the grid, suffered a broken front wing on lap one, and did five pit stops. The summary does not mention any of these details.
+4. The article mentions that Ferrari's Sebastian Vettel came second despite colliding with teammate Kimi Raikkonen on the first lap, and that Raikkonen fought back to fifth behind the Red Bulls. The summary does not mention Vettel or Raikkonen's performances.
+5. The article states that Hamilton will express confidence in being able to erode Rosberg's points lead, but the summary does not mention anything about points or the championship.
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. For example, Hamilton did not start from the back, he did not do five pit stops, and there is no mention of any damage to his car. Additionally, the summary states that Rosberg won the race, but the article states that Ricciardo led the race before being overtaken by Rosberg.
+Overall, the summary does not accurately reflect the events of the race described in the article. It is not consistent with the article and does not provide a correct summary of the Chinese Grand Prix.
 
 ###Corrected:

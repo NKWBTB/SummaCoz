@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s laura muir has become the first british woman to win a world record for the fastest time in her career. 
-
-    Article: 
-    The 23-year-old from Kinross finished second behind Kenyan Faith Kipyegon in four minutes, 19.12 seconds.
+<Article>
+The 23-year-old from Kinross finished second behind Kenyan Faith Kipyegon in four minutes, 19.12 seconds.
 That erased Yvonne Murray's 1994 effort of 4:22.60 in the Scottish rankings and moved her second on the British all-time list behind Zola Budd's 4:17.57.
 The new record holder said: "I am really pleased to get that Scottish record. It means a lot to me."
 Muir, who finished fifth in last year's World Championships, now holds the Scottish 1500m and mile records.
@@ -15,17 +12,19 @@ Muir, who finished fifth in last year's World Championships, now holds the Scott
 Murray's husband, Tom Mooney, said on Facebook: "Yvonne says: 'Well done to you, Laura."
 Muir hopes to secure an Olympics place for Great Britain in Rio at the British trials in Birmingham from 24 to 26 June.
 The Scot started her season with an 800m victory in Montbeliard, France, last week and next competes in a week's time in a 1500m race in Stockholm.
-"Training's been going really, so I was expecting to run a good race," added Muir, who fits her training around her veterinary studies. She recently completed her fourth year of vet school. 
+"Training's been going really, so I was expecting to run a good race," added Muir, who fits her training around her veterinary studies. She recently completed her fourth year of vet school.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+britain\'s laura muir has become the first british woman to win a world record for the fastest time in her career.
+</Summary>
 
-1. The summary states that Laura Muir won a world record, but the article does not mention any world records being set.
-2. The summary states that Muir finished first, but the article states that she finished second behind Kenyan Faith Kipyegon.
-3. The summary states that Muir set a Scottish record, but the article only mentions that she set a personal best and moved up to second on the British all-time list.
-4. The summary states that Muir holds the Scottish 1500m and mile records, but the article only mentions that she holds the Scottish 1500m record.
-5. The summary states that Muir hopes to secure an Olympics place for Great Britain in Rio, but the article does not mention anything about the Olympics or Rio.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+1. The summary states that Laura Muir has become the first British woman to win a world record for the fastest time in her career.
+2. However, the article does not mention anything about a world record. Instead, it states that Muir set a Scottish record and moved up to second on the British all-time list.
+3. Therefore, the summary is not consistent with the article, as there is no mention of a world record in the article.
+4. The summary is an exaggeration or misstatement of the information in the article, as the article does not support the claim that Muir set a world record.
+5. The summary is not accurate, as it misrepresents the information in the article and does not accurately reflect what the article states.
 
 ###Corrected:

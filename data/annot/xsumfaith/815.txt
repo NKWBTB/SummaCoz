@@ -1,30 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s storey storey retained her olympic 100m title with victory at the track cycling world championships in london. 
-
-    Article: 
-    The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.
+<Article>
+The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.
 Storey can win a 17th title when she rides in Saturday's road race.
 "It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.
 Storey is Britain's most decorated female Paralympian with 22 medals.
 She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.
 She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.
-Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005. 
+Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The article states that Storey won the Olympic 100m title, but the summary states that she retained her Olympic title, which is incorrect since there is no Olympic 100m event.
+<Summary>
+britain\'s storey storey retained her olympic 100m title with victory at the track cycling world championships in london.
+</Summary>
 
-2. The article states that the event took place in Nottwil, Switzerland, but the summary states that it took place in London, which is incorrect.
+Explain your reasoning step by step:[/INST]
 
-3. The article states that Storey won the event by more than two minutes, but the summary does not mention the margin of victory.
+1. The article states that the event was held in Nottwil, Switzerland, but the summary states that the event was held in London. This is a clear inconsistency.
+2. The article mentions that Storey won the 100m title, but the summary does not mention the distance.
+3. The article states that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the summary does not mention anything about Rio or the Paralympics.
+4. The article provides specific information about Storey's medals and titles, including her 22 medals and 11 golds, but the summary does not include any of this information.
 
-4. The article states that Storey will compete in the road race on Saturday, but the summary does not mention this.
-
-5. The article provides information about Storey's past achievements and her target to win further Paralympic success, but the summary does not include this information.
-
-Therefore, the summary is not consistent with the article because it contains several inaccuracies and omissions.
+Overall, the summary is not consistent with the article because it does not accurately reflect the details of Storey's victory, including the location of the event, the distance she won, and her future goals.
 
 ###Corrected:

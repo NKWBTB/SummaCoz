@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hull city missed the chance to go top of the premier league as they were held to a goalless draw by southampton. 
-
-    Article: 
-    Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
+<Article>
+Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
 The hosts also lost starting strikers Abel Hernandez and Will Keane to first-half injuries to compound the frustration of their fans, but the mood inside the KCOM Stadium was transformed in the space of two second-half minutes.
 First, Snodgrass - introduced from the bench for the stricken Keane - swept home his fourth league goal of the season from Sam Clucas' low cross before the Scotland international delivered an inviting free-kick that Michael Dawson headed past Fraser Forster.
 Southampton pushed for an equaliser but David Marshall made a string of saves in the Hull goal before Clucas produced a remarkable goalline clearance from a corner in the final minute of added time.
@@ -72,17 +69,20 @@ Substitution, Hull City. Tom Huddlestone replaces Harry Maguire.
 Foul by Sofiane Boufal (Southampton).
 Ryan Mason (Hull City) wins a free kick in the attacking half.
 Ryan Bertrand (Southampton) is shown the yellow card.
-Corner,  Southampton. Conceded by Curtis Davies. 
+Corner,  Southampton. Conceded by Curtis Davies.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+hull city missed the chance to go top of the premier league as they were held to a goalless draw by southampton.
+</Summary>
 
-1. The summary states that Hull City missed the chance to go top of the Premier League, but the article states that they ended a six-game losing streak with the win. This implies that Hull City was not in a position to go top of the league before the match, which contradicts the summary.
-2. The summary mentions that Hull City lost two strikers to injuries, but the article does not mention this. The article only mentions that one striker, Will Keane, was injured and had to be replaced by Snodgrass.
-3. The summary states that Snodgrass returned to the pitch after Keane's injury, but the article does not mention this. The article only states that Snodgrass was introduced from the bench for the stricken Keane.
-4. The summary states that Snodgrass' entrance from the bench did not appear to be asking too much of the Tigers' top scorer, but the article states that his tireless running lifted not only the fans but his team-mates. This implies that Snodgrass had a significant impact on the game, which contradicts the summary.
-5. The summary states that Southampton celebrated one of the most famous wins in their history, but the article does not mention this. The article only states that Southampton pushed for an equaliser but were unable to find one.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations that do not accurately reflect the events of the match.
+1. The summary states that Hull City missed the chance to go top of the Premier League, but the article does not mention anything about Hull City being in a position to go top. In fact, the article states that Hull City were in the bottom three heading into the international break.
+2. The summary mentions a goalless draw between Hull City and Southampton, but the article states that Hull City won the match 2-1.
+3. The summary does not mention the names of any players or their performances, while the article provides details about the goalscorers and their contributions to the match.
+
+Therefore, the given summary is not a consistent representation of the article's content. It appears to be a brief and inaccurate summary of the match, rather than a summary of the article's specific content.
 
 ###Corrected:

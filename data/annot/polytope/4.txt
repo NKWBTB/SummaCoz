@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    then : victoria beckham ( pictured in 2004 ) popularised wearing corsets and lingerie as outerwear in the noughties 
-not very posh : victoria beckham sported tight corset structured dresses to events such as the mtv movie awards in 2007 ( pictured left ) and the victoria 's secret fashion show in 2007 ( pictured right ) 
-now : selena gomez works a sultry look to an awards ceremony with a corset-based gown characterised by loose , baggy legs which nip in at the ankle , these middle eastern style trousers are a hard to wear shape for anyone with 
-
-    Article: 
-    nineties style is hot right now .
+<Article>
+nineties style is hot right now .
 chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
 but news that jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback has horrified many of the people who wore the ridiculous pants the first time around .
 the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that really should be left in the past .
@@ -55,17 +50,21 @@ characterised by loose , baggy legs which nip in at the ankle , these middle eas
 before she discovered pencil skirts reality star kim kardashian , now 34 , was a huge fan of the voluminous pants .
 today they are still sported by supermodel legs like 51-year-old elle macpherson .
 then : reality star kim kardashian previously championed the wearing of harem trousers back in 2009
-now : supermodel elle macpherson steps out in a pair of leopard print harem trousers 
+now : supermodel elle macpherson steps out in a pair of leopard print harem trousers
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+then : victoria beckham ( pictured in 2004 ) popularised wearing corsets and lingerie as outerwear in the noughties 
+not very posh : victoria beckham sported tight corset structured dresses to events such as the mtv movie awards in 2007 ( pictured left ) and the victoria 's secret fashion show in 2007 ( pictured right ) 
+now : selena gomez works a sultry look to an awards ceremony with a corset-based gown characterised by loose , baggy legs which nip in at the ankle , these middle eastern style trousers are a hard to wear shape for anyone with
+</Summary>
 
-1. Corsets: The summary states that Victoria Beckham popularized wearing corsets and lingerie as outerwear in the noughties, but the article does not mention this. Instead, it mentions that she sported tight corset-structured dresses to events like the MTV Movie Awards and Victoria's Secret Fashion Show.
-2. Harem Pants: The summary states that Kim Kardashian previously championed the wearing of harem trousers back in 2009, but the article does not mention this. Instead, it mentions that supermodel Elle Macpherson is still sporting the trousers today.
-3. Selena Gomez: The summary states that Selena Gomez works a sultry look to an awards ceremony with a corset-based gown characterized by loose, baggy legs, but the article does not mention this. Instead, it mentions that she is incorporating corsets into dresses and tops to add edge to her red carpet wear.
-4. Camouflage Print: The summary states that camouflage print manages to seep into our wardrobes, but the article does not mention this. Instead, it mentions that celebrity fashion offenders like Kylie Jenner are wearing double denim.
-5. Bucket Hats: The summary states that the bucket hat is a hard-to-wear shape for anyone with any kind of curves, but the article does not mention this. Instead, it mentions that the trend was favored by noughties bands like Beyoncé's former band and is still being worn by young stars like Selena Gomez.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates or misrepresents some of the trends mentioned in the article. For example, the summary states that Victoria Beckham popularized wearing corsets and lingerie as outerwear, but the article only mentions that she wore tight corset-structured dresses to events. Similarly, the summary states that Kim Kardashian previously championed harem trousers, but the article only mentions that Elle Macpherson is still sporting the trousers today.
+1. The summary states that Victoria Beckham popularized wearing corsets and lingerie as outerwear in the noughties, but the article does not mention this.
+2. The summary also states that Selena Gomez works a sultry look to an awards ceremony with a corset-based gown, but the article does not mention this.
+3. The summary mentions that harem trousers are a hard-to-wear shape for anyone with curves, but the article does not mention this.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article. The summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    byron williams scored a late winner as barrow came from behind to beat 10-man barrow in the national league. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Eighth-tier Taunton were playing their ninth game in this season's competition and were the lowest-ranked side left after Westfields' exit on Monday.
 Centre-half Ed Palmer drew them level with a superb free-kick in the 73rd minute, cancelling out a fine 48th-minute opener by Barrow winger Williams.
 But the hosts went back in front within two minutes when a Ryan Yates cross appeared to be deflected into his own net by Josh Searle, and that was enough to send the National League side into the second round for the first time since 2012/13.
@@ -55,16 +52,25 @@ Foul by Shane White (Taunton Town).
 Shaun Beeley (Barrow) wins a free kick in the attacking half.
 Foul by Matthew Wright (Taunton Town).
 Substitution, Taunton Town. Craig Veal replaces Jordan Rogers.
-Corner,  Barrow. Conceded by Lloyd Irish. 
+Corner,  Barrow. Conceded by Lloyd Irish.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+byron williams scored a late winner as barrow came from behind to beat 10-man barrow in the national league.
+</Summary>
 
-1. The summary states that Byron Williams scored a late winner for Barrow, but the article does not mention anything about a goal from Byron Williams.
-2. The summary mentions that Taunton Town came from behind to beat Barrow, but the article states that Barrow won the match 2-1.
-3. The summary mentions a goal from Ed Palmer for Taunton Town, but the article does not mention any goals from Ed Palmer.
-4. The summary mentions a yellow card for Owen Irish, but the article does not mention any yellow cards for Owen Irish.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, and omits other important details that are mentioned in the article. It appears that the summary was written based on incomplete or inaccurate information.
+1. The summary states that Byron Williams scored a late winner for Barrow, but the article does not mention any player named Byron Williams.
+2. The article mentions that Jordan Williams scored a fine 48th-minute opener for Barrow, but the summary does not mention this.
+3. The summary states that Barrow came from behind to beat 10-man Taunton Town, but the article does not mention that Taunton Town had a man sent off.
+4. The article mentions that Taunton Town frustrated Barrow in the first half, but the summary does not mention this.
+5. The article mentions that Barrow defenders Nick Anderton and Danny Livesey both had headers cleared off the line in quick succession, but the summary does not mention this.
+6. The summary states that Williams then fired wide, but the article does not mention this.
+7. The summary states that Palmer stunned the home crowd by curling a 20-yard free-kick into the top corner, but the article does not mention this.
+8. The summary states that Barrow soon restored their lead, but the article does not mention this.
+9. The summary states that keeper Lloyd Irish prevented Ross Hannah, Richie Bennett and Williams making the victory more emphatic, but the article does not mention this.
+
+Conclusion: The summary is not consistent with the article because it contains several inaccuracies and omissions. The summary should be corrected to accurately reflect the content of the article.
 
 ###Corrected:

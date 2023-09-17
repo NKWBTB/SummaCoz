@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    alexis sanchez scored twice as title-chasing arsenal beat relegation-threatened hull in controversial circumstances in the premier league. 
-
-    Article: 
-    The hosts had been on top when the ball came off forward Sanchez's hand and ended up in the net on 34 minutes. He added a penalty in injury-time which was awarded after Sam Clucas was sent off for handball from Lucas Perez's header.
+<Article>
+The hosts had been on top when the ball came off forward Sanchez's hand and ended up in the net on 34 minutes. He added a penalty in injury-time which was awarded after Sam Clucas was sent off for handball from Lucas Perez's header.
 In between, Hector Bellerin and Sanchez both failed to hit the target and Mesut Ozil volleyed over the crossbar for Arsenal.
 Striker Oumar Niasse had Hull's best chances - his header and low strike forced Petr Cech into sharp saves - while Adama Diomande nodded over late on.
 Arsenal had been pressing for the opener before Sanchez's intervention.
@@ -78,15 +75,20 @@ Attempt missed. Shkodran Mustafi (Arsenal) header from the centre of the box is 
 Corner,  Arsenal. Conceded by Ahmed Elmohamady.
 Alexis Sánchez (Arsenal) wins a free kick in the defensive half.
 Foul by Ahmed Elmohamady (Hull City).
-Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul. 
+Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Alexis Sanchez scored twice, but the article states that he only scored one goal, and that it was not a deliberate handball.
-2. The summary states that the second goal was awarded after a handball by Sam Clucas, but the article states that Clucas was sent off for handball, not that he committed a handball leading to a goal.
-3. The summary states that Arsenal won the game 2-0, but the article states that Hull City had a number of chances and that the game was a close contest.
-4. The summary does not mention the controversy surrounding the second goal, while the article devotes significant space to discussing the referee's decisions and the impact they had on the game.
-5. The summary does not provide any context or background information about the game, while the article includes details about the teams' previous results and their current standings in the league.
+<Summary>
+alexis sanchez scored twice as title-chasing arsenal beat relegation-threatened hull in controversial circumstances in the premier league.
+</Summary>
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the events of the game or the context in which they occurred. The article provides a more detailed and nuanced account of the match, while the summary is brief and misleading.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that Alexis Sanchez scored twice for Arsenal in their Premier League match against Hull City.
+2. However, the article does not mention Sanchez scoring twice. In fact, it only mentions one goal scored by Sanchez, which was a penalty.
+3. The article states that Hull City were awarded a penalty after Sam Clucas was sent off for handball, but the summary does not mention this.
+4. The summary also does not mention the controversy surrounding the second goal, which was scored by Sanchez, and the fact that Clucas was sent off for handball.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the events of the match. Specifically, it does not mention the controversial circumstances surrounding Sanchez's second goal, and it does not accurately reflect the number of goals scored by Sanchez.
 
 ###Corrected:

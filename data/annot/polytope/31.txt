@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    starbucks says a sales register computer glitch has disrupted sales at company-operated stores in the us and canada 
-a nationwide shutdown of starbucks ' computer system friday evening prompted baristas to give away free coffee 
-excited twitter users spread the word about the giveaway , sharing photos of the free-of-charge drinks  
-
-    Article: 
-    it was good while it lasted .
+<Article>
+it was good while it lasted .
 starbucks announced late friday night that a computer outage that affected registers at 8,000 stores in the us and canada , prompting baristas to give away free drinks , has now been resolved .
 the global coffeehouse chain said in an update on its site that stores are expected to open for ` business as usual ' saturday .
 the company said earlier the outage affected 7,000 stores in the us and 1,000 in canada .
@@ -45,19 +40,23 @@ seattle tv reporter alison morrow took this photo of a throng of tourists swarmi
 according to reports from around the country , many starbucks locations in places like florida , tennessee and arizona closed their doors so as not to give away free products during the shutdown .
 the potentially costly tech snafu comes just one day after the seattle-based global coffeehouse chain , which had 21,366 locations in 65 countries last year , posted record quarterly earnings with net revenues of $ 4.6 billion .
 on friday , starbucks shares gained 4.4 pe rcent to $ 51.50 following the impressive quarterly results .
-good news , bad news : the tech snafu comes just one day after the seattle-based global coffeehouse chain , led by ceo howard schultz ( pictured ) , posted record quarterly earnings with net revenues of $ 4.17 billion 
+good news , bad news : the tech snafu comes just one day after the seattle-based global coffeehouse chain , led by ceo howard schultz ( pictured ) , posted record quarterly earnings with net revenues of $ 4.17 billion
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+starbucks says a sales register computer glitch has disrupted sales at company-operated stores in the us and canada 
+a nationwide shutdown of starbucks ' computer system friday evening prompted baristas to give away free coffee 
+excited twitter users spread the word about the giveaway , sharing photos of the free-of-charge drinks 
+</Summary>
 
-1. The summary states that Starbucks said a sales register computer glitch has disrupted sales at company-operated stores in the US and Canada, and that a nationwide shutdown of Starbucks' computer system prompted baristas to give away free coffee. However, the article states that the outage was caused by a failure during a daily system refresh and that the company did not explain exactly what caused the outage.
-2. The summary mentions that the outage affected 7,000 stores in the US and 1,000 in Canada, but the article states that the outage affected 8,000 stores in the US and Canada.
-3. The summary states that the company said stores would open for business as usual on Saturday, but the article states that the company said stores would remain open and continue to serve customers during the outage.
-4. The summary mentions that Twitter users spread the word about the giveaway and shared photos of free drinks, but the article states that the outage prevented staff from accepting credit cards or ringing up sales, and that some customers were still accepting cash.
-5. The summary mentions that the outage was caused by a failure during a daily system refresh, but the article does not mention this cause.
-6. The summary states that the outage affected all Starbucks locations in the US and Canada, but the article states that many Starbucks locations in places like Florida, Tennessee, and Arizona closed their doors so as not to give away free products during the shutdown.
-7. The summary mentions that the outage was resolved, but the article does not mention when the outage was resolved or if it is still ongoing.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions, such as the number of stores affected, the cause of the outage, and the extent of the outage. Additionally, the summary is written in a way that is sensationalized and does not accurately reflect the content of the article.
+1. The summary states that Starbucks experienced a computer glitch that disrupted sales at company-operated stores in the US and Canada, and that baristas gave away free drinks as a result.
+2. However, the article states that the outage affected 7,000 stores in the US and 1,000 in Canada, but the summary only mentions "company-operated stores" without specifying the exact number of stores affected.
+3. The article also states that the outage was caused by a failure during a daily system refresh, but the summary does not mention this cause.
+4. Additionally, the article mentions that many Starbucks locations around the country closed their doors so as not to give away free products during the shutdown, but the summary does not mention this.
+5. Finally, the article includes quotes from Starbucks and tweets from customers, but the summary does not include any of this information.
+
+Therefore, the summary is not consistent with the article because it only provides a limited overview of the situation and omits important details, such as the exact number of stores affected and the cause of the outage. Additionally, the summary does not include any supporting evidence or quotes from Starbucks or customers, which are present in the article.
 
 ###Corrected:

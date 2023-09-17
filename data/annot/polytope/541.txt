@@ -1,16 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    residents of new south wales warned to brace for more floods and damage .
-state emergency service was deluged with calls for assistance last week .
-state emergency service was deluged with calls for assistance last week .
-state emergency service was deluged with calls for assistance last week .
-state emergency service deluged with calls for assistance last week . 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -66,17 +59,26 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+residents of new south wales warned to brace for more floods and damage .
+state emergency service was deluged with calls for assistance last week .
+state emergency service was deluged with calls for assistance last week .
+state emergency service was deluged with calls for assistance last week .
+state emergency service deluged with calls for assistance last week .
+</Summary>
 
-1. The summary states that the State Emergency Service (SES) was deluged with calls for assistance last week, but the article states that the SES has more than 4,000 jobs from the 24,196 requests still to be completed. This implies that the SES has not yet completed all of the requests for assistance from last week's wild weather, which contradicts the summary's statement that the SES was deluged with calls.
-2. The summary states that the SES is concerned that more storms will hamper clean-up efforts, but the article does not mention any specific concerns about clean-up efforts. Instead, the article focuses on the potential for another storm to hit the region and the possibility of heavy rain and strong winds.
-3. The summary states that the hunter region is a focus of concern for the SES, but the article does not mention any specific concerns about the hunter region. Instead, the article mentions that the weather system is expected to hit the far northern parts of the state, with heavy falls likely for coastal areas in the state's north east.
-4. The summary states that the weather system is expected to hit the state later this week, but the article states that the weather system is forming along the coast and will hit heaviest in the far northern parts of the state. This implies that the weather system is already forming and is not expected to hit the state later this week, which contradicts the summary's statement.
-5. The summary states that the Bureau of Meteorology is predicting an east coast low, but the article does not mention any specific predictions from the Bureau of Meteorology. Instead, the article quotes a weatherzone meteorologist as saying that a trough of low pressure is forming along the coast and will hit heaviest in the far northern parts of the state.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and contradictions compared to the article. Therefore, it is not a consistent summary of the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that residents of New South Wales were warned to brace for more floods and damage, but the article does not mention any specific warnings or alerts for the current week.
+2. The summary mentions that the State Emergency Service (SES) was deluged with calls for assistance last week, but the article does not provide any information about the number of calls received by the SES.
+3. The summary does not provide any information about the potential for another storm to hit the region, while the article mentions that meteorologists are predicting another storm could hit the state later this week.
+4. The summary does not mention any specific weather system or East Coast Low that could hit the region, while the article provides detailed information about the weather system and its potential impacts.
+
+Overall, the summary does not accurately reflect the content of the article. It seems to be a brief summary of the article, but it does not include all the important details and information provided in the article.
 
 ###Corrected:

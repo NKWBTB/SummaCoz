@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    staff at swansea\'s dvla offices will be redeployed rather than face redundancy after changes to the way motorists pay their car tax, a uk transport minister has confirmed. 
-
-    Article: 
-    Stephen Hammond said job roles would change when the paper system for car tax discs is scrapped in October.
+<Article>
+Stephen Hammond said job roles would change when the paper system for car tax discs is scrapped in October.
 The minister allayed fears about job losses in a letter to Swansea East AM Mike Hedges.
 Mr Hedges said the minister's response would "give comfort" to DVLA employees.
 Concerns over the future of some of the 5,000 workers at the Driving and Vehicle Licensing Agency centre were raised in October after Chancellor George Osborne's Autumn Statement.
@@ -18,15 +15,19 @@ In his response to Mr Hedges, Mr Hammond said: "It is likely that the introducti
 "Any reductions in numbers of people needed for these activities will be managed through redeploying to other growth areas of the business."
 Mr Hedges welcomed the minister's assurances.
 He added: "Whilst disappointed that the changes will reduce the number of job opportunities at the DVLA, I can see the advantages of both paying by monthly direct debits and not having to show a tax disc.
-"I am pleased the minister is committed to redeployment rather than redundancies and I am sure this response will give comfort to many concerned DVLA employees." 
+"I am pleased the minister is committed to redeployment rather than redundancies and I am sure this response will give comfort to many concerned DVLA employees."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+staff at swansea\'s dvla offices will be redeployed rather than face redundancy after changes to the way motorists pay their car tax, a uk transport minister has confirmed.
+</Summary>
 
-1. The summary states that staff at the DVLA offices in Swansea will be redeployed rather than facing redundancy.
-2. However, the article does not mention anything about redeployment. Instead, it mentions that the introduction of a direct debit scheme may lead to a natural reduction in the amount of refunds received, and that any reductions in staff will be managed through redeployment to other growth areas of the business.
-3. Therefore, the summary is not consistent with the article because it implies that redeployment is a certainty, while the article only mentions it as a possibility.
-4. The article does not provide any information about redeployment, and instead focuses on the potential reduction in staff due to the introduction of the direct debit scheme.
-5. Therefore, the summary is not an accurate reflection of the content of the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that "staff at Swansea's DVLA offices will be redeployed rather than face redundancy."
+2. The article does not mention anything about Swansea specifically. The article only mentions the Driving and Vehicle Licensing Agency (DVLA) center in general.
+3. The article states that the introduction of a direct debit scheme may lead to a natural reduction in the amount of refunds received and the need to train on new processes, which may result in changes to job roles.
+4. The article does not mention anything about redeployment. Instead, it mentions that any reductions in numbers of people needed for these activities will be managed through redeployment to other growth areas of the business.
+5. Therefore, the summary is not consistent with the article because it only mentions redeployment for staff at Swansea's DVLA offices, while the article does not mention anything about Swansea specifically and only talks about changes to job roles and redeployment to other growth areas of the business.
 
 ###Corrected:

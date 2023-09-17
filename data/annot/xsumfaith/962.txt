@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    danny nesbitt\'s resignation as ulster unionist party leaders have said they are ``very confident\'\'ulster unionist leader. 
-
-    Article: 
-    At the end of his speech launching the party's manifesto, Mike Nesbitt said: "Domination doesn't work, partnership does."
+<Article>
+At the end of his speech launching the party's manifesto, Mike Nesbitt said: "Domination doesn't work, partnership does."
 Ulster Unionists want the election to be a referendum on how the Renewable Heat Incentive debacle was handled.
 But the focus has now turned on them following Mr Nesbitt's comments.
 Mr Nesbitt was asked about the decision of his senior party colleague Danny Kennedy to publicly distance himself from the remarks.
@@ -23,16 +20,19 @@ Mr Nesbitt went on to say that, on Monday, he spent a lot of time time knocking 
 The manifesto, entitled 'Real Partnership', includes calls for action in tackling waiting lists, increasing PSNI numbers to 7,500, prioritising the York Street interchange, standing up for the LGBT community and "guaranteeing" that no group is worse off because of Brexit.
 In a section entitled 'Cleaning Up Stormont', the party calls for:
 On the theme of the election being a referendum, he said it was about "incompetence, arrogance, cronyism and the strong whiff of corruption".
-He must hope that message will resonate more strongly than the continuing controversy over his remarks about transferring to the SDLP. 
+He must hope that message will resonate more strongly than the continuing controversy over his remarks about transferring to the SDLP.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+danny nesbitt\'s resignation as ulster unionist party leaders have said they are ``very confident\'\'ulster unionist leader.
+</Summary>
 
-1. The summary states that Ulster Unionist leader Mike Nesbitt said he is "very confident" about the party's chances, but the article does not contain any quote or statement from Nesbitt that suggests he is confident about the party's chances.
-2. The summary states that Nesbitt said the election is a referendum on how the Renewable Heat Incentive debacle was handled, but the article does not contain any quote or statement from Nesbitt that suggests he views the election as a referendum on the RHI debacle.
-3. The summary states that Nesbitt said he would rather go into Stormont Castle with the SDLP than Sinn Féin, but the article does not contain any quote or statement from Nesbitt that suggests he prefers to go into Stormont with the SDLP.
-4. The summary states that Nesbitt is confident in his position and that candidates behind him are taking different positions, but the article does not contain any quote or statement from Nesbitt that suggests he is confident in his position.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes statements and quotes that are not present in the article.
+1. The summary states that Danny Nesbitt has resigned as Ulster Unionist party leader.
+2. However, the article does not mention anything about Danny Nesbitt resigning.
+3. The article states that Mike Nesbitt, the Ulster Unionist leader, is confident in his position and that he would rather go into Stormont Castle with the SDLP than Sinn Féin.
+4. The summary is not consistent with the article because there is no mention of Danny Nesbitt resigning, and the article does not support the idea that Danny Nesbitt has resigned.
+5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    there were angry scenes on monday night as the bill enabling the government to trigger article 50 cleared the lords. 
-
-    Article: 
-    Lib Dem Lord Oates accused Labour of being prepared to "concede everything", and the opposition's leader in the Lords, Baroness Smith, responded that his party was giving people "false hope".
+<Article>
+Lib Dem Lord Oates accused Labour of being prepared to "concede everything", and the opposition's leader in the Lords, Baroness Smith, responded that his party was giving people "false hope".
 The two parties had teamed up to help inflict defeats on the government concerning the rights of EU citizens and parliamentary approval for a Brexit deal.
 But that co-operation went out the window when MPs rejected those amendments - with Lib Dems determined to insist on them and Labour prepared to defer to the Commons.
 A Labour source in the Lords told the BBC it was "fairly obvious grandstanding" by the Lib Dems, and geared towards content for their campaign leaflets.
@@ -15,16 +12,19 @@ For their part, the Lib Dems' Europe spokesperson Baroness Ludford accused Labou
 It's not just on Brexit that the two biggest opposition parties have a track record of forming alliances - they have trooped through the lobbies together to impose government defeats on bills dealing with issues from higher education to housing.
 Baroness Ludford seemed sanguine about their chances of coming together again, saying: "The Liberal Democrats will continue to work with peers from across the House to fight for the issues we agree on."
 But the Labour source predicted "residual tensions", adding: "I can't imagine there'll be much demand here to organise a 'progressive consensus summer drinks' gathering.
-"Our respective leaderships will of course continue to keep things business-like." 
+"Our respective leaderships will of course continue to keep things business-like."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+there were angry scenes on monday night as the bill enabling the government to trigger article 50 cleared the lords.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that there were "angry scenes" in the Lords on Monday night, but the article does not mention any such scenes.
-2. The summary suggests that the Lib Dems and Labour were on opposite sides of the Brexit debate, with the Lib Dems trying to "insist" on certain amendments and Labour prepared to "defer" to the Commons. However, the article states that the two parties have a history of forming alliances and have worked together to defeat the government on various bills.
-3. The summary implies that the Lib Dems were grandstanding and building up false hope for the public, but the article quotes a Labour source as saying that the Lib Dems' actions were "fairly obvious grandstanding" and that it was "pretty unforgiveable to build up false hope."
-4. The summary does not mention the Labour source's statement that the Lib Dems and Labour have a track record of forming alliances and will continue to work together on issues they agree on.
+2. The summary implies that the bill enabling the government to trigger Article 50 was passed by the Lords, but the article states that the bill was rejected by MPs.
+3. The summary does not mention the Lib Dems or Labour, but the article discusses their disagreement over the bill.
 
-Overall, the summary presents a more confrontational and divisive picture of the relationship between the Lib Dems and Labour than what is actually described in the article.
+Therefore, the summary is not consistent with the article. The summary is missing key details and contains inaccuracies, which suggests that it is not a reliable representation of the events described in the article.
 
 ###Corrected:

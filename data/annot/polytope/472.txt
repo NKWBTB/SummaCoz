@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest . 
- footage shows the cat licking his fur before his human friend comes along and plonks himself on top . 
- the boy then proceeds to follow the pet to his new location . 
-
-    Article: 
-    forget a feather down pillow - this boy would rather use his cat 's belly as a place to rest his head .
+<Article>
+forget a feather down pillow - this boy would rather use his cat 's belly as a place to rest his head .
 california-based youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest .
 footage shows the cat licking his fur before his human friend comes along and plonks himself on top .
 after a brief moment of stillness , the cat immediately gets up and scurries over to another spot .
@@ -18,16 +13,20 @@ the sequence happens one more time before the cat decides he 's had enough of be
 a later video shows the duo swiftly made up , and the boy is seen gently feeding the cat handfuls of treats .
 sleepy head : youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest
 perfect pillow : footage shows the cat sat licking his fur before his human friend comes along and plonks himself on top
-not amused : after a brief moment of stillness , the cat immediately gets up and scurries over to another spot 
+not amused : after a brief moment of stillness , the cat immediately gets up and scurries over to another spot
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest . 
+ footage shows the cat licking his fur before his human friend comes along and plonks himself on top . 
+ the boy then proceeds to follow the pet to his new location .
+</Summary>
 
-1. The summary states that the boy used the cat as a pillow, but the article does not mention this. Instead, the article states that the boy chased the cat around the garden and the cat allowed the boy to sit on top of him.
-2. The summary implies that the cat was used as a pillow for the boy's rest, but the article does not support this. The cat was not used as a pillow, but rather as a playmate for the boy.
-3. The summary states that the cat "immediately gets up and scurries over to another spot" after the boy sits on top of him, but the article does not mention this. Instead, the article states that the cat allows the boy to sit on top of him for a brief moment before getting up and scurrying away.
-4. The summary implies that the boy was trying to get rest, but the article does not support this. The article states that the boy was chasing the cat around the garden, which suggests that the boy was engaged in playful activity rather than trying to rest.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the nature of the boy's interaction with the cat and the cat's behavior. The article portrays a playful and mutually enjoyable interaction between the boy and the cat, while the summary implies that the boy was using the cat as a pillow and the cat was not happy about it.
+1. The summary states that the YouTube user, Lionel Hutz, filmed his young son chasing the family feline around the garden in a bid to get some rest. This is consistent with the article.
+2. The summary then states that footage shows the cat licking his fur before his human friend comes along and plonks himself on top. This is not consistent with the article, as the article does not mention the cat licking its fur.
+3. The summary then states that the boy proceeds to follow the pet to his new location. This is consistent with the article.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the cat licking its fur).
 
 ###Corrected:

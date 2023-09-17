@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
-she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
-a teenager set herself on fire after allegedly being raped by five men from her village in india . 
-
-    Article: 
-    a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
+<Article>
+a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
 the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
 she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
 a teenager set herself on fire after allegedly being raped by five men from her village in india .
@@ -39,17 +34,23 @@ ram singh , co-accused and widely considered the leader of the group , was found
 a minor also found guilty was sentenced to three years in a reformatory institution .
 her death sparked angry protests in india and internationally about misogyny in the country .
 the attention forced judges to prioritise the case and the lawyer 's association in saket reportedly refused to defend the perpetrators .
-sorry we are not currently accepting comments on this article . 
+sorry we are not currently accepting comments on this article .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
+she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
+a teenager set herself on fire after allegedly being raped by five men from her village in india .
+</Summary>
 
-1. The summary states that the 14-year-old girl set herself on fire after being gang-raped, while the article states that she was allegedly gang-raped and then set herself on fire. The word "allegedly" is important here, as it indicates that the events are not confirmed and may not have happened exactly as described.
-2. The summary does not mention that the girl is now recovering in the hospital, while the article states that she is in the hospital with 70% burns. This inconsistency suggests that the summary may not be up to date or accurate.
-3. The summary does not mention the location of the gang rape and the setting of the fire, while the article provides specific details about the location and the circumstances of the attack.
-4. The summary does not mention the arrest of the accused men, while the article states that they have been arrested.
-5. The summary does not provide any context about the broader issue of sexual assault in India, while the article provides several examples of recent attacks and protests related to the issue.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it omits important details, uses different language, and does not provide context about the broader issue. It is possible that the summary was written based on an earlier version of the article or from a different source, which could explain the inconsistencies.
+1. The summary states that the 14-year-old was allegedly gang-raped on Sunday, but the article states that she was allegedly gang-raped on Sunday when she went outside her house to relieve herself. The wording in the summary is not consistent with the article.
+2. The summary only mentions that the girl set herself on fire, but the article provides more information about the incident, including the fact that she used kerosene and that her brother doused her with water to put out the flames. The summary does not include this information.
+3. The summary does not mention the girl's current condition or where she is being treated, while the article states that she is now fighting for her life in Delhi's Safdarjung Hospital with 70% burns.
+4. The summary does not provide any information about the accused men or their arrest, while the article states that they have been arrested.
+5. The summary does not mention the attention forced judges to prioritize the case, the lawyer's association refusing to defend the perpetrators, or the death of Ram Singh, which are all mentioned in the article.
+
+Therefore, the summary is not consistent with the article. It only provides a brief overview of the incident and leaves out many important details that are included in the article.
 
 ###Corrected:

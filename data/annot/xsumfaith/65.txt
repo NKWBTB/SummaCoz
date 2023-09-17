@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    health secretary shona robison has welcomed a review of the practice of mesh implants in scotland. 
-
-    Article: 
-    Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
+<Article>
+Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
 Two patients sitting on the original review group quit in protest at what they said was a watered-down report.
 Now independent expert Alison Britton, a professor of healthcare and medical law, will examine the final report.
 Ms Robison told Holyrood's public petitions committee that Prof Britton, from Glasgow Caledonian University, would examine the process by which the report came to its conclusions.
@@ -27,16 +24,21 @@ Olive McIlroy and Elaine Holmes - who had both suffered complications as a resul
 It was claimed that parts of the final report had been removed.
 Following their resignations, it emerged that a consultant also quit the expert group over concerns about the final draft of the report.
 Over the past 20 years, more than 20,000 women in Scotland have had mesh or tape implants but some have suffered painful and debilitating complications.
-There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery. 
+There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+health secretary shona robison has welcomed a review of the practice of mesh implants in scotland.
+</Summary>
 
-1. The summary states that the health secretary welcomed a review of mesh implants, but the article states that the review was conducted independently and that the health secretary only confirmed that the recommendations would continue to be implemented.
-2. The summary does not mention the controversy surrounding the final report, including the resignation of two panel members and the removal of parts of the report.
-3. The summary does not mention the criticisms of the review process, including the lack of consensus among panel members and the difficulties faced by the chairwoman of the review.
-4. The summary does not mention the legal action taken by women who have suffered complications as a result of mesh implant surgery.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide an accurate representation of the article's content and focuses only on the welcome of the review, while omitting the controversial aspects of the review process and the consequences for the women affected by mesh implants.
+1. The summary states that Health Secretary Shona Robison has welcomed a review of mesh implants in Scotland, which is not consistent with the article.
+2. The article states that the review has been criticized for being watered down and that two patients sitting on the original review group quit in protest.
+3. The article also mentions that an independent expert, Professor Alison Britton, will examine the final report and that the report recommends that procedures should not be offered routinely to women with pelvic organ prolapse.
+4. The summary does not mention any of these criticisms or the independent expert's review, which are key points in the article.
+5. Therefore, the summary is not consistent with the article and does not provide an accurate representation of the content.
+
+In conclusion, the summary is not consistent with the article because it does not mention the criticisms of the review, the independent expert's review, or the recommendations of the report. These key points are essential to understanding the content of the article, and their omission from the summary makes it inaccurate and inconsistent with the article.
 
 ###Corrected:

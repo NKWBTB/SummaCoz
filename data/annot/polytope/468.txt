@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bobbi kristina brown is the daughter of bobby brown and whitney houston . 
- she remains in the same neurological state she has been in for three months . 
- she also has a tracheostomy in her throat . 
-
-    Article: 
-    ( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
+<Article>
+( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
 though the 25-year-old is no longer in a medically induced coma , she remains unresponsive , cissy houston said in a statement monday after visiting her granddaughter .
 " meeting with the doctors and understanding that she can live in this condition for a lifetime truly saddens me , " houston said .
 " we can only trust in god for a miracle at this time . "
@@ -23,43 +18,23 @@ in a statement monday , an attorney for the brown family said that bobbi kristin
 " however , bobbi kristina is presently embarking on a rehabilitation process , and the quality of her life will not be known for years to come . "
 who 's who in the bobbi kristina brown case ?
 bobby brown was in an " emotional state " on stage when he made the remarks about his daughter being awake , according to the statement .
-" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown . 
+" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the reasons why the provided summary is not consistent with the article. Here are the steps to explain my reasoning:
+<Summary>
+bobbi kristina brown is the daughter of bobby brown and whitney houston . 
+ she remains in the same neurological state she has been in for three months . 
+ she also has a tracheostomy in her throat .
+</Summary>
 
-Step 1: Identify the key points in the summary.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, here's why the summary is not consistent with the article:
 
-The summary mentions the following points about Bobbi Kristina Brown:
+1. Timing of improvement: The summary states that Bobbi Kristina Brown remains in the same neurological state she has been in for three months, implying that her condition has not improved. However, the article states that her condition has improved, and she has been taken out of a medically induced coma.
+2. Tracheostomy: The summary mentions that Bobbi Kristina Brown has a tracheostomy in her throat, which is accurate. However, the article does not mention this detail.
+3. Rehabilitation process: The summary does not mention anything about Bobbi Kristina Brown embarking on a rehabilitation process, which is mentioned in the article.
+4. Quality of life: The summary does not mention anything about the quality of Bobbi Kristina Brown's life, which is mentioned in the article.
 
-* She is the daughter of Bobby Brown and Whitney Houston.
-* She has been in a neurological state for three months.
-* She has a tracheostomy in her throat.
-
-Step 2: Identify the key points in the article.
-
-The article mentions the following points about Bobbi Kristina Brown:
-
-* She has "global and irreversible brain damage."
-* She is no longer in a medically induced coma but remains unresponsive.
-* She does not respond to visitors or familiar voices, and her eyes do not follow a person around the room.
-* She has a tracheostomy in her throat.
-* Her condition has not improved, and she will likely have a long life but the quality of her life remains uncertain.
-
-Step 3: Identify the inconsistencies between the summary and the article.
-
-After comparing the key points in the summary and the article, it is clear that there are several inconsistencies:
-
-* The summary states that Bobbi Kristina Brown has been in a neurological state for three months, while the article states that she has "global and irreversible brain damage" and is unresponsive, indicating a more severe condition.
-* The summary mentions a tracheostomy in her throat, which is also mentioned in the article.
-* The summary states that Bobbi Kristina Brown is awake, while the article states that she is unresponsive and does not respond to visitors or familiar voices.
-* The summary does not mention the fact that Bobbi Kristina Brown has "global and irreversible brain damage" or that her condition has not improved.
-
-Step 4: Explain the reasons for the inconsistencies.
-
-Based on the inconsistencies identified in Step 3, it is clear that the summary is not consistent with the article. The reasons for these inconsistencies could be:
-
-* The summary was written based on incomplete or outdated information about Bobbi Kristina Brown's condition.
-* The summary was written with a more positive tone than the article, which
+Overall, the summary does not accurately reflect the information in the article. It only mentions a few details about Bobbi Kristina Brown's condition but omits other important information, such as her improvement, rehabilitation process, and quality of life.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the government has launched a legal challenge against the government\'s decision to allow the uk to leave the european union. 
-
-    Article: 
-    On Thursday, an investment manager and hairdresser will challenge the right of the government to start the process of withdrawing the UK from the EU without a vote in Parliament.
+<Article>
+On Thursday, an investment manager and hairdresser will challenge the right of the government to start the process of withdrawing the UK from the EU without a vote in Parliament.
 Lawyers will question whether Prime Minister Theresa May is entitled to act unilaterally, using powers left over from the days of medieval monarchs.
 It could end up - in theory - with Parliament being given a means to stop Brexit.
 So as constitutional rows go, it is box office stuff.
@@ -68,16 +65,20 @@ The majority of MPs campaigned for the UK to remain in the EU. They could, in th
 But would they risk enormous political and social ructions by rejecting the referendum result?
 Most members of the House of Lords are also opposed to Brexit. That raises the possibility of another extraordinary scenario - an unelected Lords voting against the wishes of 17.4 million people.
 If the government loses its case in the British courts, they could eventually go to the European Court of Justice.
-It raises the possibility of a truly strange scenario - Brexit ministers asking European judges to overturn the decision of the British courts. 
+It raises the possibility of a truly strange scenario - Brexit ministers asking European judges to overturn the decision of the British courts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the government has launched a legal challenge against the government\'s decision to allow the uk to leave the european union.
+</Summary>
 
-1. The summary states that the government has launched a legal challenge against the government's decision to allow the UK to leave the European Union. However, the article states that it is actually a group of individuals, including Gina Miller, who are challenging the government's decision.
-2. The summary mentions that the government is using the Royal Prerogative to trigger Article 50, but the article explains that the government is arguing that the Prime Minister has the authority to do so without a vote in Parliament. The article does not mention the Royal Prerogative.
-3. The summary states that the case is about who should activate Article 50, but the article explains that the case is actually about whether the government has the power to trigger Article 50 without a vote in Parliament.
-4. The summary mentions that the government could go to the European Court of Justice if it loses the case, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it oversimplifies the legal arguments and misstates some of the key points. The article provides a more detailed and accurate explanation of the case.
+1. The summary states that the government has launched a legal challenge against the government's decision to allow the UK to leave the European Union.
+2. However, the article states that the challenge is not against the decision to leave the EU, but rather against the government's claim that the Prime Minister has the power to trigger Article 50 of the Treaty of Lisbon 2007, which would begin the process of leaving the EU, without a vote in Parliament.
+3. The article explains that the legal challenge is being brought by Gina Miller, a businesswoman, and others, who argue that only Parliament can make a decision that leads to the loss of their "rights" under EU law.
+4. The article states that the government argues that the Prime Minister has the power to trigger Article 50 using the Royal Prerogative, which are powers left over from medieval monarchs.
+5. The article notes that the legal challenge is not a matter of whether the UK should leave the EU, but rather a matter of how the process of leaving should be done.
+6. Therefore, the summary is not consistent with the article because it does not accurately reflect the nature of the legal challenge. The summary makes it sound like the challenge is against the decision to leave the EU, when in fact it is only against the government's claim of power to trigger Article 50 without a vote in Parliament.
 
 ###Corrected:

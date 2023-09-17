@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an online campaign to fund possible legal action against former prime minister tony blair and other officials has reached its target of # 150,000. 
-
-    Article: 
-    The campaign was launched on 19 July by the Iraq War Families Campaign Group, which is made up of relatives of British troops killed in the conflict.
+<Article>
+The campaign was launched on 19 July by the Iraq War Families Campaign Group, which is made up of relatives of British troops killed in the conflict.
 It aimed to reach that amount to "bring to justice those responsible for the war and the deaths of our loved ones".
 The campaign was led by Reg Keys and Roger Bacon, who lost sons in Iraq.
 The funding bid began after the publication last month of the long-awaited report by Sir John Chilcot into the 2003 invasion.
@@ -22,23 +19,20 @@ However, it rejected the legal basis for UK military action, and said then-prime
 Chilcot report: Coverage in full
 Mr Blair has apologised for any mistakes made, but not the decision to go to war itself.
 A total of 179 British service personnel were killed in Iraq between 2003 and 2009, when British troops left Iraqi soil.
-Tens of thousands of Iraqi civilians died over the period, though estimates vary considerably. 
+Tens of thousands of Iraqi civilians died over the period, though estimates vary considerably.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+an online campaign to fund possible legal action against former prime minister tony blair and other officials has reached its target of # 150,000.
+</Summary>
 
-Step 1: Identify the main point of the summary.
-The main point of the summary is that an online campaign to fund legal action against former Prime Minister Tony Blair and other officials has reached its target of £150,000.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Step 2: Identify the main point of the article.
-The main point of the article is that a campaign group, the Iraq War Families Campaign Group, has raised enough funds to analyze the Chilcot report and determine whether legal action against key individuals involved in the invasion of Iraq would succeed or not.
+1. Target amount: The summary states that the campaign reached its target of #150,000, but the article states that the campaign initially aimed to reach £50,000 via crowdfunding and later extended its target to £150,000.
+2. Legal action: The summary mentions possible legal action against former Prime Minister Tony Blair and other officials, but the article does not mention any specific legal action or lawsuits. Instead, it focuses on the campaign's goal of seeking answers and justice for the families of British troops killed in Iraq.
+3. Funding: The summary states that the campaign reached its target of #150,000, but the article states that the campaign received enough backing to fund the whole campaign, without specifying a specific amount.
 
-Step 3: Identify the inconsistency.
-The inconsistency is that the summary mentions that the campaign is to fund legal action against Tony Blair and other officials, but the article does not mention anything about legal action against Tony Blair. Instead, the article mentions that the campaign is to analyze the Chilcot report and determine the possibility of legal action.
-
-Step 4: Explain the inconsistency.
-The inconsistency is likely due to the fact that the summary is focusing on the fundraising aspect of the campaign, while the article is focusing on the purpose of the campaign, which is to analyze the Chilcot report and determine the possibility of legal action. The summary has taken a specific aspect of the article and expanded upon it, creating an inconsistency.
-
-In conclusion, the summary is not consistent with the article because it mentions legal action against Tony Blair, which is not mentioned in the article. The article is focused on the campaign's purpose of analyzing the Chilcot report and determining the possibility of legal action, rather than the specific individuals who may be targeted by legal action.
+Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary mentions legal action against Tony Blair and other officials, which is not mentioned in the article. Additionally, the summary states that the campaign reached a target of #150,000, but the article does not mention a specific target amount.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    zlatan ibrahimovic could become the world\'s most expensive shirt when he signed for manchester united this summer. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The Sweden striker, who is out of contract after four years at Paris St-Germain, could follow former manager Jose Mourinho to Old Trafford.
 Football finance expert Rob Wilson says the 34-year-old would be United's most marketable player since Cristiano Ronaldo, and linking up with the three-time European champions would be a "match made in heaven".
 Wilson says Ibrahimovic's shirt sales alone would help cover the cost of finishing fifth in the Premier League this season and missing out on the riches of playing in Europe's elite competition, worth up to £50m.
@@ -76,17 +73,22 @@ Former team-mate Peter Schmeichel said Ibrahimovic could have the same affect at
 Ex-United midfielder Paul Scholes added: "Zlatan joining United does excite me. I know it might only be one or two years at the most, but he is a fit lad, looks after himself and is a great character, he could pull it off without a shadow of a doubt."
 Brazil left-back Maxwell and Ibrahimovic first met at Ajax in 2001 and have followed each other to Inter Milan, Barcelona and Paris St-Germain. They are close friends.
 The pair have won 10 league titles together, so could we see Maxwell join his friend across the English Channel?
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     The summary is not consistent with the article because:
+<Summary>
+zlatan ibrahimovic could become the world\'s most expensive shirt when he signed for manchester united this summer.
+</Summary>
 
-1. The article discusses Zlatan Ibrahimovic joining Manchester United, but the summary does not mention this. Instead, it states that he could become the world's most expensive shirt.
-2. The article highlights Ibrahimovic's marketability and potential to boost Manchester United's commercial revenue, but the summary does not mention this.
-3. The article mentions that Ibrahimovic has won 12 trophies in four seasons at PSG, but the summary does not include this information.
-4. The article quotes Ibrahimovic as saying that he would prefer to play with Wayne Rooney than against him, but the summary does not include this quote.
-5. The article discusses Ibrahimovic's relationship with his teammates and his demanding nature, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
+  Based on the information provided in the article, the summary is not consistent with the article. Here's why:
 
-Overall, the summary does not accurately reflect the content of the article. It focuses on the financial aspects of Ibrahimovic joining Manchester United, while the article provides a more comprehensive overview of his career and potential impact on the team.
+1. The article discusses Zlatan Ibrahimovic's potential transfer to Manchester United, but the summary only mentions him signing for the club without providing any context.
+2. The article highlights Ibrahimovic's marketability and how he could be a "match made in heaven" for Manchester United, but the summary doesn't mention anything about his marketability or why he would be a good fit for the club.
+3. The article discusses Ibrahimovic's past successes and achievements, but the summary doesn't provide any specific examples or details about his accomplishments.
+4. The article mentions that Ibrahimovic has won 12 trophies in four seasons at PSG, but the summary doesn't mention the number of trophies he has won or how many seasons he has played for PSG.
+5. The article quotes a former teammate of Ibrahimovic, Peter Schmeichel, who says that Ibrahimovic could have the same impact at Old Trafford as Eric Cantona, but the summary doesn't include any quotes or perspectives from former teammates or experts.
+
+Overall, the summary is not consistent with the article because it lacks specific details and context about Ibrahimovic's potential transfer to Manchester United, his marketability, and his past successes.
 
 ###Corrected:

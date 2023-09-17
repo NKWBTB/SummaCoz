@@ -1,20 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the iowa board of chiropractic released a report wednesday detailing charges against charles manuel . manuel signed an agreement last month . the exorcisms on patients has surrendered his license to practice and admitted to swapping services for sex and performing exorcisms on some patients . he 's received outstanding evaluation for patient satisfaction on healthgrades.com . he is also recommended that patients stop taking medication he prescribed to them . he can resume practicing chiropractic in the state . 
+<Article>
+A southern Iowa chiropractor accused of accepting sex as payment for his services and performing exorcisms on patients has surrendered his state license. The Iowa Board of Chiropractic released a report Wednesday detailing charges against Charles Manuel, of Lamoni. Manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years. Patient satisfaction: A chiropractor in Iowa has surrendered his license to practice and admitted to swapping services for sex and performing exorcisms on some patients. Nonetheless, he's received outstanding evaluations for patient satisfaction on HealthGrades.com . The agreement requires that Manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state. Those circumstances included bartering sex for services with some patients. Manuel also recommended that patients stop taking medication he prescribed to them. A woman who answered a call to Manuel's home from the Des Moines Register declined to comment on the case. A woman at his former practice said he hadn't worked there for some time. A Lamoni address listed on the Yelp page for Manuel's practice appears to be a home on a residential street. While Maneul has received just three patient survey responses on HealthGrades.com, those responses were quite positive. The disgraced chiropractor received a perfect five out of five stars in patient satisfaction. Strange practice: Charles Manuel, who admitted wrongdoing to the Iowa Board of Chiropractic, listed his practice's addresses on this residential street in the small agricultural town of Lamoni in southern Iowa .
+</Article>
 
-    Article: 
-    A southern Iowa chiropractor accused of accepting sex as payment for his services and performing exorcisms on patients has surrendered his state license. The Iowa Board of Chiropractic released a report Wednesday detailing charges against Charles Manuel, of Lamoni. Manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years. Patient satisfaction: A chiropractor in Iowa has surrendered his license to practice and admitted to swapping services for sex and performing exorcisms on some patients. Nonetheless, he's received outstanding evaluations for patient satisfaction on HealthGrades.com . The agreement requires that Manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state. Those circumstances included bartering sex for services with some patients. Manuel also recommended that patients stop taking medication he prescribed to them. A woman who answered a call to Manuel's home from the Des Moines Register declined to comment on the case. A woman at his former practice said he hadn't worked there for some time. A Lamoni address listed on the Yelp page for Manuel's practice appears to be a home on a residential street. While Maneul has received just three patient survey responses on HealthGrades.com, those responses were quite positive. The disgraced chiropractor received a perfect five out of five stars in patient satisfaction. Strange practice: Charles Manuel, who admitted wrongdoing to the Iowa Board of Chiropractic, listed his practice's addresses on this residential street in the small agricultural town of Lamoni in southern Iowa . 
+<Summary>
+the iowa board of chiropractic released a report wednesday detailing charges against charles manuel . manuel signed an agreement last month . the exorcisms on patients has surrendered his license to practice and admitted to swapping services for sex and performing exorcisms on some patients . he 's received outstanding evaluation for patient satisfaction on healthgrades.com . he is also recommended that patients stop taking medication he prescribed to them . he can resume practicing chiropractic in the state .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-1. The summary states that Manuel has received outstanding evaluations for patient satisfaction on HealthGrades.com, but the article states that he has received only three patient survey responses on HealthGrades.com, and all of them were positive with a perfect five out of five stars.
-2. The summary states that Manuel can resume practicing chiropractic in the state, but the article states that the agreement requires that Manuel prove that any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state.
-3. The summary does not mention that Manuel admitted to swapping services for sex and performing exorcisms on some patients, which is a key detail in the article.
+1. The summary states that Manuel signed an agreement last month, but the article states that he signed an agreement last year (not last month). Inconsistency.
+2. The summary states that Manuel admitted to swapping services for sex and performing exorcisms on some patients, but the article does not mention anything about swapping services for sex. Inconsistency.
+3. The summary states that Manuel received outstanding evaluations for patient satisfaction on HealthGrades.com, but the article states that he received three patient survey responses on HealthGrades.com, and all three were positive (with perfect five-star ratings). The article does not mention outstanding evaluations. Inconsistency.
+4. The summary states that Manuel recommended that patients stop taking medication he prescribed to them, but the article does not mention this. Inconsistency.
+5. The summary states that Manuel can resume practicing chiropractic in the state if the circumstances surrounding the revocation of his license no longer exist, but the article does not mention this. Inconsistency.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary omits important details and includes inaccurate information, such as the number of patient survey responses on HealthGrades.com.
+Overall, the summary contains several inaccuracies and inconsistencies compared to the article. It is not a reliable summary of the article's content.
 
 ###Corrected:

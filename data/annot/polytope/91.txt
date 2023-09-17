@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback
-the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has horrified many of the people who wore the ridiculous pants the first time around  femail rounds up the worst offenders 
-
-    Article: 
-    nineties style is hot right now .
+<Article>
+nineties style is hot right now .
 chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
 but news that jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback has horrified many of the people who wore the ridiculous pants the first time around .
 the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that really should be left in the past .
@@ -54,19 +50,21 @@ characterised by loose , baggy legs which nip in at the ankle , these middle eas
 before she discovered pencil skirts reality star kim kardashian , now 34 , was a huge fan of the voluminous pants .
 today they are still sported by supermodel legs like 51-year-old elle macpherson .
 then : reality star kim kardashian previously championed the wearing of harem trousers back in 2009
-now : supermodel elle macpherson steps out in a pair of leopard print harem trousers 
+now : supermodel elle macpherson steps out in a pair of leopard print harem trousers
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback
+the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has horrified many of the people who wore the ridiculous pants the first time around  femail rounds up the worst offenders
+</Summary>
 
-1. JNCO jeans: The summary states that JNCO jeans, which were popular in the nineties, are set to make a comeback. However, the article does not mention anything about JNCO jeans making a comeback.
-2. Bucket hats: The summary states that bucket hats are a nineties trend that is making a comeback. However, the article only mentions that celebrities like Rihanna and Kylie Jenner have been spotted wearing bucket hats, without mentioning any resurgence in popularity.
-3. Camouflage print: The summary states that camouflage print is a trend that is being revived from the noughties. However, the article only mentions that camouflage print was popular among celebrities in the noughties, without mentioning any current popularity.
-4. Tiny denim shorts: The summary states that tiny denim shorts were popular in the noughties and are making a comeback. However, the article only mentions that tiny denim shorts were popular among celebrities in the noughties, without mentioning any current popularity.
-5. Rainbow lenses: The summary states that rainbow lenses were a nineties trend that is making a comeback. However, the article only mentions that celebrities like Cara Delevingne and Kylie Jenner have been spotted wearing rainbow lenses, without mentioning any resurgence in popularity.
-6. Corsets: The summary states that corsets were popular in the noughties and are making a comeback. However, the article only mentions that corsets were popular among celebrities in the noughties, without mentioning any current popularity.
-7. Harem pants: The summary states that harem pants are a nineties trend that is making a comeback. However, the article only mentions that supermodel Elle Macpherson has been spotted wearing harem pants, without mentioning any resurgence in popularity.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it mentions current trends and comebacks that are not supported by the article. The article only provides examples of n
+1. The summary mentions "jnco jeans" and "wideleg'rave'jeans," which are not present in the article.
+2. The article does not mention a comeback of JNCO jeans. Instead, it discusses the return of nineties and noughties fashion trends, such as bucket hats, camouflage print, double denim, and tiny denim shorts.
+3. The summary mentions "the worst offenders," implying that the article is discussing negative or undesirable trends. However, the article is actually showcasing various nineties and noughties fashion trends that have been popular among celebrities.
+4. The summary does not accurately reflect the content of the article. Instead of focusing on the return of JNCO jeans, the article discusses a variety of nineties and noughties fashion trends that are popular among celebrities.
+
+In conclusion, the summary is not consistent with the article because it mentions a comeback of JNCO jeans, which is not present in the article, and it focuses on negative or undesirable trends, whereas the article showcases various nineties and noughties fashion trends that are popular among celebrities.
 
 ###Corrected:

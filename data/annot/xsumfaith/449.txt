@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    warrington moved up to third in super league with a hard-fought win over widnes vikings. 
-
-    Article: 
-    Owens, Rhys Hanbury and Paddy Flynn all crossed before half-time as the hosts opened up a 16-point lead.
+<Article>
+Owens, Rhys Hanbury and Paddy Flynn all crossed before half-time as the hosts opened up a 16-point lead.
 Cameron Phelps looked to have made the game safe, but quick tries from Ryan Atkins and Chris Bridge made it 24-10.
 Owens grabbed his second of the game before Stefan Ratchford went over for Wolves, but Widnes held for the bragging rights in the local derby.
 Warrington remain fifth in the Super League table, while eighth-placed Widnes are three points clear of Hull KR, in ninth, who have a game in hand.
@@ -29,23 +26,20 @@ Replacements: Allen, Kavanagh, Isa, Carberry.
 Warrington: Russell, Ormsby, Ratchford, Atkins, R. Evans, C. Bridge, O'Brien, Hill, Higham, England, Currie, Westwood, Wood.
 Replacements: Asotasi, Riley, Dwyer, Philbin.
 Referee: Phil Bentham (RFL).
-Attendance: 7,158 
+Attendance: 7,158
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+warrington moved up to third in super league with a hard-fought win over widnes vikings.
+</Summary>
 
-1. The summary states that Warrington moved up to third in the Super League, but the article states that Warrington remain fifth in the Super League table.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the provided summary is not consistent with the article:
 
-2. The summary mentions that Widnes held on for the bragging rights in the local derby, but the article states that Widnes coach Denis Betts said that it's been coming the last couple of weeks and they've had a few solid performances but not getting the result.
+1. The summary states that Warrington moved up to third in the Super League, but the article states that they remain fifth.
+2. The summary mentions a hard-fought win, but the article describes the game as a comfortable victory for Widnes.
+3. The summary does not provide any specific information about the game, other than the final score, while the article provides detailed information about the tries scored, the performance of individual players, and the coaches' comments.
 
-3. The summary states that Warrington's Danny Tickle converted the first try of the night from Owens, but the article does not mention this.
-
-4. The summary states that Stefan Ratchford grabbed the visitors' third try but it was too little too late, but the article states that Ratchford grabbed the visitors' third try but it was not enough to overcome Widnes' lead.
-
-5. The summary does not mention Widnes' 16-0 half-time lead, which is mentioned in the article.
-
-6. The summary does not mention Warrington coach Tony Smith's comments about Widnes out-enthusing them at crucial times, which is mentioned in the article.
-
-Overall, the provided summary does not accurately reflect the information in the article, and it is not consistent with the article's details and quotes.
+Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
 
 ###Corrected:

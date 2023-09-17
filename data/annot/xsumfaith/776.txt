@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    theresa may has said he is ``angry and angry\'\'that the grenfell tower fire was ``the wealthiest part of the country\'\'. 
-
-    Article: 
-    The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
+<Article>
+The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
 PM Theresa May said the residents were "in our thoughts and prayers" and has ordered a public inquiry into the fire.
 But she was criticised by a senior Labour MP for failing to meet residents when she visited the scene on Thursday.
 At least 17 people died in the disaster at Grenfell Tower in North Kensington, west London in the early hours of Wednesday.
@@ -43,15 +40,20 @@ Mr Healey said this review had "not been started".
 Responding to reports, the Department for Communities and Local Government said it was "simply not true" that a report about building regulations had been "sat on".
 The BBC understands the Lord Chief Justice will make a recommendation to the prime minister of a judge to chair the inquiry.
 He or she will be independent from the government and able to call who they want as a witness.
-The Liberal Democrats have called for an urgent review into fire safety and building regulations. 
+The Liberal Democrats have called for an urgent review into fire safety and building regulations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article.
+<Summary>
+theresa may has said he is ``angry and angry\'\'that the grenfell tower fire was ``the wealthiest part of the country\'\'.
+</Summary>
 
-1. The summary states that Theresa May said she was "angry and angry" about the Grenfell Tower fire, but the article does not mention her expressing anger. Instead, the article states that she said the residents were "in our thoughts and prayers" and that she had ordered a public inquiry into the fire.
-2. The summary also states that Jeremy Corbyn said the fire was in the "wealthiest part of the country," but the article does not mention him saying this. Instead, the article states that he said the residents needed answers to give them "peace of mind" and that properties must be found or requisitioned to rehouse them locally.
-3. The summary does not accurately convey the tone of the article, which is more somber and focused on the tragedy of the fire and the need for answers and accountability. The summary gives the impression that the article is primarily about Theresa May's anger, which is not the main focus of the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the content and tone of the article. It is important to ensure that summaries accurately convey the main points and tone of the original text to avoid misleading the reader.
+1. The summary states that Theresa May is "angry and angry" about the Grenfell Tower fire being in the wealthiest part of the country.
+2. However, the article does not mention anything about Theresa May being angry about the location of the fire. In fact, the article states that she visited the scene and met with emergency services and local residents, but did not speak to them.
+3. The article does mention that the Prime Minister has ordered a public inquiry into the disaster and praised the local community's support for the residents.
+4. The summary is not consistent with the article because it misrepresents the Prime Minister's actions and emotions regarding the Grenfell Tower fire.
+
+Therefore, the summary is not an accurate reflection of the article's content.
 
 ###Corrected:

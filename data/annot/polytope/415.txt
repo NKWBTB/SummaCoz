@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the former all black , who denies the allegations , was arrested last night after his team was defeated in the european challenge cup .  he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .  married muliaina is accused of assaulting the woman in a crowded bar in the brewery quarter of cardiff city centre after his irish team connacht played against cardiff blues .  
-
-    Article: 
-    world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
+<Article>
+world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
 the former all black , who denies the allegations , was arrested last night after his team was defeated in the quarter finals of the european challenge cup .
 he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .
 the 34-year-old full back , who has 100 caps for the all blacks , was led away by officers at the kingsholm stadium last night in connection with an allegation in cardiff in march .
@@ -26,29 +23,20 @@ a spokesperson for the team said : ` connacht rugby can confirm that player mils
 ` as this is a legal matter , connacht rugby will be making no further comment at this time . '
 the allegation is believed to date from connacht 's visit to the cardiff blues on march 6
 muliaina has 100 caps for the all blacks and retired from international rugby after the 2011 world cup victory
-sorry we are not currently accepting comments on this article . 
+sorry we are not currently accepting comments on this article .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the former all black , who denies the allegations , was arrested last night after his team was defeated in the european challenge cup .  he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .  married muliaina is accused of assaulting the woman in a crowded bar in the brewery quarter of cardiff city centre after his irish team connacht played against cardiff blues . 
+</Summary>
 
-1. The summary states that Muliaina was arrested "last night after his team was defeated in the European Challenge Cup," while the article states that he was arrested "after his team was defeated in the quarter finals of the European Challenge Cup."
+Explain your reasoning step by step:[/INST]
 
-The article is more specific about the timing of the arrest, stating that it occurred after the quarter-final match, whereas the summary does not provide the same level of detail.
+1. The summary states that Mils Muliaina was arrested last night after his team was defeated in the European Challenge Cup. However, the article states that he was arrested after his team's defeat against Gloucester, not after the European Challenge Cup.
+2. The summary states that Muliaina is accused of assaulting a woman in a crowded bar in Cardiff city centre after his team played against Cardiff Blues. However, the article states that the alleged assault occurred in March, not after the game against Gloucester.
+3. The summary does not mention that Muliaina denies the allegations, which is mentioned in the article.
+4. The summary states that Muliaina is married, which is not mentioned in the article.
 
-2. The summary states that Muliaina was arrested "in connection with an allegation in Cardiff in March," while the article states that he was arrested "on suspicion of sexual assault in relation to an incident in Cardiff in March."
-
-The summary does not include the word "suspicion" or "allegation," which are both present in the article. This suggests that the summary may be overstating the severity of the situation or implying that Muliaina has been charged with a crime, which is not the case according to the article.
-
-3. The summary states that Muliaina "denies the allegations," while the article states that he "totally denies all the allegations."
-
-The summary's wording suggests that Muliaina is admitting to the allegations, but is denying them. The article's wording, on the other hand, makes it clear that Muliaina is categorically denying any wrongdoing.
-
-4. The summary states that Muliaina was "led away by officers at the Kingsholm stadium last night," while the article states that he was "handed over to officers from South Wales Police who are investigating the incident."
-
-The summary implies that Muliaina was arrested at the stadium and taken away by officers, whereas the article suggests that he was handed over to other officers for further investigation.
-
-5. The summary does not include any information about Muliaina's bail or his solicitor's statement, which are both present in the article.
-
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions, and it may be overstating the severity of the situation.
+Therefore, the summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
 
 ###Corrected:

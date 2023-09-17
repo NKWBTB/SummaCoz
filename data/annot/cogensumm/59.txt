@@ -1,21 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    fans displayed the messages on bloomfield road ahead of their 3-0 win. 
+<Article>
+Blackpool supporters are planning to protest against the Championship club's owners, the Oyston family, by going to watch North West Counties Premier Division club AFC Blackpool instead. Fan group Tangerine Knights are to stage a protest at Bloomfield Road ahead of Blackpool's match with Leeds  on Saturday before going see the non-League side face Bootle afterwards in a game that has been delayed by 15 minutes to accommodate the added spectators. Supporters beamed messages criticising the Oystons on the stadium's West Stand on Tuesday night ahead of their 3-0 defeat by Charlton Athletic in front of a depleted crowd at home. Blackpool supporters beamed messages on the West Stand of Bloomfield Road before Tuesday night's game . Fans displayed the messages on Bloomfield Road ahead of their 3-0 defeat by Charlton Athletic . Blackpool are all but guaranteed to be relegated from the Championship as they sit 18 points from safety with eight games remaining, and they have not won since January 31. AFC Blackpool play in the ninth tier of the English football pyramid and their ground has a 1,500 capacity, some 16,000 less than their Championship counterparts. Yet the Seasiders have been running on empty, and fans have been staying away from Bloomfield Road. Tangerine Knights spokesperson Stephen Smith told BBC Radio Lancashire: 'It is a joint protest - it is not just to do with the football club this week. 'It's a joint venture with Leeds fans, against not only Karl Oyston being a regional representative on the Football League board, but it's against the Football League as well and the various things they have done over the past couple of years.' Blackpool supporters are planning to protest against the Championship club's owners, the Oyston family . Fan group Tangerine Knights are to stage a protest at Bloomfield Road ahead of Blackpool vs Leeds United . Blackpool chairman Karl Oyston pictured in the stands in August 2010 during a then-Premier League match .
+</Article>
 
-    Article: 
-    Blackpool supporters are planning to protest against the Championship club's owners, the Oyston family, by going to watch North West Counties Premier Division club AFC Blackpool instead. Fan group Tangerine Knights are to stage a protest at Bloomfield Road ahead of Blackpool's match with Leeds  on Saturday before going see the non-League side face Bootle afterwards in a game that has been delayed by 15 minutes to accommodate the added spectators. Supporters beamed messages criticising the Oystons on the stadium's West Stand on Tuesday night ahead of their 3-0 defeat by Charlton Athletic in front of a depleted crowd at home. Blackpool supporters beamed messages on the West Stand of Bloomfield Road before Tuesday night's game . Fans displayed the messages on Bloomfield Road ahead of their 3-0 defeat by Charlton Athletic . Blackpool are all but guaranteed to be relegated from the Championship as they sit 18 points from safety with eight games remaining, and they have not won since January 31. AFC Blackpool play in the ninth tier of the English football pyramid and their ground has a 1,500 capacity, some 16,000 less than their Championship counterparts. Yet the Seasiders have been running on empty, and fans have been staying away from Bloomfield Road. Tangerine Knights spokesperson Stephen Smith told BBC Radio Lancashire: 'It is a joint protest - it is not just to do with the football club this week. 'It's a joint venture with Leeds fans, against not only Karl Oyston being a regional representative on the Football League board, but it's against the Football League as well and the various things they have done over the past couple of years.' Blackpool supporters are planning to protest against the Championship club's owners, the Oyston family . Fan group Tangerine Knights are to stage a protest at Bloomfield Road ahead of Blackpool vs Leeds United . Blackpool chairman Karl Oyston pictured in the stands in August 2010 during a then-Premier League match . 
+<Summary>
+fans displayed the messages on bloomfield road ahead of their 3-0 win.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that fans displayed messages on Bloomfield Road ahead of their 3-0 win. However, the article states that Blackpool lost the game 3-0 to Charlton Athletic. Therefore, the summary is not consistent with the article.
-2. The summary mentions nothing about a protest or fans supporting another team, which is a key aspect of the article. The article explains that Blackpool supporters are planning to protest against the Championship club's owners, the Oyston family, by watching a non-League team instead of their own team's match.
-3. The summary states that fans displayed messages on Bloomfield Road ahead of their win, but the article states that the fans displayed messages criticizing the Oystons on the West Stand on Tuesday night ahead of their defeat by Charlton Athletic.
-4. The summary does not mention the reason for the protest or the fact that the fans are supporting another team, which is a significant aspect of the article.
-
-Therefore, based on these reasons, the summary is not consistent with the article.
+1. The summary states that fans displayed messages on Bloomfield Road ahead of a 3-0 win.
+2. However, the article states that Blackpool lost 3-0 to Charlton Athletic on Tuesday night.
+3. Therefore, the summary is not consistent with the article, as there was no 3-0 win for Blackpool.
+4. The summary must have been written based on incorrect information or a different event.
+5. The article does mention that fans displayed messages on Bloomfield Road, but it was before the game against Charlton Athletic, not after a 3-0 win.
+6. The inconsistency in the summary and the article suggests that the summary is not accurate and may have been mistaken or misleading.
 
 ###Corrected:

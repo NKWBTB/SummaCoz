@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    gps in england and wales are being urged to look at ways to improve the health service in england and wales. 
-
-    Article: 
-    Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
+<Article>
+Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
 A Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs.
 But unions warned against using it as a quick fix for problems in the NHS.
 It has been well documented that there are gaps in junior doctor rotas, while GPs are struggling to cope with the rising number of patients coming through their doors.
@@ -25,17 +22,22 @@ But British Medical Association leader Dr Mark Porter said while he supported in
 And Unison head of health Christina McAnea said the squeeze on funding in the health service meant there was "all too often" no funding for training courses.
 "Developing the NHS support workforce must not be seen as a quick and cheap fix for the chronic shortages of nurses and other health workers across the country," she added.
 Read more from Nick
-Follow Nick on Twitter 
+Follow Nick on Twitter
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the given summary is not consistent with the article:
+<Summary>
+gps in england and wales are being urged to look at ways to improve the health service in england and wales.
+</Summary>
 
-1. The summary states that nurses are being urged to look at ways to improve the health service in England and Wales, which is not accurate. The article does not mention nurses being urged to improve the health service. Instead, the article discusses the Nuffield Trust review, which found examples of nurses filling in for hospital doctors and pharmacists for GPs.
-2. The summary implies that the Nuffield Trust review was focused on nurses, but the article states that the review found examples of areas that were already experimenting with reshaping the workforce. The review did not solely focus on nurses, but rather highlighted the need for a more diverse workforce to provide better patient care.
-3. The summary mentions the NHS being short of front-line staff, but the article does not mention this. Instead, the article discusses the need for more training for the existing workforce to provide better patient care.
-4. The summary suggests that nurses are being asked to take on more responsibilities, which is not explicitly stated in the article. While the article does mention the Nuffield Trust's recommendation to reshape the workforce, it does not suggest that nurses are being asked to replace doctors.
-5. The summary quotes Dr. Mark Porter as saying that increasing the skills of the workforce should not be done "at the expense of good quality training for doctors." This is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the given summary is not consistent with the article because it misrepresents the Nuffield Trust review, implies that nurses are being urged to improve the health service, and misquotes Dr. Mark Porter. The article actually discusses the need for more training for the existing workforce to provide better patient care, rather than relying on nurses to fill in for doctors.
+1. The summary states that GPs in England and Wales are being urged to look at ways to improve the health service.
+2. However, the article states that NHS Employers has given the green light to a plan to reshape the workforce, with nurses filling in for hospital doctors and pharmacists for GPs.
+3. The article does not mention anything about GPs being urged to look at ways to improve the health service.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
+5. The article focuses on the Nuffield Trust review and the potential for nurses to fill in for hospital doctors and pharmacists for GPs, while the summary only mentions GPs and does not mention the Nuffield Trust review or the potential for nurses to fill in for hospital doctors and pharmacists.
+6. The summary is a very simplified version of the article and does not capture the complexity of the issues discussed in the article.
+7. The article discusses the potential for nurses to take on more responsibilities and the need for more training, but the summary does not mention any of this.
+8. Overall, the summary is not a accurate representation of the article and does not provide a clear understanding of the content of the article.
 
 ###Corrected:

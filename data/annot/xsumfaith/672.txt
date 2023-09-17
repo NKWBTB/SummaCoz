@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the revelation that melania and barron trump would not be joining donald in the white house in january has raised eyebrows in some quarters, and garnered praise in others. 
-
-    Article: 
-    The president-elect has said Mrs Trump and Barron will move to Washington "very soon, after he's finished with school", but has not put an actual date on the move.
+<Article>
+The president-elect has said Mrs Trump and Barron will move to Washington "very soon, after he's finished with school", but has not put an actual date on the move.
 But transition spokesman Jason Miller's insistence that the Trumps were "energised and excited about their new role serving the country" and it was simply concern about changing schools in the middle of the year did little to quell criticisms on social media.
 "First Family resides in White House as a symbol of our country to us and and the world," wrote one Twitter user, Pamela Benbow. "Melania Trump's decision is appalling."
 Others joked it was Mrs Trump's taste in interiors which had prompted the decision, while some began speculating about what the move said about the Trumps' marriage.
@@ -48,16 +45,19 @@ Both Hillary Clinton and Michelle Obama fit their duties as First Lady around th
 The Obamas are also strict about putting time aside for the girls: family dinner takes place every night at 18:30. Mr Obama has said only a national emergency will stop him joining his family.
 "The surprising truth is that being in the White House has made our family life more 'normal' than it's ever been," the President said in an interview with US magazine More earlier this year.
 It is a response echoed by Chelsea about her own years.
-She told the Huffington Post: "I was always deeply aware that I was living in history. But then I would have dinner with my parents at the kitchen table every night. There was so much about my life that also was normal." 
+She told the Huffington Post: "I was always deeply aware that I was living in history. But then I would have dinner with my parents at the kitchen table every night. There was so much about my life that also was normal."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the revelation that melania and barron trump would not be joining donald in the white house in january has raised eyebrows in some quarters, and garnered praise in others.
+</Summary>
 
-1. The summary states that Melania Trump will not be joining her husband in the White House in January, while the article states that she and her son Barron will move to Washington "very soon, after he's finished with school" but does not provide a specific date.
-2. The summary implies that Melania Trump's decision to delay moving to the White House is due to concerns about changing schools mid-year, while the article notes that she has repeatedly stressed that Barron is her focus and that she wants him to finish the current school year.
-3. The summary suggests that Melania Trump's decision is unusual, while the article notes that it is not uncommon for First Ladies to prioritize their families and not immediately move into the White House.
-4. The summary implies that Melania Trump will not be taking on a full-time role as First Lady, while the article notes that the role of the First Lady is only ceremonial and that some First Ladies have taken on more visible roles.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents Melania Trump's decision as a departure from tradition and emphasizes her focus on her son, while the article provides more context and nuance about the decision and the role of First Ladies.
+1. The summary states that Melania and Barron Trump will not be joining Donald Trump in the White House in January, which is not consistent with the article.
+2. The article explains that Mrs. Trump has indicated that she will not be taking on a full-time role as First Lady, and will prioritize her son's education and well-being over her duties as First Lady.
+3. The article also mentions that the decision for Mrs. Trump and Barron to remain in New York is not unusual, as other First Ladies have also prioritized their families and not moved into the White House immediately.
+4. However, the summary does not provide any of these contextual details and simply states that Mrs. Trump's decision is "raising eyebrows" without explaining why.
+5. Therefore, the summary is not consistent with the article because it does not provide the necessary context and instead presents the information as a simple and unexpected decision, which is not the case.
 
 ###Corrected:

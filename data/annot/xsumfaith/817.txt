@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    google chairman ken schmidt has called for a new committee of mps to tackle tax avoidance in the uk. 
-
-    Article: 
-    Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
+<Article>
+Mr Schmidt told the BBC that the company did what was "legally required" to pay the right amount of taxes.
 Google paid Â£10m in UK corporate taxes between 2006 and 2011.
 Mr Schmidt said it was up to the government to change its tax system if it wanted companies to pay more taxes.
 Speaking on BBC Radio 4's Start the Week, he said: "What we are doing is legal. I'm rather perplexed by this debate, which has been going in the UK for some time, because I view taxes as not optional.
@@ -19,15 +16,20 @@ Last week, European Union leaders agreed to tackle tax avoidance through an "aut
 The Google chairman has previously argued that corporate taxes should be levied in the country where it conducts economic activity and takes risks, rather than where products are consumed.
 He has also called for a debate on international tax reform.
 "Politicians - not companies - [should] set the rules...When legislators are doing the lobbying and companies are articulating the law as it stands, it's a confusing spectacle for everyone," he recently wrote in the Observer.
-"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them." 
+"Our hope is to move the debate forward, with everyone engaged constructively in developing a clearer, simpler system - one in which companies that abide by the law know that the politicians who devised the rules are willing to defend and commend them."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+google chairman ken schmidt has called for a new committee of mps to tackle tax avoidance in the uk.
+</Summary>
 
-1. The summary states that Google's chairman, Ken Schmidt, called for a new committee of MPs to tackle tax avoidance in the UK. However, in the article, Schmidt is quoted as saying that it is up to the government to change its tax system if it wants companies to pay more taxes. This suggests that he did not call for a new committee to tackle tax avoidance.
-2. The summary also states that Schmidt called for a debate on international tax reform, but the article does not mention this.
-3. The article mentions that Schmidt believes taxes should be levied in the country where economic activity and risks are taken, but the summary does not include this information.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents Schmidt's views on tax avoidance and omits important information about his beliefs on international tax reform.
+1. The summary states that Google chairman Ken Schmidt has called for a new committee of MPs to tackle tax avoidance in the UK.
+2. However, the article does not mention anything about Schmidt calling for a new committee of MPs. Instead, it reports on his views on taxes and tax reform.
+3. The article states that Schmidt believes taxes should be levied in the country where economic activity and risks are taken, rather than where products are consumed. He has also called for a debate on international tax reform.
+4. The summary is not consistent with the article because it does not accurately reflect Schmidt's views on tax avoidance in the UK. There is no mention in the article of Schmidt calling for a new committee of MPs to tackle tax avoidance.
+5. The article does mention that Schmidt believes the government should change its tax system if it wants companies to pay more taxes, but this is not the same as calling for a new committee of MPs.
+6. Therefore, the summary is not consistent with the article and may be considered misleading.
 
 ###Corrected:

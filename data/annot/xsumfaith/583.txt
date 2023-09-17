@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a flintshire man has admitted telling an american crisis line he was planning to kill himself and take as many police with him as he could. 
-
-    Article: 
-    Craig Hughes, 33, of Flint, was arrested by North Wales Police in August after he chatted online with the Hope Line Crisis Centre in Tennessee.
+<Article>
+Craig Hughes, 33, of Flint, was arrested by North Wales Police in August after he chatted online with the Hope Line Crisis Centre in Tennessee.
 Fears were raised over a planned murder bid involving police being ambushed after reports of a non-existent crime.
 Hughes admitted two charges at Mold Crown Court on Friday.
 He will be sentenced next week.
@@ -16,16 +13,22 @@ The threats were made on two occasions, late at night, while Hughes was drunk.
 Judge Niclas Parry, who was told the defendant had a previous conviction for possessing a firearm in 2009, remanded him in custody pending sentence.
 During a previous hearing, Hughes's legal team said he had not intended to kill himself and would not have carried out any threat to kill police officers.
 The court heard at the time, North Wales Police was particularly concerned because the defendant was on bail, awaiting trial for firearms offences, of which he was subsequently cleared.
-The Hope Line centre offers confidential support and counselling to people experiencing difficulty. 
+The Hope Line centre offers confidential support and counselling to people experiencing difficulty.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a flintshire man has admitted telling an american crisis line he was planning to kill himself and take as many police with him as he could.
+</Summary>
 
-1. The summary states that the man admitted telling an American crisis line he was planning to kill himself and take as many police with him as he could. However, the article does not mention anything about the man admitting to planning to kill himself. Instead, it states that he made threats to kill police officers.
-2. The summary also states that the man made these threats to the American crisis line, but the article does not mention anything about the man contacting an American crisis line. Instead, it states that he chatted online with the Hope Line Crisis Centre in Tennessee.
-3. The summary does not mention anything about the man being on bail awaiting trial for firearms offenses, which is mentioned in the article.
-4. The article states that the man's legal team said he had not intended to kill himself and would not have carried out any threat to kill police officers, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary exaggerates the man's admission and includes information that is not present in the article.
+1. The summary states that the man admitted telling an American crisis line that he was planning to kill himself and take as many police with him as he could.
+2. However, the article states that the man, Craig Hughes, admitted two charges at Mold Crown Court, including making a false report to the police and preparing to commit a murder bid.
+3. The article does not mention anything about the man telling an American crisis line that he was planning to kill himself and take police with him.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article.
+5. The summary is likely incorrect because it includes information that is not supported by the article.
+6. The article only mentions that the man made false reports to the police and planned to commit a murder bid, but does not mention anything about an American crisis line or the man's intentions to kill himself.
+
+In conclusion, the summary is not consistent with the article because it includes information that is not present in the article, and is likely incorrect as a result.
 
 ###Corrected:

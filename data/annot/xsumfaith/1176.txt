@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an international test for alzheimer\'s disease has been developed by researchers in nottingham. 
-
-    Article: 
-    It works by looking for a combination of "markers" in the blood which are different in healthy people and those with the disease.
+<Article>
+It works by looking for a combination of "markers" in the blood which are different in healthy people and those with the disease.
 Delegates at the Alzheimer's Research UK Conference heard that the University of Nottingham is now developing a quick and easy test to do in clinics.
 It could mean much earlier diagnosis and better treatments, they said.
 The test uses some proteins that have been strongly linked with Alzheimer's disease, such as amyloid and APOE.
@@ -23,16 +20,21 @@ Potentially, it could be a "cheap and easy pre-screen" test which enabled Alzhei
 "If they are medium-risk, they can be monitored closely and high-risk patients can be referred to a specialist for more in-depth testing."
 Dr Eric Karran, director of Research at Alzheimer's Research UK, said: "Giving people with dementia an accurate diagnosis is not always easy, and so building up our armoury of diagnostic techniques is vital.
 "While there is still some way to go before a test like this could become available, the results are promising.
-"When used alongside other diagnostic techniques, a blood test like this could be a real help." 
+"When used alongside other diagnostic techniques, a blood test like this could be a real help."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+an international test for alzheimer\'s disease has been developed by researchers in nottingham.
+</Summary>
 
-1. The summary states that an international test for Alzheimer's disease has been developed, while the article states that the test is still in the development stage and has not yet been validated.
-2. The summary mentions that the test is quick and easy, while the article states that the test is still being developed and validated, and it could be a decade before it is used in patients.
-3. The summary mentions that the test uses a combination of markers, including proteins related to inflammation, while the article states that the researchers have found some other markers that are suggestive of the disease, but they have not yet been confirmed as definitive markers.
-4. The summary mentions that the test could be a "cheap and easy pre-screen" test, while the article states that the test is still in the development stage and it's not clear if it will be used as a pre-screen test or not.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents the test as already being developed and available for use, while the article presents it as still in development and not yet validated. Additionally, the summary mentions some specific features of the test that are not mentioned in the article.
+1. The summary states that an international test for Alzheimer's disease has been developed by researchers in Nottingham.
+2. However, the article does not mention the word "international" or any specific test being developed by researchers in Nottingham.
+3. The article discusses a blood test that uses a combination of markers to diagnose Alzheimer's disease, but the summary does not mention any specific test or markers.
+4. The article mentions that the researchers are still validating the test and that it could be a decade before it is used in patients, but the summary does not mention any of this.
+5. The summary is not consistent with the article because it does not accurately represent the content or the research discussed in the article.
+
+Therefore, the summary is not a reliable representation of the article and may be misleading to readers.
 
 ###Corrected:

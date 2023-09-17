@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    humans lived in the amazon rainforest much earlier than previously thought, and even helped shape its biodiversity, researchers have said. 
-
-    Article: 
-    Swansea University's Dr Neil Loader and Emeritus Prof Alayne Street-Perrott, are among a team who have found ancient earthworks, possibly 2,000 years old.
+<Article>
+Swansea University's Dr Neil Loader and Emeritus Prof Alayne Street-Perrott, are among a team who have found ancient earthworks, possibly 2,000 years old.
 The discoveries were made in Acre state in the western Brazilian Amazon.
 Researchers from the universities of Exeter and Reading, and Brazil's SÃ£o Paulo, BelÃ©m are also part of the team.
 Their research investigated ditched enclosures which were concealed for centuries by bamboo-dominated rainforest until modern deforestation allowed the discovery of more than 450 large geometrical "geoglyphs".
@@ -20,16 +17,20 @@ It had been assumed prior to the arrival of Europeans in the early 16th Century,
 But the new research indicates a wide variety of plant species spread over 6,000 years, which could only have been artificially brought together by humans.
 It suggested instead of burning large tracts of forest - either for geoglyph construction or agricultural practices - people transformed their environment by concentrating on economically valuable trees such as palms.
 The team have likened it to a form of "prehistoric supermarket" of useful forest products.
-They said there is "tantalizing evidence" to suggest the biodiversity of some of Acre's remaining forests may retain a strong legacy of these ancient "agroforestry" practices to this day. 
+They said there is "tantalizing evidence" to suggest the biodiversity of some of Acre's remaining forests may retain a strong legacy of these ancient "agroforestry" practices to this day.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+humans lived in the amazon rainforest much earlier than previously thought, and even helped shape its biodiversity, researchers have said.
+</Summary>
 
-1. The summary states that humans lived in the Amazon rainforest much earlier than previously thought, but the article does not support this claim. The article only mentions the discovery of ancient earthworks and geoglyphs, without providing any information about human habitation.
-2. The summary suggests that humans helped shape the biodiversity of the Amazon rainforest, but the article does not provide any evidence for this claim. In fact, the article states that the researchers have found no evidence of large-scale human activity or deforestation in the area.
-3. The summary mentions that the geoglyphs were constructed amongst taller vegetation, but the article does not support this claim. The article states that the geoglyphs were built in areas with dense bamboo vegetation, but does not mention anything about the height of the vegetation.
-4. The summary suggests that the geoglyphs were used for ritual gathering places, but the article does not provide any evidence for this claim. The article states that the function of the geoglyphs is still little understood and that the researchers have found few artifacts during excavation.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it makes claims that are not supported by the information provided in the article.
+1. The summary states that humans lived in the Amazon rainforest much earlier than previously thought.
+2. However, the article does not mention anything about humans living in the Amazon rainforest. Instead, it discusses the discovery of ancient earthworks and geoglyphs in the region.
+3. The summary also suggests that humans helped shape the biodiversity of the Amazon rainforest. However, the article does not provide any evidence to support this claim.
+4. In fact, the article states that the researchers found that the geoglyphs were constructed amongst taller vegetation, which suggests that they were not visible above the forest canopy. This raises questions about their purpose, rather than supporting the idea that humans lived in the rainforest.
+5. Therefore, the summary is not consistent with the article, as it makes claims that are not supported by the evidence presented in the article.
 
 ###Corrected:

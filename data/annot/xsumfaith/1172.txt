@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sir bradley wiggins is to compete at this year\'s british cycling road championships in glasgow. 
-
-    Article: 
-    The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
+<Article>
+The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
 The ride will raise money to develop young Scottish cycling talent acknowledge the fabulous contribution made to Scottish and British cycling by Millar, who was born in Glasgow in 1958.
 His fourth-placed finish in the 1984 Tour de France was a record for a British rider and has since been matched only by Bradley Wiggins in 2009.
 For three of the organisers, the sportive is the perfect way to celebrate Millar's achievements. They hope it will safeguard his legacy.
@@ -38,17 +35,19 @@ The intensely private Millar gave his permission to Smith as long as proceeds we
 "He was one of my idols," said Smith. "He used to come back in the winter to Glasgow. Every year he came round to the house and gave me a jersey.
 "I was fortunate then; I was just as small as him so I could use them.
 "And now, to have a Robert Millar Sportive is fantastic because the legacy of the name will go on.
-"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world." 
+"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+sir bradley wiggins is to compete at this year\'s british cycling road championships in glasgow.
+</Summary>
 
-1. The summary states that Sir Bradley Wiggins is to compete at this year's British cycling road championships in Glasgow, but the article does not mention anything about Wiggins competing in the event.
-2. The summary mentions that the event is in honor of Robert Millar, but the article does not mention that the event is specifically in his honor.
-3. The summary states that the event will raise money for young Scottish cycling talent, but the article does not mention anything about the funds raised going towards developing young cyclists.
-4. The summary mentions that the event will take place in Glasgow, but the article does not mention the location of the event.
-5. The summary states that the event will feature a circuit that snakes through the Trossachs and Campsie Fells, but the article does not mention anything about the route of the event.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that Sir Bradley Wiggins will compete at this year's British cycling road championships in Glasgow.
+2. The article does not mention anything about Sir Bradley Wiggins or the British cycling road championships.
+3. Therefore, the summary is not consistent with the article.
+
+The reason for this inconsistency is that the summary is not based on the content of the article. The article is about a sportive event in Scotland to celebrate Robert Millar's achievements in cycling, while the summary mentions Sir Bradley Wiggins and the British cycling road championships, which are not related to the topic of the article.
 
 ###Corrected:

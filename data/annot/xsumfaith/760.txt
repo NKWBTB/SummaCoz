@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    how much do you remember about the christmas news, you might think about your questions about the christmas weather? 
-
-    Article: 
-    Test your news knowledge with our 12 days of Christmas news quizzes.
+<Article>
+Test your news knowledge with our 12 days of Christmas news quizzes.
 This quiz is day seven and asks questions about the month of July 2016.
-Good luck! 
+Good luck!
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the reasons step by step:
+<Summary>
+how much do you remember about the christmas news, you might think about your questions about the christmas weather?
+</Summary>
 
-1. The summary mentions "Christmas weather," but the article does not mention Christmas at all. The article is about testing news knowledge with a quiz, and the questions are about events that happened in July 2016, not about Christmas.
-2. The summary is written in a way that suggests the reader might be asked questions about their memories of Christmas, but the article does not ask any questions about Christmas. Instead, it provides a quiz with questions about news events from July 2016.
-3. The phrase "how much do you remember" is not relevant to the content of the article, which is about testing news knowledge, not about remembering personal experiences or events.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it implies that the reader will be asked questions about Christmas, when in fact the article is about testing news knowledge with a quiz about events that happened in July 2016.
+1. The article is about a news quiz and specifically mentions the month of July 2016.
+2. The summary mentions Christmas and weather, which are not related to the content of the article.
+3. The article does not mention anything about Christmas weather, which contradicts the summary.
+
+Therefore, the summary is not consistent with the article because it brings up topics that are not present in the article.
 
 ###Corrected:

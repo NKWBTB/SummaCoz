@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    cynthia cynthia, who was killed by islamist militants in kenya, in the early hours of thursday, she\'s been looking for a number of his life. 
-
-    Article: 
-    She had been contemplating the 50 hours she'd just spent crushed inside a tiny cupboard, hidden beneath a pile of clothes, with nothing but a bottle of body lotion to try to quench a raging thirst.
+<Article>
+She had been contemplating the 50 hours she'd just spent crushed inside a tiny cupboard, hidden beneath a pile of clothes, with nothing but a bottle of body lotion to try to quench a raging thirst.
 The sound of her friends being butchered in the courtyard outside echoed in her ears.
 Cynthia, a 19-year-old student at Garissa's teacher training college on the edge of town, spoke with the studied politeness that I've encountered repeatedly in the past few days in this isolated town, on the hot, dry plains that stretch towards and over the seemingly notional border that separates Kenya from Somalia.
 There have been plenty of tears from the survivors of Thursday's killings.
@@ -38,16 +35,20 @@ By attacking non-Muslim students in Garissa, the militants may well have been se
 Not that there was any hint in Garissa this week, that the militants were succeeding. Quite the opposite.
 Yes, it was disappointing to see the way the surviving students were treated by the authorities here - forced to camp out for two days before being bussed out of town.
 Surely they deserved better than that. One suspects wealthier students, at a more prestigious college, would have received more prompt support.
-But overall such horrific incidents still seem more likely to foster national unity, to bring communities together in shared revulsion, than to divide. 
+But overall such horrific incidents still seem more likely to foster national unity, to bring communities together in shared revulsion, than to divide.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+cynthia cynthia, who was killed by islamist militants in kenya, in the early hours of thursday, she\'s been looking for a number of his life.
+</Summary>
 
-1. The summary states that Cynthia was killed by Islamist militants in Kenya, but the article does not mention her death.
-2. The summary mentions the students being butchered in the courtyard, but the article does not describe any such scene. Instead, it focuses on the survivors' experiences and the aftermath of the attack.
-3. The summary implies that the attack was motivated by a desire to divide communities, but the article does not support this. In fact, it suggests that the attack may have been motivated by a desire to promote a Greater Somalia, which is not mentioned in the summary.
-4. The summary mentions the authorities treating the surviving students poorly, but the article does not describe any such treatment. Instead, it notes that the survivors were forced to camp out for two days before being bussed out of town, which is not necessarily a negative experience.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary takes a very different tone and focuses on different aspects of the article than the original text. It is not a consistent summary of the article's content.
+1. The summary states that "Cynthia, who was killed by Islamist militants in Kenya, in the early hours of Thursday, she's been looking for a number of his life."
+2. The article does not mention anything about Cynthia being killed or looking for a number of her life.
+3. The article is about the recent terrorist attack in Garissa, Kenya, and the aftermath of the attack.
+4. The summary is not consistent with the article because it mentions a person named Cynthia who is not mentioned in the article, and it also mentions a number of her life, which is not relevant to the article.
+5. The article is focused on the terrorist attack and its impact on the survivors and the community, while the summary is focused on a fictional person named Cynthia and her life.
+6. Therefore, the summary is not a correct summary of the article.
 
 ###Corrected:

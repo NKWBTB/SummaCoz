@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police searching for a greenock woman who has been missing for more than a decade have launched a fresh search for her. 
-
-    Article: 
-    Margaret Fleming, 36, was last seen at her home in Inverkip by her two carers at about 17:40 on Friday 28 October.
+<Article>
+Margaret Fleming, 36, was last seen at her home in Inverkip by her two carers at about 17:40 on Friday 28 October.
 She is described as about 5ft 5in tall, with collar-length black hair, brown eyes and has a heavy build, although her weight can fluctuate.
 Police had said they were trying to build a picture of Ms Fleming's life, part of which she kept "quite private".
 When last seen, she was wearing a green tartan fleece or jumper, dark jeans or trousers, and dark Karrimor-type boots. She also had a satchel-type handbag.
@@ -15,16 +12,19 @@ Speaking earlier this month, Ch Insp Elliot Brown, area commander for Greenock, 
 "As we continue to try to piece together Margaret's life, we understand she kept a side of her life quite private so we're trying to look into this in a bit more detail to see if this will help with our inquiries.
 "We are working backwards to try to find out more about Margaret, so we've been speaking to friends and family members to establish a clearer picture of her life over the years."
 The detective said that Ms Fleming was a student at James Watt College in Greenock between 1996 and 1997.
-He said he was keen to speak to anyone who remembered her from then, and who might have been in touch with her over the years. 
+He said he was keen to speak to anyone who remembered her from then, and who might have been in touch with her over the years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+police searching for a greenock woman who has been missing for more than a decade have launched a fresh search for her.
+</Summary>
 
-1. The summary mentions that police are searching for a woman who has been missing for more than a decade, but the article states that Margaret Fleming was last seen on Friday, October 28, 2016, which is less than a decade ago.
-2. The summary mentions that Margaret is a Greenock woman, but the article does not provide any information about her location or where she was last seen.
-3. The summary states that police are searching for Margaret, but the article does not mention any search efforts or investigations.
-4. The summary mentions that Margaret kept a side of her life private, but the article does not provide any information about this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the police are searching for a Greenock woman who has been missing for more than a decade.
+2. The article states that Margaret Fleming was last seen at her home in Inverkip on Friday, October 28th, and that the police have been trying to piece together her life since then.
+3. The article does not mention a decade-long search for Margaret Fleming. In fact, it states that the police are currently working with limited information and are trying to establish a clearer picture of her life.
+4. Therefore, the summary is not consistent with the article because it implies that the police have been searching for Margaret Fleming for more than a decade, when the article states that the search is ongoing and that the police are trying to gather more information.
+5. The discrepancy between the summary and the article may be due to the fact that the summary is not providing an accurate summary of the article. The summary should have stated that the police are currently searching for Margaret Fleming and trying to gather more information about her, rather than implying that they have been searching for her for more than a decade.
 
 ###Corrected:

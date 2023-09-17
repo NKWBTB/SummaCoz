@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
-the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
-five out of six people were injured by broken glass and have been sent to the hospital for treatment , xinhua news agency reported . 
-
-    Article: 
-    hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
+<Article>
+hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
 the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
 the blast occurred at an oil storage facility monday night after an oil leak , though local media has not reported any toxic chemical spill .
 five out of six people were injured by broken glass and have been sent to the hospital for treatment , xinhua news agency reported .
@@ -18,17 +13,23 @@ one user wrote that he heard a loud blast and felt slight tremors .
 the plant was hit by another explosion in july 2013 , although there were no reports of casualties or toxic leaks at the time .
 though demonstrations are illegal in china , the construction of px plants has sparked protests , which have occasionally turned violent , in several cities in recent years .
 the zhangzhou plant was slated for xiamen -- a densely populated city in the southeast of the country .
-however , it provoked an angry backlash in 2007 due to pollution concerns and prompted the local government to relocate the factory to its current , more remote location . 
+however , it provoked an angry backlash in 2007 due to pollution concerns and prompted the local government to relocate the factory to its current , more remote location .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
+the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
+five out of six people were injured by broken glass and have been sent to the hospital for treatment , xinhua news agency reported .
+</Summary>
 
-1. The summary states that the plant produces paraxylene (PX), a reportedly carcinogenic chemical. However, the article does not mention anything about PX being carcinogenic. Instead, it states that the plant produces paraxylene, which is used in the production of polyester films and fabrics.
-2. The summary states that five out of six people were injured by broken glass, but the article does not mention anything about broken glass or injuries. Instead, it states that five out of six people were injured in the explosion, but it does not specify how they were injured.
-3. The summary states that the explosion occurred at an oil storage facility, but the article does not mention anything about an oil storage facility. Instead, it states that the explosion occurred at the chemical plant.
-4. The summary states that there was a toxic chemical spill, but the article does not mention anything about a toxic chemical spill. Instead, it states that there was an oil leak, but it does not specify if it was a toxic spill.
-5. The summary states that the plant was hit by another explosion in July 2013, but the article does not mention anything about a previous explosion.
+Explain your reasoning step by step:[/INST]
 
-Based on these differences, it is clear that the summary is not consistent with the article. The summary contains several inaccuracies and exaggerations, such as the claim that the plant produces a carcinogenic chemical, the description of the injuries, and the location of the explosion.
+1. The summary states that the plant produces paraxylene (PX), a reportedly carcinogenic chemical. However, the article does not mention anything about PX being carcinogenic.
+2. The summary states that five out of six people were injured by broken glass, but the article does not mention anything about broken glass or injuries.
+3. The summary does not mention the oil leak that caused the explosion, which is mentioned in the article.
+4. The summary does not mention the fire being under control, which is mentioned in the article.
+5. The summary does not mention the protests and violent turn that the construction of PX plants has sparked in several cities in recent years, which is mentioned in the article.
+
+Therefore, the summary is not consistent with the article. The summary omits important information, adds incorrect information, and does not accurately represent the content of the article.
 
 ###Corrected:

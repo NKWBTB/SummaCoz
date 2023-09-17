@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
-abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
-mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday . 
-
-    Article: 
-    jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
+<Article>
+jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
 mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday .
 abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
 a picture on the memorial website for abu khdeir shows an israeli flag with two flowers called " blood of the maccabees " in israel , a symbol often used on memorial day , when the country honors its soldiers killed in the line of duty and victims of terrorism .
@@ -23,17 +18,23 @@ indor 's organization wrote a letter to the national insurance institute of isra
 indor said if the teenager 's name is not taken off , members of almagor want their own family members ' names removed .
 on wednesday , israel radio reported that the national insurance institute of israel will remove abu khdeir 's name from the memorial following his father 's complaints .
 the teen 's name has already been removed from the organization 's website , which lists the names on the memorial wall .
-a panel of judges began hearing evidence in january against the three suspects in abu khdeir 's killing . 
+a panel of judges began hearing evidence in january against the three suspects in abu khdeir 's killing .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
+abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
+mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday .
+</Summary>
 
-1. The article states that Mohammed Abu Khdeir's name was included on the memorial wall at Jerusalem's Mount Herzl, along with the names of fallen soldiers and victims of terrorism.
-2. However, the article also states that Abu Khdeir's family and others have complained about his inclusion on the memorial wall, and that his name will be removed following his father's complaints.
-3. The article notes that Abu Khdeir was beaten and burned alive by three Israelis in July, according to prosecutors.
-4. The summary states that Abu Khdeir's name will be removed from the memorial wall, but the article does not mention any reason for the removal.
-5. Therefore, the summary is not consistent with the article because it does not provide the same information as the article. The summary states that Abu Khdeir's name will be removed, but the article does not provide a reason for the removal.
-6. The article provides a reason for the removal of Abu Khdeir's name, which is that his family and others have complained about his inclusion on the memorial wall. This reason is not mentioned in the summary.
-7. Therefore, the summary is not a accurate representation of the information provided in the article. It does not provide all the information in the article and does not accurately represent the reason for the removal of Abu Khdeir's name from the memorial wall.
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, there are several inconsistencies that can be identified:
+
+1. The summary states that the teenager's name will be removed from the memorial, but the article states that the name has already been removed from the organization's website, which lists the names on the memorial wall.
+2. The summary does not mention the reason for the name removal, which is the objection of the teenager's family and an organization that works on behalf of victims of terror in Israel.
+3. The summary does not provide any information about the controversy surrounding the inclusion of the teenager's name on the memorial, such as the objections of the family and the organization, and the fact that the teenager was not considered a terror victim.
+
+Therefore, the summary is not consistent with the article because it does not provide a complete and accurate representation of the events and issues described in the article. The summary should have included the reasons for the name removal, the controversy surrounding the inclusion of the teenager's name on the memorial, and the fact that the teenager was not considered a terror victim.
 
 ###Corrected:

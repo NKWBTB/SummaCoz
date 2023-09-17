@@ -1,26 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police have launched probe into 'unexplained death' of sophia walker. police have launched a probe into the 'tragic death' of sophia walker. mother said she was 'heartbroken' after her three-month-old daughter was found dead. her mother patricia hodgdon, 34, wrote: 'me and chaz hearts broken lost my princess don't want to speak' sophia was born premature in late december and lived with mother and father. 
+<Article>
+Police have launched a probe into the 'unexplained death' of Sophia Walker (pictured) after she was found unresponsive in the early hours of Saturday . A mother has said she is 'heartbroken' after her three-month-old daughter was found dead at their home in Dundee. Police have launched a probe into the 'unexplained death' of Sophia Walker after she was found unresponsive in the early hours of Saturday. Her mother Patricia Hodgdon, 34, wrote a series of messages on Facebook saying: 'Me and Chaz hearts broken lost my princess don't want to speak. 'I want her back. Please please. Why why please say I'm dreaming plz.' Ambulance crews rushed to the home in Dundee after receiving reports of the  sudden death, but they were unable to revive the baby. It is understood that Sophia was born premature in late December and lived with her mother and father, Charles Walker, at the home in Kirkton. Both the parents were being comforted by friends and relatives today and flowers were laid at the gate of the house. Police Scotland confirmed an investigation has been launched into the death and that it is being treated as unexplained. A spokesman said: 'The death is being treated as unexplained. Inquiries are at an early stage and as is standard practice a report will be submitted to the Procurator Fiscal.' Neighbour Dexylee Mullady, 19, said she was shocked and saddened that the baby had died. She said: 'I have only ever seen pictures of her on Facebook and never seen her outside. She looked like she was a tiny little thing - I can't believe this has happened. 'This is really horrible - we can't imagine what the family must be going through.' She said police had been outside the home in Dundee all weekend. A police van  was outside the home in Dundee all weekend and friends left flowers and tributes at the gate .
+</Article>
 
-    Article: 
-    Police have launched a probe into the 'unexplained death' of Sophia Walker (pictured) after she was found unresponsive in the early hours of Saturday . A mother has said she is 'heartbroken' after her three-month-old daughter was found dead at their home in Dundee. Police have launched a probe into the 'unexplained death' of Sophia Walker after she was found unresponsive in the early hours of Saturday. Her mother Patricia Hodgdon, 34, wrote a series of messages on Facebook saying: 'Me and Chaz hearts broken lost my princess don't want to speak. 'I want her back. Please please. Why why please say I'm dreaming plz.' Ambulance crews rushed to the home in Dundee after receiving reports of the  sudden death, but they were unable to revive the baby. It is understood that Sophia was born premature in late December and lived with her mother and father, Charles Walker, at the home in Kirkton. Both the parents were being comforted by friends and relatives today and flowers were laid at the gate of the house. Police Scotland confirmed an investigation has been launched into the death and that it is being treated as unexplained. A spokesman said: 'The death is being treated as unexplained. Inquiries are at an early stage and as is standard practice a report will be submitted to the Procurator Fiscal.' Neighbour Dexylee Mullady, 19, said she was shocked and saddened that the baby had died. She said: 'I have only ever seen pictures of her on Facebook and never seen her outside. She looked like she was a tiny little thing - I can't believe this has happened. 'This is really horrible - we can't imagine what the family must be going through.' She said police had been outside the home in Dundee all weekend. A police van  was outside the home in Dundee all weekend and friends left flowers and tributes at the gate . 
+<Summary>
+police have launched probe into 'unexplained death' of sophia walker. police have launched a probe into the 'tragic death' of sophia walker. mother said she was 'heartbroken' after her three-month-old daughter was found dead. her mother patricia hodgdon, 34, wrote: 'me and chaz hearts broken lost my princess don't want to speak' sophia was born premature in late december and lived with mother and father.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-Step 1: The summary states that the police have launched a probe into the "tragic death" of Sophia Walker, while the article states that the police have launched a probe into the "unexplained death" of Sophia Walker.
+1. The article states that the death of Sophia Walker is being treated as "unexplained" by Police Scotland.
+2. The summary states that the death is a "tragic death".
 
-Step 2: The summary states that Sophia was born premature in late December, while the article does not mention when Sophia was born.
+Reasoning:
 
-Step 3: The summary states that Sophia lived with her mother and father, while the article states that Sophia lived with her mother and father at the home in Kirkton.
+The summary uses the word "tragic" to describe the death, which implies that the cause of death is already known and is a tragic event. However, the article states that the death is being treated as "unexplained", which means that the cause of death is not yet known.
 
-Step 4: The summary states that the mother, Patricia Hodgdon, wrote on Facebook that she and her partner Chaz are "heartbroken" and want Sophia back, while the article states that Patricia wrote a series of messages on Facebook saying "Me and Chaz hearts broken lost my princess don't want to speak. 'I want her back. Please please. Why why please say I'm dreaming plz."
-
-Step 5: The summary states that the police have launched an investigation into the death and that it is being treated as unexplained, while the article states that the death is being treated as unexplained and that inquiries are at an early stage.
-
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, such as the phrase "tragic death" and the statement that Sophia was born premature. Additionally, the summary does not accurately convey the information in the article about the police investigation and the messages written by Patricia Hodgdon on Facebook.
+Therefore, the summary is not consistent with the article because it implies that the cause of death is known, while the article states that the cause of death is not yet known.
 
 ###Corrected:

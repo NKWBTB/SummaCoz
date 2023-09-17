@@ -1,31 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    celebrity celebrity reality tv star peter wright is set to take over from celebrity reality tv star timericayericay town. 
-
-    Article: 
-    Dan Groves said the "finer points" of a deal which could see Wright buy 20% of the club are yet to be released.
+<Article>
+Dan Groves said the "finer points" of a deal which could see Wright buy 20% of the club are yet to be released.
 The Sun reported that the 30-year-old will become a club director.
 Billericay are eighth in the Isthmian League Premier Division, three points adrift of a play-off place.
 Wright, who was runner-up in I'm A Celebrity Get Me Out Of Here in 2011, played non-league football for a succession of clubs, including Lewes, Crawley Town and Rushden & Diamonds.
 Billericay have recently been taken over by multi-millionaire Glenn Tamplin, who said shortly after completing a deal for the club that he was "comfortable" investing £10,000 a week.
-The club signed former England international Paul Konchesky, 35, at the start of March. 
+The club signed former England international Paul Konchesky, 35, at the start of March.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+celebrity celebrity reality tv star peter wright is set to take over from celebrity reality tv star timericayericay town.
+</Summary>
 
-1. The summary mentions Peter Wright taking over from Tim Ricayuer, but the article doesn't mention anything about Tim Ricayuer being involved with Billericay Town FC.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that Peter Wright is becoming a club director, but the article only mentions that Dan Groves said the "finer points" of a deal which could see Wright buy 20% of the club are yet to be released.
-
-3. The summary mentions Wright playing non-league football, but the article only mentions that he was runner-up in I'm A Celebrity Get Me Out Of Here in 2011.
-
-4. The summary mentions Billericay Town FC being taken over by a multi-millionaire, but the article only mentions that Glenn Tamplin said he was "comfortable" investing £10,000 a week.
-
-5. The summary mentions the club signing former England international Paul Konchesky, but the article doesn't mention anything about that.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The summary states that celebrity reality TV star Peter Wright is set to take over from celebrity reality TV star Timeryayericay Town. However, the article does not mention anything about Timeryayericay Town or any celebrity taking over the club.
+2. The article does mention that multi-millionaire Glenn Tamplin has taken over the club, but there is no mention of Peter Wright being involved in the takeover or taking over the club.
+3. The article also mentions that former England international Paul Konchesky has signed for the club, but there is no mention of Peter Wright signing for the club or any other celebrity signing.
+4. Therefore, the summary is not consistent with the article because it mentions celebrity reality TV star Peter Wright taking over the club, which is not supported by the information in the article.
 
 ###Corrected:

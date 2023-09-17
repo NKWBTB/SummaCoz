@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a sheriff 's deputy is accused of shooting a man in the bahamas for a family vacation .
-he is accused of shooting a man in the bahamas for a family vacation .
-he has apologized to the harris family . 
-
-    Article: 
-    ( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
+<Article>
+( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
 at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
 that decision prompted a response from the family of eric harris , the man bates killed .
 " we are not surprised that mr. bates pled not guilty .
@@ -27,16 +22,22 @@ the tulsa county sheriff 's office has denied these allegations .
 over the weekend , one of bates ' lawyers released most of his training documents and said they prove bates had proper law enforcement training .
 two deputies involved in arrest of harris have been reassigned because of threats against them and their families , glanz said monday in a news conference .
 lawyer releases training records for tulsa deputy charged in killing
-cnn 's jason morris and ed lavandera contributed to this report . 
+cnn 's jason morris and ed lavandera contributed to this report .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a sheriff 's deputy is accused of shooting a man in the bahamas for a family vacation .
+he is accused of shooting a man in the bahamas for a family vacation .
+he has apologized to the harris family .
+</Summary>
 
-1. The summary states that the deputy is accused of shooting a man in the Bahamas for a family vacation, but the article does not mention the Bahamas or a family vacation.
-2. The summary mentions the deputy has apologized to the Harris family, but the article does not mention an apology.
-3. The summary implies that the deputy was qualified to be on the force and had proper law enforcement training, but the article states that the deputy's training records were released and suggest that he was not properly trained.
-4. The summary does not mention the allegations that the sheriff's office forged the deputy's records, which are included in the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it omits or misrepresents several key details.
+1. The summary states that the sheriff's deputy is accused of shooting a man in the Bahamas for a family vacation, which is not accurate. The article states that the deputy, Robert Bates, is accused of fatally shooting a man named Eric Harris during a weapons sting operation in Oklahoma, not in the Bahamas.
+2. The summary does not mention the fact that Bates has apologized to the Harris family, which is mentioned in the article.
+3. The summary does not provide any information about the context of the shooting or the investigation, such as the fact that Bates claimed he meant to use a taser but accidentally shot Harris with a gun, or that there are allegations of preferential treatment and forged records.
+
+Overall, the summary does not accurately convey the information in the article and is not a fair representation of the facts.
 
 ###Corrected:

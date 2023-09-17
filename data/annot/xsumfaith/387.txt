@@ -1,26 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    first minister carwyn jones has revealed the birth of her mother, who has been missing for three weeks. 
-
-    Article: 
-    The 39-year-old, from Ammanford in Carmarthenshire, revealed the news live on BBC One's The One Show on Thursday evening but has yet to reveal the name.
+<Article>
+The 39-year-old, from Ammanford in Carmarthenshire, revealed the news live on BBC One's The One Show on Thursday evening but has yet to reveal the name.
 It is Miss Jones' first child with partner Charlie Thomson and he was born in the morning of Sunday, 22 January, weighing 7lbs 11.
-Ms Jones was concerned she had left it too late to have a baby after filming a documentary, Fertility and Me. 
+Ms Jones was concerned she had left it too late to have a baby after filming a documentary, Fertility and Me.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+first minister carwyn jones has revealed the birth of her mother, who has been missing for three weeks.
+</Summary>
 
-1. The summary states that "first minister Carwyn Jones has revealed the birth of her mother." This is incorrect, as Carwyn Jones is a male and cannot have given birth to a child.
-2. The article states that the baby was born to Miss Jones and her partner Charlie Thomson. This means that Carwyn Jones, the first minister, is not the mother of the baby.
-3. The summary also states that the birth took place three weeks ago, but the article states that the baby was born on Sunday, January 22nd, which is a recent event and not three weeks ago.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, and the reasons for this inconsistency are:
+1. The first sentence of the summary states "first minister carwyn jones has revealed the birth of her mother." This is not consistent with the article, as there is no mention of Carwyn Jones being the first minister or her mother giving birth.
+2. The article only mentions a woman named Ms. Jones, who is the subject of the article and has given birth to a baby boy. There is no mention of Carwyn Jones or her mother.
+3. The summary is not supported by any information in the article, and is therefore not consistent with the article.
 
-* Carwyn Jones is a male and cannot give birth to a child.
-* The baby was born to Miss Jones and her partner, not Carwyn Jones.
-* The birth took place recently, not three weeks ago.
+Therefore, the reason why the summary is not consistent with the article is that it contains false information and does not accurately reflect the content of the article.
 
 ###Corrected:

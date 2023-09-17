@@ -1,39 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s food security is increasingly reliant on 14 ``chokepoints\'\'for trade, a think-tank report has warned. 
-
-    Article: 
-    UK-based Chatham House says more needs to be done to protect key transport routes such as the Panama Canal, the Suez Canal and the Turkish Straits.
+<Article>
+UK-based Chatham House says more needs to be done to protect key transport routes such as the Panama Canal, the Suez Canal and the Turkish Straits.
 Almost 25% of the world's food is traded on international markets.
 This, the report says, makes food supply and prices vulnerable to unforeseen crises or climate change.
 Infrastructure at the chokepoints is often old and would struggle to cope with natural disasters which are expected to grow in frequency as the planet warms, the report authors add.
 They urge governments to invest in "climate-resilient" infrastructure, and diversify food production and stocks.
 The report gives examples of how reliant the world is on this trade:
 "The risks are growing as we all trade more with each other and as climate change takes hold," says Laura Wellesley, one of the study's authors.
-There are risks for both the food security of importing countries and the economies of those exporting food, she added. 
+There are risks for both the food security of importing countries and the economies of those exporting food, she added.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+the world\'s food security is increasingly reliant on 14 ``chokepoints\'\'for trade, a think-tank report has warned.
+</Summary>
 
-1. The summary states that the world's food security is increasingly reliant on 14 "chokepoints" for trade.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention "chokepoints" at all. Instead, it talks about the importance of protecting key transport routes such as the Panama Canal, the Suez Canal, and the Turkish Straits.
+1. The article states that almost 25% of the world's food is traded on international markets, making food supply and prices vulnerable to unforeseen crises or climate change.
+2. The report from Chatham House highlights the importance of 14 "chokepoints" for trade, including the Panama Canal, the Suez Canal, and the Turkish Straits.
+3. However, the summary only mentions "chokepoints" and does not provide any specific information about the importance of these points for food trade or the risks associated with them.
+4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the risks associated with the chokepoints and the impact of climate change on food supply and prices.
+5. Additionally, the summary does not mention the specific examples given in the article, such as the risks for both the food security of importing countries and the economies of those exporting food.
 
-2. The summary implies that the world's food supply is vulnerable to unforeseen crises or climate change because almost 25% of the world's food is traded on international markets.
-
-But the article does not mention anything about the percentage of the world's food that is traded. It only mentions the importance of protecting key transport routes to ensure food security.
-
-3. The summary states that infrastructure at the chokepoints is often old and would struggle to cope with natural disasters, which are expected to grow in frequency as the planet warms.
-
-However, the article does not mention anything about the age of the infrastructure or the vulnerability of the transport routes to natural disasters. It only emphasizes the need to protect these routes to ensure food security.
-
-4. The summary urges governments to invest in "climate-resilient" infrastructure and diversify food production and stocks.
-
-While the article does mention the need for governments to invest in "climate-resilient" infrastructure, it does not mention anything about diversifying food production and stocks.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary emphasizes the importance of "chokepoints" and the vulnerability of the world's food supply to unforeseen crises or climate change, while the article focuses on the importance of protecting key transport routes to ensure food security.
+Overall, the summary does not accurately reflect the content of the article and does not provide the same level of detail or specific examples.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an edinburgh taxi driver who took thousands of people to a festival has revealed he has been given the chance to take up the art exhibition. 
-
-    Article: 
-    Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
+<Article>
+Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
 The 42-year-old said only two people refused out of the 103 people he asked due to being in a hurry and having a bad hair day.
 Now the father-of-three's pictures will go on display at Out of the Blue Drill Hall, Dalmeny Street, in August.
 Mr Walls told the BBC Scotland news website how he took photographs of a hen party, stag do, football fans, a chef, a high court judge and a TV agony aunt from Kuwait.
@@ -14,16 +11,18 @@ He said: "Everyone was so nice. One of the pictures is of a passenger who was in
 "I also had an elderly former English teacher who had suddenly decided she wanted to go out to a show at the festival at the last minute and she had lots of words of encouragement for me so I really enjoyed chatting with her.
 "I also got a Jambo fan and was worried I wasn't going to get a Hibs fan but luckily I did.
 "I'm really interested in people and wanted to capture that moment in my cab, I only had seconds to take a few pictures and I'm really pleased with the end result."
-The exhibition runs from 31 July until 5 August. 
+The exhibition runs from 31 July until 5 August.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+an edinburgh taxi driver who took thousands of people to a festival has revealed he has been given the chance to take up the art exhibition.
+</Summary>
 
-1. The summary states that the taxi driver, Ryan Walls, has been given the chance to take up an art exhibition. However, the article does not mention anything about Ryan being given the chance to take up an art exhibition.
-2. The summary mentions that Ryan took pictures of thousands of people during the Edinburgh Festival in 2015. However, the article only mentions that Ryan took pictures of 101 passengers.
-3. The summary states that only two people refused to be photographed due to being in a hurry and having a bad hair day. However, the article does not mention anything about anyone refusing to be photographed.
-4. The summary mentions that Ryan's pictures will go on display at an art exhibition in August. However, the article does not mention anything about an art exhibition or when the pictures will be displayed.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary exaggerates the number of people Ryan photographed, misstates the reason for why some people refused to be photographed, and adds information about an art exhibition that is not present in the article.
+1. The article states that Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
+2. The summary states that the taxi driver took thousands of people to the festival. This is not consistent with the article, as it would be physically impossible for one driver to take thousands of people to the festival.
+3. The article states that Ryan Walls took pictures of 101 passengers, which is a much smaller number than thousands.
+4. Therefore, the summary is not consistent with the article because it exaggerates the number of people the taxi driver took to the festival.
 
 ###Corrected:

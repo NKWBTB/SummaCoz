@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an independent review into the use of mesh implants in scotland has been published by msps. 
-
-    Article: 
-    Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
+<Article>
+Many women have questioned the safety of the implants, which are used to treat incontinence, after suffering debilitating side effects.
 Two patients sitting on the original review group quit in protest at what they said was a watered-down report.
 Now independent expert Alison Britton, a professor of healthcare and medical law, will examine the final report.
 Ms Robison told Holyrood's public petitions committee that Prof Britton, from Glasgow Caledonian University, would examine the process by which the report came to its conclusions.
@@ -27,17 +24,21 @@ Olive McIlroy and Elaine Holmes - who had both suffered complications as a resul
 It was claimed that parts of the final report had been removed.
 Following their resignations, it emerged that a consultant also quit the expert group over concerns about the final draft of the report.
 Over the past 20 years, more than 20,000 women in Scotland have had mesh or tape implants but some have suffered painful and debilitating complications.
-There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery. 
+There are more than 400 women currently taking legal action against Scottish health boards and manufacturers as a result of mesh implant surgery.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+an independent review into the use of mesh implants in scotland has been published by msps.
+</Summary>
 
-1. The summary states that an independent review into the use of mesh implants in Scotland has been published by MSPs, but the article does not mention anything about the review being published by MSPs. Instead, the article states that the review was conducted by an independent expert, Professor Alison Britton.
-2. The summary mentions that the review concluded that procedures should not be offered routinely to women with pelvic organ prolapse, but the article does not mention this conclusion. Instead, the article states that the review recommended that patients be offered a range of treatments and given the information to make "informed choices".
-3. The summary states that the report was published by MSPs, but the article does not mention anything about the report being published by MSPs. Instead, the article states that the report was produced by Professor Britton.
-4. The summary mentions that the review was conducted by an independent expert, but the article does not mention this. Instead, the article states that the review was conducted by an independent panel.
-5. The summary does not mention the controversy surrounding the review, including the resignations of two panel members and the apology from the chairwoman of the independent review.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions that misrepresent the content of the article.
+1. The summary states that an independent review into the use of mesh implants in Scotland has been published by MSPs.
+2. However, the article states that the review was conducted by an independent expert, Professor Alison Britton, and not by MSPs.
+3. Therefore, the summary is not consistent with the article as it implies that the review was conducted by MSPs, whereas the article states that it was conducted by an independent expert.
+4. The article also mentions that the review was controversial and that there were strongly-held views among the panel members, which is not reflected in the summary.
+5. Additionally, the summary does not provide any information about the content of the review or its recommendations, whereas the article provides detailed information about the review's findings and recommendations.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the content or scope of the independent review into the use of mesh implants in Scotland.
 
 ###Corrected:

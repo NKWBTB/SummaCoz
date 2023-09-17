@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in our series of letters from african journalists, ghanaian writer elizabeth ohene, best known for the 2016 olympics and paralympics. 
-
-    Article: 
-    You might forgive Laura Trott and Jason Kenny for leaving Rio rather full of themselves. Five competitions between them, five golds won. As of Tuesday night, had the couple been a country they would have sat 13th on the medal table, above Jamaica, Kenya and Brazil.
+<Article>
+You might forgive Laura Trott and Jason Kenny for leaving Rio rather full of themselves. Five competitions between them, five golds won. As of Tuesday night, had the couple been a country they would have sat 13th on the medal table, above Jamaica, Kenya and Brazil.
 That would be to misunderstand what makes them tick. This is a couple who got engaged while on the sofa watching an episode of EastEnders.
 You might think too that it would get competitive around the breakfast table in the cottage they share just outside Knutsford in Cheshire. Kenny now has six Olympic golds from three Games, more than Sir Steve Redgrave and Sir Bradley Wiggins. Trott has four, more than any other British woman, and from one fewer Olympics.
 That would be to misjudge their relationship. Cycling superstars on their own, together they can be almost ordinary, almost invisible. After the gold rush, after their tearful embrace in the Rio velodrome with the world watching on, that may be about to change.
@@ -45,16 +42,20 @@ Fame has never been the driving force. Kenny may have 54,000 followers on Twitte
 "It isn't a job to me, but if it did feel like one, it would be a dream job," she says. "All I do is ride my bike for four hours a day and then lie on the sofa for the rest of it. I don't feel like I'd ever fall out of love with it."
 And each understands exactly what the other is going through. How could they not, when together they have turned a cottage in Cheshire into a medal factory?
 "If I was in a relationship with someone outside cycling," says Trott, "just imagine how hard it would be. I'd have to explain everything from scratch."
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+in our series of letters from african journalists, ghanaian writer elizabeth ohene, best known for the 2016 olympics and paralympics.
+</Summary>
 
-1. The summary states that the article is about Laura Trott and Jason Kenny, but the article actually focuses more on their relationship and personal lives rather than their athletic achievements.
-2. The summary mentions that the couple won Olympic golds, but the article does not mention any specific Olympic medals won by the couple.
-3. The summary states that the couple is not glamorous, but the article portrays them as down-to-earth and relatable, with Jason Kenny being described as "a little bit shy" and Laura Trott being described as "bubbly and chatty."
-4. The summary mentions that the couple is not famous, but the article mentions that they have a large following on Twitter and that their wedding was offered to be featured in a magazine.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it makes assumptions about the content of the article that are not supported by the text.
+1. The summary is not consistent with the article because it does not accurately reflect the content of the article.
+2. The summary mentions "the 2016 Olympics and Paralympics," but the article does not mention the Paralympics.
+3. The summary also refers to the article being written by "Ghanaian writer Elizabeth Ohene," but there is no mention of the writer's name or nationality in the article.
+4. The article is actually about the relationship between British cyclists Laura Trott and Jason Kenny, and their success in the 2016 Olympics.
+5. The summary does not mention anything about the article's content, other than the fact that it is written by a Ghanaian writer.
+6. Therefore, the summary is not a accurate reflection of the article and is not consistent with the content of the article.
 
 ###Corrected:

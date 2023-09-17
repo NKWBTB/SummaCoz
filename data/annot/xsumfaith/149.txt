@@ -1,28 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hundreds of students in south korea have had to wait until monday to take part in the university entrance test. 
-
-    Article: 
-    Administrators of the ACT test took the decision just hours before some 5,500 students were due to sit it.
+<Article>
+Administrators of the ACT test took the decision just hours before some 5,500 students were due to sit it.
 The ACT is one of two entrance exams available to international and domestic students wanting to go to a US college.
 This is not the first cheating scandal to hit the tests in East Asia.
 The other entrance exam - the SAT - was cancelled in South Korea in 2013 because some of the questions were leaked.
 The ACT test was due to be held at 56 test centres in both South Korea and Hong Kong on Saturday morning.
 The Associated Press said teachers at some of Seoul's private "cram schools" said they were not notified until about an hour before the students were due to sit the test.
 ACT Inc, an Iowa-based non-profit organisation that was operating the test, said it took the decision after receiving "credible evidence that test materials intended for administration in these regions have been compromised".
-The organisation said in a statement that all students would get a refund but would only be able to resit when the tests are held again in September. 
+The organisation said in a statement that all students would get a refund but would only be able to resit when the tests are held again in September.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+hundreds of students in south korea have had to wait until monday to take part in the university entrance test.
+</Summary>
 
-1. The article states that the ACT test was cancelled due to "credible evidence that test materials intended for administration in these regions have been compromised."
-2. The summary states that hundreds of students in South Korea had to wait until Monday to take the test, but there is no mention of any compromise of test materials.
-3. The article explains that the test was cancelled because of concerns about the integrity of the test materials, but the summary does not mention any concerns about integrity or cheating.
-4. Therefore, the summary is not consistent with the article because it does not mention the reason for the test cancellation, which is a critical piece of information that is provided in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a accurate representation of the article because it omits the reason for the test cancellation and focuses only on the fact that students had to wait until Monday to take the test.
+1. The article states that the ACT test was cancelled "just hours before some 5,500 students were due to sit it."
+2. The summary states that "hundreds of students in South Korea have had to wait until Monday to take part in the university entrance test."
+3. The article does not mention anything about students having to wait until Monday to take the test. Instead, it states that the test was cancelled and that all students will receive a refund.
+4. Therefore, the summary is not consistent with the article because it implies that the students will be taking the test on Monday, while the article states that the test was cancelled and there is no mention of when the students will take the test.
+5. The discrepancy between the summary and the article is likely due to a misunderstanding or misinterpretation of the information provided in the article.
 
 ###Corrected:

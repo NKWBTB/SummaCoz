@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a baby girl was found crying in the ladies ' toilet of a burger bar in sichuan province . 
- workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance . 
- the woman , yuan yen , 34 , was found to have blood on her when she was approached . 
- workers at the restaurant said yuan yen had returned to her table and sat ` in a trance ' she was arre 
-
-    Article: 
-    a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
+<Article>
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
 staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online .
 workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance .
 a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar
@@ -27,25 +21,23 @@ a worker at the fast food outlet said : ` the mother was in shock herself and wa
 i think she was just traumatised . '
 cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her .
 she was later transferred to the police station where she is facing charges of neglect .
-the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors . 
+the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+a baby girl was found crying in the ladies ' toilet of a burger bar in sichuan province . 
+ workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance . 
+ the woman , yuan yen , 34 , was found to have blood on her when she was approached . 
+ workers at the restaurant said yuan yen had returned to her table and sat ` in a trance ' she was arre
+</Summary>
 
-Step 1: Identify the inconsistencies
+Explain your reasoning step by step:[/INST]
 
-The summary states that the woman, Yuan Yen, was found to have blood on her when she was approached, but the article does not mention this. Additionally, the summary states that Yuan Yen was in a trance, but the article does not mention this either.
+1. The summary states that the woman, Yuan Yen, was found to have blood on her when she was approached. However, the article states that she had blood on her shirt, not on her person.
+2. The summary states that the woman was found in the ladies' toilet, but the article states that she was found in the bin inside the toilet.
+3. The summary does not mention that the woman was arrested, nor does it mention that she was taken to the hospital for medical attention.
+4. The summary states that the woman was found to have blood on her, but the article does not mention any injuries or blood on her person.
 
-Step 2: Analyze the article
-
-The article states that staff at the restaurant heard the baby girl crying in the ladies' toilet and found her wrapped in a shirt and still attached to the umbilical cord and placenta. The workers called the police and ambulance, and the woman who had been seen visiting the toilet was established to be the mother and was arrested. The article does not mention anything about Yuan Yen having blood on her or being in a trance.
-
-Step 3: Identify the reasons for the inconsistencies
-
-The inconsistencies in the summary are likely due to the fact that the article does not provide information about Yuan Yen's physical state or her behavior after she was found. The article focuses primarily on the discovery of the baby and the arrest of the mother, without providing details about Yuan Yen's personal condition.
-
-Step 4: Conclude
-
-Therefore, the summary is not consistent with the article because it includes details that are not supported by the text. Specifically, the statements about Yuan Yen having blood on her and being in a trance are not present in the article.
+Therefore, the summary is not consistent with the article. The summary leaves out important details, such as the woman's arrest and medical attention, and includes inaccurate information, such as the location of the woman's discovery and the presence of blood on her person.
 
 ###Corrected:

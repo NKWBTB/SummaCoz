@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    on the eve of the world cup, the first day of the battle of the somme came to an end. 
-
-    Article: 
-    As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
+<Article>
+As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
 He was captured in 1943 fighting in the Middle East, and after nine months in Italy, was transferred to forced labour camp E715, part of the Auschwitz complex.
 There he spent 12 hours a day, six days a week, working with hazardous chemicals in the IG Farben works, but on Sundays they were permitted to play football.
 "I think the Germans thought that letting us play football was a quick and easy way of keeping us quiet," he said.
@@ -39,15 +36,19 @@ But by the time the Russians arrived, Mr Jones was long gone; as part of the dea
 "I was 13 stone (82kg) when I was captured, and when I was liberated by the Americans in April 1945, they weighed me, and I was seven stone."
 Mr Jones considers himself one of the lucky ones.
 "I was very lucky. I came home to a good wife, who helped me get over it. But lots never really recovered at all," he said.
-"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late." 
+"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+on the eve of the world cup, the first day of the battle of the somme came to an end.
+</Summary>
 
-1. The summary mentions the "battle of the Somme," which is a historical event that took place in 1916, during World War I. However, the article is about Ron Jones, a survivor of Auschwitz, and his experiences during World War II.
-2. The summary states that the first day of the battle of the Somme came to an end, but the article does not mention the battle of the Somme at all.
-3. The summary suggests that the article will be about the battle of the Somme, but the actual article is about Ron Jones' experiences in Auschwitz and his survival during World War II.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it refers to a different historical event and implies that the article will be about something else entirely.
+1. The summary is not consistent with the article because there is no mention of the World Cup or the Battle of the Somme in the article.
+2. The article is about a man named Ron Jones who was a prisoner of war in Auschwitz during World War II and how he and other prisoners survived by playing football.
+3. The summary does not mention any of the key points from the article, such as the fact that the prisoners played football, the conditions in the camp, or the liberation of the camp by the Soviet Army.
+4. Instead, the summary mentions the first day of the Battle of the Somme, which is not related to the article at all.
+5. Therefore, the summary is not a consistent summary of the article and does not accurately convey the main points of the article.
 
 ###Corrected:

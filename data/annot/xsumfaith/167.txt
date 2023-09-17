@@ -1,26 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wayne rooney\'s testimonial against manchester united has been broadcast live on facebook. 
-
-    Article: 
-    It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
+<Article>
+It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
 Proceeds will be distributed to Rooney's four chosen charities.
 The game at Old Trafford, between Rooney's only two professional clubs, marks his 12 years' service at United.
 Rooney said: "I am delighted my testimonial game will be streamed globally, which will hopefully raise awareness and increase donations."
 It is expected to mark the first home appearances for Jose Mourinho's three summer signings; Zlatan Ibrahimovic, Henrikh Mkhitaryan and Eric Bailly.
-Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million. 
+Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+wayne rooney\'s testimonial against manchester united has been broadcast live on facebook.
+</Summary>
 
-1. The summary states that Wayne Rooney's testimonial against Manchester United was broadcast live on Facebook.
-2. However, the article does not mention anything about the testimonial being broadcast live on Facebook. Instead, it states that the game will be available to 1.7 billion people on the platform worldwide via Rooney's and Manchester United's Facebook pages.
-3. The article emphasizes that the game will be available on demand, not live. This suggests that the summary is not consistent with the article, as it implies that the testimonial was broadcast live when, in fact, it will be available on demand.
-4. Furthermore, the summary mentions nothing about the game being available on demand or the proceeds going to charity, which are both important details mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, and it appears to be an inaccurate or incomplete summary of the information provided.
+1. The summary states that Wayne Rooney's testimonial was broadcast live on Facebook.
+2. The article does not mention anything about the testimonial being broadcast live on Facebook.
+3. The article only mentions that the game will be available to 1.7 billion people on the platform worldwide via Rooney's and Manchester United's Facebook pages, but it does not specify that the game will be broadcast live.
+4. Therefore, the summary is not consistent with the article because it implies that the testimonial was broadcast live on Facebook, while the article only mentions that the game will be available on demand on Facebook.
+
+So, the reason why the summary is not consistent with the article is that it adds an additional detail that is not present in the article, which is that the testimonial was broadcast live on Facebook.
 
 ###Corrected:

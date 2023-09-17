@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    called UNK , the UNK gadget acts like a beacon , or booster , to help messages move around the so-called wireless mesh .
-UNK lets you send messages and photos even when a person has no signal by creating what is called a wireless mesh . 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -54,17 +50,25 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+called UNK , the UNK gadget acts like a beacon , or booster , to help messages move around the so-called wireless mesh .
+UNK lets you send messages and photos even when a person has no signal by creating what is called a wireless mesh .
+</Summary>
 
-1. The summary states that Greenstone is a device that acts like a beacon or booster to help messages move around the so-called wireless mesh network. However, the article does not mention Greenstone as a device that acts like a beacon or booster. Instead, it describes Greenstone as a small egg-shaped gadget that helps messages move around so-called wireless mesh networks more easily.
-2. The summary mentions that Greenstone has a range of around 20ft (6 meters), but the article states that Greenstone is still under development and only currently works with FireChat at a range of around 20ft (6 meters).
-3. The summary states that Greenstone can hold up to 1,000 of the most recent messages, but the article does not mention this feature.
-4. The summary mentions that Greenstone is designed to solve the limitations of how far a message can travel in the wireless mesh network, but the article does not mention this purpose. Instead, it describes Greenstone as a solution to create a localized network in which each phone becomes a node and the data is passed between nodes.
-5. The summary mentions that Greenstone can be placed in certain locations at music festivals, organized protests, football matches, and other events where having large numbers of people can crash networks, but the article does not mention this use case.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations about Greenstone's features and purpose.
+1. The summary states that the UNK gadget acts like a beacon or booster to help messages move around the so-called wireless mesh. This is not consistent with the article, as the article describes Greenstone, not UNK, as the device that acts as a beacon or booster.
+2. The summary states that UNK lets you send messages and photos even when a person has no signal by creating what is called a wireless mesh. This is not consistent with the article, as the article describes Greenstone as the device that helps messages move around the wireless mesh, not UNK.
+3. The summary does not mention the limitations of the wireless mesh network, such as the range of around 200ft and the fact that Greenstone has been designed to solve these gaps.
+4. The summary does not mention the security features of the app, such as the fact that messages are sent securely and that users can send messages anonymously.
+5. The summary does not mention the fact that the feature does not use an internet connection, which makes it more secure and less susceptible to hacking.
+6. The summary does not mention the 'everyone' setting, which allows people to send information further by bringing all nodes onto one network and relaying messages from one node to another until it reaches the final recipient.
+7. The summary does not mention the fact that the app creates a localized network in which each phone becomes a node, and data is passed between nodes.
+8. The summary does not mention the limitations of the wireless mesh network, such as the range of around 200ft and the fact that Greenstone has been designed to solve these gaps.
+
+Overall, the summary does not accurately reflect the content of the article. It does not mention several key features of the app and its limitations, and it uses incorrect terminology (UNK instead of Greenstone).
 
 ###Corrected:

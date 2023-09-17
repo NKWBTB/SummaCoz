@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    leeds rhinos say they have been left " devastated " by the flooding that affected their training ground last month. 
-
-    Article: 
-    The Rhinos have been training across the city of Leeds since the river Aire burst its banks at Christmas.
+<Article>
+The Rhinos have been training across the city of Leeds since the river Aire burst its banks at Christmas.
 Chief executive Gary Hetherington told BBC Radio Leeds: "It is looking like £1m in total. It has caused massive disruption.
 "But sport throws up all sorts of challenges and this is another one."
 All seven training pitches and the main building at the Kirkstall site the Rhinos share with rugby union side Yorkshire Carnegie were contaminated by flood water at the end of December.
@@ -14,21 +11,18 @@ The Rhinos, who begin the defence of their Super League title against Warrington
 "We couldn't get anywhere near the site," said Hetherington.
 "When we were able to access it, the reality hit everybody. The whole site was under water. The changing rooms, medical rooms and gymnasium, and all the equipment was completely destroyed.
 "All the pitches are contaminated so they need to be dug up and reseeded. The 3G pitch needs to be replaced. The buildings need to be replastered, all the floors need to come up.
-"It will be the best part of six months before we can use the grass pitches and gymnasium." 
+"It will be the best part of six months before we can use the grass pitches and gymnasium."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+leeds rhinos say they have been left " devastated " by the flooding that affected their training ground last month.
+</Summary>
 
-1. The summary states that Leeds Rhinos were "devastated" by the flooding, but the article does not mention any emotional language or reactions from the team.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the training ground was flooded, but the article does not specify the extent of the flooding or the impact on the training ground.
-
-3. The summary mentions that the Rhinos have been kept out of the training ground for a month, but the article states that the team was able to access the site after the flooding and assesses the damage.
-
-4. The summary mentions that all seven training pitches and the main building were contaminated by floodwater, but the article only mentions that the grass pitches and gymnasium need to be dug up and reseeded, and that the buildings need to be replastered.
-
-5. The summary mentions that the Rhinos will not be able to use the grass pitches and gymnasium for six months, but the article does not mention any specific timeline for when the training ground will be fully functional again.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The summary states that Leeds Rhinos have been left "devastated" by the flooding that affected their training ground last month.
+2. However, the article does not mention the word "devastated" to describe the team's reaction to the flooding. Instead, it states that the flooding has caused "massive disruption" and that the team has been kept out of their training ground for a month.
+3. The word "devastated" is a strong word that implies a deeper level of emotional impact than what is described in the article. The article focuses more on the practical challenges and financial costs of the flooding, rather than the emotional toll it has taken on the team.
+4. Therefore, the summary is not consistent with the article because it uses language that is not supported by the content of the article. The article does not describe the team as being "devastated" by the flooding, but rather as being affected by it in a more practical and financial sense.
 
 ###Corrected:

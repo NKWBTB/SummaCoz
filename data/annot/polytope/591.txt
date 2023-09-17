@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    floyd mayweather and manny pacquiao are in the fight against pacquiao .
-mayweather has been dating UNK medina since last year .
-mayweather has been dating UNK medina since last year .
-click here for all the latest boxing news . 
-
-    Article: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+<Article>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
 here , sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2
 wbc super-featherweight , wbc lightweight , wbc light-welterweight , ibf welterweight , wbc welterweight , wbc light-middleweight , wba light-middleweight
 $ 440 million ( £ 295m )
@@ -36,21 +30,24 @@ pacquiao also owns a basketball team and played several games in their debut sea
 pacquiao has been married to jinkeee for 15 years and has five children : michael , israel , emmanuel , princess and queen elizabeth
 pacquiao has been trained by freddie roach since 2001 .
 pacquiao is promoted by bob arum 's top rank company .
-actor mark wahlberg is a big fan of pacquiao . 
+actor mark wahlberg is a big fan of pacquiao .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+floyd mayweather and manny pacquiao are in the fight against pacquiao .
+mayweather has been dating UNK medina since last year .
+mayweather has been dating UNK medina since last year .
+click here for all the latest boxing news .
+</Summary>
 
-1. The summary states that Floyd Mayweather and Manny Pacquiao are in the fight against each other, which is correct. However, the article does not mention any fight between the two boxers.
-2. The summary mentions that Mayweather has been dating Doralie Medina since last year, which is not mentioned in the article.
-3. The article states that Mayweather has been trained by his uncle Roger and his father Floyd Sr., but the summary does not mention this.
-4. The summary mentions that Pacquiao has been married to Jinkee for 15 years and has five children, which is not mentioned in the article.
-5. The summary states that Pacquiao purchased a mansion in Beverly Hills as a retreat during his training camp, but the article does not mention this.
-6. The summary mentions that Pacquiao helps various charities through the Official Manny Pacquiao Foundation, which is not mentioned in the article.
-7. The summary states that Pacquiao is a politician in the Philippines and has ambitions to become his country's president, which is not mentioned in the article.
-8. The summary mentions that Pacquiao owns a basketball team and played several games in their debut season this year, which is not mentioned in the article.
-9. The summary states that actor Mark Wahlberg is a big fan of Pacquiao, which is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Therefore, based on the above steps, it is clear that the given summary is not consistent with the article. The summary contains information that is not mentioned in the article, and omits information that is mentioned in the article.
+1. Inconsistent information: The summary states that Floyd Mayweather has been dating UNK Medina since last year, but the article does not mention anything about Mayweather's personal life or dating history.
+2. Lack of achievements: The summary only mentions Mayweather's upcoming fight against Pacquiao, but the article provides a detailed list of Mayweather's achievements in and out of the ring, including his impressive boxing record, business ventures, and endorsement deals.
+3. No mention of Pacquiao: The summary only focuses on Mayweather, while the article provides information about both fighters, including Pacquiao's achievements, personal life, and political ambitions.
+4. Incorrect grammar and punctuation: The summary contains grammatical errors and incorrect punctuation, such as the repetition of "dating UNK Medina" and the lack of a period at the end of the first sentence.
+
+Overall, the summary does not provide an accurate or consistent representation of the article's content. It is missing important information about both fighters and contains errors in grammar and punctuation.
 
 ###Corrected:

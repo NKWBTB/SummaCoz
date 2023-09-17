@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chelsea have been in the top flight for a season since joining lille .
-belgian club have been in the top flight for a season since joining lille .
-belgian club have been in the top flight for a season since last summer . 
-
-    Article: 
-    chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
+<Article>
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
 mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option .
 the belgian club have been in the top flight for a season since winning promotion via the play-offs last summer .
 they are 13th in the table , two points above the relegation places .
@@ -19,17 +14,22 @@ chelsea already have an agreement with vitesse arnhem in holland and have been l
 vitesse currently have chelsea 's josh mceachran , bertrand traore and wallace on their books as they look to seek europa league qualification from the dutch eredivisie .
 midfielder nemanja matic is the only current regular first-team player in jose mourinho 's squad to have spent time on loan with the dutch club .
 bertrand traore is one of three players currently on loan at vitesse arnhem from chelsea this season
-blues midfielder nemanja matic spent time on loan at vitesse before moving to benfica and then back 
+blues midfielder nemanja matic spent time on loan at vitesse before moving to benfica and then back
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+chelsea have been in the top flight for a season since joining lille .
+belgian club have been in the top flight for a season since joining lille .
+belgian club have been in the top flight for a season since last summer .
+</Summary>
 
-1. The summary states that Chelsea have been in the top flight for a season since joining Lille, but the article does not mention anything about Chelsea joining Lille.
-2. The summary also states that the Belgian club has been in the top flight for a season since last summer, but the article does not mention when the Belgian club was promoted or when their partnership with Lille ended.
-3. The summary mentions nothing about Chelsea being in early discussions over a possible partnership with Belgian club Royal Mouscron-Peruwelz, which is the main focus of the article.
-4. The article states that Mouscron are currently 13th in Belgium's Pro League, but the summary does not mention their current league position.
-5. The summary does not mention the fact that Chelsea already have an agreement with Vitesse Arnhem in Holland, or that they have been looking at other link-ups across Europe to help develop their squad.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the main points or details of the article.
+1. The summary states that Chelsea have been in the top flight for a season since joining Lille. This is incorrect, as Chelsea have never joined Lille.
+2. The article states that Mouscron had a partnership with Lille, but that partnership is now set to end. The summary does not mention this, implying that Mouscron is still in partnership with Lille.
+3. The article states that Mouscron are currently 13th in the Belgian Pro League, two points above the relegation places. The summary does not mention the team's current position in the league.
+4. The article mentions that Chelsea are in early discussions over a possible partnership with Mouscron, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information about Chelsea and Mouscron, and it omits important details about the teams' current situations.
 
 ###Corrected:

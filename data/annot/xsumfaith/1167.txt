@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    brighton & hove albion defender sid sidwell has signed a new three-year contract with the championship club. 
-
-    Article: 
-    Sidwell, 34, has made 32 Championship appearances this season to help the Seagulls achieve promotion to the top flight for the first time in 34 years.
+<Article>
+Sidwell, 34, has made 32 Championship appearances this season to help the Seagulls achieve promotion to the top flight for the first time in 34 years.
 With his contract due to expire at the end of the campaign, the midfielder is now hoping to sign a new deal.
 "I want to be a part of it next year because I know we can stay in the Premier League," he said.
 Brighton's recent win over Wigan confirmed their promotion, and with a four-point lead over second-placed Newcastle, Chris Hughton's side are now hoping to wrap up the league title in the final two matches.
@@ -14,21 +11,18 @@ Sidwell made 19 appearances for Albion on loan from Stoke during 2015-16 before 
 He has previously played in the Premier League with Reading, Chelsea, Aston Villa, Fulham and Stoke and believes he deserves the opportunity to play at the top level again.
 Sidwell told BBC Radio Sussex: "When I signed the contract last year no-one expected me to play as many games as I have. I've probably given a better impact than expected.
 "When I have played I've played well, I've put my best foot forward and I've given myself every opportunity to earn a new deal.
-"If there's one on the table then hopefully we can thrash it out, it can be done and we can enjoy the summer." 
+"If there's one on the table then hopefully we can thrash it out, it can be done and we can enjoy the summer."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+brighton & hove albion defender sid sidwell has signed a new three-year contract with the championship club.
+</Summary>
 
-1. The summary states that Sidwell has signed a new three-year contract with Brighton & Hove Albion.
+Explain your reasoning step by step:[/INST]
 
-However, the article does not mention anything about Sidwell signing a new three-year contract. Instead, it states that he is hoping to sign a new deal and that he has previously played in the Premier League with other clubs.
-
-2. The summary implies that Sidwell has already signed a new contract, but the article suggests that he is still negotiating for a new deal.
-
-3. The summary mentions that Sidwell has made 32 Championship appearances this season, but the article does not provide that information. Instead, it states that he has made 19 appearances for Albion on loan from Stoke during 2015-16.
-
-4. The summary quotes Sidwell as saying that he wants to stay with Brighton and play in the Premier League again. However, the article does not include that quote.
-
-Based on these differences, it is clear that the summary is not consistent with the article. The summary provides information that is not supported by the article, such as Sidwell signing a new three-year contract and making 32 Championship appearances this season. Therefore, the summary is not accurate and needs to be revised to reflect the information provided in the article.
+1. The summary states that Sidwell has signed a new three-year contract with Brighton & Hove Albion, which is not consistent with the article.
+2. The article states that Sidwell's contract is due to expire at the end of the current campaign and he is hoping to sign a new deal. It does not mention a new three-year contract.
+3. The article also states that Sidwell has made 32 Championship appearances this season, which suggests that he is still playing for the club and has not yet signed a new contract.
+4. Therefore, the summary is not consistent with the article because it states that Sidwell has signed a new three-year contract, which is not supported by the information in the article.
 
 ###Corrected:

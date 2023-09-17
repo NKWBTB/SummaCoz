@@ -1,28 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a controlled explosion has been carried out by police after an explosive device was found at a bomb disposal unit in cardiff. 
-
-    Article: 
-    The university said the move at Singleton Park was "precautionary".
+<Article>
+The university said the move at Singleton Park was "precautionary".
 South Wales Police received a call at about 13:30 BST after concerns about the safe storage of chemicals before a controlled explosion took place.
 Nobody was injured and a police spokesman said a cordon erected was precautionary while the chemicals were removed.
 Student Alex Jones said there was "some panic" at the start of the incident and lectures were moved away from the area to other buildings.
 South Wales Police said the incident was not treated as suspicious and there was no risk to the public.
-The university said the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable". 
+The university said the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a controlled explosion has been carried out by police after an explosive device was found at a bomb disposal unit in cardiff.
+</Summary>
 
-1. The summary states that a controlled explosion was carried out by police after an explosive device was found at a bomb disposal unit in Cardiff.
-2. However, the article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, not the police.
-3. Therefore, the summary is not consistent with the article, as the article does not mention anything about the police carrying out a controlled explosion.
-4. The article states that the controlled explosion was carried out as a precautionary measure after concerns were raised about the safe storage of chemicals.
-5. The summary does not mention anything about the safe storage of chemicals or the precautionary nature of the controlled explosion.
-6. Therefore, the summary is not only inconsistent with the article, but it also omits important information about the reason for the controlled explosion.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a accurate representation of the article and should not be relied upon as a summary of the content.
+1. The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, not the police.
+2. The summary claims that the controlled explosion was carried out by the police.
+3. The article states that the incident was not treated as suspicious and there was no risk to the public, which contradicts the summary's suggestion that an explosive device was found.
+4. The article states that the chemicals "had become unstable", which is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The summary should be revised to accurately reflect the contents of the article.
 
 ###Corrected:

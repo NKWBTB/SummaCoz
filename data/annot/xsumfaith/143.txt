@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    imagine the olympics, the olympics and the olympics. 
-
-    Article: 
-    You might forgive Laura Trott and Jason Kenny for leaving Rio rather full of themselves. Five competitions between them, five golds won. As of Tuesday night, had the couple been a country they would have sat 13th on the medal table, above Jamaica, Kenya and Brazil.
+<Article>
+You might forgive Laura Trott and Jason Kenny for leaving Rio rather full of themselves. Five competitions between them, five golds won. As of Tuesday night, had the couple been a country they would have sat 13th on the medal table, above Jamaica, Kenya and Brazil.
 That would be to misunderstand what makes them tick. This is a couple who got engaged while on the sofa watching an episode of EastEnders.
 You might think too that it would get competitive around the breakfast table in the cottage they share just outside Knutsford in Cheshire. Kenny now has six Olympic golds from three Games, more than Sir Steve Redgrave and Sir Bradley Wiggins. Trott has four, more than any other British woman, and from one fewer Olympics.
 That would be to misjudge their relationship. Cycling superstars on their own, together they can be almost ordinary, almost invisible. After the gold rush, after their tearful embrace in the Rio velodrome with the world watching on, that may be about to change.
@@ -45,16 +42,21 @@ Fame has never been the driving force. Kenny may have 54,000 followers on Twitte
 "It isn't a job to me, but if it did feel like one, it would be a dream job," she says. "All I do is ride my bike for four hours a day and then lie on the sofa for the rest of it. I don't feel like I'd ever fall out of love with it."
 And each understands exactly what the other is going through. How could they not, when together they have turned a cottage in Cheshire into a medal factory?
 "If I was in a relationship with someone outside cycling," says Trott, "just imagine how hard it would be. I'd have to explain everything from scratch."
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+imagine the olympics, the olympics and the olympics.
+</Summary>
 
-1. The summary mentions "the Olympics" three times, implying that the article is only about one Olympic event or experience. However, the article actually covers multiple Olympics and experiences of the couple.
-2. The summary states that the couple is "known for winning Olympic golds," which is not entirely accurate. While they have won multiple Olympic golds, the article highlights their individual achievements and dedication to their sport, rather than simply focusing on their wins.
-3. The summary mentions "Laura Trott and Jason Kenny" as if they are two separate individuals, whereas the article portrays them as a couple with a strong relationship and shared experiences.
-4. The summary does not accurately convey the tone of the article, which is more focused on the couple's personalities, relationship, and dedication to their sport, rather than just their Olympic achievements.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide an accurate representation of the article's content and focus.
+1. The summary provided does not accurately reflect the content of the article. The summary only mentions the Olympics, while the article provides a detailed profile of the British cycling couple, Laura Trott and Jason Kenny, including their relationship, personalities, and athletic achievements.
+2. The summary is too short and lacks specific information about the article's content. It only mentions the Olympics, which is not a sufficient representation of the article's content.
+3. The article provides a comprehensive overview of Trott and Kenny's background, their relationship, and their athletic achievements, including their Olympic gold medals. The summary does not capture any of this information.
+4. The article highlights the couple's dedication to their training and their passion for cycling, as well as their personalities and quirks. The summary does not touch on any of these aspects.
+5. The article provides specific examples of Trott and Kenny's achievements, such as their Olympic gold medals and their dominance in the velodrome. The summary does not provide any specific examples or details.
+
+Overall, the summary does not accurately represent the content of the article and lacks specific information about the couple's background, athletic achievements, and personalities.
 
 ###Corrected:

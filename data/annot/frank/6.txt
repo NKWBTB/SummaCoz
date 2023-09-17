@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tens of thousands of people have attended the annual anzac day parade in the gallipoli landings in hyde park. 
+<Article>
+Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.A service was also held at Westminster Abbey.The national anthems of New Zealand and Australia were sung as the service ended.The first time Anzac Day was commemorated in the capital was when King George V attended a Westminster Abbey service in 1916, a year after the Anzac (Australian and New Zealand Army Corps) landings at Gallipoli.Since then, the services have become an important moment for thousands of expatriate and visiting New Zealanders and Australians, who honour the sacrifices of their countrymen and women in all wars.Addressing the crowds at the dawn service, Alexander Downer, Australian high commissioner to the UK, who also laid a wreath, said: "When we reflect on Anzac Day we imagine the Gallipoli landings, what it must have been like, at dawn on the water, in sight of that rugged shoreline - and a collectively held breath, a leaden silence about to be broken."We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war.
+</Article>
 
-    Article: 
-    Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.A service was also held at Westminster Abbey.The national anthems of New Zealand and Australia were sung as the service ended.The first time Anzac Day was commemorated in the capital was when King George V attended a Westminster Abbey service in 1916, a year after the Anzac (Australian and New Zealand Army Corps) landings at Gallipoli.Since then, the services have become an important moment for thousands of expatriate and visiting New Zealanders and Australians, who honour the sacrifices of their countrymen and women in all wars.Addressing the crowds at the dawn service, Alexander Downer, Australian high commissioner to the UK, who also laid a wreath, said: "When we reflect on Anzac Day we imagine the Gallipoli landings, what it must have been like, at dawn on the water, in sight of that rugged shoreline - and a collectively held breath, a leaden silence about to be broken."We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war. 
+<Summary>
+tens of thousands of people have attended the annual anzac day parade in the gallipoli landings in hyde park.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that "tens of thousands" of people attended the Anzac Day parade in Hyde Park, but the article states that "thousands" attended the early morning service and up to 400 people took part in the parade. This suggests that the summary's claim of "tens of thousands" is an exaggeration.
-2. The summary does not mention anything about a dawn service or a wreath-laying ceremony at the Cenotaph, while the article states that these events took place. This suggests that the summary is not a accurate representation of the events described in the article.
-3. The summary mentions "the Gallipoli landings" but does not provide any context or information about the location or the event. The article provides detailed information about the Gallipoli campaign and its significance, which is missing from the summary.
-4. The summary quotes Alexander Downer, the Australian high commissioner to the UK, but the article does not mention him or his quotes. This suggests that the summary may have been embellished or fabricated.
+1. The summary states that the event took place in "Gallipoli landings in Hyde Park." However, the article does not mention any event taking place in Hyde Park. Instead, it states that the event took place at Hyde Park Corner and Westminster Abbey.
+2. The summary mentions "tens of thousands of people" attending the event, but the article does not provide any information about the number of attendees.
+3. The summary states that the event was an "annual Anzac Day parade," but the article does not mention the word "parade." Instead, it describes the event as a "wreath-laying ceremony" and a "service."
+4. The summary mentions "Gallipoli landings," but the article does not mention Gallipoli at all. Instead, it refers to the "Anzac (Australian and New Zealand Army Corps) landings at Gallipoli."
 
-Overall, the summary is not consistent with the article because it exaggerates the number of attendees, leaves out important details about the events, and includes quotes that are not present in the article.
+Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The article does not mention any event taking place in Hyde Park, and it does not use the word "parade." Additionally, the article refers to the Anzac landings at Gallipoli, whereas the summary mentions "Gallipoli landings" without specifying that they are the location of the Anzac landings.
 
 ###Corrected:

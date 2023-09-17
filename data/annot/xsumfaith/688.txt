@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    e4\'s teen drama skins won numerous awards and gained a cult following over its seven series. 
-
-    Article: 
-    However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
+<Article>
+However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
 Some of the actors were warned that they wouldn't be able to shake off their sulky, angry, teen characters.
 But when you look at the careers of Dev Patel and Jack O'Connell for example, they couldn't have been more wrong.
 Kaya Scodelario was one of the longest-serving members of the cast, appearing in series one to four as Effy Stonem.
@@ -37,16 +34,25 @@ Piers Wenger is the head of drama at Channel 4 and he thinks it was the opportun
 "It is extraordinary, in the past soap operas had been the sort of places where young people had been able to do their first job.
 "That would have been your only break, but time's are changing.
 "I think thanks to shows like Skins, unconventional approaches to casting are becoming more and more common."
-Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube 
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+e4\'s teen drama skins won numerous awards and gained a cult following over its seven series.
+</Summary>
 
-1. The summary states that the cast of Skins won numerous awards and gained a cult following, but the article does not mention any specific awards won by the cast. Instead, it focuses on how the show launched the careers of its young actors.
-2. The summary mentions that the cast members were warned that they might struggle to find work after their time on the show was up, but the article does not mention any such warnings. Instead, it highlights how the show's open auditions and unconventional approach to casting helped discover and nurture the talent of its young actors.
-3. The summary mentions Kaya Scodelario, Nicholas Hoult, and Dev Patel as examples of actors who found success after appearing on Skins, but the article does not mention Kaya Scodelario or Nicholas Hoult. It only mentions Dev Patel, but does not provide any specific examples of his success.
-4. The summary states that the cast members were able to shake off their sulky, angry teen characters, but the article does not mention anything about the cast members struggling to shake off their characters. Instead, it emphasizes how the show's approach to casting and the opportunities it provided helped the actors to showcase their talent and move on to bigger and better projects.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it emphasizes the awards and cult following of the show, while the article focuses on the career launch of its young actors. Additionally, the summary mentions specific actors who did not appear in the article, and it does not accurately convey the message of the article.
+1. The summary states that "e4's teen drama Skins won numerous awards and gained a cult following over its seven series."
+2. However, the article states that the cast of Skins was able to find success in Hollywood films and TV shows, with examples of Dev Patel, Jack O'Connell, and Kaya Scodelario.
+3. The summary does not mention anything about the cast's success in Hollywood or their ability to find work after the show ended.
+4. Therefore, the summary is not consistent with the article, as it does not provide an accurate representation of the cast's success after the show ended.
+
+Reasoning step by step:
+
+1. The summary makes a statement about Skins winning awards and gaining a cult following, which is correct.
+2. However, the article provides evidence that the cast of Skins was able to find success in Hollywood and TV shows, which is not mentioned in the summary.
+3. The summary does not include this information, which means it is not consistent with the article.
+4. Therefore, the summary needs to be updated to include the information about the cast's success in Hollywood and TV shows to be consistent with the article.
 
 ###Corrected:

@@ -1,24 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s newest generation of robots are changing. 
-
-    Article: 
-    The way we work, play and live with robots is changing.
+<Article>
+The way we work, play and live with robots is changing.
 In a special series Ricky travels the country meeting the robots of the future and the scientists working on them.
 From spending a night in a robot house to getting a brain scan, Ricky finds out how and why our relationship with robots is changing, fast.
-Check out his first report here... 
+Check out his first report here...
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+the world\'s newest generation of robots are changing.
+</Summary>
 
-1. The summary states that the world's newest generation of robots are changing, which is not entirely accurate. The article does not focus solely on the latest generation of robots, but rather explores how our relationship with robots is changing in various aspects of our lives.
-2. The summary implies that the change in robots is a recent development, while the article actually covers a broader scope of how our relationship with robots has evolved over time.
-3. The summary does not mention the aspect of the article that explores the changing relationship between humans and robots, such as how we work, play, and live with them.
-4. The summary does not provide any specific examples or details from the article, which suggests that it was not written based on the content of the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or scope of the article. The article explores a broader range of topics related to our relationship with robots, while the summary focuses solely on the latest generation of robots.
+1. The article mentions that Ricky is traveling the country to meet the robots of the future and the scientists working on them. This implies that the article is about the current state of robots and their impact on society, rather than the future generation of robots.
+2. The summary states that the world's newest generation of robots are changing, which is not supported by the article. The article does not mention anything about the newest generation of robots.
+3. The article focuses on the current state of robots and their impact on society, while the summary makes a statement about the future generation of robots. This indicates that the summary is not consistent with the article.
+
+Therefore, the summary is not consistent with the article because it makes a statement about the future generation of robots, which is not supported by the article. The article focuses on the current state of robots and their impact on society.
 
 ###Corrected:

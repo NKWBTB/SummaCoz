@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian rogers owns nine haunted dolls all of which he says contain their own personality . 
- ian 's favourite doll is annabel , who he thinks is haunted by a seven-year-old girl who drowned . 
- # 50 haunted dolls are said to contain the spirits of people who have passed on .  
-
-    Article: 
-    one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+<Article>
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
 ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
 since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
 ian rogers owns nine haunted dolls all of which he says contain their own personality
@@ -59,18 +54,29 @@ she likes to be in the kitchen and had a husband that died of tb .
 max : an raf pilot who died in the second world war .
 he had a little girl who was five who he misses very much .
 he gave up his life to care for his sick mother , but when she passed away he took his own life .
-the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium . 
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+ian rogers owns nine haunted dolls all of which he says contain their own personality . 
+ ian 's favourite doll is annabel , who he thinks is haunted by a seven-year-old girl who drowned . 
+ # 50 haunted dolls are said to contain the spirits of people who have passed on . 
+</Summary>
 
-1. The summary states that Ian Rogers owns 50 haunted dolls, but the article only mentions nine dolls.
-2. The summary mentions that the dolls contain the spirits of people who have passed on, but the article does not provide any information about the dolls being haunted or containing spirits.
-3. The summary states that Ian got the dolls from Jayne Harris, a professional in paranormal activity, but the article does not mention Jayne Harris or any other source for the dolls.
-4. The summary mentions that Ian's sister found the dolls too mischievous, but the article does not mention anything about Ian's sister.
-5. The summary states that Ian holds sessions with the dolls where guests can undertake different paranormal experiences, but the article does not mention any such sessions.
-6. The summary mentions that Ian is looking to invest in other supernatural souvenirs, but the article does not mention anything about this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains many details that are not present in the article, and some of the details that are present in the article are not accurately represented in the summary.
+The given summary is not consistent with the article because it contains the following inaccuracies:
+
+1. Dollar amount: The summary mentions "# 50 haunted dolls" while the article does not mention the exact number of dolls.
+2. Personalities: The summary states that each doll contains its own personality, but the article only mentions that Ian believes each doll has a unique story.
+3. Favorite doll: The summary states that Ian's favorite doll is Annabel, but the article does not mention a specific favorite doll.
+
+Here's a step-by-step explanation of the inconsistencies:
+
+1. Dollar amount: The summary mentions "# 50 haunted dolls," while the article does not mention the exact number of dolls. The article only states that Ian has spent hundreds of pounds on the creepy collection.
+2. Personalities: The summary states that each doll contains its own personality, but the article only mentions that Ian believes each doll has a unique story. The article does not explicitly state that each doll has a distinct personality.
+3. Favorite doll: The summary states that Ian's favorite doll is Annabel, but the article does not mention a specific favorite doll. The article only mentions that Ian is fond of all his dolls and has a special attachment to Annabel.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies regarding the doll amount, personalities, and favorite doll.
 
 ###Corrected:

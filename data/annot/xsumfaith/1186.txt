@@ -1,28 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police are investigating a suspicious fire at a house in county antrim. 
-
-    Article: 
-    The emergency services were called to the property in the Sangomore area of Durness at about 02:00.
+<Article>
+The emergency services were called to the property in the Sangomore area of Durness at about 02:00.
 Police Scotland said it was not known if she was in the house at the time. Her relatives have been informed.
 Det Insp Richard Baird said the fire was not thought to be suspicious, but the damage caused had prevented entry to the property.
 He said: "A joint investigation with the fire service will be carried out.
 "Enquiries are at a very early stage, however, initial enquiries would suggest there are no suspicious circumstances.
 "Due to the extensive structural damage and uncertainty of the building, gaining access to the property will take some considerable time.
-"Structural engineers will advise when it will be safe to enter the property." 
+"Structural engineers will advise when it will be safe to enter the property."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+police are investigating a suspicious fire at a house in county antrim.
+</Summary>
 
-1. The summary states that the police are investigating a suspicious fire at a house in County Antrim.
-2. However, the article states that the fire is not thought to be suspicious and there are no suspicious circumstances.
-3. This contradiction indicates that the summary is not consistent with the article.
-4. The article states that the fire caused extensive structural damage and it will take some time for structural engineers to advise when it will be safe to enter the property.
-5. Therefore, it is likely that the police are not yet able to investigate the fire thoroughly, and the statement in the summary that the police are investigating the fire is not accurate.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it implies that the police are investigating a suspicious fire, while the article states that the fire is not thought to be suspicious and there are no suspicious circumstances. Additionally, the article highlights that the extensive damage caused by the fire has prevented the police from entering the property, which further supports the conclusion that the summary is not consistent with the article.
+1. The article states that the fire is not thought to be suspicious, and Det Insp Richard Baird says that initial enquiries suggest there are no suspicious circumstances. This implies that the fire is not intentionally set and is likely an accident or natural cause.
+2. The article also states that the damage caused by the fire has prevented entry to the property, and structural engineers will advise when it will be safe to enter the property. This suggests that the fire has caused significant damage to the property, making it unsafe for entry.
+3. The summary states that police are investigating a suspicious fire at a house in county antrim. This is not consistent with the article, as the article states that the fire is not thought to be suspicious and there are no suspicious circumstances.
+4. Therefore, the summary is not consistent with the article, and it appears to be incorrect. The summary may have been written based on incomplete or inaccurate information, or it may have been mistakenly attributed to the wrong article.
 
 ###Corrected:

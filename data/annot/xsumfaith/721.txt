@@ -1,26 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman had her hair set alight in a ``nasty and extremely dangerous\'\'attack at a mcdonald\'s restaurant in kent, police said. 
-
-    Article: 
-    The victim was queuing for food at the branch in St George's Street, Canterbury at about 02:15 GMT on Friday when the assault occurred.
+<Article>
+The victim was queuing for food at the branch in St George's Street, Canterbury at about 02:15 GMT on Friday when the assault occurred.
 Investigating officers said three men entered the restaurant and began being noisy and bumping into people.
 It is believed one of the group then set light to the woman's hair.
 Officers have released CCTV images of three men they are keen to speak to regarding the attack.
 Det Sgt Barry Carr said: "Fortunately the fire was put out quickly and the victim was not seriously hurt, but things could clearly have turned out much worse.
-"This was a nasty and extremely dangerous thing to do, and I urge anyone who recognises the men in the CCTV images to contact me as soon as possible." 
+"This was a nasty and extremely dangerous thing to do, and I urge anyone who recognises the men in the CCTV images to contact me as soon as possible."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a woman had her hair set alight in a ``nasty and extremely dangerous\'\'attack at a mcdonald\'s restaurant in kent, police said.
+</Summary>
 
-1. The summary states that the woman's hair was set alight in a "nasty and extremely dangerous" attack at a McDonald's restaurant in Kent.
-2. The article does not mention that the woman's hair was set alight. Instead, it states that the victim's hair was set on fire, but it does not specify that her hair was actually set alight.
-3. The article emphasizes that the attack was "nasty and extremely dangerous," but it does not describe the attack as setting the woman's hair alight.
-4. Therefore, the summary is not consistent with the article because it misrepresents the nature of the attack. The article does not say that the woman's hair was set alight, but rather that her hair was set on fire.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not accurate because it exaggerates the severity of the attack by stating that the woman's hair was set alight, when the article only says that her hair was set on fire.
+1. The summary states that the attack was "nasty and extremely dangerous", but the article does not use these words. The article describes the attack as "a nasty and dangerous thing to do", which is a slightly different phrasing.
+2. The summary states that the attack occurred at a McDonald's restaurant in Kent, but the article does not mention the location of the attack. The article only mentions that the attack occurred in Canterbury.
+3. The summary states that the victim's hair was set alight, but the article does not mention this detail. The article only mentions that one of the group set fire to the woman's hair.
+
+Therefore, the summary is not consistent with the article because it includes details that are not present in the article, and it omits other important details that are present in the article.
 
 ###Corrected:

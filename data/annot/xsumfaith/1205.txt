@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than 1, 000 jobs are being lost at wales \'biggest steelworks, a charity has warned. 
-
-    Article: 
-    The party's economy spokesman Rhun ap Iorwerth warned steel's troubles were a "canary in the mine", warning of deeper problems across a range of industries.
+<Article>
+The party's economy spokesman Rhun ap Iorwerth warned steel's troubles were a "canary in the mine", warning of deeper problems across a range of industries.
 These include basic metals, chemicals and wood.
 The Welsh government called on Westminster to address the impact of high energy prices on industry.
 The UK government has been asked to comment.
@@ -28,19 +25,21 @@ But he said Wales' growth areas had been in retail, hotels, back-office financia
 "Of course, on current structures they can't, they simply aren't like Tata which is a company which is incredibly valuable in so many ways.
 "A back office for a bank simply can't do the same things for Wales, no matter how many bums on seats there are in those call centres. They don't provide the same jobs or a narrative for the Welsh economy that will give us a future vision."
 Prof Jones said the steel industry in Wales had done relatively well to avoid the worst of the crisis so far.
-"There have been big rounds of redundancies over the last 30 years and we've a very lean operation in Wales and geographically we're better placed than those steelworks in the north of England and Scotland." 
+"There have been big rounds of redundancies over the last 30 years and we've a very lean operation in Wales and geographically we're better placed than those steelworks in the north of England and Scotland."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+more than 1, 000 jobs are being lost at wales \'biggest steelworks, a charity has warned.
+</Summary>
 
-1. The summary states that "more than 1,000 jobs are being lost at Wales' biggest steelworks," but the article does not mention any specific number of job losses. The article only mentions that the party's economy spokesman warned of deeper problems across a range of industries.
-2. The summary suggests that the job losses are solely due to the steel industry, but the article states that the problems affect a range of industries, including basic metals, chemicals, and wood.
-3. The summary does not mention the point made by the article that the Welsh government has called on Westminster to address the impact of high energy prices on industry.
-4. The summary does not mention the point made by the article that the UK government has been asked to comment.
-5. The summary does not mention the point made by the article that the Welsh government has set up an industry-led task group to gather examples of good procurement practices and to identify support other EU countries have provided to their steel industries.
-6. The summary does not mention the point made by the article that the economy spokesman urged the Welsh government to take action to help industries combat high energy costs.
-7. The summary does not mention the point made by the article that the economist Prof Calvin Jones said that the foundation industries were still important in terms of their high economic value and for being iconic, but Wales' growth areas had been in retail, hotels, back-office financial services and the public sector.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses solely on the steel industry and job losses, while the article discusses a range of industries and the need for action from the Welsh and UK governments to support these industries.
+1. The summary states that "more than 1,000 jobs are being lost at Wales' biggest steelworks."
+2. The article does not mention any specific steelworks or job losses. It mentions the potential decline of the steel industry in Wales and the impact of high energy costs on the industry, but it does not provide any specific numbers or details about job losses.
+3. Therefore, the summary is not consistent with the article, as it provides specific information (1,000 job losses) that is not supported by the article.
+4. The article does mention the potential impact of high energy costs on the steel industry in Wales, and it quotes a Plaid Cymru spokesman as saying that the industry is facing a "canary in the mine" moment. However, it does not provide any specific information about job losses.
+5. The discrepancy between the summary and the article could be due to a misunderstanding or misinterpretation of the article's content. Alternatively, the summary may be based on a separate source or report that is not referenced in the article.
+
+In conclusion, the summary is not consistent with the article, as it provides specific information (1,000 job losses) that is not supported by the article. The article focuses on the potential decline of the steel industry in Wales and the impact of high energy costs, but it does not provide any specific information about job losses.
 
 ###Corrected:

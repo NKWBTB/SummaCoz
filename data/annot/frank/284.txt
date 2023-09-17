@@ -1,23 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans to renovate alexandra palace in north london have been approved by the council. 
+<Article>
+Share this withEmailFacebookTwitterPinterestWhatsAppLinkedinCopy this linkIt is hoped the theatre, founded in 1875, will be used for theatrical performances, cinema screenings, comedy and live music.The BBC studios, at the eastern end of the Palace, will also be repaired and refurbished.If successful in raising funds it is hoped the theatre will reopen in 2018.The theatre and studios form part of a larger east wing restoration project to transform Alexandra Palace into a new cultural destination.As part of the renovations, the glazed east court will become a space for the public and for exhibitions.Heritage Lottery Fund (HLF) is contributing £18.8m towards the project, while Haringey Council is contributing £6.8m.The entire east wing will be refurbished at a cost of £26.6m.Alexandra Park and Palace Charitable Trust have committed to raising the final £1m by summer 2017.The theatre, which has languished unused for decades, still has much of its original decor and stage machinery in place.It was created to showcase opera, musicals, plays and all kinds of entertainment, even hosting early cinema screenings.
+</Article>
 
-    Article: 
-    Share this withEmailFacebookTwitterPinterestWhatsAppLinkedinCopy this linkIt is hoped the theatre, founded in 1875, will be used for theatrical performances, cinema screenings, comedy and live music.The BBC studios, at the eastern end of the Palace, will also be repaired and refurbished.If successful in raising funds it is hoped the theatre will reopen in 2018.The theatre and studios form part of a larger east wing restoration project to transform Alexandra Palace into a new cultural destination.As part of the renovations, the glazed east court will become a space for the public and for exhibitions.Heritage Lottery Fund (HLF) is contributing £18.8m towards the project, while Haringey Council is contributing £6.8m.The entire east wing will be refurbished at a cost of £26.6m.Alexandra Park and Palace Charitable Trust have committed to raising the final £1m by summer 2017.The theatre, which has languished unused for decades, still has much of its original decor and stage machinery in place.It was created to showcase opera, musicals, plays and all kinds of entertainment, even hosting early cinema screenings. 
+<Summary>
+plans to renovate alexandra palace in north london have been approved by the council.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that plans to renovate Alexandra Palace have been approved by the council, but the article does not mention any approval process or mention the council's involvement.
-2. The summary mentions that the theatre will be used for theatrical performances, cinema screenings, comedy, and live music, but the article only mentions theatrical performances and cinema screenings.
-3. The summary states that the BBC studios will be repaired and refurbished, but the article does not mention the BBC or any studios.
-4. The summary mentions that the theatre will reopen in 2018 if funds are raised, but the article does not mention any specific timeline for the reopening.
-5. The summary mentions that the entire east wing will be refurbished at a cost of £26.6m, but the article only mentions the theatre and studios as part of the restoration project.
-6. The summary states that the Alexandra Park and Palace Charitable Trust has committed to raising the final £1m by summer 2017, but the article does not mention any specific fundraising efforts or timeline.
+1. The summary states that "plans to renovate Alexandra Palace in North London have been approved by the council."
+2. However, the article does not mention anything about the council approving plans for renovation. Instead, it talks about the theatre and studios being repaired and refurbished as part of a larger restoration project.
+3. The article also mentions that the project is hoping to raise funds to complete the restoration, and that the theatre has been unused for decades and still has much of its original decor and stage machinery in place.
+4. Based on these points, it is clear that the summary is not consistent with the article because it does not accurately reflect the content of the article. The article does not mention any approval of plans by the council, and instead focuses on the restoration and refurbishment of the theatre and studios.
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the council's involvement, the BBC studios, and a specific timeline for the reopening of the theatre. Additionally, the summary mentions the theatre being used for more types of entertainment than what is mentioned in the article.
+Therefore, the summary is not consistent with the article, and it is likely that the information in the summary is not supported by the article.
 
 ###Corrected:

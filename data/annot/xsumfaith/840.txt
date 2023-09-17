@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the family of a man who died after a car crash in leicestershire say they are ``looking forward\'\'to have their licence removed. 
-
-    Article: 
-    Michael Luciw, 27, from Nottingham, was a passenger in a van that was hit by a Mazda Premacy, being driven the wrong way on the motorway by Albert Kenneth Newman, who also died.
+<Article>
+Michael Luciw, 27, from Nottingham, was a passenger in a van that was hit by a Mazda Premacy, being driven the wrong way on the motorway by Albert Kenneth Newman, who also died.
 Mr Luciw's family said retired people should undergo regular driving tests.
 Age UK said it was "vital" older people could drive for as long as possible.
 The family described Mr Luciw, the father of a baby girl, as generous, kind-hearted and a lover of practical jokes.
@@ -30,16 +27,19 @@ The Driver and Vehicle Licensing Agency (DVLA) which maintains the database of r
 "The rules are clear that all drivers over 70 have to renew their licence every three years and have to tell DVLA about any medical conditions which might affect their driving.
 "If we find evidence a driver does not meet the appropriate medical standard we immediately remove their entitlement to drive."
 Caroline Abrahams, charity director of Age UK, said: "We know driving often allows older people to have the independence to get out and about, go shopping and attend appointments so it's vital that older people are supported to continue driving safely for as long as possible."
-For more on this subject watch Inside Out on BBC One East Midlands at 19:30 GMT on Monday 25 January and nationwide for 30 days thereafter on the iPlayer. 
+For more on this subject watch Inside Out on BBC One East Midlands at 19:30 GMT on Monday 25 January and nationwide for 30 days thereafter on the iPlayer.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the family of a man who died after a car crash in leicestershire say they are ``looking forward\'\'to have their licence removed.
+</Summary>
 
-1. The summary states that the family of the deceased man is "looking forward to having their licence removed," but the article does not support this statement. In fact, the family is advocating for the opposite - they want retired drivers to undergo regular medical examinations to ensure their safety on the road.
-2. The summary implies that the family's desire for stricter licensing requirements for older drivers is motivated by a desire to prevent further tragedies like the one they experienced. However, the article does not provide any evidence that the deceased driver, Albert Kenneth Newman, was at fault in the crash or that his age was a contributing factor.
-3. The summary mentions the family's call for "regular driving tests" for older drivers, but the article does not support this statement. The article only mentions that the family wants retired drivers to undergo medical examinations, not driving tests.
-4. The summary states that the family described the deceased man as "generous, kind-hearted and a lover of practical jokes," but this information is not found in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the family's views and misleadingly implies that the deceased driver's age was a factor in the crash.
+1. The summary states that the family of the deceased man is "looking forward" to having their licence removed.
+2. This statement is not consistent with the article, as the family is actually calling for stricter driving tests for older drivers and advocating for change to prevent similar tragedies.
+3. The article states that the family is grieving and wants to ensure that other families do not go through the same pain.
+4. The summary does not convey the family's concerns about road safety and their desire for change, which is a key point in the article.
+5. Therefore, the summary is not an accurate representation of the article and is not consistent with the information provided.
 
 ###Corrected:

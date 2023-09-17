@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
-tragic : john timmons , 29 , and amanda murphy , 24 , were killed instantly in the crash on december 7 , 2013
-he faces 12 to 24 years in prison when sentencing resumes thursday . 
-
-    Article: 
-    a former fortune 500 executive from new hampshire who caused a highway crash that killed a vermont couple and their unborn baby said during his sentencing wednesday that he was n't suicidal .
+<Article>
+a former fortune 500 executive from new hampshire who caused a highway crash that killed a vermont couple and their unborn baby said during his sentencing wednesday that he was n't suicidal .
 prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
 the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons .
 speaking out : former fortune 500 executive robert dellinger , 54 , said in court during his sentencing wednesday that he was not suicidal on the day he crashed into a couple 's suv , killing them instantly
@@ -39,18 +34,30 @@ however called the state 's comments ` over the top ' and said dellinger had led
 took a severance package worth more than $ 1million in cash plus stocks
 when he left in 2011 because of health reasons , according to documents
 filed with the securities and exchange commission .
-records show that a dellinger family trust owns four property in the town of sunapee worth $ 3million in total . 
+records show that a dellinger family trust owns four property in the town of sunapee worth $ 3million in total .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given article and summary, there are several inconsistencies that can be identified:
+<Summary>
+prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
+tragic : john timmons , 29 , and amanda murphy , 24 , were killed instantly in the crash on december 7 , 2013
+he faces 12 to 24 years in prison when sentencing resumes thursday .
+</Summary>
 
-1. Cause of crash: The summary states that Robert Dellinger told investigators he was trying to kill himself when he crashed into the SUV, while the article states that he was not suicidal and that he had argued with his wife over his medications that morning.
-2. Suicidal intent: The summary suggests that Dellinger intended to kill himself, while the article states that he did not have any suicidal intent.
-3. Criminal charges: The summary mentions that Dellinger was charged with two counts of reckless manslaughter, which were later upgraded to negligent homicide. However, the article does not mention these charges.
-4. Wrongful death lawsuit: The summary mentions that a wrongful death lawsuit was filed by the estate of Amanda Murphy in February, but the article does not mention this.
-5. Cause of death: The summary states that the couple and their unborn baby were killed instantly in the crash, while the article states that the couple died from injuries so severe that the medical examiner said they looked like they had been in a plane crash.
-6. Defendant's character: The summary portrays Robert Dellinger as suicidal and reckless, while the article portrays him as a man of integrity and friendship who has lived his life with grace and modesty, despite being plagued with serious health problems.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary appears to be based on incomplete or inaccurate information, and it does not accurately reflect the content of the article.
+1. The summary states that prosecutors said Robert Dellinger was trying to kill himself when he caused the crash that killed the young couple. However, the article states that Dellinger told investigators he was trying to kill himself, not prosecutors.
+
+2. The summary does not mention that Dellinger's wife, Deborah, described him as a "man of ethics, integrity, and friendship" and that the couple had been plagued with serious health problems.
+
+3. The summary does not mention that Dellinger's lawyers claimed he was suffering from Ambien withdrawal, the effects of a psychiatric drug overdose, and the advanced symptoms of multiple sclerosis.
+
+4. The summary does not mention that Dellinger had held high-level posts at several major companies, including PPG Industries, Sprint Corp., Delphi Corp., and General Electric Co.
+
+5. The summary does not mention that Dellinger had taken a severance package worth more than $1 million in cash plus stocks when he left his job in 2011 due to health reasons.
+
+6. The summary does not mention that a Dellinger family trust owns four properties in the town of Sunapee worth $3 million in total.
+
+Overall, the summary does not provide a complete and accurate summary of the article. It omits several key details and presents a less nuanced version of events.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the chief executive of barnet council has said he is ``disappointed\'\'by the council\'s decision to close the council\'s decision to leave the eu. 
-
-    Article: 
-    Andrew Travers left the authority by "mutual agreement" after the error, officials said.
+<Article>
+Andrew Travers left the authority by "mutual agreement" after the error, officials said.
 Voters were initially turned away from all 155 polling stations in the borough because their names were missing from the poll list.
 An independent investigation has been launched, the council said.
 In a statement issued through the council, Mr Travers said: "I have enjoyed my time at Barnet and I believe the changes we have put in place and the continued programme of growth and transformation will enable the borough to continue to thrive."
@@ -18,23 +15,19 @@ But voters in the area questioned how the result could be "fair" when not everyo
 A statement released by Mr Travers on Thursday blamed electoral registration lists for the problems.
 The council's review will conclude by the end of May and the findings will be presented publicly to the General Functions Committee.
 It will look at the "appropriateness" of arrangements in place for the EU Referendum in June.
-A spokesman said it was currently in discussions to establish who would lead the investigation. 
+A spokesman said it was currently in discussions to establish who would lead the investigation.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the chief executive of barnet council has said he is ``disappointed\'\'by the council\'s decision to close the council\'s decision to leave the eu.
+</Summary>
 
-1. The summary states that the chief executive of Barnet Council is "disappointed" by the council's decision to close the EU. However, the article does not mention anything about the council's decision to close the EU.
-2. The article states that the chief executive, Andrew Travers, left the authority by "mutual agreement" after an error was made in the election.
-3. The summary does not mention anything about the error or Andrew Travers' departure.
-4. The article states that voters were initially turned away from polling stations because their names were missing from the poll list, and that an independent investigation has been launched.
-5. The summary does not mention anything about the investigation or the problems with the poll list.
-6. The article states that Andrew Travers made a valuable contribution to the council during his three and a half years as chief executive, and that a council spokesperson said he had "made a valuable contribution."
-7. The summary does not mention anything about the value of Andrew Travers' contribution or the council's statement about his departure.
-8. The article states that the council apologized for the problems and offered emergency proxy votes to residents who were affected.
-9. The summary does not mention anything about the council's apology or the emergency proxy votes.
-10. The article states that the council's review will conclude by the end of May and the findings will be presented publicly to the General Functions Committee.
-11. The summary does not mention anything about the review or the findings.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the information in the article. The summary focuses on the chief executive's departure and the council's decision to close the EU, neither of which are mentioned in the article.
+1. The summary states that the chief executive of Barnet Council is "disappointed" by the council's decision to leave the EU.
+2. However, the article does not mention anything about the council's decision to leave the EU. Instead, it reports on the issues with the recent local election, including the fact that voters were initially turned away from polling stations because their names were missing from the poll list.
+3. The article does mention that Andrew Travers, the chief executive of Barnet Council, has left the authority by "mutual agreement" after the error, but there is no mention of his disappointment with the council's decision to leave the EU.
+4. Therefore, the summary is not consistent with the article, as there is no mention of the council's decision to leave the EU in the article.
+5. The reason for the inconsistency is likely that the summary is based on incorrect or incomplete information, or that the summary was written before the article was published and did not take into account the contents of the article.
 
 ###Corrected:

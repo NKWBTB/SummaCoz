@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the football association says it is " deeply disappointed " and " saddened " that footballer thomas thomas has quit football. 
-
-    Article: 
-    In an interview with newspaper Die Zeit, Hitzlsperger said he was coming out to advance discussion of a topic that was "simply ignored" in German football.
+<Article>
+In an interview with newspaper Die Zeit, Hitzlsperger said he was coming out to advance discussion of a topic that was "simply ignored" in German football.
 He is the most prominent footballer to publicly reveal his homosexuality and his former team-mates were quick to praise his announcement.
 Arsenal and Germany forward Lukas Podolski wrote on Twitter: "Respect to Thomas Hitzlsperger! That was a courageous and correct decision and an important step."
 And retired defender Arne Friedrich, who played with Hitzlsperger at Euro 2008, wrote: "Proud of you Thomas. A good decision and in my opinion the right time."
@@ -33,15 +30,25 @@ German Chancellor Angela Merkel's spokesman Steffen Seibert praised Hitzlsperger
 Openly Gay German politician Volker Beck said he hoped Hitzlsperger's announcement would encourage others to do the same.
 "I hope that Hitzlsperger's courageous step contributes to finally breaking down this taboo," he said. "It's now the job of the German FA to embolden active players [to do the same]."
 And Zwanziger said he was optimistic that Hitzlsperger's announcement would lead to greater openness about sexuality in German football.
-He said: "I'm confident that sexual orientations will soon not be an issue in football at all." 
+He said: "I'm confident that sexual orientations will soon not be an issue in football at all."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the football association says it is " deeply disappointed " and " saddened " that footballer thomas thomas has quit football.
+</Summary>
 
-1. The summary states that the football association is "deeply disappointed" and "saddened" by Thomas Hitzlsperger's decision to quit football, but there is no mention of this in the article. In fact, the article states that the football association and various figures in German football administration have shown support for Hitzlsperger's announcement.
-2. The summary mentions that Hitzlsperger has quit football, but the article does not mention anything about him quitting. Instead, it states that he has made a "brave step" by being the first prominent footballer to make public his homosexuality.
-3. The summary implies that Hitzlsperger's decision to come out as gay is the reason for his departure from football, but there is no evidence to support this in the article. In fact, the article suggests that Hitzlsperger's announcement is seen as a positive step in the fight against homophobia in German football.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents a negative and inaccurate portrayal of Hitzlsperger's decision to come out as gay, and it implies that he has quit football as a result, which is not supported by the article.
+1. The summary states that the football association is "deeply disappointed" and "saddened" that Thomas Hitzlsperger has quit football.
+2. However, the article does not mention anything about Hitzlsperger quitting football. Instead, it reports on his decision to publicly reveal his homosexuality and the support he has received from his former teammates, football administrators, and other celebrities.
+3. Therefore, the summary is not consistent with the article. It appears to be a misleading or inaccurate summary of the article's content.
+
+Possible reasons for the inconsistency:
+
+1. The person who created the summary may have misread or misunderstood the article's content.
+2. The summary may have been intentionally created to be misleading or sensational, perhaps to attract more attention or clicks.
+3. There could have been a mistake or error in the process of creating the summary, such as a typo or a misplaced word.
+
+In any case, the inconsistency between the summary and the article highlights the importance of accuracy and attention to detail in summarizing or reporting on content.
 
 ###Corrected:

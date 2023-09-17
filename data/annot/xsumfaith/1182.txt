@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    barcelona boss luis enrique said his side\'s performance in their 2-1 win over real madrid at the nou camp was over. 
-
-    Article: 
-    Barca remain six points off leaders Real after Sergio Ramos' last-minute header made it 1-1 after Luis Suarez had opened the scoring.
+<Article>
+Barca remain six points off leaders Real after Sergio Ramos' last-minute header made it 1-1 after Luis Suarez had opened the scoring.
 "In the second half, we were the better side, but we didn't manage to get the second goal and they ended up equalising," said Enrique.
 "That said, we deserved to win. It is not the best result for us."
 Barca were poor in the first half but looked set to close the gap on unbeaten Real to three points before Ramos headed home Modric's free-kick.
@@ -16,17 +13,23 @@ Barca were poor in the first half but looked set to close the gap on unbeaten Re
 Enrique was happy to see captain Andres Iniesta return from an injury that has kept him out for six weeks.
 He came on as a second-half substitute and set up a Lionel Messi chance, which the Argentine missed, with a brilliant through ball.
 "It is clear that Iniesta is a unique player and his input was perfect," added Enrique.
-"He entered at a key moment and, despite the difficulties of being out for so long, he gave us quality, vision and hard work." 
+"He entered at a key moment and, despite the difficulties of being out for so long, he gave us quality, vision and hard work."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+barcelona boss luis enrique said his side\'s performance in their 2-1 win over real madrid at the nou camp was over.
+</Summary>
 
-1. The summary states that Barcelona boss Luis Enrique said his side's performance in their 2-1 win over Real Madrid was "over."
-2. However, the article quotes Enrique as saying that his team's performance was "not the best result for us." This suggests that Enrique did not think his team's performance was perfect or complete.
-3. The summary also states that Enrique said his team was the better side in the second half, but they didn't manage to get the second goal and ended up drawing. However, the article quotes Enrique as saying that the first half was "very even" and that his team created chances but was unable to convert them.
-4. Therefore, the summary is not consistent with the article because it misrepresents Enrique's assessment of his team's performance. The article suggests that Enrique thought his team had room for improvement, while the summary makes it seem like he was satisfied with his team's performance.
-5. Finally, the summary mentions that Enrique said his team's performance was "over," which is not supported by the article. Enrique did not say this in the article.
+Explain your reasoning step by step:[/INST]
 
-So, in summary, the reason why the summary is not consistent with the article is because it misrepresents Enrique's assessment of his team's performance, and it includes a quote that is not supported by the article.
+1. The summary states that Barcelona's performance in their 2-1 win over Real Madrid was "over."
+2. However, the article states that the match ended in a 1-1 draw, not a 2-1 win for Barcelona.
+3. Therefore, the summary is not consistent with the article, as Barcelona did not win the match 2-1, but rather drew 1-1.
+4. The article quotes Luis Enrique as saying that Barcelona were the better side in the second half, but they did not manage to get the second goal and Real Madrid equalized.
+5. The summary does not reflect this statement by Luis Enrique, as it implies that Barcelona won the match convincingly.
+6. The article also mentions that Barcelona were poor in the first half, but looked set to close the gap on leaders Real to three points before Real Madrid equalized.
+7. The summary does not mention any of these details, which further highlights the inconsistency between the summary and the article.
+
+Overall, the summary is not consistent with the article because it implies that Barcelona won the match 2-1, when in fact the match ended in a 1-1 draw. Additionally, the summary does not accurately reflect the details of the match as described in the article.
 
 ###Corrected:

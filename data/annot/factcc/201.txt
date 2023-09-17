@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it was a swarm day for the washington university of rowing team. 
+<Article>
+(CNN)It was a typical practice day for the Washington University of rowing team, but then danger came from beneath. The scene was Creve Coeur Lake outside of St. Louis early Friday morning. The team's boat got near the dock, when suddenly a swarm of Asian carp emerged from the water and went on the attack, some even going into the boat. Team member Devin Patel described the moment of terror: "The fish was flopping on my legs. It was so slippery that I couldn't get a grip on it." Patel screamed at teammate Yoni David, "Yoni, get it off me!" Thankfully, no rowers were injured during the ordeal, but the strong smell of fish lingered in the moments afterward. Watch iReporter Benjamin Rosenbaum's video above.
+</Article>
 
-    Article: 
-    (CNN)It was a typical practice day for the Washington University of rowing team, but then danger came from beneath. The scene was Creve Coeur Lake outside of St. Louis early Friday morning. The team's boat got near the dock, when suddenly a swarm of Asian carp emerged from the water and went on the attack, some even going into the boat. Team member Devin Patel described the moment of terror: "The fish was flopping on my legs. It was so slippery that I couldn't get a grip on it." Patel screamed at teammate Yoni David, "Yoni, get it off me!" Thankfully, no rowers were injured during the ordeal, but the strong smell of fish lingered in the moments afterward. Watch iReporter Benjamin Rosenbaum's video above. 
+<Summary>
+it was a swarm day for the washington university of rowing team.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary mentions a "swarm day" for the rowing team, but the article does not use this language. Instead, it describes a sudden and unexpected attack by Asian carp.
-2. The summary implies that the team experienced a traumatic event, but the article does not describe any injuries or lasting effects. The team members are only described as "shaken" and experiencing a "strong smell of fish."
-3. The summary mentions the team's boat getting near the dock, but the article does not mention the team being near the dock or any specific location. The attack by the Asian carp occurs "early Friday morning" in Creve Coeur Lake, without any additional context.
+1. The article states that the team was on a typical practice day, but suddenly a swarm of Asian carp emerged from the water and attacked the team's boat.
+2. The word "swarm" is not consistent with the summary, which simply states "it was a swarm day."
+3. The article describes the scene as one of terror and chaos, with the fish flopping on the team members' legs and a strong fishy smell lingering afterward.
+4. The summary does not capture any of these details and instead uses the word "swarm" in a way that is not supported by the article.
 
-Overall, the summary is not consistent with the article because it exaggerates the severity of the event and adds details that are not present in the article. The article describes a surprising and unusual attack by Asian carp, but the summary presents it as a traumatic and dangerous event for the rowing team.
+Therefore, the summary is not consistent with the article because it does not accurately convey the events described in the article. The word "swarm" is used in a way that is not supported by the context of the article, and the summary does not capture the chaos and terror of the scene described in the article.
 
 ###Corrected:

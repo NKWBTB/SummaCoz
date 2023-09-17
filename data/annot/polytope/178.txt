@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jamar nicholson, 15, and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd's criminal gang-homicide unit approached the boys with their guns drawn. 
-One of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire. suing la for millions. 
-
-    Article: 
-    an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
+<Article>
+an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
 jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
 the la times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
 suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
@@ -37,31 +33,26 @@ nicholson and huerta say they have never been in trouble with the law before .
 ` you can check our records , ' huerta insisted .
 ` that 's a bad way to meet officers , ' nicholson said .
 ` got off on the wrong foot , ' huerta said .
-officer gutierrez has returned to full duty since the incident , though it remains under investigation . 
+officer gutierrez has returned to full duty since the incident , though it remains under investigation .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistencies in the summary and the article. Here are the steps to explain my reasoning:
+<Summary>
+jamar nicholson, 15, and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd's criminal gang-homicide unit approached the boys with their guns drawn. 
+One of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire. suing la for millions.
+</Summary>
 
-1. Identify the main points in the summary:
-	* Jamar Nicholson, 15, and his friends were hanging out in an alleyway before school when two police officers approached them with their guns drawn.
-	* One of the teenagers was holding a toy gun that the officers thought was real, prompting them to fire.
-	* Jamar was shot in the back, and he and his friend Jason Huerta are suing the city of Los Angeles for $20 million.
-2. Identify the main points in the article:
-	* An African American teenager was shot by a police officer in the back because his friend was holding a toy gun.
-	* Jamar Nicholson, 15, was shot in the back by Officer Miguel Gutierrez.
-	* Jamar and Jason are suing the city of Los Angeles for $20 million.
-	* The officers approached the boys with their guns drawn because they thought one of the teenagers was holding a real gun.
-	* The toy gun had an orange tip indicating that it was fake.
-	* The LAPD claims that the officers told the teenager to drop the weapon multiple times before shooting him.
-	* Jamar and Jason's attorneys argue that the teens posed no threat to the officers or themselves.
-3. Identify the inconsistencies:
-	* The summary states that Jamar was shot in the back, but the article states that he was shot by Officer Gutierrez.
-	* The summary mentions that the officers thought the toy gun was real, but the article states that the toy gun had an orange tip indicating that it was fake.
-	* The summary does not mention that the officers told the teenager to drop the weapon multiple times before shooting him, as stated in the article.
-4. Explain the inconsistencies:
-	* The inconsistency in point 1 may be due to a misinterpretation of the article or a mistake in summarizing the information.
-	* The inconsistency in point 2 may be due to a misunderstanding of the information in the article or a failure to accurately convey the information in the summary.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-In conclusion
+1. The summary states that the police officers approached the boys with their guns drawn, but the article states that the officers approached the boys with their guns drawn after they saw one of the teenagers holding a toy gun that they thought was real.
+2. The summary does not mention that the toy gun had an orange tip indicating that it was fake, which is mentioned in the article.
+3. The summary does not mention that the officers told the teenagers to drop the weapon multiple times before firing, as stated in the article.
+4. The summary does not mention that the officer who shot Nicholson, Miguel Gutierrez, also shot and killed a dog in 2008, as stated in the article.
+5. The summary does not mention that Nicholson and his friend feel traumatized by what happened to them, as stated in the article.
+6. The summary does not mention that Nicholson had to miss school as a result of the shooting and that he felt tremendous pain from his injuries, as stated in the article.
+7. The summary does not mention that the officers have each other's backs and that they are free to construe the facts how they see fit, as stated in the article.
+8. The summary does not mention that the attorney for Nicholson and his friend is arguing that they posed no threat to the police officers or themselves, as stated in the article.
+
+Overall, the summary does not include many of the important details and quotes from the article, and it does not accurately convey the events and perspectives described in the article.
 
 ###Corrected:

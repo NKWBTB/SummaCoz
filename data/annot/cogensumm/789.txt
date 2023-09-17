@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    arsenal and hakan calhanoglu are tracking bayer leverkusen midfielder hakan calhanoglu. the turkey has impressed since joining from hamburg in the summer. arsenal and manchester city are keen on bayer leverkusen star hakan calhanoglu. the gunners have been on the 21-year-old's case since last season. 
+<Article>
+Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu. The Turkey international has impressed since joining from Hamburg in the summer, scoring five times in Leverkusen's bid to qualify for the Champions League. And his displays have captured the attention of both City and Arsenal in recent months. Arsenal and Manchester City are keen on Bayer Leverkusen star Hakan Calhanoglu, pictured here in action earlier this month against FC Kaiserslautern in the German Cup quarter final . The Gunners have been on the 21-year-old's case since last season, but City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months. Calhanoglu's ability from dead ball situations have particularly caught the eye of City and Arsenal scouts. Calhanoglu has impressed at Leverkusen this season following his arrival from Hamburg last summer . Manchester City and Arsenal both have scouts monitoring the 21-year-old dead ball specialist's progress .
+</Article>
 
-    Article: 
-    Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu. The Turkey international has impressed since joining from Hamburg in the summer, scoring five times in Leverkusen's bid to qualify for the Champions League. And his displays have captured the attention of both City and Arsenal in recent months. Arsenal and Manchester City are keen on Bayer Leverkusen star Hakan Calhanoglu, pictured here in action earlier this month against FC Kaiserslautern in the German Cup quarter final . The Gunners have been on the 21-year-old's case since last season, but City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months. Calhanoglu's ability from dead ball situations have particularly caught the eye of City and Arsenal scouts. Calhanoglu has impressed at Leverkusen this season following his arrival from Hamburg last summer . Manchester City and Arsenal both have scouts monitoring the 21-year-old dead ball specialist's progress . 
+<Summary>
+arsenal and hakan calhanoglu are tracking bayer leverkusen midfielder hakan calhanoglu. the turkey has impressed since joining from hamburg in the summer. arsenal and manchester city are keen on bayer leverkusen star hakan calhanoglu. the gunners have been on the 21-year-old's case since last season.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu, but the article does not mention anything about Arsenal tracking him.
-2. The summary mentions that the Gunners have been on the 21-year-old's case since last season, but the article does not mention this.
-3. The summary states that City are paying close attention to Calhanoglu's displays, but the article only mentions that City scouts are monitoring his progress.
-4. The summary mentions that Calhanoglu's ability from dead ball situations has particularly caught the eye of City and Arsenal scouts, but the article does not mention this.
+1. The summary states that Arsenal and Hakan Calhanoglu are tracking Bayer Leverkusen midfielder Hakan Calhanoglu.
+2. The article states that Arsenal and Manchester City are tracking Hakan Calhanoglu, but there is no mention of Hakan Calhanoglu tracking Arsenal.
+3. The summary does not mention that Manchester City is also interested in Hakan Calhanoglu, as stated in the article.
+4. The summary states that Arsenal has been on Hakan Calhanoglu's case since last season, but the article does not mention this.
+5. The summary does not accurately reflect the information in the article, as it only mentions Arsenal's interest in Hakan Calhanoglu and does not include Manchester City's interest or the fact that both teams are scouting him.
 
-Therefore, the summary is not consistent with the article, as it includes information that is not present in the article. Specifically, the summary mentions Arsenal tracking Calhanoglu, which is not mentioned in the article, and it also mentions the Gunners having been on his case since last season, which is also not mentioned in the article.
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

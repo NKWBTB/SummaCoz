@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    new england manager sam allardyce has announced his retirement from international football. 
+<Article>
+The former Manchester City man, 30, won 61 caps for England after making his senior debut in 2009.He was a squad member at two World Cups and two European Championships but played just three minutes at Euro 2016."The decision we've reached is about common sense. I wish Sam [Allardyce], the players, staff and supporters success in the future," Milner said.Milner also holds the record for the most capped England Under-21 player, picking up 46 caps after making his first appearance in 2004.He scored his first, and only, international goal in England's 5-0 victory over Moldova at the 2014 Fifa World Cup qualifiers.
+</Article>
 
-    Article: 
-    The former Manchester City man, 30, won 61 caps for England after making his senior debut in 2009.He was a squad member at two World Cups and two European Championships but played just three minutes at Euro 2016."The decision we've reached is about common sense. I wish Sam [Allardyce], the players, staff and supporters success in the future," Milner said.Milner also holds the record for the most capped England Under-21 player, picking up 46 caps after making his first appearance in 2004.He scored his first, and only, international goal in England's 5-0 victory over Moldova at the 2014 Fifa World Cup qualifiers. 
+<Summary>
+new england manager sam allardyce has announced his retirement from international football.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Sam Allardyce has announced his retirement from international football.
-2. However, the article does not mention anything about Allardyce retiring from international football. Instead, it talks about his career as an England player and his record for the most capped England Under-21 player.
-3. Therefore, the summary is not consistent with the article, as there is no mention of Allardyce retiring from international football in the article.
-
-So, the reason why the summary is not consistent with the article is that the summary contains information that is not present in the article. Specifically, the summary mentions Allardyce retiring from international football, which is not mentioned in the article.
+1. The article states that Sam Allardyce is the new England manager, indicating that he has not retired from international football.
+2. The summary states that Allardyce has announced his retirement from international football, which is not supported by the article.
+3. The article mentions that Allardyce won 61 caps for England and was a squad member at two World Cups and two European Championships, but the summary does not mention any of these achievements.
+4. The article quotes Milner as saying "The decision we've reached is about common sense. I wish Sam [Allardyce], the players, staff and supporters success in the future," which suggests that Allardyce is still the England manager.
+5. Therefore, the summary is not consistent with the article, as it states that Allardyce has retired from international football, while the article indicates that he is still the England manager.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the dark colour of the dark colour in australia appears to be a ``dark colour\'\', a study has found. 
-
-    Article: 
-    Biologists studied a group of Sydney octopuses off Australia's east coast and observed a range of behaviour that may indicate complex social signalling.
+<Article>
+Biologists studied a group of Sydney octopuses off Australia's east coast and observed a range of behaviour that may indicate complex social signalling.
 Octopuses that stand tall, turn dark and spread their web in a "Nosferatu pose" are likely showing aggression.
 Conversely, octopuses may display a pale colour after losing a fight or when trying to avoid conflict.
 It was previously believed that octopuses were largely solitary creatures. Changes to body colour and other behaviour were interpreted as tactics to avoid predators.
@@ -25,16 +22,21 @@ Prof Godfrey-Smith's co-author David Scheel and his students combed through 53 h
 This included the Nosferatu pose, along with reaching, grappling and mating.
 Watching these long videos was "much more exhausting than I expected", Prof Godfrey Smith said.
 "Identifying an individual from minute to minute is very difficult, because they change colour and shape.
-"If the octopus wanders out of the frame, there's not much you can do." 
+"If the octopus wanders out of the frame, there's not much you can do."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the dark colour of the dark colour in australia appears to be a ``dark colour\'\', a study has found.
+</Summary>
 
-1. The summary states that the study found that octopuses turn dark when they are aggressive, but the article does not support this claim. According to the article, the study found that octopuses turn dark as a way to accentuate their size and make themselves look bigger, but it does not explicitly link this behavior to aggression.
-2. The summary mentions a "dark colour," but the article does not use this language. Instead, the article describes the octopuses' coloration as "dark" and "pale" in different contexts.
-3. The summary implies that the study found a direct causal link between coloration and aggression, but the article does not support this implication. The article states that the researchers observed a range of behaviors, including the "Nosferatu pose," but it does not suggest that these behaviors are directly linked to aggression.
-4. The summary refers to the study as finding that octopuses "turn dark," but the article does not use this language. Instead, the article describes the octopuses' coloration as "dark" and "pale" in different contexts.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it oversimplifies the study's findings and implies a direct causal link between coloration and aggression that is not supported by the article.
+1. The summary states that the dark color of the octopuses in Australia is a "dark color."
+2. However, the article states that the dark color is not a physiological response, but rather a behavioral display of aggression.
+3. The article also explains that the octopuses turn dark to make themselves appear larger and more intimidating, and that this behavior is associated with the "Nosferatu pose."
+4. Therefore, the summary is not consistent with the article because it does not accurately convey the purpose or meaning of the dark color displayed by the octopuses.
+5. The summary is a simplification of the article, but it oversimplifies the complex behavioral displays observed in the study, and it does not accurately represent the scientific findings.
+6. The article provides a more nuanced and detailed explanation of the behavioral displays observed in the study, including the "Nosferatu pose" and the different color displays associated with aggression and retreat.
+7. Therefore, the summary is not a faithful representation of the article, and it does not provide an accurate summary of the scientific findings.
 
 ###Corrected:

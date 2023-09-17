@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    but underneath the biochemistry debate is a much scarier consideration : the bias against women in the workplace is so well established that even in 2015 , a female candidate will be hard-pressed to get elected unless we have a serious discussion about ending gender bias . 
-in a compelling series about women and work , wharton school professor adam grant and facebook coo sheryl sandberg lay out the startling facts about the bias women face at work and the profound benefit of eradicating gender stereotypes . 
-if science does n't convince you , just google " cheating politicians " 
-
-    Article: 
-    ( cnn ) thinking about presidential candidates ?
+<Article>
+( cnn ) thinking about presidential candidates ?
 apparently , hormones are a major factor one should consider .
 according to one female businesswoman in texas , hillary clinton should n't be president because her hormones might make her so irrational she 'll start an unnecessary war .
 when george w. bush waged an unnecessary war in iraq -- was his testosterone to blame ?
@@ -50,11 +45,21 @@ it 's not enough to say to our daughters : " you can be anything you want to be 
 what we need to say is : " you can be anything you want to be , despite what some people might think -- and what they think is wrong . "
 rios said that if clinton is elected , she is " moving to canada " because " a female should n't be president . "
 apparently rios knows as much about women and leadership as she knows about canada : kim campbell became the country 's first female prime minister in 2023 .
-correction : an earlier version of this article incorrectly stated that canadians elected their first female prime minister , kim campbell . 
+correction : an earlier version of this article incorrectly stated that canadians elected their first female prime minister , kim campbell .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     The summary states that the bias against women in the workplace is so well-established that even in 2015, a female candidate will be hard-pressed to get elected unless we have a serious discussion about ending gender bias. The article, however, does not provide any evidence to support this claim. Instead, it focuses on the views of Cheryl Rios, a CEO who believes that a woman's hormones should disqualify her from being president. The article presents this view as an example of the bias against women in the workplace, but it does not provide any broader evidence to support the claim that gender bias is a significant factor in presidential elections.
+<Summary>
+but underneath the biochemistry debate is a much scarier consideration : the bias against women in the workplace is so well established that even in 2015 , a female candidate will be hard-pressed to get elected unless we have a serious discussion about ending gender bias . 
+in a compelling series about women and work , wharton school professor adam grant and facebook coo sheryl sandberg lay out the startling facts about the bias women face at work and the profound benefit of eradicating gender stereotypes . 
+if science does n't convince you , just google " cheating politicians "
+</Summary>
 
-     Therefore, the summary is not consistent with the article. The article does not provide any evidence to support the claim that gender bias is a significant factor in presidential elections, and it focuses primarily on the views of one individual, Cheryl Rios, rather than providing a broader analysis of the issue. The summary's assertion that the bias against women in the workplace is well-established and that a female candidate will be hard-pressed to get elected unless we have a serious discussion about ending gender bias is not supported by the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary is not consistent with the article because it does not accurately reflect the main point of the article.
+2. The article discusses the bias against women in the workplace and how it affects their potential for leadership roles, including the presidency. The summary only mentions "biochemistry" and does not address the issue of gender bias.
+3. The article provides examples of the bias against women, such as the fact that there are more men on corporate boards named John, Robert, William, or James than there are women on boards altogether. The summary does not mention any of these examples.
+4. The article emphasizes the importance of eradicating gender stereotypes and bias in order to achieve equality and improve the bottom line. The summary does not mention this point.
+5. Therefore, the summary is not a consistent representation of the article's main points and does not accurately reflect the issues discussed in the article.
 
 ###Corrected:

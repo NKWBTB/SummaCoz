@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a pay rise in male and female workers has a ``popular theory\'\', a study has found. 
-
-    Article: 
-    Women are as likely as men to ask for a pay rise - but are less likely to get one, the research found.
+<Article>
+Women are as likely as men to ask for a pay rise - but are less likely to get one, the research found.
 The study, by the Cass Business School and the universities of Warwick and Wisconsin, looked at 4,600 workers.
 It found "no support" for the "reticent female" theory, whereby women avoided asking for more money.
 For what it claimed was the first time, the study eliminated any impact from part-time workers earning less than their full-time counterparts, by comparing full-time males with full-time females, and part-time males with part-time females.
@@ -20,16 +17,21 @@ He said one possibility was that unsuccessful men who asked for a pay rise, but 
 "Having seen these findings, I think we have to accept that there is some element of pure discrimination against women," Prof Oswald added.
 "It could be that Australia is odd. But it's a modern industrial economy halfway in character between Britain and the US, so I think that's unlikely."
 The study also found differences according to age, with women and men under 40 both asking for and receiving pay rises at the same rate, which the researchers said could mean that negotiating behaviour had started to change.
-Dr Amanda Goodall from Cass Business School - part of City, University of London - and a co-author of the study, said: "The study potentially has an upside. Young women today are negotiating their pay and conditions more successfully than older females, and perhaps that will continue as they become more senior." 
+Dr Amanda Goodall from Cass Business School - part of City, University of London - and a co-author of the study, said: "The study potentially has an upside. Young women today are negotiating their pay and conditions more successfully than older females, and perhaps that will continue as they become more senior."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a pay rise in male and female workers has a ``popular theory\'\', a study has found.
+</Summary>
 
-1. The summary states that the study found a "popular theory" about women and pay rises, but the article does not mention any popular theory. Instead, the article presents the study's findings as a challenge to the popular theory that women are less likely to ask for pay rises.
-2. The summary mentions that the study found men were 25% more likely to get a pay rise when they asked, but the article does not mention this finding. Instead, the article focuses on the fact that women are just as likely as men to ask for a pay rise, but are less likely to receive one.
-3. The summary suggests that the study found no evidence for the idea that women are reluctant to ask for a salary increase because they are more wary of upsetting their boss, but the article actually presents evidence against this idea. The study found that there was no impact from part-time workers earning less than their full-time counterparts, which suggests that any reluctance to ask for a raise is not due to fear of upsetting the boss.
-4. The summary mentions that the study found differences according to age, with women and men under 40 both asking for and receiving pay rises at the same rate, but the article does not mention this finding.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents a distorted version of the study's findings, emphasizing a "popular theory" that is not actually supported by the article, and leaving out important details about the study's methodology and findings.
+1. The summary states that asking for a pay rise is a "popular theory" for male and female workers.
+2. However, the article states that the study found that men were 25% more likely to get a pay rise when they asked, compared to women.
+3. This suggests that the popular theory is not accurate, as there is no evidence that men and women have equal success in asking for pay rises.
+4. The article also states that the study found no support for the "reticent female" theory, which suggests that women are less likely to ask for pay rises because they are more wary of upsetting their boss or deviating from a perceived female stereotype.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the findings of the study.
+
+Overall, the summary is too simplistic and does not accurately reflect the complex findings of the study. It perpetuates the popular theory that men and women have equal success in asking for pay rises, which is not supported by the research.
 
 ###Corrected:

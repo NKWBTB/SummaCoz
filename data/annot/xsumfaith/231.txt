@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    football is one of the greatest sporting experiences of all time. 
-
-    Article: 
-    As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
+<Article>
+As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
 He was captured in 1943 fighting in the Middle East, and after nine months in Italy, was transferred to forced labour camp E715, part of the Auschwitz complex.
 There he spent 12 hours a day, six days a week, working with hazardous chemicals in the IG Farben works, but on Sundays they were permitted to play football.
 "I think the Germans thought that letting us play football was a quick and easy way of keeping us quiet," he said.
@@ -39,17 +36,24 @@ But by the time the Russians arrived, Mr Jones was long gone; as part of the dea
 "I was 13 stone (82kg) when I was captured, and when I was liberated by the Americans in April 1945, they weighed me, and I was seven stone."
 Mr Jones considers himself one of the lucky ones.
 "I was very lucky. I came home to a good wife, who helped me get over it. But lots never really recovered at all," he said.
-"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late." 
+"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+football is one of the greatest sporting experiences of all time.
+</Summary>
 
-1. The summary mentions "football" while the article mentions "soccer." The article uses the word "soccer" several times, while the summary only mentions "football."
-2. The summary does not include any information about the prisoners playing soccer at Auschwitz, while the article states that the prisoners played soccer on Sundays and that it was a major part of their survival.
-3. The summary mentions the Red Cross bringing food parcels to the prisoners, but the article does not mention this.
-4. The summary mentions the prisoners being forced on long marches, but the article does not mention this.
-5. The summary mentions the prisoners being liberated by the Americans, but the article states that they were liberated by the Soviets.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately represent the content of the article. It leaves out important details and includes information that is not present in the article.
+1. The article describes the experiences of Ron Jones, a former prisoner of war who was captured in 1943 and sent to forced labor camp E715, part of the Auschwitz complex.
+2. The summary states that "football is one of the greatest sporting experiences of all time."
+3. This statement is not consistent with the article because the article does not mention anything about football being a positive or enjoyable experience for Ron Jones or any other prisoners. In fact, the article highlights the opposite - the football games were a way for the prisoners to maintain their humanity and sense of normalcy in the midst of extreme hardship and brutality.
+4. The article states that the prisoners were forced to play football in the Auschwitz concentration camp, and that the games were a way for them to keep their spirits up and maintain a sense of normalcy in the midst of extreme hardship and brutality.
+5. The summary completely omits the context of the article and fails to capture the gravity of the situation described in the article.
+6. The summary is not a accurate representation of the article and is not consistent with the information presented in the article.
+7. The article is about the experiences of Ron Jones and other prisoners in the Auschwitz concentration camp, and the importance of football as a means of survival and maintaining humanity in the face of extreme adversity.
+8. The summary does not reflect the content of the article and is not a accurate representation of the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately represent the content and tone of the article. The summary is overly simplistic and fails to capture the gravity and complexity of the situation described in the article.
 
 ###Corrected:

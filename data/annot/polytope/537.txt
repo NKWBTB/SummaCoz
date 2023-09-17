@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dani alves keeps a close eye on almeria midfielder edgar mendez .
-the 31-year-old has been unable to agree a new deal with the catalan club .
-alves has been unable to agree a new deal with the catalan club . 
-
-    Article: 
-    dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
+<Article>
+dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer .
 alves has enjoyed seven successful years at barcelona , winning four spanish titles and the champions league twice .
 but the 31-year-old has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
 dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday
@@ -25,17 +20,20 @@ the former sevilla full-back has been linked with manchester united and manchest
 santana said alves has two offers on the table at the moment , but has not yet been approached by big-spending psg .
 ` he has had conversations with future candidates , ' santana said .
 ` psg have not made an offer , but we have two offers of three years . '
-alves has been linked with a number of clubs including manchester united and manchester city 
+alves has been linked with a number of clubs including manchester united and manchester city
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dani alves keeps a close eye on almeria midfielder edgar mendez .
+the 31-year-old has been unable to agree a new deal with the catalan club .
+alves has been unable to agree a new deal with the catalan club .
+</Summary>
 
-1. The summary states that Dani Alves keeps a close eye on Almeria midfielder Edgar Mendez, but the article does not mention anything about Alves watching Mendez or having any interest in him.
-2. The summary states that Alves has been unable to agree a new deal with the Catalan club, but the article states that Alves has rejected the club's final contract offer and will leave the Nou Camp this summer.
-3. The summary does not mention that Alves has rejected a three-year contract extension, which is a key point in the article.
-4. The summary does not mention that Alves' agent and ex-wife, Dinorah Santana, has confirmed that the right-back had rejected a three-year deal, which is also a key point in the article.
-5. The summary does not mention that Alves has been linked with several clubs, including Manchester United and Manchester City, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the information in the article, and is therefore not consistent with it.
+1. The summary states that Dani Alves has been unable to agree a new deal with the Catalan club, which is consistent with the article.
+2. However, the summary does not mention the reason for Alves' inability to agree a new deal, which is the central point of the article. The article states that Alves has rejected the club's final contract offer and that negotiations are over.
+3. The summary also does not mention the length of the contract offer or the fact that Alves has been linked with other clubs, which are important details in the article.
+4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail and context as the article. It only mentions a few facts that are present in the article, but does not convey the full story.
 
 ###Corrected:

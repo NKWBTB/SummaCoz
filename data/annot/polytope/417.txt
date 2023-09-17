@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    robin van persie said he was fit to feature in the game against manchester city on sunday after ankle trouble but van gaal has ruled him out .  louis van gaal said van persie is not yet fit enough to play .  united boss van persie will not return to manchester united on sunday . 
-
-    Article: 
-    manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+<Article>
+manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
 van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
 ` most of the players are fit but being fit for me is different , ' van gaal said .
 robin van persie will not return to the fray for manchester united against manchester city on sunday
@@ -46,23 +43,19 @@ herrera will be hoping to continue the fine form that has seen him become one of
 van gaal admitted he is looking forward to sampling the derby atmosphere at old trafford , as he takes on city with home advantage for the first time since arriving at the club .
 ` when i see the fans of man utd , they are supporting us in a marvellous way , i think , ' van gaal said .
 ` after matches , i give our fans a big compliment , not because i have to , because then i would n't say it .
-i say it because i feel it . ' 
+i say it because i feel it . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+robin van persie said he was fit to feature in the game against manchester city on sunday after ankle trouble but van gaal has ruled him out .  louis van gaal said van persie is not yet fit enough to play .  united boss van persie will not return to manchester united on sunday .
+</Summary>
 
-Step 1: Identify the inconsistent information
-The inconsistent information is the statement that Louis van Gaal ruled out Robin van Persie from playing against Manchester City on Sunday. The article states that van Gaal said van Persie is not yet fit enough to play, but it does not explicitly rule him out of the game.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Analyze the article
-The article states that van Persie said he was fit to feature in the game against Manchester City on Sunday, but van Gaal has different expectations. Van Gaal stated that most of the players are fit, but being fit for him is different. He also mentioned that van Persie is not yet fit enough to play.
-
-Step 3: Identify the reason for the inconsistency
-The reason for the inconsistency is that the summary is based on a specific quote from van Gaal, which is not entirely accurate. Van Gaal stated that van Persie is not yet fit enough to play, but the summary implies that he has been ruled out of the game.
-
-Step 4: Evaluate the impact of the inconsistency
-The inconsistency could potentially mislead readers who rely solely on the summary. It could also create confusion about van Gaal's expectations for the game against Manchester City.
-
-In conclusion, the summary is not consistent with the article because it implies that van Gaal has ruled out van Persie from playing against Manchester City, when the article only states that van Gaal does not consider him fit enough to play.
+1. The summary states that Robin van Persie said he was fit to feature in the game against Manchester City on Sunday after ankle trouble, but Louis van Gaal has ruled him out.
+2. However, the article states that van Gaal has ruled out van Persie because he is not yet fit enough to play, and that he will not return to the team on Sunday.
+3. The summary does not accurately reflect the article's information about van Persie's fitness and his return to the team.
+4. The article states that van Persie is not yet fit enough to play, and that van Gaal has ruled him out of the game against Manchester City on Sunday. The summary does not mention this information and instead states that van Gaal has ruled him out, which is not accurate.
+5. Therefore, the summary is not consistent with the article, and the reason for this inconsistency is that the summary does not accurately reflect the information about van Persie's fitness and his return to the team.
 
 ###Corrected:

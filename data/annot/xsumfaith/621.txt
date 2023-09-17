@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    arguments over brexit have been raging in parliament and the country since june\'s leave vote and this week they move to the high court. 
-
-    Article: 
-    On Thursday, an investment manager and hairdresser will challenge the right of the government to start the process of withdrawing the UK from the EU without a vote in Parliament.
+<Article>
+On Thursday, an investment manager and hairdresser will challenge the right of the government to start the process of withdrawing the UK from the EU without a vote in Parliament.
 Lawyers will question whether Prime Minister Theresa May is entitled to act unilaterally, using powers left over from the days of medieval monarchs.
 It could end up - in theory - with Parliament being given a means to stop Brexit.
 So as constitutional rows go, it is box office stuff.
@@ -68,17 +65,21 @@ The majority of MPs campaigned for the UK to remain in the EU. They could, in th
 But would they risk enormous political and social ructions by rejecting the referendum result?
 Most members of the House of Lords are also opposed to Brexit. That raises the possibility of another extraordinary scenario - an unelected Lords voting against the wishes of 17.4 million people.
 If the government loses its case in the British courts, they could eventually go to the European Court of Justice.
-It raises the possibility of a truly strange scenario - Brexit ministers asking European judges to overturn the decision of the British courts. 
+It raises the possibility of a truly strange scenario - Brexit ministers asking European judges to overturn the decision of the British courts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+arguments over brexit have been raging in parliament and the country since june\'s leave vote and this week they move to the high court.
+</Summary>
 
-1. The summary states that the case is about "who should activate Article 50," but the article does not mention Article 50 at all. Instead, it discusses the Royal Prerogative and the government's argument that the Prime Minister has the power to trigger Article 50 without a vote in Parliament.
-2. The summary suggests that the government is arguing that the Prime Minister has the authority to trigger Article 50 without a vote in Parliament, but the article states that the government is arguing that the Prime Minister has the power to make and break treaties with other countries, and that activating Article 50 is simply a form of ending a treaty.
-3. The summary mentions that the case is about "the rights enjoyed by British citizens 'beyond these shores'," but the article does not mention anything about citizens' rights. Instead, it focuses on the legal arguments surrounding the Royal Prerogative and the 2015 European Union Referendum Act.
-4. The summary states that the government's position is that the referendum result must be respected, but the article does not mention the referendum result at all. Instead, it discusses the government's argument that the Prime Minister has the power to make and break treaties with other countries.
-5. The summary suggests that the case is about whether the government or Parliament should activate Article 50, but the article does not mention Article 50 at all. Instead, it focuses on the legal arguments surrounding the Royal Prerogative and the 2015 European Union Referendum Act.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it oversimplifies the legal arguments and misrepresents the government's position. The article provides a more detailed and nuanced explanation of the legal issues at stake in the case.
+The provided summary is not consistent with the article because it does not accurately represent the main points of the article. Here's why:
+
+1. Focus on the High Court case: The summary mentions "arguments over Brexit" and "this week" but does not specify that the article is about a High Court case. The article, however, focuses on the legal challenge to the government's right to trigger Article 50 without a vote in Parliament.
+2. Lack of detail: The summary does not provide any details about the legal arguments, the parties involved, or the potential implications of the case. The article, on the other hand, provides a detailed explanation of the legal issues at stake, the positions of the government and the claimants, and the potential impact of the case on the Brexit process.
+3. Incorrect emphasis: The summary suggests that the article is about "arguments over Brexit" in general, rather than the specific legal challenge being brought before the High Court. The article, however, is focused on the legal aspect of the Brexit process and the role of the High Court in it.
+
+Overall, the summary does not accurately represent the content or focus of the article, and is therefore not consistent with it.
 
 ###Corrected:

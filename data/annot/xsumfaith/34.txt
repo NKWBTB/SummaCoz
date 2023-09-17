@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    colchester\'s unbeaten run came to an end as they were held to a draw at blackpool. 
-
-    Article: 
-    The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
+<Article>
+The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
 Blackpool goalkeeper Sam Slocombe denied Matthew Briggs with a sensational save to push the ball behind after 17 minutes, but the visitors did equalise from the resulting corner as Kurtis Guthrie prodded in from close range after a goalmouth scramble.
 Somehow, Colchester failed to re-take the lead on the stroke of half-time as Slocombe produced a brilliant save from George Elokobi's close-range effort, before Guthrie headed against the bar from two yards.
 Blackpool should have clinched the win 15 minutes from time, as Tom Aldred was found unmarked from a corner, but he headed wide from eight yards.
@@ -51,22 +48,30 @@ Tom Eastman (Colchester United) is shown the yellow card for a bad foul.
 Jordan Flores (Blackpool) wins a free kick on the right wing.
 Foul by Tom Eastman (Colchester United).
 Andy Taylor (Blackpool) is shown the yellow card for a bad foul.
-Foul by Andy Taylor (Blackpool). 
+Foul by Andy Taylor (Blackpool).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+colchester\'s unbeaten run came to an end as they were held to a draw at blackpool.
+</Summary>
 
-1. The summary states that Colchester's unbeaten run came to an end, but the article does not mention anything about Colchester having an unbeaten run.
-2. The summary mentions that Blackpool were held to a draw, but the article states that Blackpool won the match 1-0.
-3. The summary mentions a goal from Jamille Matt, but the article does not mention this goal. Instead, it states that Blackpool's goal was scored by Nathan Delfouneso.
-4. The summary mentions a red card for Sean Murray, but the article does not mention this.
-5. The summary mentions a corner kick for Colchester, but the article does not mention this.
-6. The summary mentions a free kick for Blackpool, but the article does not mention this.
-7. The summary mentions a save from Sam Slocombe, but the article does not mention this.
-8. The summary mentions a header against the bar from Kurtis Guthrie, but the article does not mention this.
-9. The summary mentions a missed header from Tom Aldred, but the article does not mention this.
-10. The summary mentions a yellow card for Jim McAlister, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and omissions.
+Step 1: Identify the main points of the article
+
+* Blackpool and Colchester United played a match that ended in a draw.
+* Colchester United equalized after Blackpool scored the first goal.
+* There were several missed opportunities for both teams to score.
+
+Step 2: Identify the main points of the summary
+
+* Colchester United's unbeaten run came to an end.
+
+Step 3: Compare the main points of the article and the summary
+
+* The article mentions that the match ended in a draw, but the summary states that Colchester United's unbeaten run came to an end. This is not consistent, as a draw does not necessarily mean that an unbeaten run has ended.
+
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    china\'s state-run news agency xinhua says it has arrested more than 100 people in connection with the blasts in tianjin last month, state 
-
-    Article: 
-    A journalist and stock market officials are among those arrested, Xinhua said. It gave no other details.
+<Article>
+A journalist and stock market officials are among those arrested, Xinhua said. It gave no other details.
 Chinese shares fell by nearly 8% after a week of volatile trading that spread fear to global markets.
 The Tianjin explosions killed 150 people - with 23 still missing.
 A total of 367 people remain in hospital after the 12 August blast at a warehouse where large amounts of toxic chemicals were stored. Twenty are in critical condition, according to Xinhua.
@@ -18,17 +15,22 @@ The news agency said "seditious rumours about China's upcoming commemorations of
 A journalist was also arrested along with several stock market officials, according to a Xinhua report. The journalist, Wang Xiaolu, is accused of "spreading fake information" about the market slump, the report said.
 The state news agency said Mr Wang confessed that he "wrote fake report on Chinese stock market based on hearsay and his own subjective guesses without conducting due verifications".
 In 2013 Chinese authorities introduced a possible three-year sentence for spreading rumours - the sentence was supposed to apply to anyone who posted a rumour that was reposted 500 times or viewed 5,000 times.
-Last year, Qin Zhihui, a blogger, was sentenced to three years in a government crackdown on internet rumours. Mr Qin was found guilty of "slander" and "picking quarrels and provoking troubles", state broadcaster CCTV said at the time. 
+Last year, Qin Zhihui, a blogger, was sentenced to three years in a government crackdown on internet rumours. Mr Qin was found guilty of "slander" and "picking quarrels and provoking troubles", state broadcaster CCTV said at the time.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+china\'s state-run news agency xinhua says it has arrested more than 100 people in connection with the blasts in tianjin last month, state
+</Summary>
 
-1. Arrests: The summary states that Xinhua reported the arrest of more than 100 people in connection with the Tianjin blasts, but the article only mentions the arrest of a journalist and stock market officials.
-2. Reason for arrests: The summary states that the arrests were made for "spreading fake information" and "destabilizing the market," but the article only mentions that the journalist was arrested for "spreading fake information" without providing further details.
-3. Number of people killed: The summary states that 150 people were killed in the Tianjin blasts, which is consistent with the article. However, the summary also mentions that 23 people are still missing, which is not mentioned in the article.
-4. Number of people injured: The summary states that 367 people remain in hospital after the blasts, which is consistent with the article. However, the summary also mentions that 20 people are in critical condition, which is not mentioned in the article.
-5. Reason for stock market slump: The summary states that Chinese leaders feel they mishandled their stock market rescue efforts, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the article, such as the number of people still missing and the reason for the stock market slump. Additionally, the summary provides more details about the arrests and the reason for the arrests than the article does.
+1. The summary states that Xinhua has arrested more than 100 people in connection with the blasts in Tianjin last month.
+2. The article does not mention any arrests or details about the number of people arrested.
+3. The article only mentions that Xinhua reported that a journalist and stock market officials were among those arrested, but it does not provide any specific numbers or details about the arrests.
+4. Therefore, the summary is not consistent with the article because it provides information that is not supported by the article.
+5. The article only mentions that Xinhua reported on the arrests of a journalist and stock market officials, but it does not provide any details about the number of people arrested or any other information that is included in the summary.
+6. The summary is likely based on a misunderstanding or misinterpretation of the article, as it provides information that is not supported by the text.
+7. It is possible that the summary was written based on other sources or information that is not included in the article, but it is not clear why the summary would include information that is not supported by the article.
+8. Overall, the summary is not consistent with the article and may be based on incomplete or inaccurate information.
 
 ###Corrected:

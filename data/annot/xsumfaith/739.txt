@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    properties in north kensington should be ``requisitioned if necessary\'\'for people left homeless after the grenfell tower fire, jeremy corbyn says. 
-
-    Article: 
-    The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
+<Article>
+The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
 PM Theresa May said the residents were "in our thoughts and prayers" and has ordered a public inquiry into the fire.
 But she was criticised by a senior Labour MP for failing to meet residents when she visited the scene on Thursday.
 At least 17 people died in the disaster at Grenfell Tower in North Kensington, west London in the early hours of Wednesday.
@@ -43,16 +40,20 @@ Mr Healey said this review had "not been started".
 Responding to reports, the Department for Communities and Local Government said it was "simply not true" that a report about building regulations had been "sat on".
 The BBC understands the Lord Chief Justice will make a recommendation to the prime minister of a judge to chair the inquiry.
 He or she will be independent from the government and able to call who they want as a witness.
-The Liberal Democrats have called for an urgent review into fire safety and building regulations. 
+The Liberal Democrats have called for an urgent review into fire safety and building regulations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+properties in north kensington should be ``requisitioned if necessary\'\'for people left homeless after the grenfell tower fire, jeremy corbyn says.
+</Summary>
 
-1. The summary states that Jeremy Corbyn said properties in North Kensington should be "requisitioned if necessary" for those left homeless after the Grenfell Tower fire. However, the article does not mention requisitioning properties. Instead, Corbyn is quoted as saying that properties must be found or requisitioned to make sure that residents are rehoused locally.
-2. The summary implies that Theresa May did not meet with residents during her visit to the scene of the fire, while the article states that she met with police and firefighters but did not speak to residents.
-3. The summary states that the government should provide every assistance to the council and emergency services, while the article states that the government has made emergency funding available to local authorities to support those affected by the disaster.
-4. The summary mentions a public inquiry into the disaster, but the article does not provide details about the inquiry.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the extent of the government's actions and omits important details about the situation.
+1. The article states that Jeremy Corbyn called for properties in North Kensington to be requisitioned if necessary for people left homeless after the Grenfell Tower fire.
+2. However, the summary only mentions that Corbyn said properties should be requisitioned, without providing any context or information about the reason for his call.
+3. The article provides context and information about the reason for Corbyn's call, stating that he made the request because he is "very angry" about the loss of lives in the fire and wants to ensure that residents are re-housed locally.
+4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail or context about the reason for Corbyn's call.
+5. Additionally, the summary does not mention that Corbyn was speaking specifically about the Grenfell Tower fire and the need for re-housing local residents, which is a key point in the article.
+6. Overall, the summary does not accurately reflect the content of the article and is not a consistent representation of the information provided.
 
 ###Corrected:

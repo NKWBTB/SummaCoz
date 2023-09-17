@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the local authorities in scotland have " serious problems " with the council tax system, a report has found. 
-
-    Article: 
-    A review for the Commission on Local Tax Reform said there was no "magic bullet" to cure defects in the system.
+<Article>
+A review for the Commission on Local Tax Reform said there was no "magic bullet" to cure defects in the system.
 It said the council tax had built-in problems "from day one" but a failure to modify it had stored up more difficulties for policy makers.
 The commission, set up by the Scottish government and council body Cosla, will report back later this year.
 Prof Kenneth Gibb, from the University of Glasgow, was asked to review different systems of local taxation across the world.
@@ -21,17 +18,27 @@ He said:  "It is clear there is no magic bullet.
 The commission now intends to hold a public consultation across Scotland before publishing its report in the autumn.
 A Scottish government spokesman said ministers consider the current council tax system "as a whole to be unfair".
 He added: "That is why, along with our local government partners, we have established the cross-party Commission on Local Tax Reform to examine fairer alternatives.
-"The Scottish government awaits the commission's report, which is due in the Autumn." 
+"The Scottish government awaits the commission's report, which is due in the Autumn."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the local authorities in scotland have " serious problems " with the council tax system, a report has found.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that the local authorities in Scotland have "serious problems" with the council tax system.
-2. However, the article does not mention any specific problems with the council tax system. Instead, it discusses the limitations and challenges of different local taxation systems, including the council tax system.
-3. The article mentions that a review found that the council tax system has built-in problems "from day one," but it does not describe these problems as "serious."
-4. The article also mentions that the review found that a local income tax is generally perceived as fairer, but it creates difficulties for local authorities because it means their income fluctuates.
-5. Therefore, the summary is not consistent with the article because it exaggerates the severity of the problems with the council tax system and does not accurately reflect the content of the article.
+2. However, the article does not mention any specific problems with the council tax system. Instead, it discusses the findings of a review by Professor Kenneth Gibb, which found that the current system has built-in problems and that there is no "magic bullet" for reform.
+3. The article also mentions that the review found that a local income tax was generally perceived as fairer, but that it created difficulties for local authorities because it meant their income fluctuated.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The article does not mention any "serious problems" with the council tax system, but rather discusses the challenges of reforming the system.
 
-Overall, the summary is not a fair representation of the article's content and should be revised to better reflect the nuances and complexities of the issue.
+Step-by-step reasoning:
+
+1. The summary states that the local authorities in Scotland have "serious problems" with the council tax system.
+2. The article does not mention any specific problems with the council tax system.
+3. Instead, the article discusses the findings of a review by Professor Kenneth Gibb.
+4. The review found that the current system has built-in problems and that there is no "magic bullet" for reform.
+5. The article also mentions that a local income tax was generally perceived as fairer, but that it created difficulties for local authorities.
+6. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
 
 ###Corrected:

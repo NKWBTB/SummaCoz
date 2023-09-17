@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
+<Article>
 caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
-he would roll the agency into another department . 
-
-    Article: 
-    caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
 for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
 he would roll the agency into another department .
 what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
@@ -42,16 +37,21 @@ william sparks , a visitor to the outside of the tomb tuesday who took an amtrak
 this is very impressive . '
 critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
 lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
-it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo ) 
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+he would roll the agency into another department .
+</Summary>
 
-1. The summary states that the timing of the ceremony to mark Lincoln's death is awkward because Illinois faces a financial crisis and Gov. Bruce Rauner has proposed eliminating the state historic preservation agency that manages sites including Lincoln's tomb. However, the article does not mention anything about a ceremony or the financial crisis and the proposed budget cuts.
-2. The summary mentions that the article in National Geographic magazine pilloried the tomb as having "all the historical character of an office lobby." However, the article does not mention any criticism of the tomb's interior in National Geographic. Instead, it only mentions that the tomb's interior was renovated recently and is in excellent physical condition.
-3. The summary states that the caretakers of Lincoln's tomb are on the defensive over the unflattering critique in National Geographic and looming budget cuts that could threaten management of the historic site. However, the article does not mention any defensiveness from the caretakers or any looming budget cuts that could threaten the management of the site.
-4. The summary mentions that the tomb's hours and days of operation have been reduced, and it is staffed with fewer employees since state lawmakers cut funding for sites in the Springfield area. However, the article does not mention any reduction in hours or staffing.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and omits other important details that are present in the article.
+1. The summary states that the caretakers of Abraham Lincoln's tomb are on the defensive over an unflattering critique in National Geographic Magazine and looming budget cuts that could threaten management of the historic site.
+2. The article does mention that the tomb was pilloried in the latest issue of National Geographic Magazine, but it does not provide any specific details about the critique.
+3. The summary also states that the timing of a ceremony Wednesday in Springfield to mark Lincoln's death is awkward because Illinois faces a financial crisis and Gov. Bruce Rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb.
+4. However, the article does not mention anything about a ceremony being held on Wednesday to mark Lincoln's death.
+5. Therefore, the summary is not consistent with the article because it includes information that is not present in the article, such as the ceremony being held on Wednesday, and it also fails to mention the specific details of the critique in National Geographic Magazine.
 
 ###Corrected:

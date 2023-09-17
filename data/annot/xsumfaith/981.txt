@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    president barack obama has called for a ``full investigation\'\'in the wake of a deadly suicide bombing in kunduz. 
-
-    Article: 
-    The US military says a strike targeting Taliban in the northern city of Kunduz may have caused "collateral damage".
+<Article>
+The US military says a strike targeting Taliban in the northern city of Kunduz may have caused "collateral damage".
 Offering his "deepest condolences", Mr Obama said he expected a "full accounting of the facts" and would then make a definitive judgement.
 At least 12 MSF staff members and seven patients were killed in the incident.
 The UN called the strikes "inexcusable and possibly even criminal", with Secretary General Ban Ki-moon calling for a thorough and impartial investigation.
@@ -24,27 +21,21 @@ Mr Jecs and other staff went outside when the bombing stopped.  "What we saw was
 The Afghan interior ministry said a group of 10 to 15 militants had been hiding in the hospital.
 The Taliban denied that any of its fighters were there.
 A Taliban statement described the air strikes which hit the hospital as "deliberate", and carried out by "the barbaric American forces".
-There has been intense fighting in Kunduz since Taliban fighters swept into the northern city on Monday. 
+There has been intense fighting in Kunduz since Taliban fighters swept into the northern city on Monday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+president barack obama has called for a ``full investigation\'\'in the wake of a deadly suicide bombing in kunduz.
+</Summary>
 
-Step 1: Identify the main points of the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary states that President Obama has called for a "full investigation" in the wake of a deadly suicide bombing in Kunduz.
+The given summary is not consistent with the article because it does not accurately reflect the content of the article. Here's why:
 
-Step 2: Identify the main points of the article.
+1. The summary mentions a "suicide bombing" in Kunduz, but the article does not mention any suicide bombing. Instead, the article reports that a US military strike targeting the Taliban in Kunduz may have caused "collateral damage" and resulted in the deaths of at least 12 MSF staff members and seven patients.
+2. The summary mentions President Obama calling for a "full investigation" into the bombing, but the article does not mention any such statement from the President. Instead, the article reports that the US Department of Defense has launched an investigation into the incident.
+3. The summary does not mention the MSF hospital being damaged or the deaths of patients and staff, which are major aspects of the article.
 
-The article states that the US military conducted an air strike in Kunduz that may have caused "collateral damage" and resulted in the deaths of at least 12 MSF staff members and seven patients. The UN and human rights organizations have condemned the strikes as "inexcusable and possibly even criminal."
-
-Step 3: Identify the inconsistencies.
-
-The inconsistency is that the summary mentions President Obama calling for a "full investigation" in the wake of a suicide bombing, but the article does not mention any suicide bombing. Instead, the article focuses on the US military's air strike and its consequences.
-
-Step 4: Analyze the reasons for the inconsistency.
-
-The inconsistency is likely due to a misunderstanding or misinterpretation of the article. The summary may have been written based on a different article or source that mentioned a suicide bombing, or the writer may have misread or misinterpreted the information in the article.
-
-In conclusion, the summary is not consistent with the article because it mentions a suicide bombing that is not present in the article. The article focuses on the US military's air strike and its consequences, while the summary mentions President Obama calling for an investigation into a different event.
+Therefore, the summary is not a consistent representation of the article's content. It appears to be a brief and inaccurate summary of the article, which does not accurately reflect the events described in the article.
 
 ###Corrected:

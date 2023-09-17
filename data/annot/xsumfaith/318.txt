@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    liverpool have appointed former liverpool captain steven gerrard as their new manager. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The former Reds captain, 36, is to return to his former club as a youth coach in February in what will be his first job since retiring as a player.
 Klopp said he "had a good long chat" with the ex-England skipper, describing his appointment as "wonderful news".
 "He said he wants to be a manager in the future. That's cool," Klopp added.
@@ -15,15 +12,20 @@ Klopp said he "had a good long chat" with the ex-England skipper, describing his
 Gerrard made his Liverpool debut in 1998 and left Anfield at the end of the 2014-15 season to join MLS side LA Galaxy having won the Champions League, Uefa Cup, FA Cup and League Cup on three occasions.
 He retired as a player in November after a 19-year career.
 Gerrard had been linked with the manager's job at League One side MK Dons after announcing he would leave LA Galaxy, but said the opportunity came "too soon" for him.
-He is also working towards his Uefa A coaching licence, which is required to manage in the Premier League. 
+He is also working towards his Uefa A coaching licence, which is required to manage in the Premier League.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+liverpool have appointed former liverpool captain steven gerrard as their new manager.
+</Summary>
 
-1. The summary states that Steven Gerrard has been appointed as the new manager of Liverpool, but the article does not mention anything about him being appointed as the manager. Instead, it mentions that he will be returning to the club as a youth coach in February.
-2. The summary implies that Gerrard is taking up the role of manager immediately, but the article states that he will only be joining the club as a youth coach in February.
-3. The summary mentions that Gerrard has been linked with the manager's job at League One side MK Dons, but the article does not mention anything about this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not supported by the article. Specifically, it implies that Gerrard has been appointed as the manager of Liverpool, when in fact he will only be joining the club as a youth coach. Additionally, it mentions that he has been linked with the manager's job at MK Dons, which is not mentioned in the article.
+1. The article states that Steven Gerrard is returning to Liverpool as a youth coach in February, but it does not mention anything about him being appointed as the new manager of the club.
+2. The summary states that Liverpool has appointed Steven Gerrard as their new manager, which is not supported by the article.
+3. The article mentions that Gerrard is retiring as a player and is looking to become a manager in the future, but it does not mention any specific appointment as a manager.
+4. The article also mentions that Gerrard is working towards his Uefa A coaching licence, which is required to manage in the Premier League.
+
+Therefore, the summary is not consistent with the article because it makes a claim about Gerrard being appointed as the new manager of Liverpool, which is not supported by the text.
 
 ###Corrected:

@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the university of michigan has decided to proceed with a screening of the film `` american sniper '' .
-the university of michigan has decided to proceed with a screening of the film `` american sniper '' . 
-
-    Article: 
-    ( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
+<Article>
+( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
 more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
 bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history .
 kyle was fatally shot at a texas shooting range in 2013 .
@@ -17,16 +13,22 @@ but there was a backlash to the decision to yank the movie , and a counter-petit
 on wednesday , e. royster harper , university of michigan 's vice president for student life , said in a statement that " it was a mistake to cancel the showing of the movie ` american sniper ' on campus as part of a social event for students " and that the show will go on .
 " the initial decision to cancel the movie was not consistent with the high value the university of michigan places on freedom of expression and our respect for the right of students to make their own choices in such matters , " the statement said .
 umix will offer a screening of the family-friendly " paddington " for those who would rather not attend " american sniper . "
-the announcement drew praise from michigan head football coach jim harbaugh . 
+the announcement drew praise from michigan head football coach jim harbaugh .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the university of michigan has decided to proceed with a screening of the film `` american sniper '' .
+the university of michigan has decided to proceed with a screening of the film `` american sniper '' .
+</Summary>
 
-1. The summary states that the university decided to proceed with the screening of "American Sniper," while the article states that the university initially decided to cancel the screening due to objections from some students.
-2. The summary does not mention any objections from students or any controversy surrounding the film, while the article highlights the backlash to the decision to cancel the movie and the counter-petition that was signed by some students.
-3. The summary does not mention the specific reason for the university's initial decision to cancel the screening (i.e., the film's depiction of the Iraq war and its potential impact on the Middle East and Arab-American community), while the article highlights this reason as the basis for the objections from some students.
-4. The summary mentions that the university will screen the family-friendly "Paddington" as an alternative, while the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article, as it omits key details and presents a different narrative.
+1. The article states that the University of Michigan has decided to proceed with a screening of the film "American Sniper" despite objections from some students.
+2. The summary does not mention any objections or controversy surrounding the film, and simply states that the university has decided to proceed with the screening.
+3. This inconsistency indicates that the summary is not an accurate representation of the article's content.
+4. The article explains that some students had signed a petition asking the school not to show the movie because they believed its depiction of the Iraq war reflected negatively on the Middle East and people from that region.
+5. The article also mentions that there was a backlash to the decision to yank the movie, and a counter-petition asked school officials to reconsider.
+6. However, the summary does not mention any of these details and only states that the university has decided to proceed with the screening.
+7. Therefore, the summary is not a consistent representation of the article's content and does not provide an accurate summary of the information.
 
 ###Corrected:

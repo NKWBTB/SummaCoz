@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    apple added to multipeer connectivity framework ( mcf ) to ios 7
-it creates what 's called a wireless mesh network that connects phones to each other
-instead of sending messages using mobile or data signal , the features lets users send messages to people in close proximity that are in bluetooth or wi-fi direct range - up to 30 feet ( 9 metres )
-apple uses the framework for its airdrop feature , which makes it easy to send files and data to other connected iphone users 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -56,21 +50,26 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+apple added to multipeer connectivity framework ( mcf ) to ios 7
+it creates what 's called a wireless mesh network that connects phones to each other
+instead of sending messages using mobile or data signal , the features lets users send messages to people in close proximity that are in bluetooth or wi-fi direct range - up to 30 feet ( 9 metres )
+apple uses the framework for its airdrop feature , which makes it easy to send files and data to other connected iphone users
+</Summary>
 
-1. The summary states that Apple added multipeer connectivity framework (MCF) to iOS 7 to create a wireless mesh network that connects phones to each other, while the article states that FireChat, an app developed by Open Garden, uses MCF to create a localized network for off-the-grid messaging.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that Greenstone, a small device built by Open Garden, is designed to strengthen wireless mesh networks and extend the range of messages, but the article does not mention Greenstone or its purpose.
+1. The summary states that Apple added Multipeer Connectivity Framework (MCF) to iOS 7, which creates a wireless mesh network that connects phones to each other.
+2. The article states that FireChat, an app developed by Open Garden, uses MCF to create a localized network in which each phone becomes a node and data is passed between nodes.
+3. The summary does not mention anything about Greenstone, a small device built by Open Garden to strengthen off-the-grid networks.
+4. The article explains that Greenstone acts as a beacon or booster to help messages move around wireless mesh networks more easily, but the summary does not mention this.
+5. The summary only mentions Apple's Airdrop feature, which is not related to Greenstone.
+6. The article states that Greenstone is still under development and only currently works with FireChat at a range of around 20ft (6 meters), but the summary does not mention this.
+7. The article mentions that Greenstone can hold up to 1,000 of the most recent messages and has a one-year battery life, but the summary does not mention these details.
 
-3. The summary states that FireChat has been downloaded over five million times and is particularly useful when on a plane or underground, while the article does not mention the popularity of FireChat or its use cases.
-
-4. The summary mentions that messages sent through FireChat are secure and anonymous, while the article does not mention these features.
-
-5. The summary states that Greenstone is still under development and only currently works with FireChat at a range of around 20ft, while the article does not mention Greenstone's current capabilities or limitations.
-
-In conclusion, the summary is not consistent with the article because it describes features and details that are not present in the article. The article focuses on FireChat and its use of MCF for off-the-grid messaging, while the summary introduces additional information about Greenstone and its purpose, which is not mentioned in the article.
+Therefore, the summary is not consistent with the article because it only focuses on Apple's MCF and Airdrop feature, while the article provides more information about FireChat and Greenstone, including their features and capabilities.
 
 ###Corrected:
