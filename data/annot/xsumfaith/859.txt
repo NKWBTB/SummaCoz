@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in ethiopia\'s capital, ethiopia, a small ward and a ward in the capital, ethiopia, is one of the biggest challenges in the country\'s history. 
-
-    Article: 
-    But just north of the small market town of Korem, bright green fields and neatly terraced hillsides surround a vast lake, and in the brand new local hospital, the ward reserved for severely malnourished babies is all but empty.
+<Article>
+But just north of the small market town of Korem, bright green fields and neatly terraced hillsides surround a vast lake, and in the brand new local hospital, the ward reserved for severely malnourished babies is all but empty.
 Foreign aid is a notoriously difficult business - and much criticised.
 But if you're looking for results, then this vast climate-change challenged country, led by a hugely ambitious and severely authoritarian government, is worth a visit.
 In the first decade of this century, the number of Ethiopians living in poverty dropped by a third.
@@ -42,20 +39,20 @@ But the challenges ahead remain significant.
 Ethiopia's population is heading towards 100 million, with a quarter still living in extreme poverty.
 Sitting down in front of his simple wood and mud home, Mr Admassie said the cash payments had, at times, saved his family from starvation. But he questioned whether he would ever be able to manage without them.
 "I don't own any land. I rent my fields. I have to give half the crop to the owner as payment.
-"I can work hard now, but I worry about what will happen when I get older. I will have to go to the city to find work," he said. 
+"I can work hard now, but I worry about what will happen when I get older. I will have to go to the city to find work," he said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the given summary is not consistent with the article:
+<Summary>
+in ethiopia\'s capital, ethiopia, a small ward and a ward in the capital, ethiopia, is one of the biggest challenges in the country\'s history.
+</Summary>
 
-1. The summary states that the ward in Ethiopia's capital is one of the biggest challenges in the country's history, but the article does not mention anything about a ward or a challenge of that magnitude.
-2. The summary mentions a small ward and a ward in the capital, but the article does not mention any specific wards or their locations.
-3. The summary states that foreign aid is a notoriously difficult business and that Ethiopia is a country led by a hugely ambitious and severely authoritarian government, but the article does not mention anything about foreign aid or the government's leadership style.
-4. The summary mentions child mortality coming down by two-thirds, but the article does not provide any information about child mortality rates.
-5. The summary mentions a hospital reserved for severely malnourished babies, but the article does not mention any hospitals or healthcare facilities.
-6. The summary states that the number of Ethiopians living in poverty dropped by a third, but the article does not provide any information about poverty rates.
-7. The summary mentions a conference in Addis Ababa to discuss ways to finance ambitious new international development goals, but the article does not mention any conferences or development goals.
-8. The summary states that British taxpayers are giving over £300m a year to help fight poverty in Ethiopia, but the article does not mention anything about British taxpayers or foreign aid.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations, and it focuses on issues that are not mentioned in the article.
+1. The summary states that one of the biggest challenges in Ethiopia's history is the small ward in the capital, Ethiopia. This is not consistent with the article, as the article does not mention a small ward in the capital.
+2. The article discusses the country's economic growth, reduction in poverty, and improvement in healthcare, but there is no mention of a small ward in the capital being one of the biggest challenges in the country's history.
+3. The article highlights the success of foreign aid in improving the country's economy and healthcare, but there is no mention of a small ward in the capital being a challenge.
+4. The summary does not provide any specific information or evidence to support the claim that the small ward in the capital is one of the biggest challenges in the country's history.
+
+Therefore, the summary is not consistent with the article. It appears to be a misleading or inaccurate summary of the article's content.
 
 ###Corrected:

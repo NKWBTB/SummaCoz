@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a service of remembrance has been held in new zealand to mark the 70th anniversary of the gallipoli landings. 
-
-    Article: 
-    Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
+<Article>
+Thousands attended the early morning service at Hyde Park Corner and up to 400 people took part in a parade before the wreath-laying at the Cenotaph.
 Anzac Day commemorates the first major battle involving Australian and New Zealand forces during World War One.
 A service was also held at Westminster Abbey.
 The national anthems of New Zealand and Australia were sung as the service ended.
@@ -16,17 +13,18 @@ Addressing the crowds at the dawn service, Alexander Downer, Australian high com
 "We consider the enthusiasm, the courage, and the heroism of the Anzac troops - ordinary men fighting for God, King and empire, for their mates, for adventure, for a world without war."
 Members of veterans' associations, service and ex-service personal and their families took part in the parade at the Cenotaph.
 Crowds, including Australia and New Zealand ex-pats, lined the streets to watch the ceremony which featured prayers read by schoolchildren and the national anthems of all three countries.
-The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war. 
+The eight-month campaign on the Gallipoli peninsula in Turkey was one of the bloodiest of the war and the allied operation was an attempt to force the Ottoman empire out of the war.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+a service of remembrance has been held in new zealand to mark the 70th anniversary of the gallipoli landings.
+</Summary>
 
-1. The summary mentions a service of remembrance being held in New Zealand to mark the 70th anniversary of the Gallipoli landings, but the article does not mention any such event.
-2. The article states that the service was held at Hyde Park Corner and featured a parade and wreath-laying at the Cenotaph, but the summary does not mention these details.
-3. The summary mentions the national anthems of New Zealand and Australia being sung, but the article only mentions the national anthem of Australia being sung.
-4. The summary states that the service was held at Westminster Abbey, but the article does not mention this.
-5. The article mentions that King George V attended a Westminster Abbey service in 1916, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains details that are not present in the article, and omits other important details that are mentioned in the article.
+1. The summary states that a service of remembrance was held in New Zealand to mark the 70th anniversary of the Gallipoli landings.
+2. However, the article does not mention anything about a service being held in New Zealand. Instead, it talks about services being held in London, specifically at Hyde Park Corner and Westminster Abbey.
+3. The article does mention that the Gallipoli campaign was one of the bloodiest of the war and that the allied operation was an attempt to force the Ottoman empire out of the war.
+4. Therefore, the summary is not consistent with the article because it mentions a service being held in New Zealand, which is not supported by the article.
 
 ###Corrected:

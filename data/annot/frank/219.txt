@@ -1,20 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the liberal democrats spent more than £1bn in the first three months of the 2015 general election, official figures show. 
+<Article>
+UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,The Lib Dems spent £1,580,575 and lost all but one of their MEPs - Labour, which came second, spent £1,027,339.The figures cover the campaign period from 23 January to polling day, 22 May.UKIP's campaign spending works out at 68p for each of their 4,376,635 votes. For Labour it is 26p per vote, the Conservatives 79p and the Lib Dems, who lost 11 of their 12 MEPs, £1.45. The Green Party, which came fourth, spent £534,249 on its campaign - 43p for each of its 1,255,573 votes.Including the SNP's £267,372, the six highest-spending parties spent a total of £9,347,087 on campaigning, the Electoral Commission said.All but Labour spent more than they did during the 2009 European election campaign.
+</Article>
 
-    Article: 
-    UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,The Lib Dems spent £1,580,575 and lost all but one of their MEPs - Labour, which came second, spent £1,027,339.The figures cover the campaign period from 23 January to polling day, 22 May.UKIP's campaign spending works out at 68p for each of their 4,376,635 votes. For Labour it is 26p per vote, the Conservatives 79p and the Lib Dems, who lost 11 of their 12 MEPs, £1.45. The Green Party, which came fourth, spent £534,249 on its campaign - 43p for each of its 1,255,573 votes.Including the SNP's £267,372, the six highest-spending parties spent a total of £9,347,087 on campaigning, the Electoral Commission said.All but Labour spent more than they did during the 2009 European election campaign. 
+<Summary>
+the liberal democrats spent more than £1bn in the first three months of the 2015 general election, official figures show.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the Liberal Democrats spent over £1bn in the first three months of the 2015 general election.
-2. However, the article states that the Liberal Democrats spent £1,580,575 on their campaign, which is nowhere near £1bn.
-3. Therefore, the summary is not consistent with the article because it provides an incorrect figure for the Liberal Democrats' campaign spending.
-
-The error in the summary likely arose from a misunderstanding or misreading of the article's figures. The article states that the Liberal Democrats spent £1,580,575 on their campaign, but the summary mistakenly reports that they spent over £1bn. This discrepancy highlights the importance of carefully reviewing and verifying information before summarizing or reporting on it.
+1. The article states that the Liberal Democrats spent £1,580,575 on their campaign, which is significantly less than £1 billion.
+2. The article also states that the Liberal Democrats lost all but one of their MEPs, which suggests that their campaign was not successful.
+3. The summary, on the other hand, claims that the Liberal Democrats spent more than £1 billion in the first three months of the 2015 general election. This is not supported by the article, as the article only provides information on the campaign expenditure for the European election, not the general election.
+4. Therefore, the summary is not consistent with the article, as it provides incorrect information about the Liberal Democrats' campaign spending.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph
-the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons
-dellinger faces 12 to 24 years in prison when sentencing resumes thursday 
-
-    Article: 
-    a former fortune 500 executive from new hampshire who caused a highway crash that killed a vermont couple and their unborn baby said during his sentencing wednesday that he was n't suicidal .
+<Article>
+a former fortune 500 executive from new hampshire who caused a highway crash that killed a vermont couple and their unborn baby said during his sentencing wednesday that he was n't suicidal .
 prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
 the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons .
 speaking out : former fortune 500 executive robert dellinger , 54 , said in court during his sentencing wednesday that he was not suicidal on the day he crashed into a couple 's suv , killing them instantly
@@ -39,21 +34,23 @@ however called the state 's comments ` over the top ' and said dellinger had led
 took a severance package worth more than $ 1million in cash plus stocks
 when he left in 2011 because of health reasons , according to documents
 filed with the securities and exchange commission .
-records show that a dellinger family trust owns four property in the town of sunapee worth $ 3million in total . 
+records show that a dellinger family trust owns four property in the town of sunapee worth $ 3million in total .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph
+the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons
+dellinger faces 12 to 24 years in prison when sentencing resumes thursday
+</Summary>
 
-1. The summary states that Robert Dellinger told investigators he was trying to kill himself when he caused the crash that killed two people, but the article states that he told the court he was not suicidal. This is a contradiction, as the summary information is not supported by the article.
+Explain your reasoning step by step:[/INST]
 
-2. The article states that Dellinger pleaded guilty to negligent homicide and faces 12 to 24 years in prison, but the summary does not mention his guilty plea or the potential sentence. This information is important to understanding the case and is not included in the summary.
+The given summary is not consistent with the article because:
 
-3. The summary mentions that Dellinger was driving at over 100mph and plowed into an oncoming SUV, killing the two people inside, but the article does not mention the speed at which he was driving. This information is not supported by the article and could be considered misleading.
+1. The summary states that prosecutors said Robert Dellinger was trying to kill himself, but the article states that he told investigators he was not suicidal.
+2. The summary mentions the crash killed 24-year-old Amanda Murphy, who was eight months pregnant, and her fiance, 29-year-old Jason Timmons, but the article does not mention the fetus' death.
+3. The summary mentions that Dellinger faces 12 to 24 years in prison, but the article does not mention the specific sentence he faces.
 
-4. The summary states that Dellinger's wife described him as a "man of ethics, integrity, and friendship" who has lived his life with "grace and modesty," but the article does not mention this information. This is not supported by the article and could be considered a biased or irrelevant detail.
-
-5. The summary mentions a wrongful death lawsuit filed by the estate of Amanda Murphy, but the article does not mention this. This information is not supported by the article and could be considered misleading.
-
-Overall, the summary is not consistent with the article because it includes information that is not supported by the article, such as Dellinger's supposed suicidal intentions, and leaves out important details, such as his guilty plea and potential sentence. Additionally, the summary includes biased or irrelevant information, such as Dellinger's wife's description of him.
+Therefore, the summary is not an accurate representation of the article. It contains information that is not supported by the article and omits other important details.
 
 ###Corrected:

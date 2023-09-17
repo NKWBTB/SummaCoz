@@ -1,24 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dame sarah storey won her second uci road cycling world championships title with victory in the women\'s road race. 
+<Article>
+The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005.
+</Article>
 
-    Article: 
-    The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.Storey can win a 17th title when she rides in Saturday's road race."It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.Storey is Britain's most decorated female Paralympian with 22 medals.She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005. 
+<Summary>
+dame sarah storey won her second uci road cycling world championships title with victory in the women\'s road race.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Dame Sarah Storey won her second UCI road cycling world championships title.
-
-However, the article does not mention any information about her winning a second title. Instead, it states that she won her first UCI road cycling world championship title in 2014.
-
-2. The summary also mentions that Storey won a 17th title when she rode in Saturday's road race, but the article does not mention anything about her winning any additional titles beyond the one she won in 2014.
-
-3. The article does mention that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the summary does not mention anything about the Paralympics or Rio de Janeiro.
-
-Therefore, the summary is not consistent with the article because it contains information that is not supported by the article, such as Storey winning a second title and targeting the Paralympics.
+1. The summary states that Dame Sarah Storey won her "second UCI Road Cycling World Championships title".
+2. However, the article states that Storey has won 17 titles, including 11 golds, 8 silvers, and 3 bronzes, but does not mention her winning two UCI Road Cycling World Championships titles.
+3. Therefore, the summary is not consistent with the article, as the article does not mention Storey winning two UCI Road Cycling World Championships titles.
+4. The article mentions that Storey won four golds at the 2012 Games in London, but the summary does not mention this.
+5. The summary is not a accurate representation of the information in the article, as it contains information that is not supported by the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a music shop in sunderland has voted to sell their own album in a bid to sell their own album. 
-
-    Article: 
-    Pop Recs Ltd hosted in-store gigs by acts from Franz Ferdinand to James Bay.
+<Article>
+Pop Recs Ltd hosted in-store gigs by acts from Franz Ferdinand to James Bay.
 It also earned the group an award for Britain's hardest-working band from the Association of Independent Music.
 Drummer Dave Harper, who runs the shop, is now looking for a new site. "We need to be somewhere else," he said. "Not existing is not an option."
 The band opened Pop Recs Ltd to sell their own album in 2013 after realising there were few bricks-and-mortar stores left to sell it.
@@ -25,15 +22,20 @@ Members of shop's the regular meetings have told him that the groups help with t
 The band have always known the council was trying to sell the building, Sunderland City Council's cabinet secretary Councillor Mel Speding said.
 "That has now been secured with its development into student accommodation.
 "This is in line with council objectives to see more people living and working in the city centre and, in the interests of council tax payers in these financially challenging times for local authorities, it secures a capital receipt.
-"Naturally, with the success and popularity of Pop Recs, the council and others have been looking at ways and means of continuing and securing a similar venture elsewhere in the city centre." 
+"Naturally, with the success and popularity of Pop Recs, the council and others have been looking at ways and means of continuing and securing a similar venture elsewhere in the city centre."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a music shop in sunderland has voted to sell their own album in a bid to sell their own album.
+</Summary>
 
-1. The summary states that the music shop in Sunderland voted to sell their own album, but the article does not mention anything about the shop selling an album.
-2. The summary mentions the shop closing due to the council selling the building for student flats, but the article does not mention the council selling the building.
-3. The summary mentions the shop's regular meetings and events, such as poetry and stitching groups, but the article does not mention these activities.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits other important information that is present in the article.
+1. The summary states that the music shop in Sunderland voted to sell their own album. This is not supported by the article, as the article states that the band opened the shop to sell their own album, but there is no mention of them voting to sell it.
+2. The summary is a misleading representation of the article's content. The article actually describes the band's efforts to keep their independent record store open, despite the council selling the building for student flats. The summary focuses solely on the band's decision to sell their own album, which is not the main point of the article.
+3. The summary does not accurately reflect the article's focus on the band's efforts to keep their record store open and the impact it has had on the community. The article highlights the store's importance as a community hub, hosting regular music tuition, poetry, stitching, and toddler groups, and the band's desire to find a new site to continue these activities.
+4. The summary does not mention any of these community activities or the band's efforts to find a new site, which are the main focus of the article. Instead, it only mentions the band's decision to sell their own album, which is a minor detail in the article.
+
+Therefore, the summary is not a consistent representation of the article's content and focuses on a minor detail rather than the main points.
 
 ###Corrected:

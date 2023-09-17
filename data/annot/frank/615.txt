@@ -1,26 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian wright will be presented with his final grand prix title at sandown on saturday . he will be presented with his final champion jockeys trophy by ian wright at sandown on saturday . he will be presented with his final champion jockeys trophy by ian wright at sandown . 
+<Article>
+Arsenal legend Ian Wright has been confirmed as the man who will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday. Track officials had been keen to secure someone with a connection to the club which the retiring rider fervently supports. Wright, who had seven seasons at Arsenal and broke every scoring record in the book, will hand over McCoy’s trophy before travelling back into London to present his BBC5Live radio phone in. AP McCoy will be presented with his final champion jockeys trophy by Ian Wright at Sandown on Saturday Wright (centre) is now a television pundit but played for Arsenal during his years as a professional McCoy is a huge Arsenal supporter and has been invited to attend a home game before the end of the season Sandown initially tried to secure Thierry Henry to be the Arsenal celebrity to hand over the trophy to McCoy. But his Sky employers vetoed the move. A request to secure another Arsenal legend in Tony Adams also proved logistically impossible because he currently manages Gabala in Azabaijan. A Sandown spokesman said; ‘Tony wanted to do it but his side are playing on Friday night and he just could not get back on time. Tony’s wife will be at Sandown on Saturday along with Ian and his wife.’ Another famous Arsenal name expected at Sandown is Liam Brady, one of McCoy’s sporting heroes from his childhood. Wright was a player for Arsenal as a striker for seven years, from 1991 until 1998 Iconic Arsenal striker Thierry Henry (centre) was asked to present the award but Sky did not allow it Family commitments will keep McCoy away from the Emirates on Sunday when his team host Chelsea in a top of the table clash. He told Racemail: ‘I have a kind invitation from the chairman to attend any home game before the end of the season.’
+</Article>
 
-    Article: 
-    Arsenal legend Ian Wright has been confirmed as the man who will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday. Track officials had been keen to secure someone with a connection to the club which the retiring rider fervently supports. Wright, who had seven seasons at Arsenal and broke every scoring record in the book, will hand over McCoy’s trophy before travelling back into London to present his BBC5Live radio phone in. AP McCoy will be presented with his final champion jockeys trophy by Ian Wright at Sandown on Saturday Wright (centre) is now a television pundit but played for Arsenal during his years as a professional McCoy is a huge Arsenal supporter and has been invited to attend a home game before the end of the season Sandown initially tried to secure Thierry Henry to be the Arsenal celebrity to hand over the trophy to McCoy. But his Sky employers vetoed the move. A request to secure another Arsenal legend in Tony Adams also proved logistically impossible because he currently manages Gabala in Azabaijan. A Sandown spokesman said; ‘Tony wanted to do it but his side are playing on Friday night and he just could not get back on time. Tony’s wife will be at Sandown on Saturday along with Ian and his wife.’ Another famous Arsenal name expected at Sandown is Liam Brady, one of McCoy’s sporting heroes from his childhood. Wright was a player for Arsenal as a striker for seven years, from 1991 until 1998 Iconic Arsenal striker Thierry Henry (centre) was asked to present the award but Sky did not allow it Family commitments will keep McCoy away from the Emirates on Sunday when his team host Chelsea in a top of the table clash. He told Racemail: ‘I have a kind invitation from the chairman to attend any home game before the end of the season.’ 
+<Summary>
+ian wright will be presented with his final grand prix title at sandown on saturday . he will be presented with his final champion jockeys trophy by ian wright at sandown on saturday . he will be presented with his final champion jockeys trophy by ian wright at sandown .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-Step 1: Identify the main point of the summary.
-The main point of the summary is that Ian Wright will present AP McCoy with his final champion jockeys trophy at Sandown on Saturday.
-
-Step 2: Identify the main point of the article.
-The main point of the article is that Arsenal legend Ian Wright will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday, but it will not be Thierry Henry presenting the award as Sky did not allow it.
-
-Step 3: Identify the inconsistencies.
-The inconsistency is that the summary states that Ian Wright will present AP McCoy with his final champion jockeys trophy, but the article states that it will be AP McCoy who will receive the trophy, not Ian Wright. Additionally, the summary mentions that Wright will present the trophy at Sandown on Saturday, but the article states that the presentation will take place before a home game for Arsenal.
-
-Step 4: Explain the reasoning.
-The summary is not consistent with the article because it contains incorrect information about the recipient of the trophy and the location of the presentation. The article states that AP McCoy will receive the trophy, not Ian Wright, and that the presentation will take place before a home game for Arsenal, not at Sandown on Saturday.
+1. The summary states that Ian Wright will be presented with his final Grand Prix title at Sandown on Saturday.
+2. However, the article does not mention anything about Ian Wright receiving a Grand Prix title.
+3. The article states that Ian Wright will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday.
+4. The summary incorrectly states that Ian Wright will be presented with a title, when in fact he will be doing the presenting.
+5. Additionally, the summary mentions "final Grand Prix title", which is not a correct term, as there is no such thing as a "Grand Prix" in horse racing.
+6. Therefore, the summary is not consistent with the article, and the errors can be traced back to the incorrect use of terms and the reversal of the roles of Ian Wright and AP McCoy.
 
 ###Corrected:

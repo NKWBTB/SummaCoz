@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a record 25, 000 people attended the london film festival in september, its director has said. 
-
-    Article: 
-    Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
+<Article>
+Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
 Sir Roger talks about how a dialogue coach helped boost his confidence, which helped him forge his career.
 Turning Points has been made for London 2012 Festival, a nationwide arts event.
 The festival is running until 9 September and bringing together leading artists from across the world.
@@ -35,17 +32,18 @@ A social worker told him his life was going to be different, and if he did not c
 "I refused rehab, where I was supposed to go off to another city to be taught how to be a proper, grateful disabled person, threw the Braille card in the bin and have lived exactly the sort of life I always wanted," Tally Evans said.
 "I never saw my social worker again."
 The film also has contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
-Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape." 
+Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a record 25, 000 people attended the london film festival in september, its director has said.
+</Summary>
 
-1. The summary states that the London Film Festival will feature a record 25,000 attendees, but the article does not mention any specific numbers or records.
-2. The summary mentions the London Film Festival, but the article is actually about a film called "Turning Points" and its premiere at the Chapter Arts Centre in Cardiff.
-3. The summary does not mention the film "Turning Points" or its director, Chris Tally Evans.
-4. The summary mentions a record attendance for the London Film Festival, but the article does not mention any such record.
-5. The summary mentions the film being shown at the Southbank Centre in London, but the article only mentions its premiere in Cardiff.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it discusses the London Film Festival and record attendance, while the article is actually about the film "Turning Points" and its premiere in Cardiff.
+1. The summary is not consistent with the article because there is no mention of the London Film Festival in the article.
+2. The article is about a film called "Turning Points" and its director, Chris Tally Evans, who is from Rhayader, Powys. The article discusses the film's premiere at the Chapter Arts Centre in Cardiff and its inclusion in the London 2012 Festival, a nationwide arts event.
+3. The summary, on the other hand, mentions only the London Film Festival and does not provide any information about the film or its director.
+4. Therefore, the summary is not consistent with the article because it does not provide any information about the film or its director, and instead only mentions the London Film Festival, which is not mentioned in the article.
 
 ###Corrected:

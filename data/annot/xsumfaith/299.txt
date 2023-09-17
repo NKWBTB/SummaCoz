@@ -1,27 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the chief executive of the isle of man county council has been appointed as the new chief executive. 
-
-    Article: 
-    The local authority said Richard Ellis was leaving on Friday at the end of his contract.
+<Article>
+The local authority said Richard Ellis was leaving on Friday at the end of his contract.
 Ciaran Monaghan and Ewan Sutherland are both going under a voluntary redundancy and early retirement scheme.
 Stephen Flynn, the leader of the opposition SNP group, said the departures were indicative of the council's inability to hold on to senior staff.
 He said he expected further departures in the coming months.
 Mr Ellis is the council's former interim director of corporate governance, and has also been acting as deputy chief executive for several months.
 Mr Monaghan is head of the chief executive's office, while Mr Sutherland is head of human resources and customer services.
-Council chief executive Angela Scott thanked the trio for their "dedication and professionalism". 
+Council chief executive Angela Scott thanked the trio for their "dedication and professionalism".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+the chief executive of the isle of man county council has been appointed as the new chief executive.
+</Summary>
 
-1. The summary states that the chief executive of the Isle of Man County Council has been appointed as the new chief executive, but the article does not mention any appointment of a new chief executive.
-2. The article mentions that Richard Ellis, the current chief executive, is leaving the council at the end of his contract, and that Ciaran Monaghan and Ewan Sutherland are leaving through a voluntary redundancy and early retirement scheme. This suggests that there is no new chief executive being appointed.
-3. The summary also mentions that the departures are indicative of the council's inability to hold on to senior staff, but the article does not mention this. The article only mentions that the departures are due to the end of contracts and the voluntary redundancy and early retirement scheme.
-4. Finally, the summary mentions that Mr. Ellis is the council's former interim director of corporate governance, but the article does not mention this. The article only mentions that he is the current chief executive.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+1. The article states that Richard Ellis is leaving the council at the end of his contract on Friday. This is not consistent with the summary, which states that the chief executive of the Isle of Man County Council has been appointed as the new chief executive.
+2. The article also mentions that Ciaran Monaghan and Ewan Sutherland are leaving the council under a voluntary redundancy and early retirement scheme. This is not mentioned in the summary.
+3. The article quotes Stephen Flynn, the leader of the opposition SNP group, as saying that the departures are indicative of the council's inability to hold on to senior staff. This is not mentioned in the summary.
+4. The article mentions that Angela Scott, the council chief executive, thanked the trio for their "dedication and professionalism". This is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. The summary only mentions the departure of one person, the chief executive, while the article mentions the departures of three people and provides additional information about their roles and the reasons for their departures. Additionally, the summary does not include any of the additional information provided in the article, such as the voluntary redundancy and early retirement scheme, the leader of the opposition's comments, and the council chief executive's thank you message.
 
 ###Corrected:

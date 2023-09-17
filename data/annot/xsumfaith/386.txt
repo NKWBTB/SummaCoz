@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested in connection with the rape and murder of a man in the northern indian state of uttar pradesh. 
-
-    Article: 
-    The police allege 28-year-old Nazrul, also called Nazu, was the man who raped the 74-year-old nun.
+<Article>
+The police allege 28-year-old Nazrul, also called Nazu, was the man who raped the 74-year-old nun.
 The man, allegedly a Bangladeshi citizen, was arrested at a railway station in Kolkata (Calcutta).
 The incident caused outrage in India and led to street protests in many cities across the country.
 This marks the sixth arrest in the crime.
@@ -14,17 +11,21 @@ Police have identified eight suspects in the attack, of which two still remain u
 "All the five accused arrested earlier have named Nazrul as the person who raped the nun," a police officer told the BBC.
 Dilip Kumar Adak, deputy inspector general of the state's Criminal Investigation Department, told the AFP news agency that police acted on a tip off that Nazu, who had fled to Bangladesh after being identified from CCTV footage of the attack, was due to return to Kolkata by train.
 In May, the police said they had arrested Milon Sarkar and described him as the leader of the gang which attacked the convent. They said it was not clear what role the man had played in the case.
-During the attack in Ranaghat town on 14 March, money was stolen from the convent school and the building ransacked, before the nun was raped in the convent itself. 
+During the attack in Ranaghat town on 14 March, money was stolen from the convent school and the building ransacked, before the nun was raped in the convent itself.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a man has been arrested in connection with the rape and murder of a man in the northern indian state of uttar pradesh.
+</Summary>
 
-1. The summary states that a man has been arrested in connection with the rape and murder of a man in the northern Indian state of Uttar Pradesh. However, the article does not mention the word "murder" or any details about the victim being a man.
-2. The article only mentions the rape of a 74-year-old nun in Ranaghat town, and the arrest of five accused individuals. There is no mention of a man being arrested or any connection to Uttar Pradesh.
-3. The summary also states that the man was arrested at a railway station in Kolkata (Calcutta), but the article does not mention any details about the arrest location or the man's nationality.
-4. The article does mention that police have identified eight suspects in the attack, of which two still remain untraced, but there is no mention of a sixth arrest or any information about the suspects being Bangladeshi citizens.
-5. Finally, the summary mentions that the incident caused outrage in India and led to street protests in many cities across the country, but the article does not provide any information about the protests or the public's reaction to the incident.
+Explain your reasoning step by step:[/INST]
 
-Based on these discrepancies, it is clear that the summary is not consistent with the article. The summary contains details that are not present in the article, such as the victim being a man, the location of the arrest being in Uttar Pradesh, and the suspects being Bangladeshi citizens. Additionally, the summary includes information that is not mentioned in the article, such as the public's reaction to the incident and street protests. Therefore, the summary is not a accurate representation of the article's content.
+1. The article is about the rape of a 74-year-old nun in Ranaghat town, West Bengal, India, while the summary states that a man has been arrested in connection with the rape and murder of a man in the northern Indian state of Uttar Pradesh.
+2. The article mentions that the suspect, Nazrul, was arrested at a railway station in Kolkata, while the summary does not mention any location or details about the arrest.
+3. The article states that the incident caused outrage in India and led to street protests in many cities across the country, while the summary does not mention any reaction or response to the alleged rape and murder.
+4. The article mentions that this is the sixth arrest in the crime, and that police have identified eight suspects, while the summary does not provide any information about the number of arrests or suspects.
+5. The article states that all five accused arrested earlier have named Nazrul as the person who raped the nun, while the summary does not mention any details about the accused or their statements.
+
+Therefore, the summary is not consistent with the article because it does not provide any information about the rape of the nun in Ranaghat town, West Bengal, but instead mentions a man being arrested in connection with a rape and murder in Uttar Pradesh. The summary is incorrect and does not accurately represent the content of the article.
 
 ###Corrected:

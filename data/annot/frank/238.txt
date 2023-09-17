@@ -1,24 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a police officer has been charged with the manslaughter of a man who was injured in the hillsborough disaster. 
+<Article>
+The Crown Prosecution Service (CPS) will reveal its intentions at a meeting with victims' relatives at 11:00 BST.Ninety-six football fans were fatally injured in the 1989 stadium disaster.Margaret Aspinall, whose 18-year-old son died, said: "Hopefully this is the journey to the end, completely, of Hillsborough."Last year, new inquests into the disaster in Sheffield concluded the fans had been unlawfully killed.In January, files of evidence relating to 23 suspects were referred to the CPS to decide whether charges should be brought.Of these, 15 relate to the Operation Resolve investigation into the causes of the disaster, which unfolded at the start of an FA Cup semi-final between Liverpool and Nottingham Forest on 15 April 1989.The other eight relate to an Independent Police Complaints Commission probe into the conduct of both South Yorkshire Police and West Midlands Police in the days and weeks afterwards.Relatives have been invited to a private meeting in Warrington, where they will be informed of the decisions by Sue Hemming, head of the special crime and counter-terrorism division at the CPS.Mrs Aspinall, chairwoman of the Hillsborough Family Support Group, said waiting for the decisions had been "a long, long struggle for everybody".She added: "We've got to wait with anticipation to see what happens."It is going to be a day of mixed emotions for the families and we have had so many of them."Whatever happens, I still think it will be a long road, but the families are determined to never give up."All we want is accountability, nothing more and nothing less."
+</Article>
 
-    Article: 
-    The Crown Prosecution Service (CPS) will reveal its intentions at a meeting with victims' relatives at 11:00 BST.Ninety-six football fans were fatally injured in the 1989 stadium disaster.Margaret Aspinall, whose 18-year-old son died, said: "Hopefully this is the journey to the end, completely, of Hillsborough."Last year, new inquests into the disaster in Sheffield concluded the fans had been unlawfully killed.In January, files of evidence relating to 23 suspects were referred to the CPS to decide whether charges should be brought.Of these, 15 relate to the Operation Resolve investigation into the causes of the disaster, which unfolded at the start of an FA Cup semi-final between Liverpool and Nottingham Forest on 15 April 1989.The other eight relate to an Independent Police Complaints Commission probe into the conduct of both South Yorkshire Police and West Midlands Police in the days and weeks afterwards.Relatives have been invited to a private meeting in Warrington, where they will be informed of the decisions by Sue Hemming, head of the special crime and counter-terrorism division at the CPS.Mrs Aspinall, chairwoman of the Hillsborough Family Support Group, said waiting for the decisions had been "a long, long struggle for everybody".She added: "We've got to wait with anticipation to see what happens."It is going to be a day of mixed emotions for the families and we have had so many of them."Whatever happens, I still think it will be a long road, but the families are determined to never give up."All we want is accountability, nothing more and nothing less." 
+<Summary>
+a police officer has been charged with the manslaughter of a man who was injured in the hillsborough disaster.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-Step 1: The summary states that a police officer has been charged with manslaughter, but the article does not mention any charges being brought against any police officers.
-
-Step 2: The summary mentions that the charges are related to the Hillsborough disaster, but the article only mentions the CPS's intentions to reveal their decisions regarding the disaster, without specifying any charges.
-
-Step 3: The summary mentions that the charges are related to the causes of the disaster, but the article only mentions that the CPS has received files of evidence relating to 23 suspects and is considering whether charges should be brought.
-
-Step 4: The summary does not mention anything about a private meeting with victims' relatives, while the article mentions that the CPS will reveal their decisions at a private meeting with relatives in Warrington.
-
-Overall, the summary is not consistent with the article because it mentions specific details that are not present in the article, such as charges being brought against a police officer, and omits other important details that are present in the article, such as the fact that the CPS is considering whether charges should be brought and that the decisions will be revealed at a private meeting with victims' relatives.
+1. The article states that the Crown Prosecution Service (CPS) will reveal its intentions at a meeting with victims' relatives, but there is no mention of any police officers being charged.
+2. The summary states that a police officer has been charged with the manslaughter of a man who was injured in the Hillsborough disaster. This is not supported by the article.
+3. The article mentions that the CPS has been considering whether to bring charges against 23 suspects, including 15 related to the causes of the disaster and 8 related to the conduct of the police in the days and weeks afterwards. However, there is no mention of any charges being brought against a police officer.
+4. Therefore, the summary is not consistent with the article, as it states that a police officer has been charged, while the article does not mention any charges being brought.
 
 ###Corrected:

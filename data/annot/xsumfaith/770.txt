@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    liverpool\'s premier league title challenge is in the premier league, with liverpool looking for their title credentials. 
-
-    Article: 
-    In his regular BBC Sport column, football pundit Robbie Savage looks at why Liverpool look a long way off repeating last season's title challenge, how they should line up against Chelsea and the physical and mental battle Steven Gerrard faces to secure a long-term future with the Reds.
+<Article>
+In his regular BBC Sport column, football pundit Robbie Savage looks at why Liverpool look a long way off repeating last season's title challenge, how they should line up against Chelsea and the physical and mental battle Steven Gerrard faces to secure a long-term future with the Reds.
 It is only six months since Steven Gerrard's slip helped the Blues clinch a famous win on Merseyside that derailed Liverpool's title bid.
 Back then, at the end of April, the title was in the Reds' grasp. This weekend, I think we will see again how far away they are from mounting another title challenge.
 They are miles away from the level required for that, and will have to improve and work hard just to get in the top four.
@@ -78,17 +75,21 @@ Saturday will be a difficult occasion for him because what happened against Chel
 Of course he will be thinking about it before the game - he must think about it all the time - but he has not let it stop him.
 It would have been easy for him to quit after a disappointment like that, but he has kept going like he always does.
 It is that kind of desire that will keep him going beyond the end of this season too.
-Robbie Savage was speaking to BBC Sport's Chris Bevan 
+Robbie Savage was speaking to BBC Sport's Chris Bevan
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Liverpool is looking for title credentials, but the article argues that they are far from it.
+<Summary>
+liverpool\'s premier league title challenge is in the premier league, with liverpool looking for their title credentials.
+</Summary>
 
-2. The article states that Liverpool's problems include the loss of Suarez and Sturridge's injury, which has led to a lack of goals and intensity in their game.
+Explain your reasoning step by step:[/INST]
 
-3. The article also highlights Liverpool's defensive weaknesses and set-piece issues.
+The given summary is not consistent with the article because:
 
-4. The summary does not mention these problems, implying that Liverpool is still a strong title contender, which is not consistent with the article's analysis.
+1. The summary states that Liverpool's Premier League title challenge is in question, while the article focuses on the team's poor performance and lack of goals, rather than their title chances.
+2. The summary does not accurately reflect the content of the article, which discusses Liverpool's struggles in various aspects of the game, such as set-pieces, defense, and attack.
+3. The article provides a detailed analysis of Liverpool's weaknesses and the reasons behind their poor form, while the summary oversimplifies the situation by stating that the team's title challenge is in question.
 
-5. Therefore, the summary is not consistent with the article, and the writer of the summary may not have fully understood the content of the article.
+Therefore, the given summary is not consistent with the article, and it does not accurately reflect the content or the tone of the article.
 
 ###Corrected:

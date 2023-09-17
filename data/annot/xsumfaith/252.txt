@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    premier league leaders cheltenham came from behind to claim a point at home to west ham. 
-
-    Article: 
-    After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
+<Article>
+After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
 Sakho slotted in his first goal since November from Sam Byram's pass, before Ayew tucked into the same bottom corner moments later.
 The hosts went close via Harry Pell's volley and Jordon Forster's header.
 James Collins and Byram both could have added further goals for the visitors, who made seven changes following top-flight losses at Manchester United and Southampton.
@@ -54,16 +51,20 @@ Attempt missed. James Collins (West Ham United) header from the centre of the bo
 Corner,  West Ham United. Conceded by Jordan Cranston.
 Attempt blocked. Diafra Sakho (West Ham United) right footed shot from outside the box is blocked. Assisted by Arthur Masuaku.
 Sam Byram (West Ham United) wins a free kick in the defensive half.
-Foul by Kevin Dawson (Cheltenham Town). 
+Foul by Kevin Dawson (Cheltenham Town).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+premier league leaders cheltenham came from behind to claim a point at home to west ham.
+</Summary>
 
-1. The summary states that Cheltenham came from behind to claim a point, but the article states that West Ham United won the match 2-0.
-2. The summary mentions Cheltenham's bright start, but the article does not mention this. Instead, it states that West Ham United took control of the match with two quick goals from Diafra Sakho and Andre Ayew.
-3. The summary mentions Harry Pell's volley and Jordon Forster's header as close calls for Cheltenham, but the article does not mention these opportunities. Instead, it states that Cheltenham's best chance came when Dan Holman could not quite get the required touch as he slid in at the far post.
-4. The summary states that Cheltenham exited the EFL Cup, but the article does not mention this. Instead, it states that West Ham United advanced to the next round.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the events of the match. The article provides a more detailed and accurate account of the match, while the summary is brief and does not accurately represent the outcome or the events of the match.
+1. The summary states that Cheltenham came from behind to claim a point at home to West Ham, implying that they were behind at some point in the game. However, the article states that West Ham took a 2-0 lead and Cheltenham never managed to score.
+2. The summary suggests that Cheltenham and West Ham played a competitive match, with Cheltenham fighting back to claim a point. However, the article portrays a one-sided match, with West Ham dominating possession and creating more chances, while Cheltenham struggled to create any meaningful opportunities.
+3. The summary does not accurately reflect the final score of the match, which was West Ham 2, Cheltenham 0, according to the article.
+
+Overall, the summary is not consistent with the article because it misrepresents the outcome of the match, the competitiveness of the game, and the performance of the teams.
 
 ###Corrected:

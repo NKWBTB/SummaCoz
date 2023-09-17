@@ -1,27 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the uk wife carrying championships have a winner! 
-
-    Article: 
-    18 March 2014 Last updated at 09:22 GMT
+<Article>
+18 March 2014 Last updated at 09:22 GMT
 Richard Blake-Smith and his partner Anna beat Vytautas Kirkliauskas of Lithuania, carrying his wife, Neringa Kirliauskiene.
 Rich said: "We put in a whole week's work, running around the athletics track near where we live - and it's paid off"
 "We were pushed hard, especially by the Lithuanians there."
 Competitors must tackle a 380-metre course, hurdling over haystacks, scrabbling up a steep slope, and dodging water pistols.
 You don't need to be married to take part.
 The race saw all combinations of competitors - men carrying women, men carrying men and one woman carrying a woman.
-Rich and Anna will now compete at the World Championships in Finland in July. 
+Rich and Anna will now compete at the World Championships in Finland in July.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the uk wife carrying championships have a winner!
+</Summary>
 
-1. The summary states that there is a winner of the UK Wife Carrying Championships, but the article does not mention a winner. Instead, it talks about Richard Blake-Smith and his partner Anna beating Vytautas Kirkliauskas of Lithuania.
-2. The summary implies that the competition was only for married couples, but the article states that competitors can be any combination of men and women, and that there were men carrying men, women carrying women, and men carrying women.
-3. The summary mentions a winner, but the article does not provide any information about the winner. Instead, it focuses on the competition and the participants.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it makes claims that are not supported by the information in the article.
+1. The summary states that the "uk wife carrying championships" have a winner, which is not consistent with the article. The article does not mention anything about a "uk wife carrying championship." Instead, it refers to the "wife carrying race."
+2. The article states that the race is open to all combinations of competitors, including men carrying men, women carrying women, and men carrying women. The summary does not mention this and implies that the championship is only for married couples.
+3. The article does not mention anything about a championship or a winner being crowned. Instead, it focuses on the race itself and the participants' experiences.
+
+Therefore, the summary is not consistent with the article because it implies that the race is a championship for married couples, when in fact the race is open to all combinations of competitors and does not have a championship format.
 
 ###Corrected:

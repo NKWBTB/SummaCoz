@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wrexham came from behind to beat gateshead and reach the second round of the national league. 
-
-    Article: 
-    Josh Gillies beat Cameron Belford in the visitors' goal with a fine free-kick to put the Tynesiders ahead.
+<Article>
+Josh Gillies beat Cameron Belford in the visitors' goal with a fine free-kick to put the Tynesiders ahead.
 But Wrexham were back on level terms before half-time when Sean Newton produced an equally fine set-piece.
 Ryan Bowman scored a fine winner for Gateshead, though, heading Craig Baxter's cross from the right across goal and into the net.
 Gateshead manager Malcolm Crosby told BBC Newcastle: "To go and beat Wrexham tells me we have a decent side.
@@ -55,18 +52,21 @@ Attempt missed. Dominic Vose (Wrexham) right footed shot from outside the box mi
 Corner,  Wrexham.
 Attempt saved. Josh Gillies (Gateshead) left footed shot from outside the box is saved.
 Substitution, Wrexham. Adam Smith replaces James Gray.
-Goal!  Gateshead 2, Wrexham 1. Ryan Bowman (Gateshead) header from a difficult angle on the right to the bottom left corner. Assisted by Jamie Chandler with a cross. 
+Goal!  Gateshead 2, Wrexham 1. Ryan Bowman (Gateshead) header from a difficult angle on the right to the bottom left corner. Assisted by Jamie Chandler with a cross.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+wrexham came from behind to beat gateshead and reach the second round of the national league.
+</Summary>
 
-1. The summary states that Wrexham came from behind to beat Gateshead, but the article states that Gateshead won the match 2-1.
-2. The summary mentions that Wrexham reached the second round of the national league, but the article does not mention this.
-3. The summary states that Wrexham played well in the first half, but the article states that Gateshead had a good second half.
-4. The summary mentions that Wrexham had good chances but didn't score, but the article states that Gateshead scored two goals, one from a fine free-kick and another from a good header.
-5. The summary states that Gateshead manager Malcolm Crosby said that his team had a decent side, but the article quotes him as saying that Wrexham played really well.
-6. The summary states that Wrexham manager Gary Mills said that his team had two or three games now when the second half has not been as good as the first, but the article does not mention this quote.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, there are several inconsistencies that can be identified:
 
-Therefore, the given summary is not consistent with the article as it contains several inaccuracies and misleading statements.
+1. Wrexham did not win the match: According to the article, Gateshead won the match with a score of 2-1, while the summary states that Wrexham won.
+2. The scorers for Gateshead: The article states that Josh Gillies and Ryan Bowman scored for Gateshead, while the summary does not mention any scorers for Gateshead.
+3. The scorer for Wrexham: The article states that Sean Newton scored for Wrexham, while the summary does not mention any scorers for Wrexham.
+4. The final score: The article states that Gateshead won 2-1, while the summary states that Wrexham won.
+
+Therefore, the summary is not consistent with the article. The summary should be revised to accurately reflect the information provided in the article.
 
 ###Corrected:

@@ -1,36 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    world number one mark kyrgios said he was ``very tired\'\'at his time as he made history in the first round of the shanghai masters. 
-
-    Article: 
-    The Australian, 21, beat world number 29 Querrey 6-4 6-4 in 53 minutes to progress to the second round.
+<Article>
+The Australian, 21, beat world number 29 Querrey 6-4 6-4 in 53 minutes to progress to the second round.
 Kyrgios, ranked a career-high 12th in the world, won the Japan Open on Sunday and is closing in on the top 10.
 "I was just a bit bored at times," said Kyrgios, when asked why he was not his usual vocal self against Querrey.
 "I was feeling very tired. It was just tough. I'm just tired so maybe I just wanted to get the job done."
 Kyrgios said his success in Japan, and the travelling involved in playing at the Qi Zhong Stadium, an hour from Shanghai city centre, had taken its toll.
 "I didn't have the greatest sleep last night and obviously got in late the day before," he said. "The ride to the courts isn't great either."
-It was at the Shanghai Masters last year that Kyrgios was fined $1,500 (£984) for a foul-mouthed outburst, describing the tournament a "circus". 
+It was at the Shanghai Masters last year that Kyrgios was fined $1,500 (£984) for a foul-mouthed outburst, describing the tournament a "circus".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+world number one mark kyrgios said he was ``very tired\'\'at his time as he made history in the first round of the shanghai masters.
+</Summary>
 
-1. The summary states that Kyrgios said he was "very tired" at his time, but the article does not support this statement.
+Explain your reasoning step by step:[/INST]
 
-2. The article quotes Kyrgios as saying he was feeling "a bit bored at times" and "tired," but does not mention him saying he was "very tired."
+1. The article states that Kyrgios beat Querrey in 53 minutes, which is a relatively short time for a tennis match.
+2. The article quotes Kyrgios as saying he was "just tired" and "wanted to get the job done." This suggests that Kyrgios did not have a particularly difficult time in the match.
+3. The summary states that Kyrgios was "very tired" at his time, which is not supported by the article. The article does not mention Kyrgios being tired at all.
+4. The summary also states that Kyrgios made history in the first round of the Shanghai Masters, which is not accurate. The article only mentions that Kyrgios beat Querrey in the first round.
 
-3. The summary also states that Kyrgios made history in the first round of the Shanghai Masters, but the article does not mention this.
-
-4. The article only states that Kyrgios beat world number 29 Querrey in the first round, and does not provide any information about him making history.
-
-5. Therefore, the summary is not consistent with the article, and it appears to be an inaccurate summary of Kyrgios's comments.
-
-6. The article provides a different reason for Kyrgios's tiredness, stating that he was tired due to his success in Japan and the travel involved in playing at the Qi Zhong Stadium.
-
-7. The summary does not mention any of these factors, and instead states that Kyrgios was "very tired" without providing any explanation or context.
-
-8. Based on these differences, it is clear that the summary is not an accurate representation of the article and is inconsistent with the information provided.
+Therefore, the summary is not consistent with the article because it contains information that is not supported by the text. The summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

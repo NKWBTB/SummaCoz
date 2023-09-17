@@ -1,22 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ayr united scored two late goals to beat ayr united in the first round of the scottish challenge cup. 
-
-    Article: 
-    Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
+<Article>
+Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
 El Bakhtaoui raced on to a Ryan Wallace ball to score his first, before scoring a stunning 30-yard volley from Michael Paton's cross.
-Craig Moore fired a late chance over for Ayr United, who remain third. 
+Craig Moore fired a late chance over for Ayr United, who remain third.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+ayr united scored two late goals to beat ayr united in the first round of the scottish challenge cup.
+</Summary>
 
-1. The summary states that Ayr United scored two late goals to beat Ayr United. This is incorrect, as the article states that Ayr United scored two quick fire goals to take control of the game.
-2. The summary does not mention the name of the team that scored the goals. The article states that El Bakhtaoui and Paton scored for the visitors, but the summary does not include this information.
-3. The summary mentions a late chance for Ayr United, which is not consistent with the article. The article states that Craig Moore fired a late chance over the bar, but the summary does not include this information.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events described in the article.
+1. The article states that Pars goalkeeper Sean Murdoch denied Jamie Adams in the first half, indicating that Ayr United did not score any goals in the first half.
+2. The article also states that two quick fire goals put the visitors in control, which suggests that Ayr United did not score any goals in the second half either.
+3. The summary states that Ayr United scored two late goals to beat Pars, which is not supported by the article.
+4. The article mentions that Craig Moore fired a late chance over for Ayr United, but this is not described as a goal.
+5. Therefore, the summary is not consistent with the article because it states that Ayr United scored two late goals, while the article does not support this claim.
 
 ###Corrected:

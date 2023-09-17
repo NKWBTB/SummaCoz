@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    arsenal and hakan calhanoglu are tracking bayer leverkusen midfielder hakan calhanoglu. 
+<Article>
+Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu. The Turkey international has impressed since joining from Hamburg in the summer, scoring five times in Leverkusen's bid to qualify for the Champions League. And his displays have captured the attention of both City and Arsenal in recent months. Arsenal and Manchester City are keen on Bayer Leverkusen star Hakan Calhanoglu, pictured here in action earlier this month against FC Kaiserslautern in the German Cup quarter final . The Gunners have been on the 21-year-old's case since last season, but City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months. Calhanoglu's ability from dead ball situations have particularly caught the eye of City and Arsenal scouts. Calhanoglu has impressed at Leverkusen this season following his arrival from Hamburg last summer . Manchester City and Arsenal both have scouts monitoring the 21-year-old dead ball specialist's progress .
+</Article>
 
-    Article: 
-    Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu. The Turkey international has impressed since joining from Hamburg in the summer, scoring five times in Leverkusen's bid to qualify for the Champions League. And his displays have captured the attention of both City and Arsenal in recent months. Arsenal and Manchester City are keen on Bayer Leverkusen star Hakan Calhanoglu, pictured here in action earlier this month against FC Kaiserslautern in the German Cup quarter final . The Gunners have been on the 21-year-old's case since last season, but City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months. Calhanoglu's ability from dead ball situations have particularly caught the eye of City and Arsenal scouts. Calhanoglu has impressed at Leverkusen this season following his arrival from Hamburg last summer . Manchester City and Arsenal both have scouts monitoring the 21-year-old dead ball specialist's progress . 
+<Summary>
+arsenal and hakan calhanoglu are tracking bayer leverkusen midfielder hakan calhanoglu.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Arsenal and Hakan Calhanoglu are tracking Bayer Leverkusen midfielder Hakan Calhanoglu.
-2. However, the article states that Arsenal and Manchester City are tracking Hakan Calhanoglu, not just Arsenal.
-3. The summary does not mention Manchester City at all, which is inconsistent with the article.
-4. The article states that both Arsenal and Manchester City have been impressed by Hakan Calhanoglu's displays and are paying close attention to his progress, but the summary only mentions Arsenal.
-5. Therefore, the summary is not consistent with the article because it only mentions Arsenal and does not include Manchester City, who are also mentioned in the article as being interested in Hakan Calhanoglu.
+2. The article does not mention that Arsenal and Hakan Calhanoglu are tracking each other. Instead, it states that Arsenal and Manchester City are both keen on Calhanoglu, with City paying close attention to his displays.
+3. The article also mentions that Calhanoglu has impressed since joining Leverkusen from Hamburg, scoring five times and catching the eye of both City and Arsenal scouts.
+4. Therefore, the summary is not consistent with the article because it only mentions Arsenal and Calhanoglu, leaving out the fact that Manchester City is also interested in the player.
+5. Additionally, the summary incorrectly states that Calhanoglu is tracking Arsenal, when in fact, it is the other way around.
 
 ###Corrected:

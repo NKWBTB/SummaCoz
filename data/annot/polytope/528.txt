@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    steven gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday .
-martin skrtel has praised the impact and example gerrard has set during his time at liverpool .
-skrtel was signed by rafael benitez from zenit st petersburg seven years ago . 
-
-    Article: 
-    martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
+<Article>
+martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
 reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
 should liverpool emerge victorious against villa , gerrard will sign off his anfield career in the final which takes place on his birthday of may 30 , before moving to la galaxy .
 martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
@@ -29,16 +24,27 @@ skrtel ( left ) still considers 34-year-old midfield player gerrard one of the b
 skrtel ( left ) believes liverpool have the players to fill gerrard 's void providing they are given the right help
 ` he will be leaving after this season and we have a few players who can replace him .
 we will try to help them and try to work as a team , ' skrtel explained .
-both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march . 
+both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+steven gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday .
+martin skrtel has praised the impact and example gerrard has set during his time at liverpool .
+skrtel was signed by rafael benitez from zenit st petersburg seven years ago .
+</Summary>
 
-1. Gerrard's departure: The summary states that Gerrard is set to feature for Liverpool in the FA Cup semi-final against Aston Villa at Wembley on Sunday, implying that he will still be a Liverpool player next season. However, the article states that Gerrard is set to leave Liverpool after this season and sign with LA Galaxy.
-2. Skrtel's quotes: The summary quotes Skrtel as saying that Gerrard is still one of the best players in the world and that he will be missed next season. However, the article quotes Skrtel as saying that while Gerrard is still one of the best players in the world, Liverpool has potential replacements for him.
-3. Replacement players: The summary implies that Liverpool will be a different side without Gerrard, but Skrtel's quotes in the article suggest that the club has potential replacements for him.
-4. Gerrard's final game: The summary states that Gerrard's final game for Liverpool will be the FA Cup semi-final against Aston Villa, but the article states that his final game will be the FA Cup final against Arsenal on May 30, should Liverpool emerge victorious against Villa.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the quotes from Skrtel and it does not accurately describe Gerrard's departure from Liverpool.
+1. The summary states that Martin Skrtel was signed by Rafael Benitez from Zenit St. Petersburg seven years ago. However, the article states that Skrtel was signed by Benitez from Zenit St. Petersburg eight years ago.
+
+2. The summary does not mention that Steven Gerrard is set to feature in the FA Cup semi-final against Aston Villa, but the article does.
+
+3. The summary does not mention that Gerrard is set to leave Liverpool after the FA Cup final, but the article does.
+
+4. The summary does not mention that Skrtel believes Liverpool will be a different side without Gerrard, but the article does.
+
+5. The summary does not mention that Skrtel praised Gerrard's impact and example during his time at Liverpool, but the article does.
+
+Therefore, the summary is not consistent with the article, as it does not include several key points that are mentioned in the article.
 
 ###Corrected:

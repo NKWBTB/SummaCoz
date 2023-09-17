@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
-australian prime minister tony abbott was cheered on by a crowd of about 50 as he skolled a schooner of beer
-mr abbott came under fire after the incident as anti-drinking campaigners said he was glorifying binge drinking
-julie robert , a cultural studies professor at the university of technology sydney , said it was ` problematic ' that the prime minister , who she believes should be advocating against binge drinking , thought it acceptable to ` showcase his masculinity ' by skolling a beer . 
-
-    Article: 
-    tony abbott may have thrilled players at an australian rules function by skolling a beer but he 's drawn the ire of anti-drinking campaigners who claim he 's glorifying binge drinking and associating being a man with drinking booze .
+<Article>
+tony abbott may have thrilled players at an australian rules function by skolling a beer but he 's drawn the ire of anti-drinking campaigners who claim he 's glorifying binge drinking and associating being a man with drinking booze .
 julie robert , a cultural studies professor at the university of technology sydney , said it was ` problematic ' that the prime minister , who she believes should be advocating against binge drinking , thought it acceptable to ` showcase his masculinity ' by skolling a beer .
 ` it sets up a culture that drinking is n't about socialising with friends , it 's about how quickly and how much you can drink , ' she said .
 australian prime minister tony abbott was cheered on by a crowd of about 50 as he skolled a schooner of beer
@@ -33,16 +27,29 @@ during his night out , mr abbott gave a speech to the players , according to aus
 while mr abbott is not the first australian prime minister to show off his skolling skills , with former labor prime minister bob hawke a notable example , dr roberts said he should have taken into consideration recent shifts in attitudes over heavy drinking .
 ` i do n't necessarily think it 's a partisan thing but i do think the climate has changed and we did n't [ used to ] have the concern over binge drinking that we do now , ' she said .
 mr abbott was asked to have a drink by university of technology sydney bats coach simon carradous , and the prime minister happily obliged
-` he drank the entire schooner , dribbling bits on his shirt ... he was proud as punch , ' a witness said 
+` he drank the entire schooner , dribbling bits on his shirt ... he was proud as punch , ' a witness said
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given text, the summary is not consistent with the article because:
+<Summary>
 
-1. The summary states that Tony Abbott "skolled a schooner of beer," while the article states that he "drank the entire schooner."
-2. The summary does not mention that the event was criticized by anti-drinking campaigners and experts, while the article highlights their concerns.
-3. The summary does not mention the specific concerns raised by Julie Robert, such as the potential for glorifying binge drinking and the impact on young people, while the article quotes her extensively.
-4. The summary does not mention the prime minister's defense and the reaction of other government officials, while the article includes these details.
+australian prime minister tony abbott was cheered on by a crowd of about 50 as he skolled a schooner of beer
+mr abbott came under fire after the incident as anti-drinking campaigners said he was glorifying binge drinking
+julie robert , a cultural studies professor at the university of technology sydney , said it was ` problematic ' that the prime minister , who she believes should be advocating against binge drinking , thought it acceptable to ` showcase his masculinity ' by skolling a beer .
+</Summary>
 
-Therefore, the summary does not accurately reflect the content and tone of the article, and is not a consistent summary of the information provided.
+Explain your reasoning step by step:[/INST]
+
+The provided summary is not consistent with the article because it omits several key details and takes a different tone than the original article. Here's a step-by-step explanation of the inconsistencies:
+
+1. Omitted details: The summary leaves out the following information from the article:
+	* The context of the event (an Australian rules function)
+	* The reaction of anti-drinking campaigners (they claimed the Prime Minister was glorifying binge drinking)
+	* The comments of Julie Robert (a cultural studies professor at the University of Technology Sydney)
+	* The Prime Minister's speech to the players (according to Australian Women's Weekly)
+	* The health minister's defense of the Prime Minister (there was "nothing wrong" with his antics)
+2. Tone: The summary takes a more straightforward and factual tone than the article, which includes quotes and a more sensationalist tone. The article presents the event as a controversial and problematic display of masculinity, while the summary simplifies it as a "Prime Minister skolling a beer."
+3. Focus: The summary focuses solely on the Prime Minister's actions, while the article includes the reactions of others (anti-drinking campaigners, Julie Robert, and the health minister).
+
+In conclusion, the summary is not consistent with the article because it omits important details and takes a different tone. It presents a simplified version of the event, while the article provides a more nuanced and controversial perspective.
 
 ###Corrected:

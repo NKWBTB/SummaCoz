@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the original collection will be sold at the hilton universal city in los angeles , california , and on UNK this may 29 .
-it will be auctioned at the hilton universal city in los angeles , california , and on UNK this may 29 . 
-
-    Article: 
-    fans of blockbusters like men in black , batman forever and how the grinch stole christmas will have a chance to own a piece of hollywood history when an amazing collection of props and puppets goes under the hammer at the end of may .
+<Article>
+fans of blockbusters like men in black , batman forever and how the grinch stole christmas will have a chance to own a piece of hollywood history when an amazing collection of props and puppets goes under the hammer at the end of may .
 the collection , which was created by legendary make-up effects artist rick baker , will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .
 the collection from baker 's cinovation studio is worth an estimated $ 746,100 and some of the individual items are expect to fetch more than $ 40,000 when they are offered to the public for the first time .
 alien edgar bug from men in black has an estimated value of $ 40,000 and could end up selling for much more
@@ -32,21 +28,22 @@ the worm guy from men in black ii has been valued at $ 10,000 and is one of a ha
 this michael jackson robotic transformation face is from the film moonwalker and it has a value of $ 3,000
 the hero joe head from mighty joe young has a value of $ 6,000 .
 baker also worked on planet of the apes .
-this daffy gremlin puppet from gremlins 2 is valued at $ 6,000 and is one of more than 400 of baker 's items 
+this daffy gremlin puppet from gremlins 2 is valued at $ 6,000 and is one of more than 400 of baker 's items
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+the original collection will be sold at the hilton universal city in los angeles , california , and on UNK this may 29 .
+it will be auctioned at the hilton universal city in los angeles , california , and on UNK this may 29 .
+</Summary>
 
-1. Venue: The summary states that the auction will be held at the Hilton Universal City in Los Angeles, California, and on UNK this May 29. However, the article states that the auction will be held at the Hilton Universal City in Los Angeles, California, and on PropStore.com this May 29.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-2. Date: The summary states that the auction will be held on May 29, but the article states that the auction will be held "at the end of May."
+1. Venue: The summary states that the original collection will be sold at the Hilton Universal City in Los Angeles, California, and on UNK this May 29. However, the article states that the auction will take place at the Hilton Universal City in Los Angeles, California, and on PropStore.com this May 29.
+2. Date: The summary does not include the date of the auction, while the article clearly states that the auction will take place on May 29.
+3. Items for sale: The summary does not mention any specific items for sale, while the article lists over 400 items from Rick Baker's Cinovation Studio, including props and puppets from various films such as Men in Black, Batman Forever, and How the Grinch Stole Christmas.
+4. Values: The summary does not provide any information about the estimated values of the items for sale, while the article lists estimated values for many of the items, including the Alien Edgar bug from Men in Black ($40,000), the two-face mask from Batman Forever ($1,500), and the Grinch costume from How the Grinch Stole Christmas ($8,000).
 
-3. Items for auction: The summary mentions only a few items, such as the Alien Edgar Bug, the two-face mask from Batman Forever, the Grinch costume from How the Grinch Stole Christmas, and the Mikey costume from Men in Black. However, the article mentions over 400 items from more than 50 productions, including items from Michael Jackson's Moonwalker film and 1983 Thriller music video, as well as items from other films like An American Werewolf in London, Planet of the Apes, Batman & Robin, Hellboy, and Mighty Joe Young.
-
-4. Values: The summary provides estimated values for only a few items, while the article provides estimated values for all the items being auctioned.
-
-5. Brandon Alinger's quote: The summary includes a quote from Brandon Alinger of Prop Store, but the quote in the summary is not accurate. The article quotes Alinger as saying, "We are delighted to offer a no-reserve live auction of over 400 items direct from Rick Baker's Cinovation Studio to the public. Baker's career needs no introduction, and it's been an honor to work with him to prepare this sale, which spans his 30-plus years in the business."
-
-Overall, the summary is not consistent with the article because it provides incomplete and inaccurate information about the auction, such as the venue, date, items for auction, values, and Brandon Alinger's quote.
+Overall, the summary is not consistent with the article because it does not provide specific information about the venue, date, items for sale, or estimated values.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sepp blatter\'s bid to succeed sepp blatter as president of football\'s world governing body fifa has come to an end. 
-
-    Article: 
-    Domenico Scala, who heads up Fifa's Ad-Hoc Electoral Committee, is Swiss-Italian - as is Gianni Infantino, one of the five presidential candidates.
+<Article>
+Domenico Scala, who heads up Fifa's Ad-Hoc Electoral Committee, is Swiss-Italian - as is Gianni Infantino, one of the five presidential candidates.
 Scala excused himself from the 2015 elections as he shared nationality with a candidate, Swiss Sepp Blatter.
 LFA boss Musa Bility says he will go to the Court of Arbitration for Sport if Scala does not withdraw by Thursday.
 The battle to replace long-standing president Blatter takes place in 18 days' time.
@@ -24,16 +21,21 @@ In his letter to Scala, he wants to know why the same process has not been follo
 Bility had hoped to participate in the elections himself before being denied by the Electoral Committee in November after failing an eligibility check.
 On Saturday, the Liberian pledged his vote to Prince Ali while urging his fellow Africans to do the same.
 Alongside Prince Ali and Infantino, Frenchman Jerome Champagne, Bahrain's Sheikh Salman and South Africa's Tokyo Sexwale are also bidding to replace Blatter as president.
-The election, which is voted on by Fifa's 209 members, will take place in the organisation's headquarters in the Swiss city Zurich. 
+The election, which is voted on by Fifa's 209 members, will take place in the organisation's headquarters in the Swiss city Zurich.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+sepp blatter\'s bid to succeed sepp blatter as president of football\'s world governing body fifa has come to an end.
+</Summary>
 
-1. The summary states that Domenico Scala's bid to succeed Sepp Blatter as FIFA president has come to an end, but the article does not mention anything about Scala's bid or his withdrawal from the election.
-2. The summary states that Scala is Swiss-Italian, but the article does not mention Scala's nationality.
-3. The summary states that Scala excused himself from the 2015 elections due to a conflict of interest, but the article does not mention any conflict of interest or Scala's decision to step aside in 2015.
-4. The summary states that Musa Bility, the president of the Liberian FA, is threatening to take the case to the Court of Arbitration for Sport if Scala does not withdraw from the election, but the article does not mention Bility's threat or any conflict between Bility and Scala.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, such as Scala's bid to succeed Blatter and Bility's threat to take the case to the Court of Arbitration for Sport. The article focuses on the eligibility of candidates for the FIFA presidency and the potential for conflicts of interest, but it does not mention Scala's bid or Bility's threat.
+1. The summary states that Sepp Blatter's bid to succeed himself as President of FIFA has come to an end, which is not consistent with the article.
+2. The article states that there are five candidates running for the position of President, including Gianni Infantino, but the summary does not mention this.
+3. The article mentions that Domenico Scala, the head of FIFA's Ad-Hoc Electoral Committee, is Swiss-Italian and that there is a controversy surrounding his involvement in the election due to his nationality. The summary does not mention this.
+4. The article states that the election will take place on February 26, but the summary does not mention this.
+5. The article mentions that there are eligibility issues with some candidates, including the Liberian FA boss Musa Bility, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it does not provide accurate information about the election, the candidates, and the controversies surrounding the election. The summary only mentions Sepp Blatter's bid to succeed himself, which is not accurate according to the article.
 
 ###Corrected:

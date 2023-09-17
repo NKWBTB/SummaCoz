@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s most deadly drug lord, the world\'s most deadly drug crash in the mediterranean sea, is one of the most survivors of the world war. 
-
-    Article: 
-    Last weekend, the country was declared free of the virus that killed almost 4,000 people in the country over the past 18 months.
+<Article>
+Last weekend, the country was declared free of the virus that killed almost 4,000 people in the country over the past 18 months.
 He told the BBC's Richard Hamilton about his experiences in the civil war, which ended in 2002, and his Ebola work:
 I had a normal family life before the war started in 1991.
 But at 15 I was kidnapped by the Revolutionary United Front (RUF) rebels and taken to the jungle where I was trained on how to use a gun and initiated into the group.
@@ -51,17 +48,19 @@ Deaths - probable, confirmed and suspected
 4,808 Liberia
 3,955 Sierra Leone
 2,536 Guinea
-8 Nigeria 
+8 Nigeria
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the world\'s most deadly drug lord, the world\'s most deadly drug crash in the mediterranean sea, is one of the most survivors of the world war.
+</Summary>
 
-1. The summary mentions the world's most deadly drug lord and a drug crash in the Mediterranean Sea, which is not present in the article.
-2. The article is about a survivor of the Ebola virus in Sierra Leone, while the summary does not mention Ebola or any health crisis.
-3. The summary talks about the person's experiences in the civil war and their life before and after the war, which is not present in the article.
-4. The article mentions the person's work in the Ebola crisis, but the summary does not mention any work or activities related to the Ebola outbreak.
-5. The summary mentions the person's regrets about their past actions, but the article does not mention any such regrets.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it mentions completely different topics and events than the article.
+1. The article is about a man who survived the civil war in Sierra Leone, was a former child soldier, and later became a leader in his community during the Ebola outbreak.
+2. The summary is not consistent with the article because it mentions nothing about the man's experiences during the civil war or his work during the Ebola outbreak. Instead, it mentions a "drug lord" and a "drug crash" in the Mediterranean Sea.
+3. The summary is not supported by any information in the article. The article does not mention anything about drugs or a drug lord, and it does not mention the Mediterranean Sea.
+4. The article is focused on the man's personal story and his experiences during the civil war and the Ebola outbreak, while the summary is focused on a completely different topic.
+5. Therefore, the summary is not consistent with the article and does not accurately reflect the content of the article.
 
 ###Corrected:

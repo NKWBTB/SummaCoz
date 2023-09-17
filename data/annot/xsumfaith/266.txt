@@ -1,24 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    british number two kyle edmund was knocked out of the australian open in the second round of the rogers cup in toronto. 
-
-    Article: 
-    The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
+<Article>
+The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
 Edmund, 21, impressed but Wawrinka broke serve at 3-2 in the second set and twice in the decider to win in two hours 36 minutes.
 The Swiss 31-year-old will play third seed Kei Nishikori in the semi-finals.
 Canadian top seed and defending champion Milos Raonic beat 14-time Grand Slam champion Rafael Nadal 4-6 6-3 6-4 to reach the last four.
 The world number three will play Bulgarian seventh seed Grigor Dimitrov, who beat Austrian Dominic Thiem.
 British number four Aljaz Bedene was also knocked at the quarter-final stage of the Chennai Open in India on Friday.
-The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire. 
+The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The article states that Kyle Edmund, the British number two, lost to Stan Wawrinka in the second round of the Rogers Cup in Toronto.
-    2. The summary states that Kyle Edmund was knocked out of the Australian Open, which is not correct as the article states that he was knocked out of the Rogers Cup.
-    3. The article states that Edmund lost in three sets, 6-7 (2-7) 6-4 6-4, whereas the summary states that he was knocked out in the second round, which is not consistent with the article.
-    4. The article also mentions that Wawrinka broke serve at 3-2 in the second set and twice in the decider to win the match, which is not mentioned in the summary.
-    5. Therefore, the summary is not consistent with the article, and the reason for this is that the summary is referring to the wrong tournament (the Australian Open instead of the Rogers Cup) and does not accurately describe the outcome of the match.
+<Summary>
+british number two kyle edmund was knocked out of the australian open in the second round of the rogers cup in toronto.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that "British number four Aljaz Bedene was also knocked at the quarter-final stage of the Chennai Open in India on Friday." This means that Bedene was eliminated from the tournament.
+2. The summary states that "British number two Kyle Edmund was knocked out of the Australian Open in the second round of the Rogers Cup in Toronto." This is incorrect, as there is no mention of the Australian Open or the Rogers Cup in the article.
+3. The article does mention that Edmund was eliminated from the tournament, but it does not mention the Australian Open or the Rogers Cup. Instead, it states that Edmund was knocked out of the Chennai Open in India.
+4. Therefore, the summary is not consistent with the article, as it incorrectly states that Edmund was eliminated from the Australian Open when in fact he was eliminated from the Chennai Open.
+
+Overall, the summary is not accurate because it provides information that is not supported by the article.
 
 ###Corrected:

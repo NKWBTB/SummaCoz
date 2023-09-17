@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    care homes in wales are ``chemically coshed coshed\'\'drugs, the health minister has told the bbc. 
-
-    Article: 
-    In 2014, Sarah Rochira published the results of a major review of the experience of care home residents.
+<Article>
+In 2014, Sarah Rochira published the results of a major review of the experience of care home residents.
 The use of antipsychotic drugs was a recurrent theme which she has branded a "national scandal".
 Health boards and care homes have said changes are being made.
 The commissioner is asking them to show significant improvements in practice.
@@ -19,15 +16,22 @@ The Royal Pharmaceutical Society in Wales published its own report into the use 
 The society's director in Wales, Mair Davies, told BBC Radio Wales' Eye on Wales programme that there were examples of expert practice.
 "What we need is to make sure that happens in every care home in Wales," she said.
 Steve Ford, the dementia care lead for Care Forum Wales, which represents more than 450 independent care homes in Wales, believes progress is being made.
-"We need to look at the underlying reasons for unwanted behaviour that challenges, rather than picking up the phone to the GP and requesting those prescriptions," he said. 
+"We need to look at the underlying reasons for unwanted behaviour that challenges, rather than picking up the phone to the GP and requesting those prescriptions," he said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+care homes in wales are ``chemically coshed coshed\'\'drugs, the health minister has told the bbc.
+</Summary>
 
-1. The summary states that care homes in Wales are using "chemical coshes" on residents, which is not supported by the article. The article mentions the use of antipsychotic drugs, but does not use the term "chemical coshes."
-2. The summary implies that the use of antipsychotic drugs is widespread and inappropriate, but the article states that while the use of these drugs is a "national scandal," it also mentions that there are examples of expert practice and progress is being made.
-3. The summary does not accurately represent the tone of the article, which is more balanced and nuanced in its reporting. The article highlights the concerns of the Health Minister and the need for improvement, but also acknowledges that progress is being made and that there are examples of expert practice.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the extent of the problem, oversimplifies the issue, and does not accurately represent the tone of the article.
+1. The summary states that care homes in Wales are "chemically coshed" with drugs, implying that the use of antipsychotic drugs is widespread and inappropriate.
+2. However, the article states that while there are examples of expert practice, there is a need for improvements in practice, and the health minister has called for significant improvements.
+3. The article does not support the claim that all care homes in Wales are "chemically coshed" with drugs.
+4. The use of the phrase "chemically coshed" is not found in the article, and it is not a accurate representation of the content.
+5. The article focuses on the inappropriate use of antipsychotic drugs in care homes, but it does not imply that all care homes are using these drugs excessively or inappropriately.
+6. Therefore, the summary is not consistent with the article, and it exaggerates the extent of the problem.
+
+In conclusion, the summary is not an accurate representation of the content of the article. It exaggerates the extent of the problem and does not accurately reflect the tone and focus of the article.
 
 ###Corrected:

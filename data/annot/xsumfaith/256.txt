@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chinese police say they have found a drug that led to the death of two young people in china. 
-
-    Article: 
-    More than 5,300 bottles of alcohol were seized by the investigators in the southern city of Liuzhou.
+<Article>
+More than 5,300 bottles of alcohol were seized by the investigators in the southern city of Liuzhou.
 They also found packets of a white powder called Sildenafil, better known as the anti-impotence drug Viagra.
 Police in the Guangxi region are now investigating the two distillers.
 The Liuzhou Food and Drug Administration said (in Chinese) that the powder was added to three different types of 'baijiu' - a strong, clear spirit that is the most popular drink in China.
@@ -15,23 +12,21 @@ Doctors recommend that adults requiring prescription should take only one dose o
 China continues to face widespread food safety problems.
 In June, police in cities across China seized more than 100,000 tonnes of smuggled meat, some of which was more than 40 years old.
 The 2008 tainted milk scandal outraged the nation.
-Some 300,000 people were affected and at least six babies died after consuming milk adulterated with melamine. 
+Some 300,000 people were affected and at least six babies died after consuming milk adulterated with melamine.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+chinese police say they have found a drug that led to the death of two young people in china.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Chinese police found a drug that led to the death of two young people in China.
+2. However, the article does not mention anything about the death of two young people. Instead, it reports on the seizure of a large quantity of alcohol and Viagra in Liuzhou, and the investigation of two distillers.
+3. Therefore, the summary is not consistent with the article, as it makes a claim about the death of two young people that is not supported by the article.
+4. The article does mention that the powder found in the alcohol was identified as Sildenafil, which is better known as Viagra, and that the haul was worth up to 700,000 yuan. However, it does not mention any deaths or injuries related to the seizure.
+5. It is possible that the summary was based on a different article or information, or that it was incorrect or misleading.
 
-2. However, the article does not mention any deaths or drugs. Instead, it talks about the seizure of alcohol and Viagra and the investigation of two distillers.
-
-3. Therefore, the summary is not consistent with the article because it mentions deaths, which are not present in the article.
-
-4. The article focuses on the seizure of alcohol and Viagra and the investigation of two distillers, but it does not mention any deaths or drugs that led to deaths.
-
-5. The summary is not accurate because it includes information that is not present in the article.
-
-6. The article is focused on the seizure of alcohol and Viagra and the investigation of two distillers, but the summary is focused on deaths, which are not present in the article.
-
-7. Therefore, the summary is not consistent with the article and is not an accurate representation of the content.
+Overall, the summary is not consistent with the article because it makes a claim about the death of two young people that is not supported by the article.
 
 ###Corrected:

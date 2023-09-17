@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been shot dead in a gun attack on a school campus in india\'s capital, delhi, police say. 
-
-    Article: 
-    The shooting occurred at a hostel attached to the private Pragati Residential School in Bangalore city.
+<Article>
+The shooting occurred at a hostel attached to the private Pragati Residential School in Bangalore city.
 Police say the alleged gunman, identified as Mahesh, was working as an office assistant in the school.
 Incidents of gun crime at schools and colleges in India are very rare. It is not clear what prompted the shooting.
 Police said on Thursday that Mahesh had been remanded until 12 April.
@@ -14,18 +11,21 @@ Mahesh is alleged to have barged into the room of 18-year-old Gautami and shot h
 He then shot another student, Sirisha, who suffered severe injuries but is believed to be out of danger, say police.
 He was arrested on Wednesday after a manhunt.
 India has strict control laws, although a large number of feuds are settled with firearms.
-In 2007, a 14-year-old schoolboy was shot dead by two fellow students at a school campus near the capital, Delhi. 
+In 2007, a 14-year-old schoolboy was shot dead by two fellow students at a school campus near the capital, Delhi.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been shot dead in a gun attack on a school campus in india\'s capital, delhi, police say.
+</Summary>
 
-1. The summary states that the shooting occurred on a school campus in Delhi, India's capital. However, the article states that the shooting occurred at a hostel attached to a private school in Bangalore city, which is not the capital.
-2. The summary does not mention the name of the school or the alleged gunman, while the article provides the name of the school (Pragati Residential School) and the name of the alleged gunman (Mahesh).
-3. The summary mentions that the shooting occurred on Tuesday evening, but the article states that the shooting took place on Wednesday.
-4. The summary does not mention the age of the victims, while the article states that one of the victims, Gautami, was 18 years old and the other victim, Sirisha, suffered severe injuries but is believed to be out of danger.
-5. The summary does not mention the motive for the shooting, while the article states that it is not clear what prompted the shooting.
-6. The summary mentions that India has strict control laws, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it provides incomplete and inaccurate information about the shooting. The article provides more detailed and accurate information about the incident, including the name of the school and the alleged gunman, the date of the shooting, the ages of the victims, and the motive for the shooting.
+1. The article states that the shooting occurred in Bangalore, not Delhi. The summary incorrectly states that the shooting took place in Delhi.
+2. The article mentions that the alleged gunman, Mahesh, was working as an office assistant in the school, but the summary does not include this information.
+3. The article states that two students were shot, with one dying from her injuries, but the summary only mentions one person being shot.
+4. The article states that the shooting occurred on Tuesday evening, but the summary does not include the day of the week or the time.
+5. The article mentions that India has strict control laws, but the summary does not include this information.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information about the location of the shooting, the identity of the alleged gunman, the number of people shot, the day and time of the shooting, and the laws regarding gun control in India.
 
 ###Corrected:

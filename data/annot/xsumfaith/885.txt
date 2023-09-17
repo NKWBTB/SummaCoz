@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    team gb\'s olympic team team gb have been boosted by [UNK] in the last of the world championships in glasgow. 
+<Article>
+Here are some of your pictures from the 26 beaches ranked as Scotland's "most excellent" for water quality.
+</Article>
 
-    Article: 
-    Here are some of your pictures from the 26 beaches ranked as Scotland's "most excellent" for water quality. 
+<Summary>
+team gb\'s olympic team team gb have been boosted by [UNK] in the last of the world championships in glasgow.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary mentions "team gb's olympic team" but there is no mention of the Olympics or any Olympic team in the article.
-2. The summary mentions "the last of the world championships in glasgow" but there is no mention of any world championships or Glasgow in the article.
-3. The article is about beaches in Scotland and their water quality, while the summary is about a team and a championship.
+1. The article is about the water quality of 26 beaches in Scotland, while the summary is about the Olympic team of Great Britain.
+2. The article does not mention anything about the Olympic team or any other team.
+3. The summary is not supported by the article, as there is no information in the article about the Olympic team or any team boosted by anything.
 
-Therefore, the summary is not consistent with the article because it mentions completely different topics and there is no connection between the two.
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    israel\'s security council has rejected a proposal by the us government to press ahead with a resolution calling for an end to the construction of a two-state solution. 
-
-    Article: 
-    The move apparently follows a request from Prime Minister Benjamin Netanyahu's office.
+<Article>
+The move apparently follows a request from Prime Minister Benjamin Netanyahu's office.
 It also comes ahead of a speech on the Israeli-Palestinian conflict by US Secretary of State John Kerry.
 On Friday, the US chose not to veto a UN Security Council resolution calling for an end to settlement construction.
 The decision to abstain infuriated Mr Netanyahu, whose spokesman said on Tuesday he had "ironclad information" from Arab sources that the White House had helped draft the language of the resolution and "pushed hard" for its passage.
@@ -22,27 +19,21 @@ Mr Rubin told the BBC this was at the request of the prime minister's office, to
 "We are creating affordable housing and housing for young families... and if there is a big storm and Kerry's speech today, we are looking to avoid this conflict."
 Mr Kerry is expected to lay out his vision later on Wednesday for ending the Israel-Palestinian conflict, and address what a senior state department official described as "misleading critiques" of the Obama administration by the Israeli government.
 Palestinian Authority President Mahmoud Abbas has said the resolution "paves the way" for the upcoming conference on Middle East peace in France on 15 January.
-"We hope this conference comes up with a mechanism and timetable to end the occupation," he told a meeting of his Fatah party on Monday. 
+"We hope this conference comes up with a mechanism and timetable to end the occupation," he told a meeting of his Fatah party on Monday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+israel\'s security council has rejected a proposal by the us government to press ahead with a resolution calling for an end to the construction of a two-state solution.
+</Summary>
 
-Step 1: Identify the main points of the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary states that the US government proposed a resolution calling for an end to the construction of a two-state solution, and that Israel's security council rejected the proposal.
-
-Step 2: Identify the main points of the article.
-
-The article states that the US chose not to veto a UN Security Council resolution calling for an end to settlement construction, and that Israel is angry about the resolution's condemnation of building in East Jerusalem. The article also mentions that the US government denied accusations that it helped draft the resolution and that Israel has recalled its ambassadors to New Zealand and Senegal in response to the resolution.
-
-Step 3: Identify the inconsistencies.
-
-The inconsistency is that the summary states that the US government proposed a resolution calling for an end to the construction of a two-state solution, while the article states that the US chose not to veto a resolution that called for an end to settlement construction, but did not propose the resolution.
-
-Step 4: Explain the inconsistencies.
-
-The inconsistency can be explained by the fact that the summary is not accurately summarizing the article. The article does not mention the US government proposing a resolution, but rather the US choosing not to veto a resolution proposed by others.
-
-Therefore, the summary is not consistent with the article, and the inconsistency can be explained by the fact that the summary is inaccurate.
+1. The summary states that Israel's Security Council has rejected a proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution.
+2. However, the article states that the US did not propose such a resolution. Instead, the Security Council passed a resolution that condemned Israel's settlement construction in the West Bank and East Jerusalem, which Israel rejected.
+3. Therefore, the summary is not consistent with the article, as there was no proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution.
+4. The article explains that the Security Council passed a resolution that condemned Israel's settlement construction, which Israel rejected. The US did not propose the resolution, but instead abstained from voting.
+5. The summary misrepresents the events by suggesting that Israel rejected a proposal by the US government, which is not accurate.
+6. The article also mentions that Israel has responded to the resolution by summoning the ambassadors of the US and the 14 countries on the Security Council who voted in favour of the resolution, recalling Israel's ambassadors to New Zealand and Senegal, cutting aid to Senegal, and cancelling a visit by Ukraine's prime minister. These actions suggest that Israel is angry about the resolution and is taking steps to protest it.
+7. In conclusion, the summary is not consistent with the article, as there was no proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution. The article explains that the Security Council passed a resolution that condemned Israel's settlement construction, which Israel rejected, and that the US abstained from voting.
 
 ###Corrected:

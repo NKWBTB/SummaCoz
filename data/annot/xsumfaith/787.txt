@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a kuwaiti inmate at guantanamo bay has been arrested by the us supreme court on suspicion of involvement in the us supreme court. 
-
-    Article: 
-    Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
+<Article>
+Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
 He had been at the US facility in Cuba since 2002 after his arrest in Pakistan on suspicion of links to al-Qaeda and the Taliban - a charge he denies.
 He had challenged America's right to detain him in the US Supreme Court.
 Mr Odah boarded a Kuwaiti government plane on Wednesday morning US time.
@@ -19,16 +16,20 @@ Mr Odah had argued that he travelled to Afghanistan and Pakistan to teach the Ko
 He is the first inmate to be freed since May, when five Taliban detainees were exchanged for US Sgt Bowe Bergdahl, who had been kept by the insurgents in Afghanistan.
 Mr Odah's release brings down the total number of inmates at the US naval base to 148.
 The US opened the facility in January 2002, following the 11 September 2001 attacks in America.
-President Barack Obama has repeatedly promised to shut it down. 
+President Barack Obama has repeatedly promised to shut it down.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+a kuwaiti inmate at guantanamo bay has been arrested by the us supreme court on suspicion of involvement in the us supreme court.
+</Summary>
 
-1. The summary states that the Kuwaiti inmate was arrested by the US Supreme Court on suspicion of involvement in the US Supreme Court. However, the article states that the inmate was released from Guantanamo Bay after a US review panel concluded that he was not a "continuing significant threat."
-2. The summary does not provide any information about the inmate being arrested by the US Supreme Court, and the article does not mention anything about the inmate being arrested by the Supreme Court.
-3. The article states that the inmate was released from Guantanamo Bay and will face at least a year at a militant rehabilitation center in Kuwait, but the summary does not mention anything about the inmate being released or facing rehabilitation.
-4. The summary is not supported by the information in the article, and the article does not provide any information that would support the claim that the inmate was arrested by the US Supreme Court.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article and is not supported by the information provided in the article.
+1. The summary states that the Kuwaiti inmate was arrested by the US Supreme Court. This is incorrect, as the US Supreme Court is a court of law and does not have the authority to arrest individuals.
+2. The article states that the inmate, Fawzi al-Odah, was detained at Guantanamo Bay since 2002 on suspicion of links to al-Qaeda and the Taliban. The summary makes no mention of Guantanamo Bay or the reasons for his detention.
+3. The article states that the US review panel concluded that al-Odah was not a "continuing significant threat" and was released. The summary makes no mention of the review panel or the reason for his release.
+4. The article states that al-Odah will face at least a year at a militant rehabilitation center in Kuwait, according to the terms of his release. The summary makes no mention of this.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information and leaves out important details. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

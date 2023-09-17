@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
-big beauty : tibetan mastiffs can weigh 80kg
-the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown . 
-
-    Article: 
-    big beauty : tibetan mastiffs can weigh 80 kg
+<Article>
+big beauty : tibetan mastiffs can weigh 80 kg
 just a year ago they could command prices of up to £ 1.2 million each .
 but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
 the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
@@ -38,16 +33,23 @@ a property develop bought the golden-haired one-year-old from breeder zhang geng
 mr zhang said of his dogs : ` they have lion 's blood and are top-of-the-range mastiff studs . '
 most expensive dog in the world : the gold-maned tibetan mastiff pup ( left ) sold last year in east china for £ 1.2 million .
 the red pup of the same breed ( right ) fetched nearly £ 600,011 .
-the dogs are seen with a model 
+the dogs are seen with a model
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
+big beauty : tibetan mastiffs can weigh 80kg
+the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
+</Summary>
 
-1. The summary states that Tibetan mastiffs are being sent to slaughterhouses and their meat is being put into cheap hotpots, but the article does not mention anything about the dogs being slaughtered. Instead, it focuses on the decline in popularity of the breed and the impact of the anti-corruption crackdown on the mastiff market.
-2. The summary mentions that the dogs are being sent to slaughterhouses because of the Chinese government's anti-corruption crackdown, but the article does not provide any evidence to support this claim. Instead, it suggests that the decline in popularity of the breed is due to a combination of factors, including the anti-corruption crackdown and the fact that the dogs are not well-suited to city living.
-3. The summary states that the dogs' skin can also be used for leather belts, but the article does not mention anything about the use of the dogs' skin.
-4. The summary mentions that the dogs are being stolen from the streets by ruthless gangs and sold to slaughterhouses, but the article does not provide any evidence to support this claim.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the text and omits other important details.
+1. The summary states that Tibetan mastiffs are being sent to slaughterhouses and their meat is being put into cheap hotpots, which is not consistent with the article. The article states that the dogs are being sent to slaughterhouses because of the collapse of the mastiff market, not because they are being consumed as meat.
+2. The summary mentions that the dogs can weigh 80kg, which is correct. However, the article provides more information about the weight of the dogs, stating that they can weigh up to 80kg.
+3. The summary attributes the decline in popularity of Tibetan mastiffs to the Chinese government's anti-corruption crackdown, which is partially correct. The article states that the anti-corruption drive is one of the reasons for the decline in popularity, but also mentions other factors such as the recent bans on owning dogs of more than 50kg in several Chinese cities and the oversupply of poor-quality dogs.
+4. The summary does not mention the rescue of 20 Tibetan mastiffs from a slaughterhouse, which is a significant event described in the article.
+5. The summary does not mention the fact that the dogs are being stolen from the streets by ruthless gangs and sold to slaughterhouses, which is also mentioned in the article.
+
+Overall, the summary is not consistent with the article because it does not provide a complete and accurate picture of the situation. It focuses only on the weight of the dogs and the government's anti-corruption crackdown, while omitting other important information such as the rescue of the dogs, the oversupply of poor-quality dogs, and the theft of dogs by ruthless gangs.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    new swansea city head coach alan curtis says the club have a ``big chance\'\'of being relegated from the premier league. 
-
-    Article: 
-    Curtis and assistant manager Paul Williams will take charge of Saturday's match against Bournemouth after Bob Bradley's sacking.
+<Article>
+Curtis and assistant manager Paul Williams will take charge of Saturday's match against Bournemouth after Bob Bradley's sacking.
 Swansea want to appoint their new boss as soon as possible, with ex-Derby manager Paul Clement the first choice.
 "We've got to go with somebody who will to get us out of trouble," he said.
 "If we were to go down - and there's obviously that possibility - you look at the Championship and it seems to have got a lot stronger. It's not a foregone conclusion [to go straight back up].
@@ -21,15 +18,19 @@ Curtis - a former player who was at the club throughout their rise up the divisi
 Media playback is not supported on this device
 Curtis believes the current Swansea squad is good enough to stay up, and the 62-year-old reminds every new signing of how far the club has come.
 "I know a lot of the foreign boys have seen [the documentary] Jack to a King. So they've got a brief history of where we were and where we are now," he said.
-"They might not be 100% passionate about it but they know where we came from and how important it is [to stay up]. Not just for the club but for the whole area." 
+"They might not be 100% passionate about it but they know where we came from and how important it is [to stay up]. Not just for the club but for the whole area."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+new swansea city head coach alan curtis says the club have a ``big chance\'\'of being relegated from the premier league.
+</Summary>
 
-1. The summary states that Alan Curtis believes the club has a "big chance" of being relegated from the Premier League, but the article does not contain any quotes or statements from Curtis suggesting this. In fact, the article quotes Curtis as saying that the current Swansea squad is good enough to stay up.
-2. The summary implies that Curtis is pessimistic about the team's chances of staying in the Premier League, but the article portrays him as being more optimistic and emphasizing the importance of staying up for the club and the area.
-3. The summary mentions nothing about the club's history or the "Swansea Way," but these are major themes in the article. Curtis is quoted as saying that the club has lost its way since Michael Laudrup left in 2014, and he emphasizes the importance of the club's history and tradition.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents Curtis's statements and leaves out important details about the club's history and context.
+1. The summary states that Alan Curtis, the new Swansea City head coach, says the club has a "big chance" of being relegated from the Premier League.
+2. However, the article does not mention anything about Curtis saying the club has a "big chance" of being relegated. Instead, it quotes him as saying that the club has not been the same since Michael Laudrup left in 2014, and that the current squad is good enough to stay up.
+3. Therefore, the summary is not consistent with the article, as it misrepresents Curtis's comments and creates a false impression that he believes the club has a high likelihood of being relegated.
+4. The discrepancy between the summary and the article can be attributed to a lack of attention to detail on the part of the person who created the summary, or to a misinterpretation of Curtis's comments.
+5. In any case, the summary is not an accurate representation of the article and should be corrected to reflect the actual content of the article.
 
 ###Corrected:

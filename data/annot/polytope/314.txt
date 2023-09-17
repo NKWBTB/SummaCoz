@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
-alice is the name of the queen 's aunt , who passed away in 2004 aged 102 , while charlotte is favoured as a nod to william 's father charles . 
-
-    Article: 
-    as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
+<Article>
+as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
 a new poll has revealed that diana is the favourite option for baby if it is a girl .
 according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
 kate and william leaving the lindo wing of st mary 's hospital in london , with their newborn son , prince george in 2013 .
@@ -21,15 +17,21 @@ the choices were echoed on social media today , with many twitter users claiming
 one user called danielle o'donoghue wrote : ` if kate middleton has a baby girl and does n't name her diana i 'll be so upset .
 another said : ` if the new royal baby is a girl and is called diana , either first name or middle name .
 i will be 90 % more emotional . '
-the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up . 
+the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 , while charlotte is favoured as a nod to william 's father charles .
+</Summary>
 
-1. The summary states that 12% of people think the child should be named after William's mother, Diana, while the article states that 13% of people would like the child to be named James if it's a boy. This inconsistency suggests that the summary is not accurately representing the information in the article.
-2. The summary mentions Alice and Charlotte as popular names for the baby, but the article does not mention these names at all. This suggests that the summary is not accurately summarizing the information in the article.
-3. The summary states that the majority of Brits are backing William's decision to take six weeks of paternity leave, but the article does not mention this information. This inconsistency suggests that the summary is not accurately representing the content of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the given summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article. Therefore, it is not an accurate summary of the article.
+1. The summary mentions that 12% of people think the child should be named after William's mother, Diana. However, the article states that 12% of people think the child should be named Alice, not Diana.
+2. The summary mentions that Alice is the name of the Queen's aunt, who passed away in 2004. This is not mentioned in the article.
+3. The summary mentions that Charlotte is favored as a nod to William's father, Charles. This is not mentioned in the article.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
 
 ###Corrected:

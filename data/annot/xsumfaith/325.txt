@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a scottish man has told a court how he was ``the best person in the world\'\'as he walked out of the edinburgh festival. 
-
-    Article: 
-    Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
+<Article>
+Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
 The 42-year-old said only two people refused out of the 103 people he asked due to being in a hurry and having a bad hair day.
 Now the father-of-three's pictures will go on display at Out of the Blue Drill Hall, Dalmeny Street, in August.
 Mr Walls told the BBC Scotland news website how he took photographs of a hen party, stag do, football fans, a chef, a high court judge and a TV agony aunt from Kuwait.
@@ -14,16 +11,21 @@ He said: "Everyone was so nice. One of the pictures is of a passenger who was in
 "I also had an elderly former English teacher who had suddenly decided she wanted to go out to a show at the festival at the last minute and she had lots of words of encouragement for me so I really enjoyed chatting with her.
 "I also got a Jambo fan and was worried I wasn't going to get a Hibs fan but luckily I did.
 "I'm really interested in people and wanted to capture that moment in my cab, I only had seconds to take a few pictures and I'm really pleased with the end result."
-The exhibition runs from 31 July until 5 August. 
+The exhibition runs from 31 July until 5 August.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a scottish man has told a court how he was ``the best person in the world\'\'as he walked out of the edinburgh festival.
+</Summary>
 
-1. The summary states that a Scottish man claimed to be "the best person in the world" as he walked out of the Edinburgh Festival.
-2. However, the article does not mention anything about the man claiming to be the best person in the world. Instead, it focuses on the man's experience taking pictures of passengers during the festival.
-3. The article states that the man took pictures of 101 passengers and only two people refused. The summary does not mention the number of passengers or the fact that only two people refused.
-4. The article mentions that the man's pictures will be displayed at an exhibition, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary exaggerates the man's claim and omits important details from the article, such as the number of passengers and the fact that the man's pictures will be displayed at an exhibition.
+1. The summary states that a Scottish man said he was "the best person in the world" as he walked out of the Edinburgh Festival.
+2. The article does not mention the man saying he was "the best person in the world." Instead, it quotes him as saying "Everyone was so nice."
+3. Therefore, the summary is not consistent with the article, as the man did not say what the summary claims he did.
+4. The summary is likely incorrect or exaggerated, as it is not supported by the information in the article.
+5. The article provides a different quote from the man, "Everyone was so nice," which is a more accurate representation of his words.
+
+In conclusion, the summary is not consistent with the article because it misquotes the man and does not accurately represent his words.
 
 ###Corrected:

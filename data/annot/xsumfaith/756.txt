@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a theatre in kent is to undergo a # 1m project to build a new theatre in the capital\'s grounds of alexandra palace. 
-
-    Article: 
-    It is hoped the theatre, founded in 1875, will be used for theatrical performances, cinema screenings, comedy and live music.
+<Article>
+It is hoped the theatre, founded in 1875, will be used for theatrical performances, cinema screenings, comedy and live music.
 The BBC studios, at the eastern end of the Palace, will also be repaired and refurbished.
 If successful in raising funds it is hoped the theatre will reopen in 2018.
 The theatre and studios form part of a larger east wing restoration project to transform Alexandra Palace into a new cultural destination.
@@ -15,17 +12,27 @@ Heritage Lottery Fund (HLF) is contributing £18.8m towards the project, while H
 The entire east wing will be refurbished at a cost of £26.6m.
 Alexandra Park and Palace Charitable Trust have committed to raising the final £1m by summer 2017.
 The theatre, which has languished unused for decades, still has much of its original decor and stage machinery in place.
-It was created to showcase opera, musicals, plays and all kinds of entertainment, even hosting early cinema screenings. 
+It was created to showcase opera, musicals, plays and all kinds of entertainment, even hosting early cinema screenings.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a theatre in kent is to undergo a # 1m project to build a new theatre in the capital\'s grounds of alexandra palace.
+</Summary>
 
-1. The article states that the theatre will be used for theatrical performances, cinema screenings, comedy, and live music, but the summary only mentions a new theatre being built in the capital's grounds of Alexandra Palace. The article does not mention a new theatre being built.
-2. The article mentions that the BBC studios at the eastern end of the Palace will be repaired and refurbished, but the summary does not mention this.
-3. The article states that the theatre and studios form part of a larger east wing restoration project to transform Alexandra Palace into a new cultural destination, but the summary does not mention this.
-4. The article mentions that the Heritage Lottery Fund is contributing £18.8m towards the project, Haringey Council is contributing £6.8m, and the Alexandra Park and Palace Charitable Trust is committed to raising the final £1m by summer 2017, but the summary does not mention any of these funding sources.
-5. The article states that the theatre has languished unused for decades and still has much of its original decor and stage machinery in place, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it only mentions a new theatre being built, while the article provides more details about the restoration and refurbishment of the existing theatre and BBC studios, as well as the funding sources for the project.
+1. The summary states that a new theatre is to be built in the grounds of Alexandra Palace in Kent.
+
+Error: There is no mention of Kent in the article. The article only mentions Alexandra Palace, which is located in North London.
+
+2. The summary mentions a £1m project to build a new theatre.
+
+Error: The article does not mention any new theatre being built. Instead, it talks about the restoration and refurbishment of the existing Alexandra Palace theatre.
+
+3. The summary states that the project is to be completed by summer 2017.
+
+Error: The article does not mention a specific deadline for the project. It only states that the trust hopes to raise the final £1m by summer 2017.
+
+Conclusion: The summary is not consistent with the article because it mentions a new theatre being built in Kent, which is not mentioned in the article. Additionally, the summary mentions a £1m project, but the article does not mention a specific amount. Finally, the summary states that the project must be completed by summer 2017, but the article does not mention a specific deadline.
 
 ###Corrected:

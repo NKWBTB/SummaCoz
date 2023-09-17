@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    and , after quitting their restaurant jobs in manchester , the intrepid cyclists are doing it as cheaply as they possibly can .
-spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
-pablo , 27 , and ilze , 31 , stop for a picture in bosnia , one of the 16 countries they 've been through since leaving london last year 
-
-    Article: 
-    pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
+<Article>
+pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
 and , after quitting their restaurant jobs in manchester , the intrepid cyclists are doing it as cheaply as they possibly can .
 spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
 in 356 days so far they 've covered almost 7,000 miles ( 11,131.92 km by their measurements ) and been through 16 countries .
@@ -45,19 +40,24 @@ pablo shows off the huge amount of gear he and ilze need to carry as they work t
 ` riding away from europe , finally crossing into a different continent .
 finally going further away and into the unknown . '
 they traversed the entire northern coast of turkey , before riding through georgia and their latest destination , armenia , and they plan to ` continue into asia , across the pacific with the idea to cycle all the length of the american continent . '
-` we are going to be on the road for the following years , ' they say . 
+` we are going to be on the road for the following years , ' they say .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+and , after quitting their restaurant jobs in manchester , the intrepid cyclists are doing it as cheaply as they possibly can .
+spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
+pablo , 27 , and ilze , 31 , stop for a picture in bosnia , one of the 16 countries they 've been through since leaving london last year
+</Summary>
 
-1. The summary states that the couple is "doing it as cheaply as they possibly can," but the article does not mention anything about them trying to save money or living on a tight budget. In fact, the article highlights that they have been astonishingly living on less than three euros each a day, which suggests that they are not prioritizing cost-cutting.
-2. The summary mentions that they are "on a flying start" and "approaching their first year of their open-ended odyssey on the road," but the article does not mention anything about an open-ended odyssey or a specific time frame for their journey. The article only mentions that they have been on the road for 356 days so far.
-3. The summary states that they have been through 16 countries, but the article only mentions 14 countries (16 if you include the loop through Spain and Portugal).
-4. The summary mentions that they rely on free accommodation and hosting websites to save costs, but the article only mentions that they have been using hosting websites such as Couchsurfing and Warmshowers, but does not provide any information about the frequency of their use.
-5. The summary states that they have been living on a diet of pasta, bread, rice, eggs, milk, seasonal fruits, and vegetables, but the article does not mention anything about their diet or food expenses.
-6. The summary mentions that they often pitch their tent in stunning settings, but the article only mentions that they have been using a tent as their primary means of accommodation.
-7. The summary states that they plan to continue their journey into Asia and across the Pacific, but the article only mentions that they have been traversing the entire northern coast of Turkey and have plans to ride through Georgia and their latest destination, Armenia.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it highlights certain aspects of the couple's journey that are not mentioned in the article, and omits other important details that are included in the article.
+The summary is not consistent with the article because it only highlights a few points from the article and does not accurately represent the main points or the tone of the article. Here are the reasons why:
+
+1. The summary only mentions the fact that Pablo and Ilze are cycling around the world and have been to 16 countries, but it does not mention the unique aspect of their journey, which is that they are doing it on a tight budget and living on less than three euros per day.
+2. The summary does not mention the couple's reliance on free accommodation, such as camping or using hosting websites like Couchsurfing and Warmshowers, which is a significant aspect of their budget-friendly journey.
+3. The summary does not mention the couple's food expenses, which are a major part of their daily budget and a key aspect of their journey. The article mentions that they spend 2.74 euros per day on food.
+4. The summary does not mention the couple's intention to continue their journey for several more years and cross into Asia, which is a significant aspect of their adventure.
+
+Overall, the summary does not accurately represent the main points or the tone of the article, which is focused on the couple's unique and budget-friendly approach to cycling around the world.
 
 ###Corrected:

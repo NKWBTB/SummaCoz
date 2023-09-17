@@ -1,22 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the fourth season of "game of thrones" is "thrones" author doug gross says. 
+<Article>
+(CNN)Where do you go from here? The fourth season of "Game of Thrones" saw massive battles, major deaths (Tywin!) and White Walkers, but what can fans expect Sunday as we head into a fifth season of one of the most popular shows in HBO history? It's the most high-profile premiere yet, airing simultaneously in 170 countries for the first time. (HBO is a Time Warner company, like CNN.) We sought out "Thrones" aficionado Doug Gross, a writer for Nerdwallet and a former CNN employee, who had a few thoughts on the matter (beware, TV fans, he has read the books). "We're going to start seeing some of the show's major story arcs coming together," Gross said (as confirmed by the executive producers). "Already, Stannis has shown up at the Wall to save Jon Snow and the rest of the Night's Watch from the wildlings," he said. "Now we'll see how his quest for the Iron Throne collides with the Watch's supposedly non-political role protecting the realm." Tyrion's path should cross with Daenerys' this season, according to the trailers. "Season five also will be unique in that some of the major story arcs will clearly be moving ahead of where George Martin is in the 'Song of Ice and Fire' books," Gross pointed out. Executive producer David Benioff told Rolling Stone, "We are starting to build to a crescendo, which means the battles have to get bigger and things have to get more dramatic." Indeed, this fifth season means we're past the halfway point, with the show currently set to end after seven years. The Stark daughters, Arya and Sansa, will be the characters to watch this season, as will Cersei. The world of Westeros is constantly plagued by war, but is there a time when people have just had enough? "Wars are waged by the nobles, but it's the common folk who suffer," Gross noted. "And, this season, we'll get a glimpse of what happens when those common people have had enough."
+</Article>
 
-    Article: 
-    (CNN)Where do you go from here? The fourth season of "Game of Thrones" saw massive battles, major deaths (Tywin!) and White Walkers, but what can fans expect Sunday as we head into a fifth season of one of the most popular shows in HBO history? It's the most high-profile premiere yet, airing simultaneously in 170 countries for the first time. (HBO is a Time Warner company, like CNN.) We sought out "Thrones" aficionado Doug Gross, a writer for Nerdwallet and a former CNN employee, who had a few thoughts on the matter (beware, TV fans, he has read the books). "We're going to start seeing some of the show's major story arcs coming together," Gross said (as confirmed by the executive producers). "Already, Stannis has shown up at the Wall to save Jon Snow and the rest of the Night's Watch from the wildlings," he said. "Now we'll see how his quest for the Iron Throne collides with the Watch's supposedly non-political role protecting the realm." Tyrion's path should cross with Daenerys' this season, according to the trailers. "Season five also will be unique in that some of the major story arcs will clearly be moving ahead of where George Martin is in the 'Song of Ice and Fire' books," Gross pointed out. Executive producer David Benioff told Rolling Stone, "We are starting to build to a crescendo, which means the battles have to get bigger and things have to get more dramatic." Indeed, this fifth season means we're past the halfway point, with the show currently set to end after seven years. The Stark daughters, Arya and Sansa, will be the characters to watch this season, as will Cersei. The world of Westeros is constantly plagued by war, but is there a time when people have just had enough? "Wars are waged by the nobles, but it's the common folk who suffer," Gross noted. "And, this season, we'll get a glimpse of what happens when those common people have had enough." 
+<Summary>
+the fourth season of "game of thrones" is "thrones" author doug gross says.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the fourth season of Game of Thrones is called "thrones," but the article does not mention any such season. The article only refers to the fourth season of the show.
-2. The summary mentions that the show is entering its fifth season, but the article states that the show is currently in its seventh season.
-3. The summary mentions that the Stark daughters, Arya and Sansa, will be the characters to watch this season, but the article does not mention them at all.
-4. The summary mentions that the show is set to end after seven years, but the article does not mention the show's ending date.
-5. The summary mentions that the fourth season saw massive battles and major deaths, but the article does not mention any specific events or plot points from the fourth season.
-
-Overall, the summary is not consistent with the article because it contains inaccuracies and misinformation about the show's seasons, characters, and plot points.
+1. The summary states that the fourth season of "Game of Thrones" is the one where major story arcs will start coming together.
+2. However, the article states that the fifth season is the one where the major story arcs will start coming together.
+3. The summary also states that the fourth season is the one where Doug Gross says the show will start to see some of the show's major story arcs coming together.
+4. However, the article quotes Doug Gross as saying that the fifth season will be unique in that some of the major story arcs will clearly be moving ahead of where George Martin is in the 'Song of Ice and Fire' books.
+5. Therefore, the summary is not consistent with the article, as it refers to the fourth season as the season where the major story arcs will start coming together, while the article states that it is the fifth season.
+6. Additionally, the summary does not accurately represent what Doug Gross said in the article, as he is quoted as saying that the fifth season will be unique in that some of the major story arcs will clearly be moving ahead of where George Martin is in the 'Song of Ice and Fire' books, not the fourth season.
 
 ###Corrected:

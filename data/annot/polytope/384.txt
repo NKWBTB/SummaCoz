@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england flanker james haskell dressed in iron man costume and posted it on his instagram page
-the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
-with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post . 
-
-    Article: 
-    with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
+<Article>
+with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
 the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
 and the london wasps captain joined in on the hype as he posted the photo dressed as downey jr. 's character iron man .
 england flanker james haskell dressed in iron man costume and posted it on his instagram page
@@ -22,16 +17,23 @@ four months in japan with the rams and haskell was on the move again when he swi
 however , he made only 12 appearances and returned to england in 2012 .
 since returning to wasps , haskell has surpassed the 100 appearances mark for the club and has become a big part of the england squad with 57 caps to-date .
 haskell has played his rugby in france , japan and new zealand after leaving the wasps in 2009
-since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps 
+since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+england flanker james haskell dressed in iron man costume and posted it on his instagram page
+the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
+with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
+</Summary>
 
-1. The summary states that James Haskell dressed in an Iron Man costume and posted it on his Instagram page, but the article does not mention anything about an Iron Man costume or Instagram post.
-2. The summary mentions that the new Avengers movie was released this week, but the article does not mention the movie's release date or the fact that James Haskell is a fan of the movie.
-3. The summary states that James Haskell is the captain of the London Wasps, but the article does not mention his role as captain.
-4. The summary mentions that James Haskell has played rugby in France, Japan, and New Zealand, but the article only mentions that he played for Stade Francais, Ricoh Black Rams, and Highlanders.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that James Haskell dressed in an Iron Man costume and posted it on his Instagram page.
+2. However, the article does not mention anything about James Haskell dressing up in an Iron Man costume or posting a photo on Instagram.
+3. The article does mention that James Haskell is an England flanker and that he has played for several clubs, including London Wasps, but there is no mention of him dressing up in a superhero costume.
+4. Therefore, the summary is not consistent with the article, as there is no mention of James Haskell dressing up in an Iron Man costume or posting a photo on Instagram.
+
+Overall, the summary is not accurate because it includes information that is not supported by the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    steve sidwell says he has done all he can to earn a new brighton contract and play in the premier league next season. 
-
-    Article: 
-    Sidwell, 34, has made 32 Championship appearances this season to help the Seagulls achieve promotion to the top flight for the first time in 34 years.
+<Article>
+Sidwell, 34, has made 32 Championship appearances this season to help the Seagulls achieve promotion to the top flight for the first time in 34 years.
 With his contract due to expire at the end of the campaign, the midfielder is now hoping to sign a new deal.
 "I want to be a part of it next year because I know we can stay in the Premier League," he said.
 Brighton's recent win over Wigan confirmed their promotion, and with a four-point lead over second-placed Newcastle, Chris Hughton's side are now hoping to wrap up the league title in the final two matches.
@@ -14,15 +11,19 @@ Sidwell made 19 appearances for Albion on loan from Stoke during 2015-16 before 
 He has previously played in the Premier League with Reading, Chelsea, Aston Villa, Fulham and Stoke and believes he deserves the opportunity to play at the top level again.
 Sidwell told BBC Radio Sussex: "When I signed the contract last year no-one expected me to play as many games as I have. I've probably given a better impact than expected.
 "When I have played I've played well, I've put my best foot forward and I've given myself every opportunity to earn a new deal.
-"If there's one on the table then hopefully we can thrash it out, it can be done and we can enjoy the summer." 
+"If there's one on the table then hopefully we can thrash it out, it can be done and we can enjoy the summer."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+steve sidwell says he has done all he can to earn a new brighton contract and play in the premier league next season.
+</Summary>
 
-1. The summary states that Steve Sidwell wants to earn a new Brighton contract and play in the Premier League next season.
-2. However, the article states that Brighton has already achieved promotion to the Premier League and Sidwell has made 32 appearances this season to help the team achieve this goal.
-3. Based on the article, it seems that Sidwell has already done enough to earn a new contract with Brighton, as he has helped the team achieve promotion to the Premier League.
-4. The summary implies that Sidwell is hoping to sign a new deal because he wants to play in the Premier League next season, but the article does not mention anything about Sidwell wanting to leave Brighton or seeking a new challenge.
-5. Therefore, the summary is not consistent with the article because it implies that Sidwell is seeking a new contract to play in the Premier League, when in fact, he has already achieved that goal with Brighton.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that Steve Sidwell says he has done all he can to earn a new Brighton contract and play in the Premier League next season.
+2. However, the article does not mention anything about Sidwell wanting to earn a new contract or play in the Premier League next season.
+3. Instead, the article states that Sidwell is hoping to sign a new deal with Brighton, but only if the club is promoted to the Premier League.
+4. The article also mentions that Sidwell has made 32 Championship appearances this season to help Brighton achieve promotion, and he believes he deserves the opportunity to play at the top level again.
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. Specifically, the summary does not mention the condition that Brighton must be promoted to the Premier League for Sidwell to sign a new deal, which is a key point in the article.
 
 ###Corrected:

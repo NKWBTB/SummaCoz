@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a mongolian rapper is in a critical condition in hospital after being beaten with a swastika during a concert in mongolia, officials say. 
-
-    Article: 
-    Amarmandakh Sukhbaatar was performing in the country's capital Ulan Bator when the alleged attack took place.
+<Article>
+Amarmandakh Sukhbaatar was performing in the country's capital Ulan Bator when the alleged attack took place.
 Russian news reports said he was hit over the head with a bottle and repeatedly kicked in the face.
 The Russian embassy said it was investigating, but called local press reports "distorted".
 The rapper had taken to the stage in a red deel - a Mongolian robe - embroidered with a swastika.
@@ -25,16 +22,20 @@ The musician's lawyer, father, and a band member denied reports on social media 
 Lawyer Gankhuugiin Batbayar said the suspect in the beating had not been arrested, adding: "[He] must be investigated according to Mongolian law, no matter his status or immunity as a diplomat".
 A police spokesman told the AFP news agency that the case was under investigation.
 "The suspect is a Russian diplomatic officer and the reason he wasn't kept in detention is the injury is not serious," he said.
-"It's not true that the suspect wasn't arrested because of diplomatic immunity." 
+"It's not true that the suspect wasn't arrested because of diplomatic immunity."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+a mongolian rapper is in a critical condition in hospital after being beaten with a swastika during a concert in mongolia, officials say.
+</Summary>
 
-1. The summary states that the rapper was beaten with a swastika, but the article does not mention any such detail. Instead, it says that the rapper was hit over the head with a bottle and repeatedly kicked in the face.
-2. The summary implies that the attack was motivated by the swastika symbol, but the article does not provide any evidence to support this claim. In fact, the article notes that the swastika is a traditional symbol in Mongolia that pre-dates Hitler, and that the rapper frequently wears the symbol on stage as a representation of his country's history and culture.
-3. The summary mentions that the Russian embassy is investigating the assault, but the article states that the Russian official accused of attacking the rapper has not been identified.
-4. The summary implies that the attack was a hate crime, but the article does not provide any evidence to support this claim. Instead, it notes that the swastika is a traditional symbol in Mongolia and that the rapper's songs often refer to his country's history, culture, and identity.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it sensationalizes the attack and implies that it was motivated by hate, when in fact the article presents a more nuanced view of the situation.
+1. The summary states that the Mongolian rapper was beaten with a swastika during a concert in Mongolia.
+2. However, the article does not mention anything about the rapper being beaten with a swastika. Instead, it states that the rapper was hit over the head with a bottle and repeatedly kicked in the face.
+3. The article also emphasizes that the swastika is a traditional symbol in Mongolia and has nothing to do with Nazi ideology.
+4. The summary does not accurately reflect the information in the article.
+
+Therefore, the summary is not consistent with the article. The summary incorrectly states that the rapper was beaten with a swastika, while the article states that the rapper was hit over the head with a bottle and kicked in the face. Additionally, the summary does not accurately convey the context and meaning of the swastika symbol in Mongolian culture.
 
 ###Corrected:

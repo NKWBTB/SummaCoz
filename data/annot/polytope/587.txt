@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    laura UNK , 15 , from whitley bay , was left on a heart machine .
-she was left on a heart machine after collapsing at her family home .
-she has now spoken out about pressures on young girls to be a size zero . 
-
-    Article: 
-    just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
+<Article>
+just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
 the 15-year-old , from whitley bay , was left on a heart machine after she collapsed through starvation but has now spoken about pressures put on teenagers to be a ` size zero ' .
 laura became so obsessed with having the perfect figure she would hide food down the side of her bed , lying to her mother about eating and sometimes surviving on just a piece of fruit a day .
 laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia
@@ -53,17 +48,21 @@ but she just said " i do n't care , as long as i 'm skinny " .
 ` it was then i realised just how much pressure she , and all girls , were under to look a certain way . '
 after getting discharged laura began working with eating disorder teams ( edict ) and child and adolescent mental health services ( camhs ) to help in her recovery .
 today , her body image is better than ever and her new-found confidence has allowed her to make it through to the semi final of miss teen gb .
-the contest aims to promote ` positive and confidence-building experiences ' for young girls , away from size zero stereotypes . 
+the contest aims to promote ` positive and confidence-building experiences ' for young girls , away from size zero stereotypes .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+laura UNK , 15 , from whitley bay , was left on a heart machine .
+she was left on a heart machine after collapsing at her family home .
+she has now spoken out about pressures on young girls to be a size zero .
+</Summary>
 
-1. The summary states that Laura was left on a heart machine after collapsing at her family home, but the article does not mention anything about her collapsing at home. Instead, it states that she collapsed at school and was rushed to intensive care.
-2. The summary mentions that Laura was obsessed with having the perfect figure and was hiding food down the side of her bed, but the article does not mention anything about her hiding food. Instead, it states that she was restricting her food intake and was only eating one piece of fruit a day.
-3. The summary states that Laura was put on a heart monitor for a week, but the article does not mention anything about her being on a heart monitor. Instead, it states that she was in intensive care for a week and was receiving treatment for her anorexia.
-4. The summary mentions that Laura's body started to shut down, but the article does not mention anything about her body shutting down. Instead, it states that she was suffering from anorexia and that her health was deteriorating.
-5. The summary states that Laura's parents were worried about her weight loss, but the article does not mention anything about her parents' concerns. Instead, it states that Laura was suffering from anorexia and that she was obsessed with being thin.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains details that are not present in the article, and omits other important details that are present in the article.
+1. The summary states that Laura was left on a heart machine, but the article does not mention this.
+2. The summary states that Laura collapsed at her family home, but the article does not mention this either.
+3. The summary mentions "pressures on young girls to be a size zero," but the article does not mention this phrase or any similar language.
+
+Therefore, the summary is not consistent with the article. The summary is missing important details and includes information that is not present in the article. It is possible that the person who created the summary did not carefully read the article and included incorrect or incomplete information.
 
 ###Corrected:

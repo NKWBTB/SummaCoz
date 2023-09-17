@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    home secretary theresa may has said she is ``deeply concerned\'\'about police officers in england and wales. 
-
-    Article: 
-    She stressed that to kill a police officer was "to attack the fundamental basis of our society".
+<Article>
+She stressed that to kill a police officer was "to attack the fundamental basis of our society".
 But Mrs May also said police officers must end "frivolous" accident claims and focus on raising public trust.
 Earlier the Police Federation urged her not to base legislation changes on the behaviour of a "handful of officers".
 During her address, Mrs May said suing someone after slipping on their property was "not the sort of attitude" officers should exhibit.
@@ -35,25 +32,25 @@ Police Federation chairman Steve Williams, who had earlier welcomed Mrs May's se
 Speaking at the conference, he urged the home secretary not to "hang your reforms on the reprehensible behaviour of a handful of officers".
 The biggest applause came when he called for the government to abandon plans for compulsory severance, which are currently subject to negotiation.
 Chief Inspector of Constabulary Tom Winsor, who is behind hotly debated changes such as fast-track recruitment and lower annual pay for new constables, was also due to address officers.
-On Tuesday, shadow home secretary Yvette Cooper told the three-day conference that government plans to withdraw from the European Arrest Warrant agreement would make it harder to catch criminals who went on the run abroad. 
+On Tuesday, shadow home secretary Yvette Cooper told the three-day conference that government plans to withdraw from the European Arrest Warrant agreement would make it harder to catch criminals who went on the run abroad.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+home secretary theresa may has said she is ``deeply concerned\'\'about police officers in england and wales.
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary states that Theresa May, the Home Secretary, is concerned about police officers in England and Wales and wants to increase the minimum sentence for killing an officer to life without parole.
+1. The summary states that Theresa May is "deeply concerned" about police officers in England and Wales, but the article does not support this statement.
+2. The article actually reports on May's plans to increase the minimum sentence for killing a police officer to life without parole, and her comments on the importance of police officers being safe while performing their duties.
+3. The article does not mention any concerns expressed by May about police officers in general.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
 
-Step 2: Identify the main points of the article
+Step by step reasoning:
 
-The article states that Theresa May wants to increase the minimum sentence for killing a police officer to life without parole, but it also mentions that she stressed the importance of police officers ending "frivolous" accident claims and focusing on raising public trust. Additionally, the article mentions that the Police Federation urged her not to base legislation changes on the behavior of a "handful of officers."
-
-Step 3: Identify the inconsistencies
-
-The summary only mentions Theresa May's desire to increase the minimum sentence for killing a police officer, but it does not mention her emphasis on ending frivolous accident claims or the Police Federation's concerns. Therefore, the summary is not consistent with the article.
-
-Step 4: Explain the inconsistencies
-
-The inconsistency between the summary and the article is that the summary only focuses on Theresa May's desire to increase the minimum sentence for killing a police officer, while the article mentions other aspects of her speech, such as her emphasis on ending frivolous accident claims and the Police Federation's concerns. The summary does not provide a complete picture of Theresa May's speech.
+1. The summary states that May is "deeply concerned" about police officers, but the article does not support this statement.
+2. The article reports on May's plans to increase the minimum sentence for killing a police officer, and her comments on the importance of police safety.
+3. The article does not mention any concerns expressed by May about police officers in general.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
 
 ###Corrected:

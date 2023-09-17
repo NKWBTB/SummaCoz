@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a 25-year-old man has appeared in court charged with the murder of karl haugh, who was stabbed to death in county limerick in the 
-
-    Article: 
-    Mr Haugh, 25, was stabbed in a laneway in the Marian estate in the early hours of Sunday.
+<Article>
+Mr Haugh, 25, was stabbed in a laneway in the Marian estate in the early hours of Sunday.
 Robbie Walsh, of Island View, Kilrush, was charged with assault causing serious harm to Mr Haugh.
 He has been remanded in custody to appear again in court next week.
 Two other men arrested over the killing were released without charge, with files being prepared for the Director of Public Prosecutions.
@@ -16,17 +13,20 @@ He said: "Other individuals also arrived who became involved in the fight."
 Det Frawley said: "During the course of the altercation, Karl Haugh received a stab wound to his back. Garda arrived at the scene where knives and golf clubs were recovered."
 He said that Mr Haugh was brought by ambulance to Limerick University Hospital where he was pronounced dead at 06:00 local time.
 He said police recovered a knife handle and a blade at the scene of Mr Haugh's death and the blade had blood on it.
-A judge said the state had given evidence of tension in the area of Kilkee as a result of the killing and remanded Mr Walsh in custody until 14 August. 
+A judge said the state had given evidence of tension in the area of Kilkee as a result of the killing and remanded Mr Walsh in custody until 14 August.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the information provided, the summary is not consistent with the article because:
+<Summary>
+a 25-year-old man has appeared in court charged with the murder of karl haugh, who was stabbed to death in county limerick in the
+</Summary>
 
-1. The summary states that the accused, Robbie Walsh, was charged with murder, but the article states that he was charged with assault causing serious harm to Mr. Haugh.
-2. The summary mentions that two other men were released without charge, but the article does not mention this.
-3. The summary states that the accused was one of three people who entered the Marian Estate looking for Mr. Haugh, but the article does not mention this.
-4. The summary states that the fight ensued where weapons were used, but the article only mentions that knives and golf clubs were recovered at the scene.
-5. The summary states that Mr. Haugh was pronounced dead at 6:00 am, but the article states that he was pronounced dead at 1:00 am.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions that change the meaning of the events described.
+1. The summary states that the accused, Robbie Walsh, has been charged with the murder of Karl Haugh.
+2. However, the article states that Robbie Walsh has been charged with assault causing serious harm to Karl Haugh, not murder.
+3. The summary is not consistent with the article because it incorrectly states the charge against Robbie Walsh.
+4. The article states that two other men were arrested in connection with the killing, but the summary does not mention this.
+5. The summary does not provide any information about the evidence presented in court, such as the recovery of knives and golf clubs, or the statement from Detective Sergeant Padraig Frawley.
+6. The summary is a brief and incomplete summary of the article, and does not provide a clear and accurate overview of the events described in the article.
 
 ###Corrected:

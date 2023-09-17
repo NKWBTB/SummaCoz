@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scotland women\'s manager jayne evans says it would be a ``huge\'\'place to qualify for the euro 2016 finals. 
-
-    Article: 
-    The Scots have won all five qualifiers to date and host Iceland at Falkirk Stadium on Friday knowing victory would all but secure their place.
+<Article>
+The Scots have won all five qualifiers to date and host Iceland at Falkirk Stadium on Friday knowing victory would all but secure their place.
 But Evans is desperate not to miss out again after play-off losses for Euro 2013 and last year's  World Cup.
 "Now that we're in this position, it would be devastating," she said.
 "We've been so close and fallen at the last hurdle twice now trying to get to major competitions.
@@ -28,23 +25,24 @@ Evans, who won four Scottish Women's Premier League titles and six domestic cups
 "The league is good, arguably one of the best in the world for competitiveness, and we have a hard game every week.
 "Even within the Bayern set-up, there is such good competition. Just being able to train with those players every day makes you better. I'm really privileged.
 "The league in Scotland is improving, but the girls playing abroad bring something different.
-"It is a different culture, a new way of playing, and that adds to the national team." 
+"It is a different culture, a new way of playing, and that adds to the national team."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+scotland women\'s manager jayne evans says it would be a ``huge\'\'place to qualify for the euro 2016 finals.
+</Summary>
 
-Step 1: The summary states that Scotland women's manager Jayne Evans says it would be a "huge place" to qualify for the Euro 2016 finals.
+Explain your reasoning step by step:[/INST]
 
-Inconsistency: The article does not quote Jayne Evans as saying this. Instead, it quotes her as saying that it would be devastating to miss out on the finals again after previous play-off losses.
+1. The summary states that Scotland's women's manager Jayne Evans says it would be a "huge place" to qualify for the Euro 2016 finals.
+2. However, the article does not contain any quote from Jayne Evans mentioning "huge place". Instead, the article quotes her as saying "it would be devastating" to miss out on the finals again, and "more heartbreak than humiliation" if they fail to qualify.
+3. Therefore, the summary is not consistent with the article, as it does not accurately reflect what Jayne Evans said.
 
-Step 2: The summary mentions that Scotland are in pole position to reach the finals without the need for a play-off.
+Reasoning step by step:
 
-Inconsistency: The article does not mention this. Instead, it states that the best six of the eight group runners-up will qualify automatically, and that Scotland are one of the top seeds in the group.
-
-Step 3: The summary quotes Jayne Evans as saying that it would be fantastic to have a big crowd at Falkirk.
-
-Inconsistency: The article does not quote Jayne Evans as saying this. Instead, it mentions that she is desperate not to miss out again after previous play-off losses.
-
-Overall, the summary is not consistent with the article because it includes quotes and information that are not present in the article. To make the summary consistent with the article, you would need to remove the quotes and information that are not present in the article, and focus on the main points of the article.
+1. The summary states that Jayne Evans said it would be a "huge place" to qualify for the Euro 2016 finals.
+2. The article does not contain any quote from Jayne Evans using the word "huge place".
+3. Instead, the article quotes her as saying "it would be devastating" to miss out on the finals again, and "more heartbreak than humiliation" if they fail to qualify.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect what Jayne Evans said.
 
 ###Corrected:

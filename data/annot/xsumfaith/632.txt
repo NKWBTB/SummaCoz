@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s victoria williamson says she is lucky not to be paralysed after her serious crash at rotterdam\'s zesdaagse. 
-
-    Article: 
-    The 22-year-old fractured her neck and back, dislocated her pelvis and slipped a disc in her neck after colliding with Elis Ligtlee during the omnium final.
+<Article>
+The 22-year-old fractured her neck and back, dislocated her pelvis and slipped a disc in her neck after colliding with Elis Ligtlee during the omnium final.
 Norfolk's Williamson spent four weeks in hospital after January's accident.
 "They were pretty sure paralysis was going to be the outcome while I was in Rotterdam, but luckily I pulled through," she told BBC Look East.
 "Being an athlete, I think they said because my neck and back were so strong I was able to withstand the force.
@@ -17,19 +14,20 @@ Racing at the event was cancelled after the 2013 World Championships bronze meda
 Williamson hopes to be back "easy riding" on a bike by the end of the summer and says she has the right support around her to make a full recovery.
 Media playback is not supported on this device
 "I'm going to get back on a bike eventually," she added. "I've got no timescale yet, but I don't know what level I'll be able to get to. I'll give it a good go.
-"I've got the full support team behind me, I've got physios, doctors. We've got the world's best. At the end of the day, we're a great programme, so I've got every chance of getting back to where I was." 
+"I've got the full support team behind me, I've got physios, doctors. We've got the world's best. At the end of the day, we're a great programme, so I've got every chance of getting back to where I was."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+britain\'s victoria williamson says she is lucky not to be paralysed after her serious crash at rotterdam\'s zesdaagse.
+</Summary>
 
-1. The summary states that Victoria Williamson is lucky not to be paralyzed after her crash, but the article does not mention paralysis as a possibility.
+Explain your reasoning step by step:[/INST]
 
-2. The summary says that Williamson broke a few bones, but the article states that she fractured her neck and back, dislocated her pelvis, and slipped a disc in her neck. The article does not mention any broken bones.
+1. The summary states that Victoria Williamson is lucky not to be paralyzed after her crash, but the article states that she did not suffer any spinal cord injuries and her spinal cord stayed intact.
+2. The summary does not mention Williamson's injuries, such as her fractured neck and back, dislocated pelvis, and slipped disc, which are described in detail in the article.
+3. The summary does not mention Williamson's four-week hospital stay or her response to the accident, such as her concern about whether she won the race.
+4. The summary does not provide any specific details about Williamson's recovery or her plans to return to racing.
 
-3. The summary quotes Williamson as saying "I'm going to get back on a bike eventually," but the article does not mention her plans to return to cycling.
-
-4. The summary states that Williamson has the full support team behind her, but the article does not mention any specific support team or medical personnel.
-
-Therefore, the given summary is not consistent with the article because it contains inaccuracies and exaggerations.
+Therefore, the summary is not consistent with the article because it does not provide the same level of detail and does not accurately convey the information in the article. The summary is too brief and lacks specific information about Williamson's injuries and recovery.
 
 ###Corrected:

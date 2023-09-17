@@ -1,26 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police are appealing for information after a cow was killed in conwy county on saturday. 
-
-    Article: 
-    The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field.
+<Article>
+The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field.
 North Wales Police said the culprit is described as a heavily built man, aged 50 to 60, with curly brown hair, driving a dark blue pick-up truck.
 Anyone with information can call 101.
 "Apparently he has been dumping clippings over past two weeks. Has to be living/working local to Colwyn Bay," Sgt Rob Taylor, of the rural crime team, tweeted on Sunday.
 A post-mortem examination showed the cows, aged 16 months, died as a result of toxins found in yew and leylandii tree cuttings.
-Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and praised the "impressive" response to his appeal for information on social media. 
+Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and praised the "impressive" response to his appeal for information on social media.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+police are appealing for information after a cow was killed in conwy county on saturday.
+</Summary>
 
-1. The summary mentions a cow being killed in Conwy County on Saturday, but the article states that the Friesians were found dead in Dolwen, near Old Colwyn, on Friday.
-2. The summary does not mention anything about the cows dying from eating poisonous tree clippings, while the article explains that the cows died as a result of toxins found in yew and leylandii tree cuttings.
-3. The summary does not mention the culprit's description or the dark blue pick-up truck, which are both included in the article.
-4. The summary does not mention the post-mortem examination or the response to the appeal for information on social media, which are both mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not include all the key information provided in the article.
+1. The summary states that the incident occurred on Saturday, but the article states that the incident occurred on Friday.
+2. The summary mentions that the cow was killed in Conwy County, but the article states that the incident occurred near Old Colwyn, which is not in Conwy County.
+3. The summary does not mention anything about the cause of death, but the article states that the cows died as a result of toxins found in yew and leylandii tree cuttings.
+4. The summary does not mention anything about a post-mortem examination, but the article states that a post-mortem examination was conducted.
+5. The summary mentions that the police are appealing for information, but the article states that the police have already received information through social media.
+
+Therefore, the summary is not consistent with the article, and it appears to be a brief and inaccurate summary of the article.
 
 ###Corrected:

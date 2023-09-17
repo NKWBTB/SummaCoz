@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ashya king, whose parents were treated for cancer, has been cured for his treatment for treatment for cancer. 
-
-    Article: 
-    Ashya was being treated in hospital in Southampton when his parents took him abroad without telling staff last year.
+<Article>
+Ashya was being treated in hospital in Southampton when his parents took him abroad without telling staff last year.
 They ignored medical advice and took him to Prague for proton beam therapy.
 It was later revealed Ashya did not receive subsequent chemotherapy in Prague, a move the team in Southampton say could jeopardise his recovery.
 Speaking exclusively to the BBC, Dr Peter Wilson, paediatric intensive care consultant at Southampton General Hospital, said: "We are unsure as to exactly what treatment he is receiving but what we do know is... every month that goes by that he's not getting chemotherapy, his outcome worsens.
@@ -29,19 +26,21 @@ Paediatric oncology consultant Dr Ramya Ramanujachar, who was involved in Ashya'
 She said: "I don't think the parents can look after their own child with a brain tumour and be not only the carers but also the professionals directing, managing and dictating their child's treatment."
 Dr Wilson said the case had led to an "impossible situation" for clinicians faced with families in the same situation.
 "That is deeply unfair when the NHS is always supposed to be about equal healthcare for all," he added.
-Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday at 19:30 BST. 
+Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday at 19:30 BST.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+ashya king, whose parents were treated for cancer, has been cured for his treatment for treatment for cancer.
+</Summary>
 
-1. The summary states that Ashya King has been cured of his cancer treatment, but the article states that he is still in remission and it is too early to say he has been completely cured.
-2. The summary does not mention the fact that Ashya's parents took him abroad without telling staff and ignored medical advice, which caused a public outcry and forced the hospital to shut its switchboard.
-3. The summary does not mention the breakdown in the relationship between Brett King and the hospital, or the fact that Mr. King claimed staff threatened him with a court order if he refused Ashya's treatment, which the hospital denied.
-4. The summary does not mention the fact that Ashya's parents refused the chemotherapy recommended by doctors and ordered by the High Court, which could jeopardize his recovery.
-5. The summary does not mention the experts' quotes that the use of protons does not improve cure rates of tumours and that the case could set a worrying precedent.
-6. The summary does not mention the paediatric oncology consultant Dr Ramya Ramanujachar's warning that the case could set a worrying precedent and that the parents cannot look after their own child with a brain tumour and be not only the carers but also the professionals directing, managing and dictating their child's treatment.
-7. The summary does not mention the fact that the case has led to an "impossible situation" for clinicians faced with families in the same situation, and that it is deeply unfair when the NHS is always supposed to be about equal healthcare for all.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not include many of the important details and quotes from experts that the article provides.
+1. The summary states that Ashya King has been cured for his treatment for cancer, which is not consistent with the article.
+2. The article states that Ashya's outcome worsens every month that he does not receive chemotherapy, and that he is not completely cured yet.
+3. The summary does not mention the fact that Ashya's parents took him abroad without telling hospital staff, or that they ignored medical advice and took him to Prague for proton beam therapy.
+4. The summary does not mention the concerns of the medical professionals interviewed in the article, such as Dr. Wilson and Professor Sikora, about the potential risks of not receiving chemotherapy and the lack of evidence that Ashya is completely cured.
+5. The summary does not provide any supporting evidence for the claim that Ashya has been cured, such as quotes from medical professionals or information about the specific treatment he received.
+
+Therefore, the summary is not consistent with the article and appears to be an oversimplification of the facts. It is possible that the summary was written to sensationalize the story and create a more positive outcome for Ashya, but it does not accurately reflect the information presented in the article.
 
 ###Corrected:

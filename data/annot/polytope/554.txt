@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a bus driver was caught reading a newspaper while driving in auckland , new zealand .
-the driver sent the video to bus company ritchies coachlines along with a complaint .
-in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion . 
-
-    Article: 
-    a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
+<Article>
+a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
 a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
 in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
 a bus driver was caught reading a newspaper while driving in auckland , new zealand
@@ -20,16 +15,21 @@ bloody irresponsible behaviour to the first degree , i ca n't believe it , ' mr 
 he was n't even trying to hide it , he was holding the whole newspaper open , over the steering wheel . '
 mr ritchie said the driver would be disciplined , but would not go into detail .
 a passenger filmed the driver and sent the video to bus company ritchies coachlines along with a complaint
-ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions 
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a bus driver was caught reading a newspaper while driving in auckland , new zealand .
+the driver sent the video to bus company ritchies coachlines along with a complaint .
+in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
+</Summary>
 
-1. The summary states that the driver sent the video to the bus company along with a complaint. However, the article states that a passenger filmed the driver and sent the video to the bus company along with a complaint. The driver did not send the video.
-2. The summary states that the driver was caught reading a newspaper while the bus was in motion. However, the article states that the driver was caught reading a newspaper while the bus was slowing down at a set of traffic lights.
-3. The summary does not mention the driver holding the newspaper open over the steering wheel, which is mentioned in the article.
-4. The summary quotes the bus company's boss as saying that the driver is a "complete idiot" and that the behavior is "bloody irresponsible." However, the article quotes the boss as saying that the driver's actions are "absolutely stupid" and "irresponsible behavior to the first degree."
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. The driver did not send the video, the driver was not caught reading the newspaper while the bus was in motion, and the bus company's boss did not use the word "complete idiot" to describe the driver's actions.
+1. The summary states that the driver sent the video to the bus company along with a complaint. However, the article states that a passenger filmed the driver and sent the video to the company, not the driver himself.
+2. The summary mentions that the driver was flicking through pages of the newspaper while the bus is in motion, but the article does not mention this. The article only states that the driver was reading a newspaper while the bus was slowing down at a set of traffic lights.
+3. The summary does not mention the driver's actions being slammed by the boss as "complete idiot" and "bloody irresponsible behavior to the first degree" as stated in the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately convey the details of the driver's actions and the reaction of the bus company's boss. The summary leaves out important information and includes some inaccuracies, which can be seen by comparing it to the original article.
 
 ###Corrected:

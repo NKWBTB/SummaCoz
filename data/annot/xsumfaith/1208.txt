@@ -1,24 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wayne rooney has become the first player to play in manchester united\'s match against manchester united on saturday. 
-
-    Article: 
-    It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
+<Article>
+It will be available to 1.7bn people on the platform worldwide via Rooney's and the Manchester United Facebook pages.
 Proceeds will be distributed to Rooney's four chosen charities.
 The game at Old Trafford, between Rooney's only two professional clubs, marks his 12 years' service at United.
 Rooney said: "I am delighted my testimonial game will be streamed globally, which will hopefully raise awareness and increase donations."
 It is expected to mark the first home appearances for Jose Mourinho's three summer signings; Zlatan Ibrahimovic, Henrikh Mkhitaryan and Eric Bailly.
-Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million. 
+Manchester United's Facebook page has more than 70 million 'likes', while Rooney's has more than 25 million.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+wayne rooney has become the first player to play in manchester united\'s match against manchester united on saturday.
+</Summary>
 
-1. The summary states that Wayne Rooney played in Manchester United's match against Manchester United on Saturday. This is not possible, as there is no team called Manchester United that plays against itself.
-2. The article does not mention anything about Wayne Rooney playing in a match against Manchester United. Instead, it talks about his testimonial game being streamed globally on Facebook.
-3. The summary is not consistent with the article because it claims that Wayne Rooney played in a match against Manchester United, while the article only mentions his testimonial game being streamed on Facebook.
-4. Therefore, the summary is not accurate and does not reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that the testimonial game will be played between Manchester United and Everton, which is Rooney's only two professional clubs.
+2. The summary states that Rooney will play for Manchester United against Manchester United on Saturday. This is not possible as there is no team called Manchester United playing against Manchester United.
+3. Therefore, the summary is not consistent with the article as it incorrectly states that Rooney will play for Manchester United against Manchester United, when in fact, he will play for Everton against Manchester United.
 
 ###Corrected:

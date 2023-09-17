@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a british jihadist who travelled to syria to join so-called islamic state (is) in syria has been captured by the so-called islamic state (is). 
-
-    Article: 
-    Imran Khawaja tried to sneak back into the UK last year - and while his exact activity in Syria remains a mystery, police say he is one of the most dangerous British jihadists to return from conflict.
+<Article>
+Imran Khawaja tried to sneak back into the UK last year - and while his exact activity in Syria remains a mystery, police say he is one of the most dangerous British jihadists to return from conflict.
 He was one of the most public British fighters in Syria - always online, but always masked.
 But now, Imran Khawaja, 27, from Southall, west London is facing a possible prison term up to life imprisonment for his role in life and death on Syria's battlefields.
 Khawaja left the UK last January. He called himself Abu Daigham al-Britani. And after reaching the warzone via Kurdish territory, he began posting videos and pictures of his personal jihad.
@@ -31,16 +28,20 @@ Cdr Richard Walton, the head of the Metropolitan Police's counter-terrorism comm
 Imran Khawaja was considered so dangerous that while he was on remand, he was held in the special unit for high risk terrorism suspects at London's maximum security Belmarsh prison.
 He has admitted four offences:
 Tahir Bhatti has pleaded guilty to assisting an offender.
-Khawaja had originally faced an additional charge of soliciting to murder. That allegation, the most serious to be made yet against a Syrian fighter, will lie on file. 
+Khawaja had originally faced an additional charge of soliciting to murder. That allegation, the most serious to be made yet against a Syrian fighter, will lie on file.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a british jihadist who travelled to syria to join so-called islamic state (is) in syria has been captured by the so-called islamic state (is).
+</Summary>
 
-1. The summary states that Imran Khawaja was captured by the so-called Islamic State (IS) in Syria, but the article does not mention anything about his capture. Instead, it states that he was arrested by the police upon his return to the UK.
-2. The summary mentions that Khawaja was a British jihadist who traveled to Syria to join IS, but the article does not use the term "British jihadist." It simply states that he was a Londoner who went to Syria to fight with the group Rayat al Tawheed, which is affiliated with IS.
-3. The summary states that Khawaja was one of the most dangerous British fighters in Syria, but the article does not provide any information about his specific actions or activities in Syria that would make him dangerous. The article focuses more on his attempts to cover his tracks and return to the UK without being detected.
-4. The summary mentions that Khawaja was involved in appeals for donations and video diaries of his life in Syria, but the article does not provide any information about these activities. Instead, it focuses on his involvement with Rayat al Tawheed and his attempts to return to the UK.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not supported by the article and omits other important information that is provided in the article.
+1. The summary states that a British jihadist was captured by ISIS in Syria, but the article states that Imran Khawaja, the British jihadist in question, was caught by the police upon his return to the UK.
+2. The summary does not mention Khawaja's involvement in the production of propaganda videos, his role in the Rayat al Tawheed group, or his attempt to cover his tracks by faking his own death. These details are present in the article, but not in the summary.
+3. The summary does not provide any information about the charges that Khawaja and his cousin Tahir Bhatti are facing, or the potential prison sentence that Khawaja may face. These details are mentioned in the article.
+4. The summary does not mention the fact that Khawaja was one of the most public British fighters in Syria, always online and always masked, as mentioned in the article.
+
+Therefore, the summary is not consistent with the article because it does not provide a complete and accurate account of Imran Khawaja's activities and the charges he is facing. The summary is misleading and does not reflect the full scope of the article's content.
 
 ###Corrected:

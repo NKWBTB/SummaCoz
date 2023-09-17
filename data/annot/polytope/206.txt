@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup
-toulon 's steffon armitage came off the bench against leinster on sunday and turned the game on its head .
-england head coach stuart lancaster has remained steadfast in his policy not to select overseas players 
-
-    Article: 
-    congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+<Article>
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
 it leaves england looking old-fashioned and they need to react .
 stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
 if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
@@ -44,22 +39,27 @@ you simply ca n't let the rfu or premier rugby tie your hands behind your back a
 at toulon , they 've got bryan habana playing for south africa and leigh halfpenny playing for wales .
 they 're among the best players in the world .
 it 's just crazy and misguided not to make any englishman available for selection .
-bryan habana plays for toulon but the springboks have continued to select the winger for test matches 
+bryan habana plays for toulon but the springboks have continued to select the winger for test matches
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's the step-by-step explanation of why the given summary is not consistent with the article:
+<Summary>
+matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup
+toulon 's steffon armitage came off the bench against leinster on sunday and turned the game on its head .
+england head coach stuart lancaster has remained steadfast in his policy not to select overseas players
+</Summary>
 
-1. The summary states that Matt Giteau's performances for Toulon have put him back on the Wallabies radar ahead of the World Cup, but the article argues that Australia has a ridiculous policy of not selecting their best players if they are playing overseas, and that this policy should change.
-2. The summary mentions Steffon Armitage's turnover work and ball-carrying for Toulon, but the article does not mention Armitage at all.
-3. The summary suggests that England head coach Stuart Lancaster should be free to pick his best players, regardless of where they play, but the article argues that Lancaster has remained steadfast in his policy not to select overseas players.
-4. The summary states that if Roy Hodgson's star names moved to Bayern Munich or Barcelona, the FA would not tell him not to pick them, but the article does not mention Hodgson or any other football coach.
-5. The summary argues that the World Cup is about the world's best coming together, and that ridiculous rules like Australia's policy demean the tournament, but the article does not mention the World Cup or any other international tournament.
-6. The summary mentions Nick Abendanon's improved form since moving to France, but the article does not mention Abendanon at all.
-7. The summary states that Jonny Wilkinson moved to France and became even better, but the article does not mention Wilkinson or any other player who has moved to France.
-8. The summary argues that England should select their best starting XV, regardless of where they play, but the article does not mention the starting XV or any specific players.
-9. The summary suggests that England players deserve to go on the field knowing they have been given the best chance of winning, but the article does not mention England players or any specific team.
-10. The summary states that the RFU or Premier Rugby should not tie the hands of coaches and dictate who they can or cannot pick, but the article does not mention the RFU or Premier Rugby.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, there are several inconsistencies. Here's a step-by-step explanation:
 
-Overall, the summary is not consistent with the article because it focuses on different players, teams, and tournaments, and presents a different argument
+1. Matt Giteau:
+The article discusses Matt Giteau's impressive performances for Toulon, which have put him back on the Wallabies radar ahead of the World Cup. However, the summary makes no mention of Giteau or his performances.
+2. Steffon Armitage:
+The article highlights Steffon Armitage's turnover work and ball-carrying abilities, which have improved since he joined Toulon. The summary mentions Armitage coming off the bench against Leinster, but does not mention his performance or skills.
+3. England's policy on selecting overseas players:
+The article criticizes England's policy of not selecting overseas players, stating that it is "ridiculous" and "demeaning" to the game. The summary, on the other hand, does not mention this policy or any criticism of it.
+4. Jonny Wilkinson:
+The article mentions Jonny Wilkinson's move to France and how it improved his game, as an example of why players should be supported if they are playing better overseas. The summary does not mention Wilkinson or his move to France.
+
+Overall, the summary does not accurately reflect the content of the article. The article provides specific examples of players who have benefited from playing overseas and criticizes England's policy of not selecting overseas players, while the summary only mentions a few players and does not provide any context or criticism.
 
 ###Corrected:

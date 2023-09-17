@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    welsh rugby union ( wru ) coaches have appointed martyn mcbryde as their new coaches. 
-
-    Article: 
-    Head coach Warren Gatland is leading the British and Irish Lions in New Zealand and has named interim coach Rob Howley as part of his backroom team.
+<Article>
+Head coach Warren Gatland is leading the British and Irish Lions in New Zealand and has named interim coach Rob Howley as part of his backroom team.
 Forwards coach McBryde assumes head coach responsibilities for the third time after leading Wales on tours in 2009 and 2013.
 "It is an honour to represent your country and to do so overseas carries extra responsibility," said McBryde.
 "For me it is another exciting opportunity to lead the team.  It is something I have thoroughly enjoyed in the past and I'm really looking forward to doing it again at the end of the season."
@@ -15,16 +12,19 @@ The Welsh Rugby Union (WRU) will appoint assistant coaches for the summer tour t
 Union chairman Gareth Davies, who is also on the Lions' selection panel, believes the involvement of Welsh coaches will benefit the national team.
 "2017 is a real summer of opportunity for Welsh coaches and should benefit the whole of Welsh rugby in the years ahead," he said.
 "It is not often that you get the opportunity to develop coaches in different environments.
-"Our coaches and players have been invigorated by their Lions experiences on previous campaigns and there is little doubt that a tour of New Zealand will provide the ultimate test and so once again both mentally stimulate and inspire each individual." 
+"Our coaches and players have been invigorated by their Lions experiences on previous campaigns and there is little doubt that a tour of New Zealand will provide the ultimate test and so once again both mentally stimulate and inspire each individual."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+welsh rugby union ( wru ) coaches have appointed martyn mcbryde as their new coaches.
+</Summary>
 
-1. The summary states that Martyn McBryde has been appointed as the new coach of the Welsh rugby union team.
-2. However, the article states that Rob Howley has been appointed as the interim coach for the British and Irish Lions team, and not as the new coach of the Welsh rugby union team.
-3. The article also mentions that McBryde will assume head coach responsibilities for the third time, but does not mention that he has been appointed as the new coach.
-4. The summary is not consistent with the article because it does not accurately reflect the information provided in the article.
-5. The article states that McBryde will be an interim coach for the Lions team, and not the new coach of the Welsh rugby union team.
-6. Therefore, the summary is not accurate and should be revised to reflect the correct information.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that Warren Gatland, the head coach of the British and Irish Lions, has named Rob Howley as part of his backroom team, but there is no mention of the Welsh Rugby Union (WRU) appointing any coaches.
+2. The summary states that the WRU has appointed Martyn McBryde as their new coach, which is not supported by the article.
+3. The article mentions that McBryde will assume head coach responsibilities for the third time, but there is no mention of him being appointed as a new coach by the WRU.
+4. The article also mentions that the WRU will appoint assistant coaches for the summer tour to assist McBryde, but there is no mention of Martyn McBryde being one of those assistant coaches.
+5. Therefore, the summary is not consistent with the article, as it implies that the WRU has appointed Martyn McBryde as their new coach, which is not supported by the information in the article.
 
 ###Corrected:

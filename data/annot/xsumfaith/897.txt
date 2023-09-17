@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the mother of a murdered victim of the victim of the murder of sian thompson has said she is ``capable of walking amongst other people\'\'. 
-
-    Article: 
-    Denise Fergus said she had been "let down so many times by the system" but that she would continue to "fight".
+<Article>
+Denise Fergus said she had been "let down so many times by the system" but that she would continue to "fight".
 Jon Venables and Robert Thompson were convicted of killing two-year-old James in Bootle, Merseyside in 1993.
 Mrs Fergus said she believed Venables was capable of harming other people if he was released from prison. He was recalled to prison in 2010.
 He had been released from prison in 2001, having served seven years of a life sentence, but was recalled when he pleaded guilty to downloading and distributing indecent images of children.
@@ -21,16 +18,18 @@ Mrs Fergus set up a charity, named after her son, to support young people who ha
 Asked if, after 20 years, she should move on, Mrs Fergus said: "Why should I let it go? They took the most precious thing away from me. I won't let it go. And I've always said if there's a fight there to be fought, then I'll fight it for James.
 "If I let go of that now I will feel I've let James down.  That is something I'll never do, I'll never let James down. I want justice for James. He's never had justice."
 She has campaigned to have both men kept in prison, and said: "I did warn [the authorities] that one of them or both of them would go on to reoffend, and I was proven right with Venables."
-She said her family - her husband and three sons - mention James often. "I think the day I stop talking about him is the day I give up on life, but I'll never stop talking about him, never stop remembering him." 
+She said her family - her husband and three sons - mention James often. "I think the day I stop talking about him is the day I give up on life, but I'll never stop talking about him, never stop remembering him."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's why the summary is not consistent with the article:
+<Summary>
+the mother of a murdered victim of the victim of the murder of sian thompson has said she is ``capable of walking amongst other people\'\'.
+</Summary>
 
-1. The summary states that Mrs. Fergus said she is "capable of walking amongst other people," but the article does not contain this quote.
-2. The summary implies that Mrs. Fergus is advocating for the release of Venables and Thompson, but the article states the opposite. Mrs. Fergus is campaigning to keep them in prison and has warned that they will go on to harm others if released.
-3. The summary does not accurately convey Mrs. Fergus's emotions and concerns. The article states that she still feels raw and can't understand how her son's murder happened, while the summary makes it seem like she has moved on and is focused on justice for her son.
-4. The summary does not mention Mrs. Fergus's charity, which is mentioned in the article as a way she has channeled her grief and advocacy for victims' rights.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately represent Mrs. Fergus's views and emotions, and it omits important information about her charity and advocacy work.
+1. The summary states that the mother of a murdered victim has said that the perpetrator is "capable of walking amongst other people."
+2. However, the article states that the perpetrator, Jon Venables, was recalled to prison in 2010 after pleading guilty to downloading and distributing indecent images of children. This suggests that he is not capable of walking amongst other people without posing a risk to society.
+3. The article also states that Mrs. Fergus, the victim's mother, believes that Venables is still capable of harming other people if he is released from prison.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect Mrs. Fergus's views on Venables's capabilities. Instead, the article presents her as being concerned about Venables's potential for harm and advocating for him to remain in prison.
 
 ###Corrected:

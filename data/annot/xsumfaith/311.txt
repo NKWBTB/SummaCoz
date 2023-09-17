@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    msps have voted in favour of a motion to allow the scottish parliament to be included in the holyrood election. 
-
-    Article: 
-    The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
+<Article>
+The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
 The committee formally recommended the scheme to parliament after members voted four to two in favour of it.
 Members also rejected an amendment from Green MSP Andy Wightman noting "concerns" about wider local tax plans.
 The proposals would see the average band E household pay about £2 per week more, and the average household in the highest band (H) about £10 a week more.
@@ -28,21 +25,24 @@ But he said the changes to bands were "not the end of the story in terms of loca
 The Scottish government has started the process of reforming local taxation following on from the Commission on Local Tax Reform, which called for a fairer, more transparent and progressive tax to fund local services.
 Opposition members have accused the government of "tinkering" with the system rather than making bold reforms.
 The Scottish Conservatives support an end to the council tax freeze and increases to the top two bands, but oppose the changes to bands E and F.
-But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so. 
+But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+msps have voted in favour of a motion to allow the scottish parliament to be included in the holyrood election.
+</Summary>
 
-1. The summary states that MSPs have voted in favor of a motion to allow the Scottish Parliament to be included in the Holyrood election, but the article does not mention anything about a motion or a vote on this issue.
-2. The summary mentions that the government wants to raise money for education through local taxes, but the article does not provide any information about the government's plans for education funding.
-3. The summary states that the committee recommended the scheme to parliament, but the article only mentions that the committee formally recommended the scheme to parliament after members voted four to two in favor of it.
-4. The summary mentions that the proposals would see the average band E household pay about £2 per week more, but the article does not provide any information about the specific increases in taxes for different bands.
-5. The summary states that Mr. Mackay has now won the formal backing of the committee for his plans, but the article only mentions that the committee formally recommended the scheme to parliament.
-6. The summary mentions that the committee will compile a report on the issue for parliament, but the article does not mention anything about a report.
-7. The summary states that the government was only saved from a chamber defeat over council tax in September when Labour leader Kezia Dugdale's vote failed to register, but the article does not mention anything about a chamber defeat or Kezia Dugdale's vote.
-8. The summary mentions that Mr. Wightman called for a revaluation of council tax bands, but the article only mentions that he lodged an amendment to the finance secretary's motion to "note concerns" about the fact the council tax base has not been updated since 1991.
-9. The summary states that the Scottish government has started the process of reforming local taxation, but the article does not mention anything about the government's plans for local tax reform.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The article and the summary have different topics:
+The article discusses the Scottish government's proposal to increase council tax for some households to raise money for education, while the summary states that MSPs have voted in favor of including the Scottish Parliament in the Holyrood election.
+2. The article mentions key details that are not present in the summary:
+The article mentions the proposal to change council tax bands, the opposition to the plan, and the potential for a revaluation of council tax bands. None of these details are present in the summary.
+3. The tone of the article and the summary are different:
+The article has a more formal and serious tone, while the summary has a more casual and celebratory tone.
+4. The article is written in a more objective style, while the summary is written in a more subjective style:
+The article presents the facts and quotes from various sources, while the summary expresses a clear opinion in favor of including the Scottish Parliament in the Holyrood election.
+
+Based on these differences, it is clear that the summary is not consistent with the article. The summary is not discussing the same topic as the article, and it does not provide the same level of detail or objective information.
 
 ###Corrected:

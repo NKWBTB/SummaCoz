@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    this year\'s indian premier league begins on wednesday with india\'s top 10 teams, including india, india and india. 
-
-    Article: 
-    The competition finishes on 29 May in the same stadium. There are eight teams taking part, facing each other twice, with the top four sides qualifying for the play-offs.
+<Article>
+The competition finishes on 29 May in the same stadium. There are eight teams taking part, facing each other twice, with the top four sides qualifying for the play-offs.
 You can keep up to date with all the scores, fixtures and results with BBC Sport.
 Leading run-scorers:  Warner (294) Kohli (267), De Villiers (249),
 Most sixes:  Warner (12) De Villiers (12), Kohli (8)
@@ -90,27 +87,21 @@ Eliminator
 Friday, 27 May
 Qualifier 2
 Sunday, 29 May
-Final 
+Final
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+this year\'s indian premier league begins on wednesday with india\'s top 10 teams, including india, india and india.
+</Summary>
 
-Step 1: Identify the inconsistencies
+Explain your reasoning step by step:[/INST]
 
-The summary mentions "this year's Indian Premier League" and "the competition finishes on 29 May," which is not consistent with the article. The article does not mention "this year's Indian Premier League" and provides a different finish date.
+1. The article states that the Indian Premier League (IPL) will feature eight teams, while the summary claims that the league will include India's top 10 teams. This is inconsistent, as there are only eight teams mentioned in the article.
+2. The article mentions the teams participating in the tournament, including their names and the cities they are based in. The summary does not provide any information about the teams or their locations.
+3. The article mentions the tournament's schedule, including the dates and times of the matches. The summary does not provide any information about the schedule.
+4. The article mentions the leading run-scorers, most sixes, highest score in an innings, and most wickets taken. The summary does not provide any information about these statistics.
+5. The article mentions that four current or former England players will take part in the tournament. The summary does not mention this information.
 
-Step 2: Analyze the article
-
-The article provides information about the Indian Premier League (IPL) 2016, including the start and end dates, the number of teams participating, and the format of the tournament. The article also mentions the leading run-scorers, most sixes, highest score in an innings, and most wickets.
-
-Step 3: Identify the inconsistencies with the article
-
-The summary mentions "this year's Indian Premier League" and "the competition finishes on 29 May," which is not consistent with the article. The article does not mention "this year's Indian Premier League" and provides a different finish date (May 29).
-
-Step 4: Explain the inconsistencies
-
-The inconsistencies in the summary are due to the fact that the summary is not based on the article provided. The article provides information about the IPL 2016, but the summary mentions "this year's Indian Premier League" and provides a different finish date. Therefore, the summary is not consistent with the article.
-
-In conclusion, the given summary is not consistent with the article provided. The inconsistencies are due to the fact that the summary is not based on the article and provides incorrect information.
+Therefore, the summary is not consistent with the article. It does not provide accurate information about the teams participating, the tournament schedule, or the statistics mentioned in the article.
 
 ###Corrected:

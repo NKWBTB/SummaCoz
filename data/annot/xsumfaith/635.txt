@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a community hospital in somerset is to be replaced and rebuilt with a # 16m grant from the government. 
-
-    Article: 
-    The money for Bridgwater Community Hospital is part of the coalition's £330m investment for new NHS facilities across England.
+<Article>
+The money for Bridgwater Community Hospital is part of the coalition's £330m investment for new NHS facilities across England.
 Once built, the new hospital will have 30 inpatient beds, a midwifery-led maternity unit, a minor injury unit and X-ray and space for mobile scanners.
 The current hospital was built in 1813, but it has become cramped and outdated.
 The total cost of the project is £33m and the remaining balance will be paid for by NHS Somerset and Somerset Partnership NHS Foundation Trust.
@@ -18,31 +15,26 @@ Work has also got under way on the new Jubilee Building at Musgrove Park Hospita
 Dr Donal Hynes, a Bridgwater GP and medical director at Somerset Primary Care Trust, said: "It will make a huge difference for me and my relationship with my patients.
 "This is a great vote of confidence of the developments that have been achieved in Somerset where GPs, nurses, and therapists have got together to deliver a whole package of care that can be delivered in a one-stop shop setting."
 Somerset PCT hopes to build the new hospital on land at Bowers Lane, which will depend on planning permission.
-The aim is to get the hospital finished by autumn 2014. 
+The aim is to get the hospital finished by autumn 2014.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a community hospital in somerset is to be replaced and rebuilt with a # 16m grant from the government.
+</Summary>
 
-1. The summary states that the community hospital in Somerset is to be replaced with a #16m grant from the government.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-However, the article does not mention anything about the hospital being replaced. Instead, it talks about the government providing a #16m grant for the development of a new hospital in Somerset.
+1. The article states that the money for the Bridgwater Community Hospital is part of the coalition's £330m investment for new NHS facilities across England. This means that the hospital will be funded by the government, not with a £16m grant as stated in the summary.
 
-2. The summary states that the new hospital will have 30 inpatient beds, a midwifery-led maternity unit, a minor injury unit, and X-ray and space for mobile scanners.
+2. The article also mentions that the total cost of the project is £33m, and the remaining balance will be paid for by NHS Somerset and Somerset Partnership NHS Foundation Trust. This contradicts the summary, which states that the hospital will be rebuilt with a £16m grant from the government.
 
-The article does not mention the specific details of the new hospital's features, other than mentioning that it will have a minor injury unit.
+3. The article quotes Matron Sue Taylor as saying that the current hospital is "very old and in the summer it's very, very hot. In the winter it's quite cold, there's lots of maintenance, lots of running repairs - it's a poor old tired building now." This suggests that the hospital is in need of replacement, but the summary does not convey this information.
 
-3. The summary states that the current hospital was built in 1813 and has become cramped and outdated.
+4. The article also mentions that three out of Somerset's 13 community hospitals have been replaced in the past five years, which suggests that the replacement of Bridgwater Community Hospital is part of a larger effort to modernize NHS facilities in the area. The summary does not provide this context.
 
-The article does not mention the age of the current hospital or describe it as cramped and outdated.
+5. Finally, the article quotes Dr Donal Hynes as saying that the new hospital will make a "huge difference" for him and his patients. This suggests that the hospital is being rebuilt to improve patient care, but the summary does not convey this information.
 
-4. The summary states that the total cost of the project is £33m, and the remaining balance will be paid for by NHS Somerset and Somerset Partnership NHS Foundation Trust.
-
-The article does not mention the total cost of the project or the funding sources.
-
-5. The summary quotes Matron Sue Taylor as saying that the current hospital is "very old" and "in the summer it's very, very hot" and that they need something more modern.
-
-The article does not include this quote from Matron Sue Taylor.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary provides specific details about the new hospital and the current hospital that are not present in the article.
+Overall, the summary is not consistent with the article because it does not accurately convey the funding source, the condition of the current hospital, the context of the replacement, or the benefits of the new hospital.
 
 ###Corrected:

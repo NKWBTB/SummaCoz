@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a picture on the memorial website for abu khdeir shows an israeli flag with two flowers called " blood of the maccabees " in israel , a symbol often used on memorial day , when the country honors its soldiers killed in the line of duty and victims of terrorism . 
-indor 's organization wrote a letter to the national insurance institute of israel -- the country 's social security administration , which maintains the memorial site -- demanding that abu khdeir 's name be removed from the memorial wall .  
-
-    Article: 
-    jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
+<Article>
+jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
 mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday .
 abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
 a picture on the memorial website for abu khdeir shows an israeli flag with two flowers called " blood of the maccabees " in israel , a symbol often used on memorial day , when the country honors its soldiers killed in the line of duty and victims of terrorism .
@@ -22,16 +18,22 @@ indor 's organization wrote a letter to the national insurance institute of isra
 indor said if the teenager 's name is not taken off , members of almagor want their own family members ' names removed .
 on wednesday , israel radio reported that the national insurance institute of israel will remove abu khdeir 's name from the memorial following his father 's complaints .
 the teen 's name has already been removed from the organization 's website , which lists the names on the memorial wall .
-a panel of judges began hearing evidence in january against the three suspects in abu khdeir 's killing . 
+a panel of judges began hearing evidence in january against the three suspects in abu khdeir 's killing .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+a picture on the memorial website for abu khdeir shows an israeli flag with two flowers called " blood of the maccabees " in israel , a symbol often used on memorial day , when the country honors its soldiers killed in the line of duty and victims of terrorism . 
+indor 's organization wrote a letter to the national insurance institute of israel -- the country 's social security administration , which maintains the memorial site -- demanding that abu khdeir 's name be removed from the memorial wall . 
+</Summary>
 
-1. The summary states that the name of Mohammed Abu Khdeir will be removed from an Israeli memorial commemorating fallen soldiers and victims of terrorism, but the article states that his name has already been removed from the memorial following his father's complaints.
-2. The summary mentions that Abu Khdeir's family and Almagor, an organization that works on behalf of victims of terror in Israel, objected to his inclusion on the memorial wall, but the article only mentions that Abu Khdeir's father objected to his son's name being listed on the wall.
-3. The summary states that Almagor described Abu Khdeir's death as a rogue attack and said he is not a terror victim, but the article does not mention this.
-4. The summary mentions that Indor, the CEO of Almagor, wrote a letter to the National Insurance Institute of Israel demanding that Abu Khdeir's name be removed from the memorial wall, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+Based on the provided article and summary, there are several inconsistencies:
+
+1. The summary states that the teenager's name appears on the memorial website, but the article states that his name has been removed from the website.
+2. The summary mentions that Indor's organization demanded that Abu Khdeir's name be removed from the memorial wall, but the article states that the name was removed following the father's complaints.
+3. The summary does not mention the controversy surrounding Abu Khdeir's inclusion on the memorial wall, while the article provides details about the family's objections and Almagor's opposition.
+
+Therefore, the summary is not consistent with the article. The inconsistencies suggest that the summary was not carefully written and may have been based on incomplete or inaccurate information.
 
 ###Corrected:

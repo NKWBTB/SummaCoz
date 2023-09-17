@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    university of manchester researchers have revealed an hd dark matter map of mysterious dark matter has been produced .
-it is the first in a series of maps of the cosmos that will eventually allow a 3d view of dark matter across one eighth of the night sky .
-the map was created using data captured by the dark energy camera , a 570-megapixel imaging device that is the primary instrument for the dark energy survey . 
-
-    Article: 
-    the largest single high-definition map of mysterious dark matter has been produced .
+<Article>
+the largest single high-definition map of mysterious dark matter has been produced .
 it is the first in a series of maps of the cosmos that will eventually allow a 3d view of dark matter across one eighth of the night sky .
 and the map should allow astronomers to study how galaxies formed in the universe .
 university of manchester researchers have revealed an hd dark matter map ( shown ) .
@@ -53,17 +48,27 @@ it will be completed by 2018 , mapping dark matter of an eighth of the sky in th
 dark matter , the mysterious substance that makes up 85 per cent of all matter in the universe , is invisible to even the most sensitive astronomical instruments because it does not emit or block light .
 but its effects can be seen using a technique called gravitational lensing - studying the distortion that occurs when the gravitational pull of dark matter bends light around distant galaxies .
 understanding how the clumpiness of dark matter changes with time will reveal the nature of the enigmatic dark energy , which is the ultimate goal of the survey .
-the dark matter map released makes use of early des observations and covers only about three percent of the area of sky des will document over its five-year mission . 
+the dark matter map released makes use of early des observations and covers only about three percent of the area of sky des will document over its five-year mission .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+university of manchester researchers have revealed an hd dark matter map of mysterious dark matter has been produced .
+it is the first in a series of maps of the cosmos that will eventually allow a 3d view of dark matter across one eighth of the night sky .
+the map was created using data captured by the dark energy camera , a 570-megapixel imaging device that is the primary instrument for the dark energy survey .
+</Summary>
 
-1. The summary states that the map shows "clumps of mystery particles across 0.4 per cent of the sky." However, the article states that the map shows 150 times the area of the full moon, which is about 0.4 per cent of the whole sky. This implies that the map shows a much larger area than the summary suggests.
-2. The summary mentions that the goal of the project is to map 12.5 per cent of the entire sky, while the article states that the goal is to map dark matter over an eighth of the sky. This discrepancy suggests that the summary may not accurately reflect the scope of the project.
-3. The summary states that the map shows "large filaments of matter along which visible galaxies and galaxy clusters lie and cosmic voids where very few galaxies reside." However, the article does not mention anything about filaments or voids.
-4. The summary mentions that the team at Manchester analyzed 130 million separate telescope images of galaxies to make the map, while the article states that the survey uses the 13ft (four meters) Victor M. Blanco telescope located at the Cerro Tololo Inter-American Observatory (CTIO) in Chile. This discrepancy suggests that the summary may not accurately reflect the methods used in the project.
-5. Finally, the summary states that the project is run overall as part of the five-year dark energy survey (DES), while the article states that the survey will be completed by 2018, mapping dark matter of an eighth of the sky in the process. This discrepancy suggests that the summary may not accurately reflect the timeline of the project.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations that make it inconsistent with the article.
+1. The summary states that the map is the first in a series of maps that will allow a 3D view of dark matter across one-eighth of the night sky. However, the article states that the map covers only about three percent of the area of sky that the Dark Energy Survey (DES) will document over its five-year mission. This indicates that the summary is not consistent with the article, as it implies that the map is more comprehensive than it actually is.
+
+2. The summary mentions that the map was created using data captured by the Dark Energy Camera, a 570-megapixel imaging device. However, the article does not mention the Dark Energy Camera as the instrument used to create the map. This suggests that the summary may be inconsistent with the article, as it implies that the map was created using a different instrument.
+
+3. The summary states that the map shows clumps of mystery particles across 0.4 percent of the sky. However, the article states that the map shows about 150 times the area of the full moon, which is about 0.4 percent of the whole sky. This suggests that the summary may be inconsistent with the article, as it implies that the map is more detailed than it actually is.
+
+4. The summary mentions that the map will allow astronomers to study how galaxies formed in the universe. However, the article does not mention this as one of the goals of the survey. This suggests that the summary may be inconsistent with the article, as it implies that the map is being used for a purpose that is not mentioned in the article.
+
+5. The summary states that the map is the first in a series of maps that will eventually allow a 3D view of dark matter across one-eighth of the night sky. However, the article states that the DES will map 12.5 percent of the entire sky, not one-eighth. This suggests that the summary may be inconsistent with the article, as it implies that the map is more comprehensive than it actually is.
+
+In conclusion, the summary is not consistent with the article in several ways. It implies that the map is more comprehensive and detailed than it actually is, and it mentions purposes for the map that are not mentioned in the article. Therefore, the summary should be revised to be more consistent with the article.
 
 ###Corrected:

@@ -1,25 +1,33 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the number of short-finned pilot whales who have died after they were stranded on a beach in the indian state of tamil nadu has risen to 73, officials said. 
-
-    Article: 
-    Thirty-six whales were rescued and pushed back into the sea at Tuticorin on Tuesday, but 28 of them floated back to the shore and died on Wednesday.
+<Article>
+Thirty-six whales were rescued and pushed back into the sea at Tuticorin on Tuesday, but 28 of them floated back to the shore and died on Wednesday.
 Earlier, 45 whales died after 81 of the animals were stranded on Monday.
 The last time such an incident occurred in Tuticorin was in 1973 when 147 whales died.
 Local fishermen, helped by officials, have been using mechanised boats to float the stranded whales back into the sea, but many of the animals have returned to the shore, BBC Hindi's Imran Qureshi reports.
 "This is a well known phenomenon. When there is mass stranding, whales return ashore. Pilot whales are very social animals and they live in groups. They are very aware that some of their group members are in distress on the shore, possibly dead, so they don't wish to go back into the sea," whale expert Dr Kumaran Sathasivam said.
-The dead whales are being buried near the shore at Tuticorin, officials say. 
+The dead whales are being buried near the shore at Tuticorin, officials say.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain the reasoning step by step.
+<Summary>
+the number of short-finned pilot whales who have died after they were stranded on a beach in the indian state of tamil nadu has risen to 73, officials said.
+</Summary>
 
-1. The summary states that the number of short-finned pilot whales who have died after being stranded on a beach in Tamil Nadu has risen to 73.
-2. However, the article states that 36 whales were rescued and pushed back into the sea on Tuesday, but 28 of them floated back to the shore and died on Wednesday. This means that the total number of dead whales is 64 (45 + 28), not 73.
-3. Therefore, the summary is not consistent with the article because it states a higher number of dead whales than the actual number reported in the article.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it overstates the number of dead whales.
+1. The article states that "28 of them floated back to the shore and died on Wednesday."
+2. The summary states that "the number of short-finned pilot whales who have died after they were stranded on a beach in the Indian state of Tamil Nadu has risen to 73."
+3. The article does not mention the number 73 anywhere, and the number of whales that died on Wednesday is 28, not 73.
+4. Therefore, the summary is not consistent with the article because it provides a different number of deaths than the one reported in the article.
+5. The article states that "the last time such an incident occurred in Tuticorin was in 1973 when 147 whales died."
+6. The summary does not mention the year or the number of whales that died in the previous incident.
+7. Therefore, the summary is not consistent with the article because it does not provide the same information as the article regarding the previous incident.
+8. The article states that "local fishermen, helped by officials, have been using mechanised boats to float the stranded whales back into the sea, but many of the animals have returned to the shore."
+9. The summary does not mention the use of mechanised boats or the fact that many of the whales returned to the shore.
+10. Therefore, the summary is not consistent with the article because it does not provide the same information as the article regarding the efforts to rescue the whales.
+
+In conclusion, the summary is not consistent with the article because it provides different information regarding the number of deaths and the previous incident, and it does not provide the same information as the article regarding the efforts to rescue the whales.
 
 ###Corrected:

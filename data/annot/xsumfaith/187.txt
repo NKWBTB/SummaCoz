@@ -1,24 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hartlepool united have signed midfielder gary mckeston on a one-year deal. 
-
-    Article: 
-    The 34-year-old rejoined the New Lawn side in July 2016 and was ever-present as they won promotion to League Two last season.
+<Article>
+The 34-year-old rejoined the New Lawn side in July 2016 and was ever-present as they won promotion to League Two last season.
 He made 144 appearances in his first spell with the club before spending the 2015-16 season with Gateshead.
-Mark Cooper has signed defenders Lee Collins and Callum Evans and midfielder Reece Brown as they prepare for their first season in the Football League. 
+Mark Cooper has signed defenders Lee Collins and Callum Evans and midfielder Reece Brown as they prepare for their first season in the Football League.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+hartlepool united have signed midfielder gary mckeston on a one-year deal.
+</Summary>
 
-1. The summary states that Hartlepool United signed midfielder Gary McKeston on a one-year deal.
-2. However, the article does not mention anything about Gary McKeston joining Hartlepool United.
-3. Instead, the article mentions the signings of defenders Lee Collins and Callum Evans and midfielder Reece Brown.
-4. Therefore, the summary is not consistent with the article because it mentions a signing that is not mentioned in the article.
-5. The article only mentions the signings of three players (Lee Collins, Callum Evans, and Reece Brown), but the summary mentions a fourth player (Gary McKeston) who is not listed in the article.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it mentions a signing that is not mentioned in the article.
+1. The article states that the player rejoined the club in July 2016, which means the signing took place in the middle of the 2016-2017 season.
+2. The summary only mentions a one-year deal, which is not consistent with the article as the player rejoined the club in the middle of a season, not at the start of a new one.
+3. The article mentions that the player made 144 appearances in his first spell with the club, which suggests that he has already played for the club before and is not a new signing.
+4. The summary does not mention any of these details, which means it is not a consistent summary of the article.
 
 ###Corrected:

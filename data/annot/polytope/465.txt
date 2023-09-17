@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nina moric , 38 , posted photos of heavy bruising on her instagram account . 
- italian media reported that ms moric tried to take her own life . 
- ms moric told her fans that she was recovering at home after being treated in hospital on saturday night . 
-
-    Article: 
-    a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
+<Article>
+a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
 nina moric , 38 , posted several photographs of heavy bruising on her arms on her instagram account which has more than 40,000 users .
 italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend in milan .
 nina moric , pictured , took to instagram to deny claims that she tried to take her own life over the weekend
@@ -33,17 +28,23 @@ she was once married to famous paparazzi snapper fabrizio corona , 41 , who ende
 corona , the ` king ' of italy 's paparazzi , was jailed for blackmailing celebs with compromising photographs .
 corona 's scoops helped fuel the celebrity tv culture driven by former prime minister silvio berlusconi 's channels and publications .
 he claimed he never blackmailed celebrities he snapped , merely offering them first option to buy the photos at the rate he would have sold them to publications .
-but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . ' 
+but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+nina moric , 38 , posted photos of heavy bruising on her instagram account . 
+ italian media reported that ms moric tried to take her own life . 
+ ms moric told her fans that she was recovering at home after being treated in hospital on saturday night .
+</Summary>
 
-1. The summary states that Nina Moric tried to take her own life, while the article states that she collapsed due to low blood pressure and was not attempting suicide.
-2. The summary reports that Italian media claimed Moric tried to take her own life in 2009, but the article does not mention this.
-3. The summary states that Moric's boyfriend, Luigi Mario Favoloso, suggested that she tried to commit suicide, but the article does not mention this quote from Favoloso.
-4. The summary states that Moric posted photographs of her injuries on her Instagram account, but the article does not mention this.
-5. The summary states that Moric denied claims that she tried to take her own life, while the article states that she did not comment on the incident.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary contains several inaccuracies and sensationalized details that are not supported by the article. It is important to carefully read and analyze the information in the article to ensure accuracy and consistency in summaries.
+1. The summary states that Italian media reported that Nina Moric tried to take her own life, but the article states that she collapsed due to low blood pressure and was treated in hospital.
+2. The summary does not mention that Nina Moric denied the suicide claims and explained that she was recovering at home after being treated in hospital.
+3. The summary does not mention that Nina Moric's boyfriend Luigi Mario Favoloso suggested that she had tried to commit suicide, but the article states that he was in Naples at the time of the accident.
+4. The summary does not mention that Italian media had previously reported that Nina Moric had tried to take her own life in 2009 after taking an overdose.
+
+Overall, the summary does not accurately represent the information in the article, as it does not include key details such as Nina Moric's denial of the suicide claims and the fact that she was treated in hospital for low blood pressure.
 
 ###Corrected:

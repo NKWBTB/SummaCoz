@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    norwegian international has been on the bench for long periods .
-tammy abraham smashes chelsea into the lead with a fierce drive into the top corner .
-christian haug goes up for the ball under pressure from chelsea forwards during the youth cup final . 
-
-    Article: 
-    chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
+<Article>
+chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
 dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
 sportsmail was at the academy stadium to see how the youngsters got on ...
 tammy abraham smashes chelsea into the lead with a fierce drive into the top corner
@@ -51,20 +46,22 @@ charly musonda : the belgian playmaker , the only overseas man in the starting x
 isaiah brown : said to be interesting jose mourinho but will not want to dwell on his big moment early on when he blasted over bar when unmarked on the edge of the box .
 miss aside , was a constant menace .
 kasey palmer ( abraham , 67 , 16 ) : on for abraham and showed explosive pace straight away but was let down by a hurried attempt at a finish which flew over the bar .
-isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward 
+isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the information provided in the article, there are several reasons why the summary is not consistent with the article:
+<Summary>
+norwegian international has been on the bench for long periods .
+tammy abraham smashes chelsea into the lead with a fierce drive into the top corner .
+christian haug goes up for the ball under pressure from chelsea forwards during the youth cup final .
+</Summary>
 
-1. The summary states that Christian Haug was on the bench for long periods, but the article does not mention this. In fact, the article states that Haug started the game and played the full 90 minutes.
-2. The summary mentions that Kean Bryan tracked the run of Dominic Solanke, but the article does not mention this. Bryan did play in the game, but he was injured after 36 minutes and did not feature for the rest of the match.
-3. The summary states that Aaron Nemane scored twice in the first leg of the semi-final, but the article does not mention this. Nemane did play in the game, but he did not score any goals.
-4. The summary mentions that Isaac Buckley-Ricketts produced a measured finish to bring City level, but the article does not mention this. Buckley-Ricketts did play in the game, but he did not score any goals.
-5. The summary states that Brandon Barker created a fine chance for Garcia with a trademark surge, but the article does not mention this. Barker did play in the game, but he did not create any chances for his teammates.
-6. The summary mentions that Jay Dasilva was fortunate to escape at least a caution with a from-behind challenge in the first half, but the article does not mention this. Dasilva did play in the game, but he did not receive any cautions or commit any fouls.
-7. The summary states that Ruben Sammut covered his back four expertly and kickstarted a number of breaks as City pressed, but the article does not mention this. Sammut did play in the game, but he did not have a significant impact on the match.
-8. The summary mentions that Tammy Abraham smashed Chelsea into the lead with a fierce drive into the top corner, but the article does not mention this. Abraham did score a goal for Chelsea, but it was not a fierce drive into the top corner.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes several details that are not mentioned in the article, and it omits other details that are mentioned in the article.
+1. The summary is not consistent with the article because it does not accurately reflect the content of the article.
+2. The summary states that "norwegian international has been on the bench for long periods," but the article does not mention any Norwegian international player.
+3. The summary mentions "tammy abraham smashes chelsea into the lead with a fierce drive into the top corner," which is correct, but the article provides more details about the game, such as the performance of other players and the score.
+4. The summary states "christian haug goes up for the ball under pressure from chelsea forwards during the youth cup final," but the article does not mention any player named Christian Haug.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and does not provide a complete summary of the article's content.
 
 ###Corrected:

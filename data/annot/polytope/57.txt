@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    this picture has shows western sydney blanketed by floodwaters and hail on saturday
- the ses warned flood levels could be raised again with more rain
- ses spokeswoman stephanie wills said the organisation is concerned that more storms would hamper clean-up efforts , with 4,409 of 24,196 jobs still needing to be completed 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -64,19 +59,25 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+this picture has shows western sydney blanketed by floodwaters and hail on saturday
+ the ses warned flood levels could be raised again with more rain
+ ses spokeswoman stephanie wills said the organisation is concerned that more storms would hamper clean-up efforts , with 4,409 of 24,196 jobs still needing to be completed
+</Summary>
 
-1. The summary states that the Ses warned flood levels could be raised again with more rain, but the article does not mention anything about the Ses issuing such a warning.
-2. The summary mentions that the Ses is concerned that more storms would hamper clean-up efforts, but the article does not mention this concern.
-3. The summary states that the Ses was particularly worried about the effect more wild weather would have on the hunter region, but the article does not mention this.
-4. The summary mentions that Sydney was hit by more wild weather on the weekend, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that the Ses warned flood levels could be raised again with more rain, but the article does not mention anything about the Ses warning of flood levels.
+2. The summary mentions that Ses spokeswoman Stephanie Wills is concerned that more storms would hamper clean-up efforts, but the article does not quote her as saying this.
+3. The summary states that the Ses is worried about the effect more wild weather would have on the hard-hit hunter region, but the article does not mention the hunter region.
+4. The summary mentions a freak hail storm coming down on Saturday, but the article does not mention any hail storm.
 5. The summary states that the weather system appeared to be moving quickly, but the article does not mention this.
-6. The summary mentions that the Bureau of Meteorology said it was too early to tell how severe the weather system would be, but the article does not mention this.
-7. The summary states that the Ses would spend the next few days trying to complete as many jobs as possible before another severe storm hits, but the article does not mention this.
+6. The summary mentions that the main impacts of intense rainfall and strong winds will be on coastal areas in the state's north-east, but the article does not mention this.
+7. The summary mentions that the Ses would spend the next few days trying to complete as many jobs as possible before the next system hits, but the article does not mention this.
 
-Overall, the summary contains information that is not present in the article, and some of the information in the summary is inconsistent with the article.
+Therefore, the summary is not consistent with the article as it contains information that is not present in the article, and omits information that is present in the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
-klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
-jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer 
-
-    Article: 
-    jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
+<Article>
+jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
 klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
 the colourful 47-year-old coach has been linked with several other english teams in the past , including liverpool and arsenal , and has a long-standing interest in working here .
 jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer
@@ -64,17 +59,23 @@ klopp was under contract until 2018 but his relationship with his squad is belie
 ` i believe this is the right decision at the right time , ' he added .
 ` i just wanted to make my decision known now so that the club can plan for the future .
 in the last few years , some player decisions were made late and there was no time to react . '
-thomas tuchel , klopp 's former youth-team coach at mainz , is set to succeed him at dortmund after he was overlooked for the managerial vacancy at hamburg on wednesday in favour of bruno labbadia . 
+thomas tuchel , klopp 's former youth-team coach at mainz , is set to succeed him at dortmund after he was overlooked for the managerial vacancy at hamburg on wednesday in favour of bruno labbadia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
+klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
+jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer
+</Summary>
 
-1. The summary states that Klopp will replace Manuel Pellegrini at Manchester City, but the article states that Pellegrini is under pressure but Klopp is unlikely to replace him.
-2. The summary states that Klopp has been linked with several English teams, including Liverpool and Arsenal, but the article does not mention any specific teams other than Bayern Munich.
-3. The summary states that Klopp will leave Borussia Dortmund this summer, but the article states that Klopp has not had any contact with other clubs and is open to offers.
-4. The summary states that Klopp has built an exciting team to challenge Bayern's dominance, but the article does not mention anything about Klopp's team or his successes with Borussia Dortmund.
-5. The summary states that Klopp is the German manager of the year in 2011 and 2012, but the article does not mention any specific awards or achievements.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the article, such as Klopp replacing Pellegrini at Manchester City, and leaves out important details, such as Klopp's lack of contact with other clubs and his successes with Borussia Dortmund.
+1. The summary states that Jürgen Klopp will leave Borussia Dortmund at the end of the season, and that he is the bookmakers' favorite to replace Manuel Pellegrini at Manchester City.
+2. However, the article states that Klopp is unlikely to replace Pellegrini at Manchester City, and that there are no plans to make such a move.
+3. Therefore, the summary is not consistent with the article, as it suggests that Klopp will leave Dortmund to join Manchester City, while the article states that this is unlikely.
+4. The article also mentions that Klopp has not had any contact with other clubs, and that he is open to offers, which contradicts the summary's statement that Klopp has been installed as the bookmakers' favorite to replace Pellegrini.
+5. Additionally, the article states that Klopp's relationship with his squad has gone stale, and that his decision to leave is not unexpected, which further contradicts the summary's statement that Klopp's departure is a surprise.
+
+In conclusion, the summary is not consistent with the article, as it misrepresents Klopp's future plans and the likelihood of him joining Manchester City. The article provides a more accurate account of Klopp's situation and his reasons for leaving Dortmund.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a 24-year-old man has died after being shot in a sheffield street. 
-
-    Article: 
-    The victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre.
+<Article>
+The victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre.
 People living in the area said the man was either in, or close to, a black Mercedes car he had been driving when he was shot.
 Officers, called to the scene at about 13:35 GMT, found the man with a gunshot wound to his chest. Armed police sealed off the area.
 The victim was taken to Northern General hospital but died from his injuries.
@@ -16,23 +13,23 @@ Many came out of the house to try to help him after hearing the shot, neighbours
 There have been a number of shootings in Sheffield in recent weeks, although all the previous incidents have been in the north of the city and not close to the Upperthorpe area.
 On Monday, a 25-year-old man was seriously injured when he was shot in the street in the Shiregreen area.
 Earlier this month, an elderly couple were left shocked when shots were fired through their living room window in the Southey Green area - an incident police believe was a case of mistaken identity.
-In January shots were fired at houses in two separate incidents in the same street in High Green. 
+In January shots were fired at houses in two separate incidents in the same street in High Green.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain the reasons why the provided summary is not consistent with the article. Here are the steps:
+<Summary>
+a 24-year-old man has died after being shot in a sheffield street.
+</Summary>
 
-Step 1: Identify the main points of the summary:
-The summary states that a 24-year-old man died after being shot in a Sheffield street.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article:
-The article states that the victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre. The victim was found with a gunshot wound to his chest, and he died from his injuries. The article also mentions that armed police sealed off the area and that there have been a number of shootings in Sheffield in recent weeks.
+1. The summary states that a 24-year-old man died after being shot in a Sheffield street.
+2. The article states that the victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe, close to the city centre.
+3. The summary does not mention the location of the shooting, only that it occurred in a Sheffield street.
+4. The article states that the victim was found with a gunshot wound to his chest and that armed police sealed off the area.
+5. The summary does not mention any of these details.
+6. The article states that the victim was taken to Northern General hospital but died from his injuries.
+7. The summary does not mention the victim's fate or any details about the hospital.
 
-Step 3: Identify the inconsistencies:
-The inconsistency between the summary and the article is that the summary states that the man died after being shot in a Sheffield street, while the article states that the victim was fatally injured outside a property on Daniel Hill Terrace, Upperthorpe. The article does not mention the man dying in a street.
-
-Step 4: Analyze the reasons for the inconsistency:
-The inconsistency is likely due to the fact that the summary is a brief summary of the article's main points, and it does not provide the full details of the article. The summary may have left out certain information, such as the location of the shooting, in order to provide a brief overview of the article.
-
-In conclusion, the provided summary is not consistent with the article because it does not provide the full details of the article, such as the location of the shooting. The summary is a brief overview of the article's main points, and it does not include all of the information provided in the article.
+Therefore, the summary is not consistent with the article because it does not provide any details about the location of the shooting, the victim's injuries, or the victim's fate. The summary only states that a 24-year-old man died after being shot in a Sheffield street, which is not a complete or accurate representation of the events described in the article.
 
 ###Corrected:

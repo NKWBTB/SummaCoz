@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
-van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
-van gaal said : ' most of the players are fit but being fit for me is different ' . 
-
-    Article: 
-    manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+<Article>
+manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
 van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
 ` most of the players are fit but being fit for me is different , ' van gaal said .
 robin van persie will not return to the fray for manchester united against manchester city on sunday
@@ -48,19 +43,22 @@ herrera will be hoping to continue the fine form that has seen him become one of
 van gaal admitted he is looking forward to sampling the derby atmosphere at old trafford , as he takes on city with home advantage for the first time since arriving at the club .
 ` when i see the fans of man utd , they are supporting us in a marvellous way , i think , ' van gaal said .
 ` after matches , i give our fans a big compliment , not because i have to , because then i would n't say it .
-i say it because i feel it . ' 
+i say it because i feel it . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
+van gaal said : ' most of the players are fit but being fit for me is different ' .
+</Summary>
 
-1. The summary states that Louis van Gaal said he has been dreaming of beating Manchester City, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that Robin van Persie will not return to the fray for Manchester United against Manchester City on Sunday, but the article does not mention this.
-
-3. The summary states that van Gaal said most of the players are fit, but being fit for him is different, but the article does not mention this.
-
-4. The summary states that van Gaal ruled out a potential return for Luke Shaw, but the article does not mention this.
-
-The article only mentions that van Gaal has been dreaming of beating Manchester City, but it does not mention the other statements made in the summary. Therefore, the summary is not consistent with the article.
+1. The summary states that Louis van Gaal has been dreaming of beating rivals City in Sunday's derby at Old Trafford, but will have to do so without Robin van Persie.
+2. However, the article states that Van Persie said he was fit to feature in the game against City on Sunday after ankle trouble, but Van Gaal has ruled him out.
+3. The article quotes Van Gaal as saying, "Most of the players are fit, but being fit for me is different."
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect Van Gaal's statement about Van Persie's fitness. The article states that Van Persie is not fit enough to play, while the summary suggests that he is fit to feature.
+5. Additionally, the summary does not include other important details from the article, such as Van Gaal's comments about the derby atmosphere at Old Trafford and his desire to win the game to move up the table.
+6. Overall, the summary is not a accurate representation of the article and does not provide a complete picture of Van Gaal's comments.
 
 ###Corrected:

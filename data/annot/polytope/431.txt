@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stuart lancaster must be free to pick his best players .  matt giteau and drew mitchell for toulon .  toulon 's steffon armitage takes on leinster in champions cup semi-final .  
-
-    Article: 
-    congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
+<Article>
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas .
 it leaves england looking old-fashioned and they need to react .
 stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade .
 if roy hodgson 's star names moved to bayern munich or barcelona , would the fa tell him not to pick them ?
@@ -42,16 +39,21 @@ you simply ca n't let the rfu or premier rugby tie your hands behind your back a
 at toulon , they 've got bryan habana playing for south africa and leigh halfpenny playing for wales .
 they 're among the best players in the world .
 it 's just crazy and misguided not to make any englishman available for selection .
-bryan habana plays for toulon but the springboks have continued to select the winger for test matches 
+bryan habana plays for toulon but the springboks have continued to select the winger for test matches
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+stuart lancaster must be free to pick his best players .  matt giteau and drew mitchell for toulon .  toulon 's steffon armitage takes on leinster in champions cup semi-final . 
+</Summary>
 
-1. The summary states that Stuart Lancaster should be free to pick his best players, including Matt Giteau and Drew Mitchell, regardless of where they play. However, the article argues that England should not select players who are playing overseas.
-2. The summary mentions Steffon Armitage as a top-class performer for Toulon, but the article does not mention him.
-3. The summary suggests that England should select their best starting XV, regardless of where the players are from. However, the article argues that England should prioritize selecting players who are playing for English clubs.
-4. The summary states that Jonny Wilkinson moved to France and became even better, which supports the idea that players can improve their game by playing overseas. However, the article argues that England should not select players who are playing overseas.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary and the article have different perspectives on the selection of players for the England national team. While the summary emphasizes the importance of selecting the best players, regardless of their location, the article argues that England should prioritize selecting players who are playing for English clubs.
+1. The summary mentions Stuart Lancaster being free to pick his best players, which is supported by the article. However, the summary only mentions Matt Giteau and Drew Mitchell, who play for Toulon, as examples of players that Lancaster should select. The article, on the other hand, discusses the merits of selecting overseas players, including those playing for Toulon, and criticizes the English Rugby Football Union (RFU) for not allowing Lancaster to do so.
+2. The summary does not mention Steffon Armitage, who is featured prominently in the article. Armitage is a Toulon player who has improved significantly since moving to France, and the article argues that he should be selected for the English national team.
+3. The summary does not mention the article's central argument that the RFU should allow Lancaster to select the best players, regardless of their club affiliation. Instead, the summary focuses solely on the idea that Lancaster should be free to pick his best players.
+4. The article discusses the potential benefits of selecting overseas players, including their improved form and the fact that they are playing against top-level competition. The summary does not address these points.
+
+In conclusion, the summary is not consistent with the article because it does not accurately represent the article's central arguments and focuses solely on a limited aspect of the issue. The summary should be revised to better reflect the content of the article.
 
 ###Corrected:

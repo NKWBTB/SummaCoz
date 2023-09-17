@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    leonardo ulloa\'s injury-time penalty rescued a point for leicester in a controversial encounter with west ham as the foxes went eight points clear at the top of the premier league. 
-
-    Article: 
-    Jamie Vardy's crisp finish from a lightning break gave Leicester the lead on 18 minutes - but he was then sent off after getting a second yellow card for diving when he tangled with Angelo Ogbonna early in the second half.
+<Article>
+Jamie Vardy's crisp finish from a lightning break gave Leicester the lead on 18 minutes - but he was then sent off after getting a second yellow card for diving when he tangled with Angelo Ogbonna early in the second half.
 Referee Jonathan Moss made himself even more unpopular when he awarded West Ham a penalty with six minutes left. There had been pushing and pulling in both penalty areas but he decided to punish Wes Morgan for pulling back Winston Reid at a corner.
 Analysis: MOTD2 pundits on referee's 'mind-boggling inconsistencies'
 Substitute Andy Carroll slotted home to end Leicester's run of 574 minutes without conceding a league goal and Aaron Cresswell looked to have opened the door to the Foxes' title rivals Spurs with a stunning left-footed finish two minutes later.
@@ -75,23 +72,21 @@ Substitution, West Ham United. Manuel Lanzini replaces Mark Noble.
 Winston Reid (West Ham United) hits the right post with a right footed shot from very close range. Assisted by Dimitri Payet with a cross following a corner.
 Corner,  West Ham United. Conceded by Robert Huth.
 Substitution, Leicester City. Leonardo Ulloa replaces Shinji Okazaki.
-Foul by Michail Antonio (West Ham United). 
+Foul by Michail Antonio (West Ham United).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that Leonardo Ulloa rescued a point for Leicester with an injury-time penalty, but the article does not support this claim.
+<Summary>
+leonardo ulloa\'s injury-time penalty rescued a point for leicester in a controversial encounter with west ham as the foxes went eight points clear at the top of the premier league.
+</Summary>
 
-2. The article does not mention Ulloa scoring a penalty or Leicester earning a point from one. Instead, it describes how West Ham scored two goals, one of which was controversially awarded after a push by Winston Reid on Wes Morgan.
+Explain your reasoning step by step:[/INST]
 
-3. The summary also states that Leicester was awarded a penalty, which is not true. The article only mentions a penalty being awarded to West Ham.
+The provided summary is not consistent with the article because:
 
-4. The summary suggests that referee Jonathan Moss made several controversial decisions, including awarding a penalty to West Ham and sending off Jamie Vardy for simulation. The article supports this claim, describing how Moss's decisions were questionable and inconsistent.
+1. The summary mentions that Leonardo Ulloa scored an injury-time penalty to rescue a point for Leicester, while the article states that Ulloa scored the equalizing goal in injury time, but does not mention a penalty.
+2. The summary states that the game was a controversial encounter, while the article provides a detailed account of the referee's questionable decisions and the inconsistencies in his officiating.
+3. The summary does not mention the Vardy's red card and the subsequent changes in the game's dynamics, which is a significant event described in the article.
 
-5. The summary implies that Leicester was the better team and deserved to win, but the article does not support this claim. Instead, it describes how West Ham dominated the game after Vardy's sending off and had several good chances to score.
-
-6. The summary states that Leicester's fans were angry with referee Moss at the end of the game, but the article does not mention this. Instead, it describes how Moss was surrounded by players from both teams and escorted from the field by stewards.
-
-7. Finally, the summary suggests that Leicester's point against West Ham was vital in the context of their title challenge, but the article does not support this claim. Instead, it describes how Leicester's performance was affected by Vardy's sending off and how West Ham dominated the game afterward.
-
-In conclusion, the summary is not consistent with the article. The article does not support the claim that Leicester earned a point from an injury-time penalty, and it does not describe the game as a vital encounter in the context of Leicester's title challenge. Instead, it focuses on the controversial decisions made by referee Moss and how they affected the game.
+Therefore, the summary is not a consistent representation of the article's content.
 
 ###Corrected:

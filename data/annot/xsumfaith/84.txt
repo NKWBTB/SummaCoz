@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a gin distillery has opened its doors to the public in the scottish borders. 
-
-    Article: 
-    Lilliard Gin is based at the Born in the Borders visitor centre in Jedburgh.
+<Article>
+Lilliard Gin is based at the Born in the Borders visitor centre in Jedburgh.
 It comes ahead of a number proposals, which are at various stages of the planning process, to open the region's first whisky distillery since 1837.
 Lead distiller Kate Macinnes said the potential to make the Scottish Borders a "region of distilling excellence" was "really exciting".
 "Our gin production is on a completely different scale to the other distilleries in development," she said.
@@ -19,23 +16,20 @@ John Henderson, of Born in the Borders, said the gin distillery was a natural co
 The gin takes its name from a legendary Borders figure.
 "Lilliard was the heroine of the Battle of Ancrum Moor in 1545, fought just north of the distillery," explained Ms Macinnes.
 "Lilliard reputedly fought to avenge the death of her lover at the hands of the English. The battle site is also known as Lilliard's Edge.
-"We wanted a name that reflected our landscape, and our strong female production team, and Lilliard seemed like a natural choice." 
+"We wanted a name that reflected our landscape, and our strong female production team, and Lilliard seemed like a natural choice."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a gin distillery has opened its doors to the public in the scottish borders.
+</Summary>
 
-1. The article mentions that the distillery is based at the Born in the Borders visitor centre in Jedburgh, but the summary does not include this information.
+Explain your reasoning step by step:[/INST]
 
-2. The article states that the distillery is the first whisky distillery to open in the region since 1837, but the summary does not mention whisky or the fact that it is the first distillery to open in the region in nearly 200 years.
+1. The summary states that a gin distillery has opened its doors to the public in the Scottish Borders, which is not consistent with the article. The article states that the distillery is still in the planning stages and has not yet opened.
+2. The summary does not provide any information about the distillery's production process, the use of local botanicals, or the name of the distillery, all of which are mentioned in the article.
+3. The summary does not mention the legendary Borders figure after whom the distillery is named, which is mentioned in the article.
+4. The summary does not mention the location of the distillery, which is mentioned in the article as being based at the Born in the Borders visitor centre in Jedburgh.
 
-3. The article highlights the use of local botanicals and the desire to capture the flavor palette of the Teviot valley, but the summary does not mention this.
-
-4. The article introduces Lilliard Gin as a new distillery, but the summary refers to it as "a gin distillery" without specifying that it is a new distillery.
-
-5. The article mentions that the distillery is small, with one of the smallest production stills in the UK, and that it fits into a cowshed, but the summary does not include this information.
-
-6. The article highlights the significance of the name Lilliard, which is derived from a legendary Borders figure, but the summary does not mention this.
-
-Overall, the summary does not accurately reflect the information in the article, as it omits several key details and includes some inaccuracies.
+Therefore, the summary is not consistent with the article and does not provide accurate information about the gin distillery in the Scottish Borders.
 
 ###Corrected:

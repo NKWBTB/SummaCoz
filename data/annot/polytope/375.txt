@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    half of them were assaulted before they were 18 years old .
-the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
-the poll of 600 women from the area around paris found that half of those interviewed said they had first suffered harassment under the age of 18 . 
-
-    Article: 
-    every woman surveyed in paris claimed to have been a victim of some kind of sexual harassment on the city 's public transport .
+<Article>
+every woman surveyed in paris claimed to have been a victim of some kind of sexual harassment on the city 's public transport .
 half of them were assaulted before they were 18 years old .
 the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
 the survey found that " every female user of mass transit has been a victim " of " gender harassment or sexual assault " -- even though some are " unaware " of this because they have been conditioned to accept low-level abuse .
@@ -26,15 +21,21 @@ it 's a fundamental freedom , " she said .
 ernestine ronai , also on the council , said : " attackers are the impression they can act with total impunity , notably by making use of a crowd to hide and flee .
 " women do n't necessarily know how to put words on what they go through in public transport .
 it should be reiterated that putting your hand on someone 's backside is sexual assault punishable by a five-year prison term and a € 75,000 fine . "
-she said women needed to be better " educated that what they 're going through is not normal " , and that the message must reach " aggressors and witnesses " . 
+she said women needed to be better " educated that what they 're going through is not normal " , and that the message must reach " aggressors and witnesses " .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+half of them were assaulted before they were 18 years old .
+the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
+the poll of 600 women from the area around paris found that half of those interviewed said they had first suffered harassment under the age of 18 .
+</Summary>
 
-1. The summary states that "half of them were assaulted before they were 18 years old," which is not supported by the article. The article states that "every woman surveyed in Paris claimed to have been a victim of some kind of sexual harassment on the city's public transport," but it does not specify the age of the women who were assaulted.
-2. The summary also states that "the poll led to calls for a campaign to stem sexist or threatening behavior on buses and trains," but the article does not mention any calls for a campaign. Instead, it states that the poll found that "every female user of mass transit has been a victim" of "gender harassment or sexual assault," and that the problem is so widespread that six out of ten women are afraid of being attacked on public transport.
-3. The summary does not mention the finding that "women must be able to move about and occupy the public space without being placed in danger or threatened" (quoted in the article), which is a key point made in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article.
+1. The summary states that "half of them were assaulted before they were 18 years old." However, the article states that "half of those interviewed said they had first suffered harassment under the age of 18." These two statements are not consistent, as the first statement implies that all women surveyed were assaulted before the age of 18, while the second statement only says that half of those interviewed experienced harassment before the age of 18.
+2. The summary does not mention the word "sexual" harassment, while the article explicitly states that the harassment included "sexual assault" and "insistent flirting." This inconsistency may be due to the fact that the summary only focuses on the age of the women who were harassed, without providing any information about the nature of the harassment.
+3. The summary does not mention the word "poll," while the article clearly states that the findings are based on a poll of 600 women from the area around Paris. This inconsistency may be due to the fact that the summary is trying to summarize the article's findings in a more general way, without using the specific term "poll."
+
+Overall, the summary is not consistent with the article because it does not accurately convey the nature and scope of the harassment experienced by the women surveyed. The summary focuses only on the age of the women, while the article provides more detailed information about the types of harassment experienced and the impact it has on women's lives.
 
 ###Corrected:

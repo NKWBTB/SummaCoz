@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    one of the longest-held detainees at the us facility at guantanamo bay, a kuwaiti man, has been sent home, officials say. 
-
-    Article: 
-    Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
+<Article>
+Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
 He had been at the US facility in Cuba since 2002 after his arrest in Pakistan on suspicion of links to al-Qaeda and the Taliban - a charge he denies.
 He had challenged America's right to detain him in the US Supreme Court.
 Mr Odah boarded a Kuwaiti government plane on Wednesday morning US time.
@@ -19,17 +16,23 @@ Mr Odah had argued that he travelled to Afghanistan and Pakistan to teach the Ko
 He is the first inmate to be freed since May, when five Taliban detainees were exchanged for US Sgt Bowe Bergdahl, who had been kept by the insurgents in Afghanistan.
 Mr Odah's release brings down the total number of inmates at the US naval base to 148.
 The US opened the facility in January 2002, following the 11 September 2001 attacks in America.
-President Barack Obama has repeatedly promised to shut it down. 
+President Barack Obama has repeatedly promised to shut it down.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+one of the longest-held detainees at the us facility at guantanamo bay, a kuwaiti man, has been sent home, officials say.
+</Summary>
 
-1. The summary states that the detainee was sent home, while the article states that he will be sent to a militant rehabilitation center in Kuwait for at least a year.
-2. The summary does not mention the reason for the detainee's release, while the article states that the US review panel concluded that he was not a "continuing significant threat."
-3. The summary does not mention the detainee's denial of links to al-Qaeda and the Taliban, while the article includes this information.
-4. The summary does not mention the Kuwaiti government's push for the release of all Kuwaiti detainees at Guantanamo, while the article includes this information.
-5. The summary does not mention the total number of inmates at the US naval base, while the article includes this information.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary does not provide a complete and accurate representation of the article's content.
+1. The article states that Fawzi al-Odah was released from Guantanamo Bay after a US review panel determined that he was not a "continuing significant threat."
+2. The summary does not mention anything about a review panel or the reason for his release. Instead, it simply states that he has been sent home.
+3. The article explains that al-Odah had been held at Guantanamo Bay since 2002 and had challenged the US government's right to detain him in the US Supreme Court.
+4. The summary does not provide any information about the length of time al-Odah was held at Guantanamo Bay or any legal challenges he may have made.
+5. The article states that al-Odah will face at least a year at a militant rehabilitation center in Kuwait as part of the terms of his release.
+6. The summary does not mention anything about a rehabilitation center or any conditions of his release.
+
+Therefore, the summary is not consistent with the article because it does not provide all of the same information and omits important details about al-Odah's release.
 
 ###Corrected:

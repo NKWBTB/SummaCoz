@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the mother of murdered toddler james bulger has said she is ``devastated\'\'after being released from prison. 
-
-    Article: 
-    Denise Fergus said she had been "let down so many times by the system" but that she would continue to "fight".
+<Article>
+Denise Fergus said she had been "let down so many times by the system" but that she would continue to "fight".
 Jon Venables and Robert Thompson were convicted of killing two-year-old James in Bootle, Merseyside in 1993.
 Mrs Fergus said she believed Venables was capable of harming other people if he was released from prison. He was recalled to prison in 2010.
 He had been released from prison in 2001, having served seven years of a life sentence, but was recalled when he pleaded guilty to downloading and distributing indecent images of children.
@@ -21,27 +18,21 @@ Mrs Fergus set up a charity, named after her son, to support young people who ha
 Asked if, after 20 years, she should move on, Mrs Fergus said: "Why should I let it go? They took the most precious thing away from me. I won't let it go. And I've always said if there's a fight there to be fought, then I'll fight it for James.
 "If I let go of that now I will feel I've let James down.  That is something I'll never do, I'll never let James down. I want justice for James. He's never had justice."
 She has campaigned to have both men kept in prison, and said: "I did warn [the authorities] that one of them or both of them would go on to reoffend, and I was proven right with Venables."
-She said her family - her husband and three sons - mention James often. "I think the day I stop talking about him is the day I give up on life, but I'll never stop talking about him, never stop remembering him." 
+She said her family - her husband and three sons - mention James often. "I think the day I stop talking about him is the day I give up on life, but I'll never stop talking about him, never stop remembering him."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+the mother of murdered toddler james bulger has said she is ``devastated\'\'after being released from prison.
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary states that Denise Fergus, the mother of murdered toddler James Bulger, has been released from prison and is devastated.
+1. The summary states that the mother of James Bulger, Denise Fergus, is "devastated" after being released from prison.
+2. However, the article states that Jon Venables, one of the perpetrators of the murder, was released from prison in 2001, and that Denise Fergus has been campaigning to keep him in prison.
+3. Therefore, it is inconsistent for the summary to state that Denise Fergus is "devastated" after being released from prison, as she has been advocating for Venables to remain in prison.
+4. Additionally, the article states that Venables was recalled to prison in 2010 after pleading guilty to downloading and distributing indecent images of children.
+5. Therefore, it is also inconsistent for the summary to state that Venables has been released from prison, as he has been recalled to prison and is currently serving a new sentence.
 
-Step 2: Identify the main points of the article
-
-The article states that Denise Fergus believes that Jon Venables, one of the killers of her son, is capable of harming other people if he is released from prison. She campaigns to keep him in prison and has warned that he will go on to hurt someone else if he is released.
-
-Step 3: Identify the inconsistency
-
-The inconsistency is that the summary states that Denise Fergus has been released from prison, while the article states that she is campaigning to keep one of the killers of her son in prison. This suggests that the summary is not accurate and does not reflect the content of the article.
-
-Step 4: Explain the inconsistency
-
-The inconsistency is likely due to the fact that the summary is not a direct quote from Denise Fergus, but rather a paraphrase or summary of her statements. The summary may have misinterpreted or exaggerated her statements, leading to the inconsistency with the article.
-
-In conclusion, the summary is not consistent with the article because it states that Denise Fergus has been released from prison, while the article states that she is campaigning to keep one of the killers of her son in prison. This inconsistency suggests that the summary is not an accurate representation of Denise Fergus's statements.
+In conclusion, the summary is not consistent with the article because it falsely states that Denise Fergus is "devastated" after being released from prison, and it also falsely states that Venables has been released from prison.
 
 ###Corrected:

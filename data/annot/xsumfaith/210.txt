@@ -1,24 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police have launched an investigation after a man\'s body was found in a house in kilmarnock. 
-
-    Article: 
-    The body of the 36-year-old was found in a house in Glenfinnan Road around 15:05 on Wednesday.
+<Article>
+The body of the 36-year-old was found in a house in Glenfinnan Road around 15:05 on Wednesday.
 Two officers were seen at the property on Friday afternoon. It was cordoned off by police tape and a bunch of flowers lay outside.
 Earlier police said a post-mortem examination would be carried out to establish the exact cause of death.
-They added: "A report will be sent to the procurator fiscal." 
+They added: "A report will be sent to the procurator fiscal."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+police have launched an investigation after a man\'s body was found in a house in kilmarnock.
+</Summary>
 
-1. The summary states that "police have launched an investigation" after the man's body was found in a house in Kilmarnock.
-2. However, the article does not mention anything about an investigation being launched. Instead, it states that two officers were seen at the property on Friday afternoon and that a post-mortem examination would be carried out to establish the exact cause of death.
-3. Therefore, the summary is not consistent with the article because it implies that an investigation has been launched, while the article only mentions officers at the property and a post-mortem examination.
-4. The article does mention that a report will be sent to the procurator fiscal, but this is not mentioned in the summary.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a accurate representation of the information in the article.
+1. The article states that the body of a 36-year-old was found in a house in Glenfinnan Road, but the summary only mentions Kilmarnock. The article does not mention Kilmarnock at all.
+2. The article states that the body was found on Wednesday, but the summary only mentions a general "police investigation". There is no mention of when the investigation started or any other details about the timing of the investigation.
+3. The article states that police have cordoned off the property and a post-mortem examination will be carried out to establish the exact cause of death, but the summary does not mention any of these details.
+4. The article states that a report will be sent to the procurator fiscal, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it does not include any of the specific details mentioned in the article. The summary is too general and does not accurately reflect the content of the article.
 
 ###Corrected:

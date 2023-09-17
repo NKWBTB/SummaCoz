@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united manager sir alex ferguson says his side will not ease up on their march towards a 20th league title until the job is complete. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 United remain 15 points clear at the top of the table with eight games left after a 1-0 win at Sunderland.
 "We are not concerned with what we have left behind us, we are only focusing on what is in front of us," said Ferguson.
 "The players have created a record with 25 wins out of the first 30 matches and that tells you a lot about the club."
@@ -19,16 +16,19 @@ Ferguson will make changes for Monday's FA Cup quarter-final replay at Chelsea a
 "There will be changes at Chelsea. We will have to wait and see how Wayne is. He was a bit tired after getting back from the England match.
 "We will have Ryan Giggs and Javier Hernandez available and there were a couple of others [including Rio Ferdinand] who I did not take to Sunderland.
 "It was a battle in the second half but in the first half we played very well and deserved to be in front, and you have to give credit to Sunderland.
-"They had a real go at us and made it much more difficult for us but we owe our win to determined defending and a lot of courage." 
+"They had a real go at us and made it much more difficult for us but we owe our win to determined defending and a lot of courage."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+manchester united manager sir alex ferguson says his side will not ease up on their march towards a 20th league title until the job is complete.
+</Summary>
 
-1. The summary states that Ferguson said his side will not ease up on their march towards a 20th league title until the job is complete, implying that they are focused on winning the title. However, the article quotes Ferguson as saying "We are not concerned with what we have left behind us, we are only focusing on what is in front of us." This suggests that the team is not solely focused on winning the title, but is instead taking a game-by-game approach.
-2. The summary states that Ferguson said the team has created a record with 25 wins out of the first 30 matches, but the article does not mention this.
-3. The summary states that Manchester United have won 50 of a possible 54 points in their last 18 Premier League games, but the article does not mention this exact number. Instead, it states that the team has won 15 of their last 18 matches.
-4. The summary states that Ferguson will make changes for Monday's FA Cup quarter-final replay at Chelsea, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes some statements that are not supported by the text.
+1. The summary states that Manchester United manager Sir Alex Ferguson says his side will not ease up on their march towards a 20th league title until the job is complete.
+2. However, the article does not mention anything about Manchester United's title aspirations or Ferguson's intentions to "ease up" or not.
+3. In fact, the article focuses on the team's recent victory against Sunderland and their upcoming matches, including the derby against Manchester City and the FA Cup quarter-final replay against Chelsea.
+4. The article also mentions that Ferguson will make changes for the match against Chelsea, but there is no mention of him intending to ease up on the team's efforts.
+5. Therefore, the summary is not consistent with the article, as it implies that Ferguson has stated his intention to continue pushing for the title, while the article does not contain any such statement.
 
 ###Corrected:

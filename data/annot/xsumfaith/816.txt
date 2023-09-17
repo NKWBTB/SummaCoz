@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    thousands of apprenticeships in england are being rated as ``cruel\'\'and ``cruel\'\', a report has found. 
-
-    Article: 
-    Compared with other European countries, many apprenticeships are low quality and too short, the Sutton Trust warns.
+<Article>
+Compared with other European countries, many apprenticeships are low quality and too short, the Sutton Trust warns.
 It says thousands of apprenticeships should be created to boost the economy and improve youngsters' job prospects.
 The Department for Education says apprenticeships are being reformed to "drive up standards".
 The Association of Colleges said some existing apprenticeships were respected by industry and should be preserved.
@@ -30,17 +27,19 @@ Teresa Frith, from the Association of Colleges, said: "Creating 300,000 apprenti
 "The report is absolutely right to say that vocational courses should only be taught in institutions with high-quality facilities and expert teaching staff and that careers advice and guidance needs to be improved."
 A Department for Education spokeswoman said: "We are already radically reforming apprenticeships to drive up standards so that they are more rigorous and responsive to the needs of employers.
 "Since 2010 over a million people have become apprentices, providing a great start to their careers. We have already insisted that apprenticeships last for a minimum of a year, include more English and maths and that every apprenticeship is a job.
-"We have consulted on wider reforms to drive up standards in apprenticeships further, and will publish plans later this month." 
+"We have consulted on wider reforms to drive up standards in apprenticeships further, and will publish plans later this month."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+thousands of apprenticeships in england are being rated as ``cruel\'\'and ``cruel\'\', a report has found.
+</Summary>
 
-1. The summary states that the report found that "thousands of apprenticeships in England are being rated as 'cruel' and 'cruel'," but the article does not mention anything about the rating of apprenticeships.
-2. The summary states that the report calls for "apprenticeships to be radically expanded, with up to 300,000 new starts each year," but the article does not mention this specific number or the idea of radically expanding apprenticeships.
-3. The summary states that the report says "fewer than 200,000 of the 520,000 apprenticeships starting in England every year are rated at level three," but the article does not mention this specific number or the idea that only a small percentage of apprenticeships are rated at level three.
-4. The summary states that the report found that "apprenticeships are offered by just one in five (20%) of employers in England, compared with over half (51%) in Germany," but the article does not mention this comparison between England and Germany.
-5. The summary states that the report warns that "11 young people are competing for each apprenticeship," but the article does not mention this specific number or the idea that there is high competition for apprenticeships.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes specific details and statistics that are not mentioned in the article, and it also omits other important information that is included in the article.
+1. The summary states that thousands of apprenticeships in England are being rated as "cruel" and "cruel".
+2. However, the article does not mention the word "cruel" or "cruel" anywhere.
+3. The article discusses the quality and length of apprenticeships in England, highlighting that many apprenticeships are low quality and too short, and that there is a need for more high-quality apprenticeships.
+4. The article also mentions that the Sutton Trust has called for apprenticeships to be radically expanded, with up to 300,000 new starts each year, and that the majority of these should be at level three or higher.
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article, and it introduces a new and misleading concept (i.e. "cruel" apprenticeships) that is not present in the article.
 
 ###Corrected:

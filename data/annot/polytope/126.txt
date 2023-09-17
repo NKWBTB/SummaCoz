@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    amateur jockey lee lewis ferguson was flung from his horse at wincanton
-the 18-year-old has just a cut on his nose to show for the fall
-but he is undeterred from getting back in the saddle and is undeterred 
-
-    Article: 
-    there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
+<Article>
+there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
 the 18-year-old was mucking out the stables as usual , just a cut on the nose to show for the fall which has made him an internet sensation .
 ferguson 's spectacular double somersault fall from the favourite merrion square in the 4.20 pm at wincanton has been watched hundreds of thousands of times online .
 but he was back riding out and is undeterred from getting back in the saddle .
@@ -21,16 +16,22 @@ it 's about the most impressive fall i 've seen .
 ` there was nothing i could do to avoid it , you just have to let it take its course and hope it 's not a bad one .
 i 've been very lucky .
 i got a bit of abuse from the lads and picked up a few hundred twitter followers but it 's all good banter .
-` given the somersaults , maybe i 'll look at having a gymnastics career after finishing racing . ' 
+` given the somersaults , maybe i 'll look at having a gymnastics career after finishing racing . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+amateur jockey lee lewis ferguson was flung from his horse at wincanton
+the 18-year-old has just a cut on his nose to show for the fall
+but he is undeterred from getting back in the saddle and is undeterred
+</Summary>
 
-1. The summary states that the 18-year-old jockey, Lee Lewis Ferguson, was "flung from his horse" at Wincanton, but the article does not mention anything about being flung from the horse. Instead, the article states that Ferguson had a "spectacular double somersault fall" from the horse.
-2. The summary states that Ferguson has just a cut on his nose to show for the fall, but the article states that he has "just a cut on the nose" and that he was "lucky" to escape with only that.
-3. The summary states that Ferguson is undeterred from getting back in the saddle, but the article does not mention anything about him being undeterred. Instead, it states that he was back riding out as usual.
-4. The summary states that Ferguson's fall has made him an internet sensation, but the article does not mention anything about this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it exaggerates the extent of Ferguson's injuries, misstates the nature of his fall, and adds information that is not present in the article (such as his supposed undeterrence and internet sensation status).
+1. The summary states that Lee Lewis Ferguson was flung from his horse at Wincanton and has just a cut on his nose to show for the fall.
+2. However, the article states that Ferguson was mucking out the stables as usual and there was no special treatment for him at Paul Nicholls' yard on Thursday morning.
+3. The summary also states that Ferguson is undeterred from getting back in the saddle, but the article states that he was flung from his horse in spectacular fashion and could not work out what had happened until he watched the replay.
+4. The summary does not mention the fact that Ferguson's fall was watched by hundreds of thousands of people online, or that he received abuse from other jockeys and gained hundreds of Twitter followers.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the details of Ferguson's fall and his subsequent actions. The summary omits important information and presents a misleading picture of the events.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ufc lightweight champion liam bennett has said he is ``coming sprinting at you with bricks\'\'after his ufc career was rejected. 
-
-    Article: 
-    The former five-weight world champion submitted a necessary waiver to the Nevada Athletic Commission (NAC) on Wednesday, hours before the deadline.
+<Article>
+The former five-weight world champion submitted a necessary waiver to the Nevada Athletic Commission (NAC) on Wednesday, hours before the deadline.
 The NAC, which sanctioned the bout, told BBC Sport it expected to receive a request from McGregor on Wednesday.
 NAC rules state fights at 154 lbs require 10oz gloves and the matter will now be debated on 16 August.
 Lighter gloves offer less cushioning for the hands but theoretically lead to punches being more punishing.
@@ -27,15 +24,20 @@ Bennett said that McGregor's UFC rival Nate Diaz played a role in him forming hi
 McGregor floored Diaz three times on his way to a points win in August 2016, avenging a defeat via submission five months earlier.
 Since sanctioning the fight, Bennett has had access to three videos showing McGregor's progress and told BBC Sport: "He's good to go."
 He also advised McGregor's camp to employ a boxing referee in order to feel comfortable with the rules, advice which led to the hiring of Hall of Fame official Joe Cortez, 73.
-Cortez said he oversaw an "out of control" sparring session between McGregor and Paulie Malignaggi. The former two-weight world champion has since left the camp after reacting angrily to images of him on the canvas during a sparring session. 
+Cortez said he oversaw an "out of control" sparring session between McGregor and Paulie Malignaggi. The former two-weight world champion has since left the camp after reacting angrily to images of him on the canvas during a sparring session.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+ufc lightweight champion liam bennett has said he is ``coming sprinting at you with bricks\'\'after his ufc career was rejected.
+</Summary>
 
-1. The summary states that Liam Bennett, the UFC lightweight champion, has said he is "coming sprinting at you with bricks" after his UFC career was rejected. However, the article does not mention anything about Liam Bennett or his UFC career being rejected.
-2. The summary mentions that Liam Bennett will be wearing 8oz gloves, but the article states that the NAC rules require 10oz gloves for fights at 154lbs, and there is no mention of Liam Bennett using 8oz gloves.
-3. The summary states that the NAC will debate the matter publicly before announcing its decision, but the article does not mention any public debate or decision regarding the use of 8oz gloves.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the provided summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, such as Liam Bennett's UFC career being rejected and him wearing 8oz gloves. Additionally, the summary mentions a public debate and decision regarding the use of 8oz gloves, which is not mentioned in the article.
+1. The summary mentions "Liam Bennett" as the UFC lightweight champion, but the article actually refers to "Conor McGregor" as the UFC lightweight champion.
+2. The summary states that Liam Bennett is "coming sprinting at you with bricks," but the article does not mention anything about Liam Bennett or any other fighter using bricks.
+3. The summary does not provide any context or information about the article's topic, which is the upcoming boxing match between Conor McGregor and Floyd Mayweather.
+
+Overall, the summary is not a accurate representation of the article's content and does not provide any useful information about the topic.
 
 ###Corrected:

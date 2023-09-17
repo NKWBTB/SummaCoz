@@ -1,23 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman has died following a fire at a house in the highlands. 
-
-    Article: 
-    The emergency services were called to the property in the Sangomore area of Durness at about 02:00.
+<Article>
+The emergency services were called to the property in the Sangomore area of Durness at about 02:00.
 Police Scotland said it was not known if she was in the house at the time. Her relatives have been informed.
 Det Insp Richard Baird said the fire was not thought to be suspicious, but the damage caused had prevented entry to the property.
 He said: "A joint investigation with the fire service will be carried out.
 "Enquiries are at a very early stage, however, initial enquiries would suggest there are no suspicious circumstances.
 "Due to the extensive structural damage and uncertainty of the building, gaining access to the property will take some considerable time.
-"Structural engineers will advise when it will be safe to enter the property." 
+"Structural engineers will advise when it will be safe to enter the property."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The summary states that a woman died following a fire at a house in the highlands.
-    2. The article does not mention the woman's death. Instead, it states that the fire is not thought to be suspicious, and that the damage caused has prevented entry to the property.
-    3. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the woman's death).
-    4. The article does not mention any information about the woman's death, which suggests that the summary is not accurate.
+<Summary>
+a woman has died following a fire at a house in the highlands.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that a woman has died following a fire at a house in the Highlands.
+2. The article does not mention the woman's death. Instead, it states that the fire is not thought to be suspicious and that the damage caused has prevented entry to the property.
+3. Therefore, the summary is not consistent with the article, as the article does not mention the woman's death.
+4. The article only mentions that the fire is not thought to be suspicious and that the damage caused has prevented entry to the property, but it does not mention the woman's death.
+5. The summary is not supported by the article, as the article does not provide any information about the woman's death.
+6. The summary is likely based on incorrect or incomplete information, as it does not match the content of the article.
+7. Therefore, the summary should not be trusted, and further investigation is needed to confirm the accuracy of the information.
 
 ###Corrected:

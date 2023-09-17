@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two french tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 . 
- detectives went to rottnest island on saturday and questioned the two men and seized video evidence of the careless act . 
- they have each been charged with animal cruelty and will appear in fremantle magistrates court on april 17 .  
-
-    Article: 
-    a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
+<Article>
+a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
 the two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
 the lucky little critter survived the reckless incident but was singed by the flame .
 two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3
@@ -18,17 +13,20 @@ they have each been charged with animal cruelty and will appear in fremantle mag
 the size of a domestic cat
 quokkas can be found on some small islands off the west australian coast
 in particular off rottnest island off perth and bald island near albany
-the lucky little critter survived the reckless incident but was singed by the flame and the men were charged 
+the lucky little critter survived the reckless incident but was singed by the flame and the men were charged
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+two french tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 . 
+ detectives went to rottnest island on saturday and questioned the two men and seized video evidence of the careless act . 
+ they have each been charged with animal cruelty and will appear in fremantle magistrates court on april 17 . 
+</Summary>
 
-1. The summary states that the two French tourists allegedly ignited an aerosol spray with a lighter, causing a large flame to make contact with a quokka. However, the article does not mention anything about an aerosol spray. Instead, it states that the tourists allegedly ignited a lighter, which caused a large flame to make contact with the quokka.
-2. The summary states that the quokka was set alight, but the article states that the quokka was singed by the flame. This suggests that the quokka was not completely engulfed in flames, as the summary implies.
-3. The summary states that the two men were evicted from the island, but the article does not mention anything about them being evicted. Instead, it states that they were charged with animal cruelty and will appear in court.
-4. The summary states that the men were aged 18 and 24, but the article does not provide their ages.
-5. The summary states that the incident occurred on April 3, but the article does not provide a specific date for the incident.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations compared to the original article.
+1. The summary states that the two French tourists allegedly ignited an aerosol spray with a lighter, causing a large flame to make contact with a quokka on Rottnest Island.
+2. However, the article states that the two men allegedly ignited an aerosol spray with a lighter, causing a large flame to make contact with a quokka on Rottnest Island, but the quokka survived the incident and was singed by the flame.
+3. The summary does not mention that the quokka survived the incident, only that the men were charged with animal cruelty.
+4. Therefore, the summary is not consistent with the article because it does not provide all the information supported by the article. Specifically, it does not mention the quokka's survival and the fact that the men were charged with animal cruelty.
 
 ###Corrected:

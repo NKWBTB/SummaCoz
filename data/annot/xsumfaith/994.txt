@@ -1,24 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    league one side colchester united have signed oldham athletic midfielder josh reid on loan until the end of the season. 
-
-    Article: 
-    The 29-year-old made 37 appearances for the Sky Blues last season as they were relegated from League One.
+<Article>
+The 29-year-old made 37 appearances for the Sky Blues last season as they were relegated from League One.
 Reid, who has also had spells with Charlton, Bradford and Preston, could make his debut for the U's in Wednesday's EFL Cup first-round tie against Championship side Aston Villa.
 Colchester started the season with a 3-1 defeat at Accrington on Saturday.
-Find all the latest football transfers on our dedicated page. 
+Find all the latest football transfers on our dedicated page.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+league one side colchester united have signed oldham athletic midfielder josh reid on loan until the end of the season.
+</Summary>
 
-1. The summary states that Colchester United has signed Josh Reid on loan until the end of the season.
-2. However, the article states that Reid made 37 appearances for Oldham Athletic last season, not Colchester United.
-3. Therefore, the summary is not consistent with the article, as it implies that Reid has signed for Colchester United when in fact he has not.
-4. The article does mention that Reid could make his debut for Colchester United in Wednesday's EFL Cup first-round tie against Aston Villa, but this is not stated in the summary.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it incorrectly states that Reid has signed for Colchester United, when in fact he has not.
+1. The article states that Colchester United were relegated from League One last season.
+2. The summary claims that Colchester United is a League One side, which is not consistent with the article.
+3. The article mentions that the team started the season with a 3-1 defeat at Accrington on Saturday, which suggests that they are currently in a lower division than League One.
+4. The summary states that Josh Reid has been signed on loan until the end of the season, which implies that he will be playing for Colchester United in League One.
+5. However, based on the article, Colchester United is not currently in League One, so the summary is not consistent with the article.
+
+Therefore, the summary is not consistent with the article because it claims that Colchester United is a League One side, when in fact they were relegated from League One last season and are currently playing in a lower division.
 
 ###Corrected:

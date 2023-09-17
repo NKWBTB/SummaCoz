@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    boca juniors has become the first premier league club to be named in the club\'s history of the premier league. 
-
-    Article: 
-    Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
+<Article>
+Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
 Shanghai, coached by ex-Brighton boss Gus Poyet, are reported to have agreed a deal worth £40m for Tevez including a salary in excess of £310,000 a week.
 Boca Juniors said: "Good luck Carlitos. You will always be in our hearts."
 Tevez played for seven years in the Premier League and won the title with both Manchester clubs.
 He also lifted the Champions League trophy with United in 2008 before joining Juventus in 2013, where he won two Italian championships.
 On 23 December Chelsea agreed terms with Shanghai SIPG for Brazil midfielder Oscar, 25, in a move that is estimated to cost £60m.
-Take part in our new Premier League Predictor game, which allows you to create leagues with friends. 
+Take part in our new Premier League Predictor game, which allows you to create leagues with friends.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+boca juniors has become the first premier league club to be named in the club\'s history of the premier league.
+</Summary>
 
-1. The summary states that Boca Juniors is the first Premier League club to be named in the club's history of the Premier League, but this is not true. Boca Juniors is an Argentine club and has never played in the Premier League.
-2. The article mentions that Shanghai SIPG has signed Carlos Tevez from Boca Juniors, but the summary does not mention this.
-3. The summary mentions that Tevez will be playing for Shanghai, but the article does not provide any information about Tevez's move to Shanghai.
-4. The article mentions that Chelsea has agreed terms with Shanghai SIPG for Brazil midfielder Oscar, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The article states that Shanghai SIPG have signed Carlos Tevez from Boca Juniors, but no details were given over the contract.
+2. The summary claims that Boca Juniors has become the first Premier League club to be named in the club's history of the Premier League.
+3. This statement is not consistent with the article, as Boca Juniors is not a Premier League club, it is an Argentine club.
+4. The article does mention that Tevez played for seven years in the Premier League, but this does not mean that Boca Juniors is a Premier League club.
+5. Therefore, the summary is not consistent with the article, as it implies that Boca Juniors is a Premier League club, which is not true.
 
 ###Corrected:

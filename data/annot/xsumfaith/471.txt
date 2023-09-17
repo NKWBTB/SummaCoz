@@ -1,28 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dame sarah storey became the first british woman to win a gold medal at the world para-athletics championships in london. 
-
-    Article: 
-    The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.
+<Article>
+The Briton finished more than two minutes ahead of Poland's Anna Harkowska in Nottwil, Switzerland.
 Storey can win a 17th title when she rides in Saturday's road race.
 "It's a massive relief to win," said the 37-year-old, who is targeting further Paralympic success at next year's Games in Rio de Janeiro.
 Storey is Britain's most decorated female Paralympian with 22 medals.
 She has won 11 gold, eight silver and three bronze medals in both cycling and swimming across six Paralympics.
 She won four golds at the 2012 Games in London and has now won 21 world titles across both sports.
-Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005. 
+Storey began her sporting career in the pool, winning six medals at the 1992 Paralympics before switching to cycling in 2005.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+dame sarah storey became the first british woman to win a gold medal at the world para-athletics championships in london.
+</Summary>
 
-1. The summary states that Dame Sarah Storey became the first British woman to win a gold medal at the World Para-Athletics Championships in London. However, the article does not mention anything about the World Para-Athletics Championships being held in London. Instead, it states that the event was held in Nottwil, Switzerland. Therefore, the summary is not consistent with the article.
-2. The summary also states that Dame Sarah Storey won a gold medal, but the article does not confirm this. Instead, it states that she finished more than two minutes ahead of Poland's Anna Harkowska and won a 17th title in the road race.
-3. The summary mentions that Dame Sarah Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the article does not mention anything about Rio de Janeiro or the Paralympics.
-4. The summary states that Dame Sarah Storey is Britain's most decorated female Paralympian with 22 medals, but the article only mentions that she has won 21 world titles across both sports.
-5. Finally, the summary mentions that Dame Sarah Storey began her sporting career in the pool, but the article states that she switched to cycling in 2005.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+1. The article states that Sarah Storey won the gold medal at the World Para-Athletics Championships in Nottwil, Switzerland, not in London.
+2. The summary states that Sarah Storey won the gold medal at the World Para-Athletics Championships in London.
+3. The article does not mention anything about the championships being held in London, only that the event took place in Nottwil, Switzerland.
+4. Therefore, the summary is not consistent with the article because it incorrectly states the location of the championships and the fact that Sarah Storey did not win a gold medal in London.
 
 ###Corrected:

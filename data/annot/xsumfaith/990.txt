@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    matt taylor\'s century helped gloucestershire to a four-wicket win over gloucestershire in the first day of the county championship. 
-
-    Article: 
-    Glamorgan's total was dominated by Nick Selman's mature 101 off 144 balls, his second first-class century.
+<Article>
+Glamorgan's total was dominated by Nick Selman's mature 101 off 144 balls, his second first-class century.
 But seamers Matt Taylor and Craig Miles made sure wickets fell at regular intervals in cloudy conditions in the Welsh capital.
 Gloucestershire struggled in turn as the bowlers remained on top all day.
 Selman's century, after being dropped on eight in the first over, was a welcome return to form for the Brisbane-born opener after a string of low scores following his hundred against Northants at Swansea.
@@ -23,17 +20,19 @@ Gloucestershire seamer Matt Taylor told BBC Radio Bristol:
 "There's definitely a bit on offer out there (for the bowlers), we didn't start exactly how we'd like but we got there in the end and we'd take bowling them out for 220.
 "I was pretty happy with that (hitting the stumps three times), the same plan as always is to hit the top of off-stump and luckily they missed them today.
 "I was pleased to get an opportunity in T20 and the white-ball stuff this year, now I'm getting an opportunity with the red ball it's great.
-"It's definitely going to be tough (for the Gloucestershire batsmen), they're a good bowling attack but hopefully we can dig in and get to a reasonable score." 
+"It's definitely going to be tough (for the Gloucestershire batsmen), they're a good bowling attack but hopefully we can dig in and get to a reasonable score."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+matt taylor\'s century helped gloucestershire to a four-wicket win over gloucestershire in the first day of the county championship.
+</Summary>
 
-1. The summary states that Matt Taylor's century helped Gloucestershire to a four-wicket win, but the article states that Glamorgan was the winning team, not Gloucestershire.
-2. The summary mentions that Gloucestershire struggled in the evening gloom, but the article states that Glamorgan struggled in the cloudy conditions in the Welsh capital.
-3. The summary mentions that Nick Selman scored a century for Glamorgan, but the article states that Selman scored a century for Glamorgan and that Gloucestershire's innings was a question of survival.
-4. The summary does not mention the name of the Glamorgan batsman who scored a century, while the article mentions that Nick Selman scored a century for Glamorgan.
-5. The summary mentions that Gloucestershire's innings was a question of survival in the evening gloom, but the article states that Glamorgan's innings was a question of survival all day.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the events of the match, and it contains several errors and omissions.
+1. The summary states that Matt Taylor's century helped Gloucestershire to a four-wicket win, but the article does not mention any century by Matt Taylor.
+2. The article states that Glamorgan were bowled out for 220, and Gloucestershire struggled in their innings, with the day ending evenly balanced. This suggests that Gloucestershire did not win the match by four wickets.
+3. The summary does not mention any other details from the article, such as Nick Selman's century or the fact that Glamorgan were led by Michael Hogan in the absence of Jacques Rudolph.
+
+Therefore, the summary is not consistent with the article, as it makes claims that are not supported by the information in the article.
 
 ###Corrected:

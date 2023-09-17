@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    australian prime minister tony abbott has said the refugee and migrant crisis in europe is proof of the need for tough asylum policies. 
-
-    Article: 
-    Mr Abbott told Australian media that the only way to prevent people dying at sea was to "stop the boats".
+<Article>
+Mr Abbott told Australian media that the only way to prevent people dying at sea was to "stop the boats".
 Australia detains any migrants trying to reach its shores by boat, and takes them to offshore processing camps to be eventually resettled elsewhere.
 On Thursday, the New York Times described the policy as "brutal".
 In an editorial, the newspaper said the "ruthlessly effective" policy was "inhumane, of dubious legality and strikingly at odds with the country's tradition of welcoming people fleeing persecution and war".
@@ -19,16 +16,21 @@ On Thursday, Mr Abbott angered Australian Jewish groups by saying the so-called 
 But IS militants, he said, "boast about their evil, this is the extraordinary thing".
 The Executive Council of Australian Jewry Robert Goot said the comment was "injudicious and unfortunate", saying there was "a fundamental difference between organised acts of terrorism and a genocide systematically implemented by a state as essential policy".
 "The crimes of Islamic State are indeed horrific but cannot be compared to the systematic round-up of millions of people and their despatch to purpose-built death camps for mass murder," he told Australian media.
-Mr Abbott later said he stood by his comments, but that he was not in the "business of ranking evil". 
+Mr Abbott later said he stood by his comments, but that he was not in the "business of ranking evil".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+australian prime minister tony abbott has said the refugee and migrant crisis in europe is proof of the need for tough asylum policies.
+</Summary>
 
-1. The summary states that Tony Abbott said the refugee and migrant crisis in Europe is proof of the need for tough asylum policies. However, the article does not mention anything about the crisis in Europe or the need for tough asylum policies.
-2. The summary mentions that Mr. Abbott said the only way to prevent people dying at sea is to "stop the boats." However, the article does not quote him as saying this. Instead, it quotes him as saying that the image of Syrian three-year-old Alan Kurdi, who died trying to reach Greece by boat with his family, was "very sad."
-3. The summary states that Mr. Abbott has suggested that European leaders should adopt Australia's policy on asylum seekers. However, the article does not mention this. Instead, it quotes the New York Times as describing Australia's policy as "inhumane, of dubious legality and strikingly at odds with the country's tradition of welcoming people fleeing persecution and war."
-4. The summary does not mention Mr. Abbott's comments about IS militants being worse than the Nazis, which the article quotes him as saying.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or tone of the article. The article is critical of Mr. Abbott's policies and language, while the summary presents his views in a more positive light.
+1. The summary states that Australian Prime Minister Tony Abbott has said the refugee and migrant crisis in Europe is proof of the need for tough asylum policies.
+2. However, the article states that Mr. Abbott told Australian media that the only way to prevent people dying at sea was to "stop the boats", and that he believes stopping the boats is the key to stopping the deaths.
+3. The article also states that Mr. Abbott's policy of detaining migrants in offshore processing camps has been described as "brutal" and "inhumane" by the New York Times, and that the policy has been criticized for being illegal and in violation of human rights.
+4. Furthermore, the article states that Mr. Abbott has compared the so-called Islamic State (IS) to the Nazis, which has been criticized by Australian Jewish groups as "injudicious and unfortunate".
+5. Therefore, the summary is not consistent with the article because it does not accurately reflect Mr. Abbott's views on the refugee and migrant crisis in Europe, and it does not mention the controversy surrounding his policies and comments.
+
+In conclusion, the summary is not consistent with the article because it does not provide a complete and accurate picture of Mr. Abbott's views on the refugee and migrant crisis in Europe. The article presents a more nuanced and critical view of Mr. Abbott's policies and comments, while the summary presents a simplified and misleading view.
 
 ###Corrected:

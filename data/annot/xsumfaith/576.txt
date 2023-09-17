@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the exterior of a church known for its tall tower has been lit up for the first time in two years after it was flooded. 
-
-    Article: 
-    St Botolph's Church, known as Boston Stump, was badly damaged following a tidal surge in 2013 that hit the Lincolnshire town of Boston.
+<Article>
+St Botolph's Church, known as Boston Stump, was badly damaged following a tidal surge in 2013 that hit the Lincolnshire town of Boston.
 The floodlights were replaced but the switch-on was put in doubt when two lights were stolen.
 Reverend Alyson Buxton said it was "fantastic" to see the church lit up.
 "We've all been so excited for this moment," she said.
@@ -16,19 +13,22 @@ Peter Sherlock, who gave the church Â£2,000 to reinstall the stolen lights, wa
 He is still offering a reward of Â£2,000 for information about who stole the lights.
 Matt Warman, the Boston and Skegness MP, was also there.
 "A lot of Boston's heritage is about this building and it's hugely significant for everyone," he said.
-"It's been a long time since the floods that turned these lights off and I think people are now finally starting to see that we are able to get past that and to show people that Boston is unquenchable." 
+"It's been a long time since the floods that turned these lights off and I think people are now finally starting to see that we are able to get past that and to show people that Boston is unquenchable."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the exterior of a church known for its tall tower has been lit up for the first time in two years after it was flooded.
+</Summary>
 
-1. The summary mentions that the church was lit up for the first time in two years, but the article states that the floodlights were replaced after the tidal surge in 2013 and have been on since then.
-2. The summary does not mention the theft of the floodlights, which is a significant event described in the article.
-3. The summary mentions a service inside the church, but the article does not mention any service taking place.
-4. The summary quotes Reverend Alyson Buxton as saying it was "fantastic" to see the church lit up, but the article does not include any quote from her.
-5. The summary mentions BBC Radio Lincolnshire presenters switching on the lights, but the article states that Peter Sherlock, who gave the church £2,000 to reinstall the stolen lights, was among those present and switched on the lights.
-6. The summary does not mention the reward of £2,000 offered by Peter Sherlock for information about who stole the lights, which is mentioned in the article.
-7. The summary does not mention Matt Warman, the Boston and Skegness MP, who is quoted in the article as saying that "Boston is unquenchable."
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it leaves out important details, includes inaccurate information, and does not accurately represent the content of the article.
+1. The article states that the church was damaged by a tidal surge in 2013, but the summary does not mention this. The summary only mentions that the church has been lit up for the first time in two years, which is not consistent with the article.
+2. The article states that the church was flooded, but the summary does not mention this. The summary only mentions that the exterior of the church has been lit up, which is not consistent with the article.
+3. The article mentions that the floodlights were replaced, but the summary does not mention this. The summary only mentions that the church has been lit up, which is not consistent with the article.
+4. The article mentions that the switch-on was put in doubt when two lights were stolen, but the summary does not mention this. The summary only mentions that the church has been lit up, which is not consistent with the article.
+5. The article mentions that the lights were switched on by BBC Radio Lincolnshire presenters Carla George and Scott Dalton, but the summary does not mention this. The summary only mentions that the church has been lit up, which is not consistent with the article.
+6. The article mentions that the service was "very moving" and that the MP was present, but the summary does not mention this. The summary only mentions that the church has been lit up, which is not consistent with the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately convey the information in the article. The summary only mentions the most basic aspect of the article (the church has been lit up) without including any of the other important details mentioned in the article.
 
 ###Corrected:

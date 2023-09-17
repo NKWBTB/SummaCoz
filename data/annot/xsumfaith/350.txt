@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester city have agreed a deal to sign goalkeeper carlos tevez from chinese side shanghai sipg. 
-
-    Article: 
-    Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
+<Article>
+Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
 Shanghai, coached by ex-Brighton boss Gus Poyet, are reported to have agreed a deal worth £40m for Tevez including a salary in excess of £310,000 a week.
 Boca Juniors said: "Good luck Carlitos. You will always be in our hearts."
 Tevez played for seven years in the Premier League and won the title with both Manchester clubs.
 He also lifted the Champions League trophy with United in 2008 before joining Juventus in 2013, where he won two Italian championships.
 On 23 December Chelsea agreed terms with Shanghai SIPG for Brazil midfielder Oscar, 25, in a move that is estimated to cost £60m.
-Take part in our new Premier League Predictor game, which allows you to create leagues with friends. 
+Take part in our new Premier League Predictor game, which allows you to create leagues with friends.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+manchester city have agreed a deal to sign goalkeeper carlos tevez from chinese side shanghai sipg.
+</Summary>
 
-1. The summary states that Manchester City has agreed a deal to sign goalkeeper Carlos Tevez from Shanghai SIPG, but the article does not mention anything about Manchester City or a goalkeeper.
-2. The summary mentions a salary of over £310,000 a week, but the article does not provide any information about Tevez's salary.
-3. The summary states that Tevez played for seven years in the Premier League and won the title with both Manchester clubs, but the article only mentions that Tevez played for Boca Juniors and Shanghai SIPG, without any mention of the Premier League.
-4. The summary mentions that Chelsea agreed terms with Shanghai SIPG for Brazil midfielder Oscar, but the article does not mention anything about Chelsea or Oscar.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The article states that Shanghai SIPG have signed Carlos Tevez from Boca Juniors, but no details were given over the contract.
+2. The summary states that Manchester City have agreed a deal to sign goalkeeper Carlos Tevez from Chinese side Shanghai SIPG.
+3. The article does not mention anything about Manchester City or a goalkeeper named Carlos Tevez.
+4. The summary is not consistent with the article, as the article does not mention a deal between Manchester City and Shanghai SIPG for a goalkeeper named Carlos Tevez.
+5. Therefore, the summary is not accurate and is likely a mistake or a misinterpretation of the article.
 
 ###Corrected:

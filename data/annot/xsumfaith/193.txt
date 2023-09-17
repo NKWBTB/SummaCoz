@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    newport county director of rugby steve foxall says he expects to sign a new contract at rodney parade. 
-
-    Article: 
-    Fellow tenants Newport Gwent Dragons are subject to a takeover bid from the Welsh Rugby Union, who have said they see Rodney Parade "as a rugby venue."
+<Article>
+Fellow tenants Newport Gwent Dragons are subject to a takeover bid from the Welsh Rugby Union, who have said they see Rodney Parade "as a rugby venue."
 County have a lease to use the ground - and have primacy of fixtures on the venue if they remain in the Football League - until 2023.
 "Our view is quite clear - we've got a contract," Foxall said.
 "That is something that we're expecting to be honoured.
@@ -17,15 +14,21 @@ Newport RFC chairman Will Godfrey said both County and Newport Squash Club, who 
 Godfrey said the WRU had been made aware of that fact. The WRU have signalled their intention to install an artificial surface which is against Football League rules.
 On the pitch, County are two points clear of the League Two relegation with two games remaining after six wins in 10 games under caretaker manager Mike Flynn and can clinch survival this weekend if they win and rivals Hartlepool lose.
 Newport secured promotion back to the Football League in 2013 and Foxall said relegation to the National League would be a "massive" blow,
-"To lose that status again, in a relatively short space of time would be pretty devastating for the fans but also for the city of Newport," Foxall told BBC Wales Today. 
+"To lose that status again, in a relatively short space of time would be pretty devastating for the fans but also for the city of Newport," Foxall told BBC Wales Today.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+newport county director of rugby steve foxall says he expects to sign a new contract at rodney parade.
+</Summary>
 
-1. The summary states that Steve Foxall expects to sign a new contract at Rodney Parade, but the article does not mention anything about a new contract. Instead, it discusses the possibility of the Welsh Rugby Union taking over Newport Gwent Dragons, which could potentially affect Newport County's use of the stadium.
-2. The summary implies that Newport County has a secure future at Rodney Parade, stating that they have a lease until 2023 and that the WRU's takeover bid will be put to a vote. However, the article reveals that the WRU's takeover bid could potentially lead to the installation of an artificial surface, which is against Football League rules and could affect Newport County's ability to play at the stadium.
-3. The summary mentions nothing about the WRU's takeover bid or the potential installation of an artificial surface, which are major points in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It presents a more positive outlook for Newport County's future at Rodney Parade than the article actually provides.
+1. The summary states that Steve Foxall, the director of rugby for Newport County, expects to sign a new contract at Rodney Parade.
+2. However, the article does not mention anything about Steve Foxall signing a new contract. Instead, it mentions that the Welsh Rugby Union (WRU) has made a takeover bid for Newport Gwent Dragons, which is another tenant at Rodney Parade.
+3. The article also mentions that Newport County has a lease to use the ground until 2023 and has primacy of fixtures on the venue if they remain in the Football League.
+4. The WRU's takeover of Newport Gwent Dragons will be put to the vote on Tuesday, 9 May, and if successful, it could potentially lead to the installation of an artificial surface, which is against Football League rules.
+5. The article does not mention Steve Foxall or Newport County signing a new contract, so the summary is not consistent with the article.
+
+Therefore, the summary is not accurate because it implies that Steve Foxall is signing a new contract, which is not mentioned in the article.
 
 ###Corrected:

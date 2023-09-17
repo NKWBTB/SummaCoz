@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian rogers , 36 , has curated a haunting collection of nine old dolls which he claims each have their own personality .
-ian , who is single , and a vehicle image inspector from leicester says his obsession with the supernatural began at a young age .
-he has spent hundreds of pounds on the creepy collection - and he 's on the hunt for more . 
-
-    Article: 
-    one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+<Article>
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
 ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
 since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
 ian rogers owns nine haunted dolls all of which he says contain their own personality
@@ -59,20 +54,23 @@ she likes to be in the kitchen and had a husband that died of tb .
 max : an raf pilot who died in the second world war .
 he had a little girl who was five who he misses very much .
 he gave up his life to care for his sick mother , but when she passed away he took his own life .
-the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium . 
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+ian rogers , 36 , has curated a haunting collection of nine old dolls which he claims each have their own personality .
+ian , who is single , and a vehicle image inspector from leicester says his obsession with the supernatural began at a young age .
+he has spent hundreds of pounds on the creepy collection - and he 's on the hunt for more .
+</Summary>
 
-1. The summary states that Ian Rogers, a 36-year-old vehicle image inspector from Leicester, has a collection of nine haunted dolls, while the article states that he has a collection of nine old dolls, which he claims each have their own personalities.
-2. The summary mentions that Ian became hooked on the supernatural as a child and took part in his first ghost hunt in the year 2000, but the article does not mention this.
-3. The summary states that Ian gets his dolls from Jayne Harris, a professional in paranormal activity, and that she keeps the dolls for around six months to get an idea of their personalities before selling them on, but the article does not mention Jayne Harris or the fact that the dolls are sold.
-4. The summary mentions that Ian's sister found the dolls too mischievous and that he used to share his collection with her, but the article does not mention this.
-5. The summary states that Ian holds sessions with his dolls where guests interested in the paranormal can undertake a variety of activities, but the article does not mention this.
-6. The summary mentions that Ian avoids buying his dolls on eBay because there is no guarantee that they would be haunted, but the article does not mention this.
-7. The summary states that Ian is looking into investing in other supernatural souvenirs, but the article does not mention this.
-8. The summary mentions that Annabel, one of the dolls, is said to be haunted by the spirit of a seven-year-old girl who drowned while playing with her brother, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, such as the fact that Ian became hooked on the supernatural as a child, the source of the dolls, and the activities that Ian holds with his dolls. Additionally, the summary includes details that are not present in the article, such as the fact that the dolls are haunted and the personalities that Ian believes they possess.
+1. The summary states that Ian Rogers has curated a collection of nine old dolls, but the article states that he has nine haunted dolls.
+2. The summary does not mention that the dolls are haunted, whereas the article emphasizes this aspect several times.
+3. The summary does not provide any information about the personalities of the dolls, whereas the article states that each doll has its own personality and that Ian often asks others to guess their backstories.
+4. The summary does not mention Ian's obsession with the supernatural beginning at a young age, whereas the article states that he became interested in the supernatural as a child.
+5. The summary does not mention that Ian has spent hundreds of pounds on the collection, nor does it mention that he is on the hunt for more items.
+
+Overall, the summary does not provide a accurate representation of the article's content. It omits important details, such as the haunted nature of the dolls and Ian's obsession with the supernatural, and instead focuses on a more general description of the dolls.
 
 ###Corrected:

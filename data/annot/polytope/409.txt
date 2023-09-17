@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    corry ` corey ' campbell , 21 , was sentenced to 23 months in state prison for her role in the abuse in march/april 21 .  campbell believed the victim had hurt his cat , pebbles .  valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair .  
-
-    Article: 
-    three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+<Article>
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
 a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
 campbell believed the victim , greg valecce , had hurt his cat , pebbles .
 valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair , in the city 's northeast , however that basement would become a torture chamber where he would be strapped to a chair and violated for three days .
@@ -38,20 +35,21 @@ campbell 's attorney said his client had a rough childhood , with his father lea
 he was sentenced to 20 years in state prison .
 halin received the same sentence for what he did to valecce .
 ng , whose attorney who said she had fallen in with the wrong people at school , was sentenced to 23 months in a state prison .
-another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial . 
+another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+corry ` corey ' campbell , 21 , was sentenced to 23 months in state prison for her role in the abuse in march/april 21 .  campbell believed the victim had hurt his cat , pebbles .  valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair . 
+</Summary>
 
-1. The summary states that Corry `Corey' Campbell was sentenced to 23 months in state prison, but the article states that she was sentenced to 20 years in state prison.
-2. The summary mentions that Sandra Ng, Campbell's girlfriend, was sentenced to 23 months in state prison, but the article states that she was sentenced to 20 years in state prison, the same sentence as Campbell.
-3. The summary states that Jennifer Pratt is awaiting trial, but the article does not mention her.
-4. The summary does not mention the torture chamber where the abuse took place, as described in the article.
-5. The summary does not mention the tattoos that were carved onto Greg Valecce's body, as described in the article.
-6. The summary does not mention the fact that Valecce was beaten, tied to a chair, and covered in offensive tattoos, as described in the article.
-7. The summary does not mention the motive for the abuse, which was that Campbell believed Valecce had hurt her cat, Pebbles, as described in the article.
-8. The summary does not mention the fact that the abuse lasted for 42 hours, as described in the article.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary does not provide an accurate summary of the article, as it omits many key details and includes some inaccuracies.
+1. Inconsistent information: The summary states that Corry "Corey" Campbell, 21, was sentenced to 23 months in state prison, while the article states that Campbell was sentenced to 20 years in state prison.
+2. Missing details: The summary does not include any information about the other defendants involved in the case, such as David Harrison and Jennifer Pratt, who are awaiting trial or sentencing.
+3. Incorrect information: The summary states that the victim, Greg Valecce, was an unemployed drug addict, which is not accurate according to the article. The article states that Valecce was a 53-year-old man who was beaten, tied to a chair, and covered in offensive tattoos.
+4. Omitted details: The summary does not mention any of the specific details of the abuse that occurred, such as the fact that Valecce was beaten, tied to a chair, and covered in offensive tattoos.
+
+Overall, the summary is not a consistent or accurate representation of the article. It omits important details, includes incorrect information, and is not consistent with the information provided in the article.
 
 ###Corrected:

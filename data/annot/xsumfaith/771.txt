@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    macedonia\'s president joko hahn has said he is ``not decided\'\'to cut a knot, saying he wants to ``cut a knot\'\'. 
-
-    Article: 
-    He also cancelled an investigation into claims of abuse of power revealed by covert recordings, saying he wanted to "put an end to the agony" ahead of early elections in June.
+<Article>
+He also cancelled an investigation into claims of abuse of power revealed by covert recordings, saying he wanted to "put an end to the agony" ahead of early elections in June.
 But his move was condemned both by the opposition and by EU officials.
 Macedonia has been in turmoil since the recordings were released in 2015.
 In a televised address on Tuesday, President Ivanov said he acted to "defend national interests".
@@ -18,19 +15,21 @@ The crisis was sparked by covert recordings which appear to show ministers plott
 Mr Zaev has been releasing a steady stream of recordings since February 2015, accusing the government of wiretapping 20,000 people, including politicians, journalists and religious leaders.
 He says that scores of leaked recordings reveal corruption at the highest levels of government, including the mismanagement of funds, dubious criminal prosecutions of opponents and even cover-ups of killings.
 The government denies the accusations, and in return has accused Mr Zaev of trying to "destabilise" the Balkan nation.
-He rejects the claim. 
+He rejects the claim.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+macedonia\'s president joko hahn has said he is ``not decided\'\'to cut a knot, saying he wants to ``cut a knot\'\'.
+</Summary>
 
-1. The summary states that President Ivanov said he is "not decided" to cut a knot, but the article states that he has decided to put an end to the agony and cut a knot.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention the reason for President Ivanov's decision, while the article states that he acted to defend national interests.
+1. The summary states that Macedonia's President Ivanov has said he is "not decided" to cut a knot.
+2. However, the article states that President Ivanov has decided to cut a knot, as he said in a televised address that he has "decided to put an end to the agony and, metaphorically speaking, to cut a knot".
+3. Therefore, the summary is not consistent with the article, as it does not accurately reflect President Ivanov's statement.
+4. The reason for the inconsistency is that the summary misquotes President Ivanov's statement, omitting the word "decided" and making it sound as if he is undecided about cutting a knot.
+5. The article makes it clear that President Ivanov is decidedly cutting a knot, as he has taken action to put an end to the agony and is quoted as saying he has "decided to cut a knot".
 
-3. The summary does not mention the opposition leader's reaction or the EU officials' condemnation of the move, while the article states that the opposition leader called the move illegal and urged protesters to gather, and that EU officials condemned the move as not being in line with the rule of law.
-
-4. The summary does not mention the context of the crisis, which was sparked by covert recordings of ministers plotting vote-rigging and the cover-up of a murder, while the article provides this context.
-
-Therefore, the summary does not provide a complete and accurate picture of the article's content, and is not consistent with the article.
+In conclusion, the summary is not consistent with the article because it misquotes President Ivanov's statement, making it sound as if he is undecided about cutting a knot when the article clearly states that he has decided to do so.
 
 ###Corrected:

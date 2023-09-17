@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the parents of a woman murdered by her ex-boyfriend have said they knew immediately he was responsible. 
-
-    Article: 
-    Lance Corporal Trimaan "Harry" Dhillon stalked Alice Ruggles before fatally attacking her last October.
+<Article>
+Lance Corporal Trimaan "Harry" Dhillon stalked Alice Ruggles before fatally attacking her last October.
 Her parents Sue Hills and Clive Ruggles described the moment two Northumbria Police officers knocked on their door.
 Prof Ruggles said: "And then they said to us Alice has been killed. And we looked at each other and said 'It's Harry'. We knew, we knew even then."
 The trial at Newcastle Crown Court heard Dhillon had become obsessed with the 24-year-old and had stalked her.
@@ -19,17 +16,19 @@ She said: "And I sort of reassured her that was ok, the police knew what was goi
 Prof Ruggles said he didn't think any of them, including his daughter, realised how serious the situation was despite the signs.
 Her parents have set up the Alice Ruggles Trust and they said they were hoping to use that and their daughter's "vibrant personality" to make other people aware of the dangers of stalking.
 They said they wanted her to be remembered for that and as "smiling and laughing and making some sort of cheeky comment."
-Dhillon, 26, denied murder but was found guilty and sentenced to a minimum of 22 years. 
+Dhillon, 26, denied murder but was found guilty and sentenced to a minimum of 22 years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+the parents of a woman murdered by her ex-boyfriend have said they knew immediately he was responsible.
+</Summary>
 
-1. The summary states that the parents of Alice Ruggles knew immediately that her ex-boyfriend was responsible for her murder.
-2. However, the article states that her parents only knew that Dhillon was responsible after the police told them that Alice had been killed.
-3. The article quotes Prof Ruggles as saying "And I thought she was over-reacting so I just said 'don't be silly'."
-4. This suggests that the parents did not have any suspicions about Dhillon's involvement in Alice's murder before the police told them.
-5. Therefore, the summary is not consistent with the article because it states that the parents knew immediately that Dhillon was responsible, while the article states that they only knew after the police told them.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it implies that the parents had suspicions about Dhillon's involvement before the police told them, which is not supported by the article.
+1. The summary states that the parents of the murdered woman knew immediately that her ex-boyfriend was responsible for her death.
+2. However, the article states that the parents only knew that their daughter had been killed and did not initially suspect her ex-boyfriend.
+3. The article quotes Prof Ruggles as saying, "And then they said to us Alice has been killed. And we looked at each other and said 'It's Harry'. We knew, we knew even then."
+4. This suggests that the parents did not know immediately that her ex-boyfriend was responsible for her death, but rather pieced together the information that he was the perpetrator over time.
+5. Therefore, the summary is not consistent with the article, as it states that the parents knew immediately that the ex-boyfriend was responsible, while the article indicates that they did not have this knowledge initially.
 
 ###Corrected:

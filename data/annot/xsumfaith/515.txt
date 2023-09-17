@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it was ten years ago that ruth and her husband nigel packed up their life in london and bought the blue palm cafe in marbella. 
-
-    Article: 
-    It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
+<Article>
+It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
 It wasn't just the weather that made the Stevensons leave the UK.
 Their cleaning business was in trouble because it was being undercut by companies run by Polish migrants.
 But so what, Nigel says. He thinks British people need to ''up their game'' and stop complaining about immigration.
@@ -30,17 +27,19 @@ Largest number of Brits living in EU countries, according to Migration Watch.
 There have also been warnings that the Spanish government could start charging them for their healthcare.
 Speaking to members after the match it was striking how many wanted to get out of the EU and how few had thought about how they might be affected financially.
 Whilst one couple worried about their pensions, the others did not seem particularly bothered about being charged for health care; almost all of them had private health insurance.
-John Richardson, summed up the mood best. ''Oh, they'll sort something out''. 
+John Richardson, summed up the mood best. ''Oh, they'll sort something out''.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+it was ten years ago that ruth and her husband nigel packed up their life in london and bought the blue palm cafe in marbella.
+</Summary>
 
-1. The summary states that Ruth and her husband Nigel packed up their life in London and bought the Blue Palm Cafe in Marbella ten years ago. However, the article does not mention anything about them buying a cafe or moving to Marbella.
-2. The summary mentions that the Stevensons left the UK because of the economic situation and the influx of Polish migrants, but the article does not provide any information about the reasons for their departure.
-3. The summary states that Mark Connor is a singer and radio DJ who performs at a nearby Irish bar, but the article does not mention anything about his profession or where he performs.
-4. The summary mentions that there are 309,000 Brits registered as having residency in Spain, but the article does not provide any information about the number of Brits living in Spain.
-5. The summary states that the Spanish government could make it harder for Brits to live and work in Spain if the UK leaves the EU, but the article does not mention anything about the Spanish government's stance on this issue.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits other important details that are mentioned in the article.
+1. The summary states that Ruth and her husband Nigel moved to Marbella ten years ago, but the article does not mention this. The article only mentions that they have been living in Spain for a few years and that they are expats.
+2. The summary also states that Ruth and Nigel run a cafe in Marbella, but the article does not mention this. The article only mentions that they have a cleaning business that is struggling due to competition from Polish migrants.
+3. The summary implies that Ruth and Nigel are voting to leave the EU, but the article does not mention their voting intentions. The article only mentions that Nigel will be voting for Remain.
+
+Therefore, the summary is not consistent with the article. The information in the summary is not supported by the article, and some of the information in the summary is even contradictory to the article.
 
 ###Corrected:

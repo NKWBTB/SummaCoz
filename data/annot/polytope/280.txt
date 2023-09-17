@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    fc tokyo forward yoshinori muto has admitted that he is still considering a move to chelsea as he wants to join a club where he will ' play and develop ' .
-chelsea have made an offer for muto according to fc tokyo president naoki ogane .
-chelsea would look to loan muto to partner club vitesse arnhem next season . 
-
-    Article: 
-    fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
+<Article>
+fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
 earlier this month club president naoki ogane claimed that the blues have made an offer - believed to be around £ 4million - for the japan international .
 chelsea would look to loan muto to partner club vitesse arnhem next season but the 22-year-old is keen to join a club where he will play regularly and realise his potential .
 fc tokyo forward yoshinori muto has a shot against shonan bellmare during a j-league clash
@@ -36,17 +31,21 @@ asked about muto earlier this month , mourinho said : ` i know a little about hi
 i do n't think it is nice for me to talk about a player who plays for fc tokyo .
 ` if a fc tokyo manager talks about my player i would n't be happy.it is not nice for me to speak about other players .
 ` in modern football and football is a business , an industry , you have to think about the financial situation , especially a club like chelsea that wants to be in the rules like financial fair play .
-` but we want to win matches and do n't get a player unless he is a good player or a good prospect . ' 
+` but we want to win matches and do n't get a player unless he is a good player or a good prospect . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+fc tokyo forward yoshinori muto has admitted that he is still considering a move to chelsea as he wants to join a club where he will ' play and develop ' .
+chelsea have made an offer for muto according to fc tokyo president naoki ogane .
+chelsea would look to loan muto to partner club vitesse arnhem next season .
+</Summary>
 
-1. The summary states that Muto is considering a move to Chelsea because he wants to join a club where he will "play and develop." However, the article states that Muto is considering a move to Chelsea because he wants to join a club where he will "play regularly and realize his potential." The wording is slightly different, indicating that the summary may not accurately reflect the content of the article.
-2. The summary mentions that Chelsea would loan Muto to partner club Vitesse Arnhem next season, but the article does not mention this. Instead, the article states that Chelsea would consider loaning Muto to another club if they sign him.
-3. The summary quotes Muto as saying "where can I go to develop?" and "a team that suits me, where I can play and develop." However, these quotes are not found in the article. The article only quotes Muto as saying "I want to think about it carefully" and "I'm thinking about that, and for now I just want to take my time and think it through."
-4. The summary mentions that Real Zaragoza boss Ranko Popovic gave Muto his debut for FC Tokyo in July 2013, but the article does not mention this. Instead, the article states that Muto was given his debut by FC Tokyo manager Naoki Ogane.
-5. The summary quotes Popovic as saying that Muto has "amazing potential" and is "a different guy" who is "not such a usual player." However, these quotes are not found in the article. The article only quotes Popovic as saying that Muto is a "smart" and "intelligent" player who has "something different" to other players.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary appears to have taken some creative liberties with the content of the article, resulting in inconsistencies and inaccuracies.
+1. The summary states that Chelsea have made an offer for Muto, but the article does not mention any such offer. The article only mentions that Chelsea are interested in Muto and that their manager, Jose Mourinho, is aware of the player.
+2. The summary states that Muto wants to join a club where he will "play and develop," but the article does not provide any quotes from Muto that suggest he is considering a move to Chelsea for this reason. In fact, the article quotes Muto as saying he wants to take his time and think carefully about his future, rather than stating a clear desire to join Chelsea.
+3. The summary states that Chelsea would look to loan Muto to partner club Vitesse Arnhem next season, but the article does not mention this. The article only mentions that Chelsea have a £200 million sponsorship deal with Japanese tyre manufacturer Yokohama Rubber, but it does not suggest that this deal has any bearing on their transfer policy or their interest in Muto.
+
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the article. Specifically, the summary states that Chelsea have made an offer for Muto, that Muto wants to join Chelsea to "play and develop," and that Chelsea would look to loan Muto to Vitesse Arnhem next season. None of these statements are supported by the article.
 
 ###Corrected:

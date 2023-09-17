@@ -1,23 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a fire at a derelict building in newport is being investigated by police. 
-
-    Article: 
-    Crews were called to a building site in Bloomery Circle, Llanwern, at 21:15 BST on Wednesday.
+<Article>
+Crews were called to a building site in Bloomery Circle, Llanwern, at 21:15 BST on Wednesday.
 The blaze burned for more than 10 hours before it was extinguished.
 It is understood the burning material included a large amount of scrapped railway sleepers.
-A Gwent Police spokesman said: "Officers are investigating the circumstances surrounding the fire... which is believed to have been deliberately set." 
+A Gwent Police spokesman said: "Officers are investigating the circumstances surrounding the fire... which is believed to have been deliberately set."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a fire at a derelict building in newport is being investigated by police.
+</Summary>
 
-1. The summary states that the fire was at a derelict building in Newport, but the article does not mention any derelict building. Instead, it states that the fire was at a building site in Bloomery Circle, Llanwern. Therefore, the summary is not consistent with the article.
-2. The summary mentions that police are investigating the fire, which is correct according to the article. However, the article does not mention any specific details about the investigation, such as the fact that the fire is believed to have been deliberately set.
-3. The summary mentions that the burning material included a large amount of scrapped railway sleepers, but the article does not mention this detail. The article only states that the fire burned for more than 10 hours before it was extinguished, without providing any information about the type of materials that were burning.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+1. The article states that the fire occurred in Bloomery Circle, Llanwern, which is not the same location as a derelict building in Newport. The summary incorrectly states that the fire occurred in a derelict building in Newport.
+2. The article mentions that the burning material included a large amount of scrapped railway sleepers, which is not mentioned in the summary.
+3. The article states that the fire is believed to have been deliberately set, which is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it incorrectly states the location of the fire, omits important details about the burning material, and fails to mention the suspicion of arson.
 
 ###Corrected:

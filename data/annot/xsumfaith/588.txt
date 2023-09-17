@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    scientists are studying dolly the sheep\'s ``siblings\'\'in order to study the health of cloned animals-and resolve a puzzle over whether they age normally. 
-
-    Article: 
-    "I'm feeling the joints for any kind of heat or swelling."
+<Article>
+"I'm feeling the joints for any kind of heat or swelling."
 Veterinary surgeon Dr Sandra Corr puts Daisy the sheep through a very hands-on physical examination.
 "I'm looking for any signs of crepitus or lameness," she says, "Anything that might indicate the onset of disease or osteoarthritis."
 But Daisy is not just any sheep. She's a clone. One of a flock of 13 cloned sheep currently living out their lives on a farm owned by the University of Nottingham, and one of only four (the others are Debbie, Denise and Diane) cloned from the same adult ewe as Dolly the sheep - the first cloned mammal born in 1996.
@@ -26,15 +23,19 @@ But by then Dolly was already suffering from osteoarthritis which, although not 
 Getting the answers to those questions has involved putting the dollies, and nine other sheep cloned from different cell lines, through an exhaustive battery of tests and assessments including regular joint X-rays and a series of full-body fMRI scans.
 Prof Sinclair said: "We focused on three co-morbidities: cardiovascular disease, diabetes and osteoarthritis - the three co-morbidities most associated with aging. Were these animals any different from the wider population of sheep with regard to these particular co-morbidities."
 The results of the study, which could have profound implications for the future of cloning, will be published next week. But for now, the dollies, which are approaching their ninth and tenth birthdays, seem to be in rude health.
-Follow Tom on Twitter. 
+Follow Tom on Twitter.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+scientists are studying dolly the sheep\'s ``siblings\'\'in order to study the health of cloned animals-and resolve a puzzle over whether they age normally.
+</Summary>
 
-1. The summary states that scientists are studying Dolly's "siblings" to study the health of cloned animals and resolve a puzzle over whether they age normally. However, the article does not mention anything about studying Dolly's siblings. Instead, it mentions that the researchers are studying a flock of 13 cloned sheep that were created using the same cell line as Dolly.
-2. The summary mentions that the researchers are studying the sheep to determine if they age normally and if they are healthy. However, the article does not provide any information about the sheep's age or health. Instead, it focuses on the fact that the researchers are using the cloned sheep to study the effects of cloning on animal health and aging.
-3. The summary states that the researchers are studying the sheep to resolve a puzzle over whether cloned animals age normally. However, the article does not mention any puzzle or uncertainty about cloned animals aging normally. Instead, it presents the research as an attempt to understand the effects of cloning on animal health and aging.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents a different focus and tone than the article. The summary emphasizes the study of Dolly's siblings and the puzzle of cloned animals aging normally, while the article focuses on the researchers' attempt to understand the effects of cloning on animal health and aging.
+1. The summary states that scientists are studying Dolly the sheep's "siblings" to study the health of cloned animals and resolve a puzzle over whether they age normally.
+2. The article does mention that the sheep are being studied to determine if they age normally and to address concerns about premature aging, but it does not mention anything about "siblings" of Dolly.
+3. The article explains that the sheep are clones of Dolly, and that they are being studied to determine if the cloning process affects their aging process.
+4. The summary incorrectly implies that the sheep being studied are Dolly's siblings, when in fact they are clones of Dolly.
+5. Therefore, the summary is not consistent with the article, as it contains incorrect information about the relationship between the sheep being studied and Dolly.
 
 ###Corrected:

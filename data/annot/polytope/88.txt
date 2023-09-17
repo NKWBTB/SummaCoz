@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    lacey spears of scottsville , kentucky , was spared the maximum 25 years to life and instead received 20 , showing no emotion when she was sentenced
-the new york judge who sentenced spears on wednesday said she suffers from a mental illness and said the crime was still ` unfathomable in its cruelty ' 
-
-    Article: 
-    the ex of a woman convicted of killing their five-year-old son by poisoning him with salt has lashed out on facebook just days after she was sentenced to 20 years to life in prison .
+<Article>
+the ex of a woman convicted of killing their five-year-old son by poisoning him with salt has lashed out on facebook just days after she was sentenced to 20 years to life in prison .
 lacey spears of scottsville , kentucky , who was spared the maximum 25 years to life , appeared emotionless as the verdict was read in the death of her son garnett-paul spears .
 the boy 's father , chris hill , was not emotionless however and wrote of his wife 's sentence ; ` please put her in general population !
 thats all im asking for !
@@ -44,17 +40,27 @@ abnormalities , according to court papers .
 her social media posts about his ongoing problems and
 hospitalizations , including photos of his final hours on life
 support , were introduced as evidence by the prosecution at
-spears did not testify at the trial . 
+spears did not testify at the trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+lacey spears of scottsville , kentucky , was spared the maximum 25 years to life and instead received 20 , showing no emotion when she was sentenced
+the new york judge who sentenced spears on wednesday said she suffers from a mental illness and said the crime was still ` unfathomable in its cruelty '
+</Summary>
 
-1. The summary states that Lacey Spears showed no emotion when she was sentenced, but the article states that she appeared emotionless as the verdict was read. This inconsistency suggests that the summary may not accurately reflect the article's information.
-2. The summary mentions that the judge said Lacey Spears suffers from a mental illness, but the article does not mention this. This inconsistency suggests that the summary may have added or altered information not present in the article.
-3. The summary states that prosecutors asked for the maximum sentence, but the article does not mention this. This inconsistency suggests that the summary may have added or altered information not present in the article.
-4. The summary states that Lacey Spears' lawyer requested the minimum sentence, but the article does not mention this. This inconsistency suggests that the summary may have added or altered information not present in the article.
-5. The summary mentions that Lacey Spears was spared the maximum sentence and received 20 years, but the article states that she was sentenced to 20 years to life in prison. This inconsistency suggests that the summary may have misinterpreted or misstated the article's information.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inconsistencies with the article, suggesting that it may not accurately reflect the information in the article.
+The provided summary is not consistent with the article because it leaves out several key details and presents a misleading account of the events. Here's a step-by-step explanation of the inconsistencies:
+
+1. Sentence length: The summary states that Lacey Spears received 20 years to life, while the article states that she was sentenced to 20 years to life with the possibility of parole.
+2. Emotion: The summary mentions that Lacey Spears showed no emotion during her sentencing, but the article states that she appeared emotionless.
+3. Mental illness: The summary does not mention the judge's statement that Lacey Spears suffers from a mental illness, which is a significant detail in the article.
+4. Prosecutors' request: The summary does not mention that prosecutors asked for the maximum sentence, which is an important aspect of the case.
+5. Cause of death: The summary does not mention that Lacey Spears loaded her son's feeding tube with a lethal amount of salt, which was the cause of his death.
+6. Hospital blame: The summary does not mention that prosecutors blamed the hospital for negligence, which is a significant detail in the article.
+7. Son's suffering: The summary does not mention the prosecutors' statement that Garnett Spears was forced to suffer through repeated hospitalizations, unneeded surgical procedures, and ultimately poisoning with salt, all at the hands of his mother.
+8. Social media posts: The summary does not mention that Lacey Spears posted about her son's ongoing problems and hospitalizations on social media, which was introduced as evidence by the prosecution.
+
+Overall, the summary leaves out many important details and presents a misleading account of the events. It is not consistent with the article and should not be relied upon as an accurate summary of the case.
 
 ###Corrected:

@@ -1,24 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    joe thompson has signed a six-month contract with league one side rochdale, returning to the club with which he began his career. 
-
-    Article: 
-    The midfielder more than 150 appearances for Dale before joining Tranmere in 2012, and returned for a loan spell in 2013.
+<Article>
+The midfielder more than 150 appearances for Dale before joining Tranmere in 2012, and returned for a loan spell in 2013.
 The 27-year-old was released by Carlisle United at the end of the 2015-16 campaign.
 Rochdale began 2016-17 with a 3-2 home defeat by Peterborough on Saturday.
-Find all the latest football transfers on our dedicated page. 
+Find all the latest football transfers on our dedicated page.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+joe thompson has signed a six-month contract with league one side rochdale, returning to the club with which he began his career.
+</Summary>
 
-1. The summary states that Joe Thompson has signed a six-month contract with Rochdale, but the article does not mention the length of his contract. The article only mentions that he has returned to the club on a loan spell.
-2. The summary states that Joe Thompson began his career with Rochdale, but the article does not mention this. The article states that he made more than 150 appearances for the club before joining Tranmere in 2012.
-3. The summary states that Joe Thompson was released by Carlisle United at the end of the 2015-16 campaign, but the article does not mention this. The article only mentions that he was released by Carlisle United.
-4. The summary states that Rochdale began the 2016-17 season with a 3-2 home defeat by Peterborough on Saturday, but the article does not mention the date or the result of the match.
-
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+Explain your reasoning step by step:[/INST]
+1. The summary states that Joe Thompson has signed a six-month contract with League One side Rochdale, returning to the club where he began his career.
+2. The article does not mention anything about Joe Thompson signing a six-month contract with Rochdale. Instead, it mentions that he was released by Carlisle United at the end of the 2015-16 campaign.
+3. The article does mention that Rochdale began the 2016-17 season with a 3-2 home defeat by Peterborough on Saturday, but this information is not present in the summary.
+4. Therefore, the summary is not consistent with the article because it contains information that is not present in the article (Joe Thompson signing a six-month contract with Rochdale) and leaves out information that is present in the article (Rochdale's 3-2 home defeat by Peterborough on Saturday).
 
 ###Corrected:

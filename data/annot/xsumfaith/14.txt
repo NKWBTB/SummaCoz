@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it\'s one of the most common stories of the festive season. 
-
-    Article: 
-    Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
+<Article>
+Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
 Am I right?
 If that sounds all too familiar and you fancy keeping the whole thing a bit more spiritual this year without giving up your gadgets, here are five ways to enjoy Christmas online:
 Everyday Church Online, which launched in the UK in September, runs virtual services every Sunday for a net-based congregation from around the world. Everyone's invited to log on and chat while a recorded sermon is streamed.
@@ -45,17 +42,21 @@ As if you needed the excuse. But lots of groups are using platforms like Faceboo
 "The Church is mostly trying to just drop thoughts in, get people to fix their gaze on something a little bit higher for a second and maybe consider things that are a bit more spiritual rather than earthly."
 "Jesus would definitely be on Twitter," adds Jules Middleton, blogger and mission pastor at The Point Church in Burgess Hill, West Sussex.
 "He was a great communicator."
-Sounds like a seal of approval to me. 
+Sounds like a seal of approval to me.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+it\'s one of the most common stories of the festive season.
+</Summary>
 
-1. The summary mentions "the festive season," which implies that the article is about Christmas, but the article does not mention Christmas once.
-2. The summary talks about "batteries for the children's new toys," which is not mentioned in the article.
-3. The summary mentions "a net-based congregation" and "virtual prayer requests," which are not present in the article.
-4. The summary talks about "the force awakens," which is a reference to the Star Wars franchise, but the article does not mention Star Wars.
-5. The summary mentions "a weird, wonderful, amazing place" and "fantasy game," which are not present in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes elements that are not present in the article and omits key points that are mentioned in the article.
+The given summary is not consistent with the article because:
+
+1. The summary only mentions one story, while the article discusses multiple stories and topics related to Christmas.
+2. The summary does not provide any specific information or details about the story, while the article provides a comprehensive overview of different aspects of Christmas, including virtual church services, online games, and social media usage.
+3. The summary does not convey the same tone and theme as the article, which is focused on the spiritual and religious aspects of Christmas, while the summary is more general and does not provide any specific context or meaning.
+
+Therefore, the given summary is not a consistent representation of the article and does not provide an accurate summary of its content.
 
 ###Corrected:

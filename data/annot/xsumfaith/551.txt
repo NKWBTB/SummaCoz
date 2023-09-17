@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the theory that women get paid less than men because they are not sufficiently pushy in the workplace is not true, a new study suggests. 
-
-    Article: 
-    Women are as likely as men to ask for a pay rise - but are less likely to get one, the research found.
+<Article>
+Women are as likely as men to ask for a pay rise - but are less likely to get one, the research found.
 The study, by the Cass Business School and the universities of Warwick and Wisconsin, looked at 4,600 workers.
 It found "no support" for the "reticent female" theory, whereby women avoided asking for more money.
 For what it claimed was the first time, the study eliminated any impact from part-time workers earning less than their full-time counterparts, by comparing full-time males with full-time females, and part-time males with part-time females.
@@ -20,16 +17,19 @@ He said one possibility was that unsuccessful men who asked for a pay rise, but 
 "Having seen these findings, I think we have to accept that there is some element of pure discrimination against women," Prof Oswald added.
 "It could be that Australia is odd. But it's a modern industrial economy halfway in character between Britain and the US, so I think that's unlikely."
 The study also found differences according to age, with women and men under 40 both asking for and receiving pay rises at the same rate, which the researchers said could mean that negotiating behaviour had started to change.
-Dr Amanda Goodall from Cass Business School - part of City, University of London - and a co-author of the study, said: "The study potentially has an upside. Young women today are negotiating their pay and conditions more successfully than older females, and perhaps that will continue as they become more senior." 
+Dr Amanda Goodall from Cass Business School - part of City, University of London - and a co-author of the study, said: "The study potentially has an upside. Young women today are negotiating their pay and conditions more successfully than older females, and perhaps that will continue as they become more senior."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the theory that women get paid less than men because they are not sufficiently pushy in the workplace is not true, a new study suggests.
+</Summary>
 
-1. The summary states that the study suggests that the theory that women get paid less than men because they are not sufficiently pushy in the workplace is not true. However, the article does not mention this theory or provide any evidence to support or refute it.
-2. The article actually found that women are as likely as men to ask for a pay rise, but are less likely to get one. This contradicts the summary's statement that women are not pushy enough to ask for more money.
-3. The article also found that men were 25% more likely to get a pay rise when they asked, compared to women. This suggests that there may be a pay disparity between men and women, even when they have the same negotiation skills and ask for raises at the same rate.
-4. The summary does not mention the other findings of the study, such as the differences in pay rises according to age and the fact that unsuccessful men may be more likely to keep their failed pay rise requests to themselves.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the findings of the study and is not consistent with the article.
+1. The summary states that the study found "no support" for the theory that women are not pushy enough in the workplace to get paid equally as men.
+2. However, the article states that the study found the opposite - that men were 25% more likely to get a pay rise when they asked, compared to women.
+3. Therefore, the summary is not consistent with the article, as it suggests that the study found no evidence for the theory that women are not pushy enough, while the article states that the study found evidence for this theory.
+4. The article also provides additional information that contradicts the summary, such as the finding that men were more likely to get a pay rise when they asked, and that there was no evidence for the idea that women were reluctant to ask for a salary increase because they were more wary of upsetting their boss.
+5. Therefore, the summary is not an accurate representation of the article's findings, and it is not consistent with the information provided in the article.
 
 ###Corrected:

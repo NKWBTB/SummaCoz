@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    rory johnson says he has a ``freak accident happen\'\'in the first round of the us open in mexico. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The American, 32, looked set to take part after warming up on the range but he then withdrew on the first tee.
 The US Open champion fell on the stairs and hurt his lower back on Wednesday.
 "I'm playing the best golf of my life and to have a freak accident happen yesterday afternoon, it sucks really bad," said Johnson.
@@ -18,16 +15,22 @@ Johnson was a popular pick to win the first major of the year as a result of the
 As well as winning last year's US Open by four shots, he finished ninth at the Open Championship and tied fourth at the Masters.
 BBC Radio 5 live correspondent Iain Carter
 Johnson took until the very last second to make what must have been an agonising decision to pull out. He was standing on the first tee before making the toughest call of his career. It is a severe blow for the player who has dominated golf this season.
-He arrived here off the back of three big victories and was a justifiable favourite. All that has been lost through his freak fall at his rental home and the damage done to his back. 
+He arrived here off the back of three big victories and was a justifiable favourite. All that has been lost through his freak fall at his rental home and the damage done to his back.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+rory johnson says he has a ``freak accident happen\'\'in the first round of the us open in mexico.
+</Summary>
 
-1. The summary states that Rory Johnson withdrew from the US Open due to a "freak accident" that happened the day before.
-2. However, the article states that Johnson withdrew due to a fall on the stairs that hurt his lower back.
-3. The summary does not mention anything about a fall or injury, only a "freak accident."
-4. Therefore, the summary is not consistent with the article, as the article does not support the idea that Johnson withdrew due to a freak accident. Instead, the article states that he withdrew due to an injury sustained from a fall.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it misrepresents the reason for Johnson's withdrawal. The article provides a clear explanation for his withdrawal, but the summary does not accurately reflect that information.
+1. The summary states that Rory Johnson suffered a "freak accident" in the first round of the US Open in Mexico.
+2. However, the article states that Johnson withdrew from the tournament before the first round due to a fall on the stairs that hurt his lower back.
+3. The summary does not mention anything about Johnson withdrawing from the tournament or falling on the stairs.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the reason for Johnson's absence from the tournament.
+5. The article provides more details about Johnson's injury, including the fact that he fell on the stairs and hurt his lower back, and that he was unable to compete in the tournament as a result.
+6. The summary does not provide any of these details, and instead only mentions a "freak accident" happening in the first round.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the reason for Johnson's absence from the tournament, and it does not provide any details about his injury.
 
 ###Corrected:

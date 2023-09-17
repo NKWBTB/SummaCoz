@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
-the 15-year-old , from whitley bay , was left on a heart machine after she collapsed through starvation but has now spoken about pressures put on teenagers to be a ` size zero ' .
-laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia 
-
-    Article: 
-    just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
+<Article>
+just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
 the 15-year-old , from whitley bay , was left on a heart machine after she collapsed through starvation but has now spoken about pressures put on teenagers to be a ` size zero ' .
 laura became so obsessed with having the perfect figure she would hide food down the side of her bed , lying to her mother about eating and sometimes surviving on just a piece of fruit a day .
 laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia
@@ -53,17 +48,23 @@ but she just said " i do n't care , as long as i 'm skinny " .
 ` it was then i realised just how much pressure she , and all girls , were under to look a certain way . '
 after getting discharged laura began working with eating disorder teams ( edict ) and child and adolescent mental health services ( camhs ) to help in her recovery .
 today , her body image is better than ever and her new-found confidence has allowed her to make it through to the semi final of miss teen gb .
-the contest aims to promote ` positive and confidence-building experiences ' for young girls , away from size zero stereotypes . 
+the contest aims to promote ` positive and confidence-building experiences ' for young girls , away from size zero stereotypes .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
+the 15-year-old , from whitley bay , was left on a heart machine after she collapsed through starvation but has now spoken about pressures put on teenagers to be a ` size zero ' .
+laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia
+</Summary>
 
-1. The summary states that Laura became obsessed with her weight and developed anorexia after feeling pressure to be a size zero, but the article does not mention anything about Laura feeling pressure to be a size zero. Instead, it states that Laura wanted to go on a diet to lose weight because she felt bullied and wanted to fit in with her peers.
-2. The summary states that Laura restricted her food intake and would hide her food down the side of her bed, but the article does not mention anything about Laura hiding her food. Instead, it states that Laura would lie to her parents about eating and would sometimes survive on just one piece of fruit a day.
-3. The summary states that Laura's body started to shut down and she collapsed through starvation, but the article does not mention anything about Laura collapsing. Instead, it states that Laura was rushed to intensive care after she suddenly collapsed at her family home.
-4. The summary states that Laura's dramatic weight loss was due to her anorexia, but the article does not mention anything about Laura's weight loss being due to anorexia. Instead, it states that Laura's weight loss was due to her restrictive eating habits.
-5. The summary states that Laura has spoken out about the pressures on young girls to be a size zero, but the article does not mention anything about Laura speaking out about this issue. Instead, it states that Laura has spoken about her two-year fight with anorexia and the pressures she felt to be thin.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the importance of size zero pressure and downplays the role of bullying and peer pressure in Laura's development of anorexia. Additionally, the summary misrepresents some of the facts in the article, such as Laura's food habits and her weight loss.
+1. The summary states that Laura Scurr was "in the grip of a terrifying obsession surviving on just one piece of fruit a day" and her body started to shut down.
+2. The article states that Laura became obsessed with her weight and developed anorexia after feeling pressure to be a "size zero".
+3. However, the summary does not mention the word "anorexia" or any of the other details about Laura's condition, such as her obsessive behavior, restrictive eating, or the consequences of her actions.
+4. Instead, the summary focuses solely on the pressure to be a "size zero" and does not provide any context or information about Laura's specific situation.
+5. Therefore, the summary is not consistent with the article because it does not accurately convey the details of Laura's experience with anorexia and the pressures she faced.
+6. The summary is more general and does not provide any specific information about Laura's case, while the article provides a detailed account of her experience with anorexia and the pressures she faced.
+7. The summary is not a accurate representation of the article and is not consistent with the information provided in the article.
 
 ###Corrected:

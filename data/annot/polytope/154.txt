@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    amazing pictures have emerged of blue fluorescent algae lighting up australia 's east coast . 
-the images were taken in jervis bay which is in the south coast of new south wales . 
-a similar display was shown in sydney 's manly beach back in august 2014 . 
-the glow is caused by noctiluca scintillans which is a single celled phytoplankton - the algae of the sea . 
-
-    Article: 
-    amazing pictures have emerged of blue fluorescent algae lighting up australia 's east coast .
+<Article>
+amazing pictures have emerged of blue fluorescent algae lighting up australia 's east coast .
 the images were taken in jervis bay , the south coast of nsw , as the neon glow illuminated one of australia 's popular beaches .
 photographer andy hutchinson described the sight as a ` beautiful supernatural scene ' caused by millions of plankton omitting light .
 a similar display was shown in sydney 's manly beach back in august 2014 where an oceanography expert told daily mail australia there was no need to be concerned about the algae .
@@ -20,19 +14,28 @@ the amazing images were taken in jervis bay which is in the south coast of new s
 photograher andy hutchinson captured trhe neon glow illuminating one of australia 's popular beaches
 mr hutchinson described the sight as a ` beautiful supernatural scene ' caused by millions of plankton omitting light
 a similar display - like the one in jervis bay ( pictured ) - was shown in sydney 's manly beach back in august 2014
-iain suthers , of university of new south wales , says the algae blossoms in the spring and the autumn 
+iain suthers , of university of new south wales , says the algae blossoms in the spring and the autumn
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+amazing pictures have emerged of blue fluorescent algae lighting up australia 's east coast . 
+the images were taken in jervis bay which is in the south coast of new south wales . 
+a similar display was shown in sydney 's manly beach back in august 2014 . 
+the glow is caused by noctiluca scintillans which is a single celled phytoplankton - the algae of the sea .
+</Summary>
 
-1. The summary states that the images were taken in Jervis Bay, which is on the south coast of New South Wales. However, the article states that the images were taken in Jervis Bay, which is on the south coast of New South Wales.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the glow is caused by Noctiluca scintillans, a single-celled phytoplankton. However, the article states that the glow is caused by Noctiluca scintillans, a single-celled phytoplankton, but also mentions that the algae blossoms in the spring and autumn and in 90% of occasions occurs due to natural causes.
+1. The article states that the algae glows in the spring and autumn, but the summary only mentions that it glows in the summer.
 
-3. The summary does not mention the fact that the glow is a defense mechanism of the algae, as stated in the article.
+2. The article explains that the glow is caused by Noctiluca scintillans, a single-celled phytoplankton, but the summary does not mention this.
 
-4. The summary states that a similar display was shown in Sydney's Manly Beach back in August 2014, but the article does not mention this.
+3. The article mentions that the glow is a defense mechanism, but the summary does not mention this.
 
-Therefore, the summary is not consistent with the article because it does not accurately represent all the information provided in the article. The summary leaves out important details, such as the fact that the glow is a defense mechanism of the algae, and includes information that is not present in the article, such as the display in Manly Beach.
+4. The article states that the display was shown in Jervis Bay and Manly Beach, but the summary only mentions Jervis Bay.
+
+5. The article provides more details about the phenomenon, such as the fact that it is caused by millions of plankton omitting light, but the summary does not include these details.
+
+Therefore, the summary is not consistent with the article because it does not provide all the information included in the article, and it does not accurately convey the main points of the article.
 
 ###Corrected:

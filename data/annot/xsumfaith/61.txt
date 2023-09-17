@@ -1,24 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    barnsley have signed wrexham striker kayden jackson for an undisclosed fee on a three-year deal. 
-
-    Article: 
-    Jackson, 22, scored four goals in 36 appearances last season as Wrexham finished eighth in the table.
+<Article>
+Jackson, 22, scored four goals in 36 appearances last season as Wrexham finished eighth in the table.
 He is Barnsley's third signing for next season, ahead of their League One play-off final at Wembley on Sunday.
 "Kayden has pace to burn, likes to get at defenders and will fit in nicely to the way we play," caretaker boss Paul Heckingbottom told the club website.
 Jackson turned down a contract offer from Wrexham for next season.
-Find all the latest football transfers on our dedicated page. 
+Find all the latest football transfers on our dedicated page.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+barnsley have signed wrexham striker kayden jackson for an undisclosed fee on a three-year deal.
+</Summary>
 
-1. The summary states that Barnsley have signed Kayden Jackson for an undisclosed fee on a three-year deal.
-2. However, the article states that Jackson turned down a contract offer from Wrexham for next season, indicating that he is not signing a three-year deal with Barnsley.
-3. Therefore, the summary is not consistent with the article because it states that Jackson has signed a three-year deal with Barnsley, while the article states that he has turned down a contract offer from Wrexham.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my step-by-step reasoning for why the summary is not consistent with the article:
 
-So, the reason why the summary is not consistent with the article is that it incorrectly states that Jackson has signed a three-year deal with Barnsley, when in fact he has turned down a contract offer from Wrexham.
+1. The summary states that Barnsley have signed Kayden Jackson for an undisclosed fee on a three-year deal. However, the article does not mention any transfer fee or contract length.
+2. The article states that Jackson turned down a contract offer from Wrexham for next season, indicating that he was already under contract with Wrexham and had the option to extend his stay with the club. However, the summary does not mention anything about Jackson being under contract with Wrexham or turning down a contract offer.
+3. The summary mentions that Jackson will fit in nicely to the way Barnsley play, suggesting that he will be a key player for the team. However, the article does not provide any information about Jackson's playing style or his potential role in the team.
+
+Overall, the summary is not consistent with the article because it provides information that is not supported by the text. Specifically, the summary mentions a transfer fee and contract length that are not mentioned in the article, and it also suggests that Jackson will be a key player for Barnsley without providing any evidence to support this claim.
 
 ###Corrected:

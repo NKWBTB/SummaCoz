@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a woman who was left with a brain tumour after being diagnosed with terminal cancer has said she has been ``overwhelmed\'\'by the response. 
-
-    Article: 
-    Jocelyn McKay is now 81 and said she feels "released" from the feelings that gripped her for so long.
+<Article>
+Jocelyn McKay is now 81 and said she feels "released" from the feelings that gripped her for so long.
 "I may be old, but at least I am happy," she told BBC News NI.
 "I hadn't really lived until I got the operation.
 "For years I felt I was in the wrong body and it wasn't until I was 69 that I plucked up the courage to ask for help."
@@ -26,17 +23,20 @@ It was formed by the peer support group Focus - The Identity Trust.
 It comprises politicians from Sinn FÃ©in and the Alliance party, as well as a Presbyterian minister, the Reverend Lesley Carroll, and others with a long-standing interest in human rights.
 The Sinn FÃ©in minister Megan Fearon said the gathering was about "bringing marginalised people together, giving them space to discuss transgender issues and engaging with politicians in a way that had not been done before".
 "Transgender people still experience discrimination in nearly every walk of life," she said.
-The panel will address trans-phobic hate crime and access to health and education. 
+The panel will address trans-phobic hate crime and access to health and education.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a woman who was left with a brain tumour after being diagnosed with terminal cancer has said she has been ``overwhelmed\'\'by the response.
+</Summary>
 
-1. The summary mentions that the woman was left with a brain tumour after being diagnosed with terminal cancer, but the article does not mention anything about a brain tumour or terminal cancer.
-2. The summary states that the woman felt "overwhelmed" by the response to her situation, but the article does not mention any response or reaction to her situation.
-3. The summary mentions that the woman was a cross-dresser and that she realized she needed surgery after a trip to Manchester, but the article does not mention anything about cross-dressing or surgery.
-4. The summary mentions that the woman was 81 years old, but the article does not mention her age.
-5. The summary mentions that the woman was happy after getting the operation, but the article does not mention any operation or the woman's happiness.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it contains several inaccuracies and misleading information.
+1. The summary states that a woman was left with a brain tumour after being diagnosed with terminal cancer.
+2. However, the article does not mention anything about a brain tumour or terminal cancer.
+3. The article is actually about Jocelyn McKay, an 81-year-old woman who has undergone gender reassignment surgery.
+4. The summary is not consistent with the article because it mentions a different medical condition (brain tumour) and does not accurately reflect the content of the article.
+
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

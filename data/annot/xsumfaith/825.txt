@@ -1,24 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a humpback whale spotted off the coast of australia has been captured off the coast of western isles, scientists have said. 
-
-    Article: 
-    Migaloo is known for his distinctive colouring and for many years was the only documented all-white humpback whale in the world.
+<Article>
+Migaloo is known for his distinctive colouring and for many years was the only documented all-white humpback whale in the world.
 He has been sighted off the coast of New South Wales state, including the resort town of Byron Bay.
 Migaloo's journey up Australia's east coast has attracted large numbers of whale enthusiasts.
 The 14m-long mammal was spotted with a companion during his venture north but now appears to be travelling solo.
-A Twitter account run by the White Whale Research Centre provides real-time updates of the whale's whereabouts. 
+A Twitter account run by the White Whale Research Centre provides real-time updates of the whale's whereabouts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a humpback whale spotted off the coast of australia has been captured off the coast of western isles, scientists have said.
+</Summary>
 
-1. The summary states that a humpback whale has been captured off the coast of Western Isles, but the article does not mention anything about capture. Instead, it talks about Migaloo, an all-white humpback whale, being spotted off the coast of New South Wales state.
-2. The article does not mention anything about Migaloo being spotted off the coast of Western Isles.
-3. Therefore, the summary is not consistent with the article, as it mentions a location (Western Isles) and an event (capture) that are not present in the article.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it contains information that is not supported by the article.
+1. The article states that Migaloo, the all-white humpback whale, was spotted off the coast of New South Wales state, including the resort town of Byron Bay.
+2. The summary claims that a humpback whale was spotted off the coast of Australia, but does not mention Migaloo or any specific location.
+3. The article states that Migaloo was traveling north along Australia's east coast, and was spotted with a companion at one point.
+4. The summary does not mention anything about Migaloo traveling with a companion or any specific direction.
+5. The article mentions that the White Whale Research Centre provides real-time updates of Migaloo's whereabouts on Twitter.
+6. The summary does not mention anything about the White Whale Research Centre or Twitter updates.
+
+Based on these differences, it is clear that the summary is not consistent with the article. The summary is missing many important details that are included in the article, such as Migaloo's distinctive coloring, his journey up the east coast, and the real-time updates provided by the White Whale Research Centre. Additionally, the summary incorrectly states that the whale was spotted off the coast of western isles, which is not mentioned in the article. Therefore, the summary is not a accurate representation of the article's content.
 
 ###Corrected:

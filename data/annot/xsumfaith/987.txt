@@ -1,37 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester city manager jose mourinho has been charged by the football association for failing to reach the fa cup. 
-
-    Article: 
-    The charge follows the mass fracas in the 95th minute of the game at Etihad Stadium, which Chelsea won 3-1.
+<Article>
+The charge follows the mass fracas in the 95th minute of the game at Etihad Stadium, which Chelsea won 3-1.
 City had forward Sergio Aguero and midfielder Fernandinho sent off, but Chelsea midfielder Cesc Fabregas will not face any further action.
 City manager Pep Guardiola apologised for his team's part in the incident.
 Aguero, 28, received a four-match ban for what was his second dismissal for violent conduct this season, following a high and late challenge on Chelsea defender David Luiz.
 Fernandinho clashed with Fabregas in the scuffle that followed Aguero's challenge, and the Brazil midfielder will serve a three-match ban.
-Both clubs have until 18:00 GMT on 8 December to respond to the charge. 
+Both clubs have until 18:00 GMT on 8 December to respond to the charge.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+manchester city manager jose mourinho has been charged by the football association for failing to reach the fa cup.
+</Summary>
 
-1. The summary states that Manchester City manager Jose Mourinho has been charged by the Football Association for failing to reach the FA Cup.
+Explain your reasoning step by step:[/INST]
 
-This is incorrect because the article states that the charge is related to the mass fracas in the 95th minute of the game at Etihad Stadium, not for failing to reach the FA Cup.
-
-2. The article states that City had forward Sergio Aguero and midfielder Fernandinho sent off, but Chelsea midfielder Cesc Fabregas will not face any further action.
-
-This is not mentioned in the summary.
-
-3. The article states that Aguero received a four-match ban for violent conduct, and Fernandinho will serve a three-match ban.
-
-This is not mentioned in the summary.
-
-4. The article states that both clubs have until 18:00 GMT on 8 December to respond to the charge.
-
-This is not mentioned in the summary.
-
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events described in the article. The summary mentions Jose Mourinho, who is not the manager of Manchester City, and fails to mention the sending off of Aguero and Fernandinho, the bans they received, and the deadline for the clubs to respond to the charge.
+1. The article states that Manchester City manager Pep Guardiola apologized for his team's part in the incident, which implies that the team was involved in some kind of incident.
+2. The article also mentions that two Manchester City players, Sergio Aguero and Fernandinho, were sent off, while a Chelsea player, Cesc Fabregas, will not face any further action.
+3. However, the summary states that Manchester City manager Jose Mourinho has been charged by the Football Association for failing to reach the FA Cup.
+4. This is not consistent with the article, as there is no mention of Jose Mourinho or failing to reach the FA Cup.
+5. Therefore, the summary is not accurate and does not accurately represent the information in the article.
 
 ###Corrected:

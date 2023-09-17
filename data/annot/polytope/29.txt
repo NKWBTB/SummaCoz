@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sugar ray leonard celebrates after roberto duran quit in their fight in louisiana in november 1980 
-leonard decided to use his exceptional speed and movement to beat the panamanian in the second fight 
-october 30 , 1974 , kinshasa , zaire 
-
-    Article: 
-    floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant this century .
+<Article>
+floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant this century .
 evaluating the greatest ever fights is a complex variable of several factors including not only the quality and excitement of the action but the political , social and cultural undertones , the scale of expectation and outside influences .
 where money man v pacman comes to rank among the most important fights in ring history will depend upon what happens that coming night in the mgm grand garden arena .
 in this , the sixth in a series of 12 fights that shaped boxing history , i recall when a hard man could take no more ...
@@ -55,16 +50,25 @@ he did so on june 16 , 1983 , his 32nd birthday , by knocking out davey moore in
 rejoicing returned to the streets .
 leonard would win their third fight in 2017 by a points landslide , thereby retaining the world super-middleweight title .
 but sugar ray took most pride from the trilogy from forcing duran to say no mas .
-he said : ` to me , making roberto duran to quit was better than knocking him out . ' 
+he said : ` to me , making roberto duran to quit was better than knocking him out . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+sugar ray leonard celebrates after roberto duran quit in their fight in louisiana in november 1980 
+leonard decided to use his exceptional speed and movement to beat the panamanian in the second fight 
+october 30 , 1974 , kinshasa , zaire
+</Summary>
 
-1. The summary states that Sugar Ray Leonard celebrated after Roberto Duran quit in their fight in Louisiana in November 1980. However, the article states that the fight took place in Kinshasa, Zaire (now the Democratic Republic of Congo) on October 30, 1974.
-2. The summary mentions that Leonard decided to use his exceptional speed and movement to beat Duran in the second fight, but the article does not mention a second fight.
-3. The summary states that Duran became frustrated as Leonard danced around him before unleashing his punches, but the article does not mention Duran becoming frustrated.
-4. The summary quotes Leonard as saying that making Duran say "no mas" was better than knocking him out, but the article does not include this quote.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the provided summary is not consistent with the article, as it contains several inaccuracies and fictional elements.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only includes one fight between Sugar Ray Leonard and Roberto Duran, while the article describes three fights between them.
+2. The summary states that Leonard celebrates after Duran quit in their fight in Louisiana in November 1980, but the article describes the third fight between the two, which took place in 1983.
+3. The summary does not mention the controversial scoring in the first fight, where Duran was awarded a majority decision despite many observers believing that Leonard had won.
+4. The summary does not mention the second fight between the two, which took place in October 1975.
+5. The summary does not mention the third fight between the two, which took place in 2017.
+
+Overall, the summary is not a accurate representation of the article, as it only includes a limited amount of information and does not provide a comprehensive overview of the fights between Sugar Ray Leonard and Roberto Duran.
 
 ###Corrected:

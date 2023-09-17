@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    UNK UNK has admitted he is still considering whether to join chelsea .
-the 22-year-old has a shot against UNK UNK during a UNK clash .
-the 22-year-old is keen to join a club where he will play regularly . 
-
-    Article: 
-    fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
+<Article>
+fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
 earlier this month club president naoki ogane claimed that the blues have made an offer - believed to be around £ 4million - for the japan international .
 chelsea would look to loan muto to partner club vitesse arnhem next season but the 22-year-old is keen to join a club where he will play regularly and realise his potential .
 fc tokyo forward yoshinori muto has a shot against shonan bellmare during a j-league clash
@@ -36,19 +31,22 @@ asked about muto earlier this month , mourinho said : ` i know a little about hi
 i do n't think it is nice for me to talk about a player who plays for fc tokyo .
 ` if a fc tokyo manager talks about my player i would n't be happy.it is not nice for me to speak about other players .
 ` in modern football and football is a business , an industry , you have to think about the financial situation , especially a club like chelsea that wants to be in the rules like financial fair play .
-` but we want to win matches and do n't get a player unless he is a good player or a good prospect . ' 
+` but we want to win matches and do n't get a player unless he is a good player or a good prospect . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+UNK UNK has admitted he is still considering whether to join chelsea .
+the 22-year-old has a shot against UNK UNK during a UNK clash .
+the 22-year-old is keen to join a club where he will play regularly .
+</Summary>
 
-1. The summary states that UNK UNK has admitted he is still considering whether to join Chelsea, but there is no mention of UNK UNK in the article. The article is about Yoshinori Muto, not UNK UNK.
-2. The summary mentions that Muto is keen to join a club where he will play regularly, but the article states that Muto is considering a move to Chelsea, not that he has made a decision to join the club.
-3. The summary states that Chelsea would loan Muto to partner club Vitesse Arnhem next season, but the article does not mention anything about a loan.
-4. The summary quotes Muto as saying "where can i go to develop?", but the article does not include this quote.
-5. The summary states that Muto is thinking about joining Chelsea because he wants to play and develop, but the article states that Muto is considering a move to Chelsea because the club has made an offer for him, and that he wants to think about it carefully.
-6. The summary mentions that Muto's potential is amazing and that he is a different player, but the article does not include this information.
-7. The summary states that Muto is still considering a move to Chelsea, but the article states that Muto has already been linked with a move to Chelsea and that the club's manager, Jose Mourinho, is aware of the Japanese international.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits other important information that is included in the article.
+1. The summary states that UNK UNK (Yoshinori Muto) has admitted he is still considering whether to join Chelsea, but the article does not mention him admitting this. Instead, the article quotes Muto as saying he wants to think about it carefully and consider his options before making a decision.
+2. The summary mentions a shot taken by Muto against UNK UNK during a UNK clash, but the article does not mention this. The article only mentions a shot taken by Muto against Shonan Bellmare during a J-League clash.
+3. The summary states that Muto is keen to join a club where he will play regularly, but the article does not mention this explicitly. Instead, the article quotes Muto as saying he wants to join a club where he can develop and realise his potential.
+
+Overall, the summary is not consistent with the article because it contains information that is not present in the article and omits other important information that is present in the article.
 
 ###Corrected:

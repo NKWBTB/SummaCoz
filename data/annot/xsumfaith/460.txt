@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the archbishop of canterbury has called for a ban on religious education in england. 
-
-    Article: 
-    Younger people take religion seriously "when they have the chance to learn about it," he said.
+<Article>
+Younger people take religion seriously "when they have the chance to learn about it," he said.
 And Cardinal Keith O'Brien, leader of the Roman Catholic Church in Scotland, urged Christians to wear a cross to symbolise their beliefs.
 It comes amid a growing debate about secularisation in British society.
 Meanwhile, the Queen and Duke of Edinburgh have attended traditional Easter Sunday service at Windsor Castle.
@@ -37,16 +34,21 @@ He said: "A visit to Yad Vashem, the Holocaust Museum in Jerusalem, will convinc
 "A visit to any border checkpoint will convince you that the daily harassment and humiliation of Palestinians of all ages and backgrounds cannot be a justifiable or even sustainable price to pay for security."
 He said: "We have to prod and nag and encourage the religious leadership in the Holy Land on all sides to speak as if they believed in a God who acts, not only a God who endorses their version of reality.
 "We have to pray, to pray for wisdom and strength and endurance for all who are hungry for peace and justice, pray that people will go on looking for a truly shared future."
-In March, Dr Williams announced he would step down as Archbishop of Canterbury - the head of the Church of England - in December, after 10 years in the role. 
+In March, Dr Williams announced he would step down as Archbishop of Canterbury - the head of the Church of England - in December, after 10 years in the role.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the archbishop of canterbury has called for a ban on religious education in england.
+</Summary>
 
-1. The summary states that the Archbishop of Canterbury has called for a ban on religious education in England, but the article does not support this claim. In fact, the article quotes the Archbishop as saying that it is the wrong time to "downgrade the status and professional excellence" of religious education in schools.
-2. The summary implies that the Archbishop is advocating for a ban on religious education, but the article states that he is actually concerned about the potential downgrading of religious education in schools.
-3. The summary does not accurately reflect the Archbishop's views on religious education. The article states that he believes that religious education is important and should be taken seriously, but the summary implies that he is against it altogether.
-4. The article provides evidence that the Archbishop is concerned about the marginalization of religion in British society, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the Archbishop's views on religious education and does not accurately reflect the content of the article.
+1. The article states that the Archbishop of Canterbury, Dr. Williams, has urged Christians to take religion seriously and to wear a cross as a symbol of their beliefs.
+2. The article also states that Dr. Williams has called for peace in the Israeli-Palestinian conflict and has expressed concern about the marginalization of religion in British public life.
+3. However, the summary states that the Archbishop of Canterbury has called for a ban on religious education in England.
+
+Reasoning:
+
+The summary is not consistent with the article because there is no mention of a ban on religious education in the article. In fact, the article states that Dr. Williams has urged the inclusion of religious education in schools, not a ban. Therefore, the summary is not an accurate representation of the article's content.
 
 ###Corrected:

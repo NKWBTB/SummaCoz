@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    some people say you are only as good as your last haircut. 
-
-    Article: 
-    Svetlana Kuznetsova will hope not, after she hacked some of her own hair off midway during a match at the WTA Finals in Singapore on Monday.
+<Article>
+Svetlana Kuznetsova will hope not, after she hacked some of her own hair off midway during a match at the WTA Finals in Singapore on Monday.
 "I thought, 'what's more important? My hair, which can grow, or the match?'" said the Russian world number nine, complaining that it was affecting her game in a three-set win over Agnieszka Radwanska.
 Unfortunately, many a sports star has failed to embrace this philosophy of substance over style.
 With the help of Sportsday readers, BBC Sport looks at some of the worst sporting hairstyles.
@@ -19,15 +16,20 @@ Former Arsenal forward Gervinho revealed he had a hairline higher than his outra
 It was the elastic headband that really caused a stir - it looked painful!
 Striker Ronaldo decided this would be a good idea for the 2002 World Cup - Brazil went on to win it.
 Yes, the pinnacle of your career and you have that haircut, shown on the front page of newspapers round the world.
-Sorry Ronaldo. Brilliant footballer. Awful haircut. 
+Sorry Ronaldo. Brilliant footballer. Awful haircut.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+some people say you are only as good as your last haircut.
+</Summary>
 
-1. The summary states that the article is about people being judged based on their last haircut, but the article does not support this claim. The article actually focuses on sports stars with unusual or poor haircuts.
-2. The summary mentions nothing about sports stars or haircuts, which are the main topics of the article.
-3. The summary's reference to "last haircut" is not present in the article, and the article does not discuss the idea that people are only as good as their last haircut.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary does not accurately reflect the content of the article.
+1. The summary states, "some people say you are only as good as your last haircut."
+2. However, the article provides examples of athletes with poor haircuts who still achieved success in their respective sports.
+3. Therefore, the summary is not consistent with the article, as the article does not support the idea that a person's last haircut determines their worth or abilities.
+
+The article presents various examples of athletes with unusual or poorly received haircuts who still achieved success in their sports, contradicting the idea that a person's last haircut is a reflection of their worth or abilities. The summary's statement is therefore not supported by the article's content.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the queen , 88 , was spotted trotting through windsor great park aboard her faithful black fell pony , carltonlima emma . 
-the queen eschewed a helmet in favour of one of her silk scarves and is reportedly reluctant to wear one because of her hair . 
-the monarch is famous for her love of horses and first found herself in the saddle at the age of four after being presented with a shetland pony , named peggy . 
-
-    Article: 
-    she might be approaching her 89th birthday but nothing was going to stop the queen from enjoying a ride in the spring sunshine this morning .
+<Article>
+she might be approaching her 89th birthday but nothing was going to stop the queen from enjoying a ride in the spring sunshine this morning .
 the monarch , 88 , was spotted trotting through windsor great park aboard her faithful black fell pony , carltonlima emma .
 joined by a groom on another of her fell ponies , the queen cut a relaxed figure as she enjoyed her ride but , as is her wont , eschewed a helmet in favour of one of her silk scarves .
 enjoying the sunshine : the queen enjoys a ride on her fell pony carltonlima emma
@@ -38,17 +33,22 @@ by the 13th century , the fell 's usefulness as a pack animal was well-establish
 following the industrial revolution , fells were used to transport iron ore and coal from mine to town , as well as underground when the height of the shaft allowed .
 although previously used in trotting races , the fell pony really came into its as a riding horse in the 1950s , when its gentle nature and pretty looks made it the pony of choice for families .
 today , the pony remains a popular choice for riders of all ages , among them the queen who breeds fell ponies at her hampton court stud .
-source : the fell pony society 
+source : the fell pony society
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+the queen , 88 , was spotted trotting through windsor great park aboard her faithful black fell pony , carltonlima emma . 
+the queen eschewed a helmet in favour of one of her silk scarves and is reportedly reluctant to wear one because of her hair . 
+the monarch is famous for her love of horses and first found herself in the saddle at the age of four after being presented with a shetland pony , named peggy .
+</Summary>
 
-1. The summary states that the Queen never wears a riding helmet, but the article states that she has been encouraged to wear safety hats in the past and has never worn riding helmets. This inconsistency suggests that the summary is not accurate.
-2. The summary mentions that the Queen has a stud specializing in Highland ponies at Balmoral, but the article does not mention anything about Highland ponies or a stud at Balmoral.
-3. The summary states that the Queen has ridden all her life and continues to breed several breeds of horse and pony, but the article does not mention anything about the Queen breeding horses or ponies.
-4. The summary mentions that the Queen has a familiar sight at her Windsor stables, but the article does not mention anything about the Queen having stables at Windsor.
-5. The summary states that the Queen's first pony was a Shetland named Peggy, but the article does not mention anything about the Queen's first pony or the name of the pony.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and inconsistencies compared to the article. Therefore, it is not a consistent summary of the article.
+1. The summary states that the Queen is 88 years old, but the article states that she is 89 years old. This is a inconsistency.
+2. The summary states that the Queen was spotted trotting through Windsor Great Park aboard her faithful black fell pony, Carltonlima Emma, but the article does not mention this specific pony. Instead, the article mentions that the Queen has a stud specializing in Highland ponies at Balmoral.
+3. The summary states that the Queen eschewed a helmet in favor of one of her silk scarves, but the article does not mention the Queen wearing a helmet or being reluctant to wear one because of her hair.
+4. The summary states that the Queen is famous for her love of horses and first found herself in the saddle at the age of four after being presented with a Shetland pony named Peggy, but the article does not mention this specific pony or the Queen's age when she first started riding.
+
+Overall, the summary contains several inaccuracies and inconsistencies compared to the article. It appears that the summary was not accurately based on the information provided in the article.
 
 ###Corrected:

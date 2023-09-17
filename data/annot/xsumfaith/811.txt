@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in our series of letters from african journalists, film-maker and columnist farai sevenzo looks at the biggest rise in the world. 
-
-    Article: 
-    Yet in this election, it is way down the list of priorities for most political parties.
+<Article>
+Yet in this election, it is way down the list of priorities for most political parties.
 Philip Hammond, himself a former defence secretary, has been reported as saying recently that "there are no votes in defence".
 He does not recognise the quote, but the sentiment is largely borne out by the opinion polls which show defence just scrapes into the top 10 of electorate concerns, way behind the economy, the NHS and immigration.
 UK military interventions in Iraq, Afghanistan and Libya may have also contributed to a sense of combat fatigue among the public and a reticence by politicians to focus on the subject.
@@ -75,17 +72,20 @@ Plans to equip them with the new F-35 jet, have already had to be scaled down.
 There is space on board for 36 F-35s, but current plans are to sail with just 12.
 The current chief of the defence staff, Gen Sir Nicholas Houghton, has already warned of the dangers of a "hollow force" with "exquisite equipment" but not enough people.
 Politicians have long boasted that in military terms Britain can punch above its weight on the world stage.
-But it's becoming harder to live up to that rhetoric. 
+But it's becoming harder to live up to that rhetoric.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here is why the summary is not consistent with the article:
+<Summary>
+in our series of letters from african journalists, film-maker and columnist farai sevenzo looks at the biggest rise in the world.
+</Summary>
 
-1. The summary states that defense is not a priority for most political parties in the election, but the article states that defense is not a major election issue, which implies that it is not a priority but not that it is not a priority for all parties.
-2. The summary states that Philip Hammond, the former defense secretary, said that there are no votes in defense, but the article does not quote him saying this and instead states that he does not recognize the quote.
-3. The summary states that the UK military is making significant cuts to its armed forces, but the article states that the UK has fallen to sixth place in defense spending and that there are capability gaps, but it does not mention significant cuts.
-4. The summary states that all political parties are making commitments to increase defense spending, but the article states that only two smaller parties, UKIP and the Democratic Unionist Party, say they would continue to meet the 2% goal, and that the other parties do not mention significant savings in defense.
-5. The summary states that the Conservatives and UKIP are committed to renewing Britain's nuclear deterrent, but the article states that there is no political consensus on this issue and that the SNP and the Greens would scrap it altogether.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it makes more sweeping statements about the prioritization of defense in the election and the commitments of the political parties, while the article provides more nuanced information about the state of the UK's defense forces and the political parties' positions on defense spending.
+1. The summary is not consistent with the article because it does not mention any of the issues raised in the article, such as the UK's defence budget, the threat from Islamic extremism, or the country's military interventions. Instead, the summary only mentions the "biggest rise in the world" without providing any context or explanation.
+2. The article discusses the UK's defence policies and the challenges faced by the country's military, including cuts to the armed forces, the lack of capability gaps, and the potential for further cuts in the future. None of these issues are mentioned in the summary.
+3. The summary is not supported by the article, which provides a detailed analysis of the UK's defence policies and the challenges faced by the country's military. The summary does not provide any specific examples or evidence to support its claim about the "biggest rise in the world".
+4. The article is written in a serious and informative tone, while the summary is written in a more casual and promotional tone. This difference in tone is not consistent with the content of the article, which is focused on providing analysis and information about the UK's defence policies.
+
+Overall, the summary is not consistent with the article because it does not provide any specific examples or evidence to support its claim, and it does not mention any of the issues raised in the article. The summary is not supported by the article, and it does not have the same tone or focus as the article.
 
 ###Corrected:

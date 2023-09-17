@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a post mortem examination revealed many clouds died from bleeding on the lung but that the 2015 grand national winner had no underlying health problems. 
-
-    Article: 
-    The 10-year-old Irish-bred horse collapsed after narrowly beating Thistlecrack to win the Cotswold Chase at Cheltenham's Festival Trials Day.
+<Article>
+The 10-year-old Irish-bred horse collapsed after narrowly beating Thistlecrack to win the Cotswold Chase at Cheltenham's Festival Trials Day.
 He was treated by veterinary staff before being pronounced dead.
 The British Horseracing Authority confirmed the horse suffered from a "severe pulmonary haemorrhage".
 Tony Welsh, acting chief veterinary officer for the BHA, said: "Episodes such as this are rare, and can occur in horses which have no underlying health issues, and amongst all disciplines of sport horses.
@@ -18,16 +15,20 @@ Trainer Oliver Sherwood described him as the "horse of a lifetime".
 BBC horse racing correspondent Cornelius Lysaght
 The crucial words here are "no significant underlying health issues".
 On more than one occasion, notably after his Grand National success, Many Clouds received treatment for a tendency to 'overheat', but he soon recovered, and his welfare was closely monitored by the authorities as a result.
-With that fact in mind, questions have been raised as to whether that condition was linked to his death, but this report concludes he was the victim of a haemorrhage rarely seen on the racetrack. 
+With that fact in mind, questions have been raised as to whether that condition was linked to his death, but this report concludes he was the victim of a haemorrhage rarely seen on the racetrack.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a post mortem examination revealed many clouds died from bleeding on the lung but that the 2015 grand national winner had no underlying health problems.
+</Summary>
 
-1. The summary states that Many Clouds died from bleeding on the lung, but the article does not mention anything about bleeding on the lung.
-2. The summary states that the horse had no underlying health problems, but the article mentions that the horse had a history of overheating and received treatment for it.
-3. The article states that the cause of death was a severe pulmonary haemorrhage, which is not mentioned in the summary.
-4. The summary implies that the horse's death was unexpected, but the article states that the horse had a history of overheating and that the authorities closely monitored the horse's welfare.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it omits important information about the horse's history of overheating and the cause of death, and it implies that the horse's death was unexpected when the article states that the horse had a history of health issues.
+1. The summary states that Many Clouds died from bleeding on the lung (consistent with the article).
+2. However, the summary also states that the horse had no underlying health problems (inconsistent with the article).
+3. The article states that Many Clouds had shown symptoms of post-race ataxia in the past, which had seen him over-heat and "wobble" on his feet. This suggests that the horse had some underlying health issues.
+4. The article also mentions that Many Clouds had received treatment for a tendency to 'overheat' on more than one occasion, particularly after his Grand National success.
+5. Therefore, based on the information in the article, it is not accurate to say that Many Clouds had no underlying health problems.
+6. The inconsistency between the summary and the article is likely due to the summary omitting or simplifying information from the article, rather than the article containing incorrect information.
 
 ###Corrected:

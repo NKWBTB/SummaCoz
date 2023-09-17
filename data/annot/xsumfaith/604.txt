@@ -1,25 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    everton defender tyias browning has signed a new two-and-a-half-year deal and joined championship side preston on loan for the rest of the season. 
-
-    Article: 
-    The former England Under-21 international has progressed through the youth system at Goodison Park and made nine appearances for the Toffees.
+<Article>
+The former England Under-21 international has progressed through the youth system at Goodison Park and made nine appearances for the Toffees.
 Browning, 22, missed the end of last season with a knee injury that kept him out for nearly a year.
 "I hope to be able to come in and make an impact," he told the club website.
 "I have heard nothing but good things about the club and can't wait to get started."
-Find all the latest football transfers on our dedicated page or visit our Premier League tracker here. 
+Find all the latest football transfers on our dedicated page or visit our Premier League tracker here.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the reasons why the given summary is not consistent with the article. Here's my step-by-step explanation:
+<Summary>
+everton defender tyias browning has signed a new two-and-a-half-year deal and joined championship side preston on loan for the rest of the season.
+</Summary>
 
-1. The summary states that Tyias Browning has signed a new two-and-a-half-year deal and joined Championship side Preston on loan for the rest of the season. However, the article does not mention anything about Browning signing a new deal or joining Preston on loan.
-2. The article only mentions that Browning has progressed through the youth system at Goodison Park and made nine appearances for the Toffees. There is no mention of him joining any other club, let alone Preston.
-3. The summary also mentions that Browning has missed the end of last season with a knee injury that kept him out for nearly a year. However, this information is not present in the article.
-4. Finally, the summary ends with a statement about finding all the latest football transfers on a dedicated page, which is not related to the content of the article.
+Explain your reasoning step by step:[/INST]
+Sure, here's my reasoning step by step:
 
-Therefore, based on these differences, it is clear that the given summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
+1. The article states that Browning has progressed through the youth system at Goodison Park and made nine appearances for Everton. This implies that Browning is an Everton player.
+2. The summary states that Browning has signed a new two-and-a-half-year deal and joined Championship side Preston on loan for the rest of the season. This implies that Browning is leaving Everton to join Preston on loan.
+3. The article does not mention anything about Browning leaving Everton or joining Preston on loan. In fact, the article only mentions that Browning is hoping to make an impact at Everton.
+4. Therefore, the summary is not consistent with the article because it states that Browning has left Everton to join Preston on loan, while the article does not mention anything about Browning leaving Everton.
+
+So, the reason why the summary is not consistent with the article is that it contains information that is not present in the article. Specifically, the summary states that Browning has left Everton to join Preston on loan, which is not supported by the article.
 
 ###Corrected:

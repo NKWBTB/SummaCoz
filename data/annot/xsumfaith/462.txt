@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the first game of the game of grand theft auto has been released by the national tennis league (gta). 
-
-    Article: 
-    Rockstar have announced the game's release has been delayed until 24 March.
+<Article>
+Rockstar have announced the game's release has been delayed until 24 March.
 The latest version of the open world adventure was due to go on sale on 27 January.
 A statement from Rockstar said: "The game requires a few extra weeks of testing and polish to make it as good as can be."
 "Moving a release date is never a decision we take lightly and is a choice we make only when we know it is in the best interests of the game and our fans.
@@ -17,15 +14,20 @@ Los Santos and Blaine County will be visible in 1080p at 60fps, with up to 4K re
 While you're waiting for the game to be released you can make sure your PC is up to scratch.
 Minimum specifications required to run GTA V have also been published.
 Grand Theft Auto V became the fastest-selling entertainment product ever when it was released on 17 September 2013, taking just three days to generate $1bn (Â£620m) in revenue.
-Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube 
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+the first game of the game of grand theft auto has been released by the national tennis league (gta).
+</Summary>
 
-1. Release date: The summary states that the first game of the game of grand theft auto has been released, while the article states that the release date has been delayed until 24 March.
-2. Game details: The summary does not mention any details about the game, while the article provides information about the game's features, such as online heists, resolution, and frame rate.
-3. Content: The summary does not mention anything about the article's content, such as the delay reason, the release date, and the game's features.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not provide accurate information about the game's release date and features. The summary is more of a generic statement about the game, while the article provides specific information about the game's delay and upcoming release.
+1. The article states that Rockstar has announced the delay of the game's release until March 24th, while the summary claims that the first game of Grand Theft Auto has been released. This is inconsistent, as there has been no previous release of Grand Theft Auto.
+2. The article mentions that the game is an open-world adventure, while the summary refers to a tennis league. This is inconsistent, as there is no mention of tennis in the article.
+3. The article mentions that the game is developed by Rockstar, while the summary does not mention the developer. This is inconsistent, as it is important to attribute the game's development to Rockstar.
+4. The article provides specific details about the game's release date, online heists, and system requirements, while the summary does not provide any specific information about the game. This is inconsistent, as the summary should provide at least some basic information about the game.
+
+Overall, the summary is not consistent with the article because it provides incorrect information about the game's release and genre, and lacks specific details about the game.
 
 ###Corrected:

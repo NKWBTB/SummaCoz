@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mike brown admitted he would adopt a ' cautious ' approach in recovering from his latest concussion setback .
-the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens last weekend .
-northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term . 
-
-    Article: 
-    mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
+<Article>
+mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
 the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens at wembley last weekend .
 northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
 england full back mike brown admits he is unsure when he will return to action for club side harlequins
@@ -35,19 +30,26 @@ brown ( right ) says he suffered a headache after playing in england 's clash ag
 ` now i 've been through it i would definitely talk to team-mates urging them not to play on if i thought they were showing symptoms .
 ` at the time you think it 's a pain but now i 'm very glad i took those online modules .
 ` it 's just not worth pushing through . '
-land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage . 
+land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+mike brown admitted he would adopt a ' cautious ' approach in recovering from his latest concussion setback .
+the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens last weekend .
+northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
+</Summary>
 
-1. The summary states that Mike Brown admitted he would adopt a "cautious" approach in recovering from his latest concussion setback, but the article does not mention him using that specific word. Instead, the article quotes Brown as saying he is being "cautious" and does not want to suffer an extended break.
-2. The summary mentions that Northampton wing George North has been advised by leading medics not to play again this season after suffering four quick-fire concussions, but the article does not mention this.
-3. The summary states that Ireland's Johnny Sexton was stood down for 12 weeks earlier this term, but the article does not mention this.
-4. The summary mentions that Brown was knocked out cold in England's 47-17 victory over Italy at Twickenham in February, but the article does not mention this.
-5. The summary states that Brown pulled out of the build-up to face Ireland on March 1 due to concussion symptoms, but the article does not mention this.
-6. The summary mentions that Brown said increased awareness of the symptoms of concussion, driven by players undergoing world rugby online modules, helped him realize he would not be ready to face Ireland, but the article does not mention this.
-7. The summary states that Brown was speaking at the launch of Land Rover's "We Deal in Real" campaign, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several points that are not present in the article, and some of the points that are present in the article are not accurately represented in the summary.
+1. The summary states that Mike Brown admitted he would adopt a "cautious" approach in recovering from his latest concussion setback.
+2. The article states that Brown is unsure when he will return after pulling out of Harlequins' Aviva Premiership clash with Saracens last weekend.
+3. The summary does not mention that Brown was knocked out cold in England's 47-17 victory over Italy at Twickenham in February, as stated in the article.
+4. The summary does not mention that Brown had hoped to recover in time to face Ireland in Dublin on March 1, but pulled out in the build-up, as stated in the article.
+5. The summary does not mention that Brown said increased awareness of the symptoms of concussion, driven by players undergoing World Rugby online modules, helped him realize he would not be ready to face Ireland, as stated in the article.
+6. The summary does not mention that Brown suffered a headache after playing in England's clash against France last month, as stated in the article.
+7. The summary does not mention that Brown is determined not to suffer an extended break and will not rush himself back to action ahead of time, as stated in the article.
+8. The summary does not mention that Brown was speaking at the launch of "We Deal in Real," Land Rover's Rugby World Cup 2022 campaign, as stated in the article.
+
+Therefore, the summary is not consistent with the article because it does not include several key points that are mentioned in the article, such as Brown's experience with concussion, his uncertainty about when he will return, and his determination to be cautious with his recovery.
 
 ###Corrected:

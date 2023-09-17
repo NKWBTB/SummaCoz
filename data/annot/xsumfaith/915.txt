@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    melania trump has said he is ``excited\'\'about the decision to leave the white house in the white house. 
-
-    Article: 
-    The president-elect has said Mrs Trump and Barron will move to Washington "very soon, after he's finished with school", but has not put an actual date on the move.
+<Article>
+The president-elect has said Mrs Trump and Barron will move to Washington "very soon, after he's finished with school", but has not put an actual date on the move.
 But transition spokesman Jason Miller's insistence that the Trumps were "energised and excited about their new role serving the country" and it was simply concern about changing schools in the middle of the year did little to quell criticisms on social media.
 "First Family resides in White House as a symbol of our country to us and and the world," wrote one Twitter user, Pamela Benbow. "Melania Trump's decision is appalling."
 Others joked it was Mrs Trump's taste in interiors which had prompted the decision, while some began speculating about what the move said about the Trumps' marriage.
@@ -48,19 +45,21 @@ Both Hillary Clinton and Michelle Obama fit their duties as First Lady around th
 The Obamas are also strict about putting time aside for the girls: family dinner takes place every night at 18:30. Mr Obama has said only a national emergency will stop him joining his family.
 "The surprising truth is that being in the White House has made our family life more 'normal' than it's ever been," the President said in an interview with US magazine More earlier this year.
 It is a response echoed by Chelsea about her own years.
-She told the Huffington Post: "I was always deeply aware that I was living in history. But then I would have dinner with my parents at the kitchen table every night. There was so much about my life that also was normal." 
+She told the Huffington Post: "I was always deeply aware that I was living in history. But then I would have dinner with my parents at the kitchen table every night. There was so much about my life that also was normal."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here is why the summary is not consistent with the article:
+<Summary>
+melania trump has said he is ``excited\'\'about the decision to leave the white house in the white house.
+</Summary>
 
-1. The summary states that Melania Trump is "excited" about leaving the White House, but the article does not mention any such statement from her.
-2. The summary implies that Melania Trump is moving to Washington "very soon," but the article does not provide any specific timeline for her move.
-3. The summary mentions that Barron Trump will be moving to Washington with his mother, but the article does not confirm this.
-4. The summary states that Melania Trump's decision is "appalling," but the article does not express any opinion on her decision.
-5. The summary mentions that only two other First Ladies have not made the White House their home during their husbands' presidencies, but the article does not provide any information about this.
-6. The summary states that Melania Trump will be taking on a "full-time role" as First Lady, but the article does not provide any information about her plans or priorities as First Lady.
-7. The summary mentions that Chelsea Clinton and Malia and Sasha Obama have moved to the White House with their parents, but the article does not provide any information about this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes statements and information that are not supported by the article.
+1. The summary states that Melania Trump is "excited" about the decision to leave the White House, but the article does not mention any such statement from her.
+2. The article explains that Melania Trump has indicated that she and her son Barron will not be moving to the White House immediately after the inauguration, and that she is prioritizing his education over her role as First Lady.
+3. The summary does not provide any specific information about Melania Trump's decision or her priorities, other than stating that she is "excited" about the decision to leave the White House.
+4. The article provides context and information about the history of First Ladies and their roles in the White House, as well as the challenges of raising children in the public eye.
+5. The summary does not acknowledge or reference any of the information or context provided in the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately represent the content or information provided in the article. The summary is too brief and lacks specific details, and it does not convey the same level of nuance and context as the article.
 
 ###Corrected:

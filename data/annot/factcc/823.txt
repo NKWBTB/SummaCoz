@@ -1,20 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the fbi says the fbi is trying to travel overseas to fight for isis. 
+<Article>
+(CNN)The FBI charged a Philadelphia woman on Thursday with trying to travel overseas to fight for ISIS. She's one of three women arrested this week on terror charges. Two New York women were also taken into custody. An FBI complaint cites numerous social media messages dating back to August 2013 that were sent by Keonna Thomas, 30, also known as "Young Lioness" and "Fatayat Al Khilafah." One Twitter message said, "If we truly knew the realities ... we all would be rushing to join our brothers in the front lines pray ALLAH accept us as shuhada [martyrs]." Another said, "When you're a mujahid [violent jihadi fighter] your death becomes a wedding." The FBI said Thomas purchased an electronic visa to Turkey on March 23. Turkey is known as the easiest place from which to enter Syria and join ISIS. An ISIS manual advises recruits to buy round-trip tickets to vacation spots such as Spain and then purchase tickets for their real destination once they arrive overseas, the FBI said. On March 26, Thomas purchased a ticket to Barcelona, with a March 29 departure and an April 15 return to the United States, the complaint said. It's not clear when or where she was arrested. She was charged with knowingly attempting to provide material support and resources to a designated foreign terrorist organization. She could be sentenced to 15 years in prison. On Thursday, Noelle Velentzas, 28, and her former roommate, Asia Siddiqui, 31, were arrested in New York and accused of planning to build an explosive device for attacks in the United States, federal prosecutors said. In the past 18 months, the Justice Department's National Security Division has prosecuted or is prosecuting more than 30 cases of people attempting to travel abroad to join or provide support to terrorist groups. Of those cases, 18 allegedly involve support to ISIS. "The terrorist threat is more decentralized, more diffuse, more complicated," Homeland Security Secretary Jeh Johnson told reporters Thursday. "It involves the potential lone wolf actor, it involves the effective use of social media, the Internet."
+</Article>
 
-    Article: 
-    (CNN)The FBI charged a Philadelphia woman on Thursday with trying to travel overseas to fight for ISIS. She's one of three women arrested this week on terror charges. Two New York women were also taken into custody. An FBI complaint cites numerous social media messages dating back to August 2013 that were sent by Keonna Thomas, 30, also known as "Young Lioness" and "Fatayat Al Khilafah." One Twitter message said, "If we truly knew the realities ... we all would be rushing to join our brothers in the front lines pray ALLAH accept us as shuhada [martyrs]." Another said, "When you're a mujahid [violent jihadi fighter] your death becomes a wedding." The FBI said Thomas purchased an electronic visa to Turkey on March 23. Turkey is known as the easiest place from which to enter Syria and join ISIS. An ISIS manual advises recruits to buy round-trip tickets to vacation spots such as Spain and then purchase tickets for their real destination once they arrive overseas, the FBI said. On March 26, Thomas purchased a ticket to Barcelona, with a March 29 departure and an April 15 return to the United States, the complaint said. It's not clear when or where she was arrested. She was charged with knowingly attempting to provide material support and resources to a designated foreign terrorist organization. She could be sentenced to 15 years in prison. On Thursday, Noelle Velentzas, 28, and her former roommate, Asia Siddiqui, 31, were arrested in New York and accused of planning to build an explosive device for attacks in the United States, federal prosecutors said. In the past 18 months, the Justice Department's National Security Division has prosecuted or is prosecuting more than 30 cases of people attempting to travel abroad to join or provide support to terrorist groups. Of those cases, 18 allegedly involve support to ISIS. "The terrorist threat is more decentralized, more diffuse, more complicated," Homeland Security Secretary Jeh Johnson told reporters Thursday. "It involves the potential lone wolf actor, it involves the effective use of social media, the Internet." 
+<Summary>
+the fbi says the fbi is trying to travel overseas to fight for isis.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the FBI is trying to travel overseas to fight for ISIS, but the article states that the FBI charged a woman with attempting to travel overseas to join ISIS.
-2. The summary implies that the FBI is actively supporting or participating in the fight for ISIS, but the article states that the FBI is charging individuals with attempting to provide material support to a designated foreign terrorist organization.
-3. The summary mentions nothing about the FBI charging individuals with terrorism-related offenses or the fact that the individuals were attempting to join a terrorist organization, while the article provides specific details about the charges and the individuals involved.
+1. The article states that the FBI charged a woman named Keonna Thomas with attempting to travel overseas to fight for ISIS.
+2. The article provides evidence of Thomas's intentions, including her social media messages and her purchase of a ticket to Turkey.
+3. The article states that Thomas was charged with attempting to provide material support and resources to a designated foreign terrorist organization, which carries a sentence of up to 15 years in prison.
 
-Therefore, the summary is not consistent with the article because it misrepresents the FBI's actions and the nature of the charges against the individuals involved. The article provides accurate information about the FBI's efforts to prevent individuals from joining terrorist organizations and the charges against those individuals, while the summary presents a distorted and misleading version of those facts.
+Based on these facts, it is clear that the summary is not consistent with the article because it does not accurately represent the content of the article. The summary states that the FBI is trying to travel overseas to fight for ISIS, which is not supported by the article. Instead, the article states that Thomas, a woman from Philadelphia, was charged with attempting to travel overseas to fight for ISIS.
+
+Therefore, the summary is not consistent with the article because it misrepresents the facts and does not accurately reflect the content of the article.
 
 ###Corrected:

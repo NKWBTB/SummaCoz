@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former german footballer lukas hitzlsperger has announced his retirement from international football. 
-
-    Article: 
-    In an interview with newspaper Die Zeit, Hitzlsperger said he was coming out to advance discussion of a topic that was "simply ignored" in German football.
+<Article>
+In an interview with newspaper Die Zeit, Hitzlsperger said he was coming out to advance discussion of a topic that was "simply ignored" in German football.
 He is the most prominent footballer to publicly reveal his homosexuality and his former team-mates were quick to praise his announcement.
 Arsenal and Germany forward Lukas Podolski wrote on Twitter: "Respect to Thomas Hitzlsperger! That was a courageous and correct decision and an important step."
 And retired defender Arne Friedrich, who played with Hitzlsperger at Euro 2008, wrote: "Proud of you Thomas. A good decision and in my opinion the right time."
@@ -33,19 +30,20 @@ German Chancellor Angela Merkel's spokesman Steffen Seibert praised Hitzlsperger
 Openly Gay German politician Volker Beck said he hoped Hitzlsperger's announcement would encourage others to do the same.
 "I hope that Hitzlsperger's courageous step contributes to finally breaking down this taboo," he said. "It's now the job of the German FA to embolden active players [to do the same]."
 And Zwanziger said he was optimistic that Hitzlsperger's announcement would lead to greater openness about sexuality in German football.
-He said: "I'm confident that sexual orientations will soon not be an issue in football at all." 
+He said: "I'm confident that sexual orientations will soon not be an issue in football at all."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+former german footballer lukas hitzlsperger has announced his retirement from international football.
+</Summary>
 
-1. The summary states that Lukas Hitzlsperger has announced his retirement from international football, but the article does not mention anything about retirement.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
 
-2. The summary does not mention the reason for Hitzlsperger's announcement, which is that he is the first prominent footballer to publicly reveal his homosexuality.
+1. The summary states that former German footballer Lukas Hitzlsperger has announced his retirement from international football, but the article does not mention anything about retirement. In fact, the article states that Hitzlsperger has made a courageous step by publicly revealing his homosexuality, which is a significant difference from retirement.
+2. The summary does not mention the reason why Hitzlsperger made this announcement, which is the most prominent aspect of the article. The article explains that Hitzlsperger's announcement is seen as a watershed moment in Germany, which like England has struggled with the problem of homophobia in football. The article also highlights the support from various figures in German football administration and the positive reactions from other footballers, which are not mentioned in the summary.
+3. The summary does not convey the significance of Hitzlsperger's announcement or the impact it may have on German football. The article emphasizes that Hitzlsperger's announcement is a huge and courageous step, and it may lead to greater openness about sexuality in German football. The summary does not convey this sense of importance or potential impact.
 
-3. The summary does not mention any of the supportive statements from football figures and celebrities that are included in the article.
-
-4. The summary does not mention the issue of homophobia in football, which is a significant aspect of the article.
-
-Overall, the summary does not accurately reflect the content of the article. It does not provide a clear and accurate summary of the article's main points and instead focuses on a non-existent retirement announcement.
+Overall, the summary does not accurately reflect the content of the article. It only provides a brief and misleading statement about Hitzlsperger's announcement, without conveying the significance or context of the event.
 
 ###Corrected:

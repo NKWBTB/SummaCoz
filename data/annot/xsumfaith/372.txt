@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the site of a new burial site in oxford has been approved by the city council. 
-
-    Article: 
-    Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
+<Article>
+Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
 Two cemeteries still have space, in Wolvercote and Botley, but they are expected to be full by 2018 and 2021.
 The council said it had not given up and was "still exploring options".
 Linda Smith, board member for leisure, parks and sport, said the council has been "searching for a suitable new burial site for many years".
@@ -14,16 +11,20 @@ She added: "But ultimately, as with new housing sites, we have run out of suitab
 "So far all the council-owned sites that we have identified have, following ground investigations and surveys, had to be discounted.
 "Either due to the size of the site, the ground conditions, a high water table or a covenant restricting the use of the site."
 After the two remaining cemeteries are full the council said only the reopening of family plots, the use of a few reserved plots, and the interment of ashes would be possible.
-The last increase in burial space in Oxford was in 1932. 
+The last increase in burial space in Oxford was in 1932.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the site of a new burial site in oxford has been approved by the city council.
+</Summary>
 
-1. The summary states that the city council has approved a new burial site, but the article states that the council has not found a suitable site and has not given up exploring options.
-2. The summary implies that the council has found a new site for burials, but the article states that all council-owned sites that have been identified have been discounted due to various reasons such as ground conditions, high water table, or covenant restrictions.
-3. The summary does not mention the fact that the two remaining cemeteries in Oxford are expected to be full by 2018 and 2021, as stated in the article.
-4. The summary does not mention the historical context of the lack of burial space in Oxford, which the article provides, stating that the last increase in burial space was in 1932.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the current situation regarding burial sites in Oxford. The article provides more detailed and accurate information about the council's efforts to find a suitable new burial site and the challenges they have faced.
+1. The summary states that the site of a new burial site in Oxford has been approved by the city council.
+2. However, the article states that the council has not found a suitable new burial site and has been searching for many years.
+3. The article also mentions that the two remaining cemeteries in Oxford are expected to be full by 2018 and 2021, and that only a few reserved plots and the interment of ashes would be possible after they are full.
+4. Therefore, it is clear that the summary is not consistent with the article, as there is no mention of the council approving a new burial site.
+5. The inconsistency can be attributed to the fact that the summary is a misleading statement that does not accurately reflect the content of the article.
+6. The article provides information about the council's ongoing search for a new burial site and the limited burial space available in Oxford, but the summary does not convey this information accurately.
 
 ###Corrected:

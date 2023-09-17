@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    i have n\'t been in greece for three weeks but i am told it is eerily quiet and-in respect of tourism-surprisingly busy. 
-
-    Article: 
-    No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
+<Article>
+No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
 And Greece's resorts are teeming: Athens airport expects 25 million arrivals this year, up from 21 million; the incremental 4 million are not all eurozone and IMF officials intent on turning the country into a protectorate run from Brussels, Frankfurt and Washington (home of the IMF).
 Maybe holidaymakers were hoping to be on the ground for euro break-up history. Or more likely Greece simply looks like a wonderful place to take the kids compared with resorts closer to territory controlled by the so-called Islamic State.
 But why aren't the Greeks manning the barricades in protest against already-announced, painful VAT increases and pension cuts, and in anticipation of swingeing reductions in farm subsidies, controversial privatisations and the opening of professions and industries to the harsh wind of competition?
@@ -19,23 +16,21 @@ Not that many Greek companies have the confidence to ask for a loan for investme
 There is the vice, in both senses of the word. Greece is suffering from a vicious economic squeeze, which will undoubtedly further impoverish Greek people.
 So for all the relief throughout the eurozone that Syriza has finally been battered into submission, the new bailout will only hold if Tsipras can offer hope of better times ahead.
 Many would say that good economics and politics requires creditors to ease the burden of Greece's unsustainably large debts by between a third and a half.
-So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation. 
+So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+i have n\'t been in greece for three weeks but i am told it is eerily quiet and-in respect of tourism-surprisingly busy.
+</Summary>
 
-Step 1: Identify the main points of the summary
-The summary states that Greece is eerily quiet and surprisingly busy, with 25 million arrivals expected this year, up from 21 million last year.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article
-The article states that there are no protests or demonstrations in Greece despite the Syriza government agreeing to implement more austerity and liberalization measures. The article also mentions that Greece's resorts are teeming with tourists, and that the country is suffering from a vicious economic squeeze.
+1. The summary states that Greece is "eerily quiet" and "surprisingly busy" regarding tourism.
+2. The article states that Greece's resorts are "teeming" and that Athens airport expects 25 million arrivals this year, up from 21 million.
+3. The summary does not mention the increase in tourism, despite the article highlighting it as a significant aspect of Greece's current situation.
+4. The article states that the new bailout deal will only hold if Tsipras can offer hope of better times ahead, and that creditors will need to ease the burden of Greece's unsustainably large debts.
+5. The summary does not mention the bailout deal, the debt burden, or the potential for better times ahead.
 
-Step 3: Identify the inconsistencies
-The inconsistency between the summary and the article is that the summary does not mention the austerity and liberalization measures that the Syriza government has agreed to implement, or the economic squeeze that Greece is experiencing. Instead, the summary focuses on the fact that Greece is quiet and busy with tourists.
-
-Step 4: Explain the reasons for the inconsistency
-The inconsistency is likely due to the fact that the article is focused on the economic and political situation in Greece, while the summary is focused on the tourism industry. The article mentions that the Syriza government has agreed to implement more austerity and liberalization measures, which may not be directly related to the tourism industry. Therefore, the summary does not mention these points.
-
-In conclusion, the summary is not consistent with the article because it does not mention the austerity and liberalization measures or the economic squeeze that Greece is experiencing, while the article focuses on these issues.
+Therefore, the summary is not consistent with the article because it does not mention the key points of the article, such as the increase in tourism, the new bailout deal, and the debt burden. The summary provides a very limited and incomplete view of the situation in Greece, and does not accurately reflect the content of the article.
 
 ###Corrected:

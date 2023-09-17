@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    washington dc has become the most important player in the world, according to washington dc. 
-
-    Article: 
-    The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
+<Article>
+The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
 Washington, a postman just four years ago, followed that up with another goal against Belarus on Saturday.
 "The last few months have been a crazy time and I don't think it has sunk in yet. I know I have been fortunate," said the 24-year-old.
 "Football can be about being in the right place at the right time, and I have been lucky.
@@ -17,15 +14,19 @@ The Welsh club were promoted to the Football League in his first season, althoug
 He then moved to Peterborough in 2014 and by mid-January of this year, when QPR took him from London Road, Washington had scored 15 goals and aroused the interest of Northern Ireland manager Michael O'Neill.
 Washington had only been to the country once before his international bow against Wales in March but he qualified through the grandparent rule.
 "It was nice to be accepted so quickly and so readily with Northern Ireland," he added.
-"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it." 
+"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+washington dc has become the most important player in the world, according to washington dc.
+</Summary>
 
-1. The summary states that Washington D.C. has become the most important player in the world, but the article does not mention anything about Washington D.C. being a player or having any relevance to football.
-2. The article is actually about a football player named Washington, who has recently made his debut for Northern Ireland and scored two goals in his first two games.
-3. The summary is not consistent with the article because it is talking about a different topic (Washington D.C.) and making a claim that is not supported by the article (that Washington D.C. is the most important player in the world).
-4. The article is focused on the football player Washington and his recent successes with Northern Ireland, and does not mention anything about Washington D.C.
-5. Therefore, the summary is not a accurate reflection of the content of the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that Washington D.C. has become the most important player in the world, according to Washington D.C. This is not consistent with the article, as there is no mention of Washington D.C. being a player or having any involvement in football.
+2. The article is about a football player named Washington, who has made his debut for Northern Ireland and scored two goals in his first two games. The article does not mention anything about Washington D.C. or the city being important or having any involvement in football.
+3. The summary is a misleading and inaccurate representation of the article. It is not consistent with the information presented in the article and is not based on any facts or evidence provided in the article.
+4. The summary is likely a satirical or humorous take on the article, but it is not a accurate summary of the content.
+5. Therefore, the summary is not consistent with the article and is not a reliable representation of the information presented.
 
 ###Corrected:

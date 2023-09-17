@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tottenham can win the premier league title, says tottenham boss mauricio pochettino. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Sadio Mane scored twice in the space of 138 seconds as second-placed Spurs disappointed at Anfield.
 "If you start a game like we start then it is very difficult," said Pochettino.
 "It is difficult to fight for the Premier League if you show that lack of desire to play for a win."
@@ -17,19 +14,19 @@ In their past 17 meetings with the other top-six sides away from home, Pochettin
 "We are in a position that is up to us. But if you show like today that you cannot cope with the pressure then it is difficult to challenge and fight for the Premier League."
 Former Liverpool and Spurs midfielder Danny Murphy on Match of the Day
 "I couldn't believe what I was watching, they had the best defensive record last season and the joint best this year, but they were all over the place. Against the big sides they have played with a back three but they had a back four today, but I think they should have stuck with what they have done against the big sides - play with a three.
-"It was so unlike Spurs, they do so well at home, but the contrast is amazing. There's a lack of pace, and a different mindset when they go away from home. They have to improve and quickly." 
+"It was so unlike Spurs, they do so well at home, but the contrast is amazing. There's a lack of pace, and a different mindset when they go away from home. They have to improve and quickly."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+tottenham can win the premier league title, says tottenham boss mauricio pochettino.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Tottenham can win the Premier League title, but the article does not support this claim.
-
-2. The article quotes Mauricio Pochettino as saying that Tottenham's performance was not good enough to challenge for the Premier League title, and that they need to improve quickly.
-
-3. The article highlights that Tottenham has struggled away from home, winning just twice in their last 17 matches against top-six sides.
-
-4. The article also notes that Tottenham's defensive record has been poor in recent matches, with former Liverpool and Spurs midfielder Danny Murphy stating that they have been all over the place.
-
-5. Based on these points, it is clear that the summary is not consistent with the article, as the article does not support the idea that Tottenham can win the Premier League title. Instead, the article suggests that Tottenham has work to do to improve their away form and defensive record if they are to challenge for the title.
+2. The article quotes Mauricio Pochettino as saying that it is difficult to fight for the Premier League if the team shows a lack of desire to play for a win, but he does not mention winning the title.
+3. The article highlights Spurs' poor away form, stating that they have won just once in their past 17 meetings with top-six sides away from home.
+4. The article also notes that Spurs were "all over the place" and lacked pace in their away game against Liverpool, which further suggests that they are not in a position to win the title.
+5. Therefore, the summary is not consistent with the article because it makes a claim that is not supported by the information provided in the article.
 
 ###Corrected:

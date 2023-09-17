@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s finest uncut opal has mostly been kept in a safe deposit box since it was unearthed from the south australian outback with a pick and shovel 70 years ago. 
-
-    Article: 
-    Walter Bartram was prospecting in dusty terrain in Coober Pedy, about 750km (466 miles) north of Adelaide, in 1946 when he staked a claim to what became called the Fire of Australia.
+<Article>
+Walter Bartram was prospecting in dusty terrain in Coober Pedy, about 750km (466 miles) north of Adelaide, in 1946 when he staked a claim to what became called the Fire of Australia.
 Although his family achieved success in opal trading, their greatest discovery has been seen rarely by the public.
 That has just changed.
 The 998g (35.2oz) opal, valued at nearly A$900,000 (Â£550,000; $680,000), is now on display in Adelaide's South Australian Museum.
@@ -20,15 +17,24 @@ The museum's director, Brian Oldman, said the opal's rarity should not be undere
 A mining town for more than 100 years, Coober Pedy still draws people lured by the hope of striking it rich.
 "They're becoming more scarce because the overheads of mining now are getting to be so expensive - in fuel, explosives, machinery and living costs on the field," Mr Bartram said.
 "But South Australia supplies about 90% of the world's quality opals. There may be more major finds."
-Reporting by the BBC's Greg Dunlop 
+Reporting by the BBC's Greg Dunlop
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the world\'s finest uncut opal has mostly been kept in a safe deposit box since it was unearthed from the south australian outback with a pick and shovel 70 years ago.
+</Summary>
 
-1. The summary states that the opal has been kept in a safe deposit box for 70 years, but the article states that the opal was only discovered in 1946 and has only recently been put on display in a museum.
-2. The summary implies that the opal has been kept private and has not been seen by the public, but the article states that the opal is now on display in a museum and has been valued at nearly A$900,000.
-3. The summary does not mention the location of the opal or the fact that it was discovered in Coober Pedy, but the article provides these details.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. The article provides more detailed and accurate information about the opal and its discovery, as well as the family's decision to put it on display in a museum.
+1. The summary states that the world's finest uncut opal has been kept in a safe deposit box since it was unearthed 70 years ago.
+2. The article states that the opal was discovered by Walter Bartram in 1946, and that it is now on display in Adelaide's South Australian Museum.
+3. The summary does not mention that the opal is on display in a museum, and instead suggests that it has been kept in a safe deposit box for 70 years.
+4. Therefore, the summary is not consistent with the article, as the opal has not been kept in a safe deposit box for 70 years, but has instead been on display in a museum for a significant amount of time.
+
+Reasoning step by step:
+
+1. The summary makes a statement about the opal being kept in a safe deposit box for 70 years.
+2. The article provides information that contradicts this statement, as it states that the opal is on display in a museum.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

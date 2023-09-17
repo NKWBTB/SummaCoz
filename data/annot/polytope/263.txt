@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    indiana state department of health officials said on friday .
-there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county .
-health officials have said they expect the number of cases to rise as more people are tested . 
-
-    Article: 
-    indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
+<Article>
+indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
 there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
 that 's up from 106 last week , said the indiana state department of health .
 health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
@@ -46,20 +41,28 @@ pence 's executive order did n't include money for the scott county program .
 how sustainable is that ? '
 said dr. beth meyerson , co-director of the rural center for aids/std prevention at indiana university .
 ` there 's no evidence that the pence administration is thinking about this in the long term at all . '
- 
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+</Article>
 
-1. The summary states that "health officials have said they expect the number of cases to rise as more people are tested," but the article states that the number of cases has already risen from 106 last week to 120 confirmed cases and 10 preliminary positive cases.
-2. The summary mentions that the needle exchange program was approved by Gov. Mike Pence, but the article states that the program was created through an emergency executive order signed by Pence last week.
-3. The summary states that the program is for Scott County, but the article mentions that the program is for the entire state of Indiana.
-4. The summary states that the program is for 30 days, but the article states that the program is ongoing and that health officials are reviewing reports and recommendations from Pence for extending the program beyond April 25.
-5. The summary does not mention the connection between the outbreak and the use of the high-powered prescription painkiller Opana, which is mentioned in the article.
-6. The summary does not mention the concerns of lawmakers about the potential for needle exchanges to promote drug use instead of prevent it, which is mentioned in the article.
-7. The summary does not mention the future of the Scott County program or the fate of legislation that would allow needle-exchange programs in other counties, which is mentioned in the article.
-8. The summary does not mention the fact that Pence opposes needle exchanges as an anti-drug policy, which is mentioned in the article.
+<Summary>
+indiana state department of health officials said on friday .
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county .
+health officials have said they expect the number of cases to rise as more people are tested .
+</Summary>
 
-Overall, the summary does not accurately reflect the content of the article. It omits important details and includes inaccuracies, such as the duration of the program and the location of the outbreak.
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Number of cases: The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases, but the article states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County. The summary does not mention the county specificity.
+2. Expectation of rise in cases: The summary does not mention the expectation of a rise in cases as more people are tested, which is stated in the article.
+3. Needle exchange program: The summary does not mention the needle exchange program approved by Governor Mike Pence, which is a significant aspect of the article.
+4. Future of the program: The summary does not mention the uncertainty around the future of the needle exchange program, nor does it mention the concerns about the program promoting drug use instead of preventing it, as stated in the article.
+5. Long-term approach: The summary does not mention the need for a long-term approach to addressing the outbreak, as stated in the article.
+6. Other areas of the state: The summary does not mention the concern that other areas of the state may be at risk for a similar outbreak, as stated in the article.
+7. View of needle exchange: The summary does not mention the association between needle exchanges and illegal drug activity, which is a significant aspect of the article.
+8. Sustainability: The summary does not mention the lack of evidence that the Pence administration is thinking about this in the long term, as stated in the article.
+
+Overall, the summary does not capture the key points and nuances of the article, and therefore is not consistent with it.
 
 ###Corrected:

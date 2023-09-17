@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    star wars: the new york city of fett has been speaking to the bbc about how he\'s first film about the darth vader costume. 
-
-    Article: 
-    The 39-year-old, who goes by the name Mick Fett, was born the year the first film in the series came out.
+<Article>
+The 39-year-old, who goes by the name Mick Fett, was born the year the first film in the series came out.
 Since the 1990s, Fett has amassed a vast collection of action figures, costumes and other merchandise.
 His collection fills the five-bedroom home he shares with his girlfriend and is estimated to be worth A$500,000 (Â£300,000; $370,000).
 "I mentioned that I had some Star Wars stuff when we first got together," he told the BBC. "She was a bit overwhelmed at first and then she sort of adapted."
@@ -28,17 +25,19 @@ The Down Under alter ego of the Sith Lord has since become a huge hit - at home 
 He has already seen the new Star Wars film Rogue One, once at the red carpet premiere and again at a midnight screening with fans.
 "It definitely beat all my expectations," he said, adding that the latest blockbuster is a great tribute to the original trilogy.
 "Empire Strikes Back was dark and gritty. Rogue One has a lot of those elements too."
-Reporting by the BBC's Greg Dunlop 
+Reporting by the BBC's Greg Dunlop
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+star wars: the new york city of fett has been speaking to the bbc about how he\'s first film about the darth vader costume.
+</Summary>
 
-1. The summary mentions that Mick Fett is talking to the BBC about his first film about the Darth Vader costume, but the article does not mention any film or any plans to make a film.
-2. The summary states that Mick Fett is the "New York City of Fett," but the article does not mention anything about New York City or Mick Fett's location.
-3. The summary mentions that Mick Fett has a vast collection of Star Wars memorabilia, but the article only mentions a few specific items, such as a life-size Han Solo carbonite statue and a custom light-sabre.
-4. The summary states that Mick Fett's collection is worth A$500,000, but the article does not mention any specific value for his collection.
-5. The summary mentions that Mick Fett wears a Star Wars costume when he's not dressing up in his police officer uniform, but the article does not mention anything about Mick Fett's job or his daily life.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, such as a film about the Darth Vader costume, Mick Fett's location, and the value of his collection. Additionally, the summary includes details that are not accurate, such as Mick Fett being the "New York City of Fett."
+1. The summary states that the article is about Mick Fett's Darth Vader costume, but the article does not mention anything about a costume.
+2. The summary mentions that Mick Fett has been speaking to the BBC about his first film, but the article does not mention anything about a film.
+3. The summary is not consistent with the article because the article does not contain any information about a film or a costume.
+4. The article is actually about Mick Fett's extensive collection of Star Wars memorabilia and his love for the franchise, but the summary does not reflect this.
+5. The summary is a poor representation of the article's content and does not accurately convey the main points of the article.
 
 ###Corrected:

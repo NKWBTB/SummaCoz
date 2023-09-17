@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    greece\'s new prime minister, alexis tsipras, is one of the country\'s most influential and influential investors. 
-
-    Article: 
-    No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
+<Article>
+No demos on the streets of Athens - even though the Syriza government is poised to agree and implement yet more austerity and liberalisation measures, mandated by creditors and of the ilk that till recently it characterised as hateful.
 And Greece's resorts are teeming: Athens airport expects 25 million arrivals this year, up from 21 million; the incremental 4 million are not all eurozone and IMF officials intent on turning the country into a protectorate run from Brussels, Frankfurt and Washington (home of the IMF).
 Maybe holidaymakers were hoping to be on the ground for euro break-up history. Or more likely Greece simply looks like a wonderful place to take the kids compared with resorts closer to territory controlled by the so-called Islamic State.
 But why aren't the Greeks manning the barricades in protest against already-announced, painful VAT increases and pension cuts, and in anticipation of swingeing reductions in farm subsidies, controversial privatisations and the opening of professions and industries to the harsh wind of competition?
@@ -19,16 +16,19 @@ Not that many Greek companies have the confidence to ask for a loan for investme
 There is the vice, in both senses of the word. Greece is suffering from a vicious economic squeeze, which will undoubtedly further impoverish Greek people.
 So for all the relief throughout the eurozone that Syriza has finally been battered into submission, the new bailout will only hold if Tsipras can offer hope of better times ahead.
 Many would say that good economics and politics requires creditors to ease the burden of Greece's unsustainably large debts by between a third and a half.
-So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation. 
+So if this new bailout deal is to be that extraordinary thing, a path to genuine recovery, Brussels and - especially - Berlin will need to avoid triumphalism and manifest debt forgiveness in the face of Athens' capitulation.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+greece\'s new prime minister, alexis tsipras, is one of the country\'s most influential and influential investors.
+</Summary>
 
-1. The summary states that Alexis Tsipras is one of Greece's most influential investors, but the article does not mention anything about Tsipras being an investor.
-2. The summary implies that Tsipras is popular among the Greek people, but the article states that he has failed to deliver on his promises and that his standoff with the rest of the eurozone has saddled Greece with monetary austerity.
-3. The summary mentions nothing about the bailout negotiations or the concessions that Tsipras has made to obtain new credit, while the article states that the new bailout will only hold if Tsipras can offer hope of better times ahead and that creditors will need to ease the burden of Greece's unsustainably large debts.
-4. The summary does not mention the economic hardship and impoverishment that the article states Greece is suffering from, nor does it mention the partial closure of banks and the collapse of economic activity that the article references.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents a more positive view of Tsipras and Greece's economic situation, while the article presents a more negative view.
+1. The summary states that Alexis Tsipras is one of Greece's most influential investors.
+2. The article states that Tsipras is the Prime Minister of Greece, not an investor.
+3. The summary is not consistent with the article, as the article does not mention anything about Tsipras being an investor.
+4. The article discusses Tsipras's role as Prime Minister and his government's agreement to implement austerity measures, while the summary completely omits this information.
+5. Therefore, the summary is not a accurate reflection of the article's content and is not consistent with the information provided in the article.
 
 ###Corrected:

@@ -1,36 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the organisers of the belladrum tartan heart festival have launched a new online festival. 
+<Article>
+Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are."
+</Article>
 
-    Article: 
-    Visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.Videos and band interviews will be among the online material available to view on phones and tablets.HebCelt is is taking place in Stornoway on the Isle of Lewis from 19 to 22 July.The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries and Dougie MacLean are among this year's acts.HebCelt director Caroline Maclennan said: "We are offering the new augmented reality experience as an extra feature to add to the enjoyment of visiting the festival this year."But it will also mean people around the world can interact with the festival and capture a flavour of its atmosphere at any time."The message will be updated in the run up to HebCelt and during the event, allowing people to instantly access information and interviews, buy tickets and also get a taste of our unique festival wherever they are." 
+<Summary>
+the organisers of the belladrum tartan heart festival have launched a new online festival.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the organisers of the Belladrum Tartan Heart Festival have launched a new online festival.
+1. The summary states that the organisers of the Belladrum Tartan Heart Festival have launched a new online festival. This is not consistent with the article, as the article is about the Hebridean Celtic Festival.
+2. The article mentions that the festival is taking place in Stornoway on the Isle of Lewis from 19 to 22 July, while the summary does not provide any information about the location or dates of the festival.
+3. The article mentions that the festival will feature acts such as The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries, and Dougie MacLean, while the summary does not mention any acts or performances.
+4. The article mentions that the festival will offer an augmented reality experience, while the summary does not mention anything about augmented reality or interactive features.
 
-This is not consistent with the article because there is no mention of the Belladrum Tartan Heart Festival in the article. Instead, the article is about the Hebridean Celtic Festival.
-
-2. The article mentions that visitors to the Hebridean Celtic Festival will be able to use an app to trigger online information from items such as signs and posters on the site.
-
-This is not mentioned in the summary.
-
-3. The article also mentions that videos and band interviews will be among the online material available to view on phones and tablets.
-
-This is not mentioned in the summary.
-
-4. The article takes place in Stornoway on the Isle of Lewis from 19 to 22 July.
-
-This is not mentioned in the summary.
-
-5. The article mentions the names of some of the acts performing at the festival, such as The Waterboys, Imelda May, Lucy Spraggan, Skerryvore, Peatbog Faeries, and Dougie MacLean.
-
-This is not mentioned in the summary.
-
-Therefore, the summary is not consistent with the article because it mentions a different festival (Belladrum Tartan Heart Festival) and does not include any of the specific details mentioned in the article about the Hebridean Celtic Festival.
+Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary appears to be about the Belladrum Tartan Heart Festival, rather than the Hebridean Celtic Festival.
 
 ###Corrected:

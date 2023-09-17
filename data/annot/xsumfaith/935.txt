@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    china has accused the us of a stand-off with an oil rig in the disputed waters of the south china sea. 
-
-    Article: 
-    In a telephone call, US Secretary of State John Kerry told Chinese Foreign Minister Wang Yi the US had "strong concerns" over recent developments.
+<Article>
+In a telephone call, US Secretary of State John Kerry told Chinese Foreign Minister Wang Yi the US had "strong concerns" over recent developments.
 Last week, Chinese and Vietnamese ships clashed over the drilling rig that China has placed in waters near the disputed Paracel Islands.
 China and Manila are also at odds over overlapping territorial claims.
 Beijing claims a U-shaped swathe of the South China Sea that covers areas other South East Asian nations say are their territory.
@@ -21,15 +18,19 @@ Mr Wang, meanwhile, urged Mr Kerry to be objective on the issue, a Chinese forei
 Tensions between Beijing and Manila are also running high, after the Philippines arrested and then charged nine Chinese fishermen with poaching at a disputed shoal.
 The Philippines is in the process of taking China to a UN court over its territorial claims.
 It has also recently signed a new security deal with the US which would allow an expanded US troop presence, in a move seen as linked to Manila's deteriorating ties with Beijing.
-On Tuesday, Chinese state media slammed the Philippines, saying that if it continued to challenge China it would pay "an unaffordable price". 
+On Tuesday, Chinese state media slammed the Philippines, saying that if it continued to challenge China it would pay "an unaffordable price".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+china has accused the us of a stand-off with an oil rig in the disputed waters of the south china sea.
+</Summary>
 
-1. The summary states that China has accused the US of a stand-off with an oil rig in the disputed waters of the South China Sea, but the article does not mention any accusations from China towards the US.
-2. The summary mentions only one issue (the oil rig), but the article covers multiple issues, including the recent collisions between Chinese and Vietnamese vessels, the ongoing stand-off, anti-China protests in Vietnam, and tensions between China and the Philippines.
-3. The summary does not mention the involvement of Vietnam or the Philippines in the disputes, while the article highlights their roles and the ongoing tensions between them and China.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it only focuses on one aspect of the disputes (the oil rig) and does not accurately represent the multiple issues and parties involved in the South China Sea disputes.
+1. The summary states that China has accused the US of a stand-off with an oil rig in the disputed waters of the South China Sea.
+2. However, the article does not mention any involvement of the US in the disputed waters or any stand-off with China.
+3. The article only mentions that China has placed an oil rig in waters near the disputed Paracel Islands, and that there have been clashes between Chinese and Vietnamese ships in the area.
+4. The article also mentions that the US Secretary of State John Kerry has urged both sides to de-escalate tensions and resolve the dispute through peaceful means, but there is no mention of any US involvement in the disputed waters.
+5. Therefore, the summary is not consistent with the article, as it falsely accuses the US of being involved in a stand-off with China in the South China Sea.
 
 ###Corrected:

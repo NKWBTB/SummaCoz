@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    gateshead and guiseley extended their unbeaten runs with a 1-1 draw at the gateshead international stadium. 
-
-    Article: 
-    Neil Aspin's promotion-chasing hosts have not lost in nine National League matches while Adam Lockwood's side are unbeaten in five.
+<Article>
+Neil Aspin's promotion-chasing hosts have not lost in nine National League matches while Adam Lockwood's side are unbeaten in five.
 Guiseley went ahead on 15 minutes against the run of play when a throw-in found James Hurst who squared to Jake Lawlor to stroke into an empty net.
 Gateshead defender Liam Hogan superbly blocked Jordan Preston's effort and Guiseley keeper Jonny Maxted then saved well from Wesley York's shot just before the break.
 The hosts, who started the second half well, levelled on 62 minutes when a slip by half-time substitute Derek Asamoah let York curl sweetly into the top-right corner from the edge of the box.
@@ -24,17 +21,20 @@ First Half ends, Gateshead 0, Guiseley 1.
 Simon Walton (Guiseley) is shown the yellow card.
 Goal!  Gateshead 0, Guiseley 1. Jake Lawlor (Guiseley).
 First Half begins.
-Lineups are announced and players are warming up. 
+Lineups are announced and players are warming up.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+gateshead and guiseley extended their unbeaten runs with a 1-1 draw at the gateshead international stadium.
+</Summary>
 
-1. The summary states that Gateshead and Guiseley extended their unbeaten runs with a 1-1 draw, but the article states that Gateshead had not lost in nine National League matches, while Guiseley were unbeaten in five. This implies that Gateshead had a longer unbeaten run than Guiseley, which is not consistent with the summary.
-2. The summary mentions that Guiseley went ahead on 15 minutes, but the article states that Gateshead defender Liam Hogan superbly blocked Jordan Preston's effort and Guiseley keeper Jonny Maxted then saved well from Wesley York's shot just before the break. This suggests that Guiseley did not score until after the break, which is not consistent with the summary.
-3. The summary states that Gateshead levelled on 62 minutes, but the article states that Gateshead defender Gus Mafuta was shown the yellow card just before the break. This suggests that the goal was scored before the break, which is not consistent with the summary.
-4. The summary mentions that Guiseley substitute Michael Rankine replaced Jordan Preston, but the article states that Preston was the scorer of the goal. This is not consistent with the summary.
-5. The summary states that the match ended in a 1-1 draw, but the article states that the match ended with a goal from Wes York for Gateshead. This is not consistent with the summary.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my step-by-step reasoning for why the provided summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains errors and inconsistencies in the details of the match.
+1. The summary states that "gateshead and guiseley extended their unbeaten runs with a 1-1 draw at the gateshead international stadium." However, the article states that Gateshead lost the match 1-1, not drew.
+2. The summary does not provide any information about the match, such as the goalscorers or the performance of the teams. The article, on the other hand, provides detailed information about the match, including the goalscorers and the key events.
+3. The summary is too brief and lacks important details. The article, on the other hand, provides a more comprehensive report of the match, including the starting lineups, the key events, and the goalscorers.
+
+Therefore, based on the above reasons, the provided summary is not consistent with the article.
 
 ###Corrected:

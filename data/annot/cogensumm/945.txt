@@ -1,21 +1,34 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    cctv footage shows the 65-year-old motorist, who has not been named. he suddenly slams on the brakes but he collides with a car in front. driver's side were immediately shatters and falls through. driver is seen steering the bus into the hard shoulder. 
+<Article>
+This is the terrifying moment a bus driver rams into a stream of traffic as he falls asleep behind the wheel. CCTV footage shows the 65-year-old motorist, who has not been named, slowly drifting off while he navigates a road in Oakland County, Michigan. After stirring he suddenly slams on the brakes, but it proves too late and he collides with a car in front. The driver's side of the windscreen immediately shatters and falls through. In a bid to avoid further damage, the driver is seen steering the bus into the hard shoulder. A loud scraping noise can be heard as the vehicle drags a trail of debris along. A number of other vehicles are bumped and scratched as the bus goes by. After the driver manages to stop, a woman who was sat in the middle of the coach, exits out of the front door. There were apparently no other passengers on board. Caught on camera: This is the terrifying moment a bus driver rams into a stream of traffic as he falls asleep behind the wheel . Cruise control: CCTV footage shows the 65-year-old motorist, who has not been named, slowly drifting off while he navigates a road in Oakland County, Michigan . Safety glass: After stirring he suddenly slams on the brakes, but it proves too late and he collides with a car in front - The driver's side of the windscreen immediately shatters and falls through . Trail of destruction: A number of other vehicles are bumped and scratched as the bus goes by . Authorities quizzed the driver about the incident on the spot. He plainly stated that he dozed off and tried to brake. While no one on the bus was hurt, two motorists were reportedly taken to hospital non-life-threatening injuries. The accident took place on October 21 2014 around 6pm but police have only just released details around the event. The driver, who had been employed by the Suburban Mobility Authority for Regional Transportation (SMART) for more than a decade, tested negative for alcohol. According to Local 4 News, he is expected to appear in court on Wednesday. Lucky escape: After the driver manages to stop, a woman who was sat in the middle of the coach (seen above), exits out of the front door . Longtime employee: The driver, who had been employed by the Suburban Mobility Authority for Regional Transportation (SMART) for more than a decade, tested negative for alcohol . Facing penalty: According to Local 4 News, he is expected to appear in court on Wednesday .
+</Article>
 
-    Article: 
-    This is the terrifying moment a bus driver rams into a stream of traffic as he falls asleep behind the wheel. CCTV footage shows the 65-year-old motorist, who has not been named, slowly drifting off while he navigates a road in Oakland County, Michigan. After stirring he suddenly slams on the brakes, but it proves too late and he collides with a car in front. The driver's side of the windscreen immediately shatters and falls through. In a bid to avoid further damage, the driver is seen steering the bus into the hard shoulder. A loud scraping noise can be heard as the vehicle drags a trail of debris along. A number of other vehicles are bumped and scratched as the bus goes by. After the driver manages to stop, a woman who was sat in the middle of the coach, exits out of the front door. There were apparently no other passengers on board. Caught on camera: This is the terrifying moment a bus driver rams into a stream of traffic as he falls asleep behind the wheel . Cruise control: CCTV footage shows the 65-year-old motorist, who has not been named, slowly drifting off while he navigates a road in Oakland County, Michigan . Safety glass: After stirring he suddenly slams on the brakes, but it proves too late and he collides with a car in front - The driver's side of the windscreen immediately shatters and falls through . Trail of destruction: A number of other vehicles are bumped and scratched as the bus goes by . Authorities quizzed the driver about the incident on the spot. He plainly stated that he dozed off and tried to brake. While no one on the bus was hurt, two motorists were reportedly taken to hospital non-life-threatening injuries. The accident took place on October 21 2014 around 6pm but police have only just released details around the event. The driver, who had been employed by the Suburban Mobility Authority for Regional Transportation (SMART) for more than a decade, tested negative for alcohol. According to Local 4 News, he is expected to appear in court on Wednesday. Lucky escape: After the driver manages to stop, a woman who was sat in the middle of the coach (seen above), exits out of the front door . Longtime employee: The driver, who had been employed by the Suburban Mobility Authority for Regional Transportation (SMART) for more than a decade, tested negative for alcohol . Facing penalty: According to Local 4 News, he is expected to appear in court on Wednesday . 
+<Summary>
+cctv footage shows the 65-year-old motorist, who has not been named. he suddenly slams on the brakes but he collides with a car in front. driver's side were immediately shatters and falls through. driver is seen steering the bus into the hard shoulder.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-1. The summary states that the driver "suddenly slams on the brakes," but the article states that the driver "slowly drifted off" before suddenly colliding with another vehicle. This inconsistency suggests that the summary may not accurately reflect the events described in the article.
-2. The summary mentions that the driver's side of the windshield "immediately shatters and falls through," but the article states that the driver's side of the windshield "shatters and falls through" only after the driver collides with another vehicle. This discrepancy suggests that the summary may not accurately represent the sequence of events.
-3. The summary states that the driver "tries to brake," but the article states that the driver "tested negative for alcohol." This inconsistency suggests that the summary may not accurately reflect the driver's state at the time of the incident.
-4. The summary mentions that "no one on the bus was hurt," but the article states that two motorists were taken to the hospital with non-life-threatening injuries. This discrepancy suggests that the summary may not accurately represent the extent of the injuries sustained during the incident.
+Step 1: The summary states that the driver suddenly slams on the brakes, but the article states that the driver slowly drifted off while driving.
 
-Overall, the given summary is not consistent with the article because it contains several inaccuracies and inconsistencies. Therefore, it is not a reliable representation of the events described in the article.
+The article provides more information about the driver's behavior before the collision, indicating that the driver was not paying attention and slowly drifted off while driving. The summary does not include this information and instead states that the driver suddenly slams on the brakes.
+
+Step 2: The summary states that the driver's side of the windscreen immediately shatters and falls through, but the article does not mention this.
+
+The article does mention that the driver's side of the windscreen shatters, but it does not state that it falls through. The summary adds this detail, which is not supported by the article.
+
+Step 3: The summary states that the driver is seen steering the bus into the hard shoulder, but the article does not mention this.
+
+The article does mention that the driver tries to avoid further damage by steering the bus into the hard shoulder, but the summary does not include this detail.
+
+Step 4: The summary does not mention the other vehicles that were bumped and scratched by the bus, as mentioned in the article.
+
+The article states that a number of other vehicles were bumped and scratched as the bus went by, but the summary does not include this information.
+
+Overall, the summary does not provide a complete and accurate summary of the article. It omits important details and includes some inaccuracies, such as the driver suddenly slamming on the brakes and the driver's side windscreen shattering and falling through.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
-stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza b strain b/phuket .
-experts say the modified version of the vaccination is worth waiting for . 
-
-    Article: 
-    fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
+<Article>
+fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
 stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .
 the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two types of flu .
 stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against two new strains
@@ -22,17 +17,23 @@ world health authorities realised that and modified the vaccine to be used in au
 ` in fact the vaccine that will be used in the next northern winter will be exactly the same as the one we 'll be using over the next few weeks . '
 dr hampson said people should be booking their flu shots now , given the delay in stocks arriving .
 ` even if people are not in one of the high-risk groups , they are probably coming into contact with people in their own families who are , ' he said .
-` those high-risk groups are harder to protect so it 's great if we can also protect the people around them . ' 
+` those high-risk groups are harder to protect so it 's great if we can also protect the people around them . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
+stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza b strain b/phuket .
+experts say the modified version of the vaccination is worth waiting for .
+</Summary>
 
-1. The summary mentions only two new strains of influenza (H3N2 and B/Phuket), while the article mentions three new strains (H3N2, B/Phuket, and A/H1N1).
-2. The summary states that the vaccine is arriving a month later than expected, but the article does not mention any delay in the arrival of the vaccine.
-3. The summary mentions that the vaccine provides protection against two new strains, but the article states that the vaccine provides protection against three new strains.
-4. The summary does not mention the high-risk groups that will be able to access free, government-funded flu shots from April 20, as stated in the article.
-5. The summary does not mention that the vaccine will be the same as the one that will be used in the next northern winter, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it only mentions two new strains of influenza, does not mention the delay in the arrival of the vaccine, and does not provide accurate information about the high-risk groups that will be able to access free flu shots.
+1. The summary states that the vaccine will provide protection against influenza b strain b/phuket, but the article states that the vaccine will provide protection against both influenza A strain H3N2 and influenza B strain b/phuket.
+2. The summary does not mention the inclusion of protection against influenza A strain H3N2, which is mentioned in the article.
+3. The article states that the modified vaccine is worth waiting for, but the summary does not include this information.
+4. The article mentions that high-risk groups such as the very young, very old, and most indigenous Australians will be able to access free, government-funded flu shots from April 20, but the summary does not include this information.
+5. The article states that the vaccine will be available in Australia this winter, but the summary does not include this information.
+
+Therefore, the summary is not consistent with the article because it does not include all the information provided in the article, such as the inclusion of protection against influenza A strain H3N2, the availability of free flu shots for high-risk groups, and the timing of the vaccine's availability in Australia.
 
 ###Corrected:

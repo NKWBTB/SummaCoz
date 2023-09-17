@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dominic solanke scored late on to give chelsea 3-1 lead back to west london .  
-tammy abraham double scored in manchester city 's first half lead .  
-norwegian international has been on the bench for chelsea . 
-
-    Article: 
-    chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
+<Article>
+chelsea took a commanding 3-1 lead back to west london after a strong showing in manchester to see off city 's young side .
 dominic solanke scored late on to put a gloss on the scoreline after a tammy abraham double had seen chelsea take a first half lead .
 sportsmail was at the academy stadium to see how the youngsters got on ...
 tammy abraham smashes chelsea into the lead with a fierce drive into the top corner
@@ -51,22 +46,24 @@ charly musonda : the belgian playmaker , the only overseas man in the starting x
 isaiah brown : said to be interesting jose mourinho but will not want to dwell on his big moment early on when he blasted over bar when unmarked on the edge of the box .
 miss aside , was a constant menace .
 kasey palmer ( abraham , 67 , 21 ) : on for abraham and showed explosive pace straight away but was let down by a hurried attempt at a finish which flew over the bar .
-isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward 
+isaiah brown holds off a tackle from fikayo tomori , during another impressive display for the young forward
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dominic solanke scored late on to give chelsea 3-1 lead back to west london .  
+tammy abraham double scored in manchester city 's first half lead .  
+norwegian international has been on the bench for chelsea .
+</Summary>
 
-1. The summary states that Tammy Abraham doubled scored for Chelsea, but the article states that he scored two volleys for his 35th and 36th strikes of the season.
-2. The summary states that Dominic Solanke scored late on to give Chelsea a 3-1 lead, but the article states that he scored a neat third to effectively kill the tie.
-3. The summary does not mention the name of the stadium where the match was held, while the article mentions that the match was held at the Academy Stadium.
-4. The summary does not mention the name of the Manchester City player who was substituted on 67 minutes, while the article mentions that it was Kean Bryan.
-5. The summary does not mention the name of the Chelsea player who was booked in the first half, while the article mentions that it was Jay Dasilva.
-6. The summary does not mention the name of the Manchester City player who was cautioned for a from-behind challenge in the first half, while the article mentions that it was Isaac Buckley-Ricketts.
-7. The summary does not mention the name of the Chelsea player who was tipped for big things, while the article mentions that it was Charlie Colkett.
-8. The summary does not mention the name of the Manchester City player who struggled to fill in for an injured star, while the article mentions that it was Bersant Celina.
-9. The summary does not mention the name of the Chelsea player who was on the bench for long periods, while the article mentions that it was Kjetil Haug.
-10. The summary does not mention the name of the Manchester City player who was a commanding presence at the heart of defense, while the article mentions that it was Tosin Adarabioyo.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide a complete and accurate account of the match, as it omits several key details and includes some inaccuracies.
+The given summary is not consistent with the article because it does not accurately reflect the events described in the article. Here are the reasons why:
+
+1. The summary mentions that Dominic Solanke scored late on to give Chelsea a 3-1 lead, but the article does not mention Solanke scoring at all. Instead, the article states that Solanke had a powerful shot that was blocked by the goalkeeper.
+2. The summary mentions that Tammy Abraham doubled Chelsea's lead in the first half, but the article states that Abraham scored two volleys, not a double.
+3. The summary mentions that a Norwegian international was on the bench for Chelsea, but the article does not mention any Norwegian players.
+4. The summary does not mention the name of the opposing team, which is Manchester City, while the article mentions the team several times.
+
+Therefore, the summary is not a accurate reflection of the article and contains several inaccuracies.
 
 ###Corrected:

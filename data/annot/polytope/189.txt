@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    saskia posted snaps of the test to her twitter account , @saskiaisabxlla , commenting ` boyfriend made me take an @arsenal exam ! '
-saskia 's football fan boyfriend made her take an arsenal test and did n't dump her thanks to her a grade
-saskia scored an impressive 87 per cent , but according to her unnamed boyfriend 's feedback she ` could have performed better on q17 ' , needs to ` learn all player positions ' and should understand that ` tottenham are scum ' . 
-
-    Article: 
-    an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
+<Article>
+an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
 marking her answers with red pen , she scored an impressive 43.5 out of 50 , to which he commented , ` well done saskia !
 as a result , i will not be dumping you !
 ( lucky you ) ' .
@@ -58,20 +53,23 @@ others , though , felt that the boyfriend had taken things a tad too far .
 we reckon it was a bit of fun and he would n't really have dumped her if she 'd failed ... at least we like to think that 's the case .
 trimothy wants to put his girlfriend to the test , although apparently ca n't be bothered to create his own exam
 eduardo claims ` football fans are nuts ' despite appearing to be one as he holds what looks suspiciously like the fa cup in his hands ...
-some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head ' 
+some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+saskia posted snaps of the test to her twitter account , @saskiaisabxlla , commenting ` boyfriend made me take an @arsenal exam ! '
+saskia 's football fan boyfriend made her take an arsenal test and did n't dump her thanks to her a grade
+saskia scored an impressive 87 per cent , but according to her unnamed boyfriend 's feedback she ` could have performed better on q17 ' , needs to ` learn all player positions ' and should understand that ` tottenham are scum ' .
+</Summary>
 
-1. The summary states that Saskia scored an 87%, but the article states that she scored a 43.5 out of 50.
-2. The summary mentions that Saskia's boyfriend drew an angry face when she got a question wrong, but the article does not mention this.
-3. The summary states that Saskia struggled to name all 11 players of the starting squad and got confused on the player positions, but the article does not mention this.
-4. The summary mentions that Saskia's boyfriend graded her exam and rewarded her with an "A", but the article does not mention this.
-5. The summary states that Saskia kept her boyfriend happy with creative answers to his questions and got double marks for some, but the article does not mention this.
-6. The summary states that the test was in the form of a school exam, but the article does not mention this.
-7. The summary mentions that the test included questions about the current manager of Arsenal, the kit, and the starting 11 squad, but the article does not mention these specific questions.
-8. The summary states that Saskia's boyfriend is an obsessive Arsenal fan, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other details that are present in the article.
+1. The summary states that Saskia's boyfriend made her take an Arsenal test and she scored an impressive 87%.
+2. However, the article states that Saskia struggled to name all 11 players of the starting squad and got confused on the player positions.
+3. The summary does not mention the fact that Saskia's boyfriend drew an angry face when she got a question wrong, which is a significant detail in the article.
+4. The summary states that Saskia's boyfriend did not dump her thanks to her A grade, but the article states that he was impressed with the end result and graded her an A.
+5. The summary does not include any of the creative answers that Saskia gave to her boyfriend's questions, which are mentioned in the article.
+
+Overall, the summary is not consistent with the article because it does not include many of the details and specific examples that are present in the article. The summary is more general and does not provide the same level of information about Saskia's experience with her Arsenal-loving boyfriend.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tom o'carroll , a leading member of the notorious paedophile information exchange , has joined the supporters of the media pressure group hacked off
-o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation
-the organisation , set up in the wake of the phone-hacking scandal , is campaigning against what it sees as the ` biased and unfair ' independent press standards organisation 
-
-    Article: 
-    tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
+<Article>
+tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
 a leading member of the notorious paedophile information exchange , which campaigned to legalise child sex in the 1970s and 80s , has joined the supporters of the media pressure group hacked off .
 tom o'carroll , a former open university information officer and formerly a key activist for pie , attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation .
 the organisation , set up in the wake of the phone-hacking scandal , is campaigning against what it sees as the ` biased and unfair ' independent press standards organisation .
@@ -21,31 +16,24 @@ o'carroll was on the nccl 's gay rights sub-committee .
 the 69-year-old was jailed in 1981 for ` corrupting public morals ' .
 he wrote a blog after the february meeting , chaired by comedian john cleese , confirming his attendance .
 a hacked off spokesman said that the meeting was ` open to and free for all members of the public to attend ' .
-o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired 
+o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+tom o'carroll , a leading member of the notorious paedophile information exchange , has joined the supporters of the media pressure group hacked off
+o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation
+the organisation , set up in the wake of the phone-hacking scandal , is campaigning against what it sees as the ` biased and unfair ' independent press standards organisation
+</Summary>
 
-1. The article states that Tom O'Carroll, a leading member of the Paedophile Information Exchange (PIE), has joined the supporters of the media pressure group Hacked Off.
+Explain your reasoning step by step:[/INST]
 
-Inconsistency: This statement is not consistent with the article because PIE is a notorious organization that campaigned for the legalization of child sex, which is not something that Hacked Off would support.
-
-2. The article mentions that O'Carroll attended a Hacked Off rally in the Houses of Parliament on February 25 to lobby MPs for state involvement in media regulation.
-
-Inconsistency: This statement is not consistent with the article because O'Carroll's attendance at the rally would be an embarrassment to Hacked Off, as PIE's views on child sex are not aligned with Hacked Off's goals.
-
-3. The article states that Hacked Off is campaigning against what it sees as the "biased and unfair" Independent Press Standards Organisation (IPSO).
-
-Inconsistency: This statement is not consistent with the article because PIE's views on child sex are not aligned with Hacked Off's goals, and it is unlikely that Hacked Off would support an organization that campaigns for the legalization of child sex.
-
-4. The article mentions that O'Carroll was a former Open University information officer and was a key activist for PIE.
-
-Inconsistency: This statement is not consistent with the article because it is unlikely that Hacked Off would support someone with a background in PIE, a notorious organization that campaigned for the legalization of child sex.
-
-5. The article states that Hacked Off wants MPs to set up a statutory body to regulate the press, as recommended by the Leveson Inquiry.
-
-Inconsistency: This statement is not consistent with the article because PIE's views on child sex are not aligned with Hacked Off's goals, and it is unlikely that Hacked Off would support a statutory body to regulate the press.
-
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or the goals of Hacked Off
+1. The summary states that Tom O'Carroll, a leading member of the Paedophile Information Exchange (PIE), has joined the supporters of the media pressure group Hacked Off.
+2. However, the article states that O'Carroll attended a Hacked Off rally to lobby MPs for state involvement in media regulation, but it does not mention him as a member or supporter of the group.
+3. Therefore, the summary is not consistent with the article because it implies that O'Carroll is a member or supporter of Hacked Off, which is not supported by the article.
+4. The article only mentions that O'Carroll attended a Hacked Off rally, but it does not provide any information about his membership or support for the group.
+5. The summary is incorrect in stating that O'Carroll has joined the supporters of Hacked Off, as there is no evidence in the article to support this claim.
+6. The article does mention that O'Carroll was a leading member of PIE, which was a controversial group that campaigned for the legalization of child sex in the 1970s and 80s.
+7. However, the article does not provide any information about O'Carroll's current involvement with PIE or any other group.
+8. Therefore, the summary is not only inconsistent with the article, but it also perpetuates inaccurate information by suggesting that O'Carroll is a member or supporter of Hacked Off.
 
 ###Corrected:

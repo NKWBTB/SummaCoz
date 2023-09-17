@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    developers at open garden have built a small egg-shaped gadget that acts like a beacon , or booster , to help messages move around so-called wireless mesh networks more easily .  firechat launched last year and has been downloaded more than five million times .  it creates what 's called a wireless mesh network that connects phones to each other .  
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -53,18 +50,19 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+developers at open garden have built a small egg-shaped gadget that acts like a beacon , or booster , to help messages move around so-called wireless mesh networks more easily .  firechat launched last year and has been downloaded more than five million times .  it creates what 's called a wireless mesh network that connects phones to each other . 
+</Summary>
 
-1. The summary states that Greenstone is a small egg-shaped gadget that acts as a beacon or booster to help messages move around wireless mesh networks more easily. However, the article does not mention anything about Greenstone being an egg-shaped gadget or a beacon/booster. Instead, it describes Greenstone as a small device that helps to strengthen off-the-grid networks.
-2. The summary mentions that FireChat has been downloaded over five million times, but the article does not provide any download numbers for FireChat.
-3. The summary states that Greenstone has a range of around 20ft (6 meters), but the article states that it has a range of up to 30 feet (9 meters).
-4. The summary mentions that Greenstone is still under development and only works with FireChat, but the article does not mention anything about it being under development or only working with FireChat.
-5. The summary states that Greenstone can hold up to 1,000 of the most recent messages, but the article does not mention anything about the device having a message limit.
-6. The summary mentions that Open Garden is working with manufacturers to design and sell Greenstone, but the article does not mention anything about Open Garden working with manufacturers or the device being available for purchase.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and exaggerations compared to the article. It is important to carefully read and understand the original article to avoid spreading misinformation.
+1. The summary states that the device built by Open Garden is an egg-shaped gadget that helps messages move around wireless mesh networks more easily.
+2. However, the article states that Greenstone is still under development and only currently works with Firechat at a range of around 20ft (6 meters).
+3. The summary does not mention that Greenstone is still under development or that it only works with Firechat at a limited range.
+4. Additionally, the summary does not mention that Firechat has been downloaded more than five million times, which is a significant detail mentioned in the article.
+5. Therefore, the summary is not consistent with the article because it does not accurately represent the current state of Greenstone and its limitations, and it omits significant details about Firechat's popularity.
 
 ###Corrected:

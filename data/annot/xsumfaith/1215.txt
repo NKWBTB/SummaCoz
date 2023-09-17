@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland\'s councils have voted to reject the government\'s plans for a new community in northern ireland. 
-
-    Article: 
-    They range from extra responsibility for off-street parking, through to tourism.
+<Article>
+They range from extra responsibility for off-street parking, through to tourism.
 Potentially, though, the most controversial move will be putting politicians in charge of all but the most significant planning decisions.
 Councils will be able to accept or reject developments in their own areas.
 Currently, if you want to build a new house or erect an extension, you have to apply for permission to the Planning Service, an agency that comes under the umbrella of Stormont's environment department.
@@ -28,17 +25,19 @@ He said: "It's quite easy to see that continuing, where we get a laissez-faire s
 Friends of the Earth argue that giving politicians more powers with real financial consequences for developers and objectors makes it increasingly important that the public should know who donates to Northern Ireland's political parties.
 Some local politicians remain opposed to the move, because they say it could deter donors worried about their personal security.
 Others argue that the Â£7,500 limit for declaring donations is largely irrelevant to Northern Ireland, as the Stormont parties don't attract such large amounts.
-Under the terms of a law passed earlier this year, it's up to the Northern Ireland Secretary to decide when the time is right to make an order shedding more light on political donations. 
+Under the terms of a law passed earlier this year, it's up to the Northern Ireland Secretary to decide when the time is right to make an order shedding more light on political donations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+northern ireland\'s councils have voted to reject the government\'s plans for a new community in northern ireland.
+</Summary>
 
-1. The summary states that Northern Ireland's councils have voted to reject the government's plans for a new community, while the article does not mention any such vote or rejection.
-2. The summary mentions "government plans for a new community," while the article only discusses plans for a new planning system and does not mention any specific community.
-3. The summary suggests that the new planning system will give politicians more power, while the article states that councils will be able to accept or reject developments in their own areas, but does not mention any increase in politicians' power.
-4. The summary quotes Michael Corr as saying that the move is "a huge opportunity for the future," while the article quotes James Orr as expressing concerns about the potential for unfairness and corruption.
-5. The summary does not mention any of the concerns or potential drawbacks of the new planning system mentioned in the article, such as the risk of discrimination or the need for a strict code of conduct to ensure fairness and transparency.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it misrepresents the content and tone of the article, and omits important information and perspectives.
+1. The summary states that Northern Ireland's councils have voted to reject the government's plans for a new community, but the article does not mention anything about a new community or the government's plans being rejected.
+2. The article discusses the government's plan to give local councils more powers in terms of planning decisions, but there is no mention of a new community or the councils rejecting any plans.
+3. The summary is not consistent with the article, as the article does not support the idea that the councils have rejected any plans or that a new community is being proposed.
+4. The inconsistency is likely due to a misunderstanding or misinterpretation of the article's content. The article discusses the government's plan to give local councils more powers in terms of planning decisions, but the summary misrepresents this information as the councils rejecting the government's plans for a new community.
+5. Therefore, the summary is not an accurate representation of the article's content and should be revised to better reflect the information presented in the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a decision has been made to close a well-loved and historic historic barracks in pembrokeshire, the defence secretary has said. 
-
-    Article: 
-    It comes in a shake-up of UK military buildings and resettling of regiments.
+<Article>
+It comes in a shake-up of UK military buildings and resettling of regiments.
 Brecon and Radnorshire Conservative MP Chris Davies condemned the closure, saying there had been a barracks in Brecon since 1805, home to troops who fought the Zulus at Rorke's Drift.
 "This decision is abhorrent and I shall be fighting it every step of the way," he said.
 "The government has a great deal of questions to answer over why it is proposing to close a well-loved and historic barracks in a vitally important military town.
@@ -19,16 +16,20 @@ Mr Davies said he understood the nearby Sennybridge training ground and infantry
 Defence Secretary Sir Michael Fallon told the Commons on Monday the reorganisation in Wales would see a specialist light infantry centre created at St Athan, Vale of Glamorgan.
 Cawdor Barracks, Pembrokeshire - whose closure was previously announced in 2013 - will now shut in 2024, while a storage depot at Sennybridge will go in 2025.
 Responding for Labour, Shadow Defence Secretary Nia Griffith, MP for Llanelli, said the ministry was "right to restructure its estate".
-But she warned closing bases would affect the livelihoods of many people who would face "gnawing uncertainty" over their future. 
+But she warned closing bases would affect the livelihoods of many people who would face "gnawing uncertainty" over their future.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a decision has been made to close a well-loved and historic historic barracks in pembrokeshire, the defence secretary has said.
+</Summary>
 
-1. The summary states that the Defence Secretary has announced the closure of a well-loved and historic barracks in Pembrokeshire, but the article does not mention any such announcement.
-2. The summary mentions that the barracks has been in Brecon since 1805 and has served the country with distinction, but the article only mentions that Cawdor Barracks in Pembrokeshire will close in 2024, and that a storage depot at Sennybridge will close in 2025.
-3. The summary quotes the MP as saying that the decision is "abhorrent" and that he will fight it every step of the way, but the article does not include any such quote.
-4. The summary mentions a petition being launched against the decision, but the article does not mention any such petition.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits other information that is present in the article.
+1. The summary states that the decision has been made to close a well-loved and historic barracks in Pembrokeshire.
+2. However, the article states that the barracks to be closed are in Brecon, not Pembrokeshire.
+3. Therefore, the summary is not consistent with the article, as it refers to a different location.
+4. The article mentions that the barracks to be closed are Cawdor Barracks in Pembrokeshire, but the summary does not mention this.
+5. The summary also does not mention the reason for the closure, which is given in the article as part of a reorganisation of the UK military's estate.
+6. Overall, the summary is not a accurate reflection of the information in the article.
 
 ###Corrected:

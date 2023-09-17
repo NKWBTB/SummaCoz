@@ -1,29 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    three senior officials are to leave their roles at aberdeen city council. 
-
-    Article: 
-    The local authority said Richard Ellis was leaving on Friday at the end of his contract.
+<Article>
+The local authority said Richard Ellis was leaving on Friday at the end of his contract.
 Ciaran Monaghan and Ewan Sutherland are both going under a voluntary redundancy and early retirement scheme.
 Stephen Flynn, the leader of the opposition SNP group, said the departures were indicative of the council's inability to hold on to senior staff.
 He said he expected further departures in the coming months.
 Mr Ellis is the council's former interim director of corporate governance, and has also been acting as deputy chief executive for several months.
 Mr Monaghan is head of the chief executive's office, while Mr Sutherland is head of human resources and customer services.
-Council chief executive Angela Scott thanked the trio for their "dedication and professionalism". 
+Council chief executive Angela Scott thanked the trio for their "dedication and professionalism".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+three senior officials are to leave their roles at aberdeen city council.
+</Summary>
 
-1. The summary states that three senior officials are leaving their roles at Aberdeen City Council.
-2. However, the article states that only one official, Richard Ellis, is leaving at the end of his contract. Ciaran Monaghan and Ewan Sutherland are leaving under a voluntary redundancy and early retirement scheme.
-3. Therefore, the summary is not consistent with the article because it does not accurately reflect the reasons for the departures of the three officials.
-4. The article provides more information about the departures, such as the fact that Mr. Ellis was the council's former interim director of corporate governance and had been acting as deputy chief executive for several months, and that Mr. Monaghan is head of the chief executive's office and Mr. Sutherland is head of human resources and customer services.
-5. The article also includes a quote from the council chief executive, Angela Scott, thanking the trio for their "dedication and professionalism".
-6. The summary does not include any of this additional information, which makes it inconsistent with the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not a consistent summary of the article because it does not accurately reflect the reasons for the departures of the three officials and leaves out important details about their roles and the council's appreciation for their service.
+1. The summary states that "three senior officials are to leave their roles at Aberdeen City Council."
+2. The article states that Richard Ellis, Ciaran Monaghan, and Ewan Sutherland are leaving their roles at Aberdeen City Council.
+3. However, the summary does not mention the names of the individuals who are leaving, only stating that "three senior officials" are leaving.
+4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the individuals who are leaving. The article provides the names of the individuals and their positions within the council, while the summary only provides a generic statement about "three senior officials" leaving.
 
 ###Corrected:

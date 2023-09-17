@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ireland reached the semi-finals of the intercontinental cup with a six-wicket victory over afghanistan in the intercontinental cup in dubai. 
-
-    Article: 
-    Opener Stuart Thompson hit 56 while Gary Wilson (41 no) and captain William Porterfield (39) added valuable runs as Ireland made 165-5 in Greater Noida.
+<Article>
+Opener Stuart Thompson hit 56 while Gary Wilson (41 no) and captain William Porterfield (39) added valuable runs as Ireland made 165-5 in Greater Noida.
 It was not enough with Samiullah Shenwari (56) and Mohammad Shahzad (47) helping the Afghans to 171-4 with two overs to spare.
 The sides meet again in the second T20 at the same venue on Friday.
 Ireland suffered an early blow when opener Paul Stirling was dismissed for a duck and with just one run on the board.
@@ -16,29 +13,21 @@ Afghan spinner Amir Hamza (2-23) was the only bowler to take more than one wicke
 "We fell a little bit short of potentially a very big score. We could have added another 15 and gotten up to the 180 we were looking for," said Porterfield.
 "As well as we played I thought we just came up short with the ball. We didn't quite execute things as well as we would have liked."
 The loss of paceman Boyd Rankin for the T20s, because of a back problem, was another setback for the Irish on Wednesday.
-Rankin is expected to return for the five ODIs against Afghanistan, starting on 15 March. 
+Rankin is expected to return for the five ODIs against Afghanistan, starting on 15 March.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+ireland reached the semi-finals of the intercontinental cup with a six-wicket victory over afghanistan in the intercontinental cup in dubai.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Ireland reached the semi-finals of the intercontinental cup, but the article does not mention anything about the intercontinental cup.
+2. The article states that Ireland played against Afghanistan in a T20 match, but the summary does not mention anything about T20 or Afghanistan.
+3. The summary mentions a six-wicket victory, but the article does not mention the margin of victory.
+4. The article states that Ireland made 165-5, but the summary does not mention the Irish score.
+5. The article states that Afghanistan made 171-4, but the summary does not mention the Afghan score.
 
-2. The summary mentions a six-wicket victory, but the article states that Afghanistan won with two overs to spare, which is not a six-wicket victory.
-
-3. The summary states that Ireland made 165-5, but the article states that Ireland made 155-5.
-
-4. The summary mentions Samiullah Shenwari and Mohammad Shahzad scoring for Afghanistan, but the article states that Najeeb Tarakai scored 27 and Amir Hamza scored 2.
-
-5. The summary states that Ireland suffered an early blow when Paul Stirling was dismissed for a duck, but the article does not mention this.
-
-6. The summary mentions that Thompson and Porterfield steadied the innings, but the article states that Thompson and Wilson did this.
-
-7. The summary states that Afghanistan cruised to their victory target, but the article states that Afghanistan won with two overs to spare.
-
-8. The summary mentions that Amir Hamza took two wickets, but the article states that he took three wickets.
-
-9. The summary mentions that the loss of Boyd Rankin for the T20s is a setback for Ireland, but the article states that he is expected to return for the ODIs.
-
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article. The summary is incorrect because it mentions the intercontinental cup, which is not mentioned in the article, and it also mentions a six-wicket victory, which is not the margin of victory mentioned in the article. Additionally, the summary does not mention the scores of the teams, which are mentioned in the article.
 
 ###Corrected:

@@ -1,26 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    faissal el bakhtaoui netted a second-half double as league one leaders dunfermline claimed victory at ayr. 
-
-    Article: 
-    Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
+<Article>
+Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
 El Bakhtaoui raced on to a Ryan Wallace ball to score his first, before scoring a stunning 30-yard volley from Michael Paton's cross.
-Craig Moore fired a late chance over for Ayr United, who remain third. 
+Craig Moore fired a late chance over for Ayr United, who remain third.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+faissal el bakhtaoui netted a second-half double as league one leaders dunfermline claimed victory at ayr.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Faissal El Bakhtaoui netted a second-half double, but the article does not support this claim.
-
-2. The article states that two quick-fire goals put the visitors (Dunfermline) in control, but the summary does not mention anything about two goals.
-
-3. The summary mentions El Bakhtaoui scoring a stunning 30-yard volley, but the article states that he raced on to a Ryan Wallace ball to score his first goal, not a volley.
-
-4. The article mentions that Craig Moore fired a late chance over for Ayr United, but the summary does not include this information.
-
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions.
+2. The article states that El Bakhtaoui scored one goal, a stunning 30-yard volley from Michael Paton's cross, but does not mention him scoring two goals.
+3. Therefore, the summary is not consistent with the article, as it makes a claim that is not supported by the information in the article.
 
 ###Corrected:

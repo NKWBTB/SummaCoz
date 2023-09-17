@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    dustin johnson won his first pga tour title by beating american dustin johnson in the first round of the us open. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The American, 32, looked set to take part after warming up on the range but he then withdrew on the first tee.
 The US Open champion fell on the stairs and hurt his lower back on Wednesday.
 "I'm playing the best golf of my life and to have a freak accident happen yesterday afternoon, it sucks really bad," said Johnson.
@@ -18,15 +15,25 @@ Johnson was a popular pick to win the first major of the year as a result of the
 As well as winning last year's US Open by four shots, he finished ninth at the Open Championship and tied fourth at the Masters.
 BBC Radio 5 live correspondent Iain Carter
 Johnson took until the very last second to make what must have been an agonising decision to pull out. He was standing on the first tee before making the toughest call of his career. It is a severe blow for the player who has dominated golf this season.
-He arrived here off the back of three big victories and was a justifiable favourite. All that has been lost through his freak fall at his rental home and the damage done to his back. 
+He arrived here off the back of three big victories and was a justifiable favourite. All that has been lost through his freak fall at his rental home and the damage done to his back.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+dustin johnson won his first pga tour title by beating american dustin johnson in the first round of the us open.
+</Summary>
 
-1. The summary states that Dustin Johnson won his first PGA Tour title by beating American Dustin Johnson in the first round of the US Open. However, the article states that Johnson withdrew from the tournament before the first round due to an injury.
-2. The summary mentions Johnson winning the tournament, but the article states that he withdrew from the tournament, indicating that he did not win.
-3. The summary does not mention Johnson's injury or his withdrawal from the tournament, which is the main focus of the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events described in the article.
+1. The summary states that Dustin Johnson won his first PGA Tour title by beating American Dustin Johnson in the first round of the US Open.
+2. This statement is not consistent with the article, as the article states that Johnson withdrew from the tournament due to a fall on the stairs that hurt his lower back.
+3. The summary does not mention Johnson's withdrawal from the tournament or the reason for his absence.
+4. Therefore, the summary is not consistent with the article and contains incorrect information.
+
+Reasoning step by step:
+
+1. The summary states that Johnson won his first PGA Tour title, which is not true according to the article.
+2. The article states that Johnson withdrew from the tournament due to an injury, not that he won the tournament.
+3. The summary does not mention the injury or Johnson's withdrawal from the tournament.
+4. Therefore, the summary is not consistent with the article and contains incorrect information.
 
 ###Corrected:

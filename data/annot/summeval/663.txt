@@ -1,23 +1,37 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    orlando city are the latest club to have expressed interest in javier hernandez . javier hernandez is linked with a move to orlando city . mexico international would be a huge commercial draw for the florida-based franchise . the mls side are also keen on signing adrian heath . the mexico international will be a popular with orlando supporters . 
+<Article>
+MLS side Orlando City are the latest club to have expressed interest in Manchester United misfit Javier Hernandez. The Mexico international would be a huge commercial draw for the Florida-based franchise who are coached by former Everton and Manchester City striker Adrian Heath. Orlando have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal. Javier Hernandez is linked with a move to Orlando City after enduring a tough time on loan at Real Madrid . Orlando have a big Latin-American fanbase and Kaka is the captain of the MLS side . Hernandez would be a popular arrival with Orlando supporters but eight European sides are also interested . Hernandez has cut a frustrated figure during his loan spell at Real Madrid this season but still has plenty of interest from other Premier League and European sides. Southampton, Stoke, West Ham and Everton are all interested with United willing to sell for around £8million. Wolfsburg, AC Milan, Lazio and Inter Milan are also keen on the 26-year-old who has one year left on contract. United, meanwhile, have made a revised contract offer to teenage prospect Andreas Pereira. Manchester United have made a revised contract offer to 19-year-old Andreas Pereira (right) Periera (left) has a host of clubs across Europe interested in signing him if he does not agree terms at United . Paris St Germain, Juventus, PSV Eindhoven and Feyenoord have all made contact with the midfielder's father Marcos after the 19-year-old rejected United's opening offer. Pereira was on the bench against Aston Villa on Saturday.
+</Article>
 
-    Article: 
-    MLS side Orlando City are the latest club to have expressed interest in Manchester United misfit Javier Hernandez. The Mexico international would be a huge commercial draw for the Florida-based franchise who are coached by former Everton and Manchester City striker Adrian Heath. Orlando have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal. Javier Hernandez is linked with a move to Orlando City after enduring a tough time on loan at Real Madrid . Orlando have a big Latin-American fanbase and Kaka is the captain of the MLS side . Hernandez would be a popular arrival with Orlando supporters but eight European sides are also interested . Hernandez has cut a frustrated figure during his loan spell at Real Madrid this season but still has plenty of interest from other Premier League and European sides. Southampton, Stoke, West Ham and Everton are all interested with United willing to sell for around £8million. Wolfsburg, AC Milan, Lazio and Inter Milan are also keen on the 26-year-old who has one year left on contract. United, meanwhile, have made a revised contract offer to teenage prospect Andreas Pereira. Manchester United have made a revised contract offer to 19-year-old Andreas Pereira (right) Periera (left) has a host of clubs across Europe interested in signing him if he does not agree terms at United . Paris St Germain, Juventus, PSV Eindhoven and Feyenoord have all made contact with the midfielder's father Marcos after the 19-year-old rejected United's opening offer. Pereira was on the bench against Aston Villa on Saturday. 
+<Summary>
+orlando city are the latest club to have expressed interest in javier hernandez . javier hernandez is linked with a move to orlando city . mexico international would be a huge commercial draw for the florida-based franchise . the mls side are also keen on signing adrian heath . the mexico international will be a popular with orlando supporters .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Orlando City is interested in signing Javier Hernandez, but the article does not mention anything about Orlando City's interest in Hernandez.
-2. The summary mentions that Adrian Heath is the coach of Orlando City, but the article does not mention Heath's name.
-3. The summary states that Hernandez would be a popular arrival with Orlando supporters, but the article does not mention anything about Hernandez's popularity among Orlando supporters.
-4. The summary mentions that eight European sides are interested in Hernandez, but the article only mentions six European sides (Wolfsburg, AC Milan, Lazio, Inter Milan, Southampton, Stoke, and Everton) that are interested in Hernandez.
-5. The summary states that Hernandez has one year left on his contract, but the article does not mention the length of Hernandez's contract.
-6. The summary mentions that United have made a revised contract offer to Andreas Pereira, but the article does not mention anything about Pereira's contract situation.
+1. The summary states that Orlando City is the latest club to have expressed interest in Javier Hernandez.
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+However, the article does not mention anything about Orlando City expressing interest in Javier Hernandez. Instead, it mentions that Orlando City has made enquiries about the prospect of signing the player, but it does not specify which player they are interested in.
+
+2. The summary states that Javier Hernandez is linked with a move to Orlando City.
+
+The article does not mention anything about Javier Hernandez being linked with a move to Orlando City. Instead, it mentions that he is linked with a move to several European clubs, including Southampton, Stoke, West Ham, and Everton.
+
+3. The summary states that the Mexico international would be a huge commercial draw for the Florida-based franchise.
+
+The article does not mention anything about Javier Hernandez being a commercial draw for Orlando City. Instead, it mentions that he is a talented player who has struggled for playing time at Real Madrid.
+
+4. The summary states that Orlando City is also keen on signing Adrian Heath.
+
+The article does not mention anything about Orlando City being interested in signing Adrian Heath. Instead, it mentions that Adrian Heath is the coach of Orlando City.
+
+5. The summary states that Javier Hernandez will be a popular arrival with Orlando supporters.
+
+The article does not mention anything about Javier Hernandez being a popular arrival with Orlando supporters. Instead, it mentions that he is a talented player who has struggled for playing time at Real Madrid.
+
+Therefore, the summary is not consistent with the article because it makes several claims that are not supported by the information in the article.
 
 ###Corrected:

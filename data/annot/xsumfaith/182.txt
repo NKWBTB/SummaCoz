@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a golfer has said he was surprised to have been attacked by a crocodile at his golf course in australia. 
-
-    Article: 
-    John Lahiff, 75, told local media that he disturbed the crocodile while looking for a ball in water at the course in Port Douglas, Queensland.
+<Article>
+John Lahiff, 75, told local media that he disturbed the crocodile while looking for a ball in water at the course in Port Douglas, Queensland.
 He was taken to hospital with a deep laceration to his shin and puncture wounds to his calf, but said he would not be put off playing golf.
 He told ABC News he would try not to hit balls into the water in future.
 Crocodiles are a common sight on the golf course, Australian media reported, and signs warn players of the dangers.
@@ -19,20 +16,20 @@ But Mr Lahiff told ABC he wanted the croc to stay where it was. "I think he got 
 The Palmer Sea Reef golf course is owned by Australian billionaire and politician Clive Palmer.
 After the incident he tweeted that he wished the golfer a speedy recovery.
 He joked: "Crocodile has been removed from all menus at Palmer properties following today's incident."
-Crocodiles are a common feature of Australia's tropical north and numbers have increased since being declared a protected species in 1971. 
+Crocodiles are a common feature of Australia's tropical north and numbers have increased since being declared a protected species in 1971.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a golfer has said he was surprised to have been attacked by a crocodile at his golf course in australia.
+</Summary>
 
-1. The summary states that the golfer was "attacked" by a crocodile, while the article states that the golfer disturbed the crocodile while looking for a ball in the water and was bitten.
-2. The summary implies that the golfer was taken by surprise by the crocodile, while the article states that the golfer saw the crocodile before it attacked him and that he "should have realised to be a bit more aware".
-3. The summary does not mention that the golfer was taken to hospital or that he had puncture wounds to his calf, as stated in the article.
-4. The summary does not mention that the crocodile was 1.2m (4ft) long, as stated in the article.
-5. The summary does not mention that the golf course is owned by Australian billionaire and politician Clive Palmer, as stated in the article.
-6. The summary does not mention that the incident occurred on the 11th hole, as stated in the article.
-7. The summary does not mention that wildlife officers would try to remove the crocodile and relocate it to a crocodile farm or a zoo, as stated in the article.
-8. The summary does not mention that the golfer wanted the crocodile to stay where it was, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the severity of the incident and omits several important details.
+1. The summary states that the golfer was "surprised" to have been attacked by a crocodile, implying that the attack was unexpected.
+2. However, the article states that crocodiles are a common sight on the golf course and that signs warn players of the dangers. This suggests that the golfer should have been aware of the possibility of a crocodile attack.
+3. The golfer, John Lahiff, is quoted in the article as saying that he had seen crocodiles on the course before and "should have realised to be a bit more aware". This further suggests that the attack was not entirely unexpected.
+4. The summary does not mention the golfer's comments about seeing crocodiles on the course before or the fact that he was taken to hospital with injuries. These details are not supported by the summary and are therefore inconsistent with the article.
+
+Therefore, the summary is not consistent with the article because it implies that the golfer was attacked by a crocodile unexpectedly, when in fact the article states that crocodiles are a common sight on the course and that the golfer should have been aware of the danger.
 
 ###Corrected:

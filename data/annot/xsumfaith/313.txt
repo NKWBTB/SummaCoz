@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a coroner has called for a review of the death of a man who died after being hit by a train in cornwall. 
-
-    Article: 
-    It comes after a jury concluded the death of a man from St Austell was suicide, while undergoing care 140 miles from where he lived.
+<Article>
+It comes after a jury concluded the death of a man from St Austell was suicide, while undergoing care 140 miles from where he lived.
 David Knight was killed by a train near St Austell after going on leave from a Somerset hospital.
 The Department of Health has admitted "unacceptable" patients "are receiving care far from home".
 Click here for live updates on this story
@@ -18,19 +15,18 @@ The inquest heard Mr Knight was being treated there because there were no acute 
 The NHS said 30 adult mental patients were placed out of Cornwall in 2015/16, 150 the year before when a key unit was closed for six months, and 60 the year before that.
 The Department of Health said it had increased mental health funding to Â£11.7bn and had accepted the recommendation of the Mental Health Taskforce that the inappropriate use of out of area treatments for adults in acute care "must be eliminated by 2020/21".
 "We will work to a faster timetable if at all possible," said a spokeswoman.
-"We will consider Dr Carlyon's letter in detail once it arrives." 
+"We will consider Dr Carlyon's letter in detail once it arrives."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a coroner has called for a review of the death of a man who died after being hit by a train in cornwall.
+</Summary>
 
-1. The summary states that the coroner has called for a review of the death, but the article does not mention any such call.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions the death being due to a train hitting the man, but the article does not mention this. Instead, it states that the man died of multiple injuries when he was hit by a train on a viaduct.
-
-3. The summary does not mention the jury's conclusion that the man's death was contributed to by an inadequate risk assessment and support, which is a key point in the article.
-
-4. The summary does not mention the fact that the man was being treated in Somerset because there were no acute psychiatric inpatient beds available in Cornwall, which is also a key point in the article.
-
-Overall, the summary does not accurately reflect the information in the article, and is therefore not consistent with it.
+1. The summary states that a coroner has called for a review of the death of a man who died after being hit by a train in Cornwall.
+2. However, the article does not mention a coroner calling for a review of the death. Instead, it reports that a jury concluded that the death was suicide and that the Department of Health has admitted that "unacceptable" patients are receiving care far from home.
+3. The article also mentions that the county coroner, Dr. Emma Carlyon, was understood to be satisfied with the commitment locally to continue to work hard to ensure the lowest number of patients possible leave the county for treatment.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. Specifically, it does not mention the jury's conclusion that the death was suicide, the Department of Health's admission about out-of-area care, or the county coroner's satisfaction with the local commitment to work hard to ensure the lowest number of patients leave the county for treatment.
 
 ###Corrected:

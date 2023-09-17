@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
-the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
-meteorologists say early indicators show an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit again bringing heavy rain from thursday through to saturday 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -64,17 +59,24 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
+the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
+meteorologists say early indicators show an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit again bringing heavy rain from thursday through to saturday
+</Summary>
 
-1. The summary states that an east coast low could hit the region with heavy rain from Thursday, while the article states that the weather system is expected to peak between Thursday and Saturday.
-2. The summary mentions that the storm will hit the region with heavy rain, but the article states that the main impacts of intense rainfall and strong winds will be on coastal areas in the state's north-east, including the Northern Rivers and Mid North Coasts.
-3. The summary does not mention the possibility of another storm hitting the region, while the article states that the Bureau of Meteorology is warning of further rainfall for catchments that have already experienced flooding during last week's severe weather event.
-4. The summary mentions that the Ses is concerned about the effect more wild weather would have on the hard-hit Hunter region, but the article does not mention this.
-5. The summary states that the weather system is expected to hit the region with heavy rain, but the article states that the weather system appeared to be moving quickly and it's not likely to be the same three days of wind and rain as last week.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It exaggerates the severity of the storm and focuses on the Hunter region, while the article provides a more nuanced view of the weather system and its expected impacts.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Timing of the storm: The summary states that the storm could hit the region "with heavy rain possible from Thursday," while the article states that the storm is expected to hit later this week, but it is not specific about the timing.
+2. Location of the storm: The summary mentions that the storm could hit the state's east coast, while the article states that the storm is expected to hit coastal areas in the state's north east, including the northern rivers and mid north coasts.
+3. Impact of the storm: The summary states that the storm could bring heavy rain, while the article states that the storm could bring intense rainfall and strong winds, with the potential to cause further flooding and damage.
+4. Completion of jobs: The summary mentions that the State Emergency Service (SES) has more than 4,000 jobs from the 24,196 requests still to be completed, while the article does not mention this information.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the timing, location, impact, and completion of jobs related to the storm.
 
 ###Corrected:

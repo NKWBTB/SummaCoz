@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    morocco\'s bid to host the 2017 africa cup of nations in gabon has been postponed after the confederation of african football (caf) upheld their suspension. 
-
-    Article: 
-    Tunisia had faced expulsion from the 2017 Africa Cup of Nations until apologising to Caf for complaints it lodged against the organisation during this year's Nations Cup.
+<Article>
+Tunisia had faced expulsion from the 2017 Africa Cup of Nations until apologising to Caf for complaints it lodged against the organisation during this year's Nations Cup.
 Morocco, meanwhile, were only able to enter the 2017 Nations Cup qualifying draw after the Court of Arbitration for Sport (Cas) overturned a ban on its participation.
 We are preparing for a future full of good things for both Africa and Morocco
 "We are preparing for a future full of good things for both Africa and Morocco," said Moroccan FA chief Fouzi Lekjaa.
@@ -29,16 +26,22 @@ Tunisia's 2017 participation seemed in doubt until a meeting with Caf president 
 "Luckily, with the strong pressure of Issa Hayatou, with whom I had a meeting in Dakar where we discussed our difference, we've managed to turn the page," said Snoussi.
 "We are very happy to be playing the (2017) Nations Cup and I feel this difference has been now completely ironed out."
 Following last week's draw in Cairo, Tunisia will face Togo, Liberia and Djibouti in Group A while Morocco will Cape Verde, Libya and Sao Tome in Group F.
-Should the Tunisians reach the 2017 finals in Gabon, they will reach their thirteenth straight Nations Cup - which would be a record. 
+Should the Tunisians reach the 2017 finals in Gabon, they will reach their thirteenth straight Nations Cup - which would be a record.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's why the summary is not consistent with the article:
+<Summary>
+morocco\'s bid to host the 2017 africa cup of nations in gabon has been postponed after the confederation of african football (caf) upheld their suspension.
+</Summary>
 
-1. The summary states that Morocco's bid to host the 2017 Africa Cup of Nations in Gabon has been postponed, but the article does not mention anything about Morocco hosting the tournament or its bid being postponed.
-2. The summary mentions that Tunisia's participation in the 2017 Africa Cup of Nations was in doubt due to a row with Caf, but the article states that Tunisia's participation is no longer in doubt and that the country will be participating in the tournament.
-3. The summary mentions that Morocco was punished in February after being replaced as 2015 Nations Cup hosts, but the article does not mention this.
-4. The summary mentions that Equatorial Guinea stepped in to stage the 2015 finals, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my step-by-step explanation of why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that Morocco's bid to host the 2017 Africa Cup of Nations in Gabon has been postponed. However, the article does not mention anything about Morocco's bid to host the tournament.
+2. The article mentions that Morocco was punished in February after being replaced as 2015 Nations Cup hosts last November, but the summary does not mention this.
+3. The article states that the Confederation of African Football (CAF) overturned a ban on Morocco's participation in the 2017 Nations Cup, but the summary does not mention this.
+4. The article mentions that Tunisia faced expulsion from the 2017 Nations Cup until they apologized to CAF, but the summary does not mention this.
+5. The article states that Tunisia will face Togo, Liberia, and Djibouti in Group A, while Morocco will face Cape Verde, Libya, and Sao Tome in Group F, but the summary does not mention these details.
+
+Overall, the summary does not accurately reflect the content of the article. It is missing important details and contains inaccuracies, such as the mention of Morocco's bid to host the tournament, which is not present in the article.
 
 ###Corrected:

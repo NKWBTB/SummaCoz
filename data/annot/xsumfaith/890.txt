@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    open ai weiwei has unveiled a $ [UNK] (Â # [UNK]) venture prize for the spirit of liberty. 
-
-    Article: 
-    The venture's backers include Tesla Motors and SpaceX CEO Elon Musk, Paypal co-founder Peter Thiel, Indian tech giant Infosys and Amazon Web Services.
+<Article>
+The venture's backers include Tesla Motors and SpaceX CEO Elon Musk, Paypal co-founder Peter Thiel, Indian tech giant Infosys and Amazon Web Services.
 Open AI says it expects its research - free from financial obligations - to focus on a "positive human impact".
 Scientists have warned that advances in AI could ultimately threaten humanity.
 Mr Musk recently told students at the Massachusetts Institute of Technology (MIT) that AI was humanity's "biggest existential threat".
@@ -15,16 +12,20 @@ However, other experts have argued that the risk of AI posing any threat to huma
 A statement on OpenAI's website said the venture aims "to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return".
 "It's hard to fathom how much human-level AI could benefit society, and it's equally hard to imagine how much it could damage society if built or used incorrectly."
 The statement said AI "should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as is possible safely".
-It said only a tiny fraction of the $1bn pledged would be spent in the next few years. 
+It said only a tiny fraction of the $1bn pledged would be spent in the next few years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+open ai weiwei has unveiled a $ [UNK] (Â # [UNK]) venture prize for the spirit of liberty.
+</Summary>
 
-1. The summary states that Open AI has unveiled a $1 billion venture prize for the spirit of liberty, but the article does not mention anything about a venture prize.
-2. The article does mention that Open AI has received $1 billion in pledges for its research, but there is no mention of a venture prize.
-3. The summary states that Open AI aims to advance digital intelligence in the way that is most likely to benefit humanity, but the article does not provide any information about the specific goals or objectives of Open AI's research.
-4. The summary states that AI should be an extension of individual human wills and as broadly and evenly distributed as is possible safely, but the article does not provide any information about the ethical or societal implications of AI.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the information provided in the summary, it appears that the summary is not consistent with the article. The summary includes information that is not present in the article, such as the $1 billion venture prize, and omits information that is present in the article, such as the specific goals of Open AI's research.
+1. The summary states that OpenAI has unveiled a $ [UNK] (Â # [UNK]) venture prize for the spirit of liberty.
+2. However, the article does not mention anything about a venture prize or the spirit of liberty.
+3. The article only mentions that OpenAI has received $1 billion in pledges from various investors, including Elon Musk and Peter Thiel, to fund its research into artificial intelligence.
+4. The article also mentions that OpenAI aims to advance digital intelligence in a way that benefits humanity and that AI should be an extension of individual human wills and as broadly and evenly distributed as possible safely.
+5. Therefore, the summary is not consistent with the article because it mentions a venture prize and the spirit of liberty, which are not mentioned in the article.
+6. It is likely that the summary is incorrect or incomplete, and that the correct information about OpenAI's goals and funding is provided in the article.
 
 ###Corrected:

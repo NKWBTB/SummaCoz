@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stephen copoc, stephen [UNK], has died at the age of 88. awful his way to his family. 
-
-    Article: 
-    This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
+<Article>
+This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
 Stephen Paul Copoc was born on 1 August 1968, and was aged 20 years when he died at Hillsborough.
 Stephen was the baby of our family, and the apple of our Mum's eye. Our family consisted of Mum and Dad, I, Peter, my sister Angela and then our Stephen. I was 10 years old when Stephen was born. Angela was just seven years old.
 Our Dad took us to the hospital, so that we could meet our new baby brother. Mum and Dad said that Angela and I could name him, and we did. Financially, we had little, but our parents, Agnes and Harold, made sure that there was lots of love in our house.
@@ -39,19 +36,21 @@ Stephen loved to play football as well. He was not the best of players, but he w
 Stephen was a great music fan. He was always playing Pink Floyd and, in particular, 'Shine on you Crazy Diamond'. He always loved Marillion and went to concerts with his four close friends.
 Our parents never got over Stephen's death and the way he died. Our brother Stephen was one of life's genuine nice guys.
 Our Stephen was just 20 years of age, but had maturity and a caring attitude towards others and even from a young age carried a donor card.
-We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you. 
+We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+stephen copoc, stephen [UNK], has died at the age of 88. awful his way to his family.
+</Summary>
 
-1. Age: The summary states that Stephen was 88 years old when he died, while the article states that he was 20 years old.
-2. Name: The summary refers to Stephen as "Stephen Paul Copoc," while the article uses the name "Stephen Copoc."
-3. Cause of Death: The summary states that Stephen died in a car accident, while the article does not mention a car accident. Instead, it states that Stephen died at Hillsborough.
-4. Personality: The summary describes Stephen as "awful," while the article portrays him as a kind and caring person who was popular with his family and friends.
-5. Interests: The summary mentions that Stephen enjoyed birds and fishing, while the article does not mention these interests. Instead, it highlights his love of football and music.
-6. Family: The summary states that Stephen had a niece named Natalie, while the article does not mention a niece.
-7. Funeral: The summary states that Stephen's funeral was held at Speke Hall, while the article does not mention a funeral.
+Explain your reasoning step by step:[/INST]
 
-Overall, the given summary is not consistent with the article because it contains several inaccuracies and omissions. It is clear that the summary was not written based on the same information as the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent age: The summary states that Stephen Copoc died at the age of 88, while the article states that he died at the age of 20.
+2. Incorrect information: The summary mentions that Stephen Copoc died in an awful way, but the article does not provide any information about his death.
+3. Lack of detail: The summary does not provide any specific details about Stephen Copoc's life, while the article provides a detailed account of his life, including his personality, interests, and career.
+
+Overall, the summary is not consistent with the article and contains incorrect information. It appears to be a brief and inaccurate summary of the article, rather than a comprehensive summary.
 
 ###Corrected:

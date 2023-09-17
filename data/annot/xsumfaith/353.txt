@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the crown prosecution service (cps) will be charged over the hillsborough disaster, the crown prosecution service has announced. 
-
-    Article: 
-    Mr Duckenfield was match commander at the FA Cup semi-final when 96 Liverpool fans were fatally injured in a crush.
+<Article>
+Mr Duckenfield was match commander at the FA Cup semi-final when 96 Liverpool fans were fatally injured in a crush.
 Ex-South Yorkshire Police (SYP) Ch Insp Sir Norman Bettison, two officers, a solicitor and a Sheffield Wednesday club secretary also face charges.
 The Prime Minister said it would be a day of "mixed emotions" for families.
 Last year, new inquests into the disaster at the Liverpool v Nottingham Forest match, held at Sheffield Wednesday's ground, concluded the fans had been unlawfully killed.
@@ -52,16 +49,19 @@ Labour leader Jeremy Corbyn offered a "tribute to all of those that spent a grea
 Dr Alan Billings, the South Yorkshire police and crime commissioner, said he hoped the start of criminal proceedings would "lead to a measure of closure for the family members who have experienced a long and traumatic process".
 Sheffield Wednesday said the club had no comment to make.
 Mr Duckenfield and Mr Denton's legal representative Ian Lewis, from JMW Solicitors, said: "In light of the decision by the Crown Prosecution Service to commence criminal proceedings against David Duckenfield and Donald Denton, it would be inappropriate for me as their solicitor, or for my clients themselves, to make any comment."
-Mr Metcalf declined to comment. 
+Mr Metcalf declined to comment.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the crown prosecution service (cps) will be charged over the hillsborough disaster, the crown prosecution service has announced.
+</Summary>
 
-1. The summary states that the Crown Prosecution Service (CPS) will be charged over the Hillsborough disaster, but the article states that it is six individuals who will be charged, not the CPS.
-2. The summary does not mention that the charges are related to the Hillsborough disaster, while the article makes it clear that the charges are related to the disaster and the investigation into its causes.
-3. The summary does not provide any information about the individuals who will be charged, while the article names the six individuals who will be charged and provides information about their roles and the charges they will face.
-4. The summary does not mention the fact that the CPS brought charges following referrals from the Operation Resolve investigation into the causes of the disaster and the Independent Police Complaints Commission (IPCC) probe, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide accurate information about the Hillsborough disaster and the charges that will be brought against the individuals involved. The article provides much more detailed and accurate information about the situation.
+1. The article states that the Crown Prosecution Service (CPS) has announced that it will be bringing criminal charges against six individuals in relation to the Hillsborough disaster.
+2. The summary states that the CPS will be charged over the Hillsborough disaster.
+3. However, this is not consistent with the article, as the article states that it is the individuals who will be charged, not the CPS.
+4. The reason for this inconsistency is that the summary is not accurately summarizing the article. The summary states that the CPS will be charged, but the article does not say this. Instead, the article states that six individuals will be charged.
+5. Therefore, the summary is not consistent with the article, and it is not an accurate summary of the information provided in the article.
 
 ###Corrected:

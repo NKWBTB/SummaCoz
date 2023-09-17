@@ -1,23 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a fire involving about 100 tonnes of waste wood and rubbish in newport was started deliberately, the police and fire service have said. 
-
-    Article: 
-    Crews were called to a building site in Bloomery Circle, Llanwern, at 21:15 BST on Wednesday.
+<Article>
+Crews were called to a building site in Bloomery Circle, Llanwern, at 21:15 BST on Wednesday.
 The blaze burned for more than 10 hours before it was extinguished.
 It is understood the burning material included a large amount of scrapped railway sleepers.
-A Gwent Police spokesman said: "Officers are investigating the circumstances surrounding the fire... which is believed to have been deliberately set." 
+A Gwent Police spokesman said: "Officers are investigating the circumstances surrounding the fire... which is believed to have been deliberately set."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a fire involving about 100 tonnes of waste wood and rubbish in newport was started deliberately, the police and fire service have said.
+</Summary>
 
-1. The summary states that the fire involved about 100 tonnes of waste wood and rubbish, while the article only mentions a large amount of scrapped railway sleepers. This discrepancy indicates that the summary is not consistent with the article.
-2. The article states that the fire burned for more than 10 hours before it was extinguished, while the summary does not mention the duration of the fire. This omission suggests that the summary is not a complete representation of the article's information.
-3. The article quotes a Gwent Police spokesman as saying that officers are investigating the circumstances surrounding the fire, which is believed to have been deliberately set. However, the summary does not mention anything about the fire being deliberately set. This lack of information suggests that the summary is not a reliable representation of the article's content.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it appears that the summary is not a consistent representation of the article's content and may not be reliable.
+1. The article states that the fire burned for more than 10 hours, which suggests that the amount of material involved was significant.
+2. The article also states that the burning material included a large amount of scrapped railway sleepers, which is a specific type of waste wood.
+3. The summary states that the fire involved "about 100 tonnes of waste wood and rubbish." This is inconsistent with the article, which only mentions scrapped railway sleepers and does not mention any other type of waste or rubbish.
+4. The summary also states that the fire was started deliberately, which is consistent with the article. However, the article does not provide any information about the cause of the fire, so this statement in the summary is not supported by the article.
+
+Therefore, the summary is not consistent with the article because it includes information about other types of waste and rubbish that are not mentioned in the article, and it also states that the fire was started deliberately without any supporting evidence.
 
 ###Corrected:

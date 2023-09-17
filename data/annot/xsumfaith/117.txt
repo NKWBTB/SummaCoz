@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the nhs in england could be reshaping its support staff to cope with a shortage of doctors, experts have said. 
-
-    Article: 
-    Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
+<Article>
+Management body NHS Employers has given the plan the green light after advisers said there were a range of extra tasks they could do with more training.
 A Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs.
 But unions warned against using it as a quick fix for problems in the NHS.
 It has been well documented that there are gaps in junior doctor rotas, while GPs are struggling to cope with the rising number of patients coming through their doors.
@@ -25,17 +22,21 @@ But British Medical Association leader Dr Mark Porter said while he supported in
 And Unison head of health Christina McAnea said the squeeze on funding in the health service meant there was "all too often" no funding for training courses.
 "Developing the NHS support workforce must not be seen as a quick and cheap fix for the chronic shortages of nurses and other health workers across the country," she added.
 Read more from Nick
-Follow Nick on Twitter 
+Follow Nick on Twitter
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the given summary is not consistent with the article:
+<Summary>
+the nhs in england could be reshaping its support staff to cope with a shortage of doctors, experts have said.
+</Summary>
 
-1. The summary states that the NHS in England could be reshaping its support staff to cope with a shortage of doctors, while the article actually talks about the NHS reshaping its support staff to improve patient care and provide staff with more rewarding roles.
-2. The summary suggests that nurses are being trained to fill in for doctors, but the article states that the Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs, but also notes that this should not be done "at the expense of good quality training for doctors."
-3. The summary implies that the NHS is using support staff to cover for doctor shortages as a quick fix, while the article notes that the Nuffield Trust admitted that money would need to be set aside to ensure the changes happen.
-4. The summary mentions nothing about the potential risks of using support staff to cover for doctor shortages, while the article notes that the British Medical Association leader Dr. Mark Porter warned that this should not be done "at the expense of good quality training for doctors."
-5. The summary does not mention the Unison head of health Christina McAnea's concerns about the squeeze on funding in the health service and the potential lack of funding for training courses.
+Explain your reasoning step by step:[/INST]
+  Sure, here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it oversimplifies the Nuffield Trust's findings and recommendations, and does not accurately reflect the nuances and potential risks of the proposed changes.
+1. The article states that the NHS is facing a shortage of doctors, and this shortage is impacting the quality of patient care.
+2. The article also mentions that the Nuffield Trust review found examples of nurses filling in for hospital doctors and pharmacists for GPs.
+3. However, the summary only mentions that the NHS in England could be reshaping its support staff to cope with a shortage of doctors, without mentioning the examples of nurses filling in for doctors and pharmacists.
+4. Therefore, the summary is not consistent with the article because it does not mention the specific examples of nurses filling in for doctors and pharmacists, which are a key part of the Nuffield Trust review.
+5. Additionally, the summary does not provide any information about the NHS Employers' plan to reshape the workforce, which is a key aspect of the article.
+6. Overall, the summary does not accurately reflect the content of the article, and is therefore not consistent with it.
 
 ###Corrected:

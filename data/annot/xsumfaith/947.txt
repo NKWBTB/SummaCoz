@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    celtic\'s hopes of qualifying for euro 2016 have been dealt a blow to the united states by the end of the season. 
-
-    Article: 
-    As Nadir Ciftci sloped off to Eskisehirspor on loan, fellow forward Colin Kazim-Richards, formerly of Fenerbahce and Galatasaray, arrived from Feyenoord just as his suspension for threatening a journalist came to an end.
+<Article>
+As Nadir Ciftci sloped off to Eskisehirspor on loan, fellow forward Colin Kazim-Richards, formerly of Fenerbahce and Galatasaray, arrived from Feyenoord just as his suspension for threatening a journalist came to an end.
 Whether or not either Turk will delight enough to be hits with their new clubs, it is another loanee who has the potential to set Celtic Park alight if he lives up to his market value.
 Patrick Roberts moved to Manchester City in the summer for about £12m and the 18-year-old winger has 18 months with the reigning Scottish champions in which to prove himself worthy of the fee paid to Fulham.
 Kazim-Richards is perhaps even more of a gamble, not only because of his off-field antics but also for a lack of career goals, and steady Erik Sviatchenko is maybe a safer bet to prove worthy of the £1.5m Celtic paid Midtjylland for the Denmark defender.
@@ -40,19 +37,20 @@ Out: Ryan Stevenson, midfielder (Ayr United). Loan ended: Robbie Muirhead, forwa
 In: Paul Quinn, defender (Aberdeen). Loan: David Goodwillie, forward (Aberdeen).
 Out: Rocco Quinn, midfielder (St Mirren).
 In: Danny Swanson, midfielder (Hearts); Michael Doyle, defender (Alloa Athletic).
-Out: Michael O'Halloran, forward (Rangers, undisclosed); Liam Caddis, midfielder (Alloa Athletic); Gareth Rodger, defender (Forfar Athletic). Loan: Brad McKay, defender (Dunfermline Athletic); Ally Gilchrist, forward (Peterhead); Neil Martyniuk, defender (Montrose); George Hunter, forward (Spartans). 
+Out: Michael O'Halloran, forward (Rangers, undisclosed); Liam Caddis, midfielder (Alloa Athletic); Gareth Rodger, defender (Forfar Athletic). Loan: Brad McKay, defender (Dunfermline Athletic); Ally Gilchrist, forward (Peterhead); Neil Martyniuk, defender (Montrose); George Hunter, forward (Spartans).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+celtic\'s hopes of qualifying for euro 2016 have been dealt a blow to the united states by the end of the season.
+</Summary>
 
-1. The summary states that Celtic's hopes of qualifying for Euro 2016 have been dealt a blow, but the article does not mention anything about Euro 2016.
-2. The summary mentions that Patrick Roberts moved to Manchester City in the summer for about £12m, but the article does not provide any information about the transfer.
-3. The summary states that Kazim-Richards is a gamble due to his off-field antics and lack of career goals, but the article does not mention anything about his off-field antics or lack of career goals.
-4. The summary mentions that Celtic might need to squeeze every last pound of value out of their new arrivals, but the article does not provide any information about Celtic's financial situation or the value of their new arrivals.
-5. The summary states that the Dandies' deadline-day signing of Simon Church on loan from MK Dons means they have a striker hungry for goals, but the article does not mention anything about Church or his loan move.
-6. The summary mentions that Hearts have replaced Osman Sow with Abiola Dauda, but the article does not provide any information about Sow's departure or Dauda's arrival.
-7. The summary states that Dundee United failed to make exciting acquisitions, but the article does not mention anything about the team's transfer activity or their lack of exciting signings.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits other information that is present in the article.
+1. The article discusses the transfers and loans of various Scottish football clubs during the January transfer window.
+2. The summary states that Celtic's hopes of qualifying for Euro 2016 have been dealt a blow.
+3. However, the article does not mention anything about Celtic's chances of qualifying for Euro 2016. In fact, the article focuses on the transfers and loans of various clubs, and does not mention Euro 2016 at all.
+4. Therefore, the summary is not consistent with the article, as the article does not discuss Celtic's chances of qualifying for Euro 2016.
+5. It is likely that the summary was written based on incorrect or incomplete information, or that the writer of the summary misunderstood the content of the article.
+6. The correct summary of the article should focus on the transfers and loans of various Scottish football clubs during the January transfer window, and not mention anything about Euro 2016.
 
 ###Corrected:

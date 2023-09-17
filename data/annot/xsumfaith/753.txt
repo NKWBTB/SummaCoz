@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    angelo sakho scored his first goal of the season as west ham came from behind to beat cheltenham town in the efl cup third round. 
-
-    Article: 
-    After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
+<Article>
+After the League Two side's bright start, two quick goals from Diafra Sakho and Andre Ayew gave the Premier League side control before half-time.
 Sakho slotted in his first goal since November from Sam Byram's pass, before Ayew tucked into the same bottom corner moments later.
 The hosts went close via Harry Pell's volley and Jordon Forster's header.
 James Collins and Byram both could have added further goals for the visitors, who made seven changes following top-flight losses at Manchester United and Southampton.
@@ -54,15 +51,21 @@ Attempt missed. James Collins (West Ham United) header from the centre of the bo
 Corner,  West Ham United. Conceded by Jordan Cranston.
 Attempt blocked. Diafra Sakho (West Ham United) right footed shot from outside the box is blocked. Assisted by Arthur Masuaku.
 Sam Byram (West Ham United) wins a free kick in the defensive half.
-Foul by Kevin Dawson (Cheltenham Town). 
+Foul by Kevin Dawson (Cheltenham Town).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+angelo sakho scored his first goal of the season as west ham came from behind to beat cheltenham town in the efl cup third round.
+</Summary>
 
-1. The summary states that Angelo Sakho scored his first goal of the season, but the article does not mention any goals scored by Angelo Sakho. Instead, the article mentions that Diafra Sakho scored two goals.
-2. The summary mentions that West Ham came from behind to beat Cheltenham Town, but the article does not mention Cheltenham Town scoring any goals. The article states that West Ham United won the match 2-0, with goals from Diafra Sakho and Andre Ayew.
-3. The summary mentions that the match ended 2-1 in favor of West Ham, but the article states that the match ended 2-0 in favor of West Ham.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several inaccuracies and is not consistent with the article. It appears to be a rushed or incomplete summary of the match.
+1. The summary states that Angelo Sakho scored the first goal of the season for West Ham, but the article does not mention any goal scored by Angelo Sakho.
+2. The summary also states that West Ham came from behind to beat Cheltenham Town, but the article does not mention Cheltenham Town leading at any point during the match.
+3. The article mentions two goals scored by Diafra Sakho and Andre Ayew, but the summary does not mention these goals.
+4. The summary mentions a free kick won by West Ham, but the article does not mention any free kicks awarded to West Ham.
+5. The summary mentions a corner kick awarded to West Ham, but the article does not mention any corner kicks awarded to West Ham.
+
+Conclusion: The summary is not consistent with the article because it contains several inaccuracies and omissions. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

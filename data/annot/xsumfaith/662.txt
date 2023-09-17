@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    advancing technology and manufacturing techniques are among the ingredients of our changing consumer tastes. 
-
-    Article: 
-    We are aware that this interactive video may not work on some older browsers. You can find a non-interactive version of the content below.
+<Article>
+We are aware that this interactive video may not work on some older browsers. You can find a non-interactive version of the content below.
 In this interactive video, Robert Opie - the founder of the Museum of Brands, Packaging and Advertising in London - outlines some of the main reasons why we change what we buy.
 The arrival of the domestic freezer, of washing powder, and of cheaper imports all affected the sort of items on sale and popular among UK consumers.
 The interactive elements to this video also explore how ownership and ranking of some of the biggest brands in the UK is changing.
@@ -15,16 +12,21 @@ Click on the links below to read the extra information used in this video in a n
 What in the world does China own?
 Top tips on freezing food, BBC Good Food
 Annual survey ranking the top 20 consumer brands in the UK
-Museum of Brands, Packaging and Advertising 
+Museum of Brands, Packaging and Advertising
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+advancing technology and manufacturing techniques are among the ingredients of our changing consumer tastes.
+</Summary>
 
-1. The summary mentions "advancing technology and manufacturing techniques," but the article does not discuss these topics.
-2. The summary suggests that the video explores the reasons why we change what we buy, but the article does not mention any reasons or explanations for changing consumer tastes.
-3. The summary mentions "UK consumers," but the article does not specify the location or focus on UK consumers.
-4. The summary mentions "ownership and ranking of some of the biggest brands," but the article does not discuss brand ownership or ranking.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Overall, the summary does not accurately reflect the content of the article. The article is focused on the history and evolution of consumer brands in the UK, while the summary is more general and mentions advancing technology and manufacturing techniques, which are not relevant to the article's topic.
+1. The article mentions that the interactive video explores how ownership and ranking of some of the biggest brands in the UK is changing, but the summary does not mention anything about this.
+2. The article mentions specific technological advancements, such as the arrival of the domestic freezer and cheaper imports, that have affected consumer tastes, but the summary does not mention any specific technological advancements.
+3. The summary mentions "advancing technology and manufacturing techniques" as one of the ingredients of changing consumer tastes, but this is not supported by the article.
+4. The article does mention that the video explores how ownership and ranking of some of the biggest brands in the UK is changing, but this is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary mentions advancing technology and manufacturing techniques as ingredients of changing consumer tastes, but the article does not support this claim. Additionally, the summary does not mention specific technological advancements that have affected consumer tastes, while the article does.
 
 ###Corrected:

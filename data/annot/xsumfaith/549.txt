@@ -1,31 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england number eight billy vunipola is set for a shock early return to action for his club saracens against newcastle on sunday, boosting his hopes of a 2017 six nations call-up. 
-
-    Article: 
-    The 24-year-old, capped 32 times by England, has been out of action since November with a knee injury.
+<Article>
+The 24-year-old, capped 32 times by England, has been out of action since November with a knee injury.
 However, it is understood his recovery has progressed quicker than expected.
 Vunipola could now be in contention to face Scotland on 11 March, or Ireland a week later.
 He was one of England's outstanding performers throughout their unbeaten year of 2016, and his ball-carrying and dynamism has been missed by Eddie Jones' side.
 There were initial fears Vunipola would miss the whole of England's Six Nations title defence, but it is understood he has looked sharp on his return to full training this week, and is targeting a quick return to international rugby.
-Vunipola's older brother, Mako, recently made his own comeback from a knee problem, and came off the bench in the win over Italy. 
+Vunipola's older brother, Mako, recently made his own comeback from a knee problem, and came off the bench in the win over Italy.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+england number eight billy vunipola is set for a shock early return to action for his club saracens against newcastle on sunday, boosting his hopes of a 2017 six nations call-up.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Billy Vunipola is set for a shock early return to action for his club Saracens against Newcastle on Sunday.
+2. However, the article states that Vunipola has been out of action since November with a knee injury, and there is no mention of him returning to action against Newcastle on Sunday.
+3. Therefore, the summary is not consistent with the article, as it implies that Vunipola is set to return to action sooner than the article suggests.
+4. The article states that Vunipola's recovery has progressed quicker than expected, but it does not mention him returning to action against Newcastle on Sunday.
+5. The summary is likely based on incorrect or outdated information, as it does not reflect the current situation described in the article.
 
-However, the article states that Vunipola has been out of action since November with a knee injury, and there is no mention of him returning to action against Newcastle on Sunday.
-
-2. The summary also states that Vunipola is set for a quick return to international rugby, with the possibility of facing Scotland on March 11th or Ireland a week later.
-
-However, the article states that Vunipola's recovery has progressed quicker than expected, but there is no mention of him being in contention to face Scotland or Ireland.
-
-3. The summary implies that Vunipola will be available for the 2017 Six Nations, but the article does not mention anything about the Six Nations.
-
-Therefore, the summary is not consistent with the article, as it contains information that is not supported by the article. Specifically, the summary states that Vunipola will return to action against Newcastle on Sunday, which is not mentioned in the article, and it also states that he will be available for the Six Nations, which is not supported by the article.
+In conclusion, the summary is not consistent with the article because it implies that Billy Vunipola is set to return to action sooner than the article suggests, and there is no mention of him returning to action against Newcastle on Sunday in the article.
 
 ###Corrected:

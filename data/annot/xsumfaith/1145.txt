@@ -1,23 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    android handset has announced it is switching android handset in the uk. 
-
-    Article: 
-    26 July 2016 Last updated at 17:48 BST
+<Article>
+26 July 2016 Last updated at 17:48 BST
 The company says its Dtek50 smartphone offers improved security over rival Android devices, and will cost less than its previous handset Priv.
 It is the firm's second Android handset after switching focus away from its struggling BB10 platform.
-One analyst said the phone was the "right move" but that the company still faced an "uphill battle" with devices. 
+One analyst said the phone was the "right move" but that the company still faced an "uphill battle" with devices.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+android handset has announced it is switching android handset in the uk.
+</Summary>
 
-1. The summary states that the company is switching to Android handsets in the UK, but the article does not mention anything about switching to Android handsets. Instead, the article states that the company has announced a new Android handset, the Dtek50, which offers improved security and will cost less than its previous handset, the Priv.
-2. The summary implies that the company is switching away from its BB10 platform, but the article does not mention anything about the company abandoning its BB10 platform. Instead, the article states that the Dtek50 is the company's second Android handset, suggesting that the company is continuing to offer both Android and BB10 devices.
-3. The summary suggests that the company is making this move to improve its devices, but the article does not provide any information about the company's motivations for releasing the Dtek50. Instead, the article focuses on the features and specifications of the new handset.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The article does not mention the company switching to Android handsets in the UK, and it does not suggest that the company is abandoning its BB10 platform. Additionally, the summary implies that the company is making this move to improve its devices, but the article does not provide any information about the company's motivations.
+1. The article states that the company is releasing a new Android handset, the Dtek50, which offers improved security over rival Android devices.
+2. The article also mentions that the company is switching focus away from its BB10 platform.
+3. However, the summary states that the company is switching its Android handset in the UK.
+4. This is not consistent with the article, as the article does not mention anything about switching the company's Android handset in the UK.
+5. Therefore, the summary is not accurate and does not reflect the information in the article.
+
+Reasoning:
+
+The summary is not consistent with the article because it mentions switching the Android handset in the UK, which is not mentioned in the article. The article only mentions the release of the Dtek50, a new Android handset with improved security, and the company's shift away from its BB10 platform.
 
 ###Corrected:

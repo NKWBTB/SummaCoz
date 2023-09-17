@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    inverness caledonian thistle came from behind to beat inverness caledonian thistle in the scottish premiership. 
-
-    Article: 
-    Brad McKay crouched to volley in Greg Tansey's deep free-kick early in the match.
+<Article>
+Brad McKay crouched to volley in Greg Tansey's deep free-kick early in the match.
 And Tansey converted a penalty after Massimo Donati had fouled Ross Draper.
 Accies were upset Ali Crawford was not awarded a second-half spot-kick for a challenge by goalkeeper Ryan Esson but netted late on through Danny Redmond.
 The gap between Caley Thistle and Motherwell also stands at four points, with Well behind Hamilton on goal difference after losing to Ross County.
@@ -63,20 +60,21 @@ Foul by Ali Crawford (Hamilton Academical).
 Billy McKay (Inverness CT) wins a free kick in the attacking half.
 Foul by Darian MacKinnon (Hamilton Academical).
 Delay in match Billy McKay (Inverness CT) because of an injury.
-Billy McKay (Inverness CT) wins a free kick in the attacking half. 
+Billy McKay (Inverness CT) wins a free kick in the attacking half.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+inverness caledonian thistle came from behind to beat inverness caledonian thistle in the scottish premiership.
+</Summary>
 
-1. The summary states that Inverness Caledonian Thistle came from behind to beat Hamilton Academical, but the article does not mention Hamilton Academical ever taking the lead.
-2. The summary mentions that Inverness CT won the match 2-1, but the article states that the final score was 2-1 to Inverness CT.
-3. The summary does not mention the name of the player who scored the second goal for Inverness CT, while the article clearly states that Greg Tansey scored the goal.
-4. The summary mentions that Ali Crawford was sent off for Hamilton Academical, but the article does not mention any red cards being issued to Hamilton players.
-5. The summary states that Inverness CT won the match despite being behind, but the article states that Inverness CT was ahead for most of the match.
-6. The summary does not mention the first goal scorer, Brad McKay, or the assist from Greg Tansey, which is clearly stated in the article.
-7. The summary mentions that Hamilton Academical improved in the second half, but the article states that Inverness CT was in control for most of the match.
-8. The summary does not mention the tension and pressure on Inverness CT to get a win, which is clearly stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article, and there are several inconsistencies and inaccuracies in the summary.
+1. The article and the summary have different titles. The article is titled "Inverness CT 2, Hamilton Academical 1: Caley Thistle come from behind to win" while the summary is titled "Inverness CT came from behind to beat Hamilton Academical in the Scottish Premiership."
+2. The summary does not accurately reflect the content of the article. The article describes Inverness CT's victory over Hamilton Academical, while the summary states that Inverness CT came from behind to beat Hamilton Academical, which is not supported by the article.
+3. The article mentions that Inverness CT won the match 2-1, with goals from Brad McKay and Daniel Redmond, while the summary does not mention the score or the names of the goal scorers.
+4. The article describes the match as a "Saturday lunchtime victory" and states that Inverness CT "came from behind to win," while the summary does not provide any context or details about the match.
+5. The article mentions that Inverness CT's manager, Richie Foran, has been searching for a first win, and that the team has been under pressure, while the summary does not mention any of these details.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article, does not provide context or details about the match, and does not mention the names of the goal scorers or the score.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
-the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
-ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts . 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -64,17 +59,35 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
+the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
+ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
+</Summary>
 
-1. The summary states that an east coast low could hit the region again, bringing heavy rain from Thursday through to Saturday. However, the article states that the weather system appears to be moving quickly and is unlikely to bring the same three days of wind and rain as last week.
-2. The summary mentions that the hard-hit Hunter region is of particular concern to the State Emergency Service (SES), but the article does not mention this.
-3. The summary states that the SES has more than 4,000 jobs from the 24,196 requests still to be completed, but the article does not mention this.
-4. The summary mentions that the weather system is forming along the coast and will hit heaviest in the far northern parts of the state, but the article does not mention this.
-5. The summary states that the Ses is urging the community to prepare themselves, prepare their homes and prepare their families to prevent further loss and devastation, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary includes information that is not present in the article, and omits other information that is present in the article. Therefore, the summary is not consistent with the article.
+1. The summary states that "an east coast low -- the same weather system that lashed the state's east coast for three days last week -- could hit the region, with heavy rain possible from thursday."
+
+However, the article states that "a trough of low pressure was forming along the coast, and would hit heaviest in the far northern parts of the state." This contradicts the summary's statement that the east coast low would hit the region.
+
+2. The summary also states that "the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed."
+
+However, the article does not mention the number of requests for assistance or the number of jobs still to be completed.
+
+3. The summary quotes Stephanie Wills, the Ses spokeswoman, as saying "the organisation is concerned that more storms will these hamper clean-up efforts."
+
+However, the article does not quote Stephanie Wills or mention any concerns about hampering clean-up efforts.
+
+4. The summary states that "the east coast low appeared to be moving quickly."
+
+However, the article states that "a trough of low pressure was forming along the coast, and would hit heaviest in the far northern parts of the state." This suggests that the weather system is not moving quickly.
+
+5. The summary does not mention the specific area that is expected to be affected by the weather system, while the article states that the northern parts of the state are expected to be hit the hardest.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and contradictions. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

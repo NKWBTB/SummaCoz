@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    premiership bottom side inverness caledonian thistle moved to within four points of opponents hamilton academical with three games to play. 
-
-    Article: 
-    Brad McKay crouched to volley in Greg Tansey's deep free-kick early in the match.
+<Article>
+Brad McKay crouched to volley in Greg Tansey's deep free-kick early in the match.
 And Tansey converted a penalty after Massimo Donati had fouled Ross Draper.
 Accies were upset Ali Crawford was not awarded a second-half spot-kick for a challenge by goalkeeper Ryan Esson but netted late on through Danny Redmond.
 The gap between Caley Thistle and Motherwell also stands at four points, with Well behind Hamilton on goal difference after losing to Ross County.
@@ -63,17 +60,21 @@ Foul by Ali Crawford (Hamilton Academical).
 Billy McKay (Inverness CT) wins a free kick in the attacking half.
 Foul by Darian MacKinnon (Hamilton Academical).
 Delay in match Billy McKay (Inverness CT) because of an injury.
-Billy McKay (Inverness CT) wins a free kick in the attacking half. 
+Billy McKay (Inverness CT) wins a free kick in the attacking half.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided article, here's why the summary is not consistent with the article:
+<Summary>
+premiership bottom side inverness caledonian thistle moved to within four points of opponents hamilton academical with three games to play.
+</Summary>
 
-1. Inconsistent information: The summary states that Inverness Caledonian Thistle moved to within four points of Hamilton Academical, while the article states that Inverness CT is four points behind Motherwell, not Hamilton.
-2. Missing information: The summary does not mention the goal scorers or the winning goal, which is a crucial aspect of the match. The article reveals that Brad McKay, Greg Tansey, and Daniel Redmond scored for Inverness CT, while Ali Crawford scored for Hamilton Academical.
-3. Incorrect language: The summary states that Inverness CT "moved to within four points" of Hamilton Academical, which is not accurate. The correct phrase would be "cut the gap to four points."
-4. Lack of context: The summary does not provide any context about the match, such as the team's performance or the score line. The article provides a detailed description of the match, including Inverness CT's dominant first-half performance and Hamilton Academical's improved second-half display.
-5. Inconsistent tone: The summary has a different tone than the article, which is more objective and factual. The summary has a more casual and conversational tone, which is not appropriate for a news article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the provided summary is not consistent with the article:
 
-In conclusion, the summary is not consistent with the article because it contains inconsistent information, missing details, incorrect language, and a lack of context. The tone of the summary is also not appropriate for a news article.
+1. Inconsistent language: The summary states that Inverness Caledonian Thistle is a "premiership bottom side," while the article never uses the word "premiership" to describe the team. The article only mentions that Inverness is in the Scottish Championship.
+2. Incorrect scoring: The summary states that Inverness won 2-1, while the article reports the final score as 2-0.
+3. Missing information: The summary does not mention the names of the players who scored for Inverness, while the article reports that Brad McKay and Daniel Redmond scored for the team.
+4. Incorrect context: The summary suggests that Inverness is "within four points" of Hamilton Academical, while the article states that Inverness is "four points behind" Hamilton.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and inconsistencies in language, scoring, and context.
 
 ###Corrected:

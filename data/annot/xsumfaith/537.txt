@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a mystery donor has paid Â # 150,000 to fund a ``last chance cure\'\'for a boy of 11 with leukaemia, his mother has said. 
-
-    Article: 
-    Sophie Fearns said son Charlie, of Merseyside, needs to fly back to Seattle, America for experimental treatment unavailable in the UK.
+<Article>
+Sophie Fearns said son Charlie, of Merseyside, needs to fly back to Seattle, America for experimental treatment unavailable in the UK.
 She said he urgently needs more T-Cell Therapy at Seattle Children's Hospital after the last transplant failed.
 His mother said she was "ecstatic" and "overwhelmed" by the "selfless amazing person" who paid for his treatment.
 Charlie has been ill since the age of three, she said.
@@ -20,16 +17,21 @@ Charlie's father Rob Fearns said they were "extremely grateful" for the generosi
 His parents said they received the confirmation via an email from the hospital on Wednesday saying someone had offered to foot the bill for them.
 Now Charlie has had financial clearance from the hospital, the treatment will start as soon as possible.
 Mr Fearns said he is expecting to find out the date next week.
-Information from Seattle Children's Hospital 
+Information from Seattle Children's Hospital
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a mystery donor has paid Â # 150,000 to fund a ``last chance cure\'\'for a boy of 11 with leukaemia, his mother has said.
+</Summary>
 
-1. The summary mentions a "last chance cure" for Charlie, but the article does not use that phrase. Instead, the article talks about Charlie needing "experimental treatment" and "more T-Cell Therapy" to save his life.
-2. The summary says the donor paid $150,000 for Charlie's treatment, but the article does not mention a specific amount. It only says that the donor paid for the treatment.
-3. The summary states that the donor is a "mystery donor," but the article reveals that the donor is an anonymous person who specifically asked to pay for Charlie's treatment.
-4. The summary does not mention that the treatment is being done at Seattle Children's Hospital, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions that change the meaning of the original text.
+1. The article states that the donor paid for Charlie's treatment at Seattle Children's Hospital, but the summary states that the donor paid £150,000 for a "last chance cure" for the boy with leukaemia.
+2. The article does not mention the amount of money donated, only that the donor paid for Charlie's treatment.
+3. The word "last chance cure" is not in the article, but it is in the summary.
+4. The summary does not mention that the donor is anonymous, while the article does.
+5. The article states that the treatment will start as soon as possible, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article because it includes information that is not in the article, such as the amount of money donated and the phrase "last chance cure." Additionally, the summary does not accurately convey the information about the donor's anonymity and the timing of the treatment.
 
 ###Corrected:

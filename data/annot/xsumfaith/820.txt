@@ -1,23 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    thousands of people have taken part in the first round of the scottish grand prix of the claymore trophy. 
-
-    Article: 
-    More than 20 competitors are due to take part in Saturday's event in Carrbridge in the Cairngorms.
+<Article>
+More than 20 competitors are due to take part in Saturday's event in Carrbridge in the Cairngorms.
 Carvers from Scotland, England, Ireland as well as continental Europe, Canada and the US regularly enter the competition.
 They can use only chainsaws - any other carving tool is banned - to carve logs into the shapes of animals and people.
-Last year's winner Pete Bowsher, from Moffat, is to return to defend the title, and retain the first place winner's prize the Claymore Trophy. 
+Last year's winner Pete Bowsher, from Moffat, is to return to defend the title, and retain the first place winner's prize the Claymore Trophy.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain the reasoning step by step. Here's why the given summary is not consistent with the article:
+<Summary>
+thousands of people have taken part in the first round of the scottish grand prix of the claymore trophy.
+</Summary>
 
-1. Number of participants: The summary mentions "thousands of people" taking part in the event, while the article states that "more than 20 competitors" are due to take part. The article does not mention thousands of participants.
-2. Tool usage: The summary states that only chainsaws are allowed, which is correct. However, the article does not mention this detail.
-3. Prize: The summary mentions the Claymore Trophy, which is correct. However, the article does not mention the prize.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article, such as the number of participants and the tool usage. Additionally, it omits information that is present in the article, such as the prize.
+1. The first sentence of the summary states that "thousands of people have taken part in the first round of the scottish grand prix of the claymore trophy." This is not consistent with the article, as the article does not mention any "first round" or "thousands of people" participating in the competition.
+2. The article states that "more than 20 competitors are due to take part in Saturday's event," which suggests that the competition will involve a limited number of participants, not "thousands" of people.
+3. The article also mentions that the competition will be held in Carrbridge in the Cairngorms, but the summary does not mention this location.
+4. The summary mentions the "Claymore Trophy" as the prize for the winner, but the article does not mention the trophy by name.
+
+Therefore, the summary is not consistent with the article, as it contains several inaccuracies and exaggerations.
 
 ###Corrected:

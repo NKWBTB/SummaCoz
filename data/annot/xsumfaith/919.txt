@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned. 
-
-    Article: 
-    The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
+<Article>
+The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
 The committee formally recommended the scheme to parliament after members voted four to two in favour of it.
 Members also rejected an amendment from Green MSP Andy Wightman noting "concerns" about wider local tax plans.
 The proposals would see the average band E household pay about £2 per week more, and the average household in the highest band (H) about £10 a week more.
@@ -28,16 +25,20 @@ But he said the changes to bands were "not the end of the story in terms of loca
 The Scottish government has started the process of reforming local taxation following on from the Commission on Local Tax Reform, which called for a fairer, more transparent and progressive tax to fund local services.
 Opposition members have accused the government of "tinkering" with the system rather than making bold reforms.
 The Scottish Conservatives support an end to the council tax freeze and increases to the top two bands, but oppose the changes to bands E and F.
-But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so. 
+But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned.
+</Summary>
 
-1. The summary states that the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned, but the article states that the finance secretary has won the formal backing of the committee for his plans to change the council tax bands.
-2. The summary mentions an amendment lodged by Green MSP Andy Wightman to "note concerns" about the fact the council tax base has not been updated since 1991, but the article does not mention this amendment.
-3. The summary states that the motion ultimately passed by four votes to two, but the article states that the motion passed with four votes in favour and two against.
-4. The summary mentions that the committee will now compile a report on the issue for parliament, but the article states that the committee formally recommended the scheme to parliament.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It is not consistent with the article because it does not accurately describe the events that took place during the committee debate or the outcome of the vote.
+1. The summary states that the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned.
+2. However, the article states that the finance secretary, Derek Mackay, has won the formal backing of a committee for his plans to change the council tax bands.
+3. The article also mentions that the committee rejected an amendment from Green MSP Andy Wightman, which suggests that the finance minister's motion to rethink the council tax base was not successful.
+4. Therefore, the summary is not consistent with the article, as the finance minister's motion was not successful, and the finance secretary's plans were backed by the committee.
+
+The error in the summary is that it implies that the finance minister's motion was successful, when in fact it was not. The summary should have stated that the finance secretary's plans were backed by the committee, rather than the finance minister's motion being backed.
 
 ###Corrected:

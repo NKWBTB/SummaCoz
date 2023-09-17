@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    winds caused by torrential rain and winds across parts of wales have been cancelled due to bad weather conditions. 
-
-    Article: 
-    Part of a school roof was ripped off at Rhosgadfan near Caernarfon, Gwynedd, while hundreds of homes across Wales experienced power cuts.
+<Article>
+Part of a school roof was ripped off at Rhosgadfan near Caernarfon, Gwynedd, while hundreds of homes across Wales experienced power cuts.
 The day saw train delays, speed and lane restrictions on major bridges and power cuts for hundreds of homes.
 It followed a yellow 'be aware' warning for wind across Wales, which was in force until midnight on Friday.
 Friday has been one of the busiest days of the festive season on UK roads as the Christmas getaway combined with the end of the working week.
@@ -16,15 +13,20 @@ Arriva Trains Wales warned of "speed restrictions and possible delays" for all s
 The National Trust also closed Erddig Hall and Chirk Castle in Wrexham due to the expected high winds.
 Winds eased into Friday evening, with earlier restrictions on both the A55 Britannia Bridge in north Wales and the M48 Severn Bridge in Monmouthshire lifted.
 But a blustery forecast for the Christmas weekend has seen at least one festive event postponed - Rhyl's Boxing Day Dip in the sea in Denbighshire will now go ahead 24 hours later, on Tuesday, 27 December.
-Check if this is affecting your journey 
+Check if this is affecting your journey
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+winds caused by torrential rain and winds across parts of wales have been cancelled due to bad weather conditions.
+</Summary>
 
-1. The summary states that winds have been canceled due to bad weather conditions, while the article does not mention any cancellations due to wind. Instead, it reports on the impact of the wind on various activities and events.
-2. The summary mentions "torrential rain," which is not supported by the article. The article only mentions power cuts, train delays, and speed restrictions due to strong winds.
-3. The summary does not mention any specific locations or events mentioned in the article, such as Rhosgadfan, Caernarfon, Gwynedd, or the Irish Sea.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, the given summary is not consistent with the article.
+1. The summary states that winds were cancelled due to bad weather conditions.
+2. However, the article does not mention any cancellations due to winds. Instead, it mentions power cuts, train delays, and speed restrictions due to high winds.
+3. The article also mentions that the winds eased into Friday evening, indicating that there were no ongoing cancellations or disruptions due to winds.
+4. Therefore, the summary is not consistent with the article, as there is no mention of cancellations due to winds in the article.
+
+Conclusion: The summary is incorrect because it states that winds were cancelled due to bad weather conditions, but the article does not support this claim.
 
 ###Corrected:

@@ -1,28 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the centenary of the christmas truce between the isle of man has been unveiled at a private derby in wiltshire. 
-
-    Article: 
-    Private Derby XXX was promoted to the rank of lance corporal at an event in Chester marking eight years of the Mercian Regiment.
+<Article>
+Private Derby XXX was promoted to the rank of lance corporal at an event in Chester marking eight years of the Mercian Regiment.
 He was awarded his honour by the colonel of the regiment, Brigadier Andrew Williams.
 The Swaledale ram, who is officially classed as a soldier, received his promotion for "good behaviour".
 He is the 30th in a line of mascot rams running back to the Indian Mutiny War in the mid-19th Century.
 The first Private Derby was acquired in 1858 by the 95th (Derbyshire) Regiment of Foot and became the mascot of the Mercian Regiment when it formed in 2007.
 Lance Corporal Derby XXX joined the regiment in February 2014.
 He has his own army number, gets paid to buy his rations and takes his holidays during the mating season on the Chatsworth Estate in Derbyshire.
-During his career, Lance Corporal Derby XXX has also helped switch on the Christmas lights in Ashbourne and met Prince William at the unveiling of a memorial commemorating the 1914 Christmas Truce. 
+During his career, Lance Corporal Derby XXX has also helped switch on the Christmas lights in Ashbourne and met Prince William at the unveiling of a memorial commemorating the 1914 Christmas Truce.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+the centenary of the christmas truce between the isle of man has been unveiled at a private derby in wiltshire.
+</Summary>
 
-1. The summary states that the centenary of the Christmas truce between the Isle of Man has been unveiled. However, the article does not mention anything about the Isle of Man or a Christmas truce.
-2. The summary mentions a private derby in Wiltshire, but the article does not mention any event or location called a "private derby" in Wiltshire.
-3. The summary states that Lance Corporal Derby XXX was promoted to the rank of lance corporal at an event in Chester, but the article does not mention any promotion or event in Chester.
-4. The summary mentions that Lance Corporal Derby XXX is a mascot for the Mercian Regiment, but the article does not mention this fact.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary appears to be a fictional or misleading account, and not an accurate summary of the content of the article.
+1. The article states that Private Derby XXX was promoted to the rank of lance corporal at an event in Chester, but the summary claims that the event was held in Wiltshire. This is a contradiction, as the two locations are not the same.
+2. The article mentions that the event was held to mark eight years of the Mercian Regiment, but the summary does not mention this detail.
+3. The article states that Private Derby XXX was awarded his promotion for "good behaviour", but the summary does not mention this reason. Instead, it simply states that the centenary of the Christmas Truce between the Isle of Man has been unveiled.
+4. The article provides information about Private Derby XXX's background and career, including his joining the regiment in February 2014 and his involvement in various events, but the summary does not include any of this information.
+
+Therefore, the summary is not consistent with the article because it contains contradictory information and omits important details.
 
 ###Corrected:

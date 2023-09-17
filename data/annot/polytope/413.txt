@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
-there are 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .  health officials said they expect the number of cases to rise as more people are tested .  the growing number could put pressure on pence to extend the needle exchange program that he approved on march 26 .  
-
-    Article: 
-    indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
+<Article>
+indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
 there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
 that 's up from 106 last week , said the indiana state department of health .
 health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
@@ -45,17 +41,24 @@ pence 's executive order did n't include money for the scott county program .
 how sustainable is that ? '
 said dr. beth meyerson , co-director of the rural center for aids/std prevention at indiana university .
 ` there 's no evidence that the pence administration is thinking about this in the long term at all . '
- 
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, the following points indicate why the summary is not consistent with the article:
+</Article>
 
-1. Number of cases: The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases, while the article states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County.
-2. Extension of needle exchange program: The summary states that the growing number of cases could put pressure on Pence to extend the needle exchange program, while the article states that Pence is reviewing reports and recommendations from health officials and will make a decision early next week about extending the program beyond April 25.
-3. Opposition to needle exchanges: The summary does not mention that Pence opposes needle exchanges as an anti-drug policy, while the article states that Pence isn't alone in his concerns that needle exchanges could promote drug use instead of prevent it.
-4. Long-term solution: The summary does not mention the uncertainty about the future of the Scott County program or the fate of legislation that would allow needle-exchange programs in other counties, while the article states that the emergency exchange for Scott County was "the right reaction" but wasn't sure if it is the correct approach long-term.
-5. Funding: The summary does not mention that the federal government has banned public funding of needle exchange programs since 1989, while the article states that Pence's executive order didn't include money for the Scott County program, and that lawmakers are considering a bill that would allow the 23 Indiana counties with the highest rate-per-population of hepatitis C to establish their own needle-exchange programs.
+<Summary>
 
-In conclusion, the summary is not consistent with the article because it does not accurately reflect the following points: the number of cases, the extension of the needle exchange program, opposition to needle exchanges, the long-term solution, and funding.
+there are 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .  health officials said they expect the number of cases to rise as more people are tested .  the growing number could put pressure on pence to extend the needle exchange program that he approved on march 26 . 
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Number of cases: The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County, while the article states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County, about 30 miles north of Louisville, Kentucky. The discrepancy in the number of cases is a significant inconsistency.
+2. Extension of the needle exchange program: The summary does not mention anything about the possibility of extending the needle exchange program beyond April 25, while the article states that the growing number of cases could put pressure on Pence to extend the program. The summary does not provide this important information.
+3. Lawmakers' concerns: The summary does not mention lawmakers' concerns about needle exchanges promoting drug use instead of preventing it, while the article states that Senate President Pro Tem David Long and House Public Health Committee Chairman Ed Clere have expressed such concerns.
+4. Long-term solution: The summary does not mention the need for a long-term solution to the HIV outbreak, while the article states that health officials say high rates of hepatitis C are a key indicator of needle-sharing and a potential HIV outbreak, and that the House approved a bill that would allow the 23 Indiana counties with the highest rate-per-population of hepatitis C to establish their own needle-exchange programs.
+5. Funding: The summary does not mention the lack of funding for the needle exchange program, while the article states that Pence's executive order did not include money for the program and that health officials are concerned about the sustainability of the program without funding.
+
+In conclusion, the summary is not consistent with the article because it does not provide accurate information about the number of cases, the possibility of extending the needle exchange program, lawmakers' concerns, the need for a long-term solution, and funding for the program.
 
 ###Corrected:

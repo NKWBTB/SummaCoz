@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    us president barack obama has called an international inquiry into the taliban attack on an afghan hospital that killed at least 11 people. 
-
-    Article: 
-    The US military says a strike targeting Taliban in the northern city of Kunduz may have caused "collateral damage".
+<Article>
+The US military says a strike targeting Taliban in the northern city of Kunduz may have caused "collateral damage".
 Offering his "deepest condolences", Mr Obama said he expected a "full accounting of the facts" and would then make a definitive judgement.
 At least 12 MSF staff members and seven patients were killed in the incident.
 The UN called the strikes "inexcusable and possibly even criminal", with Secretary General Ban Ki-moon calling for a thorough and impartial investigation.
@@ -24,16 +21,20 @@ Mr Jecs and other staff went outside when the bombing stopped.  "What we saw was
 The Afghan interior ministry said a group of 10 to 15 militants had been hiding in the hospital.
 The Taliban denied that any of its fighters were there.
 A Taliban statement described the air strikes which hit the hospital as "deliberate", and carried out by "the barbaric American forces".
-There has been intense fighting in Kunduz since Taliban fighters swept into the northern city on Monday. 
+There has been intense fighting in Kunduz since Taliban fighters swept into the northern city on Monday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's why the summary is not consistent with the article:
+<Summary>
+us president barack obama has called an international inquiry into the taliban attack on an afghan hospital that killed at least 11 people.
+</Summary>
 
-1. The summary states that President Obama has called an international inquiry into the Taliban attack on an Afghan hospital, but the article does not mention any such inquiry. Instead, the article mentions that the US military has launched an investigation into the incident.
-2. The summary states that the hospital was attacked by the Taliban, but the article states that the US military conducted an air strike that may have resulted in collateral damage to the hospital.
-3. The summary does not mention the deaths of MSF staff members and patients, which is a significant aspect of the article.
-4. The summary does not mention the UN's response to the incident, which is also mentioned in the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary is biased towards the Taliban and does not provide a balanced view of the incident.
+1. The summary states that President Obama called for an international inquiry into the Taliban attack on an Afghan hospital, but the article does not mention any such inquiry. Instead, the article reports that President Obama expressed his condolences for the deaths and said that the Department of Defense would launch a full investigation.
+2. The summary refers to the attack as a "Taliban attack" on an Afghan hospital, but the article does not use the word "Taliban" to describe the attackers. Instead, the article states that the US military conducted an air strike that may have caused "collateral damage" to the hospital.
+3. The summary does not mention the death toll or the damage caused by the air strike, while the article reports that at least 12 MSF staff members and seven patients were killed, and the hospital was severely damaged.
+
+Overall, the summary does not accurately reflect the content of the article. It misrepresents the nature of the attack and the response to it, and omits key details about the death toll and the damage caused.
 
 ###Corrected:

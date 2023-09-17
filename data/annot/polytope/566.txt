@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the 14-year-old is now fighting for her life in UNK UNK hospital .
-her family reportedly told her to keep quiet about the attack .
-she is now fighting for her life in UNK UNK hospital . 
-
-    Article: 
-    a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
+<Article>
+a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
 the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
 she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
 a teenager set herself on fire after allegedly being raped by five men from her village in india .
@@ -39,17 +34,22 @@ ram singh , co-accused and widely considered the leader of the group , was found
 a minor also found guilty was sentenced to three years in a reformatory institution .
 her death sparked angry protests in india and internationally about misogyny in the country .
 the attention forced judges to prioritise the case and the lawyer 's association in saket reportedly refused to defend the perpetrators .
-sorry we are not currently accepting comments on this article . 
+sorry we are not currently accepting comments on this article .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+the 14-year-old is now fighting for her life in UNK UNK hospital .
+her family reportedly told her to keep quiet about the attack .
+she is now fighting for her life in UNK UNK hospital .
+</Summary>
 
-1. The summary states that the 14-year-old is now fighting for her life in UNK UNK hospital, while the article states that she is recovering in Delhi's Safdarjung Hospital. The article does not mention UNK UNK hospital.
-2. The summary states that the girl was allegedly gang-raped on Sunday, while the article states that she was allegedly gang-raped on a bus when she went outside her house in Kosi Kalan to relieve herself.
-3. The summary states that the girl set herself on fire using kerosene, while the article states that she was beaten for an hour before she died of her injuries.
-4. The summary does not mention the death of the girl, while the article states that she died of her injuries.
-5. The summary does not mention the location of the incident, while the article states that the incident occurred in Kosi Kalan, in Uttar Pradesh's Mathura district.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Therefore, the summary is not consistent with the article as it contains different details and omits important information. It is possible that the summary was based on a different article or source, or that it was written in haste without proper attention to detail.
+1. Inconsistent information: The summary states that the 14-year-old is fighting for her life in an "UNK UNK hospital," while the article states that she is recovering in Delhi's Safdarjung Hospital.
+2. Missing details: The summary does not provide any information about the girl being gang-raped, the accused men being arrested, or the protests and outrage that followed the incident.
+3. Incorrect wording: The summary uses phrases such as "her family reportedly told her to keep quiet about the attack" and "she is now fighting for her life in UNK UNK hospital," which are not present in the article.
+
+Therefore, it is clear that the summary is not a reliable representation of the article's content. It is possible that the summary was created by someone who did not fully understand the article or intentionally altered the information to present a different narrative.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    robert snodgrass inspired hull city to victory against southampton as mike phelan earned his first three points since being appointed permanent head coach. 
-
-    Article: 
-    Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
+<Article>
+Charlie Austin's sixth-minute penalty appeared to have Saints in control, with Hull offering little in the way of an attacking threat.
 The hosts also lost starting strikers Abel Hernandez and Will Keane to first-half injuries to compound the frustration of their fans, but the mood inside the KCOM Stadium was transformed in the space of two second-half minutes.
 First, Snodgrass - introduced from the bench for the stricken Keane - swept home his fourth league goal of the season from Sam Clucas' low cross before the Scotland international delivered an inviting free-kick that Michael Dawson headed past Fraser Forster.
 Southampton pushed for an equaliser but David Marshall made a string of saves in the Hull goal before Clucas produced a remarkable goalline clearance from a corner in the final minute of added time.
@@ -72,17 +69,23 @@ Substitution, Hull City. Tom Huddlestone replaces Harry Maguire.
 Foul by Sofiane Boufal (Southampton).
 Ryan Mason (Hull City) wins a free kick in the attacking half.
 Ryan Bertrand (Southampton) is shown the yellow card.
-Corner,  Southampton. Conceded by Curtis Davies. 
+Corner,  Southampton. Conceded by Curtis Davies.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+robert snodgrass inspired hull city to victory against southampton as mike phelan earned his first three points since being appointed permanent head coach.
+</Summary>
 
-1. The summary states that Robert Snodgrass inspired Hull City to victory against Southampton, while the article does not mention Snodgrass as a key factor in the win.
-2. The summary mentions that Hull City earned their first three points since Mike Phelan was appointed permanent head coach, but the article does not mention Phelan's appointment or the team's performance under him.
-3. The summary states that Charlie Austin's early penalty gave Southampton the lead, but the article does not mention Austin scoring a penalty.
-4. The summary mentions that Hull City lost two players to injury in the first half, but the article does not mention any injuries to Hull City players.
-5. The summary states that Southampton pushed for an equalizer but were unable to find one, while the article states that Southampton had several chances to score but were unable to convert them.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations that do not accurately reflect the events of the match.
+1. The summary states that Robert Snodgrass inspired Hull City to victory against Southampton, implying that he was the key player in their win.
+2. However, the article states that Snodgrass was introduced as a substitute in the 61st minute, and he only played for 26 minutes before being replaced by David Marshall.
+3. The article highlights that Hull City's two early losses to injuries, specifically the injuries to Abel Hernandez and Will Keane, had a significant impact on the game.
+4. The summary does not mention these injuries, which were a crucial factor in Hull City's victory.
+5. The article also highlights the heroic performance of David Marshall, who made several crucial saves to keep Southampton at bay.
+6. The summary does not mention Marshall's performance, which was a key factor in Hull City's victory.
+7. Therefore, the summary is not consistent with the article because it does not accurately reflect the key events and performances that led to Hull City's victory.
+
+In conclusion, the summary is not a faithful representation of the article because it focuses on Robert Snodgrass, who was not the only key player in Hull City's victory. The article highlights the impact of early injuries and David Marshall's heroic performance, which are not mentioned in the summary.
 
 ###Corrected:

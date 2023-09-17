@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    conor mcgregor has already got a picture of a gorilla eating a heart inked on his chest and ` the notorious ' has now revealed a tiger 's face on his stomach .  mcgregor wrote next to the instagram post of his new artwork .  mcgregor claims he has no motivation to win the title in las vegas on july 11 .  
-
-    Article: 
-    conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
+<Article>
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
 the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
 ` if you see the tiger , it 's too late .
 you 're food , ' mcgregor wrote next to the instagram post of his new artwork .
@@ -19,16 +16,20 @@ aldo makes the eighth defence of his belt against the irish fighter in las vegas
 conor mcgregor grabbed aldo 's ( left ) belt when they took their promotional tour to dublin
 mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
 at the end of march , the duo were undergoing a promotional tour in dublin when mcgregor grabbed the belt from aldo and raised it in front of 5,000 home supporters .
-the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters . 
+the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+conor mcgregor has already got a picture of a gorilla eating a heart inked on his chest and ` the notorious ' has now revealed a tiger 's face on his stomach .  mcgregor wrote next to the instagram post of his new artwork .  mcgregor claims he has no motivation to win the title in las vegas on july 11 . 
+</Summary>
 
-1. The summary states that Conor McGregor has revealed a tiger's face on his stomach, but the article only mentions a tiger's face tattoo on his stomach.
-2. The summary claims that McGregor has no motivation to win the title in Las Vegas on July 11, but the article states that McGregor has greater motivation to win the title than Jose Aldo has to defend it for the eighth time.
-3. The summary implies that McGregor is not interested in winning the title, but the article states that McGregor is challenging Aldo for the featherweight champion title and has unveiled a fearsome new tattoo ahead of the encounter.
-4. The summary mentions that McGregor wrote "if you see the tiger, it's too late. You're food," but this quote is not present in the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and misleading information. The article portrays McGregor as a confident and motivated fighter, while the summary suggests that he lacks motivation and is not interested in winning the title.
+1. The summary states that Conor McGregor has revealed a tiger's face on his stomach, but the article does not mention this. The article only mentions a tiger tattoo on his stomach, but it does not describe the tattoo as a face.
+2. The summary states that McGregor has no motivation to win the title in Las Vegas on July 11, but the article does not support this claim. In fact, the article states the opposite, that McGregor has a strong motivation to win the title and has been vocal about his desire to do so.
+3. The summary is not consistent with the article because it misrepresents McGregor's motivation and adds a detail (the tiger's face) that is not present in the article.
+
+Therefore, the summary is not a accurate representation of the article's content.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former guantanamo bay detainee has been released from kuwait. 
-
-    Article: 
-    Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
+<Article>
+Fawzi al-Odah, 37, was released after a US review panel concluded he was not a "continuing significant threat".
 He had been at the US facility in Cuba since 2002 after his arrest in Pakistan on suspicion of links to al-Qaeda and the Taliban - a charge he denies.
 He had challenged America's right to detain him in the US Supreme Court.
 Mr Odah boarded a Kuwaiti government plane on Wednesday morning US time.
@@ -19,15 +16,20 @@ Mr Odah had argued that he travelled to Afghanistan and Pakistan to teach the Ko
 He is the first inmate to be freed since May, when five Taliban detainees were exchanged for US Sgt Bowe Bergdahl, who had been kept by the insurgents in Afghanistan.
 Mr Odah's release brings down the total number of inmates at the US naval base to 148.
 The US opened the facility in January 2002, following the 11 September 2001 attacks in America.
-President Barack Obama has repeatedly promised to shut it down. 
+President Barack Obama has repeatedly promised to shut it down.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a former guantanamo bay detainee has been released from kuwait.
+</Summary>
 
-1. The summary states that the former Guantanamo Bay detainee was released from Kuwait, but the article states that he was released from Guantanamo Bay.
-2. The summary does not mention the reason for the detainee's release, but the article states that the US Review Panel concluded that he was not a "continuing significant threat".
-3. The summary mentions that the detainee faces at least a year at a militant rehabilitation center in Kuwait, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not provide all the information supported by the article. The article provides more details about the detainee's release and the reason for it, as well as the fact that he will face rehabilitation in Kuwait. The summary only provides a brief overview of the detainee's release without providing all the necessary details.
+1. The summary states that a former Guantanamo Bay detainee has been released from Kuwait.
+2. The article states that Fawzi al-Odah, a Kuwaiti citizen, was released from Guantanamo Bay and flew to Kuwait on a Kuwaiti government plane.
+3. The summary does not mention anything about the detainee being a Kuwaiti citizen or being released from Guantanamo Bay.
+4. The summary is not consistent with the article because it does not provide any information about the detainee's nationality or the fact that he was released from Guantanamo Bay.
+5. The article provides specific details about the detainee's background, the charges against him, and the terms of his release, which are not mentioned in the summary.
+6. Therefore, the summary is not a consistent summary of the article because it does not provide all the information included in the article.
 
 ###Corrected:

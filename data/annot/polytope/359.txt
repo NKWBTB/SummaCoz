@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    theo walcott ( third right ) poses for a lanvin photoshoot alongside runway model olga sherer , calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil
-walcott , pictured with wilshere and wojciech szczesny , has spent much of the season on the bench
-the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday . 
-
-    Article: 
-    theo walcott sitting on a bench along with six of his arsenal colleagues is starting to become a familiar sight given the fact that he has been overlooked for the majority of the season .
+<Article>
+theo walcott sitting on a bench along with six of his arsenal colleagues is starting to become a familiar sight given the fact that he has been overlooked for the majority of the season .
 the arsenal winger has been pictured on a different kind of bench with his team-mates as he was pictured for a photoshoot with calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil .
 walcott and co , along with runway model olga sherer , have posed for an official portrait for paris ' oldest fashion house - lanvin - the club 's official tailor since 2013 .
 theo walcott ( third right ) poses for a lanvin photoshoot alongside runway model olga sherer , calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil
@@ -16,16 +11,21 @@ walcott , pictured with wilshere and wojciech szczesny , has spent much of the s
 the 26-year-old looks on from the bench during arsenal 's 0-0 draw with chelsea at the emirates stadium
 arsenal 's first team stars will be dressed in similar attire when arsene wenger 's side make their way to wembley stadium for their fa cup final encounter against aston villa on may 30 .
 walcott , who has been named on arsenal 's substitutes ' bench for 17 of their 33 barclays premier league games , came on for the last six minutes of his side 's goalless draw with chelsea on sunday .
-the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday . 
+the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+theo walcott ( third right ) poses for a lanvin photoshoot alongside runway model olga sherer , calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil
+walcott , pictured with wilshere and wojciech szczesny , has spent much of the season on the bench
+the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday .
+</Summary>
 
-1. The summary states that Theo Walcott has spent much of the season on the bench, which is true.
-2. However, the summary also states that Walcott will be hoping to make his first Arsenal start since the side's 3-0 win over West Ham on March 14, which is not consistent with the article. According to the article, Walcott has been named on the substitutes' bench for 17 of Arsenal's 33 Premier League games, indicating that he has already made several starts for the team this season.
-3. Furthermore, the article states that Walcott and his teammates posed for a photoshoot with Lanvin, a Parisian fashion house, which is not mentioned in the summary.
-4. Lastly, the summary mentions that Arsenal will face Hull at the KC Stadium on Monday, which is not accurate as the team is scheduled to face Hull at the Emirates Stadium on May 30, according to the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it contains inaccuracies and omissions.
+1. The summary states that Theo Walcott has spent much of the season on the bench.
+2. However, the article states that Walcott has been named on Arsenal's substitutes' bench for 17 of their 33 Premier League games, indicating that he has been a regular on the bench, but not necessarily starting most games.
+3. The summary also states that Walcott will be hoping to make his first Arsenal start since their 3-0 win over West Ham on March 14.
+4. However, the article states that Walcott came on for the last six minutes of Arsenal's goalless draw with Chelsea on Sunday, indicating that he has already made an appearance as a substitute in a recent game.
+5. Therefore, the summary is not consistent with the article because it implies that Walcott has spent most of the season on the bench and is hoping to make his first start, when in fact he has been a regular on the bench but has already made some appearances as a substitute.
 
 ###Corrected:

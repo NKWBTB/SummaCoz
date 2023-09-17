@@ -1,19 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    anderlecht are maintaining a watching brief on anderlecht. 
+<Article>
+Chelsea are maintaining a watching brief on Anderlecht teenagers Youri Tielemans and Leander Dendoncker. Tielemans, 17, has been watched by Manchester United and Arsenal also and is a centre midfielder of some promise. He became the youngest Belgian player to play in the UEFA Champions League, making his Champions League debut at the age of 16 years, four months and 25 days in 2013. Chelsea are keen on signing Anderlecht teenager Youri Tielemans (pictured on the left) Leander Dendoncker is also said to be on Chelsea's radar after impressing for Anderlecht in recent weeks . Dendoncker, 19, is a more defensive player and can operate in midfield or at centre back. He scored Anderlecht's second goal in a feisty 2-0 win over Kortrijk on Sunday which saw both sides reduced to 10 men while Tielemans was one of four players booked. Belgium newspaper HLN reported that Chelsea scout Tony White was in the crowd to watch the game. Meanwhile, Chelsea have extended contracts for 18-year-old Belgian Charly Musonda Jnr to 2019 and his elder brother Tika Musonda until 2016.
+</Article>
 
-    Article: 
-    Chelsea are maintaining a watching brief on Anderlecht teenagers Youri Tielemans and Leander Dendoncker. Tielemans, 17, has been watched by Manchester United and Arsenal also and is a centre midfielder of some promise. He became the youngest Belgian player to play in the UEFA Champions League, making his Champions League debut at the age of 16 years, four months and 25 days in 2013. Chelsea are keen on signing Anderlecht teenager Youri Tielemans (pictured on the left) Leander Dendoncker is also said to be on Chelsea's radar after impressing for Anderlecht in recent weeks . Dendoncker, 19, is a more defensive player and can operate in midfield or at centre back. He scored Anderlecht's second goal in a feisty 2-0 win over Kortrijk on Sunday which saw both sides reduced to 10 men while Tielemans was one of four players booked. Belgium newspaper HLN reported that Chelsea scout Tony White was in the crowd to watch the game. Meanwhile, Chelsea have extended contracts for 18-year-old Belgian Charly Musonda Jnr to 2019 and his elder brother Tika Musonda until 2016. 
+<Summary>
+anderlecht are maintaining a watching brief on anderlecht.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that "anderlecht are maintaining a watching brief on anderlecht." This is not consistent with the article because Anderlecht is a team, not a person or entity that can be "maintained" or "watched."
-2. The article mentions Chelsea's interest in two Anderlecht teenagers, Youri Tielemans and Leander Dendoncker, but there is no mention of Anderlecht maintaining a watching brief on themselves.
-3. The article focuses on Chelsea's interest in the two players and their performances for Anderlecht, but there is no mention of Anderlecht watching Chelsea.
-4. Therefore, the summary is not consistent with the article because it suggests that Anderlecht is watching Chelsea, when in fact, the article states that Chelsea is interested in two Anderlecht players.
+1. The article states that Chelsea are maintaining a watching brief on Anderlecht teenagers Youri Tielemans and Leander Dendoncker.
+2. The summary states that Anderlecht are maintaining a watching brief on Anderlecht.
+3. This is not consistent with the article, as the article states that Chelsea, not Anderlecht, are maintaining a watching brief on the two players.
+4. The reason for this inconsistency is that the summary misinterpreted the information in the article. The word "Chelsea" was mistakenly replaced with "Anderlecht" in the summary.
+5. The correct summary should read: "Chelsea are maintaining a watching brief on Anderlecht teenagers Youri Tielemans and Leander Dendoncker."
 
 ###Corrected:

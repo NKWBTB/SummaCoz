@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ukraine\'s president vladimir separatists and russian president vladimir separatists have called on russia to trigger a state tax opportunity for the first time. 
-
-    Article: 
-    Pro-Kremlin party A Just Russia put forward both bills, and linked them directly to the situation in Ukraine.
+<Article>
+Pro-Kremlin party A Just Russia put forward both bills, and linked them directly to the situation in Ukraine.
 Separatist and pro-Russian feelings are strong in Ukraine's Crimea region, which is now the focus of the crisis.
 Russian MPs say a referendum or a plea from a territory's leaders would be enough to trigger the new provisions.
 There are already many Russian citizens in Crimea.
@@ -22,23 +19,22 @@ In addition, they would not have to have sufficient funds to support themselves 
 The bill's preamble says it is aimed "at supporting the fraternal people of Ukraine, especially the Russian-speaking ones, who are defenceless in the face of the 'brown threat'," a reference to World War Two fascists who wore brown uniforms.
 The bill would allow Ukrainians to apply for Russian passports at Russian diplomatic missions before 1 August, and they could become citizens after two months, instead of waiting a year, as is currently the norm.
 The plan to have a new fast-track procedure for issuing Russian passports was announced in Sevastopol on Thursday by A Just Russia leader Sergei Mironov.
-Several Russian MPs have also gone to Crimea, including Russian celebrities - former Olympic ice skating champion Irina Rodnina, former cosmonaut Valentina Tereshkova and heavyweight boxer Nikolai Valuev. 
+Several Russian MPs have also gone to Crimea, including Russian celebrities - former Olympic ice skating champion Irina Rodnina, former cosmonaut Valentina Tereshkova and heavyweight boxer Nikolai Valuev.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+ukraine\'s president vladimir separatists and russian president vladimir separatists have called on russia to trigger a state tax opportunity for the first time.
+</Summary>
 
-Step 1: Identify the main idea of the summary
-The main idea of the summary is that the Russian government has called on Russia to trigger a state tax opportunity for the first time.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Step 2: Identify the main idea of the article
-The main idea of the article is that a pro-Kremlin party in Russia, A Just Russia, has put forward two bills that would allow for the fast-tracking of Russian passports for Ukrainians in Crimea, and that these bills are linked to the situation in Ukraine.
+1. The article states that the bills being considered by the Duma are related to the situation in Ukraine, specifically in Crimea.
+2. The summary does not mention Ukraine or Crimea at all.
+3. The article mentions that the bills are being pushed by a pro-Kremlin party, A Just Russia, and that they are linked to the situation in Ukraine. The summary does not mention the party or the situation in Ukraine.
+4. The article states that the bills would allow for the fast-track issuance of Russian passports to Ukrainians, and that this is aimed at supporting "fraternal" Russian-speaking Ukrainians. The summary does not mention passports or the support of Russian-speaking Ukrainians.
+5. The article mentions that the bills are being pushed by Russian MPs, including celebrities, and that they are linked to the situation in Ukraine. The summary does not mention any of these details.
 
-Step 3: Identify the inconsistencies
-The summary states that the Russian government has called on Russia to trigger a state tax opportunity for the first time, but the article does not mention anything about the Russian government calling for this. Instead, the article focuses on the pro-Kremlin party's proposal for fast-tracking Russian passports for Ukrainians in Crimea.
-
-Step 4: Analyze the reasons for the inconsistencies
-The inconsistency between the summary and the article is likely due to a misunderstanding or misinterpretation of the article. The article does not mention the Russian government calling for a state tax opportunity, but rather focuses on the proposal for fast-tracking Russian passports for Ukrainians in Crimea.
-
-In conclusion, the given summary is not consistent with the article because it misrepresents the main idea of the article and includes information that is not present in the article. The article focuses on the proposal for fast-tracking Russian passports for Ukrainians in Crimea, while the summary mentions the Russian government calling for a state tax opportunity.
+Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary does not accurately reflect the content of the article, and instead presents a completely different narrative.
 
 ###Corrected:

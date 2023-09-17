@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    india\'s prime minister narendra modi has said he will not seek a new $ 500 (Â # anti-corruption ; $ exchange) payment to the country\'s banks. 
-
-    Article: 
-    Four days after the launch of the anti-corruption move, long queues continue outside ATMs as people try to exchange the 500 ($7) and 1,000 notes.
+<Article>
+Four days after the launch of the anti-corruption move, long queues continue outside ATMs as people try to exchange the 500 ($7) and 1,000 notes.
 "It had to be done suddenly but I never thought I will receive blessings for this," Mr Modi said.
 He hinted that other measures aimed at fighting corruption and the black economy might follow.
 Urging people to be patient, Finance Minister Arun Jaitley said that it would take a few weeks for banks and ATMs to completely replace the old notes, estimated to make up some 85% of the total currency in circulation.
@@ -27,18 +24,23 @@ An individual can put as much as he or she likes into the bank - but withdrawals
 Government guidelines say it is possible to exchange up to 4,000 rupees per day up to 24 November - anything over this will be subject to tax laws. People can also withdraw up to 10,000 rupees from a bank per day and a maximum of 20,000 rupees per week.
 New 2,000 and 500 rupee denomination notes with new security features are being given to people to replace those removed from circulation.
 A new 1,000 rupee note "with a new dimension and design" will also be introduced in due course, a senior government official said on Thursday.
-They can purchase foreign exchange equivalent to 5,000 rupees using these bank notes at airport exchange counters until midnight on Friday. 
+They can purchase foreign exchange equivalent to 5,000 rupees using these bank notes at airport exchange counters until midnight on Friday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+india\'s prime minister narendra modi has said he will not seek a new $ 500 (Â # anti-corruption ; $ exchange) payment to the country\'s banks.
+</Summary>
 
-1. The summary states that Prime Minister Narendra Modi said he will not seek a new $500 payment to the country's banks, but the article does not mention anything about a new payment.
-2. The summary mentions that the 500 and 1,000 rupee notes are the highest denomination notes in the country and are extremely common in India, but the article does not mention the denominations of the notes that have been removed from circulation.
-3. The summary states that people can exchange their money at banks between 10 November and 30 December, but the article does not mention the specific time frame for the exchange.
-4. The summary mentions that there are limits on cash withdrawals from ATMs and banks, but the article does not mention any specific limits.
-5. The summary states that the government has introduced new 2,000 and 500 rupee denomination notes with new security features, but the article does not mention the introduction of new notes.
-6. The summary mentions that a new 1,000 rupee note with a new dimension and design will be introduced in due course, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that India's Prime Minister Narendra Modi will not seek a new $500 payment to the country's banks.
+2. However, the article states that the government has announced a surprise move to withdraw the legal tender status of the 500 and 1,000 rupee notes, effective immediately.
+3. The article also mentions that people can exchange their old notes at banks until December 30, but there are limits on cash withdrawals from ATMs and banks.
+4. The article does not mention anything about a new $500 payment to the country's banks.
+5. Therefore, the summary is not consistent with the article because it mentions a new $500 payment, which is not mentioned in the article.
+
+Reasoning:
+
+The summary is not consistent with the article because it contains information that is not present in the article. The article does not mention a new $500 payment to the country's banks, but the summary states that the Prime Minister will not seek such a payment. This discrepancy indicates that the summary is not an accurate representation of the article's content.
 
 ###Corrected:

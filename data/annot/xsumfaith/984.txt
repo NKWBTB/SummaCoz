@@ -1,26 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bristol\'s mayor has announced it will sign a # [UNK] m upgrade to a new stadium stadium in bristol. 
-
-    Article: 
-    Bristol Sport Ltd, which owns the football club, wants to replace two stands to increase capacity.
+<Article>
+Bristol Sport Ltd, which owns the football club, wants to replace two stands to increase capacity.
 The plan is an alternative to proposals to build a new stadium at nearby Ashton Vale, which has been delayed by an application for a town green.
 Majority shareholder Steve Lansdown confirmed the club would begin work at a shareholder meeting on Tuesday.
 The work was approved by Bristol City Council in November.
 Mr Lansdown told the club's official website: "We'll sign the section 106 agreement any day now, and then we have six weeks to wait for the judicial review period.
-"We wanted to give some certainty to supporters, so if we get through to March with no judicial review, then we will be going ahead with the redevelopment plans, starting in May." 
+"We wanted to give some certainty to supporters, so if we get through to March with no judicial review, then we will be going ahead with the redevelopment plans, starting in May."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+bristol\'s mayor has announced it will sign a # [UNK] m upgrade to a new stadium stadium in bristol.
+</Summary>
 
-1. The summary states that the mayor of Bristol has announced a # [UNK] m upgrade to a new stadium, but the article does not mention anything about a new stadium. Instead, it talks about replacing two stands to increase capacity.
-2. The article mentions that the plan is an alternative to proposals to build a new stadium at nearby Ashton Vale, which has been delayed by an application for a town green. This suggests that the club is not planning to build a new stadium, but rather to upgrade the existing one.
-3. The summary also mentions a section 106 agreement, which is a legal agreement between the developer and the local authority that outlines the terms of the development. The article does not mention anything about a section 106 agreement.
-4. Finally, the summary states that the work will start in May, but the article does not mention a specific start date.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits other important information that is included in the article.
+1. The article states that Bristol Sport Ltd, the owner of the football club, wants to replace two stands to increase capacity.
+2. The article does not mention anything about a new stadium or the mayor of Bristol announcing a stadium upgrade.
+3. The summary states that the mayor of Bristol has announced a # [UNK] m upgrade to a new stadium, which is not supported by the article.
+4. The article only mentions the plan to replace two stands, not a new stadium.
+5. The summary is not consistent with the article, as it mentions a new stadium upgrade, which is not mentioned in the article.
+
+Therefore, the summary is not accurate and does not reflect the information in the article.
 
 ###Corrected:

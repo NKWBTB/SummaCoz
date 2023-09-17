@@ -1,27 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ex-manchester city and united striker carlos tevez has signed for chinese super league side shanghai shenhua, the club confirmed on thursday. 
-
-    Article: 
-    Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
+<Article>
+Shanghai have signed the Argentina forward, 32, from Boca Juniors but no details were given over the contract.
 Shanghai, coached by ex-Brighton boss Gus Poyet, are reported to have agreed a deal worth £40m for Tevez including a salary in excess of £310,000 a week.
 Boca Juniors said: "Good luck Carlitos. You will always be in our hearts."
 Tevez played for seven years in the Premier League and won the title with both Manchester clubs.
 He also lifted the Champions League trophy with United in 2008 before joining Juventus in 2013, where he won two Italian championships.
 On 23 December Chelsea agreed terms with Shanghai SIPG for Brazil midfielder Oscar, 25, in a move that is estimated to cost £60m.
-Take part in our new Premier League Predictor game, which allows you to create leagues with friends. 
+Take part in our new Premier League Predictor game, which allows you to create leagues with friends.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+ex-manchester city and united striker carlos tevez has signed for chinese super league side shanghai shenhua, the club confirmed on thursday.
+</Summary>
 
-1. The summary states that Carlos Tevez has signed for Shanghai Shenhua, but the article does not mention anything about Tevez signing for the club. Instead, the article states that Shanghai have signed the Argentina forward from Boca Juniors, but no details were given over the contract.
-2. The summary mentions a salary of £310,000 a week for Tevez, but the article does not provide any information about his salary.
-3. The summary states that Tevez played for seven years in the Premier League and won the title with both Manchester clubs, but the article does not mention anything about his time in the Premier League or his titles won.
-4. The summary mentions that Tevez lifted the Champions League trophy with United in 2008, but the article does not mention anything about the Champions League or Tevez's time at United.
+Explain your reasoning step by step:[/INST]
+  Sure, I can help you with that! Here's my step-by-step reasoning for why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as Tevez signing for Shanghai Shenhua and his salary, as well as incorrect information, such as his time in the Premier League and titles won.
+1. The summary states that Carlos Tevez has signed for Shanghai Shenhua, but the article does not mention anything about Shanghai Shenhua. Instead, the article states that Tevez has signed for Shanghai SIPG.
+2. The summary mentions that Tevez is an ex-Manchester City and United striker, which is correct. However, the article does not provide any information about Tevez's past clubs.
+3. The summary states that the deal is worth £40m, but the article does not mention any specific figure. Instead, it mentions that the deal is "estimated to cost £60m".
+4. The summary mentions that Tevez will earn a salary in excess of £310,000 a week, but the article does not provide any information about his salary.
+5. Finally, the summary does not mention anything about Chelsea agreeing terms with Shanghai SIPG for Brazil midfielder Oscar, which is mentioned in the article.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information.
 
 ###Corrected:

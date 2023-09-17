@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the wife of a british-iranian woman jailed in iran has called on the government to appeal against her conviction. 
-
-    Article: 
-    Nazanin Zaghari-Ratcliffe was sentenced to five years for allegedly plotting to topple the government in Tehran.
+<Article>
+Nazanin Zaghari-Ratcliffe was sentenced to five years for allegedly plotting to topple the government in Tehran.
 Her husband, Richard Ratcliffe, has criticised the UK government for a lack of action and said the appeal against the term was happening in "secret".
 It is understood it is being held in Tehran on Wednesday.
 Mrs Zaghari-Ratcliffe, 38 has spent time in solitary confinement since her arrest at Tehran Airport last April, with her two-year-old daughter Gabriella.
@@ -24,23 +21,23 @@ Speaking about his daughter, Mr Ratcliffe said: "I have watched her grow up on S
 "Conversations now either have to be translated through one of her aunts and uncles or they are very physical - so playing peekaboo and watching her dancing."
 Mr Ratcliffe said he was trying to get a visa so he could visit his wife and daughter.
 Amnesty International UK said Mrs Zaghari-Ratcliffe was a "prisoner of conscience" who was being held for "peacefully exercising her right to freedom of expression and association".
-Risk campaign manager Kathy Voss added: "Though she shouldn't even find herself in this awful position, we very much hope the appeal will rule in Nazanin's favour and order her immediate release." 
+Risk campaign manager Kathy Voss added: "Though she shouldn't even find herself in this awful position, we very much hope the appeal will rule in Nazanin's favour and order her immediate release."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the wife of a british-iranian woman jailed in iran has called on the government to appeal against her conviction.
+</Summary>
 
-1. The summary states that Mrs. Zaghari-Ratcliffe's husband has called on the government to appeal against her conviction, but the article states that the appeal is happening in secret and the family does not know when to expect a result.
+Explain your reasoning step by step:[/INST]
 
-Inconsistency: The summary implies that the family has some control over the appeal process and knows when the appeal will happen, while the article states that the appeal is happening in secret and the family does not have any information about it.
+1. The summary states that the wife of a British-Iranian woman jailed in Iran has called on the government to appeal against her conviction.
+2. However, the article states that the wife, Mrs. Zaghari-Ratcliffe, was sentenced to five years in jail in September, and her appeal is happening in secret.
+3. The summary does not mention that the appeal is happening in secret, nor does it mention that Mrs. Zaghari-Ratcliffe was sentenced to five years in jail.
+4. Therefore, the summary is not consistent with the article, as it does not provide accurate information about the status of Mrs. Zaghari-Ratcliffe's case.
+5. The article states that Mrs. Zaghari-Ratcliffe's husband, Richard Ratcliffe, has criticized the UK government for a lack of action and has called for them to appeal against her conviction.
+6. However, the summary does not mention Mr. Ratcliffe's criticism of the government or his call for an appeal.
+7. Therefore, the summary is not only inconsistent with the article, but it also omits important information about Mr. Ratcliffe's actions and statements.
 
-2. The summary states that Mrs. Zaghari-Ratcliffe was sentenced to five years for allegedly plotting to topple the government in Tehran, but the article does not mention any details about the charges against her.
-
-Inconsistency: The summary implies that Mrs. Zaghari-Ratcliffe was convicted of a specific crime, while the article does not provide any information about the charges against her.
-
-3. The summary states that the family could not go to the appeal hearing, but the article states that Mr. Ratcliffe believes the appeal has happened and he knows what was said in the courtroom.
-
-Inconsistency: The summary implies that the family was unable to attend the appeal hearing, while the article states that Mr. Ratcliffe believes the appeal has already happened and he has information about what was said in the courtroom.
-
-Overall, the summary is not consistent with the article because it contains details that are not present in the article, and it omits other important information that is present in the article.
+In conclusion, the summary is not a consistent or accurate reflection of the article. It omits key information and provides an incomplete picture of the situation, which could be misleading for readers who rely on the summary for information.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
-the london wasps captain ( middle ) returned to the club where he started his career for the 2012 season
-the flanker returned to wasps for the 2012 season after spells with stade francais , ricoh black rams and highlanders in new zealand . 
-
-    Article: 
-    with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
+<Article>
+with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post .
 the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
 and the london wasps captain joined in on the hype as he posted the photo dressed as downey jr. 's character iron man .
 england flanker james haskell dressed in iron man costume and posted it on his instagram page
@@ -22,16 +17,22 @@ four months in japan with the rams and haskell was on the move again when he swi
 however , he made only 12 appearances and returned to england in 2012 .
 since returning to wasps , haskell has surpassed the 100 appearances mark for the club and has become a big part of the england squad with 57 caps to-date .
 haskell has played his rugby in france , japan and new zealand after leaving the wasps in 2009
-since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps 
+since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
+the london wasps captain ( middle ) returned to the club where he started his career for the 2012 season
+the flanker returned to wasps for the 2012 season after spells with stade francais , ricoh black rams and highlanders in new zealand .
+</Summary>
 
-1. The summary mentions that the London Wasps captain (middle) returned to the club where he started his career for the 2012 season, but the article does not mention anything about the captain returning to the club.
-2. The summary states that the flanker returned to Wasps for the 2012 season after spells with Stade Francais, Ricoh Black Rams, and Highlanders in New Zealand, but the article only mentions that Haskell returned to Wasps for the 2012 season.
-3. The summary mentions that Haskell has played his rugby in France, Japan, and New Zealand after leaving Wasps in 2009, but the article only mentions that he spent time with Ricoh Black Rams in Tokyo and Highlanders in New Zealand.
-4. The summary states that Haskell has surpassed the 100 appearances mark for Wasps, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the London Wasps captain returning to the club and Haskell surpassing the 100 appearances mark for Wasps. Additionally, the summary mentions spells with teams that are not mentioned in the article.
+1. The summary mentions that the London Wasps captain returned to the club where he started his career for the 2012 season, but the article does not mention this. In fact, the article states that the captain returned to Wasps in 2012 after spells in France, Japan, and New Zealand.
+2. The summary mentions that the flanker played for Stade Francais, Ricoh Black Rams, and Highlanders in New Zealand, but the article does not mention this. The article only states that the flanker played for these teams in France and Japan.
+3. The summary does not mention the fact that the flanker has surpassed the 100 appearances mark for Wasps since returning to the club in 2012, which is mentioned in the article.
+
+Overall, the summary is not consistent with the article because it does not accurately represent the information provided in the article. It omits certain details and includes others that are not present in the article.
 
 ###Corrected:

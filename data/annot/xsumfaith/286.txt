@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former liverpool police officer has been found guilty of fraud and perverting the course of justice. 
-
-    Article: 
-    Angus Carpenter, of Liverpool, who has played in the city centre for more than 30 years, denied three counts of fraud.
+<Article>
+Angus Carpenter, of Liverpool, who has played in the city centre for more than 30 years, denied three counts of fraud.
 The 62-year-old was found guilty of one count when he played with a Hillsborough Justice Campaign banner draped on his bagpipes in April 2015.
 He was cleared of the two other counts by a jury at Liverpool Crown Court.
 Sgt Chris Gaynor told the court during the two day trial that Carpenter, from Woolton, gave the impression he was collecting cash for the Hillsborough Justice Campaign.
@@ -15,15 +12,21 @@ Kenneth Derbyshire, chairman of the Hillsborough Justice Campaign, said he had g
 But he said he had made it clear he was not use it to collect funds for the charity.
 Carpenter told the court the banner was a tribute to the victims, not an attempt to deceive anyone.
 He also told the court he was a familiar face on match days at Anfield and known as a busker to the Hillsborough Justice Campaign.
-He will be sentenced in January. 
+He will be sentenced in January.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a former liverpool police officer has been found guilty of fraud and perverting the course of justice.
+</Summary>
 
-1. The summary states that the former Liverpool police officer was found guilty of fraud and perverting the course of justice.
-2. However, the article states that the officer was found guilty of one count of fraud, but was cleared of the two other counts. This means that the summary is not consistent with the article, as it does not accurately reflect the officer's guilty verdict.
-3. The summary also states that the officer was found guilty of fraud and perverting the course of justice, but the article does not mention perverting the course of justice.
-4. The article states that the officer was accused of collecting cash for the Hillsborough Justice Campaign while pretending to be a busker, but the summary does not mention this.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the officer's guilty verdict and it includes information that is not present in the article.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that a former Liverpool police officer has been found guilty of fraud and perverting the course of justice.
+2. However, the article states that Angus Carpenter, a 62-year-old man from Liverpool, was found guilty of one count of fraud, but was cleared of the two other counts.
+3. The summary does not mention that Carpenter was cleared of two counts, only that he was found guilty of one count.
+4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the verdict of the trial.
+5. The article states that Carpenter was found guilty of one count of fraud, but the summary states that he has been found guilty of fraud and perverting the course of justice, which is not supported by the article.
+6. The article also states that Carpenter was cleared of two counts, but the summary does not mention this.
+7. Therefore, the summary is not a accurate reflection of the article and is not consistent with the information provided.
 
 ###Corrected:

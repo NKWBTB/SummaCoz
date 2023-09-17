@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the husband of a british-iranian charity worker jailed in iran is ``terrified\'\'about the outcome of his wife\'s appeal, he has said. 
-
-    Article: 
-    Nazanin Zaghari-Ratcliffe was sentenced to five years for allegedly plotting to topple the government in Tehran.
+<Article>
+Nazanin Zaghari-Ratcliffe was sentenced to five years for allegedly plotting to topple the government in Tehran.
 Her husband, Richard Ratcliffe, has criticised the UK government for a lack of action and said the appeal against the term was happening in "secret".
 It is understood it is being held in Tehran on Wednesday.
 Mrs Zaghari-Ratcliffe, 38 has spent time in solitary confinement since her arrest at Tehran Airport last April, with her two-year-old daughter Gabriella.
@@ -24,16 +21,19 @@ Speaking about his daughter, Mr Ratcliffe said: "I have watched her grow up on S
 "Conversations now either have to be translated through one of her aunts and uncles or they are very physical - so playing peekaboo and watching her dancing."
 Mr Ratcliffe said he was trying to get a visa so he could visit his wife and daughter.
 Amnesty International UK said Mrs Zaghari-Ratcliffe was a "prisoner of conscience" who was being held for "peacefully exercising her right to freedom of expression and association".
-Risk campaign manager Kathy Voss added: "Though she shouldn't even find herself in this awful position, we very much hope the appeal will rule in Nazanin's favour and order her immediate release." 
+Risk campaign manager Kathy Voss added: "Though she shouldn't even find herself in this awful position, we very much hope the appeal will rule in Nazanin's favour and order her immediate release."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+the husband of a british-iranian charity worker jailed in iran is ``terrified\'\'about the outcome of his wife\'s appeal, he has said.
+</Summary>
 
-1. The summary states that the husband is "terrified" about the outcome of the appeal, but the article does not mention any specific fear or concern from the husband. While the husband is quoted as saying that he is "increasingly on tenterhooks," this does not necessarily mean that he is "terrified."
-2. The summary states that the appeal is happening "in secret," but the article does not mention anything about the appeal being secret. In fact, the article states that the appeal is being held in Tehran on Wednesday, which suggests that it is a public proceeding.
-3. The summary states that the family cannot go to the appeal hearing, but the article does not mention anything about the family being prevented from attending the hearing. In fact, the article states that the husband is trying to get a visa so he can visit his wife and daughter.
-4. The summary states that the final outcome of the appeal "might come today, it might come next week," but the article does not mention any specific timeframe for the outcome of the appeal.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the husband's fears and suggests that the appeal is being held in secret, when the article does not support these claims.
+1. The summary states that the husband of a British-Iranian charity worker jailed in Iran is "terrified" about the outcome of his wife's appeal.
+2. However, the article does not mention the word "terrified" or any similar language to describe the husband's feelings.
+3. Instead, the article quotes the husband, Richard Ratcliffe, as saying that he is "increasingly on tenterhooks as to what could happen" and that he will know when the appeal has happened and what was said in the courtroom.
+4. The summary also does not mention the fact that Mrs. Zaghari-Ratcliffe has been sentenced to five years in jail, or that she has spent time in solitary confinement, which are both key details in the article.
+5. Therefore, the summary is not consistent with the article, as it does not accurately convey the information and details provided in the article.
 
 ###Corrected:

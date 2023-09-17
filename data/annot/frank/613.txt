@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian wright has been confirmed as the man who will present ap mccoy with his 20th and final champion jockeys trophy at sandown on saturday . wright , who had seven seasons at arsenal and broke every scoring record in the book , will hand over mccoy 's trophy before heading back into london to present his radio phone in . ap mccoy is now a television pundit but played for arsenal during his years as a professional . 
+<Article>
+Arsenal legend Ian Wright has been confirmed as the man who will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday. Track officials had been keen to secure someone with a connection to the club which the retiring rider fervently supports. Wright, who had seven seasons at Arsenal and broke every scoring record in the book, will hand over McCoy’s trophy before travelling back into London to present his BBC5Live radio phone in. AP McCoy will be presented with his final champion jockeys trophy by Ian Wright at Sandown on Saturday Wright (centre) is now a television pundit but played for Arsenal during his years as a professional McCoy is a huge Arsenal supporter and has been invited to attend a home game before the end of the season Sandown initially tried to secure Thierry Henry to be the Arsenal celebrity to hand over the trophy to McCoy. But his Sky employers vetoed the move. A request to secure another Arsenal legend in Tony Adams also proved logistically impossible because he currently manages Gabala in Azabaijan. A Sandown spokesman said; ‘Tony wanted to do it but his side are playing on Friday night and he just could not get back on time. Tony’s wife will be at Sandown on Saturday along with Ian and his wife.’ Another famous Arsenal name expected at Sandown is Liam Brady, one of McCoy’s sporting heroes from his childhood. Wright was a player for Arsenal as a striker for seven years, from 1991 until 1998 Iconic Arsenal striker Thierry Henry (centre) was asked to present the award but Sky did not allow it Family commitments will keep McCoy away from the Emirates on Sunday when his team host Chelsea in a top of the table clash. He told Racemail: ‘I have a kind invitation from the chairman to attend any home game before the end of the season.’
+</Article>
 
-    Article: 
-    Arsenal legend Ian Wright has been confirmed as the man who will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday. Track officials had been keen to secure someone with a connection to the club which the retiring rider fervently supports. Wright, who had seven seasons at Arsenal and broke every scoring record in the book, will hand over McCoy’s trophy before travelling back into London to present his BBC5Live radio phone in. AP McCoy will be presented with his final champion jockeys trophy by Ian Wright at Sandown on Saturday Wright (centre) is now a television pundit but played for Arsenal during his years as a professional McCoy is a huge Arsenal supporter and has been invited to attend a home game before the end of the season Sandown initially tried to secure Thierry Henry to be the Arsenal celebrity to hand over the trophy to McCoy. But his Sky employers vetoed the move. A request to secure another Arsenal legend in Tony Adams also proved logistically impossible because he currently manages Gabala in Azabaijan. A Sandown spokesman said; ‘Tony wanted to do it but his side are playing on Friday night and he just could not get back on time. Tony’s wife will be at Sandown on Saturday along with Ian and his wife.’ Another famous Arsenal name expected at Sandown is Liam Brady, one of McCoy’s sporting heroes from his childhood. Wright was a player for Arsenal as a striker for seven years, from 1991 until 1998 Iconic Arsenal striker Thierry Henry (centre) was asked to present the award but Sky did not allow it Family commitments will keep McCoy away from the Emirates on Sunday when his team host Chelsea in a top of the table clash. He told Racemail: ‘I have a kind invitation from the chairman to attend any home game before the end of the season.’ 
+<Summary>
+ian wright has been confirmed as the man who will present ap mccoy with his 20th and final champion jockeys trophy at sandown on saturday . wright , who had seven seasons at arsenal and broke every scoring record in the book , will hand over mccoy 's trophy before heading back into london to present his radio phone in . ap mccoy is now a television pundit but played for arsenal during his years as a professional .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Ian Wright will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday. However, the article states that Wright will hand over the trophy before heading back into London to present his radio show.
-2. The summary mentions that Wright played for Arsenal, but the article does not mention this. In fact, the article states that Wright is now a television pundit, which is not mentioned in the summary.
-3. The summary states that Thierry Henry was asked to present the award but Sky did not allow it. However, the article does not mention anything about Thierry Henry being asked to present the award.
-4. The summary mentions that Liam Brady, one of McCoy's sporting heroes from his childhood, is expected at Sandown. However, the article does not mention anything about Liam Brady.
+1. The summary states that Ian Wright will present AP McCoy with his 20th and final champion jockeys trophy at Sandown on Saturday.
+2. The article states that Wright will present the trophy before heading back into London to present his radio phone-in.
+3. The summary does not mention Wright's role as a television pundit or his connection to Arsenal.
+4. The article mentions that Wright had seven seasons at Arsenal and broke every scoring record in the book, but the summary does not include this information.
+5. The article states that McCoy is a huge Arsenal supporter and has been invited to attend a home game before the end of the season, but the summary does not mention this.
 
-Overall, the summary contains several inaccuracies and omissions compared to the article. Therefore, it is not a consistent summary of the article's content.
+Therefore, the summary is not consistent with the article because it does not include key information about Wright's connection to Arsenal and McCoy's support for the club. Additionally, the summary does not mention Wright's role as a television pundit, which is included in the article.
 
 ###Corrected:

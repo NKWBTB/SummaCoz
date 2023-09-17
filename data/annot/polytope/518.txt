@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    cheryl rios 's `` biblically '' inspired beliefs , but she 's not the only one who 's arguing that a woman 's hormones are a legitimate leadership concern .
-time magazine declared hillary clinton the `` perfect '' age to be president , because she 's a postmenopausal woman who is `` biologically primed '' to lead . 
-
-    Article: 
-    ( cnn ) thinking about presidential candidates ?
+<Article>
+( cnn ) thinking about presidential candidates ?
 apparently , hormones are a major factor one should consider .
 according to one female businesswoman in texas , hillary clinton should n't be president because her hormones might make her so irrational she 'll start an unnecessary war .
 when george w. bush waged an unnecessary war in iraq -- was his testosterone to blame ?
@@ -49,16 +45,23 @@ it 's not enough to say to our daughters : " you can be anything you want to be 
 what we need to say is : " you can be anything you want to be , despite what some people might think -- and what they think is wrong . "
 rios said that if clinton is elected , she is " moving to canada " because " a female should n't be president . "
 apparently rios knows as much about women and leadership as she knows about canada : kim campbell became the country 's first female prime minister in 2024 .
-correction : an earlier version of this article incorrectly stated that canadians elected their first female prime minister , kim campbell . 
+correction : an earlier version of this article incorrectly stated that canadians elected their first female prime minister , kim campbell .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given text, it is clear that the summary is not consistent with the article. Here's why:
+<Summary>
+cheryl rios 's `` biblically '' inspired beliefs , but she 's not the only one who 's arguing that a woman 's hormones are a legitimate leadership concern .
+time magazine declared hillary clinton the `` perfect '' age to be president , because she 's a postmenopausal woman who is `` biologically primed '' to lead .
+</Summary>
 
-1. The summary states that Cheryl Rios believes a woman's hormones are a legitimate leadership concern, but the article does not support this claim. In fact, the article argues that the bias against women in the workplace is a much scarier consideration than any potential effects of hormones.
-2. The summary mentions that Time Magazine declared Hillary Clinton the "perfect" age to be president, but the article does not provide any evidence to support this claim.
-3. The summary states that Cheryl Rios believes a woman should not be president because of her hormones, but the article presents evidence that male hormones have also been a factor in impaired decision-making by male leaders.
-4. The summary does not mention the article's main point, which is that the bias against women in the workplace is well-established and can limit their potential.
+Explain your reasoning step by step:[/INST]
 
-In conclusion, the summary is not consistent with the article because it does not accurately represent the main points and arguments presented in the article. The summary focuses on Cheryl Rios' beliefs about hormones and Hillary Clinton's age, while the article provides a more nuanced view of the issues and emphasizes the importance of ending gender bias in the workplace.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary mentions that Cheryl Rios has "biblically" inspired beliefs, but the article does not mention anything about the Bible or religious beliefs.
+2. The summary states that Time Magazine declared Hillary Clinton the "perfect" age to be president because she is a postmenopausal woman who is "biologically primed" to lead, but the article does not mention anything about Hillary Clinton's age or biological priming.
+3. The summary implies that the discussion about a candidate's hormones is a legitimate leadership concern, but the article argues that this is not the case and that the bias against women in the workplace is a much more significant issue.
+4. The summary does not mention the overt and covert bias against women in the workplace, the fact that companies with more women in leadership roles make more money, or the benefits of diverse teams and companies, all of which are discussed in the article.
+
+Therefore, the summary is not consistent with the article, and it does not accurately reflect the main points or arguments made in the article.
 
 ###Corrected:

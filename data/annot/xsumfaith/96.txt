@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the european space agency, airbus, has unveiled its plan to create the world\'s largest network of satellite constellations. 
-
-    Article: 
-    The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
+<Article>
+The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
 The aim is to deliver broadband links from orbit to every corner of the globe.
 In particular, the project wants every school to have a connection.
 Building so large a constellation requires a step-change in the manufacture of satellites - especially for Airbus.
@@ -36,23 +33,21 @@ Brian Holz, who is CEO of the OneWeb/Airbus manufacturing joint venture, said th
 Time will tell how disruptive the new manufacturing approaches adopted in Toulouse will be to the satellite industry as a whole.
 Airbus and OneWeb hope also to be making satellites for other companies on their assembly lines. But not every platform in the sky will require such volumes and a good number of spacecraft will still need the bespoke treatment.
 "Not everything here is application to the whole space industry. When we launch to Jupiter, there are things that will remain gold-plated whether we like it or not; unless of course we start to manufacture 900 satellites to go to Jupiter but this is not the case today,” said Nicolas Chamussy, who runs the satellite division of Airbus.
-Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos 
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the summary is not consistent with the article. Here are the steps:
+<Summary>
+the european space agency, airbus, has unveiled its plan to create the world\'s largest network of satellite constellations.
+</Summary>
 
-Step 1: Identify the main points of the summary.
-The summary mentions that Airbus and OneWeb have unveiled a plan to create the world's largest network of satellite constellations, with the aim of delivering broadband links to every corner of the globe.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article.
-The article mentions that OneWeb and Airbus are planning to launch a mega-constellation of satellites to provide global broadband connectivity, with the aim of turning out three units per shift at well less than a million dollars a piece. The article also highlights the challenges of debris mitigation and the need for new manufacturing approaches.
+1. The summary states that the European Space Agency (ESA) has unveiled a plan to create the world's largest network of satellite constellations. However, the article states that Airbus, not the ESA, is behind the plan.
+2. The summary does not mention the purpose of the satellite constellation, which is to provide broadband internet access to every corner of the globe, as stated in the article.
+3. The summary does not mention the scale of the constellation, which will consist of at least 600 spacecraft and potentially more than 2,000, as stated in the article.
+4. The summary does not mention the manufacturing approach being used by Airbus, which is a new assembly line method akin to those used in factories producing cars and planes, as stated in the article.
+5. The summary does not mention the debris mitigation measures being taken by OneWeb and Airbus, such as de-orbiting the satellites within two years and using a small adapter device to allow for the removal of dead satellites, as stated in the article.
 
-Step 3: Identify the inconsistencies.
-The summary does not mention the cost of each satellite or the aim of turning out three units per shift, which are key points in the article. Additionally, the summary does not mention the challenges of debris mitigation or the need for new manufacturing approaches, which are important aspects of the article.
-
-Step 4: Analyze the reasons for the inconsistencies.
-The inconsistencies in the summary may be due to a lack of attention to detail or a failure to fully understand the article. The summary may have been written based on a quick read of the article or from a brief summary of the article, rather than a thorough analysis of the content.
-
-In conclusion, the summary is not consistent with the article because it does not mention key points such as the cost of each satellite and the aim of turning out three units per shift, and it does not address important aspects such as debris mitigation and new manufacturing approaches. The inconsistencies may be due to a lack of attention to detail or a failure to fully understand the article.
+Therefore, the summary is not consistent with the article as it does not provide an accurate overview of the plan, its purpose, or the scale of the constellation. It also omits important details such as the manufacturing approach and debris mitigation measures.
 
 ###Corrected:

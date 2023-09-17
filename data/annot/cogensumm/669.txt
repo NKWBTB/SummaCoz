@@ -1,23 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    migrants who come to britain to live or work must prove they have committed a crime. 
+<Article>
+Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders. Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK, the Mail can reveal. Ministers hope to bolster existing checks to prevent serious and violent criminals from being allowed to enter the UK. Tighter measures: Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders . Under the scheme, which will begin to be rolled-out in the summer, non-EU migrants wanting to move to Britain to live or work will be compelled to produce a certificate from the authorities in any country they have resided in the previous decade. This would disclose whether they had a clean criminal record or had committed offences. A Home Office spokesman said: ‘This power will enable us to require those applying for a visa to provide a criminal record certificate covering the last ten years – an additional tool to help stop criminals from coming to our country.’ Some 1.9million people arriving on visitor visas, or those from 56 countries and territories which do not need visas, will not need to provide their criminal histories because this would be ‘disproportionate’ in terms of time, cost and bureaucracy. The system will also exempt under-18s, asylum seekers and those people where it is not ‘reasonably practicable’. Tougher stance: Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK .
+</Article>
 
-    Article: 
-    Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders. Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK, the Mail can reveal. Ministers hope to bolster existing checks to prevent serious and violent criminals from being allowed to enter the UK. Tighter measures: Migrants who come to Britain to live or work must prove they have not committed a crime in the previous ten years under new measures to tighten up the nation’s borders . Under the scheme, which will begin to be rolled-out in the summer, non-EU migrants wanting to move to Britain to live or work will be compelled to produce a certificate from the authorities in any country they have resided in the previous decade. This would disclose whether they had a clean criminal record or had committed offences. A Home Office spokesman said: ‘This power will enable us to require those applying for a visa to provide a criminal record certificate covering the last ten years – an additional tool to help stop criminals from coming to our country.’ Some 1.9million people arriving on visitor visas, or those from 56 countries and territories which do not need visas, will not need to provide their criminal histories because this would be ‘disproportionate’ in terms of time, cost and bureaucracy. The system will also exempt under-18s, asylum seekers and those people where it is not ‘reasonably practicable’. Tougher stance: Foreigners from outside the EU will be forced to provide a criminal records certificate from their home country before being given a visa to enter the UK . 
+<Summary>
+migrants who come to britain to live or work must prove they have committed a crime.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The article states that migrants must prove they have not committed a crime in the previous ten years to be allowed to enter the UK.
-2. The summary states that migrants must prove they have committed a crime to be allowed to enter the UK.
-3. These two statements are opposites, meaning that the summary is not consistent with the article.
-4. The article states that the new measures are aimed at preventing serious and violent criminals from entering the UK, and that non-EU migrants will be required to produce a criminal record certificate covering the last ten years as an additional tool to help stop criminals from coming to the country.
-5. The summary does not mention anything about serious or violent criminals, and instead states that all migrants must prove they have committed a crime.
-6. Therefore, the summary is not consistent with the article because it does not accurately reflect the new measures being implemented to tighten up the nation's borders.
+1. The article states that migrants must prove they have not committed a crime in the previous ten years, not that they have committed a crime.
+2. The article mentions that the new measures are intended to "bolster existing checks to prevent serious and violent criminals from being allowed to enter the UK." This implies that the purpose of the measures is to prevent criminals from entering the country, not to require them to prove they have committed crimes.
+3. The summary states that migrants must prove they have committed a crime, which is the opposite of the article's intended message.
 
-In conclusion, the summary is not consistent with the article because it states that migrants must prove they have committed a crime, while the article states that migrants must prove they have not committed a crime in the previous ten years. The article is focused on preventing serious and violent criminals from entering the UK, while the summary does not mention this aspect.
+Therefore, the summary is not consistent with the article because it misstates the purpose and requirements of the new measures. The summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

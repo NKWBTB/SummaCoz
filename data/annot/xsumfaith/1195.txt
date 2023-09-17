@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    eastenders actress barbara kemp has returned to eastenders to return to eastenders for a second time. 
-
-    Article: 
-    Kemp, who last played Grant Mitchell in 2006, said it would be "a brief return".
+<Article>
+Kemp, who last played Grant Mitchell in 2006, said it would be "a brief return".
 "When I was approached about returning to EastEnders for Barbara's final episodes, it was something I could not turn down," he said.
 Following her surprise return to Albert Square, Dame Barbara announced her character would be killed off.
 Her character reappeared on Friday, having left in 2010, to tell her eldest son Phil, played by Steve McFadden, that her cancer had returned.
@@ -17,16 +14,20 @@ Now Kemp, who played Grant from 1990-1999 and then again in 2005 and 2006, will 
 Grant Mitchell has been one of the soap's most memorable characters in its 30-year history, arriving in 1990 along with brother Phil.
 He was involved in repeated family dramas including having an affair with his brother's wife, Kathy, and having his brother go on to marry his ex-wife Sharon.
 "Grant Mitchell is an EastEnders legend and finally he is returning home to Walford to say goodbye to his mother and be reunited not just with his old loves but also his brother," said EastEnders executive producer Dominic Treadwell-Collins.
-"To have the Mitchell brothers come face to face again, having to face losing their mother, is an opportunity to show Ross Kemp and Steve McFadden at their very best." 
+"To have the Mitchell brothers come face to face again, having to face losing their mother, is an opportunity to show Ross Kemp and Steve McFadden at their very best."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+eastenders actress barbara kemp has returned to eastenders to return to eastenders for a second time.
+</Summary>
 
-1. The summary states that Barbara Kemp has returned to EastEnders for a second time, but the article states that she has returned for her final episodes and will be killed off. This is inconsistent, as there is no mention of her returning for a second time in the article.
-2. The summary states that Barbara Kemp has returned to EastEnders to bring the Mitchell family back together, but the article states that her character will die from cancer in emotional scenes to be screened in the spring. This is inconsistent, as there is no mention of her character's death being a reunion for the Mitchell family.
-3. The summary states that Grant Mitchell is returning to EastEnders, but the article states that it is Barbara Kemp who is returning, not Grant. This is inconsistent, as the article only mentions Barbara Kemp's return, not Grant's.
-4. The summary states that Grant Mitchell is an EastEnders legend, but the article does not mention this. This is inconsistent, as the article only mentions Barbara Kemp's return and does not provide any information about Grant Mitchell.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary states that Barbara Kemp has returned for a second time, but the article only mentions her final return. Additionally, the summary states that Grant Mitchell is returning, but the article only mentions Barbara Kemp's return. Finally, the summary describes Grant Mitchell as an EastEnders legend, but the article does not mention this.
+1. The summary states that Barbara Kemp has returned to EastEnders for a second time.
+2. However, the article states that Dame Barbara returned to EastEnders for her character's final episodes, and that her character will die from cancer in the spring.
+3. Therefore, it is not possible for Barbara Kemp to have returned to EastEnders for a second time, as her character will have already passed away.
+4. The summary is not consistent with the article, as it does not accurately reflect the information provided in the article.
+
+Therefore, the reason why the summary is not consistent with the article is that it incorrectly states that Barbara Kemp has returned to EastEnders for a second time, when in fact her character has only returned for her final episodes and will die from cancer soon.
 
 ###Corrected:

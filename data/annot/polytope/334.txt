@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    torture chamber : corry ` corey ' campbell , 21 ( left ) , the ringleader of a gang dubbed the ` tattoo terrorists ' was jailed for 20 years thursday for the abuse in march/april 21 .
-campbell believed the victim , greg valecce , had hurt his cat , pebbles .
-three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos . 
-
-    Article: 
-    three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+<Article>
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
 a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
 campbell believed the victim , greg valecce , had hurt his cat , pebbles .
 valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair , in the city 's northeast , however that basement would become a torture chamber where he would be strapped to a chair and violated for three days .
@@ -40,20 +35,33 @@ campbell 's attorney said his client had a rough childhood , with his father lea
 he was sentenced to 20 years in state prison .
 halin received the same sentence for what he did to valecce .
 ng , whose attorney who said she had fallen in with the wrong people at school , was sentenced to 23 months in a state prison .
-another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial . 
+another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+torture chamber : corry ` corey ' campbell , 21 ( left ) , the ringleader of a gang dubbed the ` tattoo terrorists ' was jailed for 20 years thursday for the abuse in march/april 21 .
+campbell believed the victim , greg valecce , had hurt his cat , pebbles .
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+</Summary>
 
-1. The summary states that the victim, Greg Valecce, was beaten, tied to a chair, and covered in offensive tattoos, while the article states that he was beaten, tied to a chair, and had offensive tattoos inked on him.
-2. The summary mentions that the abuse occurred in March/April 21, while the article states that the abuse occurred in late March 2014.
-3. The summary does not mention that the abuse was filmed, while the article states that the trio filmed the abuse and the video was played in court.
-4. The summary does not mention that the victim suffered three busted ribs, two broken wrists, and fractured bones in his face, while the article states that he did suffer these injuries.
-5. The summary does not mention that the victim was able to escape on April 1 while the others slept and contact the police, while the article states that he did escape and contact the police.
-6. The summary does not mention that the incident lasted about 42 hours, while the article states that it did last that long.
-7. The summary does not mention that the search of the house found a tattoo gun, needles, ink vials, and related paraphernalia, while the article states that the search did find these items.
-8. The summary does not mention that the victim had the tattoos removed, while the article states that he did have them removed.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there are several inconsistencies between the two. Here's a step-by-step explanation of the inconsistencies:
 
-Overall, the summary is not consistent with the article because it omits several key details and includes some inaccuracies.
+1. Ringleader's sentence:
+In the article, the ringleader, Corry "Corey" Campbell, was sentenced to 20 years in state prison. However, in the summary, it is mentioned that he was jailed for 20 years, which is not consistent with the article.
+2. Victim's age:
+In the article, the victim, Greg Valecce, is described as a 53-year-old man. However, in the summary, his age is not mentioned.
+3. Torture chamber:
+In the article, the basement of Campbell's mother's house in Mayfair, Philadelphia, was described as a "torture chamber" where Valecce was beaten, tied to a chair, and covered in offensive tattoos. This detail is missing from the summary.
+4. Accomplices' sentences:
+In the article, it is mentioned that Campbell's girlfriend, Sandra Ng, was sentenced to 23 months in state prison, while another defendant, Jennifer Pratt, is awaiting trial. However, in the summary, it is only mentioned that three people have been sent to prison and another two are awaiting sentencing, without providing any specific details about the sentences.
+5. Motivation for the attack:
+In the article, it is mentioned that Campbell believed Valecce had hurt his cat, Pebbles, and had also stolen money and some weed. However, this motivation is not mentioned in the summary.
+6. Length of the incident:
+In the article, it is mentioned that the incident lasted about 42 hours, while in the summary, it is only mentioned that Valecce was beaten for three days.
+7. Tattoos:
+In the article, it is mentioned that Campbell tattooed "Rip Pebbles" onto Valecce's arm along with a smiley face that had breasts for eyes and a penis for a nose. This detail is missing from the summary.
+
+Overall, the summary does not provide a complete and accurate account of the events described in the article. It omits several
 
 ###Corrected:

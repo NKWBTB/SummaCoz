@@ -1,21 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mohammad irfan will miss the remainder of the world cup with a pelvis. 
+<Article>
+Pakistan fast bowler Mohammad Irfan will miss the remainder of the World Cup with a pelvis injury. Left-armer Irfan, who has taken eight wickets in five matches so far, underwent an MRI scan after sitting out Pakistan's seven-wicket win over Ireland on Sunday with pain in his hip. After an initial scan proved inconclusive on Monday, Irfan underwent further tests on Tuesday where it was confirmed the seven-foot bowler had suffered 'an obvious stress fracture in the pelvis', according to a Pakistan Cricket Board statement. Mohammad Irfan will take no further part in the World Cup after scans revealed he has a fractured pelvis . Irfan had taken eight wickets in the first five games for Pakistan before missing the Ireland match . Team physiotherapist Brad Robinson said: 'This injury rules Irfan out of the World Cup.' Pakistan face Australia on March 20 in Adelaide, with a potential semi-final against defending champions India at stake, should the latter beat Bangladesh. Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan.
+</Article>
 
-    Article: 
-    Pakistan fast bowler Mohammad Irfan will miss the remainder of the World Cup with a pelvis injury. Left-armer Irfan, who has taken eight wickets in five matches so far, underwent an MRI scan after sitting out Pakistan's seven-wicket win over Ireland on Sunday with pain in his hip. After an initial scan proved inconclusive on Monday, Irfan underwent further tests on Tuesday where it was confirmed the seven-foot bowler had suffered 'an obvious stress fracture in the pelvis', according to a Pakistan Cricket Board statement. Mohammad Irfan will take no further part in the World Cup after scans revealed he has a fractured pelvis . Irfan had taken eight wickets in the first five games for Pakistan before missing the Ireland match . Team physiotherapist Brad Robinson said: 'This injury rules Irfan out of the World Cup.' Pakistan face Australia on March 20 in Adelaide, with a potential semi-final against defending champions India at stake, should the latter beat Bangladesh. Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan. 
+<Summary>
+mohammad irfan will miss the remainder of the world cup with a pelvis.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Mohammad Irfan will miss the remainder of the World Cup with a pelvis injury.
-2. However, the article states that Irfan has been ruled out of the World Cup due to a fractured pelvis.
-3. The word "remainder" implies that Irfan would miss only a portion of the tournament, but the article states that he will miss the entire World Cup.
-4. Therefore, the summary is not consistent with the article because it implies that Irfan will only miss a portion of the tournament, while the article states that he will miss the entire tournament.
-
-So, the reason why the summary is not consistent with the article is that it implies that Irfan will only miss a portion of the tournament, while the article states that he will miss the entire tournament.
+2. The article states that Irfan has a fractured pelvis and will take no further part in the World Cup.
+3. However, the article also mentions that Pakistan will wait until after the quarter-final before deciding whether to call up a replacement for Irfan.
+4. This implies that Irfan will not be playing in the rest of the World Cup, but Pakistan has not yet decided on a replacement.
+5. Therefore, the summary is not consistent with the article because it states that Irfan will miss the remainder of the World Cup, while the article suggests that he may not be replaced and will miss only the remaining matches of the tournament.
 
 ###Corrected:

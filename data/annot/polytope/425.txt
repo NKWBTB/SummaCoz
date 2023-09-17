@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jcno , the bucket hat , is set to be the brand 's first ` rave ' jeans .  it has the worst offenders , and it is the first time in the world .  jnco , a bucket hat and calvin klein t-shirts are all the worst .  
-
-    Article: 
-    nineties style is hot right now .
+<Article>
+nineties style is hot right now .
 chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
 but news that jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback has horrified many of the people who wore the ridiculous pants the first time around .
 the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that really should be left in the past .
@@ -53,21 +50,22 @@ characterised by loose , baggy legs which nip in at the ankle , these middle eas
 before she discovered pencil skirts reality star kim kardashian , now 34 , was a huge fan of the voluminous pants .
 today they are still sported by supermodel legs like 51-year-old elle macpherson .
 then : reality star kim kardashian previously championed the wearing of harem trousers back in 2009
-now : supermodel elle macpherson steps out in a pair of leopard print harem trousers 
+now : supermodel elle macpherson steps out in a pair of leopard print harem trousers
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jcno , the bucket hat , is set to be the brand 's first ` rave ' jeans .  it has the worst offenders , and it is the first time in the world .  jnco , a bucket hat and calvin klein t-shirts are all the worst . 
+</Summary>
 
-1. JNCO Jeans: The summary states that JNCO jeans are set to make a comeback, but the article does not mention anything about their return.
-2. Bucket Hats: The summary mentions that bucket hats are popular, but the article only mentions them as a trend from the nineties and does not mention their current popularity.
-3. Camouflage Print: The summary states that camouflage print is a trend that has been popular in the nineties and noughties, but the article only mentions it as a trend from the noughties.
-4. Ugg Boots: The summary mentions that Ugg boots are still popular, but the article only mentions them as a trend from the noughties.
-5. Denim Shorts: The summary states that tiny denim shorts have been around for a long time and were brought back by Jessica Simpson, but the article only mentions them as a trend from the noughties.
-6. Juicy Couture Tracksuits: The summary mentions that Juicy Couture tracksuits are still popular, but the article only mentions them as a trend from the noughties.
-7. Rainbow Lenses: The summary states that rainbow lenses are still popular, but the article only mentions them as a trend from the noughties.
-8. Corsets: The summary mentions that corsets are still popular, but the article only mentions them as a trend from the noughties.
-9. Harem Pants: The summary states that harem pants are still popular, but the article only mentions them as a trend from the noughties.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-In conclusion, the summary is not consistent with the article because it mentions current popularity of trends that the article does not support. The article only mentions trends from the noughties, and does not mention any current popularity of those trends.
+1. The summary mentions "jcno" and "rave" jeans, which are not present in the article. The article talks about JNCO jeans, not jcno.
+2. The summary states that the article is about the worst fashion trends of the nineties and noughties, but the article only covers a few fashion trends and does not make a general statement about the worst trends.
+3. The summary mentions a bucket hat, which is not one of the fashion trends discussed in the article.
+4. The summary states that the article is the first time in the world that jnco jeans are being mentioned, but the article does not make such a claim.
+5. The summary mentions calvin klein t-shirts, which are not one of the fashion trends discussed in the article.
+
+In conclusion, the summary is not consistent with the article because it mentions items that are not present in the article, and it makes claims that are not supported by the article.
 
 ###Corrected:

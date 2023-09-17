@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sean long\'s injury-time equaliser earned blackpool a draw at colchester. 
-
-    Article: 
-    The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
+<Article>
+The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
 Blackpool goalkeeper Sam Slocombe denied Matthew Briggs with a sensational save to push the ball behind after 17 minutes, but the visitors did equalise from the resulting corner as Kurtis Guthrie prodded in from close range after a goalmouth scramble.
 Somehow, Colchester failed to re-take the lead on the stroke of half-time as Slocombe produced a brilliant save from George Elokobi's close-range effort, before Guthrie headed against the bar from two yards.
 Blackpool should have clinched the win 15 minutes from time, as Tom Aldred was found unmarked from a corner, but he headed wide from eight yards.
@@ -51,17 +48,21 @@ Tom Eastman (Colchester United) is shown the yellow card for a bad foul.
 Jordan Flores (Blackpool) wins a free kick on the right wing.
 Foul by Tom Eastman (Colchester United).
 Andy Taylor (Blackpool) is shown the yellow card for a bad foul.
-Foul by Andy Taylor (Blackpool). 
+Foul by Andy Taylor (Blackpool).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+sean long\'s injury-time equaliser earned blackpool a draw at colchester.
+</Summary>
 
-1. The summary states that Sean Long scored an injury-time equalizer for Blackpool, but the article does not mention any goal scored by Sean Long.
-2. The summary mentions that Blackpool equalized from a corner, but the article does not mention any corner kick taken by Blackpool.
-3. The summary states that Colchester finished the game with 10 men, but the article does not mention any red cards shown to Colchester players.
-4. The summary mentions a free kick won by Blackpool's Jim McAlister, but the article does not mention any free kicks awarded to Blackpool.
-5. The summary states that Tom Aldred headed wide from eight yards, but the article does not mention any shots on goal by Tom Aldred.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, as it contains several inaccuracies and omissions.
+1. The article states that the game ended in a draw, with Blackpool and Colchester United scoring one goal each.
+2. The summary states that Sean Long scored an injury-time equaliser for Blackpool, implying that the team scored the equalising goal in the injury time.
+3. However, the article does not mention anything about Sean Long scoring an equaliser in injury time. Instead, it states that Colchester United equalised from a corner kick in the 17th minute, and Blackpool had several other chances to score but failed.
+4. Therefore, the summary is not consistent with the article, as there is no mention of Sean Long scoring an equaliser in injury time.
+
+Conclusion:
+The summary is not consistent with the article because it mentions Sean Long scoring an injury-time equaliser, which is not supported by the article. The article does not mention any equalising goal in injury time, and instead focuses on Blackpool's failed chances to score and Colchester United's equalising goal from a corner kick.
 
 ###Corrected:

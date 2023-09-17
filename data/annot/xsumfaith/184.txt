@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a police watchdog has referred its response to the police complaints commission\'s decision not to investigate the case of a student found dead in a house. 
-
-    Article: 
-    The body of India Chipchase, 20, a bar worker, was found in Northampton on Sunday.
+<Article>
+The body of India Chipchase, 20, a bar worker, was found in Northampton on Sunday.
 Book-keeper Edward Tenniswood, 51, from Stanley Road, faces a charge of murder and has appeared at crown court.
 Northamptonshire Police referred itself to the Independent Police Complaints Commission over its "responses before and during" the search.
 Read this and other stories from Northamptonshire
@@ -19,17 +16,21 @@ There was no application for bail and he was remanded in custody.
 Ms Chipchase was last seen by friends on Bridge Street at about 01:15 GMT on Saturday.
 Her disappearance was reported later that day after she failed to turn up to work at The Collingtree pub and restaurant.
 Her body was found at the defendant's terraced house in Stanley Road. A post-mortem examination concluded she died as a result of pressure to the neck.
-There will be a plea hearing on the 25 May, and a trial date was set for 18 July, to last for 10 days. 
+There will be a plea hearing on the 25 May, and a trial date was set for 18 July, to last for 10 days.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a police watchdog has referred its response to the police complaints commission\'s decision not to investigate the case of a student found dead in a house.
+</Summary>
 
-1. The summary states that the police watchdog has referred its response to the police complaints commission's decision not to investigate the case.
-2. However, the article does not mention anything about the police complaints commission or its decision not to investigate the case.
-3. Instead, the article states that Northamptonshire Police has referred itself to the Independent Police Complaints Commission (IPCC) over its "responses before and during" the search for India Chipchase.
-4. The article also mentions that the IPCC will decide whether to investigate the case, but it does not say that the commission has decided not to investigate.
-5. Therefore, the summary is not consistent with the article because it implies that the police complaints commission has decided not to investigate the case, whereas the article only mentions that the police have referred themselves to the IPCC for examination of their responses.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it adds an extra detail (the police complaints commission's decision not to investigate) that is not present in the article.
+1. The summary states that a police watchdog has referred its response to the police complaints commission's decision not to investigate the case of a student found dead in a house.
+2. However, the article does not mention anything about the police complaints commission deciding not to investigate the case. Instead, it states that Northamptonshire Police has made a referral to the Independent Police Complaints Commission (IPCC) to ensure transparency in examining police action and responses before and during the search for India Chipchase.
+3. The article also mentions that the IPCC will be investigating the case, and that the police force will not be commenting further as the criminal investigation is now in the court process.
+4. Therefore, the summary is not consistent with the article because it implies that the police watchdog has referred its response to the police complaints commission's decision not to investigate the case, when in fact the IPCC is investigating the case.
+5. The summary also fails to mention the key details of the case, such as the discovery of India Chipchase's body and the arrest and charging of Edward Tenniswood with murder.
+
+Overall, the summary is not a accurate representation of the article and does not provide a clear understanding of the case.
 
 ###Corrected:

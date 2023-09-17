@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the head teacher of a birmingham school has been placed in special measures after being found guilty of misconduct. 
-
-    Article: 
-    Birmingham academies Park View and Nansen Primary - rated inadequate by Ofsted - will have their funding agreements terminated.
+<Article>
+Birmingham academies Park View and Nansen Primary - rated inadequate by Ofsted - will have their funding agreements terminated.
 Park View Educational Trust said it may be removed from running the schools.
 Oldknow Academy and Golden Hillock School, also rated inadequate, were warned they could lose funding unless concerns were addressed.
 A head teacher at one of the Trojan Horse schools said parents tried to undermine her authority and descended on the school during an Ofsted inspection.
@@ -48,17 +45,21 @@ Parents at the schools have criticised Ofsted's reports and accused inspectors o
 Health professional Arshad Malik told the BBC the findings were  "alien" to his child's experience at Park View.
 "â€ŽInspectors came with loaded questions," he said.
 "People are trying to use this school to push their own agendas."
-He said parents would like to invite Education Secretary Michael Gove to the school for an open meeting about Ofsted's findings and to talk about what evidence was found to support them. 
+He said parents would like to invite Education Secretary Michael Gove to the school for an open meeting about Ofsted's findings and to talk about what evidence was found to support them.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the head teacher of a birmingham school has been placed in special measures after being found guilty of misconduct.
+</Summary>
 
-1. The summary states that the head teacher of a Birmingham school has been placed in special measures after being found guilty of misconduct. However, the article does not mention anything about a head teacher being placed in special measures.
-2. The summary mentions that the school's funding agreement will be terminated, but the article does not mention this. Instead, the article states that the Department for Education will work with the school to install a temporary governing board.
-3. The summary states that the school was rated inadequate by Ofsted, but the article does not mention the school's Ofsted rating. Instead, the article states that Ofsted published 21 reports into schools allegedly targeted as part of a hardline Muslim takeover.
-4. The summary mentions that the head teacher felt alone and embarrassed, but the article does not mention this. Instead, the article states that the head teacher of Park View School said they would challenge the Ofsted report through the appropriate legal channels.
-5. The summary mentions that the school was criticized for failing to promote spiritual, moral, social and cultural development of pupils, but the article does not mention this. Instead, the article states that Ofsted chief Sir Michael Wilshaw said "a culture of fear and intimidation has taken grip" in Birmingham schools.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the head teacher of a Birmingham school has been placed in special measures after being found guilty of misconduct. This is not consistent with the article, as the article does not mention anything about the head teacher being found guilty of misconduct.
+2. The article states that Ofsted has placed five schools in Birmingham in special measures, including Park View and Nansen Primary, due to concerns about their management and the spiritual, moral, social, and cultural development of pupils. The summary does not mention anything about the schools being placed in special measures.
+3. The article mentions that the Trust that runs Park View and Nansen Primary schools may be removed from running the schools, and that the Department for Education will install a temporary governing board at Saltley School. The summary does not mention anything about the Trust being removed or the Department for Education installing a temporary governing board.
+4. The article mentions that Ofsted found that Park View School did not promote the spiritual, moral, social, and cultural development of pupils, and that the school allowed external speakers with known extremist views to speak to students as part of Islamic-themed assemblies. The summary does not mention anything about Ofsted's findings or the school's allowance of external speakers.
+5. The article mentions that parents have criticized Ofsted's reports and accused inspectors of bias. The summary does not mention anything about parents' criticisms or accusations of bias.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary only mentions the head teacher being placed in special measures, while the article mentions much more information about the schools and Ofsted's findings.
 
 ###Corrected:

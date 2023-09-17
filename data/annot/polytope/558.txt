@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
-since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
-ian will often take his dolls to events and get people to guess their back stories . 
-
-    Article: 
-    one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+<Article>
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
 ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
 since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
 ian rogers owns nine haunted dolls all of which he says contain their own personality
@@ -59,17 +54,33 @@ she likes to be in the kitchen and had a husband that died of tb .
 max : an raf pilot who died in the second world war .
 he had a little girl who was five who he misses very much .
 he gave up his life to care for his sick mother , but when she passed away he took his own life .
-the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium . 
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
+since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
+ian will often take his dolls to events and get people to guess their back stories .
+</Summary>
 
-1. The summary states that Ian Rogers has nine haunted dolls, but the article only mentions five dolls.
-2. The summary mentions that Ian's sister found the dolls too mischievous, but this is not mentioned in the article.
-3. The summary states that Ian avoids buying his dolls on eBay because there is no guarantee they would be haunted, but the article does not mention this.
-4. The summary mentions that Ian is looking into investing in other supernatural souvenirs, but this is not mentioned in the article.
-5. The summary states that Ian hopes his next paranormal purchase will be a haunted mirror, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary includes information that is not present in the article, and omits information that is present in the article. Therefore, the summary is not consistent with the article.
+Based on the provided article and summary, there are several inconsistencies that can be identified:
+
+1. Age of Ian Rogers: In the article, Ian Rogers is mentioned to be 36 years old, while in the summary, his age is not mentioned.
+2. Number of Dolls: The article states that Ian owns nine haunted dolls, while the summary only mentions "the creepy collection" without specifying the number of dolls.
+3. Personalities of the Dolls: The article describes each of the dolls having their own personalities, while the summary does not mention this detail.
+4. Events: The article states that Ian hosts events with his dolls and guests can undertake paranormal experiences, while the summary does not mention these events.
+5. Purpose of the Dolls: The article explains that Ian collects the dolls because he is obsessed with the supernatural, while the summary does not provide this context.
+
+Step-by-step reasoning:
+
+1. Age of Ian Rogers: The summary does not mention Ian's age, while the article clearly states that he is 36 years old.
+2. Number of Dolls: The summary only mentions "the creepy collection" without specifying the number of dolls, while the article clearly states that Ian owns nine haunted dolls.
+3. Personalities of the Dolls: The summary does not mention the personalities of the dolls, while the article describes each doll having its own personality.
+4. Events: The summary does not mention the events that Ian hosts with his dolls, while the article explains that he hosts these events and guests can undertake paranormal experiences.
+5. Purpose of the Dolls: The summary does not provide the context for why Ian collects the dolls, while the article explains that he is obsessed with the supernatural.
+
+Therefore, the summary is not consistent with the article, as it does not capture several key details mentioned in the article.
 
 ###Corrected:

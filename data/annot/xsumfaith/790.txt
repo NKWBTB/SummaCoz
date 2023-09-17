@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    britain\'s olympic gold medallist jade chernova has been banned from the world anti-doping agency for failing to qualify for the rio olympics. 
-
-    Article: 
-    Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
+<Article>
+Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
 This week she was given a ban and had earlier results annulled after a sample from 2009 was re-tested - but kept her world title.
 "She set a personal best with the benefit of drug use," Minichiello said.
 Russian anti-doping agency punished Chernova with a two-year ban, backdated to 22 June 2013.
@@ -21,16 +18,20 @@ Chernova's backdated ban is due to expire on 21 June, and with the qualification
 "That is why we think Wada needs to look at its code and penalties to show there is potentially a loophole that needs to be looked. I'm sure the Russian anti-doping agency have administered suspensions according to the rules, so therefore it needs to be looked at."
 Last week, Russia's athletics head coach Valentin Maslakov resigned after a number of athletes from the country were found guilty of committing doping offences.
 Wada is investigating allegations of widespread doping and corruption in Russian athletics after claims were aired in a recent German television documentary, with a report due to be published by the end of the year.
-The IAAF said last week it was concerned about the number of Russian doping cases in the sport. 
+The IAAF said last week it was concerned about the number of Russian doping cases in the sport.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+britain\'s olympic gold medallist jade chernova has been banned from the world anti-doping agency for failing to qualify for the rio olympics.
+</Summary>
 
-1. The summary states that Jade Chernova was banned from the World Anti-Doping Agency (WADA) for failing to qualify for the Rio Olympics. However, the article does not mention anything about Chernova failing to qualify for the Rio Olympics. Instead, the article states that Chernova was given a backdated two-year ban due to a re-test of a sample from 2009, which showed that she had used anabolic steroids.
-2. The summary also states that Chernova had earlier results annulled, but the article does not mention anything about her results being annulled. Instead, the article states that Chernova's backdated ban is due to expire on June 21, and that she could compete in the 2015 World Championships in Beijing and the 2016 Rio Olympics.
-3. The summary implies that Chernova was banned for failing to qualify for the Rio Olympics, but the article does not support this claim. Instead, the article states that Chernova was banned due to a re-test of a sample from 2009, which showed that she had used anabolic steroids.
-4. Therefore, the summary is not consistent with the article because it misrepresents the reason for Chernova's ban and omits important information about her results being annulled.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-In conclusion, the summary is not a accurate representation of the article and contains errors that need to be corrected.
+1. The summary states that Jade Chernova was banned from the World Anti-Doping Agency (WADA) for failing to qualify for the Rio Olympics. However, the article does not mention anything about Chernova being banned from WADA. Instead, it states that she was given a two-year ban by the Russian anti-doping agency, which was backdated to 22 June 2013.
+2. The summary incorrectly implies that Chernova failed a doping test and was banned as a result. However, the article states that Chernova was given a ban after a sample from 2009 was re-tested and found to contain performance-enhancing drugs.
+3. The summary mentions nothing about the fact that Chernova's ban was backdated, meaning that she will be eligible to compete again soon. The article states that Chernova's ban is due to expire on 21 June, and that she could potentially compete at the 2015 World Championships in Beijing and the 2016 Rio Olympics.
+
+Overall, the summary is not consistent with the article because it contains incorrect information and omits key details. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
 
 ###Corrected:

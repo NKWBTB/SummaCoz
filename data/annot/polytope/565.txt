@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
-UNK UNK has been bailed after being arrested on suspicion of sexual assault .
-the former all black , who denies the allegations , was arrested on suspicion of sexual assault .
-his solicitor matthew de maid said : ' he totally denies all the allegations ' . 
-
-    Article: 
-    world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
+<Article>
+world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
 the former all black , who denies the allegations , was arrested last night after his team was defeated in the quarter finals of the european challenge cup .
 he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .
 the 34-year-old full back , who has 100 caps for the all blacks , was led away by officers at the kingsholm stadium last night in connection with an allegation in cardiff in march .
@@ -29,17 +23,24 @@ a spokesperson for the team said : ` connacht rugby can confirm that player mils
 ` as this is a legal matter , connacht rugby will be making no further comment at this time . '
 the allegation is believed to date from connacht 's visit to the cardiff blues on march 6
 muliaina has 100 caps for the all blacks and retired from international rugby after the 2011 world cup victory
-sorry we are not currently accepting comments on this article . 
+sorry we are not currently accepting comments on this article .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
 
-1. The summary states that the arrested person is "UNK UNK," but the article clearly states that the arrested person is Mils Muliaina.
-2. The summary states that Muliaina was arrested on suspicion of sexual assault in relation to an incident in Cardiff, but the article states that he was arrested on suspicion of sexual assault in relation to an incident in March, which is not specific to Cardiff.
-3. The summary states that Muliaina was arrested after his team was defeated in the quarterfinals of the European Challenge Cup, but the article states that he was arrested after his team played against Cardiff Blues on March 6.
-4. The summary states that Muliaina was led away by officers at Kingsholm Stadium, but the article states that he was arrested at Kingsholm Stadium and then led to a police van where he was detained.
-5. The summary states that Muliaina has not been charged with anything, but the article states that he has been handed over to officers from South Wales Police who are investigating the incident.
+UNK UNK has been bailed after being arrested on suspicion of sexual assault .
+the former all black , who denies the allegations , was arrested on suspicion of sexual assault .
+his solicitor matthew de maid said : ' he totally denies all the allegations ' .
+</Summary>
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions, such as the incorrect name of the arrested person, the incorrect location of the incident, and the lack of information about the allegation.
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that UNK UNK has been bailed, but the article does not mention anything about bail.
+2. The summary mentions that the former All Black denies the allegations, but the article does not quote the suspect as denying the allegations. Instead, the article quotes the suspect's solicitor as saying that the suspect "totally denies all the allegations."
+3. The summary does not provide any information about the alleged incident occurring in Cardiff, which is a key detail in the article.
+
+Therefore, the summary is not a consistent summary of the article. It appears to be a incomplete and inaccurate summary that does not capture the key details of the article.
 
 ###Corrected:

@@ -1,21 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sportscaster fred katz challenged crazy eyes warren on orange is the new black 
+<Article>
+(CNN)Admit it, you've been secretly itching for a new cause since last year's Ice Bucket Challenge for ALS left your teeth chattering and raised $115 million. This one's goofier and tastier, and won't leave you needing a change of clothes.  It's the #TwizzlerChallenge. So what's this challenge all about?  Think of the spaghetti scene from "Lady and the Tramp," except substitute a Twizzler for the noodle. Chomp and chomp and chomp until your lips meet in the middle, then smooch.  Simple enough. You're supposed to do a video, of course, and challenge others to do the same for a good cause. The ball got rolling almost two weeks ago on Comedy Central's "Night of Too Many Stars," a fundraiser for autism programs. A tweet from sportscaster Fred Katz challenged the "Today" show's Willie Geist and Uzo Aduba, who plays  Suzanne "Crazy Eyes" Warren on "Orange Is the New Black," to share a "Lady and the Tramp" licorice. It took off from there.  Next thing you knew, Geist was repeating the stunt with Meredith Vieira and the #TwizzlerChallenge was on. Geist and Vieira challenged Matt Lauer and Kathy Lee Gifford.  They were good sports about it, but you may want to close your eyes here.  This isn't for the faint of heart. The challenge is starting to invade social media.  Just search the hashtag #TwizzlerChallenge. It sounds like a sweet deal for the folks at Twizzlers.  Their candy is on the lips of America. And to their credit, a couple of Twizzlers executives took the challenge and donated $10,000. The money goes to New York Collaborates for Autism.  The group funds and creates schools, programs and services for people with autism nationwide. Since 2006, "Night of Too Many Stars" has raised over $22 million.  If this challenge is even half as successful as the Ice Bucket Challenge, that number will triple. See you at the candy counter.
+</Article>
 
-    Article: 
-    (CNN)Admit it, you've been secretly itching for a new cause since last year's Ice Bucket Challenge for ALS left your teeth chattering and raised $115 million. This one's goofier and tastier, and won't leave you needing a change of clothes.  It's the #TwizzlerChallenge. So what's this challenge all about?  Think of the spaghetti scene from "Lady and the Tramp," except substitute a Twizzler for the noodle. Chomp and chomp and chomp until your lips meet in the middle, then smooch.  Simple enough. You're supposed to do a video, of course, and challenge others to do the same for a good cause. The ball got rolling almost two weeks ago on Comedy Central's "Night of Too Many Stars," a fundraiser for autism programs. A tweet from sportscaster Fred Katz challenged the "Today" show's Willie Geist and Uzo Aduba, who plays  Suzanne "Crazy Eyes" Warren on "Orange Is the New Black," to share a "Lady and the Tramp" licorice. It took off from there.  Next thing you knew, Geist was repeating the stunt with Meredith Vieira and the #TwizzlerChallenge was on. Geist and Vieira challenged Matt Lauer and Kathy Lee Gifford.  They were good sports about it, but you may want to close your eyes here.  This isn't for the faint of heart. The challenge is starting to invade social media.  Just search the hashtag #TwizzlerChallenge. It sounds like a sweet deal for the folks at Twizzlers.  Their candy is on the lips of America. And to their credit, a couple of Twizzlers executives took the challenge and donated $10,000. The money goes to New York Collaborates for Autism.  The group funds and creates schools, programs and services for people with autism nationwide. Since 2006, "Night of Too Many Stars" has raised over $22 million.  If this challenge is even half as successful as the Ice Bucket Challenge, that number will triple. See you at the candy counter. 
+<Summary>
+sportscaster fred katz challenged crazy eyes warren on orange is the new black
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary mentions that sportscaster Fred Katz challenged Crazy Eyes Warren on Orange is the New Black, but the article does not mention anything about Orange is the New Black or Crazy Eyes Warren.
-2. The summary implies that the #TwizzlerChallenge is a new cause, but the article states that the challenge has been around for two weeks and started on Comedy Central's "Night of Too Many Stars" fundraiser for autism programs.
-3. The summary mentions that the challenge is for a good cause, but the article does not specify what the cause is. The article only mentions that the money goes to New York Collaborates for Autism.
-4. The summary talks about sportscaster Fred Katz challenging Willie Geist and Uzo Aduba to share a "Lady and the Tramp" licorice, but the article does not mention anything about Fred Katz or Willie Geist.
+1. The summary states that sportscaster Fred Katz challenged Crazy Eyes Warren on Orange is the New Black.
+2. However, the article does not mention anything about Orange is the New Black or Crazy Eyes Warren.
+3. The article only mentions the #TwizzlerChallenge, which is a fundraiser for autism programs, and the participants involved in the challenge, such as Willie Geist, Meredith Vieira, Matt Lauer, and Kathie Lee Gifford.
+4. Therefore, the summary is not consistent with the article, as it mentions a completely different topic (Orange is the New Black) and a fictional character (Crazy Eyes Warren) who does not exist in the article.
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and leaves out important details that are mentioned in the article.
+Overall, the summary is not a correct representation of the article's content. It is important to ensure that the summary accurately reflects the information in the article to maintain consistency and avoid confusion.
 
 ###Corrected:

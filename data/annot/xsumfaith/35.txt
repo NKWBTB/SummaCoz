@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    work has begun on a permanent memorial to the victims of the police attack in westminster. 
-
-    Article: 
-    PC Keith Palmer's murder, in an attack outside the Houses of Parliament in March, prompted "greater emphasis" on the need for a permanent memorial.
+<Article>
+PC Keith Palmer's murder, in an attack outside the Houses of Parliament in March, prompted "greater emphasis" on the need for a permanent memorial.
 The UK Police Memorial Trust appealed for £1.5m towards its construction at the National Memorial Arboretum.
 It is set to bear the names of more than 1,400 officers and staff.
 Sir Hugh Orde, chairman of the trust, said: "PC Palmer's death has put greater emphasis on the need to create a place where the nation can honour and commemorate our police service and where family, friends and colleagues of those killed on duty can go to carry out personal acts of remembrance.
@@ -17,21 +14,25 @@ The memorial, at the site in Alrewas, Staffordshire, will be dedicated to the co
 A brass screen will have leaf shapes cut out and given to the families of fallen officers, with the names of loved ones as a personal memorial.
 Home Secretary Amber Rudd said the government had committed £1m towards the £4m needed for it.
 "It is entirely fitting that those officers and staff who give their lives in the line of duty should be remembered with a lasting tribute," she said.
-The memorial is expected to be completed by 2019. 
+The memorial is expected to be completed by 2019.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+work has begun on a permanent memorial to the victims of the police attack in westminster.
+</Summary>
 
-1. The summary states that work has begun on a permanent memorial to the victims of the police attack in Westminster. However, the article does not mention any memorial to the victims of the Westminster attack. Instead, the article discusses a memorial to honor police officers and staff who have lost their lives over the past 250 years.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention anything about the location of the memorial, but the article states that the memorial will be built at the National Memorial Arboretum in Alrewas, Staffordshire.
+1. The summary states that work has begun on a permanent memorial to the victims of the police attack in Westminster.
+2. However, the article does not mention anything about a memorial to the victims of a police attack in Westminster. Instead, it talks about a memorial to the officers and staff who have lost their lives over the past 250 years.
+3. The article mentions that the memorial will be dedicated to the courage and sacrifice of the officers and staff who have lost their lives, but it does not mention anything about the victims of a police attack in Westminster.
+4. Therefore, the summary is not consistent with the article because it refers to a memorial for the victims of a police attack in Westminster, while the article talks about a memorial for the officers and staff who have lost their lives.
 
-3. The summary mentions nothing about the design of the memorial, but the article explains that the memorial will feature a brass screen with leaf shapes cut out, which will be given to the families of fallen officers as a personal memorial.
+Reasoning step by step:
 
-4. The summary does not mention Amber Rudd or the government's commitment to the memorial, but the article states that the government has committed £1 million towards the £4 million needed for the memorial.
-
-5. Finally, the summary does not mention the expected completion date of the memorial, but the article states that the memorial is expected to be completed by 2019.
-
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary mentions a memorial to the victims of the Westminster attack, which is not mentioned in the article. Additionally, the summary does not mention the location, design, or government commitment to the memorial, all of which are discussed in the article.
+1. The summary mentions a memorial for the victims of a police attack in Westminster.
+2. The article does not mention anything about a memorial for the victims of a police attack in Westminster.
+3. The article talks about a memorial for the officers and staff who have lost their lives over the past 250 years.
+4. Therefore, the summary is not consistent with the article because it refers to a different topic (a memorial for the victims of a police attack in Westminster) than what the article discusses (a memorial for the officers and staff who have lost their lives).
 
 ###Corrected:

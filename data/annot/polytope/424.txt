@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby '  president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865 .  he would roll the agency into another department .  for the state , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .  
-
-    Article: 
-    caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+<Article>
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
 for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
 he would roll the agency into another department .
 what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
@@ -40,20 +37,21 @@ william sparks , a visitor to the outside of the tomb tuesday who took an amtrak
 this is very impressive . '
 critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
 lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
-it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo ) 
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby '  president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865 .  he would roll the agency into another department .  for the state , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination . 
+</Summary>
 
-1. The summary states that the article pilloried the Lincoln Tomb as having "all the historical character of an office lobby," but the article does not mention this phrase.
-2. The summary states that the article was published in the current issue of National Geographic, but the article is actually from February 2014.
-3. The summary states that the article criticized the tomb's interior, but the article actually focuses on the exterior of the tomb and the surrounding area.
-4. The summary states that the article described the tomb as having "all the historical character of an office lobby," but the article does not contain this description.
-5. The summary states that the article was written by the author of the piece, but the article does not have an author listed.
-6. The summary states that the article was published in the current issue of National Geographic, but the article is actually from February 2014.
-7. The summary states that the article criticized the tomb's interior, but the article actually focuses on the exterior of the tomb and the surrounding area.
-8. The summary states that the article described the tomb as having "all the historical character of an office lobby," but the article does not contain this description.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The article does not criticize the tomb's interior, and it does not describe the tomb as having "all the historical character of an office lobby." Additionally, the article is not from the current issue of National Geographic, but rather from February 2014.
+1. The summary states that the popular tourist site was pilloried in this month's issue of National Geographic magazine as having "all the historical character of an office lobby."
+2. The article does not mention any criticism of the tomb's appearance or character. In fact, it highlights the recent repairs and renovations done to the tomb, which have left it in "excellent physical condition."
+3. The summary also states that the president was assassinated by John Wilkes Booth at a performance of the play "Our American Cousin" in April 1865. This is not mentioned in the article.
+4. The summary mentions that the state is facing financial crisis and Gov. Bruce Rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb. This is not mentioned in the article.
+5. The article does mention that the hours and days the tomb is open have been reduced, and it's staffed with fewer employees since state lawmakers last year cut $1.1 million funding for sites in the Springfield area.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article. The summary also contains errors, such as the incorrect date of Lincoln's assassination (April 1865 instead of April 14, 1865) and the incorrect name of the play that Booth performed (Our American Cousin instead of Our American Cousin).
 
 ###Corrected:

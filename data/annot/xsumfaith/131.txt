@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    offenders in england and wales are being turned away from prison for unpaid work, a report has found. 
-
-    Article: 
-    HM Inspectorate of Probation found delays in getting offenders to start their work, and said too many were let off if they did not attend.
+<Article>
+HM Inspectorate of Probation found delays in getting offenders to start their work, and said too many were let off if they did not attend.
 In one case, an offender had completed just 16 hours in the 17 months since he had been sentenced.
 The Ministry of Justice said it was acting on the report's recommendations.
 Anything from 40 to 300 hours of unpaid work - or "community payback" - may be given for offences like shoplifting, theft, drug offences, or criminal damage.
@@ -28,17 +25,21 @@ The chief inspector of probation, Paul Wilson, said it appeared in most cases th
 He called for "urgent remedial action".
 A Ministry of Justice spokesperson said it wanted "much more effective rehabilitation" - which had to start with making sure offenders turned up on time and faced consequences if they did not.
 "It's totally unacceptable for offenders to skip work enforced by the courts.
-"We accept all the recommendations for the Ministry of Justice in this report and are already taking action to implement them." 
+"We accept all the recommendations for the Ministry of Justice in this report and are already taking action to implement them."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+offenders in england and wales are being turned away from prison for unpaid work, a report has found.
+</Summary>
 
-1. The summary states that offenders in England and Wales are being turned away from prison for unpaid work, but the article does not support this claim. Instead, the article states that offenders are being let off if they do not attend unpaid work, which is not the same thing.
-2. The summary implies that the report found that offenders are being turned away from prison, but the article states that the report made 15 recommendations for improvement, including reducing the number of times offenders are turned away from work.
-3. The summary mentions that offenders are being let off if they do not attend unpaid work, but the article does not provide any information about the number of offenders who are being let off or the reasons why they are being let off.
-4. The summary states that the report found that unpaid work is viewed simply as a punishment, but the article does not support this claim. Instead, the article states that the report found that some offenders viewed their sentence positively and were determined to desist from future offending.
-5. The summary implies that the report found that the authorities have not solved the problem of offenders being turned away from unpaid work, but the article states that the Ministry of Justice has accepted all of the report's recommendations and is taking action to implement them.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it makes claims that are not supported by the information in the article, and it does not accurately reflect the findings and recommendations of the report.
+1. The summary states that offenders in England and Wales are being turned away from prison for unpaid work.
+2. However, the article states that the issue is with offenders not being able to start their work, not being turned away from prison.
+3. The article explains that the HM Inspectorate of Probation found delays in getting offenders to start their work, and that too many were let off if they did not attend.
+4. The article also states that the Ministry of Justice is taking action to implement the recommendations from the report, which includes making sure offenders turn up on time and facing consequences if they do not.
+5. Therefore, the summary is not consistent with the article because it states that offenders are being turned away from prison, while the article states that the issue is with delays in starting work and not being able to enforce sentences.
+
+In conclusion, the summary is not accurate because it does not accurately reflect the content of the article. The article discusses delays in starting unpaid work, not offenders being turned away from prison.
 
 ###Corrected:

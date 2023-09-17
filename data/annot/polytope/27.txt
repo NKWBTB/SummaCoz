@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley 
-grealish ( centre ) impressed against liverpool and is wanted by the republic of ireland and england 
-` it 's up to jack where he wants to go .  
-
-    Article: 
-    jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
+<Article>
+jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
 sherwood has been impressed with the 19-year-old who starred for villa in their fa cup semi-final win over liverpool on sunday and is now at the centre of a tug of war between the republic of ireland and england .
 but sherwood wants grealish to focus on continuing to force his way into the villa first team .
 jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley
@@ -37,16 +32,24 @@ he had a good game against [ liverpool ] and a few games decent recently and he 
 ` it is going to be a difficult decision and it is completely up to jack .
 ` there is a friendly coming up soon and he could play 45 minutes for ireland and 45 minutes for england .
 grealish ( left ) has played for the republic of ireland 's youth teams but england will hope to turn his head
-tim sherwood celebrates villa 's win over liverpool and wants more of the same from grealish 
+tim sherwood celebrates villa 's win over liverpool and wants more of the same from grealish
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley 
+grealish ( centre ) impressed against liverpool and is wanted by the republic of ireland and england 
+` it 's up to jack where he wants to go . 
+</Summary>
 
-1. The summary states that Tim Sherwood wants Jack Grealish to concentrate on his international future, but the article states that Sherwood wants Grealish to focus on continuing to force his way into the Aston Villa first team.
-2. The summary implies that Grealish is wanted by both the Republic of Ireland and England, but the article only mentions that he is wanted by both countries and does not specify that he is split between them.
-3. The summary states that Sherwood wants Grealish to decide where he wants to go, but the article quotes Sherwood as saying that it is purely up to Grealish to make that decision.
-4. The summary does not mention that Sherwood wants Grealish to concentrate on his club football first, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it does not accurately reflect the content and tone of the article.
+The provided summary is not consistent with the article because it only highlights one aspect of the article, which is Jack Grealish's performance against Liverpool, and does not capture the main point of the article. Here's a step-by-step explanation of why the summary is not consistent with the article:
+
+1. The summary only mentions Jack Grealish's performance against Liverpool, while the article discusses his overall performance for Aston Villa and his potential transfer to either the Republic of Ireland or England.
+2. The summary does not mention Tim Sherwood's advice to Grealish to focus on his Aston Villa career, which is a key point in the article.
+3. The summary does not mention the tug of war between the Republic of Ireland and England for Grealish's services, which is another important aspect of the article.
+4. The summary does not provide any context about the article's content, such as the fact that Grealish is only 19 years old and has already impressed for Aston Villa in the FA Cup semi-final.
+
+Overall, the summary does not accurately represent the content of the article and only highlights one aspect of Grealish's performance, which is not the main focus of the article.
 
 ###Corrected:

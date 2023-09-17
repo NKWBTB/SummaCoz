@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
-after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive . 
-
-    Article: 
-    a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
+<Article>
+a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
 star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
 after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
 jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star
@@ -42,17 +38,21 @@ returned home where she has since made a good recovery .
 i ca n't thank her enough , ' her other added .
 speaking of the decision , shanell said : ` i did n't hesitate to step forward to save star .
 she 's my niece and i would do anything to help her . '
-since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver 
+since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
+after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
+</Summary>
 
-1. The summary states that Star's parents were told she would need a liver transplant in order to survive, but the article states that the family's only option was a liver transplant after an unsuccessful attempt to unclog Star's blocked bile ducts.
-2. The summary mentions that Star's parents were not suitable matches for a partial liver transplant, but the article states that neither parent was a good enough candidate for the surgery.
-3. The summary states that Star's twin sister Shanell gave up part of her liver to save her niece, but the article states that Shanell was tested and told that she would give the baby the best chance of survival.
-4. The summary does not mention the fact that Star underwent the Kasai procedure, a surgery that allows bile to drain directly into the bowel, before being transplanted with her aunt's liver.
-5. The summary does not mention the fact that Star's aunt Shanell had to undergo a liver transplant herself after giving part of her liver to Star.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the details of the article, particularly with regards to the order of events and the roles of the different family members involved in Star's treatment.
+1. The summary states that Star Reader was diagnosed with biliary atresia within days of being born in Barnsley, West Yorkshire.
+2. The article states that Star was diagnosed with jaundice within days of being born, and her parents were told that she would need a liver transplant to survive.
+3. The summary does not mention anything about jaundice or the need for a liver transplant.
+4. Therefore, the summary is not consistent with the article because it does not include all the necessary information about Star's condition and treatment.
+
+The reason for this inconsistency is likely that the summary was created without including all the relevant information from the article. The summary may have been intended to provide a brief overview of the article, but it does not include enough information to accurately represent the content of the article.
 
 ###Corrected:

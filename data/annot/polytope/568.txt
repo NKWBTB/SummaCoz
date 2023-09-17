@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    arsenal and liverpool fans left empty seats empty at the emirates stadium .
-fans are ' disgusted ' at the continuing rise of ticket prices .
-fans are ' disgusted ' at the continuing rise of ticket prices . 
-
-    Article: 
-    a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
+<Article>
+a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
 supporters from both clubs say they are ` disgusted ' at the continuing rise of ticket prices , with the protest coming in the aftermath of the announcement of the premier league 's £ 5.14 billion tv rights deal with banners held up inside and outside the ground .
 with tickets at the sold-out emirates starting from £ 64 for the 12.45 pm kick-off , protesters hope the image of empty seats around the ground will raise awareness of the struggles fans face to meet the rising costs of following their clubs .
 fans inside the emirates stadium display a banner reading : ' £ 5bn and what do we get ?
@@ -29,18 +24,21 @@ away fans help make the event but have to pay extortionate prices .
 then we 're told to " sit down , shut up " . '
 roy bentham of spirit of shankly said : ` we want tangible reductions in line with what working class people earn .
 we may lose a generation or more of fans otherwise unless the footballing authorities wake up . '
-further protests are expected after full-time at the emirates . 
+further protests are expected after full-time at the emirates .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+arsenal and liverpool fans left empty seats empty at the emirates stadium .
+fans are ' disgusted ' at the continuing rise of ticket prices .
+fans are ' disgusted ' at the continuing rise of ticket prices .
+</Summary>
 
-1. The summary states that "arsenal and liverpool fans left empty seats empty at the emirates stadium." However, the article states that only a section of fans left their seats empty, not all fans.
-2. The summary claims that fans are "disgusted" at the continuing rise of ticket prices, which is supported by the article. However, the summary does not provide any specific details about the protest or the reasons behind it, unlike the article.
-3. The article states that the protest was held in response to the Premier League's £5.14 billion TV rights deal and the high ticket prices at the Emirates Stadium. The summary does not mention these details.
-4. The article mentions that fans from both clubs gathered outside the stadium before kick-off to show off banners against the rising costs of modern football. The summary does not mention this detail.
-5. The article quotes Kelvin Meadows of Arsenal's Black Scarf Movement as saying that ticket prices are "extortionate." The summary does not include this quote.
-6. The article mentions that fans are uniting against the high ticket prices and that the protest is not just limited to Arsenal and Liverpool fans, but also other fan groups. The summary does not mention this detail.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide a complete and accurate representation of the article. It omits specific details about the protest, the reasons behind it, and the quotes from fans and fan groups. Therefore, the summary is not consistent with the article.
+1. The summary states that Arsenal and Liverpool fans left empty seats empty at the Emirates Stadium, but the article does not mention anything about empty seats.
+2. The summary mentions that fans are "disgusted" at the continuing rise of ticket prices, but the article does not quote any fans using that specific word.
+3. The summary does not provide any specific information about the protest or the reasons behind it, while the article provides detailed information about the protest and the fans' concerns about ticket prices.
+
+Therefore, the summary is not consistent with the article. The summary does not accurately convey the information or the tone of the article. It appears to be a brief and incomplete summary of the article, missing key details and using different language to describe the fans' feelings.
 
 ###Corrected:

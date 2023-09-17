@@ -1,28 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    darlington council has rubber stamped moves aimed at making # 10m savings over the next four years. 
-
-    Article: 
-    Plans include relocating the town's Central Library and cutting back on the Citizens Advice Bureau.
+<Article>
+Plans include relocating the town's Central Library and cutting back on the Citizens Advice Bureau.
 The council will also work with traders to find a private buyer for the town's Victorian indoor market.
 The Labour-run authority said it was implementing the cuts "with a heavy heart" and blamed "severe austerity cuts imposed by central government".
 Councillor Bill Dixon, leader of the authority, said that tough choices had been made, but local people had been able to comment during a public consultation.
 "There were other cuts that people didn't want us to make," he said.
 "Withdrawing school patrol crossings for example - some authorities have done that, this authority decided not to."
 Responding to protesters opposed to the relocation of the Crown Street Library to the Dolphin Centre, he said:  "I was born and bred in the town.
-"I do understand the attachment to Crown Street Library, but we should emphasise we are not closing the library but moving it." 
+"I do understand the attachment to Crown Street Library, but we should emphasise we are not closing the library but moving it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+darlington council has rubber stamped moves aimed at making # 10m savings over the next four years.
+</Summary>
 
-1. The summary states that Darlington Council has "rubber stamped moves aimed at making #10m savings over the next four years." However, the article does not mention anything about rubber stamping. Instead, it talks about the council making tough choices and implementing cuts due to severe austerity cuts imposed by central government.
-2. The summary mentions savings of #10m over four years, but the article only talks about specific cuts totaling #3.5m over two years. The article does mention that the council plans to make further cuts in the future, but it does not provide a specific figure.
-3. The summary states that the council is making these cuts "with a heavy heart," but the article does not mention this phrase. Instead, the article quotes the council leader as saying that tough choices had been made, but local people had been able to comment during a public consultation.
-4. The summary mentions the relocation of the Crown Street Library to the Dolphin Centre, but the article does not mention this. Instead, the article talks about the council considering the relocation of the library as part of its budget-cutting measures, but it does not provide any information about the council's final decision on this matter.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the scope and impact of the council's cuts, and it misrepresents the council's motivations and actions. The article provides a more balanced and nuanced view of the council's budget-cutting measures, and it does not support the sensationalist language used in the summary.
+1. The summary states that Darlington Council has "rubber stamped moves aimed at making #10m savings over the next four years." This implies that the council has approved a set of measures to achieve significant cost savings.
+2. However, the article states that the council is implementing cuts "with a heavy heart" and blames "severe austerity cuts imposed by central government." This suggests that the council is not actively choosing to make these cuts, but rather is being forced to do so by external factors.
+3. The article mentions specific cuts that the council is making, such as relocating the Central Library and cutting back on the Citizens Advice Bureau. These cuts are not mentioned in the summary.
+4. The summary does not provide any information about the reasons for the cuts or the council's reluctance to make them, which is mentioned in the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the reasons for the cuts and the council's attitude towards them. The summary presents the cuts as a deliberate choice by the council to achieve savings, while the article portrays the cuts as a result of external factors and a reluctant decision by the council.
 
 ###Corrected:

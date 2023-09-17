@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a newspaper in the russian republic of chechnya has passed a resolution to condemn the publication of a report by chechnya\'s state news agency 
-
-    Article: 
-    Chechen Muslim clerics met on 3 April, two days after the paper's revelations, and said the report had insulted their faith and the dignity of Chechen men.
+<Article>
+Chechen Muslim clerics met on 3 April, two days after the paper's revelations, and said the report had insulted their faith and the dignity of Chechen men.
 "Retribution will catch up with the true instigators, wherever and whoever they are," their resolution said.
 Novaya Gazeta says it amounts to a call for "reprisals against journalists".
 "We urge the Russian authorities to do everything possible to prevent actions aimed at inciting hatred and enmity towards journalists, who are doing their professional duty," the paper said.
@@ -24,23 +21,19 @@ In an open letter to the mufti, the paper's chief editor Dmitry Muratov said his
 Chechens have been linked to two murders of Novaya Gazeta reporters who investigated crimes in Chechnya - Anna Politkovskaya and Natalia Estemirova.
 But much remains unclear about those contract killings, and that of Boris Nemtsov, an opposition politician who was shot dead in Moscow in 2015 and also exposed corruption and organised crime in Chechnya.
 The LGBT Network says it is helping people to flee the persecution in Chechnya and accuses the Russian authorities of ignoring the abuses.
-If Russia fails to prosecute anyone, it says it will file a case at the International Criminal Court in The Hague. 
+If Russia fails to prosecute anyone, it says it will file a case at the International Criminal Court in The Hague.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+a newspaper in the russian republic of chechnya has passed a resolution to condemn the publication of a report by chechnya\'s state news agency
+</Summary>
 
-Step 1: The summary states that the newspaper in Chechnya passed a resolution to condemn the publication of a report by Chechnya's state news agency.
+Explain your reasoning step by step:[/INST]
 
-Inconsistency: The article does not mention any resolution passed by a newspaper in Chechnya. Instead, it reports that Chechen Muslim clerics met and condemned the report, and that the Russian LGBT Network confirmed the allegations of homophobic detentions and killings in Chechnya.
-
-Step 2: The summary states that the report had insulted the faith and dignity of Chechen men.
-
-Inconsistency: The article does not mention any insult to the faith or dignity of Chechen men. Instead, it reports that the report exposed human rights abuses, including the detention and killing of homosexual men, and that the Russian LGBT Network confirmed the allegations.
-
-Step 3: The summary states that the report was true.
-
-Inconsistency: The article does not make any statement about the truth or accuracy of the report. Instead, it reports that the Russian LGBT Network confirmed the allegations of homophobic detentions and killings in Chechnya.
-
-Overall, the summary is not consistent with the article because it misrepresents the content of the article and omits key details. The article does not mention any resolution passed by a newspaper in Chechnya, and it does not state that the report was true or that it insulted the faith or dignity of Chechen men. Instead, it reports on the human rights abuses exposed in the report and the response of Chechen Muslim clerics and the Russian LGBT Network.
+1. The summary states that a newspaper in Chechnya has passed a resolution to condemn the publication of a report by Chechnya's state news agency.
+2. However, the article states that the report was published by Novaya Gazeta, a Russian newspaper, not by Chechnya's state news agency.
+3. Therefore, the summary is not consistent with the article, as the resolution passed by the Chechen newspaper is not related to the report published by Novaya Gazeta.
+4. The article actually reports on the backlash against Novaya Gazeta's report on the detention of over 100 people suspected of being gay in Chechnya, and the resolution passed by Chechen clerics condemning the report as an insult to their faith and the dignity of Chechen men.
+5. So, the summary is not only not consistent with the article, but it also does not accurately reflect the content of the article.
 
 ###Corrected:

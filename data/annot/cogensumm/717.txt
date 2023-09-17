@@ -1,54 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jury told the duo had planned to carry out a robbery via text messages. 
+<Article>
+A 13-year-old boy has become one of the youngest people in Britain to be convicted of murder after he stamped on a woman so hard he left a shoe print on her face. The schoolboy, who cannot be named for legal reasons, punched charity worker Glynis Bensley, 47, in the head and stamped on her  before stealing her money, phone and jewellery. Ms Bensley was found dead in a pool of blood with her head in the gutter in Smethwick, West Midlands, moments after the violent battering in September last year. The child robber stood trial alongside Zoheb Majid, 20, from Smethwick, who was found guilty of robbery and manslaughter. A 13-year-old boy has become one of the youngest people in Britain to be convicted of murder after he stamped on a woman so hard he left a shoe print on her face (pictured is the scene in Smethwick) A jury at Wolverhampton Crown Court heard how the duo had planned to carry out a robbery via text messages a fortnight before the murder. Mrs Bensley was on her way home from the Seven Stars when she was knocked to the ground by the schoolboy. CCTV footage revealed that  Majid arrived on his bicycle moments later and the pair turned their victim over, stealing from her pockets. A post-mortem examination of Ms Bensley revealed she died from a severe bleed on the brain. After the attack, the schoolboy fled to nearby Victoria Park to meet up with friends and was heard boasting about the murder and selling a gold bracelet. Both robbers claimed they believed the victim was a man because of Ms Bensley's clothing and hairstyle. Detective Chief Inspector Sam Ridding, of West Midlands Police, said: 'It was clearly the joint intention of the pair to use violence on anyone they targeted. Ms Bensley was found dead in a pool of blood with her head in the gutter in Smethwick, West Midlands, moments after the violent battering in September last year . 'They were in it together as the CCTV showed - they arrived within seconds of each other. 'Ms Bensley was tragically in the wrong place at the wrong time and was randomly picked out by the pair believing that she was a man and that she was wearing a gold bracelet. 'The brutal attack was captured on CCTV lasting 32 seconds. 'Our thoughts remain with Glynis' family at this time and we hope that today's verdict will provide some help in their grieving process.' Ms Bensley's sister Dawn, 55, from Smethwick, said: 'We are a very close and supportive family and always look out for each other. 'To try and explain how Glynis' murder has affected us is very hard to put into words. 'Glynis was my only sister and best friend. I would describe her as my right arm and I thought we would grow old together.' A full statement from the victim's family read: 'We as individuals and collectively as a family have lost a great friend. 'We are unable to express in words the impact that our loss is having on our family. 'Whilst we get on with the day-to-day trivialities of life, the circumstances of Glynis' death remind us all of the important things in life. 'At the time of Glynis' death she was upbeat and looking forward to family holidays and celebrations including her own birthday later that month. 'Glynis spent her life caring for others working in roles for the British Heart Foundation, animal welfare, and was also an active fundraiser for charity's Cancer Research, Mencap and Cystic Fibrosis. 'The family would like to acknowledge and thank the family liaison team for taking us through this dark period. 'They would also like to offer sincere thanks to Mr Atkins QC and the investigation team.' Sorry we are not currently accepting comments on this article.
+</Article>
 
-    Article: 
-    A 13-year-old boy has become one of the youngest people in Britain to be convicted of murder after he stamped on a woman so hard he left a shoe print on her face. The schoolboy, who cannot be named for legal reasons, punched charity worker Glynis Bensley, 47, in the head and stamped on her  before stealing her money, phone and jewellery. Ms Bensley was found dead in a pool of blood with her head in the gutter in Smethwick, West Midlands, moments after the violent battering in September last year. The child robber stood trial alongside Zoheb Majid, 20, from Smethwick, who was found guilty of robbery and manslaughter. A 13-year-old boy has become one of the youngest people in Britain to be convicted of murder after he stamped on a woman so hard he left a shoe print on her face (pictured is the scene in Smethwick) A jury at Wolverhampton Crown Court heard how the duo had planned to carry out a robbery via text messages a fortnight before the murder. Mrs Bensley was on her way home from the Seven Stars when she was knocked to the ground by the schoolboy. CCTV footage revealed that  Majid arrived on his bicycle moments later and the pair turned their victim over, stealing from her pockets. A post-mortem examination of Ms Bensley revealed she died from a severe bleed on the brain. After the attack, the schoolboy fled to nearby Victoria Park to meet up with friends and was heard boasting about the murder and selling a gold bracelet. Both robbers claimed they believed the victim was a man because of Ms Bensley's clothing and hairstyle. Detective Chief Inspector Sam Ridding, of West Midlands Police, said: 'It was clearly the joint intention of the pair to use violence on anyone they targeted. Ms Bensley was found dead in a pool of blood with her head in the gutter in Smethwick, West Midlands, moments after the violent battering in September last year . 'They were in it together as the CCTV showed - they arrived within seconds of each other. 'Ms Bensley was tragically in the wrong place at the wrong time and was randomly picked out by the pair believing that she was a man and that she was wearing a gold bracelet. 'The brutal attack was captured on CCTV lasting 32 seconds. 'Our thoughts remain with Glynis' family at this time and we hope that today's verdict will provide some help in their grieving process.' Ms Bensley's sister Dawn, 55, from Smethwick, said: 'We are a very close and supportive family and always look out for each other. 'To try and explain how Glynis' murder has affected us is very hard to put into words. 'Glynis was my only sister and best friend. I would describe her as my right arm and I thought we would grow old together.' A full statement from the victim's family read: 'We as individuals and collectively as a family have lost a great friend. 'We are unable to express in words the impact that our loss is having on our family. 'Whilst we get on with the day-to-day trivialities of life, the circumstances of Glynis' death remind us all of the important things in life. 'At the time of Glynis' death she was upbeat and looking forward to family holidays and celebrations including her own birthday later that month. 'Glynis spent her life caring for others working in roles for the British Heart Foundation, animal welfare, and was also an active fundraiser for charity's Cancer Research, Mencap and Cystic Fibrosis. 'The family would like to acknowledge and thank the family liaison team for taking us through this dark period. 'They would also like to offer sincere thanks to Mr Atkins QC and the investigation team.' Sorry we are not currently accepting comments on this article. 
+<Summary>
+jury told the duo had planned to carry out a robbery via text messages.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the given summary is not consistent with the article. Here are the steps:
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Step 1: Read the summary and the article carefully.
+1. The summary states that the jury was told that the duo planned to carry out a robbery via text messages. However, the article does not mention anything about text messages.
+2. The article states that the duo was convicted of murder and robbery, but the summary does not mention the word "murder."
+3. The summary does not mention the victim's name, Glynis Bensley, or any details about her death, such as the fact that she was found with a shoe print on her face or that she died from a severe bleed on the brain.
+4. The summary does not mention the CCTV footage that showed the duo arriving at the scene and turning their victim over, stealing from her pockets.
+5. The summary does not mention the detective's statement about the pair's intention to use violence on anyone they targeted or the fact that the victim was randomly picked out because of her clothing and hairstyle.
 
-Step 2: Identify the key points in the summary and the article.
-
-Step 3: Compare the key points in the summary with the article.
-
-Step 4: Identify the inconsistencies, if any.
-
-Step 5: Analyze the reasons for the inconsistencies.
-
-Let's go through these steps:
-
-Step 1: Read the summary and the article carefully.
-
-Step 2: Identify the key points in the summary and the article.
-
-The summary mentions the following points:
-
-* The duo planned to carry out a robbery via text messages.
-* The victim was stamped on so hard that a shoe print was left on her face.
-* The victim died from a severe bleed on the brain.
-
-The article mentions the following points:
-
-* A 13-year-old boy was convicted of murder after he stamped on a woman so hard that he left a shoe print on her face.
-* The victim, Glynis Bensley, was found dead in a pool of blood with her head in the gutter in Smethwick, West Midlands.
-* The boy and his accomplice, Zoheb Majid, were found guilty of robbery and manslaughter.
-
-Step 3: Compare the key points in the summary with the article.
-
-The summary mentions planning to carry out a robbery via text messages, but the article does not mention this. Instead, the article focuses on the brutal attack and the victim's death.
-
-Step 4: Identify the inconsistencies, if any.
-
-The summary is inconsistent with the article because it mentions planning to carry out a robbery via text messages, which is not mentioned in the article.
-
-Step 5: Analyze the reasons for the inconsistencies.
-
-The inconsistency may be due to the fact that the summary is based on a different source or information that is not present in the article. Alternatively, the summary may have been written based on incomplete or inaccurate information.
+Overall, the summary does not provide a complete or accurate summary of the article. It leaves out important details about the case and misrepresents the information provided in the article.
 
 ###Corrected:

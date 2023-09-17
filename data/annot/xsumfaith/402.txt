@@ -1,25 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england prop mako vunipola has been ruled out of the rest of the six nations with a knee injury. 
-
-    Article: 
-    The 24-year-old, capped 32 times by England, has been out of action since November with a knee injury.
+<Article>
+The 24-year-old, capped 32 times by England, has been out of action since November with a knee injury.
 However, it is understood his recovery has progressed quicker than expected.
 Vunipola could now be in contention to face Scotland on 11 March, or Ireland a week later.
 He was one of England's outstanding performers throughout their unbeaten year of 2016, and his ball-carrying and dynamism has been missed by Eddie Jones' side.
 There were initial fears Vunipola would miss the whole of England's Six Nations title defence, but it is understood he has looked sharp on his return to full training this week, and is targeting a quick return to international rugby.
-Vunipola's older brother, Mako, recently made his own comeback from a knee problem, and came off the bench in the win over Italy. 
+Vunipola's older brother, Mako, recently made his own comeback from a knee problem, and came off the bench in the win over Italy.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+england prop mako vunipola has been ruled out of the rest of the six nations with a knee injury.
+</Summary>
 
-1. The summary states that Mako Vunipola has been ruled out of the rest of the Six Nations, but the article states that he could be in contention to face Scotland on March 11 or Ireland a week later.
-2. The summary mentions that Mako Vunipola has been out of action since November with a knee injury, which is correct. However, the article states that his recovery has progressed quicker than expected, which contradicts the summary's statement that he has been ruled out for the rest of the Six Nations.
-3. The summary does not mention the fact that Mako Vunipola's older brother, Billy, has also recently made his comeback from a knee problem and came off the bench in the win over Italy.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. Specifically, it states that Mako Vunipola has been ruled out for the rest of the Six Nations, which is not supported by the article.
+1. The article states that Vunipola has been out of action since November with a knee injury, but his recovery has progressed quicker than expected.
+2. The summary states that Vunipola has been ruled out of the rest of the Six Nations with a knee injury.
+3. These two statements are contradictory, as the article suggests that Vunipola's recovery is progressing quickly and he could be in contention to face Scotland or Ireland, while the summary states that he has been ruled out of the rest of the Six Nations.
+4. Therefore, the summary is not consistent with the article, and it is likely that the summary is incorrect.
+5. The article does not mention anything about Vunipola being ruled out of the rest of the Six Nations, so it is likely that the summary was based on incorrect information or an incorrect interpretation of the article.
 
 ###Corrected:

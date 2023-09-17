@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tesco is looking to unveil its chief executive, yulia tesco,\'s chief executive of the supermarket chain, ksfa, 
-
-    Article: 
-    The British supermarket giant, the world's third largest retailer, has been looking to dispose of its loss-making US food chain for some time.
+<Article>
+The British supermarket giant, the world's third largest retailer, has been looking to dispose of its loss-making US food chain for some time.
 Around 4,000 of Fresh & Easy's 5,000 employees are to transfer to the new business as part of the deal.
 Tesco said in a statement that this is an "orderly and efficient exit from the US market".
 Under the terms of the deal, Tesco will loan the new business around Â£80m.
@@ -15,18 +12,21 @@ Tesco did not specify which stores are being transferred to Yucaipa, but it is u
 It will cost Tesco Â£150m to dispose of the Fresh & Easy brand, but part of that is a loan which may be paid back.
 Also, if Yucaipa is sucessful and the business becomes profitable, Tesco has the option to buy a stake.
 Yucaipa is a Los Angeles based private equity company focused on supermaket and restaurant businesses and is run by billionaire investor Ron Burkle.
-In April of this year, Tesco reported its first fall in annual profits for 20 years. 
+In April of this year, Tesco reported its first fall in annual profits for 20 years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+tesco is looking to unveil its chief executive, yulia tesco,\'s chief executive of the supermarket chain, ksfa,
+</Summary>
 
-1. The summary mentions "Yulia Tesco" as the Chief Executive of Tesco, but there is no mention of such a person in the article. The correct name is "Dave Lewis" who has been the CEO of Tesco since 2014.
-2. The summary states that Tesco is looking to unveil its Chief Executive, but the article does not mention anything about Tesco looking to unveil a new CEO. Instead, the article states that Tesco has been looking to dispose of its loss-making US food chain for some time.
-3. The summary mentions that 4,000 of Fresh & Easy's 5,000 employees will transfer to the new business as part of the deal, but the article does not mention anything about the transfer of employees.
-4. The summary states that Tesco will loan the new business around £80m, but the article does not mention this detail. Instead, the article states that Tesco will dispose of its Fresh & Easy brand at a cost of £150m.
-5. The summary mentions that Yucaipa is a Los Angeles-based private equity company, but the article does not mention the location of the company.
-6. The summary states that Tesco has the option to buy a stake in the new business if it becomes profitable, but the article does not mention this detail.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and omissions. The correct information about Tesco's disposal of its Fresh & Easy chain can be found in the article.
+1. The summary mentions "tesco is looking to unveil its chief executive, yulia tesco," which is not present in the article. The article does not mention anything about a chief executive named Yulia Tesco.
+2. The summary also mentions "ksfa," which is not a valid term or name mentioned in the article.
+3. The article is about Tesco, a British supermarket giant, looking to dispose of its loss-making US food chain, Fresh & Easy, and the transfer of 4,000 employees to a new business. The summary does not mention anything about Fresh & Easy or the transfer of employees.
+4. The article mentions that Tesco will loan the new business around Â£80m, but the summary does not mention this.
+5. The article mentions that Tesco will dispose of the Fresh & Easy brand for Â£150m, but the summary does not mention this.
+
+Therefore, the summary is not consistent with the article as it mentions non-existent entities and events, and leaves out important details mentioned in the article.
 
 ###Corrected:

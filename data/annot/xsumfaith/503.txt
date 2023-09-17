@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ``maverick\'\'is a word that seems to follow craig venter around. 
-
-    Article: 
-    The biologist and entrepreneur turned the effort to map the human genome into a competitive race and, in so doing, was vilified by the scientific community.
+<Article>
+The biologist and entrepreneur turned the effort to map the human genome into a competitive race and, in so doing, was vilified by the scientific community.
 Dr Venter has certainly not gained a reputation for modesty about his achievements. "Is my science of a level consistent with other people who have gotten the Nobel? Yes," he was once quoted as saying.
 And he is a very wealthy user of Lear Jets and private yachts.
 But his efforts in the field of human genomics have undeniably helped speed up the entire process.
@@ -31,17 +28,21 @@ But he has pursued other projects in the meantime. Dr Venter has roamed the ocea
 The project aims to sequence genomes from the vast range of microbes living in the sea, to provide scientists with a better understanding of the evolution and function of genes and proteins.
 The synthetic life breakthrough, when it was announced, was not without controversy. But Dr Venter will have come to expect that.
 "I think they're going to potentially create a new industrial revolution," he said of the synthetic microbes.
-"If we can really get cells to do the production that we want, they could help wean us off oil and reverse some of the damage to the environment by capturing carbon dioxide." 
+"If we can really get cells to do the production that we want, they could help wean us off oil and reverse some of the damage to the environment by capturing carbon dioxide."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+``maverick\'\'is a word that seems to follow craig venter around.
+</Summary>
 
-1. The summary states that Craig Venter is known for the word "maverick," but the article does not mention this.
-2. The summary states that Venter turned his attention to creating a synthetic life form after the human genome project, but the article states that he started working on the synthetic life project in 2006, after the human genome project was completed.
-3. The summary states that Venter's work on the human genome project was "vilified by the scientific community," but the article does not mention any criticism of Venter's work on the human genome project.
-4. The summary states that Venter's success with the human genome project was "shocking" to some, but the article does not use the word "shocking" to describe Venter's achievement.
-5. The summary states that Venter's work on the synthetic life form was "controversial," but the article does not mention any specific controversy surrounding the project.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents a sensationalized and inaccurate portrayal of Craig Venter's work and achievements, and is not consistent with the information presented in the article.
+1. The summary states that Craig Venter is a maverick, but the article does not provide any information that supports this claim.
+2. The article actually portrays Venter as a driven and ambitious scientist who has made significant contributions to the field of genomics, but it does not mention any behavior or actions that would justify the label of "maverick."
+3. The word "maverick" typically connotes someone who is unconventional, rebellious, or independent, but the article does not suggest that Venter has acted in any of these ways.
+4. Instead, the article highlights Venter's achievements, such as his role in the Human Genome Project and his creation of the first synthetic life form, and it portrays him as a successful and influential scientist.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the information provided in the article.
+
+Overall, the summary is not a fair representation of the article's content, and it does not provide a clear or accurate summary of the information presented.
 
 ###Corrected:

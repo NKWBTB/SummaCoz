@@ -1,25 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a human limb has been found in a park in bristol. 
-
-    Article: 
-    The limb was found in a garden in Cranwells Park on Wednesday and has been sent for forensic analysis, Avon and Somerset Police said.
+<Article>
+The limb was found in a garden in Cranwells Park on Wednesday and has been sent for forensic analysis, Avon and Somerset Police said.
 A force spokesman said detectives were "keeping an open mind" as to whether it was linked to two similar incidents in the city.
 All three feet have been found within a few hundred yards of each other.
 Tests showed the first foot found in Weston Park East in February was  "probably" a medical teaching aid. The second foot, found last month in the same area, is still undergoing tests.
-"The same officers are looking into the latest discoveries and will look to confirm beyond all reasonable doubt that they are linked and if there are any new lines of inquiry which can be taken forward," the spokesman added. 
+"The same officers are looking into the latest discoveries and will look to confirm beyond all reasonable doubt that they are linked and if there are any new lines of inquiry which can be taken forward," the spokesman added.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a human limb has been found in a park in bristol.
+</Summary>
 
-1. The summary states that the limb was found in a park in Bristol, while the article states that the limb was found in a garden in Cranwells Park. This is inconsistent, as the article specifically mentions that the limb was found in a garden, while the summary does not mention this detail.
-2. The summary states that the limb was found on Wednesday, while the article does not mention the specific day that the limb was found. This inconsistency could indicate that the summary is not accurately based on the article.
-3. The summary states that the limb was sent for forensic analysis, while the article states that the first foot found in Weston Park East in February was "probably" a medical teaching aid, and the second foot found last month in the same area is still undergoing tests. This inconsistency suggests that the summary may not be accurate in its description of the current state of the investigation.
-4. The summary does not mention the possibility that the limb may be a medical teaching aid, as the article suggests. This inconsistency could indicate that the summary is not accurately based on the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the inconsistencies between the summary and the article suggest that the summary is not an accurate representation of the content of the article.
+1. The summary states that a human limb has been found in a park in Bristol.
+2. The article does not mention anything about a human limb being found in a park. Instead, it mentions that a limb was found in a garden in Cranwells Park.
+3. The article also states that the limb has been sent for forensic analysis, which suggests that the police are taking the discovery seriously and are trying to determine its origin.
+4. The summary does not provide any information about the police investigation or the potential significance of the discovery.
+
+Therefore, the summary is not consistent with the article because it does not accurately convey the information in the article. Specifically, it misleadingly implies that a human limb was found in a park, when in fact the limb was found in a garden. Additionally, the summary does not provide any context or information about the police investigation, which is a significant aspect of the article.
 
 ###Corrected:

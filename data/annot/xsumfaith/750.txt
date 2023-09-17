@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    daisy daisy and daisy [UNK] have shared rare cloned sheep through a [UNK] pen in a barn on a farm in nottingham. 
-
-    Article: 
-    "I'm feeling the joints for any kind of heat or swelling."
+<Article>
+"I'm feeling the joints for any kind of heat or swelling."
 Veterinary surgeon Dr Sandra Corr puts Daisy the sheep through a very hands-on physical examination.
 "I'm looking for any signs of crepitus or lameness," she says, "Anything that might indicate the onset of disease or osteoarthritis."
 But Daisy is not just any sheep. She's a clone. One of a flock of 13 cloned sheep currently living out their lives on a farm owned by the University of Nottingham, and one of only four (the others are Debbie, Denise and Diane) cloned from the same adult ewe as Dolly the sheep - the first cloned mammal born in 1996.
@@ -26,20 +23,21 @@ But by then Dolly was already suffering from osteoarthritis which, although not 
 Getting the answers to those questions has involved putting the dollies, and nine other sheep cloned from different cell lines, through an exhaustive battery of tests and assessments including regular joint X-rays and a series of full-body fMRI scans.
 Prof Sinclair said: "We focused on three co-morbidities: cardiovascular disease, diabetes and osteoarthritis - the three co-morbidities most associated with aging. Were these animals any different from the wider population of sheep with regard to these particular co-morbidities."
 The results of the study, which could have profound implications for the future of cloning, will be published next week. But for now, the dollies, which are approaching their ninth and tenth birthdays, seem to be in rude health.
-Follow Tom on Twitter. 
+Follow Tom on Twitter.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+daisy daisy and daisy [UNK] have shared rare cloned sheep through a [UNK] pen in a barn on a farm in nottingham.
+</Summary>
 
-1. The summary mentions "daisy daisy and daisy [UNK]", but there is no mention of these names in the article. The article only mentions "Daisy" and "Dolly" as the names of the cloned sheep.
-2. The summary mentions "a [UNK] pen in a barn on a farm in Nottingham", but the article does not mention a specific pen or barn. The article states that the sheep are living on a farm owned by the University of Nottingham.
-3. The summary mentions "rare cloned sheep", but the article does not use the word "rare". The article states that the sheep are cloned from the same adult ewe as Dolly the sheep.
-4. The summary mentions "a couple of generations in sheep-years", but the article does not mention generations or sheep-years. The article states that the sheep are currently living out their lives on a farm.
-5. The summary mentions "joint manipulations", but the article does not mention joint manipulations. The article states that the sheep are being put through a set of exacting, methodical tests, but it does not specify what these tests involve.
-6. The summary mentions "the fate of the whole science of cloning", but the article does not mention the fate of cloning or the science of cloning. The article focuses on the health of the cloned sheep and the results of the study.
-7. The summary mentions "age-memory", but the article does not mention age-memory. The article states that the cloning process involves extracting DNA from the cell of an adult animal, which may result in the transfer of age-related cellular senescence to the next generation.
-8. The summary mentions "illnesses like arthritis that are associated with old age", but the article does not mention arthritis or old age. The article states that the study is focused on three co-morbidities: cardiovascular disease, diabetes, and osteoarthritis.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, omits important information that is included in the article, and uses language that is different from the article.
+1. The summary mentions "Daisy, Daisy, and Daisy" while the article only mentions "Daisy" once.
+2. The summary mentions a "pen" and a "barn" while the article does not mention these words.
+3. The summary does not mention any of the scientific details or concepts mentioned in the article, such as cloning, age-memory, cellular senescence, osteoarthritis, or co-morbidities.
+4. The summary does not mention the University of Nottingham or the fact that the sheep are being studied for their health and aging processes.
+
+Overall, the summary is very brief and lacks specific details, while the article provides a more in-depth look at the study and the cloned sheep. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

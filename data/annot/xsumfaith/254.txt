@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man accused of plotting to kill a police officer in north wales has pleaded not guilty. 
-
-    Article: 
-    Craig Hughes, 33, of Flint, was arrested by North Wales Police in August after he chatted online with the Hope Line Crisis Centre in Tennessee.
+<Article>
+Craig Hughes, 33, of Flint, was arrested by North Wales Police in August after he chatted online with the Hope Line Crisis Centre in Tennessee.
 Fears were raised over a planned murder bid involving police being ambushed after reports of a non-existent crime.
 Hughes admitted two charges at Mold Crown Court on Friday.
 He will be sentenced next week.
@@ -16,16 +13,22 @@ The threats were made on two occasions, late at night, while Hughes was drunk.
 Judge Niclas Parry, who was told the defendant had a previous conviction for possessing a firearm in 2009, remanded him in custody pending sentence.
 During a previous hearing, Hughes's legal team said he had not intended to kill himself and would not have carried out any threat to kill police officers.
 The court heard at the time, North Wales Police was particularly concerned because the defendant was on bail, awaiting trial for firearms offences, of which he was subsequently cleared.
-The Hope Line centre offers confidential support and counselling to people experiencing difficulty. 
+The Hope Line centre offers confidential support and counselling to people experiencing difficulty.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man accused of plotting to kill a police officer in north wales has pleaded not guilty.
+</Summary>
 
-1. The summary states that the man pleaded not guilty, but the article states that he admitted two charges. This is inconsistent because if he pleaded not guilty, he would not have admitted any charges.
-2. The summary mentions that the man was planning to kill police officers, but the article states that he was planning to make a false report to the police so that officers would come to the scene. This is inconsistent because the article does not mention any plans to kill police officers.
-3. The summary mentions that the man was drunk when he made the threats, but the article does not mention this. This is inconsistent because if the man was drunk, it may have affected his judgment and intentions.
-4. The summary states that the man will be sentenced next week, but the article does not mention a specific sentencing date. This is inconsistent because the article does mention that the man will be sentenced, but it does not provide a specific date.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not supported by the article, such as the man's plans to kill police officers, and it leaves out information that is in the article, such as the man's previous conviction for possessing a firearm.
+1. The summary states that the man accused of plotting to kill a police officer in North Wales has pleaded not guilty.
+2. However, the article states that the man, Craig Hughes, admitted two charges at Mold Crown Court on Friday.
+3. This indicates that the man did not plead not guilty, but instead admitted to the charges brought against him.
+4. Therefore, the summary is not consistent with the article, as it states that the man pleaded not guilty, while the article states that he admitted to the charges.
+
+Reasoning:
+
+The summary is not consistent with the article because it states that the man pleaded not guilty, while the article states that he admitted to the charges. This indicates that the summary contains incorrect information or omits important details.
 
 ###Corrected:

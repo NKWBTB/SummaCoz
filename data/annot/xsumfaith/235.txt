@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sale sharks fly-half sam charnley wants to turn his game into rugby union. 
-
-    Article: 
-    The 25-year-old wing has crossed codes from Super League side Wigan Warriors, in arguably the most high-profile switch since Sam Burgess' move to Bath.
+<Article>
+The 25-year-old wing has crossed codes from Super League side Wigan Warriors, in arguably the most high-profile switch since Sam Burgess' move to Bath.
 Burgess' time in union only lasted a year, but Chorley-born Charnley is hoping he can take to the game more naturally.
 "I just want to learn it and not have to ask where I should be stood. I just want to have it free-flowing," he told BBC Sport.
 Since his move to Sale was announced in March, Charnley has been to the AJ Bell Stadium to watch the team as much as possible.
@@ -29,15 +26,20 @@ England head coach Eddie Jones has spoken about Charnley as having the ability t
 "You don't want to pile the pressure on him but he has the ability to do it, and I'm sure he will.
 "He has such a good career so far, so as a long as he does that in a Sale shirt then he is always going to have a sniff."
 Asked if he thought about running out at Twickenham, Charnley added: "Any player wants to play for their country. You want to put that jersey on.
-"If I'm lucky enough to be successful enough to get picked then it will be a nice thing on my CV." 
+"If I'm lucky enough to be successful enough to get picked then it will be a nice thing on my CV."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+sale sharks fly-half sam charnley wants to turn his game into rugby union.
+</Summary>
 
-1. The summary states that Sam Charnley wants to turn his game into rugby union, but the article states that he has already made the switch and is now playing for Sale Sharks in the Premiership.
-2. The summary mentions that Charnley wants to learn the game of rugby union and become more natural at it, but the article states that he has already been watching a lot of games and analyzing them, suggesting that he has already been learning the game.
-3. The summary states that Charnley is hoping to take his game to the next level by switching to rugby union, but the article states that he has already had a successful career in rugby league and has won the Grand Final with Wigan Warriors.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it implies that Charnley is still considering a switch to rugby union, when in fact he has already made the switch and is now playing for Sale Sharks. Additionally, the summary emphasizes Charnley's desire to learn the game of rugby union, when the article suggests that he has already been doing so.
+1. The summary states that Sale Sharks fly-half Sam Charnley wants to turn his game into rugby union.
+2. However, the article states that Charnley has already switched from rugby league to rugby union, and has signed with Sale Sharks.
+3. Therefore, the summary is not consistent with the article, as it implies that Charnley is still playing rugby league and wants to switch to rugby union, whereas the article states that he has already made the switch.
+4. The article provides evidence that Charnley has crossed codes, including his move to Sale Sharks and his desire to learn more about rugby union.
+5. The summary does not provide any evidence to support the claim that Charnley wants to turn his game into rugby union.
+6. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

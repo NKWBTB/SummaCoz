@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mcgregor is challenging jose aldo for his featherweight champion title in las vegas on july 11
-conor mcgregor reveals his new tattoo of a tiger on his stomach to his instagram followers
-the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach . 
-
-    Article: 
-    conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
+<Article>
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
 the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
 ` if you see the tiger , it 's too late .
 you 're food , ' mcgregor wrote next to the instagram post of his new artwork .
@@ -21,16 +16,23 @@ aldo makes the eighth defence of his belt against the irish fighter in las vegas
 conor mcgregor grabbed aldo 's ( left ) belt when they took their promotional tour to dublin
 mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
 at the end of march , the duo were undergoing a promotional tour in dublin when mcgregor grabbed the belt from aldo and raised it in front of 5,000 home supporters .
-the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters . 
+the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mcgregor is challenging jose aldo for his featherweight champion title in las vegas on july 11
+conor mcgregor reveals his new tattoo of a tiger on his stomach to his instagram followers
+the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
 1. The summary states that Conor McGregor has revealed a tiger's face tattooed onto his stomach, but the article does not mention any tiger tattoo.
-2. The summary mentions that McGregor has a picture of a gorilla eating a heart inked upon his chest, which is not mentioned in the article.
-3. The summary states that McGregor wrote on Instagram that "if you see the tiger, it's too late. You're food," but the article does not mention this quote.
-4. The summary mentions that McGregor grabbed Jose Aldo's belt during a promotional tour in Dublin, but the article does not mention this event.
+2. The summary mentions that McGregor has already got a picture of a gorilla eating a heart inked upon his chest, which is not mentioned in the article.
+3. The summary does not mention the fact that McGregor grabbed Jose Aldo's belt during a promotional tour in Dublin, which is mentioned in the article.
+4. The summary does not mention the fractious relationship between McGregor and Aldo, which is mentioned in the article.
 
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits other information that is present in the article.
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    arsenal fan saskia scored an impressive UNK out of 50 .
-the 22-year-old made his arsenal debut for the gunners in the fa cup final .
-the 22-year-old made his arsenal debut against hull city in the fa cup final . 
-
-    Article: 
-    an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
+<Article>
+an obsessive arsenal fan made his girlfriend sit a test quizzing her about his favourite football club .
 marking her answers with red pen , she scored an impressive 43.5 out of 50 , to which he commented , ` well done saskia !
 as a result , i will not be dumping you !
 ( lucky you ) ' .
@@ -58,20 +53,22 @@ others , though , felt that the boyfriend had taken things a tad too far .
 we reckon it was a bit of fun and he would n't really have dumped her if she 'd failed ... at least we like to think that 's the case .
 trimothy wants to put his girlfriend to the test , although apparently ca n't be bothered to create his own exam
 eduardo claims ` football fans are nuts ' despite appearing to be one as he holds what looks suspiciously like the fa cup in his hands ...
-some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head ' 
+some thought saskia 's boyfriend took things too far with @dcslfc creatively naming him a ` biff-head '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+arsenal fan saskia scored an impressive UNK out of 50 .
+the 22-year-old made his arsenal debut for the gunners in the fa cup final .
+the 22-year-old made his arsenal debut against hull city in the fa cup final .
+</Summary>
 
-1. The summary states that Saskia scored an impressive UNK out of 50, while the article states that she scored an impressive 87% on the test.
-2. The summary mentions that Saskia's boyfriend made her take an Arsenal test, but the article does not mention this. Instead, the article states that Saskia's boyfriend graded her test and gave her an "A."
-3. The summary states that Saskia struggled to name all 11 players of the starting squad and got confused on the player positions, while the article does not mention this.
-4. The summary mentions that Saskia's boyfriend drew an angry face when she got a question wrong, but the article does not mention this.
-5. The summary states that Saskia kept her boyfriend happy with creative answers to his questions and got double marks for some, while the article states that she scored decent points for her more creative answers.
-6. The summary states that Saskia's boyfriend was impressed with the end result and graded her an "A," while the article states that he was impressed with her knowledge and gave her an "A."
-7. The summary mentions that some Twitter users hailed the unnamed boyfriend as a legend, while the article does not mention this.
-8. The summary states that Saskia scored 87%, while the article states that she scored 87% on the test.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. For example, the summary states that Saskia scored an impressive UNK out of 50, when in fact she scored 87%. Additionally, the summary mentions that Saskia's boyfriend made her take an Arsenal test, while the article does not mention this.
+1. Score: The summary states that Saskia scored an "impressive UNK out of 50," which is not a valid score. The article states that she scored 43.5 out of 50, which is a specific and accurate score.
+2. Debut: The summary states that Saskia made her Arsenal debut against Hull City in the FA Cup final, which is not accurate. The article states that she did not make her debut in the FA Cup final, and there is no mention of her playing for Arsenal.
+3. Age: The summary states that Saskia is 22 years old, which is not accurate. The article does not mention her age.
+
+Therefore, the summary is not consistent with the article. It appears to be a poorly written summary that contains errors and inaccuracies.
 
 ###Corrected:

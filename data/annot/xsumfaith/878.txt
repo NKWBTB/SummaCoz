@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hungary\'s president michel szijjarto has warned that hungary could refrain from making attempts to withdraw three laws for asylum seekers. 
-
-    Article: 
-    He told Reuters that the EU should not interfere with "domestic issues".
+<Article>
+He told Reuters that the EU should not interfere with "domestic issues".
 He said he had already won backing from Poland that it would veto any move to strip Hungary of its EU voting rights.
 The EU objects to Hungary's tight controls on asylum seekers and non-governmental organisations (NGOs), as well as a higher education law.
 Critics say the education law could lead to the closure of the prestigious Central European University, founded by philanthropist George Soros.
@@ -23,16 +20,26 @@ Human rights groups say it would stigmatise them as "foreign-backed" organisatio
 Last month, the deputy head of the bloc's executive Commission, Frans Timmermans, warned action would be taken in coming weeks if there were no positive developments.
 Hungary passes bill targeting Central European University
 Hungarian attack on George Soros prompts NGO anger
-The university built to defend democracy 
+The university built to defend democracy
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, the summary is not consistent with the article because:
+<Summary>
+hungary\'s president michel szijjarto has warned that hungary could refrain from making attempts to withdraw three laws for asylum seekers.
+</Summary>
 
-1. The summary states that Hungary's president warned that Hungary could refrain from making attempts to withdraw three laws for asylum seekers, but the article states that the EU objects to Hungary's tight controls on asylum seekers and non-governmental organizations (NGOs), and that the country is under pressure from European institutions to withdraw the three laws.
-2. The summary does not mention the EU's objections to Hungary's education law, which could lead to the closure of the Central European University, founded by philanthropist George Soros.
-3. The summary does not mention the EU's pressure on Hungary to withdraw the three laws, or the threat of sanctions if Hungary does not comply.
-4. The summary does not mention the human rights groups' criticism of Hungary's draft legislation on NGOs, which they say would stigmatize them as "foreign-backed" organizations.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary does not provide an accurate representation of the article's content, and is not consistent with the article.
+1. The summary states that Hungary's president Michel Szijjarto has warned that Hungary could refrain from making attempts to withdraw three laws for asylum seekers.
+2. However, the article states that Hungary's right-wing Fidesz government is under sustained pressure from European institutions to withdraw the three laws, two of which have already been passed.
+3. The article also mentions that the EU objects to Hungary's tight controls on asylum seekers and non-governmental organisations (NGOs), as well as a higher education law.
+4. The article does not mention anything about Hungary refraining from withdrawing the laws. Instead, it highlights the EU's objections to the laws and the pressure on Hungary to withdraw them.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
+
+Reasoning step by step:
+
+1. The summary states that Hungary could refrain from making attempts to withdraw three laws for asylum seekers.
+2. However, the article does not mention anything about Hungary refraining from withdrawing the laws.
+3. Instead, the article highlights the EU's objections to the laws and the pressure on Hungary to withdraw them.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

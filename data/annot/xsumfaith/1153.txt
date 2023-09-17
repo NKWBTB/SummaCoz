@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    fernando alonso held off pole position at the spanish grand prix to take pole position for the first time in his career. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The Spaniard became the only man to win three times so far this season.
 He drove a controlled race and stayed just far enough ahead of his pursuers to maintain the lead.
 Great strategy calls from the team to keep me ahead through the pit stops. I knew it would be a long race to the end
@@ -36,17 +33,19 @@ Button said: "It was a close race and I couldn't quite get Fernando at the end.
 "But it was a fun race and it's nice to be on the podium again. I've had my feeling back the last two races but the pace hasn't been there [in the car], but today it was. We're there or thereabouts at the front, still a little way to go."
 Raikkonen provided some exciting racing as he moved up from 10th on the grid.
 On the way, Raikkonen engaged in top-class racing with Mercedes driver Michael Schumacher and the Force Indias of Nico Hulkenberg and Paul di Resta.
-Schumacher finished seventh behind Sauber drivers Kamui Kobayashi and Sergio Perez. Hulkenberg and Di Resta took the final points positions in ninth and 10th. 
+Schumacher finished seventh behind Sauber drivers Kamui Kobayashi and Sergio Perez. Hulkenberg and Di Resta took the final points positions in ninth and 10th.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+fernando alonso held off pole position at the spanish grand prix to take pole position for the first time in his career.
+</Summary>
 
-1. The summary states that Fernando Alonso held off pole position, but the article states that he started from pole position.
-2. The summary mentions that Button passed Vettel at the second pit stop, but the article states that Vettel emerged from his first pit stop five seconds ahead of Button.
-3. The summary states that Vettel passed Button at the Turn 6 hairpin on the penultimate lap, but the article states that Vettel passed Button at the second pit stop.
-4. The summary does not mention the fact that Hamilton retired from the race due to gearbox damage, which is mentioned in the article.
-5. The summary states that Alonso's championship lead was extended to 34 points, but the article does not mention the championship standings.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It contains several errors and omissions that make it inconsistent with the original text.
+1. The summary states that Fernando Alonso held off pole position to take pole position for the first time in his career. This is not consistent with the article, as the article states that Alonso started from pole position and led the race from start to finish.
+2. The article states that Alonso drove a controlled race and stayed ahead of his pursuers to maintain the lead. This is consistent with the idea that he held off pole position to take the lead.
+3. However, the summary does not mention anything about Alonso's driving or the strategy calls from his team that helped him maintain the lead. Instead, it only states that he held off pole position.
+4. Furthermore, the summary does not accurately reflect the final result of the race. The article states that Alonso won the race, but the summary does not mention the winner.
+5. Overall, the summary is not consistent with the article because it does not accurately reflect the events of the race or the final result. It only mentions one aspect of the race (Alonso holding off pole position) without providing any context or details.
 
 ###Corrected:

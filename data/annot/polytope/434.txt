@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    theo walcott was pictured with calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil .  arsenal 's first team stars have posed for an official portrait for paris ' oldest fashion house .  walcott has spent much of the season on the bench .  
-
-    Article: 
-    theo walcott sitting on a bench along with six of his arsenal colleagues is starting to become a familiar sight given the fact that he has been overlooked for the majority of the season .
+<Article>
+theo walcott sitting on a bench along with six of his arsenal colleagues is starting to become a familiar sight given the fact that he has been overlooked for the majority of the season .
 the arsenal winger has been pictured on a different kind of bench with his team-mates as he was pictured for a photoshoot with calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil .
 walcott and co , along with runway model olga sherer , have posed for an official portrait for paris ' oldest fashion house - lanvin - the club 's official tailor since 2013 .
 theo walcott ( third right ) poses for a lanvin photoshoot alongside runway model olga sherer , calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil
@@ -14,17 +11,25 @@ walcott , pictured with wilshere and wojciech szczesny , has spent much of the s
 the 26-year-old looks on from the bench during arsenal 's 0-0 draw with chelsea at the emirates stadium
 arsenal 's first team stars will be dressed in similar attire when arsene wenger 's side make their way to wembley stadium for their fa cup final encounter against aston villa on may 30 .
 walcott , who has been named on arsenal 's substitutes ' bench for 17 of their 33 barclays premier league games , came on for the last six minutes of his side 's goalless draw with chelsea on sunday .
-the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday . 
+the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+theo walcott was pictured with calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil .  arsenal 's first team stars have posed for an official portrait for paris ' oldest fashion house .  walcott has spent much of the season on the bench . 
+</Summary>
 
-1. The summary states that Theo Walcott was pictured with his teammates for an official portrait for Paris' oldest fashion house, while the article states that the photoshoot was for Lanvin, the club's official tailor since 2013.
-2. The summary mentions that Walcott has been overlooked for the majority of the season, which is consistent with the article. However, the summary does not mention that Walcott has been sitting on the bench for most of the season, as stated in the article.
-3. The summary states that Walcott and his teammates were pictured for a photoshoot, while the article states that the photoshoot was for an official portrait.
-4. The summary does not mention that the photoshoot was for Lanvin, only that it was for Paris' oldest fashion house.
-5. The summary states that Walcott has been named on the substitutes' bench for 17 of Arsenal's 33 Premier League games, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide a complete and accurate representation of the article's content.
+1. The summary states that Theo Walcott was pictured with Calum Chambers, Jack Wilshere, Mikel Arteta, David Ospina, Mathieu Flamini, and Mesut Ozil.
+2. However, the article does not mention anything about a photoshoot or an official portrait for Paris' oldest fashion house.
+3. The article only mentions that Walcott has been overlooked for the majority of the season and has spent much of the season on the bench.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article.
+
+Step by step reasoning:
+
+1. The summary states that Theo Walcott was pictured with Calum Chambers, Jack Wilshere, Mikel Arteta, David Ospina, Mathieu Flamini, and Mesut Ozil.
+2. This information is not present in the article.
+3. The article only mentions that Walcott has been overlooked for the majority of the season and has spent much of the season on the bench.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

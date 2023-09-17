@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    temperton temperton, a founding member of the magic x factor, has died at the age of 96, his family has said. 
-
-    Article: 
-    Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
+<Article>
+Temperton died in London last week at the age of 66 after "a brief aggressive battle with cancer", Jon Platt of Warner/Chappell music publishing said.
 Temperton's other hits included Off The Wall and Baby Be Mine for Jackson and Boogie Nights for his band Heatwave.
 Chic guitarist Nile Rodgers was among those paying tribute, tweeting: "Your genius gave us a funkier world!"
 Michael Jackson's sister LaToya wrote: "A brilliant prolific #songwriter Rod Temperton may you #RIP one of my favorite #songs Rock With You #Thriller #legend #Music #MichaelJackson"
@@ -28,17 +25,19 @@ He once summed up his approach to songwriting: "The first criteria is write some
 In a statement released on Wednesday, Warner/Chappell's Jon Platt said: "His family is devastated and request total privacy at this, the saddest of sad times."
 Vocalist Chaka Khan, who recorded Temperton's tracks with the funk band Rufus, paid tribute, writing on Twitter: "Thank u 4 your superlative songwriting @RodTemperton. U will always Live in Me. Rest in power."
 BBC radio presenter Gilles Peterson wrote: "Apart from Lennon and McCartney no one from the UK has written more gold plated songs than Sir Rod Temperton... a huge loss. RIP"
-Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk. 
+Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a story suggestion email entertainment.news@bbc.co.uk.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+temperton temperton, a founding member of the magic x factor, has died at the age of 96, his family has said.
+</Summary>
 
-1. Age at death: The summary states that Temperton died at the age of 96, while the article states that he died at the age of 66.
-2. Cause of death: The summary mentions "a brief aggressive battle with cancer," while the article does not mention the cause of death.
-3. Private funeral: The summary states that Temperton's funeral has taken place, while the article states that the family has requested total privacy at this time.
-4. Nickname: The summary refers to Temperton as "The Invisible Man," while the article does not mention this nickname.
-5. Career highlights: The summary mentions that Temperton wrote songs for Michael Jackson and other artists, but it does not mention specific songs or albums. The article provides more details about Temperton's career, including the songs he wrote for Off The Wall and Thriller, and his Grammy and Oscar nominations.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the given summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. It does not provide a clear or accurate overview of Temperton's life and career.
+1. Age: The summary states that Temperton died at the age of 96, while the article states that he died at the age of 66.
+2. Member of the magic x factor: The summary mentions that Temperton was a founding member of the magic x factor, but there is no mention of this in the article.
+
+These two points indicate that the summary is not consistent with the article, as it contains incorrect information about Temperton's age and accomplishments.
 
 ###Corrected:

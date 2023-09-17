@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
-the lucky little critter survived the reckless incident but was singed by the flame .
-two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 . 
-
-    Article: 
-    a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
+<Article>
+a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
 the two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
 the lucky little critter survived the reckless incident but was singed by the flame .
 two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3
@@ -18,19 +13,21 @@ they have each been charged with animal cruelty and will appear in fremantle mag
 the size of a domestic cat
 quokkas can be found on some small islands off the west australian coast
 in particular off rottnest island off perth and bald island near albany
-the lucky little critter survived the reckless incident but was singed by the flame and the men were charged 
+the lucky little critter survived the reckless incident but was singed by the flame and the men were charged
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-    1. The article states that two French tourists allegedly set a quokka on fire using an aerosol spray and a lighter.
+<Summary>
+two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
+the lucky little critter survived the reckless incident but was singed by the flame .
+two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
+</Summary>
 
-2. The summary states that two men allegedly set a quokka on fire using an aerosol spray and a lighter.
+Explain your reasoning step by step:[/INST]
 
-3. The article and summary are consistent in their description of the incident and the individuals involved.
-
-4. However, the summary states that the quokka was "singed" by the flame, while the article states that the quokka survived the incident.
-
-5. This discrepancy indicates that the summary is not consistent with the article, as the article does not support the claim that the quokka was singed.
-
-6. Therefore, the summary is not a consistent summary of the article.
+1. The summary states that two French male tourists allegedly ignited an aerosol spray with a lighter, causing a large flame to make contact with a quokka on Rottnest Island.
+2. However, the article states that two men, aged 18 and 24, who are currently living in Cockburn Central, were evicted from the island and charged with animal cruelty for allegedly igniting an aerosol spray with a lighter and causing a large flame to make contact with a quokka on Rottnest Island.
+3. The article does not mention anything about the men being French, which contradicts the summary.
+4. The summary also states that the lucky little critter survived the reckless incident but was singed by the flame, which is consistent with the article.
+5. Therefore, the inconsistency in the summary is due to the incorrect nationality of the men being described as French, which is not supported by the article.
 
 ###Corrected:

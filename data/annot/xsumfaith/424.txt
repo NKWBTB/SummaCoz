@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in our series of letters from african journalists, writer and writer adaobi tricia nwaubani looks at the plight of kenyan students. 
-
-    Article: 
-    She had been contemplating the 50 hours she'd just spent crushed inside a tiny cupboard, hidden beneath a pile of clothes, with nothing but a bottle of body lotion to try to quench a raging thirst.
+<Article>
+She had been contemplating the 50 hours she'd just spent crushed inside a tiny cupboard, hidden beneath a pile of clothes, with nothing but a bottle of body lotion to try to quench a raging thirst.
 The sound of her friends being butchered in the courtyard outside echoed in her ears.
 Cynthia, a 19-year-old student at Garissa's teacher training college on the edge of town, spoke with the studied politeness that I've encountered repeatedly in the past few days in this isolated town, on the hot, dry plains that stretch towards and over the seemingly notional border that separates Kenya from Somalia.
 There have been plenty of tears from the survivors of Thursday's killings.
@@ -38,21 +35,20 @@ By attacking non-Muslim students in Garissa, the militants may well have been se
 Not that there was any hint in Garissa this week, that the militants were succeeding. Quite the opposite.
 Yes, it was disappointing to see the way the surviving students were treated by the authorities here - forced to camp out for two days before being bussed out of town.
 Surely they deserved better than that. One suspects wealthier students, at a more prestigious college, would have received more prompt support.
-But overall such horrific incidents still seem more likely to foster national unity, to bring communities together in shared revulsion, than to divide. 
+But overall such horrific incidents still seem more likely to foster national unity, to bring communities together in shared revulsion, than to divide.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+in our series of letters from african journalists, writer and writer adaobi tricia nwaubani looks at the plight of kenyan students.
+</Summary>
 
-1. The summary mentions "Kenyan students," while the article only mentions "students at Garissa's teacher training college."
+Explain your reasoning step by step:[/INST]
 
-2. The summary implies that the article is about the plight of Kenyan students in general, while the article is actually about the specific experience of students at Garissa's teacher training college.
+1. The summary states that the letter is part of a series of letters from African journalists, indicating that the article is a letter written by a journalist.
+2. The summary does not mention the attack on Garissa University College, which is the main focus of the article.
+3. The summary does not mention any of the specific details from the article, such as the 50 hours spent in a cupboard, the sound of friends being butchered, or the politeness of the survivors.
+4. The summary does not convey the same tone or emotion as the article, which is written in a somber and reflective tone.
 
-3. The summary mentions "Thursday's killings," while the article does not use that specific phrase. Instead, the article refers to "the attack" and "the militants."
-
-4. The summary mentions "Kenya's leaders," while the article does not use that phrase. Instead, the article refers to "the government" and "Kenya's government."
-
-5. The summary mentions "Greater Somalia," while the article does not use that phrase. Instead, the article refers to "Somali regions taken from it at the end of the colonial era."
-
-Overall, the summary is not consistent with the article because it implies that the article is about the plight of all Kenyan students, when in fact the article is actually about a specific attack on students at Garissa's teacher training college. Additionally, the summary uses phrases and language that are not found in the article.
+Based on these differences, it is clear that the summary is not consistent with the article. The summary does not provide an accurate representation of the content or tone of the article. It is likely that the summary was written separately from the article and does not reflect the same level of detail or context.
 
 ###Corrected:

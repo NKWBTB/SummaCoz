@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    voters in scotland have voted in favour of more devolution. 
-
-    Article: 
-    However, the nation seems divided over whether there should be another referendum on independence in the near future.
+<Article>
+However, the nation seems divided over whether there should be another referendum on independence in the near future.
 Pollsters Ipsos Mori asked voters to give a score out of 10 to a range of policies which could be implemented by the next UK government.
 A ranking of one meant it should not be implemented, while 10 meant it should be implemented immediately.
 Ipsos Mori surveyed more than 1,000 adults between 19 and 25 March.
@@ -41,15 +38,21 @@ However, renewing and upgrading the Trident nuclear deterrent, came joint last i
 The poll also indicated some support for bringing the railways back into public ownership - this scored 6.5 out of 10.
 "Ensuring authorities cannot access personal data unless an individual is suspected of taking part in an illegal activity" was among the most popular policy statements tested, with a score of 7.6.
 What are the top issues for each political party at the 2015 general election?
-Policy guide: Where the parties stand 
+Policy guide: Where the parties stand
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+voters in scotland have voted in favour of more devolution.
+</Summary>
 
-1. The summary states that voters in Scotland have voted in favor of more devolution, but the article does not mention anything about a vote on devolution.
-2. The summary mentions a referendum on Scottish independence, but the article does not discuss this topic.
-3. The summary states that the most popular policy statements were related to giving Holyrood more powers, but the article does not mention these specific policy statements.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the provided summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it discusses topics that are not mentioned in the article and presents information that is not supported by the article.
+1. The summary states that voters in Scotland have voted in favour of more devolution, but the article does not mention anything about a vote or referendum on devolution.
+2. The article discusses the results of a poll conducted by Ipsos Mori, which asked voters to rank policy statements on a scale of 1 to 10. The summary does not mention the poll or any specific policy statements.
+3. The article mentions that the most popular policy statements among those questioned were related to giving Holyrood more powers, such as full control of income tax and welfare benefits. The summary does not mention these specific policy statements or their popularity.
+4. The article mentions that voters would rather have a referendum on whether or not to leave the European Union than another referendum on Scottish independence. The summary does not mention this or any other referendum-related information.
+
+Therefore, based on these differences, the summary is not consistent with the article. The summary does not accurately reflect the content or specific details of the article, and instead provides a general and vague statement about devolution.
 
 ###Corrected:

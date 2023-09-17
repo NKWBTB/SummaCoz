@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jcno jeans , popular at nineties raves , are threatening to make a comeback .
-the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that should be left in the past . 
-
-    Article: 
-    nineties style is hot right now .
+<Article>
+nineties style is hot right now .
 chokers , berry-coloured lips , round sunglasses and calvin klein logo t-shirts are all the rage with a new generation of fashion fans .
 but news that jnco , the brand responsible for the huge wideleg ` rave ' jeans , is set to make a comeback has horrified many of the people who wore the ridiculous pants the first time around .
 the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that really should be left in the past .
@@ -54,17 +50,26 @@ characterised by loose , baggy legs which nip in at the ankle , these middle eas
 before she discovered pencil skirts reality star kim kardashian , now 34 , was a huge fan of the voluminous pants .
 today they are still sported by supermodel legs like 51-year-old elle macpherson .
 then : reality star kim kardashian previously championed the wearing of harem trousers back in 2009
-now : supermodel elle macpherson steps out in a pair of leopard print harem trousers 
+now : supermodel elle macpherson steps out in a pair of leopard print harem trousers
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jcno jeans , popular at nineties raves , are threatening to make a comeback .
+the return of the highly impractical jeans , which featured giant leg openings approaching 50in , has us contemplating the retro fashion nineties and noughties trends that should be left in the past .
+</Summary>
 
-1. JCNO Jeans: The summary states that JCNO jeans, popular at nineties raves, are threatening to make a comeback. However, the article does not mention JCNO jeans at all.
-2. Bucket Hats: The summary mentions that the bucket hat was originally a staple of fishermen and farmers but found its way into popular culture, and was sported by celebrities like Rihanna. However, the article only mentions the bucket hat as a trend that was popular in the noughties and is now being sported by celebrities like Nicki Minaj.
-3. Camouflage Print: The summary states that camouflage print manages to seep into our wardrobes, even though it's not practical for non-military personnel. The article mentions that camouflage print was popular in the noughties and is still being worn by celebrities like Kylie Jenner.
-4. Double Denim: The summary mentions that double denim is a trend that is still popular today, but the article only mentions that it was popular in the noughties.
-5. Tiny Denim Shorts: The summary states that tiny denim shorts have been around for the longest time and were brought back by Jessica Simpson in the film remake of the Dukes of Hazzard in 2005. However, the article only mentions that tiny denim shorts were popular in the noughties and are still being worn by celebrities like Miley Cyrus.
-6. Rainbow Lenses: The summary mentions that rainbow lenses were a nineties favourite for boy bands and pop princesses, and are still being sported by young stars like Cara Delevingne and Kylie Jenner. However, the article only mentions that rainbow lenses were popular in the noughties.
-7. Corsets: The summary states that corsets first became popular in the 16th century and were sported as outerwear in the noughties by Victoria Beckham. The article mentions that corsets were popular in the noughties and are still being incorporated into dresses and tops to add edge to red carpet wear by young stars like
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the provided summary is not consistent with the article:
+
+1. The summary mentions JNCO jeans making a comeback, but the article does not mention JNCO jeans. Instead, the article talks about the return of highly impractical jeans with giant leg openings, which could refer to various brands and styles.
+2. The summary states that the trends mentioned should be left in the past, but the article does not take a definitive stance on whether these trends should be revived or not. Instead, it presents a roundup of nineties and noughties trends that are currently popular or have been popular in the past.
+3. The summary mentions camouflage print, but the article does not include camouflage print as one of the trends mentioned.
+4. The summary mentions double denim, but the article only mentions double denim as a trend that young reality star Kylie Jenner is currently sporting. The article does not discuss double denim as a nineties or noughties trend.
+5. The summary mentions tiny denim shorts, but the article only mentions Jessica Simpson reintroducing daisy dukes in the film remake of the Dukes of Hazzard in 2005. The article does not discuss tiny denim shorts as a nineties or noughties trend.
+6. The summary mentions rainbow lenses, but the article only mentions rainbow lenses as a nineties favorite for boy bands and pop princesses. The article does not discuss rainbow lenses as a current trend.
+7. The summary mentions corsets, but the article only mentions corsets as a nineties trend popularized by Victoria Beckham. The article does not discuss corsets as a current trend.
+8. The summary mentions harem pants, but the article only mentions harem pants as a nineties trend championed by reality star Kim Kardashian. The article does not discuss harem pants as a current trend.
+
+In conclusion, the summary is not consistent with the article because it mentions specific trends that are not mentioned in the article, and it takes a definitive stance on leaving these trends in the past, which the article does not do.
 
 ###Corrected:

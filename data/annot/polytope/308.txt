@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean .
-it 's not the first time this look has made a comeback since the seventies .
-lou tried the out the trend seven years ago with a stella mccartney flared jean . 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,18 +28,23 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the provided summary is not consistent with the article:
+<Summary>
+louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean .
+it 's not the first time this look has made a comeback since the seventies .
+lou tried the out the trend seven years ago with a stella mccartney flared jean .
+</Summary>
 
-1. The summary states that Louise Redknapp says a wide-leg trouser can come as a welcome relief from the skinny jean, but the article does not mention Louise Redknapp at all.
-2. The summary mentions that the wide-leg trouser is making a comeback since the seventies, but the article does not mention this. Instead, it says that the trend is just starting to get our heads around.
-3. The summary suggests that the wide-leg trouser is an alternative look to the skinny jean, but the article does not present it as an alternative. Instead, it presents the wide-leg trouser as a new trend that can be worn instead of skinny jeans.
-4. The summary recommends pairing a wide-leg trouser with a simple knit to keep the outfit in proportion, but the article does not mention this. Instead, it suggests that proportion is everything and to team with a simple knit, shirt or tee to keep the look current and cool.
-5. The summary mentions that denim is the easiest way to nail the trend, but the article does not mention this. Instead, it suggests that denim is one way to achieve the trend, but other materials like cropped, printed or striped can also be used.
-6. The summary mentions that the wide-leg trouser made an appearance on several catwalks, but the article does not mention this. Instead, it mentions that the trend is at the forefront of SS15 trends.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary does not accurately represent the article. The article discusses the wide leg trouser trend and provides tips on how to style it, while the summary only mentions Louise Redknapp's opinion on the trend and does not provide any information about the trend's resurgence or how to style it.
+2. The article mentions that the wide leg trouser trend has made a comeback before, in the seventies, but the summary does not include this information.
+3. The article provides specific examples of designers who have incorporated the wide leg trouser trend into their collections, such as Gucci and Celine, but the summary does not mention any designers or specific brands.
+4. The article provides tips on how to style the wide leg trouser, such as wearing a high heel and keeping the top half simple, but the summary does not include any information about styling the trend.
+5. The article mentions that denim is an easy way to nail the trend, but the summary does not include this information.
+
+Overall, the summary does not provide a consistent representation of the article's content, as it only includes a limited amount of information and does not include many of the specific details and examples provided in the article.
 
 ###Corrected:

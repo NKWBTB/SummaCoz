@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    former us president bill clinton is introduced to the mcguinness family by sinn féin president gerry adams. 
+<Article>
+23 March 2017 Last updated at 14:55 GMT
+</Article>
 
-    Article: 
-    23 March 2017 Last updated at 14:55 GMT 
+<Summary>
+former us president bill clinton is introduced to the mcguinness family by sinn féin president gerry adams.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+ Sure, I can help you with that! Here's my reasoning step by step:
 
-1. The article is from March 2017, but the summary is talking about former US President Bill Clinton being introduced to the McGuinness family by Sinn Féin President Gerry Adams.
-2. The article does not mention anything about Bill Clinton or his involvement with the McGuinness family or Sinn Féin.
-3. The article is focused on the death of Martin McGuinness, a former IRA leader and former Deputy First Minister of Northern Ireland, who passed away on March 21, 2017.
-4. The article mentions that Bill Clinton was one of the many politicians and world leaders who paid tribute to McGuinness after his death, but it does not mention any personal connection or meeting between Clinton and the McGuinness family.
-5. Therefore, the summary is not consistent with the article because it claims that Bill Clinton was introduced to the McGuinness family by Gerry Adams, which is not supported by the text of the article.
+1. The article is from 23rd March 2017, while the summary is talking about former US President Bill Clinton being introduced to the McGuinness family by Sinn Féin President Gerry Adams.
+2. The article does not mention anything about Bill Clinton or Gerry Adams.
+3. Therefore, the summary is not consistent with the article, as there is no mention of Bill Clinton or the McGuinness family in the article.
+
+So, the reason why the summary is not consistent with the article is that the events described in the summary do not appear in the article. The article does not mention Bill Clinton or Gerry Adams, while the summary mentions them in a specific context.
 
 ###Corrected:

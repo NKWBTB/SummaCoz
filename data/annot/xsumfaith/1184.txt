@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland striker michael o \'neill says he is " lucky " to be part of the team\'s all-time leading goalscorer. 
-
-    Article: 
-    The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
+<Article>
+The Queen's Park Rangers player made his NI debut in March and scored in his second game against Slovenia.
 Washington, a postman just four years ago, followed that up with another goal against Belarus on Saturday.
 "The last few months have been a crazy time and I don't think it has sunk in yet. I know I have been fortunate," said the 24-year-old.
 "Football can be about being in the right place at the right time, and I have been lucky.
@@ -17,15 +14,19 @@ The Welsh club were promoted to the Football League in his first season, althoug
 He then moved to Peterborough in 2014 and by mid-January of this year, when QPR took him from London Road, Washington had scored 15 goals and aroused the interest of Northern Ireland manager Michael O'Neill.
 Washington had only been to the country once before his international bow against Wales in March but he qualified through the grandparent rule.
 "It was nice to be accepted so quickly and so readily with Northern Ireland," he added.
-"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it." 
+"Life doesn't get much better. I'm proud of my achievements and just have to try to enjoy it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+northern ireland striker michael o \'neill says he is " lucky " to be part of the team\'s all-time leading goalscorer.
+</Summary>
 
-1. The summary states that Michael O'Neill said he is "lucky" to be part of the team's all-time leading goalscorer. However, the article does not mention anything about Michael O'Neill saying he is lucky.
-2. The summary also states that Washington scored in his second game against Slovenia, but the article does not mention this. Instead, the article states that Washington scored in his first game against Wales.
-3. The summary states that Washington said he is "lucky" to have been part of the team, but the article does not quote him as saying this. Instead, the article quotes Washington as saying that he is proud of his achievements and is trying to enjoy it.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
+1. The summary states that Michael O'Neill, the Northern Ireland manager, says he is "lucky" to be part of the team's all-time leading goalscorer.
+2. However, the article does not mention anything about Michael O'Neill being part of the team's all-time leading goalscorer.
+3. The article does mention that the player, Washington, has scored goals for Northern Ireland in his first two international games, but there is no mention of him being the all-time leading goalscorer.
+4. Therefore, the summary is not consistent with the article, as it attributes a quote to Michael O'Neill that is not present in the article.
+5. The quote in the summary is likely a misinterpretation or misrepresentation of something that Michael O'Neill said, but it is not supported by the information in the article.
 
 ###Corrected:

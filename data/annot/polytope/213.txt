@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    raheem sterling was told in no uncertain terms by liverpool supporters that they expect him to remain at the club this summer on the day he was parading the club 's new home kit at anfield .
-the new gingham design , presented to supporters at anfield on friday , is the first offering from us sports brand new balance , who struck a record-breaking £ 300million four-year kit deal to replace sister company warrior as liverpool 's suppliers .
-the message was ` hold nothing back ' as sterling , daniel sturridge , martin skrtel and simon mignolet unveiled the new home strip to fans in the centenary stand on friday afternoon . 
-
-    Article: 
-    raheem sterling was told in no uncertain terms by liverpool supporters that they expect him to remain at the club this summer on the day he was parading the club 's new home kit at anfield .
+<Article>
+raheem sterling was told in no uncertain terms by liverpool supporters that they expect him to remain at the club this summer on the day he was parading the club 's new home kit at anfield .
 the new gingham design , presented to supporters at anfield on friday , is the first offering from us sports brand new balance , who struck a record-breaking £ 300million four-year kit deal to replace sister company warrior as liverpool 's suppliers .
 the message was ` hold nothing back ' as sterling , daniel sturridge , martin skrtel and simon mignolet unveiled the new home strip to fans in the centenary stand on friday afternoon .
 raheem sterling ( 2nd r ) models liverpool 's new kit alongside ( l-r ) adam lallana , daniel sturridge , jordan henderson and philippe coutinho
@@ -47,16 +42,28 @@ although departing captain steven gerrard wo n't be around to model liverpool 's
 the new shirt features all white branding -- the new balance logo , the liverbird and the standard chartered logo , whilst there is an all-new style of collar .
 skrtel said : ` it 's a great design , i just hope it will bring us some luck and success . '
 the full home kit which brendan rodgers ' players will be wearing at liverpool during the 2015/16 season
-raheem sterling told the bbc that he had rejected a £ 100,000-a-week contract at liverpool prompting talk that he could leave the club 
+raheem sterling told the bbc that he had rejected a £ 100,000-a-week contract at liverpool prompting talk that he could leave the club
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+raheem sterling was told in no uncertain terms by liverpool supporters that they expect him to remain at the club this summer on the day he was parading the club 's new home kit at anfield .
+the new gingham design , presented to supporters at anfield on friday , is the first offering from us sports brand new balance , who struck a record-breaking £ 300million four-year kit deal to replace sister company warrior as liverpool 's suppliers .
+the message was ` hold nothing back ' as sterling , daniel sturridge , martin skrtel and simon mignolet unveiled the new home strip to fans in the centenary stand on friday afternoon .
+</Summary>
 
-1. The summary states that Raheem Sterling was told by Liverpool supporters to remain at the club this summer, but the article does not mention anything about supporters telling him to stay.
-2. The summary mentions that Sterling, Daniel Sturridge, and other players unveiled the new home kit at Anfield, but the article does not mention any unveiling event.
-3. The summary states that the players will remain at Liverpool this season, but the article does not confirm this. In fact, the article mentions that Sterling rejected a new contract offer and is considering leaving the club.
-4. The summary quotes Sterling as saying that the fans are great and that it's a massive boost to hear them sing, but the article does not include these quotes.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important information that is included in the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent message: The summary states that Liverpool supporters expect Raheem Sterling to remain at the club this summer, while the article does not provide any such message. Instead, the article focuses on the launch of Liverpool's new home kit and the players' excitement about it.
+2. Missing information: The summary does not include any information about the new kit design, the record-breaking £300 million kit deal, or the players' attendance at the launch event. These details are present in the article but not in the summary.
+3. Incorrect emphasis: The summary emphasizes Sterling's presence at the launch event, while the article focuses on the entire team's attendance and the launch of the new kit.
+
+To fix the summary, it should be revised to accurately reflect the information in the article. Here's a possible revision:
+
+<Revised Summary>
+Liverpool unveiled their new home kit for the 2015/16 season, featuring a record-breaking £300 million deal with New Balance. The team, including Raheem Sterling, Daniel Sturridge, Martin Skrtel, and Simon Mignolet, showcased the new design to fans at Anfield. The launch event emphasized the message "Hold Nothing Back," and the players expressed their excitement about the new kit and the upcoming season.
+
+By revising the summary to accurately reflect the information in the article, it becomes clear that the original summary was not consistent with the article's content.
 
 ###Corrected:

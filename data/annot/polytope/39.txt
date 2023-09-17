@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    fabregas ' former team-mate thierry henry ( right ) holds the record for assists in a premier league season 
-henry managed 20 assists in the 2002-03 season and fabregas looked set to beat that haul before his slump 
-when he left barcelona , the club commented on fabregas ' unwanted reputation for a late-season slump  
-
-    Article: 
-    it seems an accepted trend that chelsea midfielder cesc fabregas struggles during the second half of the season and the spanish midfielder was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
+<Article>
+it seems an accepted trend that chelsea midfielder cesc fabregas struggles during the second half of the season and the spanish midfielder was one of the worst players on the pitch again in his country 's 2-0 defeat by holland on tuesday .
 the 27-year-old spoke of his happiness in south west london earlier this week but his form has significantly dipped from that of the player who , around christmas , looked a dead-cert to break the barclays premier league record for assists .
 on tuesday - his first international appearance since october - he was given just four out of 10 by one spanish newspaper and while his season is likely to end in success with the premier league title following a capital one cup win , questions remain about fabregas ' durability .
 cesc fabregas ( right ) captained spain on tuesday but his poor form continued as they lost 2-0 in holland
@@ -37,16 +32,23 @@ the personal accolade will be important to the midfielder , but more key is the 
 chelsea could need as many as six wins from their remaining nine games , and if fabregas finds form again the premier league title could be wrapped up within weeks .
 mourinho will hope his assist for diego costa in chelsea 's last game against hull city is a sign of a late-season resurgence to prove any doubters wrong .
 fabregas laid on an assist for costa in chelsea 's 3-17 win over hull city , but that was his first in five games
-mourinho is looking to guide his team over the line in the premier league title race , with fabregas a key cog 
+mourinho is looking to guide his team over the line in the premier league title race , with fabregas a key cog
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+fabregas ' former team-mate thierry henry ( right ) holds the record for assists in a premier league season 
+henry managed 20 assists in the 2002-03 season and fabregas looked set to beat that haul before his slump 
+when he left barcelona , the club commented on fabregas ' unwanted reputation for a late-season slump 
+</Summary>
 
-1. The summary states that Fabregas "looked set to beat" Thierry Henry's record for assists in a Premier League season, but the article states that Fabregas' form has "dipped" and he has only one assist in five games.
-2. The summary claims that Fabregas has struggled in the second half of the season, but the article states that he has been playing almost every minute of every match for Chelsea and has been a key man in the team's title charge.
-3. The summary mentions that Fabregas has struggled against Manchester United and has not had the same impact in midfield, but the article does not mention this.
-4. The summary states that Fabregas' former club Barcelona released a statement pointing out his traditional post-Christmas slump, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents a more positive view of Fabregas' season than the article does. The article highlights his struggles in the second half of the season and his declining form, while the summary emphasizes his early-season success and his potential to break Henry's record.
+1. The summary states that Fabregas's former teammate Thierry Henry holds the record for assists in a Premier League season, with 20 assists in the 2002-03 season.
+2. The article states that Fabregas looked set to beat Henry's haul before his slump.
+3. However, the article also states that Fabregas has struggled in recent games and has only one assist in his last five appearances for club and country.
+4. Therefore, it is not consistent with the article to say that Fabregas looked set to beat Henry's record, as the article suggests that he is not currently performing at the same level as he was earlier in the season.
+5. The summary does not provide any information about Fabregas's current form or his struggles in recent games, which is not consistent with the article.
+6. The article provides specific information about Fabregas's decline in form, including his one assist in five games and his struggles in midfield against Holland, which is not mentioned in the summary.
+7. Therefore, the summary is not a consistent representation of the information in the article.
 
 ###Corrected:

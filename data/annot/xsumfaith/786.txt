@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    apple has begun legal action against apple over its use of cyber-thieves \'accounts to allow cyber-thieves to be banned from icloud. 
-
-    Article: 
-    It follows suggestions third-party software had been used to steal intimate photos of celebrities - posted online last month - from iCloud.
+<Article>
+It follows suggestions third-party software had been used to steal intimate photos of celebrities - posted online last month - from iCloud.
 The action should stop the tool from being able to infiltrate Apple's internet storage service if the safety measure is implemented.
 However, the security facility remains an opt-in choice.
 One expert suggested that Apple should instead make it the default option.
@@ -31,16 +28,20 @@ But another security expert downplayed the risk of lost recovery keys, and said 
 "And that applies to not just Apple, but companies like Microsoft and Google too."
 Apple has told the Wall Street Journal that it "plans to more aggressively encourage people" to turn two-factor authentication on and use stronger passwords.
 "When I step back from this terrible scenario that happened and say what more could we have done, I think about the awareness piece," chief executive Tim Cook told the newspaper.
-"I think we have a responsibility to ratchet that up. That's not really an engineering thing." 
+"I think we have a responsibility to ratchet that up. That's not really an engineering thing."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+apple has begun legal action against apple over its use of cyber-thieves \'accounts to allow cyber-thieves to be banned from icloud.
+</Summary>
 
-1. The summary states that Apple has begun legal action against Apple over its use of cyber-thieves' accounts to allow cyber-thieves to be banned from iCloud. However, the article does not mention anything about Apple taking legal action against Apple. Instead, it discusses Apple's new security measures to prevent cyber-thieves from accessing iCloud accounts.
-2. The summary implies that Apple is taking legal action against the cyber-thieves, but the article does not support this claim. The article only mentions that Apple is implementing new security measures to protect its users' accounts.
-3. The summary mentions "cyber-thieves' accounts," which is not a correct phrase. The article only refers to "cyber-thieves" as individuals who use third-party software to steal intimate photos of celebrities from iCloud.
-4. The summary does not accurately reflect the article's discussion of Apple's new security measures. The article explains that Apple is introducing an extra step to access iCloud, which will require users to enter a four-digit code sent to a trusted mobile phone number or device. The summary does not mention this new security measure.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and misleading information. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
+1. The summary states that Apple has begun legal action against cyber-thieves. This is not consistent with the article, as the article discusses Apple's efforts to improve the security of its iCloud service and protect users' data, but does not mention any legal action against cyber-thieves.
+2. The summary mentions "accounts" being used by cyber-thieves, which is not accurate. The article discusses the use of Elcomsoft's software to access iCloud content, but does not mention anything about "accounts" being used by cyber-thieves.
+3. The summary suggests that Apple is taking legal action against the cyber-thieves to ban them from iCloud. This is not consistent with the article, which discusses Apple's efforts to improve the security of its iCloud service and protect users' data, but does not mention any legal action against cyber-thieves.
+4. The article discusses Apple's decision to make two-factor authentication an opt-in feature, and the expert opinions on why this feature should be made the default. The summary does not mention any of this information.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information. It is not a reliable representation of the article's content.
 
 ###Corrected:

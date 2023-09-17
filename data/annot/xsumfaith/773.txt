@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bids for a new royal navy aircraft have been submitted to the public for the first time in the uk. 
-
-    Article: 
-    The decommissioned Type 22 frigates HMS Cumberland, HMS Campbeltown, HMS Chatham and HMS Cornwall are currently moored in Portsmouth Harbour.
+<Article>
+The decommissioned Type 22 frigates HMS Cumberland, HMS Campbeltown, HMS Chatham and HMS Cornwall are currently moored in Portsmouth Harbour.
 Bidders had until 23 January to register an interest in the former Devonport-based ships.
 The BBC understands no proposals to preserve the ships have been submitted.
 Those who have registered an interest are finalising their bids with viewings set to take place in late February and March.
@@ -20,17 +17,20 @@ The Ministry of Defence has previously said it will "consider all options" for t
 A spokeswoman would not comment on the number or nature of the bids received due to "commercial sensitivity".
 Originally designed as a specialist anti-submarine ship, the Type 22 frigate evolved into a powerful surface combatant with substantial anti-surface, anti-submarine and anti-aircraft weapons systems.
 They were also known for having excellent command and control, and communication facilities, making them ideal flagships on deployments, with a complement of about 280 crew.
-Last year, the aircraft carrier HMS Ark Royal was sold as scrap for Â£3m. 
+Last year, the aircraft carrier HMS Ark Royal was sold as scrap for Â£3m.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+bids for a new royal navy aircraft have been submitted to the public for the first time in the uk.
+</Summary>
 
-1. The summary states that bids for a new royal navy aircraft have been submitted to the public for the first time in the UK. However, the article does not mention anything about bids for a new aircraft. Instead, it talks about the sale of decommissioned Type 22 frigates.
-2. The summary mentions that the bids are being finalized with viewings set to take place in late February and March. However, the article does not mention any specific dates or times for viewings or bid finalization.
-3. The summary states that the government's Disposal Services Authority wants to award at least one of the frigates to a UK ship recycler to determine the capacity of the UK's industry in the field. However, the article does not mention anything about the government's intention to award the frigates to ship recyclers specifically.
-4. The summary mentions that the MP for Portsmouth North, Penny Mordaunt, is keen to see at least one of the frigates saved from the scrapyard. However, the article does not mention any specific MP or their preferences for the fate of the frigates.
-5. The summary states that the Ministry of Defence will "consider all options" for the frigates to ensure "best financial return for the taxpayer". However, the article does not mention any specific options being considered by the Ministry of Defence.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as bids for new aircraft, specific dates for viewings and bid finalization, and the government's intention to award the frigates to ship recyclers. Additionally, the summary includes quotes from an MP that are not present in the article.
+1. The summary states that bids for a new Royal Navy aircraft have been submitted to the public for the first time in the UK. This is not consistent with the article, as the article does not mention anything about new aircraft or bids being submitted to the public.
+2. The article discusses the decommissioned Type 22 frigates that are being sold for scrapping, and the potential for at least one of them to be saved for use as a diving attraction or reef. The summary does not mention anything about the Type 22 frigates or their potential fate.
+3. The summary is written in a way that suggests the bids are for a new aircraft, which is not consistent with the article. The article does not mention anything about new aircraft, and the focus is on the decommissioned frigates.
+4. The article is written in a serious and factual tone, while the summary is written in a more sensationalized tone, which is not consistent with the tone of the article.
+
+Therefore, the summary is not consistent with the article. It appears to be a misleading or inaccurate summary of the article's content.
 
 ###Corrected:

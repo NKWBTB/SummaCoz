@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in the wake of donald trump\'s decision to leave the eu, there is no doubt that the us should not be allowed to leave the country. 
-
-    Article: 
-    The secretary of state was, by all accounts, a member of the "Remain Campaign" lobbying against a US withdrawal from the Paris Agreement.
+<Article>
+The secretary of state was, by all accounts, a member of the "Remain Campaign" lobbying against a US withdrawal from the Paris Agreement.
 So President Trump's "Climate Brexit" was a blow to him - in an ironic twist the fossil fuel company he used to head supports the accord while the government he now represents does not.
 It was also a blow to the State Department, and to diplomacy.
 How much of a personal setback is not clear because on this, as on other issues, Tillerson kept a low profile.
@@ -25,17 +22,20 @@ Finally, it's a rejection of a monumental diplomatic effort by more than 190 cou
 To be fair, this is not entirely untravelled ground - remember George W Bush's decision against ratifying the 1997 Kyoto climate change treaty.
 But it is more starkly isolationist, and this is a different Washington - in private chats, international diplomats from across the global spectrum complain that normal channels for getting and giving information at the State Department and White House are still unstaffed. They struggle to find the people who can listen to their concerns or tell them what's going on.
 So while this will not break alliances, it could be more difficult to pick up the pieces and say we can still be friends.
-Follow Barbara on Twitter 
+Follow Barbara on Twitter
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+in the wake of donald trump\'s decision to leave the eu, there is no doubt that the us should not be allowed to leave the country.
+</Summary>
 
-1. The summary states that the US should not be allowed to leave the country, while the article does not mention anything about the US leaving the country. Instead, the article focuses on the US withdrawal from the Paris Agreement on climate change.
-2. The summary suggests that the US decision to withdraw from the Paris Agreement is a personal setback for Secretary of State Rex Tillerson, while the article does not mention Tillerson's personal feelings or opinions on the matter.
-3. The summary states that the US withdrawal from the Paris Agreement is a blow to the State Department and diplomacy, while the article focuses on the impact of the withdrawal on the environment and international relations.
-4. The summary mentions that Tillerson kept a low profile after the decision, while the article states that he did not attend the Rose Garden ceremony and did not issue a statement.
-5. The summary suggests that the US withdrawal from the Paris Agreement is isolationist, while the article notes that the US remains a member of the UN framework for climate change issues.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, there are several reasons why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it focuses on personal opinions and emotions, while the article focuses on the facts and impact of the US withdrawal from the Paris Agreement.
+1. The summary mentions the EU, while the article is about the US withdrawal from the Paris Agreement, not the EU.
+2. The summary states that the US should not be allowed to leave the country, while the article does not mention anything about the US leaving a country.
+3. The summary is not consistent with the tone and content of the article, which is a critical analysis of the US withdrawal from the Paris Agreement and its implications for the State Department and diplomacy.
+
+Therefore, the summary is not a accurate reflection of the content of the article and is not consistent with the facts presented in the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    this is the first time this summer 's look has made a comeback .
-this is the first time this look has made a comeback since the seventies .
-this is the first time this look has made a comeback since the seventies . 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,15 +28,23 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+this is the first time this summer 's look has made a comeback .
+this is the first time this look has made a comeback since the seventies .
+this is the first time this look has made a comeback since the seventies .
+</Summary>
 
-1. The summary states that the wide-leg trouser is making a comeback for the first time since the seventies, but the article states that the trend has made a comeback before, with Louise Redknapp trying the trend seven years ago.
-2. The summary mentions that the wide-leg trouser is a new look for this summer, but the article emphasizes that it's not a new trend, and that it's been around before.
-3. The summary suggests that the wide-leg trouser is an alternative to the skinny jean, but the article doesn't mention anything about the skinny jean being replaced or going out of style.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents the wide-leg trouser as a new and unique trend, while the article portrays it as a recurring trend that has been around for a while.
+Based on the provided article and summary, there are several inconsistencies that can be identified:
+
+1. First time comeback: The summary states that "this is the first time this look has made a comeback since the seventies," but the article does not mention anything about it being the first time the look has made a comeback. In fact, the article states that the wide-leg trouser has made a comeback before, citing that it was popular in the seventies.
+2. Timeframe: The summary mentions "this summer," but the article does not mention anything about the current season or timeframe. The article only mentions that the trend is "at the forefront of SS15 trends."
+3. Focus: The summary focuses solely on the wide-leg trouser, while the article provides a more comprehensive overview of the trend, including different styles, fabrics, and ways to style it.
+
+Based on these inconsistencies, it is clear that the summary is not a consistent representation of the article's content. The summary is too focused on one aspect of the trend and ignores other important details mentioned in the article. Additionally, the timeframe and first-time comeback statements in the summary are not supported by the article.
 
 ###Corrected:

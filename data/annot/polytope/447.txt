@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england full back mike brown admitted he is unsure when he will return to action for harlequins .  
-northampton wing george north has been advised by leading medics not to play again this season .  
-ireland 's johnny sexton was stood down for 12 weeks . 
-
-    Article: 
-    mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
+<Article>
+mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
 the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens at wembley last weekend .
 northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
 england full back mike brown admits he is unsure when he will return to action for club side harlequins
@@ -35,17 +30,23 @@ brown ( right ) says he suffered a headache after playing in england 's clash ag
 ` now i 've been through it i would definitely talk to team-mates urging them not to play on if i thought they were showing symptoms .
 ` at the time you think it 's a pain but now i 'm very glad i took those online modules .
 ` it 's just not worth pushing through . '
-land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage . 
+land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+england full back mike brown admitted he is unsure when he will return to action for harlequins .  
+northampton wing george north has been advised by leading medics not to play again this season .  
+ireland 's johnny sexton was stood down for 12 weeks .
+</Summary>
 
-1. The summary states that Mike Brown admitted he is unsure when he will return to action for Harlequins, while the article states that he is determined not to suffer an extended break and will not rush himself back to action ahead of time.
-2. The summary mentions that George North has been advised by leading medics not to play again this season, while the article only states that he will see a neurosurgeon and will take it stage by stage.
-3. The summary states that Johnny Sexton was stood down for 12 weeks, while the article only mentions that he was one of the players who have been affected by concussion.
-4. The summary does not mention the online modules that Mike Brown took to learn about the symptoms of concussion, which is a key point in the article.
-5. The summary does not accurately reflect Brown's attitude towards his recovery, as the article portrays him as being cautious but determined to return to action as soon as possible.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately represent the content of the article, and is not consistent with the information provided.
+1. The summary states that England fullback Mike Brown is unsure when he will return to action for Harlequins.
+2. The article states that Brown is determined not to suffer an extended break and will not rush himself back to action ahead of time.
+3. The summary does not mention Brown's determination to avoid an extended break, which is a significant detail that contradicts the summary.
+4. The summary also states that Northampton wing George North has been advised by leading medics not to play again this season, but the article does not mention this.
+5. The summary mentions Ireland's Johnny Sexton being stood down for 12 weeks, but the article does not mention this.
+
+Therefore, the summary is not consistent with the article because it omits important details and includes information that is not present in the article. The summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

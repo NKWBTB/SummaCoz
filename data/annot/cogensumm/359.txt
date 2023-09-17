@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    roma and everton have asked to be kept informed. 
+<Article>
+Newcastle have made initial moves to sign Marseille forward Andre Ayew. The 25-year-old Ghana international is out of contract in the summer and his representatives have an outline offer from Newcastle. However, there is also interest from Roma while Tottenham and Everton have asked to be kept informed. Andre Ayew is out of contract at Marseille this summer, and Newcastle have made an initial approach . Ayew has netted six times for Marseille this season, as well as scoring three during the Africa Cup of Nations . Ayew scored three goals for Ghana in the Africa Cup of Nations and has managed six all season for Marseille. Newcastle have also expressed interest in FC Sion striker Moussa Konate. The Ghana forward is wanted by several of Europe's top sides including Tottenham, Everton and Roma .
+</Article>
 
-    Article: 
-    Newcastle have made initial moves to sign Marseille forward Andre Ayew. The 25-year-old Ghana international is out of contract in the summer and his representatives have an outline offer from Newcastle. However, there is also interest from Roma while Tottenham and Everton have asked to be kept informed. Andre Ayew is out of contract at Marseille this summer, and Newcastle have made an initial approach . Ayew has netted six times for Marseille this season, as well as scoring three during the Africa Cup of Nations . Ayew scored three goals for Ghana in the Africa Cup of Nations and has managed six all season for Marseille. Newcastle have also expressed interest in FC Sion striker Moussa Konate. The Ghana forward is wanted by several of Europe's top sides including Tottenham, Everton and Roma . 
+<Summary>
+roma and everton have asked to be kept informed.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Roma and Everton have asked to be kept informed, but the article does not mention this.
-2. The article mentions that Tottenham, Everton, and Roma have expressed interest in the player, but the summary only mentions Roma and Everton.
-3. The article states that Newcastle have made an initial approach for the player, but the summary does not mention this.
-
-Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. Specifically, it does not mention Tottenham's interest, it only mentions Roma and Everton's interest, and it does not mention Newcastle's initial approach.
+1. The article states that Newcastle have made an initial approach to sign Andre Ayew from Marseille.
+2. The summary states that Roma and Everton have asked to be kept informed.
+3. However, the article does not mention anything about Roma or Everton expressing interest in Ayew.
+4. The article only mentions that Tottenham and Everton have asked to be kept informed, but not Roma.
+5. Therefore, the summary is not consistent with the article because it mentions Roma, which is not supported by the text.
 
 ###Corrected:

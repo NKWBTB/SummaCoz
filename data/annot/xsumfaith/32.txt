@@ -1,34 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the belfast giants came from behind to beat nottingham panthers 5-2 in the first of a elite league campaign. 
-
-    Article: 
-    The Giants got a short-handed opener through player-coach Derrick Walser but Jeff Dimmen pulled the Panthers level.
+<Article>
+The Giants got a short-handed opener through player-coach Derrick Walser but Jeff Dimmen pulled the Panthers level.
 In the second period Mike Forney's powerplay breakaway goal make it 2-1 with Andy Bohmback equalising.
 Mike Radja scored from an acute angle and James Desmarais made it 4-2 before Nottingham's David Ling got one back.
 The teams meet again on Saturday night in the second match of their double-header.
-Nottingham lead the league on 28 points, with Sheffield Steelers on 27 and Belfast 25. 
+Nottingham lead the league on 28 points, with Sheffield Steelers on 27 and Belfast 25.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+the belfast giants came from behind to beat nottingham panthers 5-2 in the first of a elite league campaign.
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary states that the Belfast Giants came from behind to beat the Nottingham Panthers 5-2 in the first game of their Elite League campaign.
-
-Step 2: Identify the main points of the article
-
-The article states that the Giants got a short-handed opener through player-coach Derrick Walser, but Jeff Dimmen pulled the Panthers level. In the second period, Mike Forney's powerplay breakaway goal made it 2-1, and Andy Bohmbach equalized. Mike Radja scored from an acute angle, and James Desmarais made it 4-2 before Nottingham's David Ling got one back.
-
-Step 3: Identify the inconsistencies
-
-The summary states that the Giants came from behind to beat the Panthers 5-2, but the article does not mention a final score of 5-2. Instead, the article states that the Giants were leading 4-2 before Nottingham's David Ling got one back.
-
-Step 4: Explain the inconsistencies
-
-The inconsistency between the summary and the article is that the summary states a final score of 5-2, while the article does not mention such a score. Instead, the article states that the Giants were leading 4-2 before Nottingham scored another goal. Therefore, the summary is not consistent with the article.
+1. The summary states that the Belfast Giants came from behind to beat the Nottingham Panthers 5-2.
+2. However, the article states that the Panthers equalized the score at 2-2 and the Giants went on to win 4-2.
+3. The summary is not consistent with the article because it does not accurately reflect the score or the outcome of the game.
+4. The article mentions that the Giants got a short-handed opener, but the summary does not include this information.
+5. The summary also does not mention the powerplay breakaway goal by Mike Forney, the equalizing goal by Andy Bohmback, or the acute angle goal by Mike Radja.
+6. Therefore, the summary is not a consistent summary of the article and contains important information that is not present in the article.
 
 ###Corrected:

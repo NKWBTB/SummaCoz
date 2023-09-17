@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    
-there are 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
-there are now 120 confirmed cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
- 
-
-    Article: 
-    indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
+<Article>
+indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
 there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
 that 's up from 106 last week , said the indiana state department of health .
 health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
@@ -47,22 +41,27 @@ pence 's executive order did n't include money for the scott county program .
 how sustainable is that ? '
 said dr. beth meyerson , co-director of the rural center for aids/std prevention at indiana university .
 ` there 's no evidence that the pence administration is thinking about this in the long term at all . '
- 
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given text, the summary is not consistent with the article because:
+</Article>
 
-1. The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County, while the article states that there are now 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County.
-2. The summary does not mention the article's mention of Indiana or Scott County.
-3. The summary does not mention the article's mention of a needle exchange program or the fact that the program was approved by Governor Mike Pence.
-4. The summary does not mention the article's mention of the association between needle exchanges and illegal drug activity, or the fact that some lawmakers are uncomfortable with the idea of needle exchanges.
-5. The summary does not mention the article's mention of the future of the Scott County program or the fate of legislation that would allow needle-exchange programs in other counties.
-6. The summary does not mention the article's mention of the fact that the Centers for Disease Control and Prevention reports that between 50 percent and 90 percent of people with hepatitis C are also infected with HIV.
-7. The summary does not mention the article's mention of the fact that health officials say that high rates of hepatitis C are a key indicator of needle-sharing and a potential HIV outbreak.
-8. The summary does not mention the article's mention of the fact that the House approved the bill on April 7 in a 54-39 vote, and the measure is scheduled for a hearing on Monday in a house-senate conference committee.
-9. The summary does not mention the article's mention of the fact that long said that pence isn't alone in his concerns that needle exchanges could promote drug use instead of prevent it.
-10. The summary does not mention the article's mention of the fact that medical waste containers are being stored in preparation for Scott County residents who are looking to exchange used needles.
+<Summary>
 
-Therefore, the summary is not consistent with the article because it does not include many of the key details and events mentioned in the article.
+there are 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
+there are now 120 confirmed cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
+
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Number of cases: The summary states that there are 120 confirmed HIV cases and 10 preliminary positive cases tied to Scott County, while the article states that there are now 120 confirmed cases and 10 preliminary positive cases. The summary incorrectly states the number of cases as if it is a fixed number, while the article indicates that the number is increasing.
+2. Location: The summary incorrectly locates Scott County as being "about 30 miles north of Louisville, Kentucky," while the article correctly states that Scott County is located about 30 miles north of Louisville, Kentucky.
+3. Purpose of needle exchange: The summary does not mention the purpose of the needle exchange program, which is to prevent the spread of HIV and other blood-borne diseases among intravenous drug users. The article mentions this purpose several times.
+4. Extension of program: The summary does not mention the possibility of extending the needle exchange program beyond April 25, while the article states that Gov. Pence is considering extending the program.
+5. Lawmakers' concerns: The summary does not mention lawmakers' concerns about needle exchanges promoting drug use instead of preventing it, while the article states that lawmakers, including Gov. Pence, have expressed such concerns.
+6. Long-term solution: The summary does not mention the need for a long-term solution to the HIV outbreak, while the article states that health officials say that the needle exchange program is not a long-term solution and that other measures are needed to prevent the spread of HIV.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the information and details provided in the article.
 
 ###Corrected:

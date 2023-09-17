@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland\'s rory mcilroy is one shot off the lead after the first round of the fedex championship in california. 
-
-    Article: 
-    France's Dubuisson carded a 67 to tie with overnight leader Van Zyl of South Africa on 16 under par.
+<Article>
+France's Dubuisson carded a 67 to tie with overnight leader Van Zyl of South Africa on 16 under par.
 McIlroy carded a third straight five under-par 67 to move to 15 under par with Thailand's Kiradech Aphibarnrat.
 The world number three's round included an eagle on the 12th as he bids to win his first title since May.
 "The 67s I've shot this week have all been a little different and I feel like I've played within myself for all of them, " said four-time major winner McIlroy of Northern Ireland. "I feel there's a low round out there for me and hopefully it's tomorrow."
@@ -15,15 +12,19 @@ But he hit back with a birdie on the par-five 11th and a towering four iron from
 The former world number one ruptured a ligament in his left ankle during a game of football with friends in July, ruling him out of several tournaments.
 But he returned in time to unsuccessfully defend his US PGA title at Whistling Straits in August and played in three of the FedEx Cup play-off events before starting the new PGA Tour season with a tie for 26th in the Frys.com Open in California.
 He is targeting a third Race to Dubai title in four years and leads England's Danny Willett by 271, 214 points with three events remaining after the Turkish Open.
-English pair Chris Wood (-13) and Richard Bland (-12) who were tied for second overnight are fifth and seventh respectively. 
+English pair Chris Wood (-13) and Richard Bland (-12) who were tied for second overnight are fifth and seventh respectively.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+northern ireland\'s rory mcilroy is one shot off the lead after the first round of the fedex championship in california.
+</Summary>
 
-1. The summary states that Rory McIlroy is one shot off the lead, but the article states that he is tied for second place, three shots behind the leader.
-2. The summary mentions that McIlroy carded a 67 in the first round, but the article states that he carded a 67 in the third round.
-3. The summary states that McIlroy is targeting a third Race to Dubai title in four years, but the article does not mention anything about the Race to Dubai.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article, as it contains errors and inaccuracies.
+1. The summary states that Rory McIlroy is one shot off the lead after the first round of the FedEx Championship in California.
+2. However, the article states that McIlroy carded a 67 to move to 15 under par, which is three shots behind the lead.
+3. Therefore, the summary is not consistent with the article, as it suggests that McIlroy is one shot off the lead, while the article states that he is three shots behind.
+4. The error in the summary likely occurred because the article states that McIlroy is 15 under par, which is three shots behind the lead, but the summary misinterpreted this information and stated that he is one shot off the lead.
+5. Additionally, the summary does not provide any supporting information from the article, such as McIlroy's eagle on the 12th hole or his four straight birdies, which further indicates that the summary is not consistent with the article.
 
 ###Corrected:

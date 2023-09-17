@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united. 
-
-    Article: 
-    Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
+<Article>
+Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control.
 El Bakhtaoui raced on to a Ryan Wallace ball to score his first, before scoring a stunning 30-yard volley from Michael Paton's cross.
-Craig Moore fired a late chance over for Ayr United, who remain third. 
+Craig Moore fired a late chance over for Ayr United, who remain third.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united.
+</Summary>
 
-1. The summary states that Mohamed El Bakhtaoui scored twice for Ayr United, but the article states that he scored only once.
-2. The summary states that Ayr United came from behind to beat Pars, but the article states that Pars was in control for most of the game and Ayr United never led.
-3. The summary does not mention the name of the opposing team, Pars, while the article clearly states that Ayr United played against Pars.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains factual errors and omissions. The name of the opposing team, Pars, is not mentioned, and the number of goals scored by El Bakhtaoui is incorrect.
+1. The article states that Pars goalkeeper Sean Murdoch denied Jamie Adams in the first half, indicating that there were few chances in the half.
+2. The article also states that two quick fire goals put the visitors in control, suggesting that the game changed rapidly in favor of the visitors.
+3. The summary states that Ayr United came from behind to beat Pars, which is not supported by the article.
+4. The article states that El Bakhtaoui scored two goals for Pars, not Ayr United.
+5. Therefore, the summary is not consistent with the article because it incorrectly states that Ayr United came from behind to win, and it misidentifies the team that scored the goals.
 
 ###Corrected:

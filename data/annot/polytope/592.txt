@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united have made an official approach for william carvalho .
-united have made an official approach for the 21-year-old .
-united have made an official approach for the 21-year-old .
-united have made an official approach for the dutch giants . 
-
-    Article: 
-    manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
+<Article>
+manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
 the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
 van gaal is already familiar with the qualities of depay having named him in his 23-man world cup squad last year as holland finished third in brazil .
 video scroll down to see depay 's stunning free kick against heerenveen
@@ -55,17 +49,31 @@ international star and world cup goalscorer
 depay was handed his first oranje call-up by louis van gaal in 2013 and was selected for holland 's world cup squad a year later .
 the energetic frontman scored the winning goal in holland 's 3-2 victory over australia , before coming off the bench to net against chile and help van gaal 's men seal top spot in group b.
 having impressed in brazil , depay was nominated for the tournament 's ` best young player ' award but lost out to france midfielder paul pogba .
-click here to read sportsmail 's full background article about memphis depay . 
+click here to read sportsmail 's full background article about memphis depay .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+manchester united have made an official approach for william carvalho .
+united have made an official approach for the 21-year-old .
+united have made an official approach for the 21-year-old .
+united have made an official approach for the dutch giants .
+</Summary>
 
-1. The summary states that Manchester United have made an official approach for William Carvalho, but the article does not mention anything about Carvalho.
-2. The summary mentions that Manchester United have made an official approach for Memphis Depay, but the article only mentions that the club has ramped up their efforts to sign Depay and that they have made contact with him.
-3. The summary states that United have made an official approach for the Dutch giants, but the article does not mention anything about the club making an approach for the entire team.
-4. The summary mentions that Depay is worth more than the £15 million that Tottenham bid last summer, but the article does not mention this.
-5. The summary states that Depay is a prolific scorer, but the article only mentions that he has scored 20 goals in 26 league games this season.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the approach for William Carvalho, and it exaggerates the information that is present in the article, such as the value of Depay.
+The given summary is not consistent with the article because:
+
+1. The summary mentions "Manchester United have made an official approach for William Carvalho," but the article does not mention anything about Carvalho.
+2. The summary mentions "the 21-year-old" and "the Dutch giants" multiple times, but the article only mentions Memphis Depay, a 21-year-old Dutch player who plays for PSV Eindhoven.
+3. The summary does not accurately reflect the content of the article, which is primarily about Memphis Depay and his potential transfer to Manchester United.
+
+Here's a step-by-step explanation of why the summary is not consistent with the article:
+
+1. The first line of the summary mentions "Manchester United have made an official approach for William Carvalho," but the article does not mention Carvalho at all. This is a clear indication that the summary is not consistent with the article.
+2. The second line of the summary mentions "the 21-year-old," but the article only mentions Memphis Depay, who is also 21 years old. This is a minor inconsistency, but it suggests that the summary is not accurately reflecting the content of the article.
+3. The third line of the summary mentions "the Dutch giants," but the article only mentions PSV Eindhoven, which is a Dutch club. This is another minor inconsistency that suggests the summary is not consistent with the article.
+4. The final line of the summary mentions "the 21-year-old," again, but this time in conjunction with "the Dutch giants." This is a repetition of the previous inconsistency and further suggests that the summary is not accurately reflecting the content of the article.
+
+In conclusion, the summary is not consistent with the article because it mentions William Carvalho, who is not mentioned in the article, and it uses phrases that are not accurately reflective of the content of the article.
 
 ###Corrected:

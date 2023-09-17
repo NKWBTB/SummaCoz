@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the fbi has filed a lawsuit against the fbi over the killing of a man in the us state of pennsylvania. 
-
-    Article: 
-    Police in Arkansas wish to unlock an iPhone and iPod belonging to two teenagers accused of killing a couple, according to the Associated Press (AP).
+<Article>
+Police in Arkansas wish to unlock an iPhone and iPod belonging to two teenagers accused of killing a couple, according to the Associated Press (AP).
 Less than a day after its San Bernardino announcement, the FBI agreed to help in the homicide case.
 Syed Farook and his wife were shot dead after killing 14 people in December.
 A judge agreed to postpone the Arkansas case on 28 March to allow prosecutors to ask the FBI for help.
@@ -15,17 +12,20 @@ Staton had been raised as a grandson by the Cogdells.
 "We always appreciate [the FBI's] cooperation and willingness to help their local law enforcement partners," Faulkner County prosecuting attorney Cody Hilland told the AP.
 An attorney for Mr Drexler told the AP he was "not concerned" about any data on the phone.
 Previously, the FBI had asked Apple to write new software that would allow it to gain access to Farook's iPhone.
-However, the company refused, arguing it would be wrong to compromise the security of one of its devices since that might lead to vulnerabilities in many other iPhones. 
+However, the company refused, arguing it would be wrong to compromise the security of one of its devices since that might lead to vulnerabilities in many other iPhones.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+the fbi has filed a lawsuit against the fbi over the killing of a man in the us state of pennsylvania.
+</Summary>
 
-1. The summary states that the FBI has filed a lawsuit against the FBI, which is not possible since the FBI is a government agency and cannot sue itself.
-2. The article does not mention any lawsuit filed by the FBI or any involvement of the FBI in the homicide case in Arkansas.
-3. The article only mentions that the FBI agreed to help in the homicide case in Arkansas, which is not the same as filing a lawsuit.
-4. The summary also mentions that the FBI filed a lawsuit over the killing of a man in Pennsylvania, which is not mentioned in the article.
-5. Therefore, the summary is not consistent with the article, and it appears to be a misleading or inaccurate summary of the article's content.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it contains information that is not present in the article, and it omits other important information that is present in the article.
+1. The article states that the FBI is helping local law enforcement in Arkansas to unlock two iPhones belonging to teenagers accused of killing a couple.
+2. The summary states that the FBI has filed a lawsuit against the FBI over the killing of a man in the US state of Pennsylvania.
+3. These two statements are contradictory, as the FBI is not involved in a lawsuit over the killing of a man in Pennsylvania, but rather is helping local law enforcement in Arkansas.
+4. Therefore, the summary is not consistent with the article, and it appears to be incorrect.
+
+Note: The summary may have been mistaken or misleading, or it may have referred to a different case or incident. It is important to carefully read and verify the accuracy of any information before accepting it as true.
 
 ###Corrected:

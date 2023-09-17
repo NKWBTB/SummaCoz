@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    when i reported last year about the urgent need for blood donors i received many comments from gay men that they would like to donate but were unable to. 
-
-    Article: 
-    Now the complete ban is being lifted.  Until now, any man who had ever had sex with another man was barred for life from donation.
+<Article>
+Now the complete ban is being lifted.  Until now, any man who had ever had sex with another man was barred for life from donation.
 From 7 November the ban is being lifted in England, Scotland and Wales.   But men who want to donate must not have had sex with another man in the past 12 months.
 This deferral period has been left in place because there is a "window period" after infection with blood-borne viruses where they are not detectable.
 This window period is far less than 12 months.
@@ -19,21 +16,23 @@ But Sir Nick Partridge, Chief Executive of Terrence Higgins Trust said: "The rem
 A one year deferral period for donation applies to other groups as well: for example anyone who has been sexually active in countries where HIV/Aids is very common, and anyone who has had sex with a prostitute.
 NHS Blood and Transplant has a complete list of who can and cannot donate.
 The hope will be that the shift in policy will lead to an increase in the number of donors.
-If you want more detail about the reasoning behind the decision to lift the ban, then the full report from the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) can be read here. 
+If you want more detail about the reasoning behind the decision to lift the ban, then the full report from the Advisory Committee on the Safety of Blood, Tissues and Organs (SaBTO) can be read here.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+when i reported last year about the urgent need for blood donors i received many comments from gay men that they would like to donate but were unable to.
+</Summary>
 
-1. The summary states that gay men who had ever had sex with another man were unable to donate blood, but the article states that the ban is being lifted, and men who want to donate must not have had sex with another man in the past 12 months.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-2. The article explains that the deferral period has been left in place because there is a "window period" after infection with blood-borne viruses where they are not detectable. This window period is far less than 12 months.
+1. The article states that the complete ban on blood donations from men who have had sex with other men is being lifted, but a one-year deferral period remains in place.
+2. The summary states that gay men were unable to donate blood last year due to the ban.
+3. These two statements are not consistent, as the ban is being lifted but gay men were unable to donate last year.
+4. The article explains that the one-year deferral period is in place because of the "window period" after infection with blood-borne viruses, where they are not detectable.
+5. The article also states that the deferral period is not based on the individual's sexual activity but rather on the heightened risk of sexually acquired blood-borne viruses for sexually active gay men.
+6. Therefore, the summary's statement that gay men were unable to donate blood last year is not accurate, as the ban was in place and the deferral period is not based on individual sexual activity.
 
-3. The article goes on to say that in other countries, such as the US, Canada, and France, there is a complete ban on donations from men who have ever had sex with men, whereas the UK is lifting the ban but imposing a 12-month deferral period.
-
-4. The article quotes Stonewall Chief Executive Ben Summerskill as saying that the one-year deferral is too long, while Sir Nick Partridge, Chief Executive of Terrence Higgins Trust, says that the remaining deferral regulation for sexually active gay men is based on their heightened risk of sexually acquired blood-borne viruses.
-
-5. The article notes that a one-year deferral period for donation applies to other groups as well, such as anyone who has been sexually active in countries where HIV/Aids is very common, and anyone who has had sex with a prostitute.
-
-6. Based on these points, it is clear that the summary statement "gay men were unable to donate blood" is not consistent with the article, as the ban is being lifted and men who have not had sex with another man in the past 12 months can donate. The summary statement focuses only on the fact that gay men were unable to donate, without mentioning the lifting of the ban or the deferral period. Therefore, the summary is not consistent with the article.
+So, the inconsistency between the article and the summary is due to the fact that the summary is not accurately representing the information in the article. The summary states that gay men were unable to donate blood last year, but the article explains that the ban was in place and the deferral period is not based on individual sexual activity.
 
 ###Corrected:

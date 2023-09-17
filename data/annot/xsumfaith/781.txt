@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s biggest food video may not be able to buy a domestic food freezer, according to a video released by the bbc. 
-
-    Article: 
-    We are aware that this interactive video may not work on some older browsers. You can find a non-interactive version of the content below.
+<Article>
+We are aware that this interactive video may not work on some older browsers. You can find a non-interactive version of the content below.
 In this interactive video, Robert Opie - the founder of the Museum of Brands, Packaging and Advertising in London - outlines some of the main reasons why we change what we buy.
 The arrival of the domestic freezer, of washing powder, and of cheaper imports all affected the sort of items on sale and popular among UK consumers.
 The interactive elements to this video also explore how ownership and ranking of some of the biggest brands in the UK is changing.
@@ -15,15 +12,21 @@ Click on the links below to read the extra information used in this video in a n
 What in the world does China own?
 Top tips on freezing food, BBC Good Food
 Annual survey ranking the top 20 consumer brands in the UK
-Museum of Brands, Packaging and Advertising 
+Museum of Brands, Packaging and Advertising
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the world\'s biggest food video may not be able to buy a domestic food freezer, according to a video released by the bbc.
+</Summary>
 
-1. The summary mentions that the world's biggest food video may not be able to buy a domestic food freezer, but the article does not mention anything about a food video or the inability to buy a domestic freezer.
-2. The summary refers to the BBC, but the article does not mention the BBC.
-3. The summary mentions that the video explores how ownership and ranking of some of the biggest brands in the UK is changing, but the article does not mention anything about ownership or ranking of brands.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article. The article is actually about a video that explores why we change what we buy, and it includes information about the arrival of the domestic freezer, cheaper imports, and the impact on popular items and brands in the UK.
+1. The article states that the interactive video may not work on some older browsers, and provides a non-interactive version of the content below.
+2. The summary states that the world's biggest food video may not be able to buy a domestic food freezer.
+3. The article does not mention anything about the world's biggest food video or the ability to buy a domestic food freezer. In fact, the article is about the Museum of Brands, Packaging and Advertising in London and the reasons why we change what we buy.
+4. Therefore, the summary is not consistent with the article. The article does not provide information about the world's biggest food video or the ability to buy a domestic food freezer, and the summary is not supported by the information in the article.
+
+Overall, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

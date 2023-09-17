@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a millionaire accused of murdering his wife has told a murder trial she had been ``unlawfully\'\'killed. 
-
-    Article: 
-    Barry Pring, 47, was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008.
+<Article>
+Barry Pring, 47, was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008.
 His wife, Ganna Ziuzina, had returned to a restaurant for a missing glove.
 The coroner at Exeter County Hall, Dr Elizabeth Earland, recorded a verdict of unlawful killing.
 More on the millionaire 'murdered' by his wife, and other news
@@ -27,21 +24,21 @@ Greater Devon coroner Dr Elizabeth Earland said "strenuous attempts" had been ma
 In a statement, Ms Ziuzina said she had made "three separate statements to Ukrainian police" and did not believe she could "add anything further".
 Det Con Jonathan Watts, from Devon and Cornwall Police, said Mr Pring was hit by a car with no lights, speeding at 75mph.
 He also said witnesses at the scene in Kiev described the killing "as a deliberate act".
-The Ukrainian police closed an inquiry into his death, but relaunched it in 2011 as a murder inquiry. The case is still active "but not actively pursued". 
+The Ukrainian police closed an inquiry into his death, but relaunched it in 2011 as a murder inquiry. The case is still active "but not actively pursued".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a millionaire accused of murdering his wife has told a murder trial she had been ``unlawfully\'\'killed.
+</Summary>
 
-1. The summary states that the millionaire was accused of murdering his wife, but the article states that he was killed by a speeding car.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there are several reasons why the summary is not consistent with the article:
 
-2. The summary does not mention the location of the murder (Kiev, Ukraine), which is clearly stated in the article.
+1. Inconsistent verb tense: The summary uses the present tense ("a millionaire accused of murdering his wife") while the article uses the past tense ("Barry Pring was killed").
+2. Incorrect word choice: The summary uses the word "unlawfully" instead of "unlawfully killed," which is the correct phrase used in the article.
+3. Incorrect focus: The summary focuses on the millionaire being accused of murdering his wife, while the article focuses on the inquest into Barry Pring's death and the verdict of unlawful killing.
+4. Missing information: The summary does not include any information about the inquest or the verdict of unlawful killing, which is a key part of the article.
 
-3. The summary does not mention that the car had stolen license plates and did not brake or stop, which is a crucial detail mentioned in the article.
-
-4. The summary does not mention that the coroner recorded a verdict of unlawful killing, which is a significant finding that is mentioned in the article.
-
-5. The summary does not mention that the case is still active as a murder inquiry, which is mentioned at the end of the article.
-
-Overall, the summary is not consistent with the article because it does not accurately convey the key details of the case, such as the cause of death, the location, and the ongoing investigation.
+Overall, the summary is not consistent with the article because it does not accurately reflect the content or tone of the article. The summary is too brief and focuses on the wrong information, leading to inaccuracies and inconsistencies.
 
 ###Corrected:

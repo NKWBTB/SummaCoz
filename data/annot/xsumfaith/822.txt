@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the russian news agency novaya gazeta has said it is ``retribution\'\'against russian men detained in chechnya. 
-
-    Article: 
-    Chechen Muslim clerics met on 3 April, two days after the paper's revelations, and said the report had insulted their faith and the dignity of Chechen men.
+<Article>
+Chechen Muslim clerics met on 3 April, two days after the paper's revelations, and said the report had insulted their faith and the dignity of Chechen men.
 "Retribution will catch up with the true instigators, wherever and whoever they are," their resolution said.
 Novaya Gazeta says it amounts to a call for "reprisals against journalists".
 "We urge the Russian authorities to do everything possible to prevent actions aimed at inciting hatred and enmity towards journalists, who are doing their professional duty," the paper said.
@@ -24,15 +21,20 @@ In an open letter to the mufti, the paper's chief editor Dmitry Muratov said his
 Chechens have been linked to two murders of Novaya Gazeta reporters who investigated crimes in Chechnya - Anna Politkovskaya and Natalia Estemirova.
 But much remains unclear about those contract killings, and that of Boris Nemtsov, an opposition politician who was shot dead in Moscow in 2015 and also exposed corruption and organised crime in Chechnya.
 The LGBT Network says it is helping people to flee the persecution in Chechnya and accuses the Russian authorities of ignoring the abuses.
-If Russia fails to prosecute anyone, it says it will file a case at the International Criminal Court in The Hague. 
+If Russia fails to prosecute anyone, it says it will file a case at the International Criminal Court in The Hague.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the russian news agency novaya gazeta has said it is ``retribution\'\'against russian men detained in chechnya.
+</Summary>
 
-1. The summary states that the Russian news agency Novaya Gazeta said the detentions in Chechnya were "retribution" against Russian men, but the article does not support this claim. Instead, the article states that the Chechen Muslim clerics called for "retribution" against those who they believe insulted their faith and the dignity of Chechen men.
-2. The summary does not mention the context of the report by Novaya Gazeta, which was about the detention of over 100 people in Chechnya on suspicion of being homosexual, and the alleged torture and killings of some of the detainees. The article provides more information about the report and the response from the Chechen authorities and religious leaders.
-3. The summary does not mention the denial of the allegations by Ramzan Kadyrov, the authoritarian leader of Chechnya, or the response of the Russian LGBT Network, which is helping people to flee the persecution in Chechnya and accuses the Russian authorities of ignoring the abuses.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not provide a clear and accurate representation of the content of the article, and does not convey the full context and complexity of the issue.
+1. The summary states that Novaya Gazeta reported that the detention of Russian men in Chechnya is "retribution" against them.
+2. However, the article states that the detentions were based on suspicions of homosexuality, and that the Chechen clerics have called for "retribution" against those who slandered the Chechen nation and clerics.
+3. The article does not mention anything about "retribution" against the detained men. Instead, it focuses on the allegations of homophobia and human rights abuses in Chechnya.
+4. Therefore, the summary is not consistent with the article, as it misrepresents the content of the article and focuses on a different aspect of the story.
+5. The summary is also not accurate, as there is no evidence in the article to suggest that the detentions were a form of "retribution" against the men. Instead, the article emphasizes the allegations of homophobia and human rights abuses.
+6. Overall, the summary is not a accurate reflection of the content of the article, and it misrepresents the story by focusing on a different aspect of the story.
 
 ###Corrected:

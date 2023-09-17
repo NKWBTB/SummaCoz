@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the scottish government has been accused of ``burying the size of taxation\'\'by the scottish government. 
-
-    Article: 
-    A review for the Commission on Local Tax Reform said there was no "magic bullet" to cure defects in the system.
+<Article>
+A review for the Commission on Local Tax Reform said there was no "magic bullet" to cure defects in the system.
 It said the council tax had built-in problems "from day one" but a failure to modify it had stored up more difficulties for policy makers.
 The commission, set up by the Scottish government and council body Cosla, will report back later this year.
 Prof Kenneth Gibb, from the University of Glasgow, was asked to review different systems of local taxation across the world.
@@ -21,14 +18,26 @@ He said:  "It is clear there is no magic bullet.
 The commission now intends to hold a public consultation across Scotland before publishing its report in the autumn.
 A Scottish government spokesman said ministers consider the current council tax system "as a whole to be unfair".
 He added: "That is why, along with our local government partners, we have established the cross-party Commission on Local Tax Reform to examine fairer alternatives.
-"The Scottish government awaits the commission's report, which is due in the Autumn." 
+"The Scottish government awaits the commission's report, which is due in the Autumn."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the scottish government has been accused of ``burying the size of taxation\'\'by the scottish government.
+</Summary>
 
-1. The summary states that the Scottish government has been accused of "burying the size of taxation." However, the article does not mention anything about the Scottish government trying to hide the size of taxation.
-2. The article actually discusses a review of the current council tax system and the potential for reform. The review found that the current system has built-in problems and that a local income tax, while perceived as fairer, creates difficulties for local authorities.
-3. The article does not mention any accusations of the Scottish government trying to hide the size of taxation. Instead, it focuses on the review of the current system and the potential for reform.
-4. Therefore, the summary is not consistent with the article because it introduces a claim that is not supported by the text. The summary should have focused on the review of the current system and the potential for reform, rather than introducing an unsupported claim about the Scottish government trying to hide the size of taxation.
+Explain your reasoning step by step:[/INST]
+
+1. The summary states that the Scottish government has been accused of "burying the size of taxation."
+2. However, the article does not mention anything about the Scottish government hiding or downplaying the size of taxation.
+3. In fact, the article states that the Scottish government has established a cross-party commission to examine fairer alternatives to the current council tax system, indicating that they are taking steps to address the issue.
+4. The article also quotes a Scottish government spokesman as saying that the current council tax system is considered "unfair" and that the government is awaiting the commission's report.
+5. Therefore, the summary is not consistent with the article, as there is no evidence to support the accusation that the Scottish government has been hiding the size of taxation.
+
+Reasoning step by step:
+
+1. The summary makes a specific accusation against the Scottish government.
+2. The article does not provide any evidence to support this accusation.
+3. Instead, the article describes the Scottish government's efforts to address the issues with the current council tax system.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

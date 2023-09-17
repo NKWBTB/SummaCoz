@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police in southern china have seized more than 1, 000 alcohol bottles and seized more than 1, 200 bottles of contaminated milk, local media report. 
-
-    Article: 
-    More than 5,300 bottles of alcohol were seized by the investigators in the southern city of Liuzhou.
+<Article>
+More than 5,300 bottles of alcohol were seized by the investigators in the southern city of Liuzhou.
 They also found packets of a white powder called Sildenafil, better known as the anti-impotence drug Viagra.
 Police in the Guangxi region are now investigating the two distillers.
 The Liuzhou Food and Drug Administration said (in Chinese) that the powder was added to three different types of 'baijiu' - a strong, clear spirit that is the most popular drink in China.
@@ -15,21 +12,22 @@ Doctors recommend that adults requiring prescription should take only one dose o
 China continues to face widespread food safety problems.
 In June, police in cities across China seized more than 100,000 tonnes of smuggled meat, some of which was more than 40 years old.
 The 2008 tainted milk scandal outraged the nation.
-Some 300,000 people were affected and at least six babies died after consuming milk adulterated with melamine. 
+Some 300,000 people were affected and at least six babies died after consuming milk adulterated with melamine.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+police in southern china have seized more than 1, 000 alcohol bottles and seized more than 1, 200 bottles of contaminated milk, local media report.
+</Summary>
 
-1. The summary states that police in southern China seized more than 1,000 alcohol bottles and 1,200 bottles of contaminated milk.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-2. However, the article states that more than 5,300 bottles of alcohol were seized, not 1,000. This is a significant difference.
+1. The article states that the investigators seized more than 5,300 bottles of alcohol, but the summary states that the police seized more than 1,000 bottles of alcohol. This is a discrepancy in the number of bottles seized.
+2. The article also mentions that the investigators found packets of a white powder called Sildenafil, better known as Viagra, but the summary does not mention this. This is a significant omission, as the discovery of Viagra is a crucial aspect of the article.
+3. The article states that the powder was added to three different types of 'baijiu', a popular Chinese spirit, but the summary does not mention this detail.
+4. The article provides a value for the seized haul, stating that it was worth up to 700,000 yuan, but the summary does not include this information.
+5. The article mentions that China continues to face widespread food safety problems, but the summary does not mention this.
 
-3. Additionally, the article does not mention anything about contaminated milk. Instead, it mentions the seizure of packets of a white powder called Sildenafil, which is an anti-impotence drug.
-
-4. Therefore, the summary is not consistent with the article because it mentions two things (alcohol bottles and contaminated milk) that are not mentioned in the article. The article only mentions the seizure of alcohol and the presence of a drug.
-
-5. It's possible that the summary was based on a different article or source that mentioned contaminated milk, but it's not present in the article being analyzed.
-
-6. Overall, the summary is not an accurate reflection of the content of the article.
+Based on these differences, it is clear that the summary is not consistent with the article. The summary omits significant details, such as the discovery of Viagra and the addition of the powder to the baijiu, and includes incorrect information, such as the number of bottles seized. Therefore, the summary is not an accurate representation of the article.
 
 ###Corrected:

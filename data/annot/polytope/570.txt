@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    eden hazard and nathan ake go head-to-head in the boot of a car .
-hazard and matic set to sink their ball into the boot of a car from close range .
-the duo were involved in the biggest blows in the first two rounds . 
-
-    Article: 
-    on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
+<Article>
+on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
 taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
 in round one , the chelsea stars aim to fire balls into the boot of a car from close range , with hazard and ake securing the points with a 5-3 win .
 one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
@@ -23,16 +18,21 @@ willian and remy redeem themselves to produce a shock win over their team-mates 
 shown in a short clip at the very end of the video , willian can be seen smashing the wing mirror off one of the audi 's with a long-range effort .
 team-mate remy 's hands-on-head reaction says it all ... but we 're pretty sure he wo n't have to pay to repair the damage .
 remy puts his hands on his head after watching willian smash the wing mirror of one of the cars
-willian laughs after being allowed to drive one of the audi 's that was part of the football challenge 
+willian laughs after being allowed to drive one of the audi 's that was part of the football challenge
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+eden hazard and nathan ake go head-to-head in the boot of a car .
+hazard and matic set to sink their ball into the boot of a car from close range .
+the duo were involved in the biggest blows in the first two rounds .
+</Summary>
 
-1. The summary mentions Hazard and Ake going head-to-head in the boot of a car, but the article does not mention anything about the boot of a car. Instead, the article states that the players were challenged to sink balls into the convertible Audi's from long range.
-2. The summary mentions Hazard and Ake securing the points with a 5-3 win, but the article does not mention any scores or winners. Instead, the article states that the Chelsea players were set challenges to sink balls into the convertible Audi's from long range and that Hazard and Ake won the decider to take a 6-0 lead after the first two rounds.
-3. The summary mentions the players shooting at cars from long range, but the article does not mention anything about shooting at cars. Instead, the article states that the players were challenged to sink balls into the convertible Audi's from long range.
-4. The summary mentions Willian smashing the wing mirror off one of the Audi's with a long-range effort, but the article does not mention anything about Willian smashing the wing mirror or any damage to the cars.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains details that are not present in the article, and omits other important information that is present in the article.
+1. The summary states that Eden Hazard and Nathan Ake went head-to-head in the boot of a car, but the article does not mention anything about the boot of a car.
+2. The summary states that Hazard and Matic set to sink their ball into the boot of a car from close range, but the article does not mention Matic or any mention of sinking balls into the boot of a car.
+3. The summary states that the duo were involved in the biggest blows in the first two rounds, but the article does not mention any blows or any specific details about the challenges in the first two rounds.
+
+Therefore, the summary is not consistent with the article. The summary only mentions a few isolated details that are not accurately representative of the article's content.
 
 ###Corrected:

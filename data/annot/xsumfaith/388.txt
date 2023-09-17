@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    plans for a new hotel in east dorset have been approved by councillors. 
-
-    Article: 
-    Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
+<Article>
+Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
 English Heritage strongly objected to the scale of the development in what is a designated conservation area.
 But, councillors voted seven to three in favour saying it would help tourism.
 Chair of the planning board and Conservative ward councillor David Kelsey, said the buildings earmarked for demolition were nice but no longer "necessarily functional".
@@ -16,21 +13,19 @@ The site on Grove Road and East Overcliff Drive will get a 90-room hotel along w
 Applicants The East Cliff Project LLP will demolish Bay View Court, The Cottonwood and the Ocean View hotels.
 The council received 246 letters supporting the plans.
 Forty-nine residents and the Ancient Monuments Society wrote to object to the demolition, stating that despite being altered, they still "give a sense of the historic character of the area".
-English Heritage said the scale of the development would cause "severe harm" to the conservation area. 
+English Heritage said the scale of the development would cause "severe harm" to the conservation area.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+plans for a new hotel in east dorset have been approved by councillors.
+</Summary>
 
-1. The summary states that plans for a new hotel in east Dorset have been approved by councillors. However, the article states that the plans were approved despite strong objections from English Heritage and other local residents.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not mention anything about the demolition of existing hotels or the construction of assisted-living apartment blocks, which are key aspects of the article.
+1. The summary states that "plans for a new hotel in east dorset have been approved by councillors." This is not consistent with the article, as the article states that the plans were approved despite opposition from English Heritage and some residents.
+2. The summary does not provide any information about the specific details of the plans, such as the size of the hotel or the number of assisted-living apartments. The article provides this information, stating that the development will include a six-storey, four-star hotel and two assisted-living apartment blocks.
+3. The summary does not mention the objections raised by English Heritage and some residents, nor does it mention the reasons why the councillors voted in favor of the plans. The article provides this information, stating that English Heritage objected to the scale of the development and that some residents and the Ancient Monuments Society objected to the demolition of the existing hotels.
 
-3. The article states that the development will include a six-storey, four-star hotel and two assisted-living apartment blocks, which is not mentioned in the summary.
-
-4. The summary does not mention the objections from English Heritage or the Ancient Monuments Society, which are significant details that are included in the article.
-
-5. The article states that the council received 246 letters supporting the plans, but the summary does not mention this fact.
-
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary does not provide an accurate summary of the article's content, and it omits several key details that are included in the article.
+Therefore, the summary is not consistent with the article and does not provide a accurate overview of the plans approved by the councillors.
 
 ###Corrected:

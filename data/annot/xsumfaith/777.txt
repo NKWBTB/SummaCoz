@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the parents of a woman who murdered her sick baby have said they have been ``overwhelmed\'\'by her parents. 
-
-    Article: 
-    Lance Corporal Trimaan "Harry" Dhillon stalked Alice Ruggles before fatally attacking her last October.
+<Article>
+Lance Corporal Trimaan "Harry" Dhillon stalked Alice Ruggles before fatally attacking her last October.
 Her parents Sue Hills and Clive Ruggles described the moment two Northumbria Police officers knocked on their door.
 Prof Ruggles said: "And then they said to us Alice has been killed. And we looked at each other and said 'It's Harry'. We knew, we knew even then."
 The trial at Newcastle Crown Court heard Dhillon had become obsessed with the 24-year-old and had stalked her.
@@ -19,15 +16,18 @@ She said: "And I sort of reassured her that was ok, the police knew what was goi
 Prof Ruggles said he didn't think any of them, including his daughter, realised how serious the situation was despite the signs.
 Her parents have set up the Alice Ruggles Trust and they said they were hoping to use that and their daughter's "vibrant personality" to make other people aware of the dangers of stalking.
 They said they wanted her to be remembered for that and as "smiling and laughing and making some sort of cheeky comment."
-Dhillon, 26, denied murder but was found guilty and sentenced to a minimum of 22 years. 
+Dhillon, 26, denied murder but was found guilty and sentenced to a minimum of 22 years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's why the summary is not consistent with the article:
+<Summary>
+the parents of a woman who murdered her sick baby have said they have been ``overwhelmed\'\'by her parents.
+</Summary>
 
-1. The summary mentions the parents of the victim, Alice Ruggles, being "overwhelmed" by her parents, but the article does not mention anything about Alice's parents being overwhelmed. Instead, the article focuses on the parents' guilt and regret for not taking the stalking situation more seriously.
-2. The summary does not mention the stalker, Lance Corporal Trimaan "Harry" Dhillon, but the article reveals that he was obsessed with Alice and had stalked her before fatally attacking her.
-3. The summary mentions the parents setting up the Alice Ruggles Trust to make other people aware of the dangers of stalking, but the article does not mention the trust.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It focuses on the parents' feelings of guilt and regret, but leaves out important details about the stalker and the trust set up in Alice's memory.
+1. The summary states that the parents of a woman who was murdered have been "overwhelmed" by her parents.
+2. However, the article does not mention anything about the parents of the murdered woman being overwhelmed. Instead, it focuses on the parents of the perpetrator, Lance Corporal Trimaan "Harry" Dhillon, and their feelings of guilt and grief.
+3. Therefore, the summary is not consistent with the article, as it implies that the parents of the murdered woman are the ones who are overwhelmed, when in fact, it is the parents of the perpetrator who are experiencing this emotion.
+4. The reason for this inconsistency is likely that the person who wrote the summary misread or misinterpreted the article, and mistakenly believed that the parents of the murdered woman were the ones who were overwhelmed.
 
 ###Corrected:

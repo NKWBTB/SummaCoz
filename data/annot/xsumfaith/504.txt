@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a # 9.8 m deficit recorded for 2014/15 at an essex hospital is to be investigated by a health service watchdog. 
-
-    Article: 
-    Monitor is looking into the financial sustainability of Southend University Hospital Foundation Trust "on behalf of patients", the NHS regulator said.
+<Article>
+Monitor is looking into the financial sustainability of Southend University Hospital Foundation Trust "on behalf of patients", the NHS regulator said.
 Finances became a concern when a planned £7.8m deficit grew, for which Monitor could see no recovery plan.
 The hospital blamed the larger-than-anticipated deficit on growth in demand and increased staff recruitment.
 Hospital chairman Alan Tobias OBE, said:  "The overspend is a result of vital investment in services and more staff to ensure high standards of patient care as well as the rise in attendances.
@@ -15,16 +12,20 @@ The hospital has pledged to cut the deficit while maintaining "high quality care
 Monitor said its investigation will look into the state of the hospital trust's finances, assess the strength of its financial management and explore ways of improving its sustainability, on behalf of patients across the region.
 The investigation will also examine how the trust works with other local health and care organisations to respond to the financial challenges it faces.
 Katherine Cawley, regional director at Monitor, said: "People are relying on Southend to provide them with quality healthcare now and in the future, and we are concerned that this may be at risk because of the trust's poor financial performance.
-"We have launched this investigation to find out more about the financial situation at the trust and to establish what can be done to improve things." 
+"We have launched this investigation to find out more about the financial situation at the trust and to establish what can be done to improve things."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a # 9.8 m deficit recorded for 2014/15 at an essex hospital is to be investigated by a health service watchdog.
+</Summary>
 
-1. The summary states that a £9.8 million deficit recorded for 2014/15 at an Essex hospital is to be investigated by a health service watchdog.
-2. However, the article does not mention a £9.8 million deficit. Instead, it states that the hospital recorded a planned £7.8 million deficit, which grew due to increased demand and staff recruitment.
-3. The article also mentions that Monitor, the NHS regulator, is investigating the financial sustainability of Southend University Hospital Foundation Trust, but the investigation is focused on the trust's financial management and sustainability, not a specific deficit of £9.8 million.
-4. Therefore, the summary is not consistent with the article because it mentions a specific deficit that is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is incorrect because it references a deficit that is not mentioned in the article. The article focuses on Monitor's investigation into the financial sustainability of Southend University Hospital Foundation Trust and the hospital's plans to cut the deficit while maintaining high-quality care.
+1. The summary states that the hospital recorded a £9.8m deficit in 2014/15, but the article does not mention any specific deficit figure.
+2. The article does mention that the hospital is facing a planned £7.8m deficit, but there is no mention of a £9.8m deficit.
+3. The summary also mentions that the health service watchdog is investigating the deficit, but the article does not mention any investigation by Monitor.
+4. The article does mention that Monitor is looking into the financial sustainability of the hospital, but the focus of the investigation is on the hospital's financial management and the strength of its financial plans, rather than a specific deficit figure.
+
+Therefore, the summary is not consistent with the article because it mentions a specific deficit figure that is not supported by the article, and it also mentions an investigation by Monitor that is not mentioned in the article.
 
 ###Corrected:

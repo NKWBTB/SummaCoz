@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mexico football player and international footballer claudio pulido has been freed after being kidnapped, officials say. 
-
-    Article: 
-    Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
+<Article>
+Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
 Pulido, 25, was abducted at gunpoint on Saturday night in his home town of Ciudad Victoria in Tamaulipas state.
 A 38-year-old man has been arrested.
 Officials say the man had confessed to belonging to a local criminal gang. Police are searching for another three men believed to have been involved in the kidnapping.
@@ -21,23 +18,21 @@ Pulido, with one of his hands bandaged, told reporters early on Monday: "[I am] 
 Tamaulipas is one of Mexico's most violent states, and Mexico recently deployed more security forces to tackle cartels operating in the area.
 The country has one of the world's highest kidnapping rates, with government figures saying some 1,000 people are abducted every year.
 Pulido joined Olympiakos last July and finished the season with six goals in 15 games.
-He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament. 
+He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+mexico football player and international footballer claudio pulido has been freed after being kidnapped, officials say.
+</Summary>
 
-Step 1: Identify the inconsistent information in the summary.
+Explain your reasoning step by step:[/INST]
 
-The summary states that Claudio Pulido has been freed after being kidnapped, but the article does not mention any release or freedom for Pulido. Instead, the article states that Pulido was abducted and was found alone with one of his abductors when the police arrived.
+1. The summary states that Claudio Pulido has been freed after being kidnapped, but the article does not support this claim. Instead, the article states that Pulido was rescued by police after he called the emergency services and threatened his kidnapper.
+2. The summary does not mention that Pulido was rescued by police or that he threatened his kidnapper. Instead, it simply states that he has been freed.
+3. The article states that Pulido was abducted at gunpoint and was taken to a house in Ciudad Victoria, where he was left alone with one of his abductors. The summary does not mention any of these details.
+4. The article states that Pulido called the emergency services and threatened his kidnapper, but the summary does not mention this. Instead, it simply states that he has been freed.
+5. The article states that Pulido was rescued by police, but the summary does not mention this. Instead, it implies that he was freed on his own.
 
-Step 2: Analyze the reason for the inconsistency.
-
-The inconsistency in the summary is likely due to a misunderstanding or misinterpretation of the article. The article does not mention Pulido being freed, but rather that he was found alone with one of his abductors when the police arrived. The summary may have inferred that Pulido was released or freed based on the fact that he was found alone and the police had arrived.
-
-Step 3: Evaluate the impact of the inconsistency.
-
-The inconsistency in the summary may have led to confusion or misinformation for readers who relied solely on the summary for information. It may also have created a false impression that Pulido was released or freed, which is not supported by the article.
-
-In conclusion, the given summary is not consistent with the article because it states that Pulido has been freed, while the article does not mention any release or freedom for Pulido. The inconsistency is likely due to a misunderstanding or misinterpretation of the article, and it may have led to confusion or misinformation for readers.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the details of the events. The summary omits important information, such as the fact that Pulido was rescued by police and that he threatened his kidnapper, and instead presents a simplified and inaccurate version of the events.
 
 ###Corrected:

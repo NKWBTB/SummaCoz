@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the state emergency service was deluged with calls for assistance last week .
-it lashed the state 's east coast for three days last week and has more than 4,000 jobs from the UNK requests still to be completed . 
-
-    Article: 
-    residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+<Article>
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
 meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
 the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
 ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
@@ -63,18 +59,22 @@ bureau of meteorology nsw regional director barry hanstrum said : ` early indica
 the bureau of meteorology said it was too early to tell how severe the weather system would be .
 ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
 ` obviously we 're trying to get through has many as we can before next system hits , ' she said .
-ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia . 
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the state emergency service was deluged with calls for assistance last week .
+it lashed the state 's east coast for three days last week and has more than 4,000 jobs from the UNK requests still to be completed .
+</Summary>
 
-1. The summary states that the state emergency service was deluged with calls for assistance last week, but the article states that the service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed. This implies that the service has already completed some jobs, but the summary does not reflect this.
-2. The summary mentions an east coast low that lashed the state's east coast for three days last week, but the article does not mention this. Instead, the article states that a trough of low pressure is forming along the coast and will hit heaviest in the far northern parts of the state.
-3. The summary states that the ses is concerned that more storms will hamper clean-up efforts, but the article does not mention this. Instead, the article states that the ses is particularly worried about the effect more wild weather would have on the hard-hit hunter region.
-4. The summary mentions a freak hail storm coming down on Saturday, but the article does not mention this.
-5. The summary states that the weather system appeared to be moving quickly, but the article states that it is too early to tell how severe the weather system would be.
-6. The summary mentions that the ses will spend the next few days trying to complete as many jobs as possible before another severe storm hits, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It includes some details that are not mentioned in the article, and omits other important information that is included in the article.
+1. The summary states that the State Emergency Service (SES) was deluged with calls for assistance last week, but the article states that the SES has more than 4,000 jobs from the 24,196 requests still to be completed. This implies that the SES has not completed all of the requests for assistance from last week's wild weather, which is not consistent with the summary.
+2. The article states that another storm is predicted to hit the region this week, with heavy rain possible from Thursday, but the summary does not mention this. This is a significant piece of information that is not included in the summary, which is not consistent.
+3. The article provides details about the expected impact of the storm, including the possibility of flooding and damage, but the summary does not provide any information about the expected impact. This is not consistent, as the summary should provide a brief overview of the article's content, including the expected impact of the storm.
+4. The article provides information about the location of the storm and the areas that are expected to be affected, but the summary does not mention this. The article states that the storm is expected to hit the northern parts of the state, particularly the Hunter region, but the summary does not provide any information about the location of the storm. This is not consistent.
+5. The article provides information about the severity of the storm and the potential for flooding and damage, but the summary does not mention this. The article states that the storm is expected to be severe and that there is a concern about the effect of more wild weather on the hard-hit Hunter region, but the summary does not provide any information about the severity of the storm or the potential for flooding and damage. This is not consistent.
+
+Overall, the summary does not provide a consistent overview of the article's content, as it does not include important information about the expected impact of the storm, the location of the storm, and the severity of the storm.
 
 ###Corrected:

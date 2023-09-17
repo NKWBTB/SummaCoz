@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england wrapped up a crushing victory in the second test against australia in cardiff to take a 1-0 series lead. 
-
-    Article: 
-    The hosts claimed Australia's last five wickets for 44 runs on Friday morning to bowl them out for 308 and secure a first-innings lead of 122.
+<Article>
+The hosts claimed Australia's last five wickets for 44 runs on Friday morning to bowl them out for 308 and secure a first-innings lead of 122.
 Ian Bell and Joe Root both scored 60 and Ben Stokes 42 as England surged further ahead in the afternoon session to the delight of a buoyant Cardiff crowd.
 And although wickets fell regularly in a frenetic finale, Mark Wood's unbeaten 32 helped England reach 289 all out to set Australia an improbable 412 to win.
 Only two teams in Test history have successfully chased that many runs, with Australia's best effort the 404-3 by Don Bradman's 'Invincibles' at Headingley in 1948.
@@ -26,19 +23,21 @@ England's brilliance has set up the possibility of a four-day finish, and the ho
 Australia will no doubt still fancy their chances of pulling off a record-breaking victory, but in reality the Welsh weather represents their best chance of avoiding going into next week's second Test at Lord's 1-0 down.
 Australia spinner Nathan Lyon: "We're definitely still in it. If we bat two days the result will go our way. There's no reason why we can't dig deep.
 "We've got to learn from our first innings with the bat - be more patient. There were too many 30s in the first innings, so we need to try and push on a bit more and have a couple of our top five get big hundreds."
-England batsman Ian Bell: "There are no gimmes and we expect more tomorrow. We are going to have to work hard to win." 
+England batsman Ian Bell: "There are no gimmes and we expect more tomorrow. We are going to have to work hard to win."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+england wrapped up a crushing victory in the second test against australia in cardiff to take a 1-0 series lead.
+</Summary>
 
-1. The summary states that England wrapped up a crushing victory in the second test against Australia, but the article does not mention the word "crushing" or any language that suggests a decisive victory.
-2. The summary states that England took a 1-0 series lead, but the article does not mention the series score or any language that suggests England has taken the lead.
-3. The summary states that England set Australia an improbable target of 412 to win, but the article does not mention the target or any language that suggests it was improbable.
-4. The summary states that only two teams in Test history have successfully chased that many runs, but the article does not mention this fact or any language that suggests it is a rare feat.
-5. The summary states that England set the tone for a near-perfect day with an electric performance on the third morning, but the article does not mention the word "near-perfect" or any language that suggests England played perfectly.
-6. The summary states that Australia spinner Nathan Lyon said "we're definitely still in it" and "there's no reason why we can't dig deep", but the article does not mention these quotes or any language that suggests Australia is confident about their chances.
-7. The summary states that England batsman Ian Bell said "there are no gimmes and we expect more tomorrow", but the article does not mention this quote or any language that suggests England is expecting a tough battle on the final day.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary presents a more decisive and one-sided victory for England than the article does. The article focuses more on the back-and-forth nature of the match and the challenges that both teams face, while the summary presents a more definitive outcome in favor of England.
+1. The summary states that England wrapped up a crushing victory in the second test against Australia in Cardiff, which is not consistent with the article. The article states that England set Australia an improbable target of 412 to win, which suggests that the match was not a crushing victory for England.
+2. The summary does not provide any specific information about the match, such as the scores or the performance of individual players, which suggests that it is not based on the article.
+3. The article provides detailed information about England's performance, including their bowling and batting efforts, which suggests that the summary is not a accurate reflection of the match.
+4. The article mentions that England set Australia an improbable target of 412 to win, which suggests that the match was not a crushing victory for England. The summary does not provide any information about the target set by England or the chances of Australia winning, which suggests that it is not based on the article.
+5. The article provides quotes from both England and Australia players, which suggests that the summary is not a accurate reflection of the match. The summary does not provide any quotes or specific information about the players' performances, which suggests that it is not based on the article.
+
+Therefore, based on the above reasons, it can be concluded that the summary is not consistent with the article and is not an accurate reflection of the match.
 
 ###Corrected:

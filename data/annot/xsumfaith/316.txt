@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a senior minister has called on the government to introduce a new tax system in the wake of the panama papers scandal. 
-
-    Article: 
-    Stephen Hammond said job roles would change when the paper system for car tax discs is scrapped in October.
+<Article>
+Stephen Hammond said job roles would change when the paper system for car tax discs is scrapped in October.
 The minister allayed fears about job losses in a letter to Swansea East AM Mike Hedges.
 Mr Hedges said the minister's response would "give comfort" to DVLA employees.
 Concerns over the future of some of the 5,000 workers at the Driving and Vehicle Licensing Agency centre were raised in October after Chancellor George Osborne's Autumn Statement.
@@ -18,15 +15,19 @@ In his response to Mr Hedges, Mr Hammond said: "It is likely that the introducti
 "Any reductions in numbers of people needed for these activities will be managed through redeploying to other growth areas of the business."
 Mr Hedges welcomed the minister's assurances.
 He added: "Whilst disappointed that the changes will reduce the number of job opportunities at the DVLA, I can see the advantages of both paying by monthly direct debits and not having to show a tax disc.
-"I am pleased the minister is committed to redeployment rather than redundancies and I am sure this response will give comfort to many concerned DVLA employees." 
+"I am pleased the minister is committed to redeployment rather than redundancies and I am sure this response will give comfort to many concerned DVLA employees."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a senior minister has called on the government to introduce a new tax system in the wake of the panama papers scandal.
+</Summary>
 
-1. The summary states that a senior minister has called for a new tax system in response to the Panama Papers scandal.
-2. However, the article does not mention anything about a new tax system or the Panama Papers scandal.
-3. Instead, the article discusses the replacement of the paper tax disc system with an electronic system, and the potential impact on jobs at the Driving and Vehicle Licensing Agency (DVLA) center.
-4. The summary is not consistent with the article because it mentions a new tax system and the Panama Papers scandal, while the article only discusses the replacement of the tax disc system and potential job changes at the DVLA.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that the government is planning to replace the paper tax disc system with an electronic system, which will allow people to pay the charge by monthly direct debit.
+2. The article quotes Stephen Hammond, a minister, as saying that the introduction of the new system may lead to changes in job roles and the need to train on new processes.
+3. However, the summary states that a senior minister has called on the government to introduce a new tax system in the wake of the Panama Papers scandal.
+4. This is not consistent with the article, as there is no mention of a new tax system being introduced in response to the Panama Papers scandal.
 5. Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

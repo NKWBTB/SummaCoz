@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    conor mcgregor\'s fight against ufc champion conor mcgregor in las vegas on 9 august will be discussed by the nevada authorities. 
-
-    Article: 
-    The former five-weight world champion submitted a necessary waiver to the Nevada Athletic Commission (NAC) on Wednesday, hours before the deadline.
+<Article>
+The former five-weight world champion submitted a necessary waiver to the Nevada Athletic Commission (NAC) on Wednesday, hours before the deadline.
 The NAC, which sanctioned the bout, told BBC Sport it expected to receive a request from McGregor on Wednesday.
 NAC rules state fights at 154 lbs require 10oz gloves and the matter will now be debated on 16 August.
 Lighter gloves offer less cushioning for the hands but theoretically lead to punches being more punishing.
@@ -27,16 +24,32 @@ Bennett said that McGregor's UFC rival Nate Diaz played a role in him forming hi
 McGregor floored Diaz three times on his way to a points win in August 2016, avenging a defeat via submission five months earlier.
 Since sanctioning the fight, Bennett has had access to three videos showing McGregor's progress and told BBC Sport: "He's good to go."
 He also advised McGregor's camp to employ a boxing referee in order to feel comfortable with the rules, advice which led to the hiring of Hall of Fame official Joe Cortez, 73.
-Cortez said he oversaw an "out of control" sparring session between McGregor and Paulie Malignaggi. The former two-weight world champion has since left the camp after reacting angrily to images of him on the canvas during a sparring session. 
+Cortez said he oversaw an "out of control" sparring session between McGregor and Paulie Malignaggi. The former two-weight world champion has since left the camp after reacting angrily to images of him on the canvas during a sparring session.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+conor mcgregor\'s fight against ufc champion conor mcgregor in las vegas on 9 august will be discussed by the nevada authorities.
+</Summary>
 
-1. The summary states that the Nevada Athletic Commission (NAC) will discuss Conor McGregor's fight against Floyd Mayweather in Las Vegas on August 9th. However, the article states that the NAC has already received a necessary waiver from McGregor and will debate the matter publicly before announcing its decision.
-2. The summary mentions that the NAC will discuss the use of 8oz gloves for the fight, but the article states that the NAC rules require 10oz gloves for fights at 154lbs, and that bouts between 135lbs and 147lbs can use 8oz gloves if waivers are signed and the NAC feels the move is justified.
-3. The summary states that McGregor has used 4oz gloves in his UFC career, but the article does not mention this.
-4. The summary states that the NAC will debate the matter publicly before announcing its decision, but the article states that the NAC has already received a necessary waiver from McGregor and will not be debating the matter publicly.
+Explain your reasoning step by step:[/INST]
+  Sure, here's my reasoning step by step:
 
-Overall, the given summary is not consistent with the article because it contains inaccuracies and omissions. The article provides more detailed and accurate information about the NAC's decision regarding the glove size for the McGregor-Mayweather fight.
+1. The summary states that the Nevada authorities will discuss Conor McGregor's fight against Floyd Mayweather on 9 August.
+
+Inconsistency: This statement is not consistent with the article because the article does not mention anything about the Nevada authorities discussing the fight. Instead, the article focuses on the Nevada Athletic Commission (NAC) sanctioning the bout and the rules regarding glove size.
+
+2. The article states that McGregor submitted a necessary waiver to the NAC on Wednesday, hours before the deadline, to fight Mayweather at 154lbs with 10oz gloves.
+
+Inconsistency: This statement is not consistent with the summary because the summary does not mention anything about McGregor submitting a waiver or the glove size.
+
+3. The article explains that the NAC has received a request from McGregor's team to use 8oz gloves for the bout, which is not the standard glove size for fights at 154lbs.
+
+Inconsistency: This statement is not consistent with the summary because the summary does not mention anything about McGregor's team requesting 8oz gloves or the NAC considering the request.
+
+4. The article states that the NAC will debate the matter publicly before announcing its decision on 16 August.
+
+Inconsistency: This statement is not consistent with the summary because the summary does not mention anything about the NAC debating the matter or announcing a decision.
+
+Overall, the summary does not provide an accurate summary of the article's content. It omits several key details, such as McGregor's waiver submission, the NAC's consideration of 8oz gloves, and the upcoming debate and decision on 16 August.
 
 ###Corrected:

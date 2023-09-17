@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    this year\'s london fringe festival is taking place in london. 
-
-    Article: 
-    Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
+<Article>
+Turning Points explores the moment when six people's lives change forever, and is produced and directed by Chris Tally Evans, from Rhayader, Powys.
 Sir Roger talks about how a dialogue coach helped boost his confidence, which helped him forge his career.
 Turning Points has been made for London 2012 Festival, a nationwide arts event.
 The festival is running until 9 September and bringing together leading artists from across the world.
@@ -35,16 +32,28 @@ A social worker told him his life was going to be different, and if he did not c
 "I refused rehab, where I was supposed to go off to another city to be taught how to be a proper, grateful disabled person, threw the Braille card in the bin and have lived exactly the sort of life I always wanted," Tally Evans said.
 "I never saw my social worker again."
 The film also has contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
-Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape." 
+Nick Capaldi, Arts Council of Wales chief executive, said: "Chris Tally Evans brings his own unique insight to a series of personal tales, set against the inspiring Welsh landscape."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+this year\'s london fringe festival is taking place in london.
+</Summary>
 
-1. The summary mentions that the London Fringe Festival is taking place this year, but the article does not mention any festival by that name.
-2. The summary mentions that Turning Points is a film, but the article describes it as a nationwide story-telling project and a film that will be shown at various locations.
-3. The summary does not mention any of the specific people or stories featured in the article, such as Sir Roger, Jamie Baulch, Ellen Jackman, Lyn Street, Daniel Chapman, or Morgan Evans.
-4. The summary does not mention the article's focus on the filmmaker's own experiences with an hereditary eye problem and how he overcame it.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It seems to be a separate piece of writing that has been attached to the article without any connection to its content.
+1. The article is about the "Turning Points" film, which is a nationwide story-telling project that celebrates life-changing moments.
+2. The film is directed and produced by Chris Tally Evans, who is partially sighted and has an hereditary eye problem.
+3. The film features six people's stories, including Sir Roger, an Olympic silver medallist, and Jamie Baulch, a Welsh athlete.
+4. The film also features contributions from the former First Minister Rhodri Morgan and ex-Formula 1 world champion Jackie Stewart.
+5. The film premiered at Chapter Arts Centre in Cardiff and will be shown at the Elan Valley Visitor Centre near Rhayader on 6 July.
+6. The film will also be shown at the London 2012 Festival, which is a nationwide arts event running until 9 September.
+
+The summary is not consistent with the article because:
+
+1. It does not mention the "Turning Points" film or any of the people featured in the film.
+2. It does not mention the London 2012 Festival or any other events or locations mentioned in the article.
+3. It only mentions that this year's London fringe festival is taking place in London, which is not mentioned in the article.
+
+Therefore, the summary is not consistent with the article because it does not provide any information about the "Turning Points" film or the London 2012 Festival, and instead only mentions a general fringe festival in London.
 
 ###Corrected:

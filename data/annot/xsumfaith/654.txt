@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    russia is not the only country with systemic doping problems, says uk athletics chairman ed warner. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 A World Anti-Doping Agency commission report has accused Russia of running a "state-sponsored" doping programme.
 And Warner said he feels sports other than athletics have reason to be concerned at how Russian sport is run.
 "This iceberg spreads in two different directions," he said. "I suspect there are probably four, five or six nations that athletics has a problem with."
@@ -43,16 +40,21 @@ On Monday, Coe said that "if there are failings in our governance or our anti-do
 But Warner says Coe needs to restructure the IAAF in order for it to effectively tackle the problem.
 "This cannot be a one-man crusade," Warner told BBC Radio 4's Today programme. "He needs to ensure there is a bench around him at the IAAF who dramatically improve the operation.
 "We all know, and he has already said, he needs to go out and hire a good chief executive.
-"It needs more than that. He also possibly needs a chairman under him so he can take the lead of the elected council and be the ambassador for the sport and have full-time professional staff, possibly from outside sport, from elsewhere in business, who can get a grip on the organisation." 
+"It needs more than that. He also possibly needs a chairman under him so he can take the lead of the elected council and be the ambassador for the sport and have full-time professional staff, possibly from outside sport, from elsewhere in business, who can get a grip on the organisation."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, the summary statement "Russia is not the only country with systemic doping problems, says UK Athletics chairman Ed Warner" is not consistent with the article. Here's why:
+<Summary>
+russia is not the only country with systemic doping problems, says uk athletics chairman ed warner.
+</Summary>
 
-1. The article focuses primarily on Russia's systemic doping problem, with a report from the World Anti-Doping Agency (WADA) commission accusing Russia of running a "state-sponsored" doping program.
-2. The article quotes Ed Warner as saying that he suspects there are "probably four, five or six nations that athletics has a problem with," but the focus of the article is on Russia, not other countries.
-3. The article mentions that the WADA report implicated the International Association of Athletics Federations (IAAF) and recommended that Russia be banned from competition until they put their house in order.
-4. The article quotes Warner as saying that the IAAF needs to be restructured to effectively tackle the problem of doping, and that this cannot be a one-man crusade.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the content of the article, the summary statement "Russia is not the only country with systemic doping problems, says UK Athletics chairman Ed Warner" is not consistent with the article, as the focus is primarily on Russia's systemic doping problem and the need for the IAAF to be restructured to effectively tackle the issue.
+1. The article states that the World Anti-Doping Agency (WADA) has accused Russia of running a "state-sponsored" doping program, and that an independent commission found evidence of multiple rules breaches by the International Association of Athletics Federations (IAAF) and the Russian Athletics Federation (Araf).
+2. The article quotes UK Athletics chairman Ed Warner as saying that Russia is not the only country with systemic doping problems and that athletics has "probably got some other nations to root out".
+3. The article also quotes Warner as saying that he believes systemic doping does not occur in nations in the Western world.
+4. However, the article states that the WADA report found evidence of "acceptance of cheating at all levels" in Russia and suggested that neither Araf nor the Russian Federation can be considered anti-doping code-compliant.
+5. The article also states that the report recommended that five Russian athletes and five coaches should be given lifetime doping bans.
+
+Based on these points, it is clear that the article is not consistent with the summary, as the summary only mentions Russia and does not mention any other countries with systemic doping problems. The article provides evidence that other countries may also have systemic doping problems, and that the issue is not limited to Russia. Therefore, the summary is not an accurate representation of the article.
 
 ###Corrected:

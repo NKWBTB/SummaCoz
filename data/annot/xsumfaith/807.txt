@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ``i \'m a drain on the state,\'\'says nigel farage, who has n\'t seen the uk leaving the eu. 
-
-    Article: 
-    It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
+<Article>
+It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
 It wasn't just the weather that made the Stevensons leave the UK.
 Their cleaning business was in trouble because it was being undercut by companies run by Polish migrants.
 But so what, Nigel says. He thinks British people need to ''up their game'' and stop complaining about immigration.
@@ -30,16 +27,19 @@ Largest number of Brits living in EU countries, according to Migration Watch.
 There have also been warnings that the Spanish government could start charging them for their healthcare.
 Speaking to members after the match it was striking how many wanted to get out of the EU and how few had thought about how they might be affected financially.
 Whilst one couple worried about their pensions, the others did not seem particularly bothered about being charged for health care; almost all of them had private health insurance.
-John Richardson, summed up the mood best. ''Oh, they'll sort something out''. 
+John Richardson, summed up the mood best. ''Oh, they'll sort something out''.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+``i \'m a drain on the state,\'\'says nigel farage, who has n\'t seen the uk leaving the eu.
+</Summary>
 
-1. Nigel Farage's quote: The summary states that Nigel Farage said "I'm a drain on the state," but the article does not mention him saying this. In fact, the article states that he will be voting for Remain.
-2. The article does not mention the UK leaving the EU: The summary states that the UK is leaving the EU, but the article does not mention this. Instead, it focuses on the experiences of British expats living in Spain.
-3. The article does not mention any negative impact on British expats: The summary states that the Spanish government could make it harder for Brits to live and work there, but the article does not mention any such plans or concerns. In fact, the article states that the Spanish government is unlikely to make it harder for Brits because they contribute so much to the economy.
-4. The article focuses on British expats in Spain, not the UK: The summary mentions the UK leaving the EU, but the article is focused on British expats living in Spain and their experiences.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes quotes and events that are not present in the article, and it focuses on different topics.
+1. The summary statement is not consistent with the article because Nigel Farage is not mentioned in the article.
+2. The article discusses the perspectives of Mark Connor, a Scotsman living in Spain, and the members of the Benavista Bowls Club, all of whom are British expats.
+3. The article mentions that the British expats in Spain are concerned about the potential financial implications of a Brexit, including the freezing of their UK pensions and the possibility of being charged for healthcare.
+4. The summary statement, "''I'm a drain on the state,'' says Nigel Farage," is not supported by the article and is a misrepresentation of the actual content.
+5. Therefore, the summary is not consistent with the article and is not an accurate representation of the content.
 
 ###Corrected:

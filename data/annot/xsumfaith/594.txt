@@ -1,31 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the number of plastic bags given out by uk supermarkets has increased for the fifth year in a row, rising to 8.5 billion. 
-
-    Article: 
-    The Department for Environment, Food and Rural Affairs found the number had gone up by 200 million since 2013.
+<Article>
+The Department for Environment, Food and Rural Affairs found the number had gone up by 200 million since 2013.
 There has been a big problem with plastic carrier bags in the last few years, many of them can't be recycled and are often thrown away after they have been used.
 The bags end up in rubbish dumps and even rivers causing big problems for the environment.
 From October people in England will have to pay 5p for their plastic bags in a bid to encourage them to reuse the ones that they already have.
 Supermarkets in Wales, Scotland and Northern Ireland, where people are charged for carrier bags, have all seen a decrease in bags used.
-Campaigners are hoping the charge in England will lessen the amount of bags being thrown away, helping the environment. 
+Campaigners are hoping the charge in England will lessen the amount of bags being thrown away, helping the environment.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+the number of plastic bags given out by uk supermarkets has increased for the fifth year in a row, rising to 8.5 billion.
+</Summary>
 
-Step 1: Read the Summary
-The summary states that the number of plastic bags given out by UK supermarkets has increased for the fifth year in a row, rising to 8.5 billion.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Read the Article
-The article states that the number of plastic bags has gone up by 200 million since 2013, but it does not mention an increase for the fifth year in a row or a total of 8.5 billion bags.
-
-Step 3: Identify the Inconsistency
-The summary states that the number of plastic bags has increased, while the article states that the number has gone up by 200 million since 2013, but it does not mention an increase for the fifth year in a row. The total number of bags mentioned in the summary (8.5 billion) is also not supported by the article.
-
-Step 4: Explain the Inconsistency
-The inconsistency between the summary and the article is due to the fact that the summary exaggerates the increase in the number of plastic bags given out by UK supermarkets. The article provides a more accurate account of the situation, stating that the number of bags has gone up by 200 million since 2013, but does not mention an increase for the fifth year in a row. The summary's claim of 8.5 billion bags is not supported by the article.
+1. The article states that the number of plastic bags given out by UK supermarkets has gone up by 200 million since 2013. This means that the number has increased, not decreased, over the past five years.
+2. The summary states that the number of plastic bags has increased for the fifth year in a row, which is not supported by the article. According to the article, the number increased by 200 million since 2013, but it does not mention that the increase has been happening for five years in a row.
+3. Therefore, the summary is not consistent with the article because it claims that the number of plastic bags has been increasing for five years, while the article states that the number increased by 200 million since 2013, but does not provide information about the duration of the increase.
 
 ###Corrected:

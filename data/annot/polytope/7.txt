@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    despite the plurality of opinion , very little space seems to be given to the discussion in pakistani mainstream media or academia ; 
-the debate seems to be shut down before it can even begin , " she posted on facebook . " 
-on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , "  
-
-    Article: 
-    islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
+<Article>
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
 and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship .
 introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed .
 but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
@@ -47,20 +42,23 @@ her tightly coiffed short hair and angular glasses framed her bright-eyed featur
 missing was a head scarf .
 on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " her white dress replaced by a traditional outfit of mustard , ocher and green .
 but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image .
-the artistic expression sticks out and triggers passions , like many things mahmud said and did . 
+the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given article, the following summary is not consistent with the article:
+<Summary>
+despite the plurality of opinion , very little space seems to be given to the discussion in pakistani mainstream media or academia ; 
+the debate seems to be shut down before it can even begin , " she posted on facebook . " 
+on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " 
+</Summary>
 
-"despite the plurality of opinion, very little space seems to be given to the discussion in Pakistani mainstream media or academia; the debate seems to be shut down before it can even begin."
+Explain your reasoning step by step:[/INST]
 
-Here's why:
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-1. The article does not mention the Pakistani mainstream media or academia's lack of space for discussions. Instead, it focuses on Sabeen Mahmud's bravery and her efforts to provide a platform for discussions on sensitive topics.
-2. The article does not suggest that the debate on Balochistan has been shut down. Instead, it highlights Mahmud's determination to host a discussion on the topic, despite the risks.
-3. The article does not mention any motive for Mahmud's killing, unlike the summary's suggestion that the debate on Balochistan was shut down before it could begin.
-4. The article portrays Mahmud as a brave and courageous individual who was not afraid to speak her mind and provide a platform for others to do so. The summary, on the other hand, suggests that she was silenced before she could even begin.
+1. The summary only includes a part of the article: The summary only includes the last sentence of the article, which is "on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch, " while the article discusses much more than that.
+2. The summary does not convey the main point of the article: The article is about Sabeen Mahmud, a Pakistani activist who was killed for her free speech and advocacy for human rights and women's empowerment. The summary does not mention any of these important details.
+3. The summary is misleading: The summary suggests that the article is only about a painting of Marilyn Monroe, which is not accurate. The article is about much more than that, including Mahmud's life, work, and death.
 
-In conclusion, the summary is not consistent with the article because it misrepresents the content and tone of the article. The article does not suggest that the debate on Balochistan was shut down or that Mahmud was silenced. Instead, it highlights her bravery and her efforts to provide a platform for discussions on sensitive topics.
+Therefore, the summary is not consistent with the article. It only includes a small part of the article and does not convey the main point or the broader context of the article. Additionally, the summary is misleading and does not accurately represent the content of the article.
 
 ###Corrected:

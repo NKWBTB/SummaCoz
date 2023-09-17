@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    attack : mike lane ,40 , who is joint master of the tedworth hunt , on the ground during the confrontation with hunt saboteurs 
-a video of the incident and a dossier of evidence , including some names of saboteurs and their car registration numbers , was given to wiltshire police after the assault . 
-james cameron , 53 , vice-chairman of the tedworth hunt , added : ` their decision is disappointing , but this highlights how difficult it is for police to do their job when saboteurs turn up wearing face coverings . '  
-
-    Article: 
-    police have dropped an investigation into a vicious assault on a huntsman just three months after it took place -- despite a wealth of evidence pointing to the identity of a suspected attacker .
+<Article>
+police have dropped an investigation into a vicious assault on a huntsman just three months after it took place -- despite a wealth of evidence pointing to the identity of a suspected attacker .
 last night the victim , mike lane , 40 , who was beaten by balaclava-clad protesters armed with iron bars on ropes , condemned the decision by police as ` pathetic ' .
 he said : ` they could have made more effort .
 i 've been told that unless further evidence comes forward , the attackers are not likely to be found .
@@ -41,23 +36,24 @@ karen fieldsend , 42 , who made the call to police , is furious that the case ha
 james cameron , 61 , vice-chairman of the tedworth hunt , added : ` their decision is disappointing , but this highlights how difficult it is for police to do their job when saboteurs turn up wearing face coverings . '
 the countryside alliance is campaigning to ban saboteurs from wearing a face covering so criminals can be brought to justice .
 last night a spokesman for wiltshire police said : ` we have been unable to move the inquiry further forward .
-at this stage the case has been recorded as undetected , however should other evidence come to light then it will be re-opened . ' 
+at this stage the case has been recorded as undetected , however should other evidence come to light then it will be re-opened . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+attack : mike lane ,40 , who is joint master of the tedworth hunt , on the ground during the confrontation with hunt saboteurs 
+a video of the incident and a dossier of evidence , including some names of saboteurs and their car registration numbers , was given to wiltshire police after the assault . 
+james cameron , 53 , vice-chairman of the tedworth hunt , added : ` their decision is disappointing , but this highlights how difficult it is for police to do their job when saboteurs turn up wearing face coverings . ' 
+</Summary>
 
-1. The summary states that the police have dropped the investigation into the assault on Mike Lane, but the article states that the police have stopped the investigation pending further information.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the attackers were wearing face coverings, but the article does not mention this.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-3. The summary states that the attack took place during a hunt, but the article does not mention this. Instead, it states that the attack took place during a confrontation with hunt saboteurs.
+1. Inconsistent information: The summary states that the attacker was wearing a face covering, but the article does not mention this. Instead, the article states that the attacker spat at Mr. Lane and punched him in the face before kicking him in the head.
+2. Incorrect age: The summary states that James Cameron is 53 years old, but the article states that he is 61 years old.
+3. Missing information: The summary does not mention the fact that Mr. Lane was hospitalized with concussion and broken teeth, or that he has suffered memory loss since the attack.
+4. Incorrect quote: The summary attributes a quote to James Cameron that is not present in the article.
 
-4. The summary mentions that a video of the incident and a dossier of evidence were given to the police, but the article does not mention this.
-
-5. The summary quotes Mike Lane as saying that the police could have done more, but the article does not include this quote.
-
-6. The summary states that the case has been recorded as undetected, but the article does not mention this.
-
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
+Overall, the summary is not a accurate representation of the article. It appears to have been hastily prepared and contains several errors and omissions.
 
 ###Corrected:

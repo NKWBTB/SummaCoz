@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    juan martin del potro beat spain\'s juan martin del potro to reach the second round of the australian open. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Del Potro secured a 3-6 6-3 7-6 (7-2) 6-3 victory over the Swiss player.
 The Argentine is 165th in the rankings after missing more than two years because of injury problems.
 Del Potro, who is in the same half of the draw as Britain's Andy Murray, will next play either France's 32nd seed Lucas Pouille or American Donald Young.
@@ -27,15 +24,21 @@ Spanish 22nd seed Feliciano Lopez will play Kyrgios in the third round, with the
 Lopez fought back from two sets behind to defeat Italian Fabio Fognini 3-6 6-7 6-3 6-3 6-3.
 Elsewhere, there were routine victories for 10th seed Tomas Berdych and 12th seed Jo-Wilfried Tsonga.
 Berdych beat Germany's Benjamin Becker 6-4 6-1 6-2, while Tsonga triumphed 6-1 6-4 6-3 over Juan Monaco of Argentina.
-You can now add tennis alerts in the BBC Sport app - simply head to the menu and My Alerts section 
+You can now add tennis alerts in the BBC Sport app - simply head to the menu and My Alerts section
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+juan martin del potro beat spain\'s juan martin del potro to reach the second round of the australian open.
+</Summary>
 
-1. The summary states that Juan Martin del Potro beat Spain's Juan Martin del Potro, but the article does not mention any Spanish player by that name.
-2. The summary mentions that Del Potro won the match in three sets, but the article states that he won in four sets (3-6, 6-3, 7-6, 6-3).
-3. The summary does not mention the name of the player that Del Potro beat, while the article clearly states that he beat Stan Wawrinka.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains incorrect information about the player who was beat and the number of sets won.
+1. The summary states that Juan Martin Del Potro beat Spain's Juan Martin Del Potro, which is not possible as there is only one Juan Martin Del Potro in the article.
+2. The article states that Del Potro beat Switzerland's Stan Wawrinka, not Spain's Juan Martin Del Potro.
+3. The summary is not consistent with the article as it incorrectly states the opponent Del Potro beat.
+4. The article provides information about Del Potro's victory over Wawrinka, including the score and the fact that he struggled early on but fought back to win.
+5. The summary does not provide any information about the match or Del Potro's performance, other than the incorrect statement that he beat Spain's Juan Martin Del Potro.
+
+Therefore, the summary is not consistent with the article and contains incorrect information.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a council has said it has lost almost £30, 000 to build a new cemetery in oxford. 
-
-    Article: 
-    Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
+<Article>
+Oxford City Council said the money had mostly been used for "ground investigations of possible sites" but nowhere suitable had been found.
 Two cemeteries still have space, in Wolvercote and Botley, but they are expected to be full by 2018 and 2021.
 The council said it had not given up and was "still exploring options".
 Linda Smith, board member for leisure, parks and sport, said the council has been "searching for a suitable new burial site for many years".
@@ -14,23 +11,19 @@ She added: "But ultimately, as with new housing sites, we have run out of suitab
 "So far all the council-owned sites that we have identified have, following ground investigations and surveys, had to be discounted.
 "Either due to the size of the site, the ground conditions, a high water table or a covenant restricting the use of the site."
 After the two remaining cemeteries are full the council said only the reopening of family plots, the use of a few reserved plots, and the interment of ashes would be possible.
-The last increase in burial space in Oxford was in 1932. 
+The last increase in burial space in Oxford was in 1932.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a council has said it has lost almost £30, 000 to build a new cemetery in oxford.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that the council has lost almost £30,000 to build a new cemetery in Oxford.
-
-This is not consistent with the article because there is no mention of the council losing any money. Instead, the article states that the money was spent on "ground investigations of possible sites" but no suitable sites were found.
-
-2. The summary implies that the council has given up on finding a new burial site, but the article states that the council is "still exploring options" and has not given up.
-
-3. The summary mentions that the two remaining cemeteries in Wolvercote and Botley are expected to be full by 2018 and 2021, but the article does not mention any specific timeframes for when the cemeteries will be full.
-
-4. The summary states that the council has been "searching for a suitable new burial site for many years", but the article does not mention how long the council has been searching.
-
-5. The summary mentions that the council has discounted several sites due to various reasons such as size, ground conditions, high water table, and covenant restrictions, but the article does not mention any specific reasons for discounting the sites.
-
-Overall, the summary is not consistent with the article because it contains information that is not supported by the article, such as the council losing money and giving up on finding a new burial site. Additionally, the summary omits important information from the article, such as the reasons for discounting potential sites and the fact that the council is still exploring options.
+2. However, the article does not mention anything about the council losing money. Instead, it states that the council has been searching for a suitable new burial site for many years and has run out of suitable land within Oxford.
+3. The article also mentions that two cemeteries still have space, but they are expected to be full by 2018 and 2021.
+4. Therefore, it is clear that the summary is not consistent with the article, as there is no mention of the council losing money. Instead, the article highlights the challenges the council is facing in finding a suitable new burial site.
+5. The discrepancy between the summary and the article is likely due to a misunderstanding or misinterpretation of the information in the article. The article does not mention any financial losses, but rather the challenges the council is facing in finding a new burial site.
 
 ###Corrected:

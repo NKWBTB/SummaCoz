@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    shale gas drilling in lancashire has been suspended after a magnitude-7. 5 earthquake struck. 
-
-    Article: 
-    Cuadrilla, the firm behind the tests, said drilling had been suspended as a precaution after the 1.5 magnitude tremor - the second in two months.
+<Article>
+Cuadrilla, the firm behind the tests, said drilling had been suspended as a precaution after the 1.5 magnitude tremor - the second in two months.
 It will now examine the data collected by the British Geological Survey (BGS) before deciding whether to resume.
 A tremor centred on Poulton-le-Fylde on 1 April shared a "similar location and mechanism", the BSG said.
 Shale gas drilling, known as "fracking", involves shattering hard shale rocks underground to release gas using either hydraulic pressure or tiny explosions.
@@ -21,19 +18,21 @@ The BGS said the April tremor took place 1.2 miles (2km) away from the drilling 
 Speaking about the latest quake, Dr Brian Baptie, head of seismology at the BGS, said: "The earthquake was felt by at least one person in Poulton-Le-Fylde.
 "Our analysis places the epicentre of the event to within 2km of the Preese Hall site.
 "Data from two temporary instruments close to the drill site, installed after the magnitude 2.3 earthquake on 1 April, indicate that the event occurred at a depth of approximately 2km (1.2 miles).
-"The recorded waveforms are very similar to those from the magnitude 2.3 event last month, which suggests that the two events share a similar location and mechanism." 
+"The recorded waveforms are very similar to those from the magnitude 2.3 event last month, which suggests that the two events share a similar location and mechanism."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+shale gas drilling in lancashire has been suspended after a magnitude-7. 5 earthquake struck.
+</Summary>
 
-1. Magnitude of the earthquake: The summary states that a magnitude-7.5 earthquake struck, while the article states that the earthquake had a magnitude of 1.5 and the previous one had a magnitude of 2.3.
+Explain your reasoning step by step:[/INST]
 
-2. Reason for suspension: The summary states that drilling has been suspended after a magnitude-7.5 earthquake struck, while the article states that drilling has been suspended as a precaution after the 1.5 magnitude tremor, and to examine the data collected by the British Geological Survey (BGS) before deciding whether to resume.
+1. The summary states that shale gas drilling in Lancashire has been suspended after a magnitude-7.5 earthquake struck.
+2. However, the article states that the earthquake was only magnitude 1.5, not magnitude 7.5.
+3. The article also states that the drilling has been suspended as a precaution while the data collected by the British Geological Survey (BGS) is examined.
+4. The summary does not mention the reason for the suspension or the fact that the earthquake was only magnitude 1.5.
+5. Therefore, the summary is not consistent with the article because it exaggerates the severity of the earthquake and does not accurately reflect the reason for the suspension of drilling.
 
-3. Location of the earthquake: The summary states that the earthquake occurred in Lancashire, while the article states that the earthquake took place 1.2 miles (2km) away from the drilling site, but the monitoring instruments were 50 miles (80km) away.
-
-4. Cause of the earthquake: The summary does not provide any information about the cause of the earthquake, while the article states that the earthquake was caused by shale gas drilling, known as "fracking".
-
-Therefore, the summary is not consistent with the article because it exaggerates the magnitude of the earthquake, misstates the reason for suspending drilling, and provides incorrect information about the location and cause of the earthquake.
+Conclusion: The summary is not consistent with the article because it contains incorrect information about the magnitude of the earthquake and the reason for the suspension of drilling.
 
 ###Corrected:

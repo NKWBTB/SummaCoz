@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    an inquest into the death of a man who was shot in the head by his wife has been found dead in his nursing home. 
-
-    Article: 
-    Barry Pring, 47, was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008.
+<Article>
+Barry Pring, 47, was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008.
 His wife, Ganna Ziuzina, had returned to a restaurant for a missing glove.
 The coroner at Exeter County Hall, Dr Elizabeth Earland, recorded a verdict of unlawful killing.
 More on the millionaire 'murdered' by his wife, and other news
@@ -27,18 +24,21 @@ Greater Devon coroner Dr Elizabeth Earland said "strenuous attempts" had been ma
 In a statement, Ms Ziuzina said she had made "three separate statements to Ukrainian police" and did not believe she could "add anything further".
 Det Con Jonathan Watts, from Devon and Cornwall Police, said Mr Pring was hit by a car with no lights, speeding at 75mph.
 He also said witnesses at the scene in Kiev described the killing "as a deliberate act".
-The Ukrainian police closed an inquiry into his death, but relaunched it in 2011 as a murder inquiry. The case is still active "but not actively pursued". 
+The Ukrainian police closed an inquiry into his death, but relaunched it in 2011 as a murder inquiry. The case is still active "but not actively pursued".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+an inquest into the death of a man who was shot in the head by his wife has been found dead in his nursing home.
+</Summary>
 
-1. The summary states that the man was shot in the head by his wife, but the article states that he was killed by a speeding car.
-2. The summary does not mention the location of the death, but the article states that the man was killed in Kiev, Ukraine.
-3. The summary does not mention the wife's name, but the article reveals that the wife's name is Ganna Ziuzina.
-4. The summary does not mention the fact that the wife was a lap dancer and stripper, which is mentioned in the article.
-5. The summary does not mention the fact that the wife tried to claim the husband's assets within days of his death, which is mentioned in the article.
-6. The summary does not mention the fact that the case is still active as a murder inquiry, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary does not accurately reflect the information in the article. It is important to carefully read and understand the information in the article before creating a summary to ensure that the summary is consistent with the article.
+1. The summary mentions that the man was shot in the head by his wife, while the article does not mention any shooting. Instead, the article states that the man was killed by a speeding car.
+2. The summary does not provide any details about the man's death, such as the location or the circumstances surrounding it. The article, on the other hand, provides a detailed account of the man's death, including the location (Kiev), the circumstances (he was trying to hail a taxi on the hard shoulder of a dual carriageway), and the cause of death (a speeding car with stolen license plates).
+3. The summary does not mention the name of the man or his wife, while the article provides their names (Barry Pring and Ganna Ziuzina).
+4. The summary does not mention any inquest or investigation into the man's death, while the article states that an inquest was held and that the coroner recorded a verdict of unlawful killing.
+
+Based on these differences, it is clear that the summary is not consistent with the article. It appears to be a completely different story or event.
 
 ###Corrected:

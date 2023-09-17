@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ukip leader ched evans has ruled herself out of the race to become the party\'s next leader. 
-
-    Article: 
-    Ms Evans, who is currently suspended from UKIP, said she would "very much like" to run but a "handful of people at the top" had ensured she could not.
+<Article>
+Ms Evans, who is currently suspended from UKIP, said she would "very much like" to run but a "handful of people at the top" had ensured she could not.
 Ms Evans' six-month ban for bringing the party into disrepute - claims she has dismissed - means she cannot stand.
 She said she would back councillor Lisa Duffy to succeed Nigel Farage.
 Ms Evans said UKIP needed to "break free of its hard-right image and set itself firmly in the common sense centre-ground" and also conduct some "internal reform".
@@ -23,16 +20,19 @@ Endorsing Lisa Duffy, a district councillor for Ramsey in Cambridgeshire, Ms Eva
 She said UKIP needed "a clean break from the past" to become more like a political party than "just a rugby club on tour".
 Under Ms Duffy's leadership, she argued, the party would be "more united and consensual".
 Prior to her suspension Ms Evans wrote UKIP's 2015 general election manifesto. She was axed from her policy role in the party in-fighting which followed Mr Farage's "unresignation" after the general election.
-Mr Farage has denied her ban was due to criticism of him. 
+Mr Farage has denied her ban was due to criticism of him.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+ukip leader ched evans has ruled herself out of the race to become the party\'s next leader.
+</Summary>
 
-1. The summary states that Ched Evans has ruled herself out of the race to become the next leader of UKIP, while the article states that she would "very much like" to run but is unable to due to her six-month suspension.
-2. The summary does not mention the reason for Evans' suspension, which is stated in the article as being due to her public criticism of a fellow candidate and holding herself out as a party spokeswoman without authority.
-3. The summary states that Evans has given up hope of becoming the next leader of UKIP, while the article states that she is still determined to not give up on the party despite the suspension.
-4. The summary does not mention Evans' endorsement of Lisa Duffy as the best chance for UKIP to change and grow, which is stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It omits important details and presents a different message than the one conveyed in the article.
+1. The summary states that Ched Evans has ruled herself out of the race to become the next leader of UKIP.
+2. However, the article states that Ms. Evans would "very much like" to run for the leadership position, but claims that a "handful of people at the top" have ensured she cannot.
+3. The article also mentions that Ms. Evans is currently suspended from the party, which is a reason why she cannot stand for the leadership position.
+4. Therefore, the summary is not consistent with the article because it states that Ms. Evans has ruled herself out of the race, while the article indicates that she would like to run but is unable to due to her suspension and the actions of "a handful of people at the top."
+5. The inconsistency is due to the fact that the summary does not accurately reflect the article's information about Ms. Evans' desire to run for the leadership position and the reasons why she cannot do so.
 
 ###Corrected:

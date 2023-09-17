@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    # 64 a ticket ' the cheapest tickets for the lunchtime kick-off were # 64 .  arsenal and liverpool fans left their seats empty at the emirates stadium .  supporters from both clubs say they are ` disgusted ' at the rise of ticket prices . 
-
-    Article: 
-    a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
+<Article>
+a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
 supporters from both clubs say they are ` disgusted ' at the continuing rise of ticket prices , with the protest coming in the aftermath of the announcement of the premier league 's £ 5.14 billion tv rights deal with banners held up inside and outside the ground .
 with tickets at the sold-out emirates starting from £ 64 for the 12.45 pm kick-off , protesters hope the image of empty seats around the ground will raise awareness of the struggles fans face to meet the rising costs of following their clubs .
 fans inside the emirates stadium display a banner reading : ' £ 5bn and what do we get ?
@@ -27,17 +24,19 @@ away fans help make the event but have to pay extortionate prices .
 then we 're told to " sit down , shut up " . '
 roy bentham of spirit of shankly said : ` we want tangible reductions in line with what working class people earn .
 we may lose a generation or more of fans otherwise unless the footballing authorities wake up . '
-further protests are expected after full-time at the emirates . 
+further protests are expected after full-time at the emirates .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+# 64 a ticket ' the cheapest tickets for the lunchtime kick-off were # 64 .  arsenal and liverpool fans left their seats empty at the emirates stadium .  supporters from both clubs say they are ` disgusted ' at the rise of ticket prices .
+</Summary>
 
-1. The summary states that the cheapest tickets for the lunchtime kick-off were £64, but the article does not mention any specific ticket prices. The article only mentions that tickets at the sold-out Emirates starting from £64 for the 12:45 pm kick-off.
-2. The summary mentions that Arsenal and Liverpool fans left their seats empty at the Emirates Stadium, but the article states that only a section of fans left their seats empty for the first 10 minutes of the game in protest against ticket prices.
-3. The summary does not mention the protests outside the stadium before kick-off, nor does it mention the banners held up inside and outside the ground.
-4. The summary does not mention the reasons behind the protests, such as the continuing rise of ticket prices and the £5.14 billion TV rights deal.
-5. The summary does not mention the quotes from the fans or the organizer of the event, Kelvin Meadows.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately convey the details and context of the protests against ticket prices at the Emirates Stadium.
+1. The summary states that the cheapest tickets for the lunchtime kick-off were £64, which is not supported by the article. The article states that the cheapest tickets for the lunchtime kick-off were £64, but also mentions that there were protests against the high ticket prices.
+2. The summary does not mention the protests or the reason for the empty seats, which is a significant aspect of the article.
+3. The summary does not provide any context or information about the article's focus on the rising costs of modern football and the struggles fans face to meet these costs.
+
+Therefore, the summary is not consistent with the article and does not accurately convey the main points or key information from the article.
 
 ###Corrected:

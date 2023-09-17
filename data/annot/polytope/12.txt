@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ^[[Ainternet network any device that 's connected to the network is also firechat ( pictured ) has been downloaded more than five million times and is particularly useful when on a plane , or the underground for example , if a network has a phone , tablet , two computers and a printer connected to it there are five nodes on the network . 
-christophe daligault , chief marketing officer at open garden told daily dot : ` the combination between [ greenstone ] and the smartphones will enable a community , or a neighbourhood , or a hospital , 
-
-    Article: 
-    its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+<Article>
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
 and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
 called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
 its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
@@ -54,21 +50,21 @@ it could also be placed in certain locations at music festivals , organised prot
 greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
 messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
 it can additionally hold up to 1,000 of the most recent messages .
-open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships . 
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+^[[Ainternet network any device that 's connected to the network is also firechat ( pictured ) has been downloaded more than five million times and is particularly useful when on a plane , or the underground for example , if a network has a phone , tablet , two computers and a printer connected to it there are five nodes on the network . 
+christophe daligault , chief marketing officer at open garden told daily dot : ` the combination between [ greenstone ] and the smartphones will enable a community , or a neighbourhood , or a hospital ,
+</Summary>
 
-1. The summary states that Greenstone is a device that helps messages move around off-the-grid networks more easily, but the article does not mention Greenstone as a device. Instead, it describes Greenstone as a small egg-shaped gadget that acts as a beacon or booster to help messages move around so-called wireless mesh networks more easily.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that Greenstone has been designed to solve the limitations of how far a message can travel in the current system, but the article does not mention any limitations to the current system. Instead, it explains that the feature lets users send messages to people in close proximity using Bluetooth or Wi-Fi direct range.
+1. The summary states that "firechat ( pictured ) has been downloaded more than five million times and is particularly useful when on a plane, or the underground." This is not consistent with the article, as the article does not mention the number of downloads or the specific use cases of firechat.
+2. The summary mentions "internet network any device that's connected to the network is also firechat," which is not accurate. The article does not mention anything about an internet network or devices being connected to it.
+3. The summary states that "christophe daligault, chief marketing officer at open garden told daily dot : ` the combination between [ greenstone ] and the smartphones will enable a community, or a neighbourhood, or a hospital," which is not consistent with the article. The article does not mention anything about greenstone or the specific use cases mentioned in the summary.
+4. The summary mentions "greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres )." This is not consistent with the article, as the article does not mention the development status of greenstone or its range.
 
-3. The summary states that Greenstone is still under development and only currently works with Firechat at a range of around 20ft (6 meters), but the article does not mention that Greenstone is still under development or that it only works with Firechat. Instead, it explains that the feature lets users send messages to people in close proximity using Bluetooth or Wi-Fi direct range.
-
-4. The summary mentions that Greenstone can hold up to 1,000 of the most recent messages, but the article does not mention this. Instead, it explains that the feature lets users send messages to people in close proximity using Bluetooth or Wi-Fi direct range.
-
-5. The summary states that Open Garden is now working with manufacturers to design and sell Greenstone, but the article does not mention this. Instead, it explains that the feature lets users send messages to people in close proximity using Bluetooth or Wi-Fi direct range.
-
-Therefore, the summary is not consistent with the article because it mentions Greenstone as a device that helps messages move around off-the-grid networks more easily, which is not mentioned in the article. Additionally, the summary mentions limitations to the current system and the range of Greenstone, which are not mentioned in the article.
+Overall, the summary is not consistent with the article because it includes information that is not present in the article, and it omits key details that are present in the article.
 
 ###Corrected:

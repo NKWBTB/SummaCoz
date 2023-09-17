@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a row has broken out over pay and conditions for northern isles cargo boats in the north sea. 
-
-    Article: 
-    Transport Minister Humza Yousaf said a  new charter arrangement would end the long-running row over seafarers' pay.
+<Article>
+Transport Minister Humza Yousaf said a  new charter arrangement would end the long-running row over seafarers' pay.
 The RMT union had claimed some workers on board two freight boats were paid less than Â£4 an hour.
 The charter change will see contracted out services return to operator Serco Northlink from next month.
 The freight vessels Hellier and Hildasay have been operated by Seatruck, which is contracted to run the service by Serco Northlink.
@@ -16,17 +13,21 @@ Mr Yousaf said the new arrangements would come into force early next month subje
 He said: "I'm very pleased to see an agreement in principle now in place to end this long running issue around the freight vessels serving the Northern Isles.
 "The new charter basis will allow the wage issue to be resolved. Going forward, I can confirm that all crew members will be paid at least the minimum wage."
 Serco Northlink was awarded the six-year Â£243m Northern Isles contract in 2012.
-It operates three ferries and two cargo boats to the Northern Isles on a route which is heavily subsidised by the Scottish government. 
+It operates three ferries and two cargo boats to the Northern Isles on a route which is heavily subsidised by the Scottish government.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a row has broken out over pay and conditions for northern isles cargo boats in the north sea.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that there is a row over pay and conditions for northern isles cargo boats in the North Sea.
-2. However, the article states that a new charter arrangement has been agreed upon to end the row over seafarers' pay.
-3. The article does not mention any ongoing disputes or rows over pay and conditions for northern isles cargo boats.
-4. Instead, the article focuses on the new charter arrangement and how it will result in all crew members being paid at least the minimum wage.
-5. Therefore, the summary is not consistent with the article because it mentions an ongoing row over pay and conditions, while the article states that the issue has been resolved through the new charter arrangement.
-
-Overall, the summary is not accurate because it does not reflect the content of the article. The article does not mention any ongoing disputes or rows over pay and conditions, but instead focuses on the resolution of the issue through the new charter arrangement.
+2. However, the article states that the issue has been resolved with a new charter arrangement that will ensure all crew members are paid at least the minimum wage.
+3. Therefore, the summary is not consistent with the article, as it does not reflect the resolution of the issue.
+4. The article explains that the issue was caused by Seatruck, the company that operates the freight vessels, arguing that the national minimum wage was not applicable to the crew, many of whom are non-UK residents.
+5. Serco Northlink, the company that awarded the contract to Seatruck, had repeatedly offered to bridge the pay gap and backdate it, but Seatruck declined to accept.
+6. The new charter arrangement will see contracted out services return to operator Serco Northlink from next month, and all crew members will be paid at least the minimum wage.
+7. Therefore, the summary is not accurate, as it does not reflect the resolution of the issue or the fact that the new charter arrangement will ensure that all crew members are paid at least the minimum wage.
 
 ###Corrected:

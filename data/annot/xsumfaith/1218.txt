@@ -1,29 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wicketkeeper jos buttler has signed a new three-year contract with somerset. 
-
-    Article: 
-    The 25-year-old moved to the Red Rose from Somerset in 2013 and his new deal ties him to the club until 2019.
+<Article>
+The 25-year-old moved to the Red Rose from Somerset in 2013 and his new deal ties him to the club until 2019.
 Short-format specialist Buttler has scored England's three fastest ODI centuries, including a 46-ball ton against Pakistan last year.
 "Jos is one of the most talented cricketers in the game," said cricket director and head coach Ashley Giles.
 "His presence in last year's T20 Blast final at Edgbaston was a factor in us winning the competition.
 "Jos is a great guy to have in the dressing room too and his experience at international level really benefits the squad."
-Buttler, who has been playing in the Indian Premier League with Mumbai Indians, will return to Lancashire for Friday's T20 Blast home game against Durham. 
+Buttler, who has been playing in the Indian Premier League with Mumbai Indians, will return to Lancashire for Friday's T20 Blast home game against Durham.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+wicketkeeper jos buttler has signed a new three-year contract with somerset.
+</Summary>
 
-1. The summary states that Jos Buttler has signed a new three-year contract with Somerset.
+Explain your reasoning step by step:[/INST]
 
-However, the article states that Buttler moved to Lancashire in 2013, and his new deal ties him to the club until 2019. This means that he cannot have signed a new three-year contract with Somerset.
-
-2. The summary mentions that Buttler has been playing in the Indian Premier League with Mumbai Indians, which is not mentioned in the article.
-
-3. The article states that Buttler will return to Lancashire for Friday's T20 Blast home game against Durham, which is not mentioned in the summary.
-
-Therefore, the summary is not consistent with the article, as it contains information that is not supported by the article, and omits information that is present in the article.
+1. The article states that Jos Buttler moved to Lancashire from Somerset in 2013.
+2. The summary states that Jos Buttler has signed a new three-year contract with Somerset.
+3. These two statements are contradictory, as Buttler is currently playing for Lancashire and has been with the club since 2013.
+4. Therefore, the summary is not consistent with the article, as it incorrectly states that Buttler has signed a new contract with Somerset.
 
 ###Corrected:

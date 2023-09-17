@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bruce rauner participates in ceremonies honoring president abraham lincoln at the lincoln tomb in springfield , illinois 
-leader : a marker is seen over the burial site of abraham lincoln inside lincoln 's tomb within oak ridge cemetery ( november 2013 file photo ) 
-killing : president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865  
-
-    Article: 
-    caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+<Article>
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
 for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
 he would roll the agency into another department .
 what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
@@ -42,17 +37,24 @@ william sparks , a visitor to the outside of the tomb tuesday who took an amtrak
 this is very impressive . '
 critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
 lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
-it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo ) 
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+bruce rauner participates in ceremonies honoring president abraham lincoln at the lincoln tomb in springfield , illinois 
+leader : a marker is seen over the burial site of abraham lincoln inside lincoln 's tomb within oak ridge cemetery ( november 2013 file photo ) 
+killing : president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865 
+</Summary>
 
-1. The summary states that Bruce Rauner participated in ceremonies honoring President Abraham Lincoln at his tomb, but the article does not mention Rauner at all.
-2. The summary mentions that President Lincoln was assassinated by John Wilkes Booth, which is correct, but the article focuses on the current situation and challenges facing the Lincoln tomb, rather than the historical events surrounding Lincoln's death.
-3. The summary states that the Lincoln tomb is located in Springfield, Illinois, which is correct, but the article does not provide this information.
-4. The summary describes the tomb as having "all the historical character of an office lobby," which is a quote from the National Geographic article, but the summary does not provide any context or explanation for this statement. The article, on the other hand, provides a detailed critique of the tomb's interior, describing it as having been reconstructed in an "incongruous art deco style" and lacking in historical character.
-5. The summary mentions that the tomb is open to the public, but the article states that the hours and days the tomb is open have been reduced, and that it is staffed with fewer employees due to budget cuts.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or tone of the article. The summary is more of a straightforward description of the Lincoln tomb, while the article provides a critical assessment of the tomb's current state and the challenges it faces.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Timing of the ceremony: The summary states that Bruce Rauner participated in ceremonies honoring President Abraham Lincoln at the Lincoln Tomb in Springfield, Illinois, but the article does not mention any specific ceremony or event.
+2. Assassination date: The summary mentions that President Lincoln was assassinated by John Wilkes Booth at a performance of the play "Our American Cousin" in April 1865, which is correct. However, the article does not mention the assassination date or the play.
+3. Historical character: The summary states that the Lincoln Tomb has "all the historical character of an office lobby," which is a negative critique mentioned in the article. However, the article does not describe the tomb as having "all the historical character of an office lobby." Instead, it states that the tomb's interior is "sheathed in alternating black and tan marble and is trimmed with bronze," and that the site has undergone recent repairs and renovations.
+4. Budget cuts: The summary does not mention any budget cuts or financial crisis affecting the management of the Lincoln Tomb, while the article highlights the looming budget cuts that could threaten the site's management.
+
+Overall, the summary is not consistent with the article because it does not accurately reflect the content or tone of the article. The summary is more of a list of facts about President Lincoln's assassination and the Lincoln Tomb, while the article provides a more detailed and nuanced account of the site's history and current challenges.
 
 ###Corrected:

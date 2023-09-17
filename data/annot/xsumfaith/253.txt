@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    league one leaders bradford city were held to a goalless draw by league one relegation rivals bradford. 
-
-    Article: 
-    Oldham went in front in the fifth minute when Marc Klok delivered a free-kick from the right to the far post, where unchallenged defender Peter Clarke scored with a downward header.
+<Article>
+Oldham went in front in the fifth minute when Marc Klok delivered a free-kick from the right to the far post, where unchallenged defender Peter Clarke scored with a downward header.
 Bradford dominated the rest of the opening period as the visitors' defence survived a series of narrow escapes.
 Keeper Connor Ripley made a brilliant one-handed save to deny winger Mark Marshall, Timothee Dieng and Josh Cullen both had shots deflected for corners, and Billy Clarke missed a good chance when he turned James Meredith's cross wide.
 Oldham somehow held their lead until half-time, but Bradford deservedly equalised after 57 minutes when Ousmane Fane dragged Cullen to the ground and Clarke scored from the spot.
@@ -52,23 +49,18 @@ Goal!  Bradford City 1, Oldham Athletic 1. Billy Clarke (Bradford City) converts
 Penalty Bradford City. Josh Cullen draws a foul in the penalty area.
 Ryan Flynn (Oldham Athletic) is shown the yellow card.
 Penalty conceded by Peter Clarke (Oldham Athletic) after a foul in the penalty area.
-Nathaniel Knight-Percival (Bradford City) wins a free kick in the attacking half. 
+Nathaniel Knight-Percival (Bradford City) wins a free kick in the attacking half.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the given summary is not consistent with the article. Here are the steps to explain why:
+<Summary>
+league one leaders bradford city were held to a goalless draw by league one relegation rivals bradford.
+</Summary>
 
-Step 1: Identify the main points of the summary
-The summary states that Bradford City were held to a goalless draw by league one relegation rivals Bradford.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main points of the article
-The article states that Oldham Athletic went in front in the fifth minute through a Marc Klok free-kick, and that Bradford dominated the rest of the opening period but could not score. Oldham held their lead until half-time, but Bradford equalized in the 57th minute through a penalty after Ousmane Fane was fouled by Billy Clarke. The rest of the match was evenly contested, but neither team could score.
-
-Step 3: Identify inconsistencies
-The summary does not mention any of the key events described in the article, such as Oldham's goal or Bradford's equalizer. Instead, it simply states that Bradford were held to a goalless draw by Bradford, which is not consistent with the article's account of the match.
-
-Step 4: Explain the inconsistencies
-The inconsistency between the summary and the article can be explained by the fact that the summary does not provide a detailed account of the match, but rather a general overview of the result. The summary does not mention any specific events or details from the match, whereas the article provides a more detailed account of the game, including the goals and key moments.
-
-Therefore, the given summary is not consistent with the article because it does not provide a detailed account of the match and instead only provides a general overview of the result.
+1. The summary states that Bradford City were held to a goalless draw by Bradford, which is not consistent with the article.
+2. The article states that Bradford City scored a goal in the 57th minute through a penalty, while the summary does not mention any goals being scored.
+3. The article also mentions several missed chances and saves by both teams, which suggests that the game was a close and competitive one, while the summary does not convey this level of competition.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the events of the game, specifically the scoring of a goal by Bradford City and the competitive nature of the match.
 
 ###Corrected:

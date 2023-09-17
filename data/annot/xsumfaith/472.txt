@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than # 1m has been spent on private landlords in london for more than a decade, according to a report. 
-
-    Article: 
-    Investing Solutions received those benefit payments over the past two years by finding properties for single homeless men.
+<Article>
+Investing Solutions received those benefit payments over the past two years by finding properties for single homeless men.
 The charity, Fresh Start Housing, finds clients from London homeless charities.
 Neither the charity nor the company act illegally, but a homeless group says the relationship is "a new low".
 Investing Solutions said "the bulk" of their rents get passed to private landlords, while Fresh Start said they referred clients to both Investing Solutions and private landlords.
@@ -31,17 +28,18 @@ He also said the majority of the properties used were sourced from private secto
 He also said his company was "genuinely concerned by some of your allegations concerning the state of one of our landlord client's property".
 Fresh Start Housing told us it had housed 788 homeless people since it was founded and 222 homeless people in the last 12 months, including re-housed tenants.
 It also said it did not have "authority from the relevant parties" to reveal how many were housed with Investing Solutions.
-A spokeswoman for the Department for Communities and Local Government said local authorities were responsible for "rigorously safe-guarding taxpayers' money, with dedicated investigations and inspection teams for private sector housing". 
+A spokeswoman for the Department for Communities and Local Government said local authorities were responsible for "rigorously safe-guarding taxpayers' money, with dedicated investigations and inspection teams for private sector housing".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+more than # 1m has been spent on private landlords in london for more than a decade, according to a report.
+</Summary>
 
-1. The summary states that more than £1m has been spent on private landlords in London for more than a decade, but the article does not mention any specific time frame or amount spent on private landlords.
-2. The summary suggests that Investing Solutions and Fresh Start Housing are separate entities, but the article states that they are based in the same storage unit and that Fresh Start Housing was set up by Samir Patel in 2010, after he set up Investing Solutions in 2002.
-3. The summary states that Investing Solutions makes money by putting several unrelated people in one house and charging housing benefit for each person, but the article does not mention anything about Investing Solutions making a profit. Instead, it states that the company focuses on providing housing to single homeless men over the age of 35 and that the owner of the house is getting £1,150 per month.
-4. The summary mentions that one of the tenants, Nigel McCann, was living in a homeless shelter when he was referred to Fresh Start Housing, but the article does not mention anything about Nigel McCann or his experiences with Investing Solutions.
-5. The summary states that nearly half the money that Investing Solutions has received over the past two years has been paid by Wandsworth Council, but the article does not mention any specific amount or time frame.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary states that more than £1m has been spent on private landlords, but the article does not mention any specific amount. Additionally, the summary suggests that Investing Solutions is a separate entity from Fresh Start Housing, but the article states that they are based in the same storage unit and were set up by the same person.
+1. The summary states that more than £1m has been spent on private landlords in London for more than a decade, but the article does not mention this. The article only discusses the relationship between Investing Solutions and Fresh Start Housing, and the profits made by the lettings agency.
+2. The summary is not consistent with the article because it does not provide any information about the £1m spent on private landlords. The article does not mention any such spending, and the focus is on the relationship between Investing Solutions and Fresh Start Housing.
+3. The summary is likely based on a misunderstanding or misinterpretation of the article. The article does not mention any large sums of money being spent on private landlords, and the focus is on the profits made by Investing Solutions through its relationship with Fresh Start Housing.
+4. The summary is not supported by the information in the article, and is therefore not a accurate representation of the content. The article provides specific information about the relationship between Investing Solutions and Fresh Start Housing, and the profits made by the lettings agency, but does not mention any large sums of money being spent on private landlords.
 
 ###Corrected:

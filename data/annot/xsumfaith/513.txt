@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the crisis in the steel industry could signal potential problems across other core welsh industries, plaid cymru has warned. 
-
-    Article: 
-    The party's economy spokesman Rhun ap Iorwerth warned steel's troubles were a "canary in the mine", warning of deeper problems across a range of industries.
+<Article>
+The party's economy spokesman Rhun ap Iorwerth warned steel's troubles were a "canary in the mine", warning of deeper problems across a range of industries.
 These include basic metals, chemicals and wood.
 The Welsh government called on Westminster to address the impact of high energy prices on industry.
 The UK government has been asked to comment.
@@ -28,16 +25,20 @@ But he said Wales' growth areas had been in retail, hotels, back-office financia
 "Of course, on current structures they can't, they simply aren't like Tata which is a company which is incredibly valuable in so many ways.
 "A back office for a bank simply can't do the same things for Wales, no matter how many bums on seats there are in those call centres. They don't provide the same jobs or a narrative for the Welsh economy that will give us a future vision."
 Prof Jones said the steel industry in Wales had done relatively well to avoid the worst of the crisis so far.
-"There have been big rounds of redundancies over the last 30 years and we've a very lean operation in Wales and geographically we're better placed than those steelworks in the north of England and Scotland." 
+"There have been big rounds of redundancies over the last 30 years and we've a very lean operation in Wales and geographically we're better placed than those steelworks in the north of England and Scotland."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the crisis in the steel industry could signal potential problems across other core welsh industries, plaid cymru has warned.
+</Summary>
 
-1. The summary states that Plaid Cymru has warned of potential problems across other core Welsh industries, but the article does not mention any specific warnings about other industries. The article only mentions the steel industry and the potential impact of high energy prices on other industries.
-2. The summary states that the crisis in the steel industry could signal potential problems across other core Welsh industries, but the article does not suggest that the crisis in the steel industry is a signal of problems in other industries. Instead, the article focuses on the specific challenges facing the steel industry and the need for support from the Welsh government and Westminster.
-3. The summary mentions the UK government being asked to comment, but the article does not mention any requests for comment from the UK government.
-4. The summary states that the Welsh government has raised concerns about the impact of high energy prices on the competitiveness of Welsh industries, but the article does not mention any specific concerns about energy prices. Instead, the article focuses on the need for support for the steel industry and other foundation industries.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the scope of the problems facing the Welsh economy and implies that other industries are also facing significant challenges, while the article focuses on the specific challenges facing the steel industry and the need for support.
+1. The summary states that the crisis in the steel industry could signal potential problems across other core Welsh industries.
+2. However, the article does not mention any specific industries other than steel that are facing potential problems.
+3. The article does mention that Plaid Cymru has warned of deeper problems across a range of industries, but it does not specify which industries these are.
+4. The summary is not consistent with the article because it implies that other core Welsh industries are facing potential problems, when the article does not provide any evidence of this.
+5. The article focuses primarily on the steel industry and the impact of high energy costs on it, with no mention of other industries facing similar challenges.
+6. Therefore, the summary is an overgeneralization of the information provided in the article and is not an accurate reflection of the content.
 
 ###Corrected:

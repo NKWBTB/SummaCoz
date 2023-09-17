@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mclaren have a lot to do with them this year. 
-
-    Article: 
-    It says something for the way the team have fallen from past greatness that the result they are talking about is the fourth row of the grid - or the third if things go especially well - and some decent points.
+<Article>
+It says something for the way the team have fallen from past greatness that the result they are talking about is the fourth row of the grid - or the third if things go especially well - and some decent points.
 This, from a team that has won 182 grands prix, at a win rate of 23.18%, 12 drivers' world championships, and eight constructors' titles. And which still, despite its dire current results, has two world champions in the cockpit - one of them, Fernando Alonso, arguably the best on the grid.
 Listen: Dennis on Alonso, loyalty & mentality
 The slump started in 2013, when McLaren lost its way on chassis design, but still had the best engine.
@@ -33,16 +30,21 @@ The Spanish two-time champion left Ferrari because he felt they would never get 
 Dennis and his lieutenants believe they are in the process of arresting the slide, that the car is among the very best this year, and that next year Honda - who last year re-entered F1 too soon - will ensure their engine is, too.
 They can see the progress, they say, and it is only a matter of time before they again deliver "championships, plural", as Dennis puts it.
 But right now, belief is all they have. And on it rests not only a successful end to the career of one of the sport's greatest ever drivers, but also the reputation of one of its greatest names.
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+mclaren have a lot to do with them this year.
+</Summary>
 
-1. The summary states that McLaren has a lot to do this year, but the article states that the team is currently in a slump and has not won a race in five years.
-2. The summary mentions that the team has two world champions in the cockpit, but the article highlights that the team has not won a championship since 2008.
-3. The summary suggests that the team is on the verge of a turnaround, but the article states that the team's current predicament is nothing surprising, given their history of cycles of triumph and decline.
-4. The summary mentions that the team's car is among the best this year, but the article states that the team's Honda power-unit is the main cause of their problems.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary presents a more optimistic view of McLaren's current situation and prospects for success, while the article provides a more balanced and realistic assessment of the team's current struggles and history of success and failure.
+1. The summary states that McLaren has a lot to do this year, implying that the team is performing well and has a good chance of success. However, the article paints a different picture, describing the team's current predicament as a "slow - some would even say terminal - decline."
+2. The article highlights McLaren's struggles with their Honda power-unit, stating that the team's current problems lie with the engine. The summary makes no mention of this issue.
+3. The article mentions that McLaren has won 182 grands prix in the past, but the summary does not provide any information about the team's past successes.
+4. The article highlights the team's history of success and failure, describing a cycle of triumph and decline. The summary does not provide any context about the team's history or the current state of the team.
+
+Overall, the summary does not accurately reflect the content of the article. It is a brief statement that does not provide any specific information about McLaren's current situation or their history of success and failure.
 
 ###Corrected:

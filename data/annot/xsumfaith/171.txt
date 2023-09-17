@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    russian sprinter elena chernova should be banned for two years for anabolic sterina chernova\'s doping use, says the country \' 
-
-    Article: 
-    Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
+<Article>
+Chernova, now 27, beat Briton Ennis-Hill to gold at the 2011 World Championships in Korea.
 This week she was given a ban and had earlier results annulled after a sample from 2009 was re-tested - but kept her world title.
 "She set a personal best with the benefit of drug use," Minichiello said.
 Russian anti-doping agency punished Chernova with a two-year ban, backdated to 22 June 2013.
@@ -21,16 +18,21 @@ Chernova's backdated ban is due to expire on 21 June, and with the qualification
 "That is why we think Wada needs to look at its code and penalties to show there is potentially a loophole that needs to be looked. I'm sure the Russian anti-doping agency have administered suspensions according to the rules, so therefore it needs to be looked at."
 Last week, Russia's athletics head coach Valentin Maslakov resigned after a number of athletes from the country were found guilty of committing doping offences.
 Wada is investigating allegations of widespread doping and corruption in Russian athletics after claims were aired in a recent German television documentary, with a report due to be published by the end of the year.
-The IAAF said last week it was concerned about the number of Russian doping cases in the sport. 
+The IAAF said last week it was concerned about the number of Russian doping cases in the sport.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+russian sprinter elena chernova should be banned for two years for anabolic sterina chernova\'s doping use, says the country \'
+</Summary>
 
-1. The summary states that Russian sprinter Elena Chernova should be banned for two years for using anabolic steroids, but the article states that Chernova has already been given a two-year ban, backdated to 22 June 2013, and that her results from 15 August 2009 to 14 August 2011 have been annulled.
-2. The summary implies that Chernova's doping use was recent, stating that she "should be banned" for two years, but the article states that Chernova's doping violation occurred in 2009, and that her ban is backdated to 2013.
-3. The summary suggests that Chernova's ban is ineffective because she could compete in the 2015 World Championships and the 2016 Rio Olympics, but the article states that Chernova's backdated ban is due to expire on 21 June, and that she would be eligible to compete in those events.
-4. The summary quotes a statement from Minichiello that the IAAF and WADA should have a "long, hard look" at the Russian anti-doping agency's punishment, but the article states that the IAAF is awaiting a full explanation from the Russian authorities before deciding whether it needs to take any action.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it implies that Chernova's doping use was recent and that her ban is ineffective, when in fact her doping violation occurred in 2009 and her ban is backdated to 2013. Additionally, the summary quotes a statement from Minichiello that is not supported by the article.
+1. The summary states that Chernova should be banned for two years for anabolic steroid use, but the article states that Chernova has already been given a two-year ban, backdated to 2013, and that the ban is set to expire in June 2015.
+2. The summary implies that Chernova is currently doping, but the article states that the ban is based on a re-tested sample from 2009, and that Chernova won the world title in 2011 with a personal best that was achieved with the benefit of drug use.
+3. The summary suggests that Chernova's doping use is recent, but the article states that the doping occurred in 2009, and that the sample was re-tested in 2013.
+4. The summary does not mention that Chernova's ban is backdated to 2013, nor does it mention that the ban will expire in June 2015.
+
+Overall, the summary is not consistent with the article because it implies that Chernova is currently doping and should be banned for two years, when in fact she has already been given a two-year ban based on a re-tested sample from 2009, and that ban is set to expire in June 2015.
 
 ###Corrected:

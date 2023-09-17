@@ -1,23 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been taken to hospital after a two-vehicle crash on the a96 in county antrim. 
-
-    Article: 
-    The incident happened near Dr Gray's Hospital shortly after 10:00.
+<Article>
+The incident happened near Dr Gray's Hospital shortly after 10:00.
 The man was taken to the hospital with what police said were serious but not life-threatening injuries.
-The A96 was closed in the area for several hours, but it has since reopened. 
+The A96 was closed in the area for several hours, but it has since reopened.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been taken to hospital after a two-vehicle crash on the a96 in county antrim.
+</Summary>
 
-1. The summary states that the man was taken to hospital after a two-vehicle crash on the A96 in County Antrim.
-2. The article states that the incident happened near Dr Gray's Hospital, but it does not mention a two-vehicle crash. Instead, it states that the man was taken to the hospital with serious but not life-threatening injuries.
-3. The article also states that the A96 was closed in the area for several hours, but it has since reopened.
-4. Therefore, the summary is not consistent with the article because it mentions a two-vehicle crash, which is not mentioned in the article. Additionally, the article does not mention the A96 being closed, whereas the summary states that it was closed for several hours.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-So, the reason why the summary is not consistent with the article is because it contains information that is not present in the article, and omits information that is present in the article.
+1. The article states that the incident happened near Dr Gray's Hospital, which is located in County Antrim.
+2. The summary states that the incident occurred on the A96, but it does not mention the location of the hospital.
+3. The article states that the man was taken to the hospital with serious but not life-threatening injuries, but the summary does not mention anything about the man's injuries.
+4. The article states that the A96 was closed in the area for several hours, but the summary does not mention anything about the road being closed.
+
+Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary does not provide enough information about the incident to accurately summarize the article.
 
 ###Corrected:

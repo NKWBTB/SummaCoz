@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    right - 
-esme , a lady in her seventies who died of natural causes 
-ian used to share his collection with his sister but she found the dolls too mischievous 
-
-    Article: 
-    one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+<Article>
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
 ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
 since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
 ian rogers owns nine haunted dolls all of which he says contain their own personality
@@ -59,17 +54,25 @@ she likes to be in the kitchen and had a husband that died of tb .
 max : an raf pilot who died in the second world war .
 he had a little girl who was five who he misses very much .
 he gave up his life to care for his sick mother , but when she passed away he took his own life .
-the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium . 
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+right - 
+esme , a lady in her seventies who died of natural causes 
+ian used to share his collection with his sister but she found the dolls too mischievous
+</Summary>
 
-1. The summary states that Esme, a lady in her seventies, died of natural causes, but the article does not mention her death. Instead, it states that she is one of Ian's haunted dolls and that she likes to be in the kitchen.
-2. The summary mentions Hubert, an old man who likes to play games, but the article does not mention him.
-3. The summary states that Ian has a favourite doll named Annabel, who is haunted by the spirit of a seven-year-old girl who drowned, but the article does not mention Annabel or any other specific dolls having personalities or being haunted.
-4. The summary mentions Sarah, a middle-aged school governess who died in a fire while trying to save children, but the article does not mention her.
-5. The summary states that Ian avoids buying his dolls on eBay because there is no guarantee that they would be haunted, but the article does not mention eBay or any other sources for the dolls.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary includes details that are not present in the article, and omits other important information that is present in the article. Therefore, it is not a consistent summary of the article.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only includes information about Esme, a lady in her seventies who died of natural causes, while the article provides information about all nine haunted dolls owned by Ian Rogers.
+2. The summary does not mention any of the other dolls, such as Annabel, Jocelyn, Harriet, Hubert, Sarah, or Max, which are all discussed in the article.
+3. The article mentions that Ian has a favorite doll, Annabel, who he believes is haunted by the spirit of a seven-year-old girl who drowned while playing with her brother. The summary does not mention this detail.
+4. The article provides background information on each of the dolls, such as their history and personality traits, which are not included in the summary.
+5. The summary does not mention any of the paranormal experiences or activities that Ian holds with his dolls, which are described in detail in the article.
+
+Therefore, based on the above points, it is clear that the summary is not consistent with the article and only provides limited information about one of the dolls, Esme.
 
 ###Corrected:

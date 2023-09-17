@@ -1,28 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested after a tractor and a tractor was seized by police in a tractor and trailer. 
-
-    Article: 
-    The John Deere tractor was pulled over by officers in the village of Ripley and had two other males on board.
+<Article>
+The John Deere tractor was pulled over by officers in the village of Ripley and had two other males on board.
 The vehicle had been seen in nearby Harrogate at about 05:00 GMT with no headlights on.
 Police said the driver had no licence, was not insured and did not have permission from the tractor's owner.
 The vehicle was seized, with the three due to be interviewed by officers.
-Posting on Twitter, Insp Chris Galley said: "A strange end to a night shift. 15-year-old lad driving a tractor as a taxi for his drunk mates." 
+Posting on Twitter, Insp Chris Galley said: "A strange end to a night shift. 15-year-old lad driving a tractor as a taxi for his drunk mates."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been arrested after a tractor and a tractor was seized by police in a tractor and trailer.
+</Summary>
 
-1. The article states that the driver of the tractor was a 15-year-old lad, but the summary mentions "a man" being arrested. This is not consistent, as the article only refers to a juvenile driver.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions "a tractor and a trailer" being seized, but the article only mentions a single John Deere tractor being pulled over. This is not consistent, as there is no mention of a trailer in the article.
+1. The article states that the driver of the tractor was a 15-year-old boy, while the summary claims that a man was arrested. This is a inconsistency, as the article does not mention the arrest of a man.
+2. The article states that the tractor was seized, but the summary claims that a tractor and trailer were seized. This is another inconsistency, as the article only mentions the seizure of the tractor.
+3. The article states that the driver of the tractor was driving without a license, and that the vehicle was not insured. The summary does not mention these details.
+4. The article states that the police posted on Twitter about the incident, but the summary does not mention this.
 
-3. The summary states that the driver had no license, was not insured, and did not have permission from the owner, but the article only mentions that the driver had no license and was not insured. This is not consistent, as there is no mention of the driver not having permission from the owner in the article.
-
-4. The summary mentions that the vehicle was seen in Harrogate with no headlights on, but the article does not mention this. This is not consistent, as there is no information in the article about the vehicle being seen in Harrogate or having no headlights on.
-
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and may contain inaccuracies or misinformation.
+Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

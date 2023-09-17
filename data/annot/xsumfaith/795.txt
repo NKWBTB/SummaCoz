@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england\'s all-time leading wicket-taker james vaughan has been called up to england\'s world twenty20 squad for the first test against pakistan in sharjah. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The hosts won with a day to spare at Old Trafford to level the series.
 England made 589-8 declared and 173-1 declared to set up their second biggest win over Pakistan in terms of runs.
 "It's an absolute hammering. It's as good a four days of cricket that you could wish for from an England point of view," Vaughan told Test Match Special.
@@ -30,21 +27,19 @@ Of the Pakistan players, only captain Misbah-ul-Haq and Asad Shafiq have passed 
 "This is a big disappointment for us," said Misbah. "We could have scored around 400 in the first innings - the ball wasn't doing anything much.
 "We are short of confidence and shot selection really cost us.
 "These guys are strong characters - mentally strong. I'm hopeful that everybody is hurt and they will really work hard."
-Media playback is not supported on this device 
+Media playback is not supported on this device
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the provided summary is not consistent with the article.
+<Summary>
+england\'s all-time leading wicket-taker james vaughan has been called up to england\'s world twenty20 squad for the first test against pakistan in sharjah.
+</Summary>
 
-1. The summary states that James Vaughan has been called up to England's World Twenty20 squad, but there is no mention of this in the article.
+Explain your reasoning step by step:[/INST]
 
-2. The article does not mention a World Twenty20 squad or any call-ups. It only discusses the second Test match between England and Pakistan.
-
-3. The summary states that England won the second Test against Pakistan, but the article does not mention the outcome of the match.
-
-4. The article discusses England's victory in the second Test, but it does not mention James Vaughan or any call-ups.
-
-5. The summary is not consistent with the article because it includes information that is not present in the article. The article only discusses the second Test match between England and Pakistan, while the summary introduces new information about James Vaughan and the World Twenty20 squad.
-
-6. Therefore, the summary is not a accurate reflection of the content of the article.
+1. The summary states that James Vaughan has been called up to England's World Twenty20 squad for the first test against Pakistan in Sharjah.
+2. However, the article does not mention anything about James Vaughan being called up to the squad.
+3. The article is actually about the second Test between England and Pakistan at Old Trafford, and it discusses England's victory, Joe Root's performance, and Pakistan's struggles.
+4. Therefore, the summary is not consistent with the article, as there is no mention of James Vaughan in the article.
+5. It seems that the summary may have been mistaken or misleading, as there is no connection between James Vaughan and the England vs Pakistan Test series.
 
 ###Corrected:

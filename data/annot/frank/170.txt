@@ -1,21 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man accused of murdering vincent barker 30 years ago has told a jury he was ``preventable\'\'and ``preventable\'\'. 
+<Article>
+Vincent Barker, known as Vinnie, died in July 2012, five months after he had a routine eye test at Boots in Ipswich.The prosecution told Ipswich Crown Court the conduct of eye specialist Honey Rose, 35, was so far below the expected standard it was "criminal".Ms Rose denies a charge of gross negligence manslaughter.Read more on this story and other news from SuffolkJonathan Rees QC said the alleged failure of Ms Rose, of Newham, east London, to detect Vinnie's swollen optic discs during the routine test, and refer him on for further investigation, was "at the heart of the prosecution case".A build-up of fluid in his brain increased pressure in Vinnie's skull and ultimately led to his death, the court heard."The prosecution allege that Vinnie's death was preventable and would have been prevented had the defendant, Ms Rose, done her job properly," he told the jury."Given the risk of death involved, her conduct was so bad in all of the circumstances - it fell so far below the standards to be expected of a competent optometrist - that it was criminal."The trial continues.
+</Article>
 
-    Article: 
-    Vincent Barker, known as Vinnie, died in July 2012, five months after he had a routine eye test at Boots in Ipswich.The prosecution told Ipswich Crown Court the conduct of eye specialist Honey Rose, 35, was so far below the expected standard it was "criminal".Ms Rose denies a charge of gross negligence manslaughter.Read more on this story and other news from SuffolkJonathan Rees QC said the alleged failure of Ms Rose, of Newham, east London, to detect Vinnie's swollen optic discs during the routine test, and refer him on for further investigation, was "at the heart of the prosecution case".A build-up of fluid in his brain increased pressure in Vinnie's skull and ultimately led to his death, the court heard."The prosecution allege that Vinnie's death was preventable and would have been prevented had the defendant, Ms Rose, done her job properly," he told the jury."Given the risk of death involved, her conduct was so bad in all of the circumstances - it fell so far below the standards to be expected of a competent optometrist - that it was criminal."The trial continues. 
+<Summary>
+a man accused of murdering vincent barker 30 years ago has told a jury he was ``preventable\'\'and ``preventable\'\'.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the man accused of murdering Vincent Barker said he was "preventable" and "preventable". However, the article does not mention anything about the man saying these words.
-2. The article focuses on the alleged gross negligence manslaughter of Vincent Barker by eye specialist Honey Rose. The article states that the prosecution alleges that Ms. Rose's failure to detect Vinnie's swollen optic discs during a routine test and refer him for further investigation was "criminal" and that Vinnie's death was "preventable".
-3. The summary does not mention anything about the alleged failure of Ms. Rose to detect Vinnie's swollen optic discs or the risk of death involved. Therefore, the summary is not consistent with the article.
-4. The article focuses on the alleged negligence of Ms. Rose, while the summary mentions a man accused of murder. This is not consistent with the article, which does not mention anything about a man accused of murder.
-
-Therefore, the summary is not consistent with the article. It appears to be a summary of a different story or a summary that has been incorrectly written.
+1. The article is about the death of Vincent Barker in July 2012, and the trial of eye specialist Honey Rose, who is accused of gross negligence manslaughter.
+2. The summary states that a man accused of murdering Vincent Barker 30 years ago has told a jury that his death was "preventable" and "preventable".
+3. However, the article does not mention anything about a man accused of murdering Vincent Barker 30 years ago. The article only mentions the death of Vincent Barker in July 2012 and the trial of Honey Rose.
+4. Therefore, the summary is not consistent with the article because it mentions a completely different topic (a man accused of murdering Vincent Barker 30 years ago) that is not present in the article.
 
 ###Corrected:

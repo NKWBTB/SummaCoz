@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a row has broken out over the government\'s plans to introduce a tax on the isle of wight. 
-
-    Article: 
-    The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
+<Article>
+The government wants some households to pay more to raise money for education, and finance secretary Derek Mackay gave evidence to committee backing the plan.
 The committee formally recommended the scheme to parliament after members voted four to two in favour of it.
 Members also rejected an amendment from Green MSP Andy Wightman noting "concerns" about wider local tax plans.
 The proposals would see the average band E household pay about £2 per week more, and the average household in the highest band (H) about £10 a week more.
@@ -28,17 +25,25 @@ But he said the changes to bands were "not the end of the story in terms of loca
 The Scottish government has started the process of reforming local taxation following on from the Commission on Local Tax Reform, which called for a fairer, more transparent and progressive tax to fund local services.
 Opposition members have accused the government of "tinkering" with the system rather than making bold reforms.
 The Scottish Conservatives support an end to the council tax freeze and increases to the top two bands, but oppose the changes to bands E and F.
-But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so. 
+But Labour and the Greens both want to see the "hated" council tax scrapped, with Labour repeatedly accusing the SNP of abandoning an earlier promise to do so.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+a row has broken out over the government\'s plans to introduce a tax on the isle of wight.
+</Summary>
 
-1. The summary states that a row has broken out over the government's plans to introduce a tax on the Isle of Wight. However, the article does not mention the Isle of Wight at all.
-2. The summary mentions a tax on households, but the article only discusses a proposal to change the bands of council tax to make the system more progressive.
-3. The summary states that the government wants to introduce a new tax, but the article explains that the proposal is to change the bands of council tax, not introduce a new tax.
-4. The summary mentions a vote by the committee, but the article does not mention any vote or decision by the committee.
-5. The summary states that the proposal will see the average band E household pay about £2 per week more, but the article does not mention any specific figures or amounts.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains incorrect information and misleading statements. The article does not discuss a new tax, the Isle of Wight, or any specific amounts, and the proposal is to change the bands of council tax, not introduce a new tax.
+1. The article is discussing the Scottish government's plans to reform local taxation, specifically the council tax system.
+2. The summary states that a row has broken out over the government's plans to introduce a tax on the Isle of Wight.
+3. However, there is no mention of the Isle of Wight in the article.
+4. Therefore, the summary is not consistent with the article.
+
+Reasoning step by step:
+
+1. The article is discussing the Scottish government's plans to reform local taxation, specifically the council tax system. This is evident from the headline and the content of the article.
+2. The summary states that a row has broken out over the government's plans to introduce a tax on the Isle of Wight. This is not mentioned in the article.
+3. The article does not mention the Isle of Wight at all. The article is focused on the Scottish government's plans to reform local taxation in Scotland.
+4. Therefore, the summary is not consistent with the article. The summary is discussing a topic that is not present in the article.
 
 ###Corrected:

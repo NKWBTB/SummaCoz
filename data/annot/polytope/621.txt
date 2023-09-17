@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    witness robert kushner testified that the 2007 charges were unprofessional .
-he testified that the 2007 charges were unprofessional .
-he testified that the 2007 charges were unprofessional .
-he admitted he was arrested again in 2011 and sentenced to four years . 
-
-    Article: 
-    a police corruption trial in philadelphia is far from over , but already one trial witness has been handed a losing verdict .
+<Article>
+a police corruption trial in philadelphia is far from over , but already one trial witness has been handed a losing verdict .
 witness robert kushner lost his varsity coaching job at a private academy after testifying this week about his years selling marijuana .
 kushner , 32 , is one of more than a dozen former drug dealers testifying for the federal government about allegations of police wrongdoing .
 witness robert kushner lost his varsity coaching job at the jack m. barrack hebrew academy after testifying this week about his years selling marijuana
@@ -25,15 +19,24 @@ and he believes he is innocent of the 2011 charges .
 ` all of the stuff that happened in 2007 , that was eight years ago and was a bad phase of my life that i 've moved past and never really looked back , ' kushner said wednesday .
 " i 'm very sorry , and i want the best for the kids . "
 he also coaches in a narberth summer league , where director dan kazanicka described him as an excellent coach who is good with kids .
-lawyers for the six former drug squad officers accused of racketeering have said the government case is based on 19 lying drug dealers and a rogue ex-cop . 
+lawyers for the six former drug squad officers accused of racketeering have said the government case is based on 19 lying drug dealers and a rogue ex-cop .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+witness robert kushner testified that the 2007 charges were unprofessional .
+he testified that the 2007 charges were unprofessional .
+he testified that the 2007 charges were unprofessional .
+he admitted he was arrested again in 2011 and sentenced to four years .
+</Summary>
 
-1. The summary states that Robert Kushner testified that the 2007 charges were unprofessional, but the article does not mention him saying this.
-2. The summary states that Kushner was arrested again in 2011 and sentenced to four years, but the article only mentions that he pleaded guilty to driving under the influence in 2008 and was sentenced to four years of probation.
-3. The summary states that Kushner lost his varsity coaching job at the Jack M. Barrack Hebrew Academy due to his testimony, but the article only mentions that he lost his job after the school learned about his criminal history.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that witness Robert Kushner testified that the 2007 charges were unprofessional, but the article does not mention anything about the charges being unprofessional. In fact, the article states that Kushner testified that the officers stole $81,000 in cash and 7 pounds of marijuana from him during a 2007 arrest.
+2. The summary also states that Kushner admitted he was arrested again in 2011 and sentenced to four years, but the article does not mention anything about a 2011 arrest or sentencing.
+3. The summary is missing several important details that are present in the article, such as Kushner's history of selling marijuana, his expunged charges, and his current coaching job at a private academy.
+
+Therefore, the summary is not consistent with the article and contains inaccuracies and omissions. It is possible that the summary was written based on incomplete or inaccurate information, or that it was not carefully reviewed before being published.
 
 ###Corrected:

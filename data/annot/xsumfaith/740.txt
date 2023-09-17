@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    glaciers in the french alps have lost a quarter of their area in the past 40 years, according to new research. 
-
-    Article: 
-    In the late 1960s/early 1970s, the ice fields slipping down Mont Blanc and the surrounding mountains of the European range covered some 375 sq km.
+<Article>
+In the late 1960s/early 1970s, the ice fields slipping down Mont Blanc and the surrounding mountains of the European range covered some 375 sq km.
 By the late 2000s, this area had fallen to about 275 sq km.
 The research has been presented at the American Geophysical Union (AGU) Fall Meeting, the world's largest annual gathering of Earth scientists.
 It mirrors some findings of retreat occurring in other sectors of the Alps which sit across the borders of several nations, but predominantly Switzerland, Austria, Slovenia, Germany, France, and Italy.
@@ -24,16 +21,20 @@ This represents an average loss of some 26% over the last 40 years. The retreat 
 The northern region includes the biggest French glacier of all - La Mer de Glace, which falls over a 1,000m in altitude down Mont Blanc itself.  Its area today is just over 30 sq km, a shade smaller than the 31.5 sq km in the late 1960s/early 1970s.
 Efforts to assess and monitor glacier health are going on across the Alpine region.
 At this very meeting three years ago, Swiss researchers reported that glaciers on their part of the European range were also losing mass at an accelerating rate.
-Jonathan.Amos-INTERNET@bbc.co.uk 
+Jonathan.Amos-INTERNET@bbc.co.uk
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article.
+<Summary>
+glaciers in the french alps have lost a quarter of their area in the past 40 years, according to new research.
+</Summary>
 
-1. The summary states that glaciers in the French Alps have lost a quarter of their area in the past 40 years, which implies a consistent and rapid retreat over the entire period. However, the article states that the retreat has not been uniform across the French Alps, with the greatest losses seen in the southern sectors.
-2. The summary mentions a quarter of the area lost, which implies a loss of 25% of the total area of glaciers in the French Alps. However, the article states that the average loss over the last 40 years is 26%, which is not the same as a quarter.
-3. The summary does not provide any information about the specific massifs where the glaciers are located, while the article provides detailed information about the Belledonne, Ecrins, Vanoise, Ubaye, and Grande Rousse Arves massifs, as well as the Mont Blanc Massif.
-4. The summary mentions the French Alps, but does not provide any information about the specific region or location of the glaciers, while the article provides detailed information about the location of the glaciers in the French Alps.
+Explain your reasoning step by step:[/INST]
 
-Based on these differences, it is clear that the summary is not consistent with the article. The summary provides a general statement about the retreat of glaciers in the French Alps, while the article provides more specific and detailed information about the retreat of glaciers in different massifs in the French Alps, and emphasizes that the retreat is not uniform across the region.
+1. The summary states that glaciers in the French Alps have lost a quarter of their area in the past 40 years.
+2. The article states that the area of glaciers in the French Alps has decreased from approximately 375 sq km to approximately 275 sq km over the same period, which is a loss of about 26% of the original area.
+3. However, the article does not state that the glaciers have lost a quarter of their area. In fact, the article states that the retreat is not uniform across the French Alps, and that the greatest losses have been seen in the southern sectors.
+4. Therefore, the summary is not consistent with the article because it overstates the extent of the glacial retreat in the French Alps. The article provides a more nuanced picture of the retreat, indicating that the loss of area is not uniform across the region and that the southern sectors have experienced the greatest losses.
+
+In conclusion, the summary is not consistent with the article because it exaggerates the extent of the glacial retreat in the French Alps. The article provides a more accurate picture of the retreat, indicating that the loss of area is not uniform across the region and that the southern sectors have experienced the greatest losses.
 
 ###Corrected:

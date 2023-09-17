@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    abraham lincoln 's tomb in lincoln 's tomb in massachusetts , illinois , has been closed in the wake of the 150th anniversary of the civil war president 's assassination .
-bruce UNK has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists . 
-
-    Article: 
-    caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+<Article>
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
 for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
 he would roll the agency into another department .
 what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
@@ -41,17 +37,21 @@ william sparks , a visitor to the outside of the tomb tuesday who took an amtrak
 this is very impressive . '
 critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
 lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
-it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo ) 
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article and the given summary, there are several reasons why the summary is not consistent with the article:
+<Summary>
+abraham lincoln 's tomb in lincoln 's tomb in massachusetts , illinois , has been closed in the wake of the 150th anniversary of the civil war president 's assassination .
+bruce UNK has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
+</Summary>
 
-1. Closure of the tomb: The summary states that Abraham Lincoln's tomb in Massachusetts has been closed, but the article does not mention anything about the tomb being closed.
-2. Proposed elimination of the state historic preservation agency: The summary mentions that Bruce Rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb, but the article does not mention this.
-3. Critique in National Geographic magazine: The summary states that the tomb was pilloried in National Geographic magazine as having "all the historical character of an office lobby," but the article does not mention this critique.
-4. Budget cuts: The summary mentions that budget cuts could threaten management of the historic site, but the article does not mention this.
-5. Lincoln's tomb is open to the public: The summary states that the tomb is closed, but the article states that the tomb is open to the public and that caretakers are on the defensive over an unflattering critique in National Geographic magazine.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
+1. The summary states that Abraham Lincoln's tomb is located in Massachusetts, Illinois. This is incorrect, as the tomb is located in Springfield, Illinois.
+2. The summary states that the tomb has been closed in the wake of the 150th anniversary of Lincoln's assassination. However, the article states that the tomb is open to the public and has been open during regular hours despite budget cuts and staff reductions.
+3. The summary states that Bruce UNK has proposed eliminating the state historic preservation agency that manages sites including the tomb. However, the article does not mention any proposal to eliminate the agency or any plans to close the tomb.
+4. The summary does not provide any information about the article's content, such as the National Geographic critique of the tomb's interior or the recent repairs and renovations made to the tomb.
+
+Therefore, the summary is not consistent with the article and contains several inaccuracies.
 
 ###Corrected:

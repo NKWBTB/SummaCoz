@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    laura muir says she will not be able to compete at this year\'s scottish indoor athletics championships. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Muir told BBC Scotland her veterinary medicine studies will mean she will not be with the Scotland team at next year's event on Australia's Gold Coast.
 The 24-year-old finished fourth and sixth in the 1500m and 5,000m at the World Athletics Championships.
 "My exams aren't until May so Commonwealths being in April, it's just not going to work out unfortunately," said the middle distance runner.
@@ -22,16 +19,21 @@ Hellen Obiri upset defending world champion Almaz Ayana to win 5,000m gold in Lo
 Muir's time of 14 minutes 52.07 seconds was her new outdoor personal best.
 "I'm really happy," she said after Sunday's race.
 "It was really tough competition out there. I'm delighted with that. I'm really, really pleased with how I ran.
-"My fifth race in 10 days - it's a lot of running and to still come away with that I think there's a lot of potential for the future." 
+"My fifth race in 10 days - it's a lot of running and to still come away with that I think there's a lot of potential for the future."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+laura muir says she will not be able to compete at this year\'s scottish indoor athletics championships.
+</Summary>
 
-1. The summary states that Laura Muir will not be able to compete at this year's Scottish Indoor Athletics Championships, but the article does not mention anything about the Scottish Indoor Athletics Championships.
-2. The summary mentions that Muir will not be able to compete because of her veterinary medicine studies, but the article does not mention anything about her studies.
-3. The summary states that Muir will be missing the Commonwealth Games, but the article does not mention the Commonwealth Games.
-4. The summary mentions that Muir is targeting the World Indoor Championships in March, but the article does not mention the World Indoor Championships.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article. The article only mentions Muir's performance in the 1500m and 5,000m at the World Athletics Championships, her studies, and her target of competing in the World Indoor Championships.
+1. The summary states that Laura Muir will not be able to compete at this year's Scottish Indoor Athletics Championships.
+2. However, the article does not mention anything about the Scottish Indoor Athletics Championships.
+3. The article only mentions the World Athletics Championships, the Commonwealth Games, and the World Indoor Championships.
+4. The article states that Muir will not be able to compete at the Commonwealth Games due to her studies, but it does not mention anything about the Scottish Indoor Athletics Championships.
+5. Therefore, the summary is not consistent with the article, as Muir is not mentioned as not being able to compete at the Scottish Indoor Athletics Championships.
+
+The reason for the inconsistency is that the summary is not accurately summarizing the information in the article. The article does not mention the Scottish Indoor Athletics Championships, so the summary should not have included that information.
 
 ###Corrected:

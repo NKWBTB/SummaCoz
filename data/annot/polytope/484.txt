@@ -1,31 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest .
+<Article>
+at the grand old age of 75 , jack nicklaus is still capable of hitting aces . the golden bear added another magic moment to his storied career at augusta national in the par-3 contest . stepping up to the tee on the 130-yard fourth , the greatest golfer of all time saw his shot sail beyond the flag before spinning back into the hole . jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest . nicklaus holds up his ball to an adoring crowd as gary player ( left ) and ben crenshaw salute the great . crenshaw and nicklaus fist pump following his ace on the 130-yard hole at augusta national . nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week filled the skies in a sunswept georgia . ' i had an interview this morning , and i said `` well , all i 've got to do is go out and win the par-3 and make a hole and one '' , and i make a hole in one , ' nicklaus said afterwards . the ace was nicklaus ' first on the hallowed turf of augusta , but the veteran saw his achievement eclipsed by that of camilo villegas on a day which saw five hole-in-ones , levelling the record from 2002 . the colombian followed nicklaus with an ace on the fourth and also managed one on the eighth , but he could n't quite land the title , losing out to world no 74 kevin streelman in a play-off . nicklaus became the youngest person to wear a green jacket in 1963 , and collected his sixth in 1986 . he is one of five men to complete the career grand slam , an accolade which favourite rory mcilroy can achieve if he wins his third major in succession .
+</Article>
+
+<Summary>
+jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest .
 nicklaus holds up his ball to an adoring crowd as gary player and ben crenshaw salute the great .
-nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week . 
+nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week .
+</Summary>
 
-    Article: 
-    at the grand old age of 75 , jack nicklaus is still capable of hitting aces . the golden bear added another magic moment to his storied career at augusta national in the par-3 contest . stepping up to the tee on the 130-yard fourth , the greatest golfer of all time saw his shot sail beyond the flag before spinning back into the hole . jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest . nicklaus holds up his ball to an adoring crowd as gary player ( left ) and ben crenshaw salute the great . crenshaw and nicklaus fist pump following his ace on the 130-yard hole at augusta national . nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week filled the skies in a sunswept georgia . ' i had an interview this morning , and i said `` well , all i 've got to do is go out and win the par-3 and make a hole and one '' , and i make a hole in one , ' nicklaus said afterwards . the ace was nicklaus ' first on the hallowed turf of augusta , but the veteran saw his achievement eclipsed by that of camilo villegas on a day which saw five hole-in-ones , levelling the record from 2002 . the colombian followed nicklaus with an ace on the fourth and also managed one on the eighth , but he could n't quite land the title , losing out to world no 74 kevin streelman in a play-off . nicklaus became the youngest person to wear a green jacket in 1963 , and collected his sixth in 1986 . he is one of five men to complete the career grand slam , an accolade which favourite rory mcilroy can achieve if he wins his third major in succession . 
+Explain your reasoning step by step:[/INST]
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Based on the provided article and summary, there are several inconsistencies that can be identified:
 
-Step 1: Identify the inconsistency
-The inconsistency is that the summary states that Jack Nicklaus made a hole-in-one on the fourth hole during the par-3 contest, but the article states that he made a hole-in-one on the 130-yard hole.
+1. In the summary, it is stated that Jack Nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest. However, the article does not mention anything about Nicklaus making a hole in one on the fourth hole. Instead, the article states that Nicklaus made a hole in one on the 130-yard hole at Augusta National.
+2. In the summary, it is mentioned that Nicklaus held up his ball to an adoring crowd as Gary Player and Ben Crenshaw saluted him. However, the article does not mention anything about Nicklaus holding up his ball or being saluted by Player and Crenshaw.
+3. In the summary, it is stated that Nicklaus was playing alongside Gary Player and Ben Crenshaw as the first roar of Masters week filled the skies in a sun-swept Georgia. However, the article does not mention anything about the first roar of Masters week or the location of the event.
 
-Step 2: Analyze the article
-According to the article, Jack Nicklaus made a hole-in-one on the 130-yard hole during the par-3 contest. The article also states that there were five hole-in-ones during the contest, and that Camilo Villegas made an ace on the fourth hole.
-
-Step 3: Analyze the summary
-The summary states that Jack Nicklaus made a hole-in-one on the fourth hole during the par-3 contest. However, this is not supported by the article, which states that he made the ace on the 130-yard hole.
-
-Step 4: Explain the inconsistency
-The summary is not consistent with the article because it incorrectly states that Jack Nicklaus made a hole-in-one on the fourth hole, when in fact he made the ace on the 130-yard hole.
-
-Step 5: Provide evidence from the article
-To support the inconsistency, we can point to the following evidence from the article: "Jack Nicklaus gave the crowd something to cheer with a hole in one on the 130-yard hole during the par-3 contest." This contradicts the summary, which states that he made the ace on the fourth hole.
+Therefore, based on the inconsistencies identified above, it can be concluded that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits other important information that is present in the article.
 
 ###Corrected:

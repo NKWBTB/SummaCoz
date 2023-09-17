@@ -1,20 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a cat has died of antifreeze poisoning after eating antifreeze in a car park, the rspca has confirmed. 
+<Article>
+Share this withEmailFacebookMessengerMessengerTwitterPinterestWhatsAppLinkedInCopy this linkThe charity said tests confirmed all of the cats near Victor Avenue, in Melton Mowbray, Leicestershire, had ingested the toxic substance.In the most recent case, seven-month-old Meereen died on Monday.An RSPCA spokesman said it was unclear whether the poisonings were accidental or deliberate.Updates on this story and more from LeicestershireThree other cats in the area have died in the last seven days, while another cat died two weeks ago.Meereen's "devastated" owner, Adria Pearce, said the cat came home on Friday evening and "seemed to be shivering a little"."I haven't been able to stop crying since she died," she said."We found her behind the sofa, where she was foaming from the mouth and trying to be sick."Meereen was taken to the vets - where it was confirmed she had consumed antifreeze - and died three days later.RSPCA inspector, Andy Bostock, is appealing for everyone in the area to ensure pesticides and chemicals were stored safely."We are very concerned," he said."It is the time of year where people use antifreeze in their cars, so if you do, please make sure there are no leaks and any spills are cleaned up properly."
+</Article>
 
-    Article: 
-    Share this withEmailFacebookMessengerMessengerTwitterPinterestWhatsAppLinkedInCopy this linkThe charity said tests confirmed all of the cats near Victor Avenue, in Melton Mowbray, Leicestershire, had ingested the toxic substance.In the most recent case, seven-month-old Meereen died on Monday.An RSPCA spokesman said it was unclear whether the poisonings were accidental or deliberate.Updates on this story and more from LeicestershireThree other cats in the area have died in the last seven days, while another cat died two weeks ago.Meereen's "devastated" owner, Adria Pearce, said the cat came home on Friday evening and "seemed to be shivering a little"."I haven't been able to stop crying since she died," she said."We found her behind the sofa, where she was foaming from the mouth and trying to be sick."Meereen was taken to the vets - where it was confirmed she had consumed antifreeze - and died three days later.RSPCA inspector, Andy Bostock, is appealing for everyone in the area to ensure pesticides and chemicals were stored safely."We are very concerned," he said."It is the time of year where people use antifreeze in their cars, so if you do, please make sure there are no leaks and any spills are cleaned up properly." 
+<Summary>
+a cat has died of antifreeze poisoning after eating antifreeze in a car park, the rspca has confirmed.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the cat died of antifreeze poisoning after eating antifreeze in a car park, but the article does not mention the cat eating antifreeze in a car park. Instead, the article states that the cat ingested the toxic substance near Victor Avenue in Melton Mowbray, Leicestershire.
-2. The summary does not mention that three other cats in the area have died in the last seven days, and another cat died two weeks ago, as stated in the article.
-3. The summary does not mention the RSPCA inspector's appeal for people in the area to ensure pesticides and chemicals were stored safely, as stated in the article.
+1. The summary states that the cat died of antifreeze poisoning after eating antifreeze in a car park.
+2. The article does not mention anything about the cat eating antifreeze in a car park. Instead, it states that the cat ingested the toxic substance near Victor Avenue in Melton Mowbray, Leicestershire.
+3. The article also mentions that the RSPCA is unsure whether the poisonings were accidental or deliberate, while the summary implies that the poisoning was deliberate.
+4. The article provides more details about the other cats that have died in the area, including the fact that they died over the past seven days and that Meereen was the most recent victim. The summary does not mention these additional details.
 
-Overall, the summary does not provide a complete and accurate summary of the article. It only mentions one aspect of the article (the cat's death from antifreeze poisoning) and leaves out other important details.
+Therefore, the summary is not consistent with the article because it omits important details, provides misleading information, and implies deliberate poisoning when the article states that the cause of death is unclear.
 
 ###Corrected:

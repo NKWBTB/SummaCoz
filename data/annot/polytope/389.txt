@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
-a new poll has revealed that diana is the favourite option for baby if it is a girl .
-brits are hoping for a baby princess this time and favour the name diana 
-
-    Article: 
-    as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
+<Article>
+as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name .
 a new poll has revealed that diana is the favourite option for baby if it is a girl .
 according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
 kate and william leaving the lindo wing of st mary 's hospital in london , with their newborn son , prince george in 2013 .
@@ -22,16 +17,24 @@ the choices were echoed on social media today , with many twitter users claiming
 one user called danielle o'donoghue wrote : ` if kate middleton has a baby girl and does n't name her diana i 'll be so upset .
 another said : ` if the new royal baby is a girl and is called diana , either first name or middle name .
 i will be 90 % more emotional . '
-the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up . 
+the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the given summary is not consistent with the article:
+<Summary>
+according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
+a new poll has revealed that diana is the favourite option for baby if it is a girl .
+brits are hoping for a baby princess this time and favour the name diana
+</Summary>
 
-1. The summary states that "diana is the favourite name for the second royal baby," but the article does not support this claim. According to the article, the favourite names for the baby are Alice, Charlotte, and James, with Diana not being mentioned as a favourite.
-2. The summary states that "12 per cent of people questioned thought that the child should be named after William's mother," but the article does not provide any information about people thinking the child should be named after William's mother.
-3. The summary states that "Brits are hoping for a baby princess this time," but the article does not provide any information about people hoping for a baby princess specifically. The article only mentions that people are hoping for a healthy baby.
-4. The summary states that "Kate and William leaving the Lindo wing of St Mary's hospital in London," but the article does not mention anything about Kate and William leaving the hospital.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the article and omits other important information that is included in the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that "12 per cent of people questioned thought that the child should be named after William's mother - Diana the Princess of Wales." However, the article states that "a new poll has revealed that Diana is the favourite option for baby if it is a girl." The wording of the summary is incorrect as it implies that only 12% of people think the child should be named after Diana, while the article states that Diana is the favourite option for baby, not just a preferred name.
+2. The summary mentions "brits are hoping for a baby princess this time and favour the name Diana." However, the article does not mention anything about "brits" or the public's preferences for a baby princess. The article only discusses the results of the YouGov survey and the possible names for the royal baby.
+3. The summary states that "Alice and Charlotte were next in terms of preference, getting nine per cent of the vote each." However, the article does not mention anything about Alice or Charlotte being preferred names for the royal baby.
+4. The summary mentions "if the child is a boy then 13 per cent of people would like him to be called James." However, the article does not mention anything about James being a preferred name for a boy.
+
+Overall, the summary is not consistent with the article as it contains inaccuracies and exaggerations. It is important to ensure that summaries accurately reflect the content of the original article to avoid confusion and misinformation.
 
 ###Corrected:

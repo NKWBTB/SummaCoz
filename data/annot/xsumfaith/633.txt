@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police are seeking a man over the murder of an elderly man found dead at a house in hertfordshire. 
-
-    Article: 
-    The body of the man in his 70s, was found at the house in Nettleden Road, Little Gaddesden, near Berkhamsted, on Saturday afternoon.
+<Article>
+The body of the man in his 70s, was found at the house in Nettleden Road, Little Gaddesden, near Berkhamsted, on Saturday afternoon.
 A man in his 80s was also taken to hospital, a police spokeswoman said.
 Detectives want to question 55-year-old Ian John McLoughlin, also known as Ian John Baker, and have warned people not to approach him.
 Det Ch Insp Martin Brunning, from the Bedfordshire, Cambridgeshire and Hertfordshire major crime unit, said: "The investigation is still in its early stages.
@@ -14,17 +11,19 @@ Det Ch Insp Martin Brunning, from the Bedfordshire, Cambridgeshire and Hertfords
 He is described as white, about 6ft (1.8m) tall, with straight, greying, collar-length hair and of average build.
 He is believed to have been wearing sunglasses, blue jeans or three-quarter length trousers and a dark blue, light blue and white checked short-sleeved shirt with a button-down collar.
 Anyone with information has been urged to contact police or Crimestoppers.
-Officers have been conducting additional patrols in the area to provide reassurance to residents. 
+Officers have been conducting additional patrols in the area to provide reassurance to residents.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+police are seeking a man over the murder of an elderly man found dead at a house in hertfordshire.
+</Summary>
 
-1. The summary states that police are seeking a man over the murder of an elderly man found dead at a house in Hertfordshire. However, the article does not mention anything about the police seeking a specific person or any details about the suspect.
-2. The summary mentions that the body of the man in his 70s was found at a house in Nettleden Road, Little Gaddesden, near Berkhamsted, on Saturday afternoon. However, the article does not mention the location of the house or the day the body was found.
-3. The summary states that a man in his 80s was also taken to hospital. However, the article does not mention anything about another person being taken to the hospital.
-4. The summary quotes Detective Chief Inspector Martin Brunning as saying "the investigation is still in its early stages" and "we are continuing to treat the death as murder." However, these quotes are not present in the article.
-5. The summary describes the suspect as white, about 6ft tall, with straight, greying, collar-length hair and of average build. The article does not provide any description of the suspect.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary includes details that are not present in the article, such as the location of the house, the day the body was found, and the description of the suspect. Additionally, the quotes from Detective Chief Inspector Martin Brunning are not present in the article.
+1. The summary states that the police are seeking a man over the murder of an elderly man found dead at a house in Hertfordshire.
+2. However, the article does not mention anything about the police seeking a specific person or any details about the suspect.
+3. The article only mentions that detectives want to question 55-year-old Ian John McLoughlin in connection with the death, but it does not say that they are seeking him.
+4. The summary is not consistent with the article because it implies that the police are actively seeking a suspect, while the article only mentions that they want to question one person.
+5. Therefore, the summary is not accurate and does not accurately represent the information in the article.
 
 ###Corrected:

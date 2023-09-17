@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a farmer who built a mock-tudor castle without planning permission has failed to demolish his mock-tudor castle. 
-
-    Article: 
-    Robert Fidler built the house in Salfords, in the Surrey greenbelt, in 2000 and hid it behind hay bales.
+<Article>
+Robert Fidler built the house in Salfords, in the Surrey greenbelt, in 2000 and hid it behind hay bales.
 He told Mr Justice Dove at London's High Court that his "beautiful home" had now been "carefully dismantled".
 "Hopefully, it will be rebuilt on another site with full planning permission," he said.
 At a previous hearing, Mr Fidler, 66, had been told to tear down his home by 6 June or face jail.
@@ -17,16 +14,21 @@ Representing himself, Mr Fidler insisted: "I broke no law. I was looking after m
 He described the four bedroom castle as a "work of art built lawfully", but said he would "fully comply" with the council enforcement notices.
 Mr Justice Dove adjourned the case until 4 July, but said he hoped it would not be necessary for it to return to court.
 Mr Fidler told him: "I assure you we will not have to come back."
-At the end of the hearing, he said to the judge: "When I rebuild my house, I want you to come and see it." 
+At the end of the hearing, he said to the judge: "When I rebuild my house, I want you to come and see it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a farmer who built a mock-tudor castle without planning permission has failed to demolish his mock-tudor castle.
+</Summary>
 
-1. The summary states that Mr. Fidler failed to demolish his mock-tudor castle, but the article states that he has "very largely" demolished it.
-2. The summary implies that Mr. Fidler is still in contempt of court, but the article states that the parties have agreed to adjourn the case for a month to give him an opportunity to fully comply with the council enforcement notices.
-3. The summary mentions nothing about Mr. Fidler's statement that he will "fully comply" with the council enforcement notices, nor his offer to rebuild his house with full planning permission.
-4. The summary also omits the fact that Mr. Fidler described his castle as a "work of art built lawfully".
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not a consistent representation of the article's content. It omits some key points and includes others that are not supported by the article.
+1. The summary states that the farmer failed to demolish his mock-tudor castle, but the article states that the house has been "very largely" demolished.
+2. The summary does not mention that the house was built without planning permission, which is a key aspect of the article.
+3. The summary does not mention the court case or the fact that the farmer was ordered to tear down the house or face jail.
+4. The summary does not mention the agreement reached between the parties to adjourn the case for a month to allow the farmer to complete the demolition.
+5. The summary does not mention the farmer's statement that he will "fully comply" with the council enforcement notices.
+
+Therefore, the summary is not consistent with the article because it does not provide a accurate summary of the key points, such as the fact that the house was built without planning permission, the court case, and the agreement reached between the parties.
 
 ###Corrected:

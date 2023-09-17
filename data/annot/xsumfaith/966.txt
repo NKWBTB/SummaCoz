@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    work is to be carried out to mark the 150th anniversary of the battle of waterloo for the first time. 
-
-    Article: 
-    Wellington monument on the Blackdown Hills, in Somerset, was built in 1817 but since 2005 it has been fenced off because of falling stone debris.
+<Article>
+Wellington monument on the Blackdown Hills, in Somerset, was built in 1817 but since 2005 it has been fenced off because of falling stone debris.
 The National Trust is using ground-penetrating radar on the 174ft (53m) tower to see under its stone cladding.
 Ken Evans, from the trust, said the work was "crucial".
 Built on one of the highest points of the Blackdown Hills, the landmark was put up as a tribute to the Duke of Wellington's military achievements at the Battle of Waterloo.
@@ -14,17 +11,20 @@ But according to the trust, it has been struck by lightning twice in its history
 Mr Evans, the trust's building surveyor, said the radar study was one of several being carried out to "understand this unique and somewhat complex monument".
 "We have been using wind and movement sensors which have already surprised us by showing that it doesn't flex in the wind quite as much as we expected," he said.
 "The ground-penetrating radar seeks to identify voids and gaps in the stonework under the surface but should also tell us more about the materials which were used to build the obelisk."
-Data from the detailed survey will also be used to build a computer model of the obelisk and help with a "more effective repair approach". 
+Data from the detailed survey will also be used to build a computer model of the obelisk and help with a "more effective repair approach".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+work is to be carried out to mark the 150th anniversary of the battle of waterloo for the first time.
+</Summary>
 
-1. The summary states that work is being carried out to mark the 150th anniversary of the Battle of Waterloo for the first time, but the article does not mention anything about marking an anniversary.
-2. The summary mentions that the work is being carried out on the Wellington monument, but the article does not provide any information about the monument being worked on.
-3. The summary states that the work is "crucial", but the article does not provide any information about the importance of the work being done.
-4. The summary mentions that the monument has been fenced off due to falling stone debris, but the article does not mention anything about the monument being fenced off.
-5. The summary states that the National Trust is using ground-penetrating radar to understand the monument, but the article does not mention anything about the use of ground-penetrating radar.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the information provided in the article. The article is focused on the National Trust's use of ground-penetrating radar to understand the Wellington monument and its history, while the summary is focused on the anniversary of the Battle of Waterloo and the importance of the work being done.
+1. The summary states that the work is to be carried out to mark the 150th anniversary of the Battle of Waterloo.
+2. However, the article states that the work is being done to understand the unique and complex monument, and to identify voids and gaps in the stonework under the surface.
+3. There is no mention of the 150th anniversary of the Battle of Waterloo in the article.
+4. Therefore, the summary is not consistent with the article, as it implies that the work is being done to mark the 150th anniversary of the Battle of Waterloo, while the article does not mention this.
+
+Conclusion: The summary is not consistent with the article because it includes information that is not present in the article.
 
 ###Corrected:

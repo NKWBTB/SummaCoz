@@ -1,21 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    palermo is a transfer target for three british clubs in the summer. 
+<Article>
+Arsenal, Manchester City and Chelsea have all made enquiries for Palermo striker Paulo Dybala. Manchester United have also been to watch the Argentine but he is not high on their list. The 21-year-old is valued at £30million by Palermo president Mauro Zamparini and Juventus are considered favourites even though they have had an opening offer rejected. Paulo Dybala of Palermo is a transfer target for three British clubs in the summer, but may cost £30million . Palermo are also expecting to sell Italy midfielder Franco Vazquez in the summer transfer window . Arsenal, Chelsea and Manchester City are three English clubs interested in signing striker Dybala . Palermo also expect to sell Italy midfielder Franco Vazquez this summer. Zamparini said: 'Dybala and Vazquez will probably be sold this summer. Will they go to Milan? No. 'They are being tracked by Juventus, Arsenal, Barcelona, Manchester City, Chelsea and Paris Saint-Germain.'
+</Article>
 
-    Article: 
-    Arsenal, Manchester City and Chelsea have all made enquiries for Palermo striker Paulo Dybala. Manchester United have also been to watch the Argentine but he is not high on their list. The 21-year-old is valued at £30million by Palermo president Mauro Zamparini and Juventus are considered favourites even though they have had an opening offer rejected. Paulo Dybala of Palermo is a transfer target for three British clubs in the summer, but may cost £30million . Palermo are also expecting to sell Italy midfielder Franco Vazquez in the summer transfer window . Arsenal, Chelsea and Manchester City are three English clubs interested in signing striker Dybala . Palermo also expect to sell Italy midfielder Franco Vazquez this summer. Zamparini said: 'Dybala and Vazquez will probably be sold this summer. Will they go to Milan? No. 'They are being tracked by Juventus, Arsenal, Barcelona, Manchester City, Chelsea and Paris Saint-Germain.' 
+<Summary>
+palermo is a transfer target for three british clubs in the summer.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain the reasons why the summary is not consistent with the article. Here are the steps:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Palermo is a transfer target for three British clubs in the summer, but the article does not mention anything about Palermo being a transfer target. Instead, it mentions that three British clubs (Arsenal, Chelsea, and Manchester City) are interested in signing Dybala, who plays for Palermo.
-2. The summary mentions that Paulo Dybala is valued at £30million by Palermo president Mauro Zamparini, but the article does not mention this detail. The article only states that Zamparini has said that Dybala and Vazquez will probably be sold this summer, without mentioning the price.
-3. The summary states that Juventus are considered favourites to sign Dybala, but the article does not mention this. Instead, the article states that Juventus have had an opening offer rejected and that Palermo are expecting to sell both Dybala and Vazquez this summer.
-4. The summary mentions that Palermo are also expecting to sell Italy midfielder Franco Vazquez in the summer transfer window, but the article does not mention this.
-
-Overall, the summary is not consistent with the article because it omits some details, adds some inaccurate information, and includes information that is not present in the article.
+1. The summary states that Palermo is a transfer target for three British clubs in the summer.
+2. However, the article does not mention anything about Palermo being a transfer target for British clubs. Instead, it mentions that Arsenal, Chelsea, and Manchester City have made enquiries for Paulo Dybala, who plays for Palermo.
+3. The article also mentions that Juventus are considered favorites to sign Dybala, and that Palermo are expecting to sell both Dybala and Italy midfielder Franco Vazquez in the summer transfer window.
+4. Therefore, the summary is not consistent with the article because it only mentions Palermo being a transfer target for British clubs, while the article provides information about Dybala being the target of several clubs, including Juventus, and Palermo's intention to sell both Dybala and Vazquez.
 
 ###Corrected:

@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    thousands of people have taken to the streets of cardiff to protest against the government\'s decision to leave the eu. 
+<Article>
+23 March 2017 Last updated at 14:55 GMT
+</Article>
 
-    Article: 
-    23 March 2017 Last updated at 14:55 GMT 
+<Summary>
+thousands of people have taken to the streets of cardiff to protest against the government\'s decision to leave the eu.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article is dated March 23, 2017, which means it is from the past.
-2. The article does not mention any protests or demonstrations in Cardiff or anywhere else in the UK.
-3. The article is about the UK government's decision to trigger Article 50 of the Lisbon Treaty, which begins the process of leaving the EU.
-4. The summary states that thousands of people have taken to the streets of Cardiff to protest against the government's decision to leave the EU.
-5. However, the article does not mention any such protests or demonstrations in Cardiff or anywhere else in the UK.
+1. The article is dated March 23, 2017, which is after the UK's referendum on leaving the EU, which took place on June 23, 2016.
+2. The summary states that thousands of people have taken to the streets of Cardiff to protest against the government's decision to leave the EU.
+3. However, the article is from March 2017, and the UK had already decided to leave the EU by then. The article does not mention any protests or opposition to the government's decision to leave the EU.
+4. Therefore, the summary is not consistent with the article, as there is no mention of protests or opposition to the government's decision to leave the EU in the article.
 
-Therefore, the summary is not consistent with the article because there is no mention of any protests or demonstrations in the article, whereas the summary states that such protests have taken place in Cardiff.
+So, the reason why the summary is not consistent with the article is that the article does not mention any protests or opposition to the government's decision to leave the EU, while the summary states that thousands of people have taken to the streets of Cardiff to protest against the government's decision.
 
 ###Corrected:

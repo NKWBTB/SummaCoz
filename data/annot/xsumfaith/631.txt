@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    injured paratrooper ben parkinson, who carried the olympic flame, has been swamped with friend requests on social media and seen a huge increase in post addressed to ``hero ben\'\'. 
-
-    Article: 
-    He was seriously injured in a bomb attack in Afghanistan in 2006.
+<Article>
+He was seriously injured in a bomb attack in Afghanistan in 2006.
 Since carrying the torch on 26 June, Doncaster-based L/Bdr Parkinson has had thousands of requests on Facebook.
 But the site limits friend associations to 5,000 per personal page and he cannot accept all the requests.
 Flanked by hundreds of people, he walked for nearly half an hour with the Olympic torch with an assistant who supported his arm.
@@ -25,17 +22,20 @@ She added: "Some mail has just been addressed to Ben, please Mr Postie.
 "He's absolutely bouncing and buoyed up and elated."
 Facebook would not comment on the issue but their guidance was that if people were receiving this many requests then they have become a public figure, so should consider having a page instead of a profile.
 Alternatively, Ben could use subscribe so that people can see his public updates without actually becoming a friend.
-A total of 8,000 people will carry the flame during its 8,000 mile, 70-day journey to the opening ceremony of the Olympic Games in London on 27 July. 
+A total of 8,000 people will carry the flame during its 8,000 mile, 70-day journey to the opening ceremony of the Olympic Games in London on 27 July.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+injured paratrooper ben parkinson, who carried the olympic flame, has been swamped with friend requests on social media and seen a huge increase in post addressed to ``hero ben\'\'.
+</Summary>
 
-1. The summary states that Ben Parkinson, an injured paratrooper, has been "swamped with friend requests on social media." However, the article states that he has received thousands of friend requests, but Facebook limits the number of friends to 5,000 per personal page, and he cannot accept all the requests.
-2. The summary mentions that Ben has been called a "hero" and has seen a huge increase in post addressed to "hero Ben," but the article does not mention this.
-3. The summary states that Ben's mother said that the responses had been "phenomenal" and that Ben was "buoyed up" by the support and friendship he had been shown, but the article does not mention this.
-4. The summary mentions that Ben's page has had 19,000 hits just on an update, but the article does not mention this.
-5. The summary states that Facebook would not comment on the issue, but the article mentions that Facebook's guidance is that if people are receiving this many requests, they have become a public figure and should consider having a page instead of a profile.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that injured paratrooper Ben Parkinson has been swamped with friend requests on social media.
+2. The article states that Ben Parkinson has had thousands of requests on Facebook, but the site limits friend associations to 5,000 per personal page.
+3. Therefore, the statement in the summary that Ben Parkinson has been swamped with friend requests on social media is not consistent with the article, as the article states that he cannot accept all the requests due to the limit on Facebook.
+4. The summary also states that there has been a huge increase in post addressed to "hero Ben", but the article does not mention this.
+5. The article does mention that Ben Parkinson's mother has received a lot of messages of support, but there is no mention of an increase in post addressed to "hero Ben".
+6. Therefore, the summary is not consistent with the article, as it includes information that is not present in the article.
 
 ###Corrected:

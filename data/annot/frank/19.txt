@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    isle of wight council leader andrew cowes has said he is " disappointed " a meeting with the council leader has been suspended. 
+<Article>
+The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved.
+</Article>
 
-    Article: 
-    The call was made at a scrutiny meeting of the council to discuss the problems surrounding the new vessel.Council leader Dave Stewart said the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.Mr Stewart said the council had ordered a review of the project by auditors.He said it had been a "frustrating and disappointing start" to the ferry.Since launching late on 14 May the chain ferry has broken down, run aground and been suspended by the Maritime and Coastguard Agency due to "training issues".Cars have also been damaged getting on and off.Shopkeeper Angie Booth, who owns Valu-4-U in East Cowes, said: "Whether I come out of this and survive I am not sure - other businesses too. We are bearing the brunt of the loss of almost six months of trade."Will you compensate local businesses, the same as for damaged cars?"Transport councillor Ian Ward said compensation was up for discussion.He added: "I don't think it's a disaster. It's a prototype. There are bound to be teething problems. There were electrical problems which the company has rectified."He said the council authorised the manufacture of ramp extensions to resolve the problem of vehicles scraping the concrete.He said groundings were an issue with seamanship, which had been resolved. 
+<Summary>
+isle of wight council leader andrew cowes has said he is " disappointed " a meeting with the council leader has been suspended.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that the council leader, Andrew Cowes, is "disappointed" that a meeting with the council leader has been suspended. However, the article does not mention anything about a meeting being suspended.
-2. The article does mention that the council leader, Dave Stewart, has ordered a review of the project by auditors and that the crossing at Cowes will be free until July 2 to allow for feedback.
-3. The article also mentions that the chain ferry has experienced several problems, including breaking down, running aground, and training issues.
-4. The summary does not mention any of these problems or the council's response to them. Instead, it focuses solely on the council leader's disappointment about the suspended meeting.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content or issues discussed in the article.
-
-Overall, the summary is not a good representation of the article and does not provide an accurate summary of the content.
+1. The summary states that the Isle of Wight Council leader, Andrew Cowes, has said he is "disappointed" that a meeting with the council has been suspended.
+2. However, the article does not mention anything about a meeting being suspended or Andrew Cowes being the council leader.
+3. The article does mention a "scrutiny meeting" of the council to discuss the problems surrounding the new vessel, but there is no mention of Andrew Cowes or any suspension of the meeting.
+4. The article quotes Council Leader Dave Stewart as saying that the crossing at Cowes would be free until 2 July "in recognition of the problems" and to allow feedback.
+5. It is clear that the summary is not consistent with the article, as there is no mention of Andrew Cowes or any suspension of a meeting in the article.
+6. The summary is likely based on incorrect or incomplete information, as there is no record of Andrew Cowes being the council leader or any meeting being suspended in the article.
+7. Therefore, the summary is not a reliable representation of the content of the article.
 
 ###Corrected:

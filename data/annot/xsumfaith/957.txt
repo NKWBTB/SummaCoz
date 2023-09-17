@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    swansea city manager paul clement praised his players as ``wonderful at heading the ball\'\'as they prepare for the premier league title next season. 
-
-    Article: 
-    The Spain international has scored five goals in his last six games to help the Swans pull five points clear of the relegation zone.
+<Article>
+The Spain international has scored five goals in his last six games to help the Swans pull five points clear of the relegation zone.
 Four of those have been headers, and Clement believes his aerial prowess compares to the world's best players.
 "Llorente is wonderful at heading the ball," he said.
 Clement continued: "[Cristiano] Ronaldo is also fantastic, [Gareth] Bale also good from a striker perspective.
@@ -20,16 +17,25 @@ A summer signing from Sevilla, the 32-year-old scored two goals to give Swansea 
 "What's helped him is he's getting good supply into the box, and that was very clear in the game against Burnley - not just the two that he scored but other opportunities he had as well.
 "He's a very good player when you get crosses into the box for him."
 Meanwhile, Swansea will be without right-back Kyle Naughton for Saturday's trip to Hull with what Clement described as a "minor" hamstring injury.
-The 28-year-old is expected to return for the match at Bournemouth the following weekend. 
+The 28-year-old is expected to return for the match at Bournemouth the following weekend.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+swansea city manager paul clement praised his players as ``wonderful at heading the ball\'\'as they prepare for the premier league title next season.
+</Summary>
 
-1. The summary states that Paul Clement praised his players for being "wonderful at heading the ball," but the article does not mention anything about the players being praised for their heading ability.
-2. The article only mentions one player, Llorente, who has been praised by Clement for his aerial prowess. The summary implies that all the players are good at heading the ball, which is not supported by the article.
-3. The summary mentions that Clement worked with Ronaldo, Bale, and Ramos at Real Madrid, but the article does not mention anything about these players.
-4. The summary mentions that Llorente has scored five goals since Clement took over, but the article only mentions two goals that Llorente scored against Burnley.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the praise for the players' heading ability and includes information that is not present in the article. Additionally, the summary mentions players and details that are not relevant to the article.
+1. The summary states that Swansea City manager Paul Clement praised his players as "wonderful at heading the ball" as they prepare for the Premier League title next season.
+2. However, the article does not mention anything about the team preparing for the Premier League title next season. Instead, it focuses on Llorente's form and Clement's praise for the player.
+3. The article quotes Clement as saying that Llorente is "wonderful at heading the ball," but this statement is not part of a larger discussion about the team's preparation for the title.
+4. Therefore, the summary is not consistent with the article because it implies that the team is preparing for the Premier League title next season, which is not supported by the text.
+
+Step by step, the reasoning is:
+
+1. The summary makes a claim that is not supported by the article.
+2. The article does not mention the team preparing for the Premier League title next season.
+3. The article quotes Clement as praising Llorente's heading ability, but this is not part of a larger discussion about the team's preparation for the title.
+4. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

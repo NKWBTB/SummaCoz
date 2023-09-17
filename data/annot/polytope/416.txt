@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a teenager set herself on fire after allegedly being raped by five men from her village in india .  she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district .  she is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .  
-
-    Article: 
-    a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
+<Article>
+a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
 the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
 she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
 a teenager set herself on fire after allegedly being raped by five men from her village in india .
@@ -37,16 +34,22 @@ ram singh , co-accused and widely considered the leader of the group , was found
 a minor also found guilty was sentenced to three years in a reformatory institution .
 her death sparked angry protests in india and internationally about misogyny in the country .
 the attention forced judges to prioritise the case and the lawyer 's association in saket reportedly refused to defend the perpetrators .
-sorry we are not currently accepting comments on this article . 
+sorry we are not currently accepting comments on this article .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a teenager set herself on fire after allegedly being raped by five men from her village in india .  she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district .  she is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns . 
+</Summary>
 
-1. The summary states that the teenager was allegedly gang-raped on Sunday, while the article states that she was allegedly gang-raped on a bus when she went outside her house to relieve herself.
-2. The summary states that the teenager set herself on fire on Tuesday, while the article states that she was set on fire on Sunday.
-3. The summary does not mention the fact that the accused men have been arrested, while the article mentions this.
-4. The summary does not mention the attention forced judges to prioritize the case, while the article mentions this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information. It is not a reliable representation of the article's content.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary mentions that the teenager set herself on fire after being allegedly raped by five men from her village in India. However, the article does not mention anything about the teenager setting herself on fire. Instead, it reports that the teenager is fighting for her life in Delhi's Safdarjung Hospital with 70% burns.
+2. The summary does not mention the location where the alleged rape took place, while the article mentions that the girl was allegedly gang-raped on Sunday when she went outside her house in Kosi Kalan, in Uttar Pradesh's Mathura district.
+3. The summary does not mention the name of the girl, while the article mentions that the girl is now recovering in Delhi's Safdarjung Hospital.
+4. The summary does not mention the fact that the accused men have been arrested, which is mentioned in the article.
+
+Therefore, it is clear that the summary is not consistent with the article. It appears to be a brief summary of a different article or news story.
 
 ###Corrected:

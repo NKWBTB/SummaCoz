@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the stars of tv\'s game of thrones have been surprised by the news that the stars of the latest series, game of thrones, will 
-
-    Article: 
-    However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
+<Article>
+However, there were people in the TV industry who thought the cast would struggle to find work once their time on the show was up.
 Some of the actors were warned that they wouldn't be able to shake off their sulky, angry, teen characters.
 But when you look at the careers of Dev Patel and Jack O'Connell for example, they couldn't have been more wrong.
 Kaya Scodelario was one of the longest-serving members of the cast, appearing in series one to four as Effy Stonem.
@@ -37,16 +34,20 @@ Piers Wenger is the head of drama at Channel 4 and he thinks it was the opportun
 "It is extraordinary, in the past soap operas had been the sort of places where young people had been able to do their first job.
 "That would have been your only break, but time's are changing.
 "I think thanks to shows like Skins, unconventional approaches to casting are becoming more and more common."
-Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube 
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+the stars of tv\'s game of thrones have been surprised by the news that the stars of the latest series, game of thrones, will
+</Summary>
 
-1. The summary states that the stars of Game of Thrones will be surprised by the news that the stars of the latest series will find it difficult to shake off their sulky, angry, teen characters. However, the article does not mention anything about Game of Thrones or the difficulty of shaking off teen characters.
-2. The summary mentions that the cast of Skins was able to find success in Hollywood films, but the article does not provide any examples of Skins cast members finding success in Hollywood. Instead, the article focuses on the success of specific cast members, such as Dev Patel and Jack O'Connell, in their respective careers.
-3. The summary states that the makers of Skins held open auditions to find talented young actors, but the article does not mention open auditions. Instead, the article states that the show's co-creator, Bryan Elsley, made a conscious decision to cast young actors who were not too trained.
-4. The summary credits the whole team for the actors' future success, but the article only quotes Jack O'Connell and Piers Wenger, the head of drama at Channel 4.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it makes claims that are not supported by the text. The article focuses on the success of specific cast members and the unconventional approach to casting taken by the show's creators, while the summary makes generalizations about the cast's ability to find success in Hollywood and the show's approach to casting.
+1. The summary is not consistent with the article because the article is about the success of the cast of the TV show "Skins," while the summary mentions "Game of Thrones" instead.
+2. The article discusses how the cast of "Skins" was able to find success in Hollywood, while the summary does not mention anything about "Skins" or the cast's success in Hollywood.
+3. The article mentions specific examples of the cast members' success, such as Dev Patel's role in "Slumdog Millionaire" and Jack O'Connell's role in "Unbroken," while the summary does not provide any specific examples.
+4. The article emphasizes the unconventional approach to casting taken by the makers of "Skins," while the summary does not mention anything about the casting process.
+
+Therefore, the summary is not consistent with the article because it mentions "Game of Thrones" instead of "Skins," does not mention the cast's success in Hollywood, does not provide specific examples of the cast members' success, and does not mention the unconventional approach to casting taken by the makers of "Skins."
 
 ###Corrected:

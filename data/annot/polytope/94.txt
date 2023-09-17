@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    " she really , truly was a success story of the heart , " close friend says
-two gunman shot her dead at point-blank range late friday
-she is in a hospital but is expected to be released on time for her daughter 's funeral 
-
-    Article: 
-    islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
+<Article>
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
 and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship .
 introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed .
 but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
@@ -47,37 +42,25 @@ her tightly coiffed short hair and angular glasses framed her bright-eyed featur
 missing was a head scarf .
 on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " her white dress replaced by a traditional outfit of mustard , ocher and green .
 but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image .
-the artistic expression sticks out and triggers passions , like many things mahmud said and did . 
+the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the reasons why the summary is not consistent with the article. Here are the steps:
+<Summary>
+" she really , truly was a success story of the heart , " close friend says
+two gunman shot her dead at point-blank range late friday
+she is in a hospital but is expected to be released on time for her daughter 's funeral
+</Summary>
 
-Step 1: Identify the summary's main points
+Explain your reasoning step by step:[/INST]
 
-The summary's main points are:
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-* Sabeen Mahmud was shot dead at point-blank range in Karachi.
-* She was a success story of the heart.
-* She was killed after she locked up the second floor cafe where she held discussions on technology, human rights, and women's entrepreneurship.
-* She was a Pakistani figurehead for humanism, love, and tolerance.
+1. The summary only provides a brief overview of the article, while the article provides a detailed account of Sabeen Mahmud's life, her work, and her death.
+2. The summary focuses solely on Mahmud's death, while the article provides a broader context of her life and her impact on society.
+3. The summary does not include any of the specific details about Mahmud's work, such as her advocacy for human rights and women's empowerment, her discussions on technology and politics, or her efforts to provide a space for free speech and open discussion.
+4. The summary does not mention the motive behind Mahmud's killing, which is mentioned in the article as being related to her work and her outspokenness on controversial topics.
+5. The summary does not include any of the quotes from Mahmud's friends and family that are featured in the article, which provide a personal and emotional perspective on her life and legacy.
 
-Step 2: Identify the inconsistencies with the article
-
-Upon comparing the summary with the article, the following inconsistencies can be identified:
-
-* The summary states that Mahmud was shot dead at point-blank range, but the article does not mention anything about point-blank range.
-* The summary describes Mahmud as a success story of the heart, but the article does not use this phrase.
-* The summary mentions that Mahmud was killed after she locked up the second floor cafe, but the article does not mention anything about the cafe being locked up.
-* The summary portrays Mahmud as a Pakistani figurehead for humanism, love, and tolerance, but the article does not emphasize these aspects of her personality.
-
-Step 3: Analyze the reasons for the inconsistencies
-
-The inconsistencies in the summary can be attributed to the following reasons:
-
-* The summary may have been written based on incomplete or inaccurate information about Mahmud's death.
-* The summary may have been sensationalized to make the story more appealing to the reader.
-* The summary may have been written with a different purpose or audience in mind, which could have led to the inclusion of inaccurate or inconsistent information.
-
-In conclusion, the summary is not consistent with the article because it contains inaccuracies and sensationalized information that are not present in the article. It is important to carefully read and compare the summary with the article to ensure accuracy and consistency.
+Overall, the summary is not consistent with the article because it does not provide a comprehensive or accurate overview of Sabeen Mahmud's life and legacy. It focuses solely on her death and does not include any of the specific details or context that are provided in the article.
 
 ###Corrected:

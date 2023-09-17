@@ -1,23 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two shots have been fired at a police station in ascension square in ascension square, police have said. 
-
-    Article: 
-    Police said that someone opened fire from a passing car and witnesses spoke of up to a dozen shots being fired close to the main police station.
+<Article>
+Police said that someone opened fire from a passing car and witnesses spoke of up to a dozen shots being fired close to the main police station.
 "Nothing is known about the culprits yet but we can guess that this involves local crime gangs," investigators told German media.
 The suspects fled and the area was quickly cordoned off.
-The shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes, as local people enjoyed the Ascension Day holiday in the sunshine. 
+The shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes, as local people enjoyed the Ascension Day holiday in the sunshine.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the reasons step by step:
+<Summary>
+two shots have been fired at a police station in ascension square in ascension square, police have said.
+</Summary>
 
-1. Location: The summary states that the shots were fired at a police station in Ascension Square, while the article states that the shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes.
-2. Number of shots: The summary states that two shots were fired, while the article states that up to a dozen shots were fired.
-3. Culprits: The summary does not mention anything about the culprits, while the article suggests that local crime gangs may be involved.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The article states that shots were fired "close to the main police station" and that the suspects fled.
+2. The summary states that two shots were fired at a police station.
+3. The article does not mention any shots being fired directly at the police station. Instead, it states that the shots were fired "close to the main police station."
+4. Therefore, the summary is not consistent with the article because it implies that the shots were fired directly at the police station, whereas the article suggests that the shots were fired in a nearby area.
+5. Additionally, the article mentions that the area was cordoned off, which is not mentioned in the summary.
+
+Overall, the summary is not consistent with the article because it provides an incomplete and inaccurate account of the events described in the article.
 
 ###Corrected:

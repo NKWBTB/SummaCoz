@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hibernian head coach alan stubbs will leave the championship club at the end of the season to succeed rotherham united boss rotherham united. 
-
-    Article: 
-    Hibs have started the process of appointing a new boss after thanking Stubbs for doing "a magnificent job" over his two-year spell.
+<Article>
+Hibs have started the process of appointing a new boss after thanking Stubbs for doing "a magnificent job" over his two-year spell.
 Stubbs, 44, decided to return to England shortly after ending Hibs' 114-year wait to win the Scottish Cup.
 "They fitted in with my ambition," Stubbs said of Rotherham.
 The Englishman has signed a three-year deal with the Millers, who reached a settlement with Hibs over compensation for Stubbs and his assistant, John Doolan.
@@ -23,17 +20,19 @@ Media playback is not supported on this device
 Stewart insisted that, despite lengthy talks with Hibs over compensation - and Stubbs and Doolan ultimately resigning from their posts - relations between the two clubs were fine. And he confirmed that compensation will be paid to the Easter Road club.
 "Alan had another year on his contract, so we did the protocol with Hibs," Stewart said. "My CEO had discussions with them to talk to Alan and that led to the appointment. We agreed a settlement with Hibs and we move forward now freely.
 "We've followed Alan's career. He was on the radar months ago, the timing was right and we took the opportunity. I like the drive, the leadership.
-"Football is about moving around. Hibs have been fantastic, Alan's told me how good they've been up there and it's sad they've lost a manager and Rotherham gained him. We look forward now to getting ready for next season." 
+"Football is about moving around. Hibs have been fantastic, Alan's told me how good they've been up there and it's sad they've lost a manager and Rotherham gained him. We look forward now to getting ready for next season."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+hibernian head coach alan stubbs will leave the championship club at the end of the season to succeed rotherham united boss rotherham united.
+</Summary>
 
-1. The summary states that Alan Stubbs is leaving Hibernian to succeed Rotherham United boss, but the article states that Stubbs is leaving Hibernian to become the new head coach of Rotherham United.
-2. The summary does not mention that Stubbs has signed a three-year deal with Rotherham United, as stated in the article.
-3. The summary does not mention that Hibs and Rotherham United have reached a settlement over compensation for Stubbs and his assistant, John Doolan, as stated in the article.
-4. The summary does not quote Alan Stubbs as saying that he is leaving Hibs to "succeed" Rotherham United's boss, as stated in the article. Instead, the summary quotes him as saying that he is leaving Hibs to "take the club forward".
-5. The summary does not mention that Rotherham United finished one place outside the relegation zone last season, as stated in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the information in the article, and is therefore not consistent with it.
+1. The summary states that Alan Stubbs will leave Hibernian at the end of the season to become the new head coach of Rotherham United.
+2. However, the article states that Stubbs has already left Hibernian and has been appointed as the new head coach of Rotherham United.
+3. This means that the summary is not consistent with the article, as it suggests that Stubbs will leave Hibernian at the end of the season, but the article states that he has already left the club.
+4. The reason for this inconsistency is that the summary is not providing accurate information about Stubbs' future plans. The article states that Stubbs has already been appointed as the new head coach of Rotherham United, but the summary does not reflect this information.
+5. Therefore, the summary is not consistent with the article, and it does not provide accurate information about Alan Stubbs' future plans.
 
 ###Corrected:

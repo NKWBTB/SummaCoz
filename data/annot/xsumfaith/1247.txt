@@ -1,32 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested on suspicion of murder after a man was shot dead in liverpool. 
-
-    Article: 
-    Thomas Baker, known as Tommy, was found badly injured at Stanley Meat Market in the Old Swan area of Liverpool on 27 January.
+<Article>
+Thomas Baker, known as Tommy, was found badly injured at Stanley Meat Market in the Old Swan area of Liverpool on 27 January.
 The 44-year-old, from Everton, had been shot in the head and chest. He died later in hospital.
 The three Liverpool men arrested - two aged 29 and the other 32 - remain in police custody for questioning.
 Merseyside Police said Mr Baker had left Phoenix Gym at the market shortly before he was shot while getting into his car.
 Detectives believe those involved in the shooting had been waiting outside the gym for about an hour.
 Det Ch Insp Bev Hyland said officers were still searching for a silver VW polo, which "left the scene at speed" and travelled along a number of roads including Balmoral Road, Molyneux Road and Queens Road.
-She added that a number of people captured on CCTV near the meat market had yet to come forward and while "they may not think what they saw would be of any significance, they could have information which is key to our inquiries". 
+She added that a number of people captured on CCTV near the meat market had yet to come forward and while "they may not think what they saw would be of any significance, they could have information which is key to our inquiries".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been arrested on suspicion of murder after a man was shot dead in liverpool.
+</Summary>
 
-1. The summary states that the man was arrested on suspicion of murder, but the article does not mention any arrests.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the man was shot dead in Liverpool, but the article does not mention any shooting.
+1. The summary states that a man has been arrested on suspicion of murder, but the article does not mention any arrests.
+2. The article states that three men were arrested, but the summary only mentions one man.
+3. The article states that the man died later in hospital, but the summary does not mention this.
+4. The article mentions that the shooting occurred at Stanley Meat Market, but the summary does not provide any location.
+5. The article mentions that detectives are searching for a silver VW polo, but the summary does not mention this.
+6. The article mentions that CCTV footage is being reviewed, but the summary does not mention this.
 
-3. The summary states that the man was found badly injured at Stanley Meat Market, but the article does not mention any injury or hospitalization.
-
-4. The summary mentions that the police are searching for a silver VW polo, but the article does not mention any such vehicle.
-
-5. The summary states that a number of people captured on CCTV near the meat market have yet to come forward, but the article does not mention any CCTV footage or witnesses.
-
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and may not accurately reflect the events described in the article.
+Therefore, the summary is not consistent with the article because it does not provide accurate information about the incident, such as the location, the number of people involved, and the details of the investigation.
 
 ###Corrected:

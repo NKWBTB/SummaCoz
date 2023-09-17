@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the uk\'s navy and nato warships have begun a major exercise in the waters off britain\'s west coast. 
-
-    Article: 
-    It is seen as a response to the growing threat from Russian submarines which have stepped up their own patrols in these very same waters.
+<Article>
+It is seen as a response to the growing threat from Russian submarines which have stepped up their own patrols in these very same waters.
 It has also highlighted a gaping hole in Britain's own defences.
 For now though it is the hunt for U33, not Red October. The German U-boat is acting as the unseen enemy below the waves.
 U33's commander Kai Nicklesdorf and his 28 crew, who live in cramped conditions, are trying to avoid detection by 10 Nato warships.
@@ -53,16 +50,21 @@ Britain, he says, should be "exceptionally worried" that it is seen as a "soft t
 The purpose of this exercise is to ensure Nato is ready to conduct anti-submarine warfare.
 But it is also a reminder that some nations - including Britain - cannot do it alone.
 The lack of any UK maritime patrol aircraft will have to be addressed in the government's forthcoming defence and security review.
-The search for Russian submarines will not be as easy as the hunt for U33. 
+The search for Russian submarines will not be as easy as the hunt for U33.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+the uk\'s navy and nato warships have begun a major exercise in the waters off britain\'s west coast.
+</Summary>
 
-1. The summary states that the exercise is focused on finding Russian submarines, but the article does not mention Russia or any specific adversary. The article only mentions that the exercise is in response to the growing threat from submarines and highlights a gaping hole in Britain's defenses.
-2. The summary mentions that the exercise is to "take out the command ship, the USS Vicksburg, and an oil tanker," but the article does not mention any specific targets or objectives. The article only mentions that the exercise is to conduct anti-submarine warfare.
-3. The summary states that the exercise is in response to recent reports of Russian submarines off the coast of Sweden, Finland, and the UK, but the article does not mention any specific locations or incidents.
-4. The summary mentions that the exercise is a reminder that some nations, including Britain, cannot do it alone, but the article does not mention any specific nations or vulnerabilities.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes specific details and objectives that are not mentioned in the article. The article focuses on the exercise itself and the gaping hole in Britain's defenses, without mentioning any specific adversaries or targets.
+1. The summary states that the exercise is taking place off Britain's west coast, but the article states that the exercise is taking place in the North Sea, near Scotland.
+2. The summary does not mention the purpose of the exercise, which is to conduct anti-submarine warfare and locate Russian submarines, as stated in the article.
+3. The summary does not mention the involvement of other Nato member countries, such as France, as stated in the article.
+4. The summary does not mention the use of underwater drones or long-range maritime patrol aircraft, which are mentioned in the article as being used in the exercise.
+5. The summary does not mention the gap in Britain's defenses, as stated in the article, or the fact that Britain no longer has any maritime patrol aircraft of its own.
+
+Therefore, the summary is not consistent with the article, as it does not provide an accurate summary of the content or focus of the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    warrington maintained their 100% start to the super league season to the top of the table by beating widnes vikings. 
-
-    Article: 
-    Owens, Rhys Hanbury and Paddy Flynn all crossed before half-time as the hosts opened up a 16-point lead.
+<Article>
+Owens, Rhys Hanbury and Paddy Flynn all crossed before half-time as the hosts opened up a 16-point lead.
 Cameron Phelps looked to have made the game safe, but quick tries from Ryan Atkins and Chris Bridge made it 24-10.
 Owens grabbed his second of the game before Stefan Ratchford went over for Wolves, but Widnes held for the bragging rights in the local derby.
 Warrington remain fifth in the Super League table, while eighth-placed Widnes are three points clear of Hull KR, in ninth, who have a game in hand.
@@ -29,15 +26,20 @@ Replacements: Allen, Kavanagh, Isa, Carberry.
 Warrington: Russell, Ormsby, Ratchford, Atkins, R. Evans, C. Bridge, O'Brien, Hill, Higham, England, Currie, Westwood, Wood.
 Replacements: Asotasi, Riley, Dwyer, Philbin.
 Referee: Phil Bentham (RFL).
-Attendance: 7,158 
+Attendance: 7,158
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+warrington maintained their 100% start to the super league season to the top of the table by beating widnes vikings.
+</Summary>
 
-1. The summary states that Warrington maintained their 100% start to the super league season, but the article states that they lost the game.
-2. The summary mentions that Warrington beat Widnes, but the article states that Widnes won the game.
-3. The summary does not mention the score, but the article states that Widnes won 24-10.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the given summary is not consistent with the article:
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events of the game. The article provides more detailed information about the game, including the score and the performances of individual players, which the summary does not include.
+1. The summary states that Warrington maintained their 100% start to the Super League season and are at the top of the table, but the article states that Warrington lost the game and remain fifth in the table.
+2. The summary does not provide any specific information about the game, such as the score or the players who scored tries, while the article provides detailed information about the game, including the score (24-10) and the players who scored tries (Owens, Hanbury, Phelps, Atkins, and Bridge).
+3. The summary implies that Warrington won the game, but the article states that Widnes won the game.
+
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

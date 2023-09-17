@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ``i \'m rich, futile and uncontrollable, i \'m writing a lot of... it... it\'\'. 
-
-    Article: 
-    The paper ran a front page headline calling the comedian a "hypocrite" because he campaigns for economic and political "revolution" to help poorer people, yet he lives in a luxury home.
+<Article>
+The paper ran a front page headline calling the comedian a "hypocrite" because he campaigns for economic and political "revolution" to help poorer people, yet he lives in a luxury home.
 It's an accusation often made against the star.
 How can such a rich man claim to speak up for the poor?
 Viewers of Brand's vlogs - The Trews - are familiar with the inside of his spacious London home. It looks lovely and airy. It has wooden floors and exposed brickwork.
@@ -24,17 +21,21 @@ The star's been condemned as a hypocrite plenty of times before. Here's how he's
 "Now I'm rich and I complain about inequality they say I'm a hypocrite. I'm beginning to think they just don't want inequality on the agenda because it is a real problem that needs to be addressed."
 "A system that has posited me on a lilo made of thighs in an ocean filled with honey and foie gras'd my Essex arse with undue praise and money.
 "The hypocrisy ... is a problem that can be taken care of incrementally."
-Follow @BBCNewsbeat on Twitter and Radio1Newsbeat on YouTube 
+Follow @BBCNewsbeat on Twitter and Radio1Newsbeat on YouTube
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+``i \'m rich, futile and uncontrollable, i \'m writing a lot of... it... it\'\'.
+</Summary>
 
-1. The summary states that Brand is "rich, futile, and uncontrollable," but the article does not mention anything about Brand being uncontrollable.
-2. The summary mentions that Brand is writing "a lot," but the article does not provide any information about Brand writing.
-3. The summary states that Brand is a "hypocrite" because he is rich and campaigns for economic and political revolution, but the article does not use the word "hypocrite" to describe Brand. Instead, it reports that Brand has been accused of hypocrisy in the past.
-4. The summary mentions that Brand lives in a luxury home, but the article does not provide any information about Brand's living arrangements.
-5. The summary states that Brand is "writing a lot of... it... it," but the article does not mention anything about Brand writing or using the word "it."
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is included in the article.
+The provided summary is not consistent with the article because it does not accurately represent the content or tone of the article. Here's why:
+
+1. The summary only includes one sentence from the article, which is not representative of the entire article. The article is a comprehensive report on Russell Brand's response to being called a hypocrite for campaigning for economic and political revolution while living in a luxury home.
+2. The sentence chosen for the summary is taken out of context and does not accurately reflect the content of the article. The sentence "i'm rich, futile and uncontrollable, i'm writing a lot of... it... it" is not present in the article and does not reflect the tone or message of the article.
+3. The summary does not include any information about the article's main points, such as Brand's response to the accusations of hypocrisy, his explanation of his wealth and fame, or his views on systemic change.
+
+Overall, the summary is not a accurate representation of the article and does not provide any useful information about the content or tone of the article.
 
 ###Corrected:

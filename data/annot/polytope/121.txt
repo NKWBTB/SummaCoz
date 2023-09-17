@@ -1,32 +1,36 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    alice barker was a dancer in the cotton club and the cafe zanzibar in the 1930s and 1940s
-there were motion pictures made of barker , but she had never seen any of them
-her photographs and memorabilia had all been lost over the years
-" it 's just fabulous , " she said 
-
-    Article: 
-    ( cnn ) with help from some filmmakers , 102-year-old alice barker went back in time .
+<Article>
+( cnn ) with help from some filmmakers , 102-year-old alice barker went back in time .
 barker was a dancer in such new york nightspots as the cotton club and the cafe zanzibar in the 1930s and 1940s , part of chorus lines that entertained alongside notables including bill " bojangles " robinson and frank sinatra .
 there were motion pictures made of barker , but she had never seen any of them .
 moreover , her photographs and memorabilia had all been lost over the years .
 so she had never seen herself actually dancing -- until now .
 mark cantor of jazz-on-film.com and some volunteers put together a video of " soundies " -- early music videos -- and showed them to barker at the nursing home where she lives .
 the ageless dancer was delighted .
-" it 's just fabulous , " she said . 
+" it 's just fabulous , " she said .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+alice barker was a dancer in the cotton club and the cafe zanzibar in the 1930s and 1940s
+there were motion pictures made of barker , but she had never seen any of them
+her photographs and memorabilia had all been lost over the years
+" it 's just fabulous , " she said
+</Summary>
 
-1. The summary states that Alice Barker had never seen any of the motion pictures made of her, but the article states that there were motion pictures made of her. This is a contradiction, as the article implies that she had seen the motion pictures, but the summary states that she had not.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that Alice Barker's photographs and memorabilia had all been lost over the years, but the article does not mention this. The article only mentions that she had never seen herself dancing until now, but does not mention the loss of her photographs and memorabilia.
+1. The article states that Alice Barker was a dancer in the Cotton Club and the Cafe Zanzibar in the 1930s and 1940s.
+2. The article also states that there were motion pictures made of Barker, but she had never seen any of them and all her photographs and memorabilia had been lost over the years.
+3. The summary only mentions that Barker was a dancer in the Cotton Club and the Cafe Zanzibar, but it does not mention that there were motion pictures made of her or that her photographs and memorabilia had been lost.
+4. Therefore, the summary is not consistent with the article because it does not include the information about the motion pictures and the loss of photographs and memorabilia.
 
-3. The summary quotes Alice Barker as saying "it's just fabulous," but the article does not include this quote.
+Reasoning step by step:
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
+1. The article provides information about Alice Barker's background as a dancer and the fact that there were motion pictures made of her.
+2. The summary only provides a brief overview of Barker's background as a dancer, but it does not include the additional information from the article.
+3. The omission of the information about the motion pictures and the loss of photographs and memorabilia makes the summary inconsistent with the article.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
-torture chamber : corry ` corey ' campbell , 21 ( left ) , the ringleader of a gang dubbed the ` tattoo terrorists ' was jailed for 20 years thursday for the abuse in march/april 21 .
-accomplices : sandra ng , 19 ( left ) , campbell 's girlfriend , was sentenced to 23 months in state prison for her role in the shocking assault last year , while another defendant jennifer pratt , 40 , is awaiting trial 
-
-    Article: 
-    three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+<Article>
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
 a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
 campbell believed the victim , greg valecce , had hurt his cat , pebbles .
 valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair , in the city 's northeast , however that basement would become a torture chamber where he would be strapped to a chair and violated for three days .
@@ -40,31 +35,32 @@ campbell 's attorney said his client had a rough childhood , with his father lea
 he was sentenced to 20 years in state prison .
 halin received the same sentence for what he did to valecce .
 ng , whose attorney who said she had fallen in with the wrong people at school , was sentenced to 23 months in a state prison .
-another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial . 
+another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
+torture chamber : corry ` corey ' campbell , 21 ( left ) , the ringleader of a gang dubbed the ` tattoo terrorists ' was jailed for 20 years thursday for the abuse in march/april 21 .
+accomplices : sandra ng , 19 ( left ) , campbell 's girlfriend , was sentenced to 23 months in state prison for her role in the shocking assault last year , while another defendant jennifer pratt , 40 , is awaiting trial
+</Summary>
 
-1. The summary states that the victim, Greg Valecce, was beaten, tied to a chair, and covered in offensive tattoos by the gang, while the article states that Valecce was beaten, tied to a chair, and subjected to physical abuse for three days.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, the summary is not consistent with the article because:
 
-2. The summary mentions that Valecce had been staying in the basement of Campbell's mother's house, while the article does not mention this detail.
+Step 1: The summary does not mention the victim's name, Greg Valecce, while the article provides detailed information about his experience and the abuse he suffered.
 
-3. The summary states that Campbell believed Valecce had hurt his cat, Pebbles, and that this was the reason for the abuse, while the article does not mention this reason.
+Step 2: The summary does not mention the torture chamber where the abuse took place, which is described in detail in the article.
 
-4. The summary mentions that Ng could be heard in every video screaming at Valecce to stand up so she could pummel him, while the article does not mention this detail.
+Step 3: The summary does not mention the tattoos that were forcibly inked onto Valecce's arm, which is a crucial aspect of the article.
 
-5. The summary states that Halin tattooed "rip Pebbles" onto Valecce's arm, while the article states that Campbell tattooed the phrase.
+Step 4: The summary does not mention the accomplices' roles in the abuse, such as Sandra Ng and Jennifer Pratt, who were sentenced to prison for their involvement.
 
-6. The summary mentions that Halin inked swastikas, stars of David, two variations of the n-word, and a penis ejaculating on a rainbow with the words "gay pride" beside it, while the article does not mention these details.
+Step 5: The summary does not mention the search of the house where the abuse took place, which led to the discovery of a tattoo gun, needles, ink vials, and related paraphernalia, as well as drugs and Valecce's debit card.
 
-7. The summary states that Valecce suffered three busted ribs, two broken wrists, and fractured bones in his face, while the article does not mention these specific injuries.
+Step 6: The summary does not mention Valecce's physical injuries, such as three busted ribs, two broken wrists, and fractured bones in his face, which were a result of the abuse.
 
-8. The summary states that the incident lasted about 42 hours, while the article states that it lasted for three days.
+Step 7: The summary does not mention the length of the abuse, which lasted for 42 hours, as stated in the article.
 
-9. The summary mentions that the abuse occurred in the basement of a rowhouse on Brighton Ave in Mayfair, while the article does not mention the specific location.
-
-10. The summary states that all three were charged with aggravated assault, conspiracy, and false imprisonment, while the article states that only Campbell, Halin, and Ng were charged.
-
-Based on these differences, it is clear that the summary is not consistent with the article. The summary exaggerates the severity of the abuse, adds details that
+Therefore, the summary is not consistent with the article because it omits crucial details about the victim's experience, the location of the abuse, the tattoos, the accomplices' roles, the search of the house, and the victim's physical injuries.
 
 ###Corrected:

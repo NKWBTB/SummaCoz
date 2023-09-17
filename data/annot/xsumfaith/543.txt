@@ -1,26 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world championships medals that will be won in london this summer have been revealed, with a shape based on the curves of an athletics track. 
-
-    Article: 
-    Symbols of every event feature on the design, while the London skyline is included with Tower Bridge, the London Eye, the Shard and Big Ben.
+<Article>
+Symbols of every event feature on the design, while the London skyline is included with Tower Bridge, the London Eye, the Shard and Big Ben.
 The reverse features London Stadium, the championships' venue.
 The event takes place from 4-13 August and there will be live coverage across the BBC.
 Medals at July's World Para Athletics Championships, taking place from 14-23 July, will be similar, but feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair.
 Rather than engraving, the reverse will be inscribed with braille.
-For the first time at the World Championships, 'coaches medals' will also be handed out to recognise those who prepare athletes. 
+For the first time at the World Championships, 'coaches medals' will also be handed out to recognise those who prepare athletes.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the world championships medals that will be won in london this summer have been revealed, with a shape based on the curves of an athletics track.
+</Summary>
 
-1. The summary states that the world championships medals in London this summer will be based on the curves of an athletics track. However, the article does not mention anything about the medals being based on athletics tracks. Instead, it highlights that the medals will feature symbols of every event, the London skyline, and the London Stadium, which is the championships' venue.
-2. The summary also mentions that the medals will be revealed this summer, but the article does not provide any information about when the medals will be revealed or if they have already been revealed.
-3. The summary states that the medals will feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair, but the article does not mention anything about disability sport equipment. Instead, it mentions that the medals for the July's World Para Athletics Championships will be similar but will feature braille on the reverse.
-4. The summary mentions that coaches medals will also be handed out for the first time at the World Championships, but the article does not mention anything about coaches medals.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+1. The summary states that the World Championships medals have been revealed and have a shape based on the curves of an athletics track.
+2. The article does not mention anything about the shape of the medals or their design being based on an athletics track.
+3. Instead, the article mentions that the medals will feature symbols of every event, including Tower Bridge, the London Eye, the Shard, and Big Ben, and that the reverse will be inscribed with braille.
+4. The article also mentions that the medals will be similar to those awarded at the World Para Athletics Championships, but with distinctive disability sport equipment such as a prosthetic running leg and throwing chair.
+5. Therefore, the summary is not consistent with the article because it does not accurately describe the design or features of the medals.
 
 ###Corrected:

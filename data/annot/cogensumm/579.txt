@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ayew has netted six during the africa cup of nations. 
+<Article>
+Newcastle have made initial moves to sign Marseille forward Andre Ayew. The 25-year-old Ghana international is out of contract in the summer and his representatives have an outline offer from Newcastle. However, there is also interest from Roma while Tottenham and Everton have asked to be kept informed. Andre Ayew is out of contract at Marseille this summer, and Newcastle have made an initial approach . Ayew has netted six times for Marseille this season, as well as scoring three during the Africa Cup of Nations . Ayew scored three goals for Ghana in the Africa Cup of Nations and has managed six all season for Marseille. Newcastle have also expressed interest in FC Sion striker Moussa Konate. The Ghana forward is wanted by several of Europe's top sides including Tottenham, Everton and Roma .
+</Article>
 
-    Article: 
-    Newcastle have made initial moves to sign Marseille forward Andre Ayew. The 25-year-old Ghana international is out of contract in the summer and his representatives have an outline offer from Newcastle. However, there is also interest from Roma while Tottenham and Everton have asked to be kept informed. Andre Ayew is out of contract at Marseille this summer, and Newcastle have made an initial approach . Ayew has netted six times for Marseille this season, as well as scoring three during the Africa Cup of Nations . Ayew scored three goals for Ghana in the Africa Cup of Nations and has managed six all season for Marseille. Newcastle have also expressed interest in FC Sion striker Moussa Konate. The Ghana forward is wanted by several of Europe's top sides including Tottenham, Everton and Roma . 
+<Summary>
+ayew has netted six during the africa cup of nations.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Ayew has netted six during the Africa Cup of Nations.
-2. However, the article states that Ayew scored three goals for Ghana in the Africa Cup of Nations.
-3. This means that the information in the summary is not consistent with the article, as the number of goals scored by Ayew during the Africa Cup of Nations is incorrect.
-4. The article states that Ayew has managed six all season for Marseille, which is a different number from the three goals he scored during the Africa Cup of Nations.
-5. Therefore, the summary is not consistent with the article, as it provides incorrect information about Ayew's goalscoring record during the Africa Cup of Nations.
+2. However, the article states that Ayew has scored three goals for Ghana in the Africa Cup of Nations.
+3. Therefore, the summary is not consistent with the article, as it claims that Ayew has netted six goals during the Africa Cup of Nations, while the article states that he has scored three.
+
+The reason for this inconsistency is likely a mistake or misreading of the article. The summary likely mistakenly included an extra three goals that Ayew scored for Ghana in the Africa Cup of Nations, resulting in the inconsistency with the article.
 
 ###Corrected:

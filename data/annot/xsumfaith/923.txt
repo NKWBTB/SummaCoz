@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    william mcilvanney has been honoured with a new # [UNK] m facility in ayrshire to honour mark mcilvanney\'s novel. 
-
-    Article: 
-    The Â£45m facility, to be built at Sutherland Drive in Kilmarnock, will house primary and secondary schools, a Gaelic school and a childcare centre.
+<Article>
+The Â£45m facility, to be built at Sutherland Drive in Kilmarnock, will house primary and secondary schools, a Gaelic school and a childcare centre.
 East Ayrshire Council said it would ask permission from the McIlvanney family to name the campus in his honour.
 The renowned writer was born and educated in Kilmarnock.
 Council leader Douglas Reid said he was delighted to be able to "preserve" the William McIlvanney name in Kilmarnock as the writer was "passionate about the provision of good education for young people".
@@ -14,16 +11,19 @@ McIlvanney became an English teacher after graduating from Glasgow University bu
 He gained immediate recognition with the publication of his first novel - Remedy Is None - and through other works he earned the title of "Godfather of Tartan Noir".
 McIlvanney wrote the acclaimed Laidlaw trilogy and other Glasgow-based works such as Docherty and The Big Man.
 He was also an influential poet, journalist and broadcaster, and contributed to political and sporting life in Scotland through a series of columns and TV programmes.
-The novelist died at his Glasgow home on 5 December. 
+The novelist died at his Glasgow home on 5 December.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+william mcilvanney has been honoured with a new # [UNK] m facility in ayrshire to honour mark mcilvanney\'s novel.
+</Summary>
 
-1. The summary states that the new facility will be named after William McIlvanney, but the article does not mention anything about the facility being named after him. Instead, the article states that the council will ask permission from the McIlvanney family to name the campus in his honour.
-2. The summary mentions that William McIlvanney was a novelist, but the article does not provide any information about his profession or background.
-3. The summary states that the facility will house primary and secondary schools, a Gaelic school, and a childcare centre, but the article only mentions that the facility will house primary and secondary schools and a Gaelic school.
-4. The summary does not mention anything about the location of the facility, but the article states that the facility will be built at Sutherland Drive in Kilmarnock.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, such as the facility being named after William McIlvanney, and it omits information that is present in the article, such as the location of the facility.
+1. The summary states that the new facility is being built to honor William McIlvanney's novel.
+2. However, the article does not mention anything about a novel by William McIlvanney.
+3. The article only mentions that the council wants to name the campus after William McIlvanney because he was born and educated in Kilmarnock and was a renowned writer.
+4. The article highlights McIlvanney's achievements as a writer, including his contributions to Scottish literature and his influence on political and sporting life in Scotland.
+5. Therefore, the summary is not consistent with the article because it mentions a novel that does not exist and is not supported by the information in the article.
 
 ###Corrected:

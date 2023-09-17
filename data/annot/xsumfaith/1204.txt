@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a kenyan man has been shot dead during an election rally in the capital nairobi, police say. 
-
-    Article: 
-    Mr Ruto and his family were not at the compound near the western city of Eldoret at the time.
+<Article>
+Mr Ruto and his family were not at the compound near the western city of Eldoret at the time.
 Specialist troops had been deployed to deal with the intruder, who was hiding in a partially-constructed building, police said.
 Earlier reports suggested a number of gunmen had entered Mr Ruto's home.
 "In circumstances that are yet unclear, he hit an officer on duty with a machete and managed to enter the farm complex," National Police Inspector General Joseph Boinnet said in a statement.
@@ -15,17 +12,20 @@ The incident comes 10 days before Kenya holds presidential, legislative and regi
 The deputy president had left hours earlier for a campaign rally in the town of Kitale, where he joined President Uhuru Kenyatta.
 Mr Kenyatta is seeking re-election next month.
 While Kenya's 2013 elections passed relatively peacefully, there was serious post-election violence following the 2007 polls, which left more than 1,000 people dead and 600,000 displaced from their homes.
-However, experts say they do not expect to see the same level of conflict following the 8 August vote. 
+However, experts say they do not expect to see the same level of conflict following the 8 August vote.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a kenyan man has been shot dead during an election rally in the capital nairobi, police say.
+</Summary>
 
-1. The summary states that a Kenyan man was shot dead during an election rally in Nairobi, but the article does not mention any election rally or shooting incident in Nairobi.
-2. The article mentions that Mr. Ruto and his family were not at their compound near Eldoret when the incident occurred, and there were no reports of gunmen entering his home.
-3. The summary mentions a police officer being wounded, but the article does not mention any police officers being injured.
-4. The article states that specialist troops were deployed to deal with an intruder who was hiding in a partially-constructed building, but the summary does not mention any intruder or building.
-5. The article mentions that the incident occurred 10 days before Kenya's upcoming elections, but the summary does not mention any election-related context.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article. The summary appears to be a separate, unrelated incident or a completely fabricated story.
+1. The article states that Mr. Ruto and his family were not at the compound near Eldoret at the time of the incident, which contradicts the summary that says a Kenyan man was shot dead during an election rally in Nairobi.
+2. The article mentions that specialist troops were deployed to deal with an intruder who was hiding in a partially-constructed building, which suggests that the incident was not related to an election rally.
+3. The summary does not provide any information about the identity of the person who was shot dead, whereas the article clearly states that the person who was injured was a police officer.
+4. The article mentions that the incident occurred 10 days before the Kenyan elections, but the summary does not provide any context or information about the elections.
+
+Therefore, based on the above points, it is clear that the summary is not consistent with the article. The summary is incomplete, inaccurate, and lacks context, which suggests that it may not be a reliable representation of the original article.
 
 ###Corrected:

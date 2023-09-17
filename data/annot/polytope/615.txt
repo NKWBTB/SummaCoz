@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nina UNK , 38 , posted several pictures of heavy bruises on her instagram account .
-she was found by her mother in the luxury apartment she shares with her boyfriend in milan .
-ms UNK said she was ' shocked ' by the suicide claims . 
-
-    Article: 
-    a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
+<Article>
+a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ` low blood pressure ' .
 nina moric , 38 , posted several photographs of heavy bruising on her arms on her instagram account which has more than 40,000 users .
 italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend in milan .
 nina moric , pictured , took to instagram to deny claims that she tried to take her own life over the weekend
@@ -33,27 +28,34 @@ she was once married to famous paparazzi snapper fabrizio corona , 41 , who ende
 corona , the ` king ' of italy 's paparazzi , was jailed for blackmailing celebs with compromising photographs .
 corona 's scoops helped fuel the celebrity tv culture driven by former prime minister silvio berlusconi 's channels and publications .
 he claimed he never blackmailed celebrities he snapped , merely offering them first option to buy the photos at the rate he would have sold them to publications .
-but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . ' 
+but police tapping his phone during an investigation heard him tell his then wife nina : ` yes , it 's true , i ruin lives , i am a piece of s *** and i do n't even feel guilty any more . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help you identify why the summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+nina UNK , 38 , posted several pictures of heavy bruises on her instagram account .
+she was found by her mother in the luxury apartment she shares with her boyfriend in milan .
+ms UNK said she was ' shocked ' by the suicide claims .
+</Summary>
 
-1. The summary states that Nina Moric tried to take her own life, but the article states that she collapsed due to low blood pressure and was taken to the hospital.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, there are several inconsistencies that can be identified:
 
-Inconsistency: The summary implies that Nina Moric attempted suicide, while the article explains that she was hospitalized due to a medical condition.
+Step 1: Inconsistency in the name of the person in the summary
 
-2. The summary mentions that Nina Moric was found by her mother in her apartment, but the article states that she was taken to the hospital by her boyfriend.
+The summary mentions "Nina UNK," while the article mentions "Nina Moric." This is an inconsistency in the name of the person, as "UNK" is not a valid name.
 
-Inconsistency: The summary suggests that Nina Moric's mother found her, while the article states that her boyfriend took her to the hospital.
+Step 2: Inconsistency in the cause of the injury
 
-3. The summary quotes Nina Moric as saying that she was "shocked" by the suicide claims, but the article does not mention her saying this.
+The summary states that Nina was found with heavy bruises, but the article explains that she collapsed due to low blood pressure. This is an inconsistency in the cause of the injury, as the summary implies that Nina was injured due to physical violence, while the article suggests that her injury was due to a medical condition.
 
-Inconsistency: The summary includes a quote from Nina Moric that is not present in the article.
+Step 3: Inconsistency in the location of the injury
 
-4. The summary mentions that Italian media reported that Nina Moric tried to take her own life in 2009, but the article does not mention this.
+The summary states that Nina was found in a luxury apartment she shares with her boyfriend in Milan, while the article explains that she was taken to the hospital due to a domestic accident. This is an inconsistency in the location of the injury, as the summary implies that Nina was injured in her apartment, while the article suggests that she was injured in a domestic setting.
 
-Inconsistency: The summary includes information that is not present in the article.
+Step 4: Inconsistency in the boyfriend's statement
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the text, and it implies that Nina Moric attempted suicide, which is not what the article states.
+The summary states that Nina's boyfriend, Luigi Mario Favoloso, suggested that she tried to commit suicide. However, the article explains that Nina's boyfriend denied these claims and stated that she was a victim of some people who want to do bad by her. This is an inconsistency in the boyfriend's statement, as the summary implies that he confirmed the suicide claims, while the article suggests that he denied these claims.
+
+Overall, the summary is not consistent with the article, as it contains several inconsistencies in the name of the person, the cause of the injury, the location of the injury, and the boyfriend's statement.
 
 ###Corrected:

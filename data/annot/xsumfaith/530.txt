@@ -1,23 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police in the republic of ireland have arrested a man and seized cannabis plants with an estimated value of 750,000 euros (# 530,000) in county meath. 
-
-    Article: 
-    The plants were found during the search of a warehouse near Ashbourne on Saturday morning.
+<Article>
+The plants were found during the search of a warehouse near Ashbourne on Saturday morning.
 Police said they were in "an elaborate grow house".
-A man in his late 40s was arrested at the scene. 
+A man in his late 40s was arrested at the scene.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+police in the republic of ireland have arrested a man and seized cannabis plants with an estimated value of 750,000 euros (# 530,000) in county meath.
+</Summary>
 
-1. The summary states that the police arrested a man and seized cannabis plants with an estimated value of €750,000 in County Meath.
-2. The article states that the plants were found in a warehouse near Ashbourne on Saturday morning, and that the man was arrested at the scene.
-3. However, the article does not mention the estimated value of the cannabis plants.
-4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the estimated value of the cannabis plants).
+Explain your reasoning step by step:[/INST]
+ Sure, here's my reasoning step by step:
 
-So, the reason why the summary is not consistent with the article is that it includes extra information that is not supported by the article.
+1. The article states that the plants were found in a warehouse near Ashbourne, while the summary states that the plants were found in County Meath. This is a contradiction, as Ashbourne is located in Derbyshire, England, while County Meath is a county in the Republic of Ireland.
+2. The article does not mention the estimated value of the cannabis plants, while the summary states that the plants have an estimated value of 750,000 euros (# 530,000). This is a significant inconsistency, as the article does not provide any information about the value of the seized plants.
+3. The article states that the man was arrested at the scene, while the summary does not mention any arrests. This is another inconsistency, as the article explicitly states that a man was arrested, while the summary does not mention any arrests.
+
+Overall, the summary is not consistent with the article because it contains multiple inconsistencies and inaccuracies. The article does not mention the estimated value of the seized plants, and it does not state that the arrests took place in County Meath. Therefore, the summary is not a reliable representation of the article's content.
 
 ###Corrected:

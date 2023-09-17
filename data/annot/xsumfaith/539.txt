@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    blackpool\'s winless run was extended to five games as they were held at home by fellow league two play-off chasers colchester. 
-
-    Article: 
-    The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
+<Article>
+The Seasiders struck with the first real chance after 12 minutes as Nathan Delfouneso jinked past his man and delivered a pinpoint chip into the area, where Jamille Matt turned the ball home from three yards.
 Blackpool goalkeeper Sam Slocombe denied Matthew Briggs with a sensational save to push the ball behind after 17 minutes, but the visitors did equalise from the resulting corner as Kurtis Guthrie prodded in from close range after a goalmouth scramble.
 Somehow, Colchester failed to re-take the lead on the stroke of half-time as Slocombe produced a brilliant save from George Elokobi's close-range effort, before Guthrie headed against the bar from two yards.
 Blackpool should have clinched the win 15 minutes from time, as Tom Aldred was found unmarked from a corner, but he headed wide from eight yards.
@@ -51,16 +48,38 @@ Tom Eastman (Colchester United) is shown the yellow card for a bad foul.
 Jordan Flores (Blackpool) wins a free kick on the right wing.
 Foul by Tom Eastman (Colchester United).
 Andy Taylor (Blackpool) is shown the yellow card for a bad foul.
-Foul by Andy Taylor (Blackpool). 
+Foul by Andy Taylor (Blackpool).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+blackpool\'s winless run was extended to five games as they were held at home by fellow league two play-off chasers colchester.
+</Summary>
 
-1. The summary states that Blackpool's winless run was extended to five games, but the article does not mention anything about Blackpool's winless run.
-2. The summary states that Colchester equalized from a corner, but the article does not mention anything about a corner kick leading to a goal.
-3. The summary states that Colchester finished the game with 10 men, but the article does not mention anything about a red card being shown to a Colchester player.
-4. The summary states that Blackpool should have clinched the win 15 minutes from time, but the article does not mention anything about Blackpool missing a chance to win the game.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and omissions. It is important to carefully read and understand the article before creating a summary to ensure that the summary is accurate and consistent with the article.
+Step 1: Identify the main points of the article
+
+* Blackpool and Colchester United played a league match
+* Blackpool scored first through Jamille Matt
+* Colchester equalized from a corner kick
+* The score remained 1-1 until the end of the game
+
+Step 2: Identify the main points of the summary
+
+* Blackpool's winless run was extended to five games
+* The team was held at home by Colchester
+
+Step 3: Identify the inconsistencies
+
+* The summary states that Blackpool's winless run was extended to five games, but the article does not mention anything about Blackpool's winless run.
+* The summary states that Blackpool was held at home by Colchester, but the article does not mention anything about Colchester holding Blackpool at home.
+
+Step 4: Analyze the reasons for the inconsistencies
+
+* The summary likely assumed that Blackpool's draw against Colchester meant that their winless run continued, but the article does not explicitly state this.
+* The summary may have also assumed that Colchester held Blackpool at home, based on the fact that the teams played at Blackpool's home stadium.
+
+In conclusion, the summary is not consistent with the article because it contains assumptions that are not supported by the information in the article. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

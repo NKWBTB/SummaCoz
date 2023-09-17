@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11
-the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest
-mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time 
-
-    Article: 
-    conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
+<Article>
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
 the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
 ` if you see the tiger , it 's too late .
 you 're food , ' mcgregor wrote next to the instagram post of his new artwork .
@@ -21,15 +16,31 @@ aldo makes the eighth defence of his belt against the irish fighter in las vegas
 conor mcgregor grabbed aldo 's ( left ) belt when they took their promotional tour to dublin
 mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
 at the end of march , the duo were undergoing a promotional tour in dublin when mcgregor grabbed the belt from aldo and raised it in front of 5,000 home supporters .
-the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters . 
+the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11
+the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest
+mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
+</Summary>
 
-1. The summary states that Conor McGregor has a picture of a gorilla eating a heart tattooed on his chest, but the article does not mention any such tattoo.
-2. The summary claims that McGregor has a new tattoo of a tiger on his stomach, but the article only mentions a tiger tattoo on his stomach in the context of a previous tattoo that McGregor already had.
-3. The summary states that McGregor claims he has greater motivation to win the title than Aldo has to defend it for the eighth time, but the article does not include any quote or statement from McGregor making this claim.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes details that are not present in the article and omits other details that are present in the article.
+Based on the provided article and summary, here's why the summary is not consistent with the article:
+
+1. The summary states that Conor McGregor has a picture of a gorilla eating a heart inked on his chest, but the article does not mention this.
+
+Step 1: The summary includes information that is not present in the article.
+
+2. The summary states that McGregor has greater motivation to win the title than Aldo has to defend it for the eighth time, but the article does not explicitly state this.
+
+Step 2: The summary includes a claim that is not explicitly supported by the article.
+
+3. The summary does not mention the tiger tattoo that McGregor has unveiled, which is a significant detail in the article.
+
+Step 3: The summary omits important information that is present in the article.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, makes a claim that is not explicitly supported, and omits important information.
 
 ###Corrected:

@@ -1,23 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    police have arrested two people on suspicion of murder after a man\'s body was found on moorland. 
-
-    Article: 
-    Craig Nelson, who was also known as Craig Preston, was found at the Woodhead Tunnels off the A628 in Derbyshire at 11:00 BST on Monday.
+<Article>
+Craig Nelson, who was also known as Craig Preston, was found at the Woodhead Tunnels off the A628 in Derbyshire at 11:00 BST on Monday.
 A post-mortem found the 34-year-old from Wath-Upon-Dearn in Rotherham died as a result of head injuries.
-A man, 41, and a woman, 23, were arrested in Sheffield by South Yorkshire Police and remain in custody. 
+A man, 41, and a woman, 23, were arrested in Sheffield by South Yorkshire Police and remain in custody.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+police have arrested two people on suspicion of murder after a man\'s body was found on moorland.
+</Summary>
 
-1. The summary states that the police arrested two people on suspicion of murder, but the article does not mention anything about the police arresting anyone. Instead, it states that a man and a woman were taken into custody, but it does not specify the reason for their arrest.
-2. The summary mentions that the body was found on moorland, but the article states that the body was found at the Woodhead Tunnels off the A628 in Derbyshire.
-3. The summary states that the victim was 34 years old, but the article does not mention the victim's age.
-4. The summary states that the victim died as a result of head injuries, but the article only states that the cause of death is not yet known.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these discrepancies, it is clear that the summary is not consistent with the article.
+1. The article states that the body of Craig Nelson was found at the Woodhead Tunnels off the A628 in Derbyshire, while the summary only mentions "moorland". The Woodhead Tunnels are not located on moorland, so the summary is not consistent with the article.
+2. The article states that Craig Nelson died as a result of head injuries, while the summary does not mention any specific cause of death. The summary only mentions "murder", which is not supported by the article.
+3. The article states that two people, a man and a woman, were arrested in Sheffield by South Yorkshire Police, while the summary does not mention anything about the arrests or the identity of the suspects.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. The summary only mentions a few general details, such as the location of the body and the suspicion of murder, but it does not provide any specific information that is supported by the article.
 
 ###Corrected:

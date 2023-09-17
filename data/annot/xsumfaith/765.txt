@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the duchess of cambridge has paid tribute to the duke and duchess of cambridge, george charlotte, who has died at the age of 88. 
-
-    Article: 
-    Her Royal Highness took the baton at the Hamburg Symphony Orchestra's new home, the Elbphilharmonie concert hall.
+<Article>
+Her Royal Highness took the baton at the Hamburg Symphony Orchestra's new home, the Elbphilharmonie concert hall.
 It was part of an event where 250 schoolchildren were introduced to music in front of the Duke and Duchess.
 The Royal party are due back in the UK on Friday evening, after a five-day tour that began in Poland on Monday.
 On the last day of the tour, the Duchess, who comes from a musical family and played the flute at school, took the musicians through the first notes of Beethoven's fifth symphony.
@@ -17,17 +14,18 @@ Prince George tried on a pilot's helmet while Princess Charlotte played with but
 The Duke flew helicopters when he was an air ambulance pilot.
 Antoine van Gent, head of flight testing at Airbus, said: "The Duke was very relaxed showing his children the professional aircraft he uses.
 "George was excited, with the first helicopter he wanted to sit in the cockpit and then he wanted to sit in the next one, he already knew there was a difference between them."
-Charlotte was less impressed after taking a tumble on the concrete after leaving the aircraft but Mr van Gent said she enjoyed playing in the pilot's seat. 
+Charlotte was less impressed after taking a tumble on the concrete after leaving the aircraft but Mr van Gent said she enjoyed playing in the pilot's seat.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the duchess of cambridge has paid tribute to the duke and duchess of cambridge, george charlotte, who has died at the age of 88.
+</Summary>
 
-1. The summary mentions the Duchess of Cambridge paying tribute to the Duke and Duchess of Cambridge, George Charlotte, who has died at the age of 88. However, there is no mention of anyone named George Charlotte in the article.
-2. The article does not mention the Duchess of Cambridge paying tribute to anyone. Instead, it focuses on the royal family's visit to the Hamburg Symphony Orchestra and their interaction with schoolchildren and the orchestra.
-3. The summary states that the Duchess of Cambridge took the baton at the Hamburg Symphony Orchestra's new home, but the article does not mention this. Instead, it states that the Duchess took the musicians through the first notes of Beethoven's fifth symphony.
-4. The summary mentions the royal couple listening to a performance of a symphony especially adapted for young people, but the article does not mention this. Instead, it states that the Duke and Duchess listened to a performance of a symphony.
-5. The summary mentions the Duke of Cambridge giving Prince George and Princess Charlotte a guided tour of a helicopter at the Airbus factory in Hamburg, but the article does not mention this. Instead, it states that the Duke flew helicopters when he was an air ambulance pilot.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the Duchess of Cambridge has paid tribute to the Duke and Duchess of Cambridge, George and Charlotte, who has died at the age of 88.
+2. However, the article does not mention the death of any members of the royal family.
+3. The article does mention the Duke and Duchess of Cambridge, as well as their children, Prince George and Princess Charlotte, but there is no mention of any of them having passed away.
+4. Therefore, the summary is not consistent with the article, as it implies that one of the members of the royal family has died, which is not supported by the content of the article.
 
 ###Corrected:

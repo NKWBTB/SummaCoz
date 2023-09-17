@@ -1,21 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    phelps' punishment was due to run out for the world championships in kazan. 
+<Article>
+Michael Phelps could be allowed to compete at this year's world swimming championships. USA Swimming banned the 18-time Olympic champion for six months following a second drink-driving offence in Baltimore last September. That is due to run out in early April but Phelps' punishment also resulted in him being excluded from the US team for the world championships in Kazan. Now Phelps is potentially in line for a reprieve, with USA Swimming executive director Chuck Wielgus telling ESPN.com: 'It's complicated, but there are ways in which it could happen. There's a pathway for things to be reconsidered - or considered.' Michael Phelps will be able to compete for USA when his ban runs out in early April . Phelps is an 18-time Olympic champion and could be back in action sooner than expected .
+</Article>
 
-    Article: 
-    Michael Phelps could be allowed to compete at this year's world swimming championships. USA Swimming banned the 18-time Olympic champion for six months following a second drink-driving offence in Baltimore last September. That is due to run out in early April but Phelps' punishment also resulted in him being excluded from the US team for the world championships in Kazan. Now Phelps is potentially in line for a reprieve, with USA Swimming executive director Chuck Wielgus telling ESPN.com: 'It's complicated, but there are ways in which it could happen. There's a pathway for things to be reconsidered - or considered.' Michael Phelps will be able to compete for USA when his ban runs out in early April . Phelps is an 18-time Olympic champion and could be back in action sooner than expected . 
+<Summary>
+phelps' punishment was due to run out for the world championships in kazan.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Phelps' punishment was due to run out for the world championships in Kazan.
-2. However, the article states that Phelps was excluded from the US team for the world championships in Kazan due to his punishment.
-3. This means that Phelps will not be able to compete in the world championships in Kazan, regardless of when his ban runs out.
-4. Therefore, the statement in the summary that Phelps' punishment was due to run out for the world championships in Kazan is not consistent with the information in the article.
-
-So, the reason why the summary is not consistent with the article is that the summary implies that Phelps will be able to compete in the world championships in Kazan, while the article states that he will not be able to do so due to his punishment.
+1. The article states that Phelps' punishment resulted in him being excluded from the US team for the world championships in Kazan.
+2. The summary incorrectly states that Phelps' punishment was due to run out for the world championships in Kazan.
+3. The article does not mention anything about Phelps' punishment running out for the world championships in Kazan. Instead, it states that Phelps will be able to compete for USA when his ban runs out in early April.
+4. Therefore, the summary is not consistent with the article because it incorrectly states that Phelps' punishment will run out for the world championships in Kazan, when in fact, it will run out in early April.
 
 ###Corrected:

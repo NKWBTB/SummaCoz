@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the restoration of glasgow school of art\'s (gsa) mackintosh building in glasgow has been given the go-ahead by the scottish government. 
-
-    Article: 
-    The Garfield Weston Foundation made the award to the Mackintosh Campus Appeal, which aims to raise £32m.
+<Article>
+The Garfield Weston Foundation made the award to the Mackintosh Campus Appeal, which aims to raise £32m.
 The Mackintosh building was badly damaged by fire on 23 May 2014.
 Contractors who are restoring the iconic Grade A-listed art nouveau building hope to have completed their work by the end of February 2019.
 Philippa Charles, director of the Garfield Weston Foundation, said: "The Garfield Weston Foundation supports organisations and activities that share a commitment to making a positive impact on the lives of the communities in which they work, and that are driven by a desire to achieve excellence.
@@ -18,15 +15,19 @@ News of the £500,000 donation emerged as the Secretary of State for Scotland, D
 Mr Mundell said: "It is a real pleasure to host tonight's fundraising event for the Mackintosh Campus, and to support the rebuilding of an iconic British institution which has produced so many leading architects, designers and artists."
 Professor Tom Inns, director of GSA, added: "It is an important opportunity for us to share our ambitious plans for the campus redevelopment, including bringing together all pathways of the School of Fine Art for the first time in many years in a refurbished Stow Building, and to give an update on the restoration of the Mackintosh Building."
 After the Mackintosh building blaze, an investigation by the Scottish Fire and Rescue Service concluded it was caused by flammable gases from a canister of expanding foam.
-The report said the gases ignited as they came into contact with the hot surface of a projector. 
+The report said the gases ignited as they came into contact with the hot surface of a projector.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the reasons:
+<Summary>
+the restoration of glasgow school of art\'s (gsa) mackintosh building in glasgow has been given the go-ahead by the scottish government.
+</Summary>
 
-1. The summary states that the Scottish government has given the go-ahead for the restoration of the Mackintosh building, but the article does not mention anything about the Scottish government's approval. Instead, it talks about the Garfield Weston Foundation's donation of £500,000 to the Mackintosh Campus Appeal.
-2. The summary mentions that the restoration of the Mackintosh building has been given the go-ahead, but the article does not say that the restoration has been approved or started. Instead, it talks about the plans for the redevelopment of the campus, including the purchase of the former Stow College building and the refurbishment of the Stow Building.
-3. The summary does not mention anything about the cause of the fire that damaged the Mackintosh building, but the article reveals that the fire was caused by flammable gases from a canister of expanding foam.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The article focuses on the Garfield Weston Foundation's donation to the Mackintosh Campus Appeal and the plans for the redevelopment of the campus, while the summary mentions the Scottish government's approval of the restoration of the Mackintosh building, which is not mentioned in the article. Additionally, the summary does not include the information about the cause of the fire, which is provided in the article.
+1. The summary states that the restoration of Glasgow School of Art's (GSA) Mackintosh building has been given the go-ahead by the Scottish government.
+2. However, the article does not mention anything about the Scottish government giving the go-ahead for the restoration. Instead, it talks about the Garfield Weston Foundation donating £500,000 to the Mackintosh Campus Appeal.
+3. Therefore, the summary is not consistent with the article, as it implies that the Scottish government has approved the restoration, while the article only mentions a private donation to the appeal.
+4. The article does mention that the Mackintosh building was damaged by fire and that contractors are working to restore it, but there is no mention of any official approval or funding from the Scottish government for the restoration.
+5. The summary is not accurate, as it does not reflect the content of the article. The article does not mention the Scottish government giving the go-ahead for the restoration, but instead focuses on the private donation to the appeal.
 
 ###Corrected:

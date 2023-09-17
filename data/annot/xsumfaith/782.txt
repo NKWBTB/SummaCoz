@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the number of jewish community centres in the us and us has fallen to its lowest level in recent weeks, the white house has said. 
-
-    Article: 
-    The latest threats bring the number of incidents to 69 in 27 states in the past month, according to the JCC Association of North America.
+<Article>
+The latest threats bring the number of incidents to 69 in 27 states in the past month, according to the JCC Association of North America.
 No bombs were found at any of the centres targeted with telephone calls.
 Last week, 27 Jewish community centres in 17 US states reported receiving hoax bomb threats.
 All of the threats made on Monday, along with previous incidents in January, turned out to be false and Jewish centres have since reopened with normal services resumed.
@@ -21,18 +18,20 @@ The JCC Association of North America, a network of health and education centres,
 In an earlier statement the FBI said that along with the US justice department it was investigating possible civil rights violations in connection with the threats.
 The Anti-Defamation League, a Jewish anti-bigotry organisation, said in a statement that it was "deeply disturbed" by the latest threats to the Jewish community.
 Meanwhile, more than 100 headstones have been damaged at a Jewish cemetery in St Louis, Missouri, local media report.
-In the Canadian city of Toronto, Mayor John Tory has condemned anti-Semitic hate notes left outside the homes of Jewish residents. 
+In the Canadian city of Toronto, Mayor John Tory has condemned anti-Semitic hate notes left outside the homes of Jewish residents.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the number of jewish community centres in the us and us has fallen to its lowest level in recent weeks, the white house has said.
+</Summary>
 
-1. The summary states that the number of Jewish community centers in the US has fallen to its lowest level, but the article does not mention anything about a decline in the number of centers.
-2. The summary mentions the White House statement, but the article does not quote any specific statement from the White House.
-3. The summary states that the threats were made through calls using voice-disguising technology, but the article does not mention anything about the method of the threats.
-4. The summary mentions Hillary Clinton's tweet about the need to take action to prevent further incidents, but the article does not mention her name or any other political figures' reactions.
-5. The summary mentions that the threats were made to centers in 27 states, but the article only mentions 21 states.
-6. The summary does not mention the fact that no bombs were found at any of the targeted centers, while the article states that all threats made on Monday and previous incidents in January turned out to be false.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not a accurate representation of the article's content.
+1. The article states that the number of incidents has risen to 69 in 27 states in the past month, indicating an increase in threats against Jewish community centers.
+2. The summary, however, states that the number of Jewish community centers has fallen to its lowest level in recent weeks.
+3. This is inconsistent with the article, as the article states that the number of incidents has increased, not decreased.
+4. Therefore, the summary is not consistent with the article.
+
+The reason for this inconsistency is likely a mistake or misinterpretation of the information in the article. The summary may have been written based on an incorrect understanding of the article's content or with incomplete information.
 
 ###Corrected:

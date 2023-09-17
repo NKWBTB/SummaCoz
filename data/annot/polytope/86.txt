@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    eden hazard and nathan ake took on loic remy and willian in audi 's football challenge
-the blues stars aim to fire balls into the boot of a car from close range
-hazard and ake secured the points with a 5-3 win over their team-mates 
-
-    Article: 
-    on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
+<Article>
+on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
 taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
 in round one , the chelsea stars aim to fire balls into the boot of a car from close range , with hazard and ake securing the points with a 5-3 win .
 one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
@@ -23,19 +18,24 @@ willian and remy redeem themselves to produce a shock win over their team-mates 
 shown in a short clip at the very end of the video , willian can be seen smashing the wing mirror off one of the audi 's with a long-range effort .
 team-mate remy 's hands-on-head reaction says it all ... but we 're pretty sure he wo n't have to pay to repair the damage .
 remy puts his hands on his head after watching willian smash the wing mirror of one of the cars
-willian laughs after being allowed to drive one of the audi 's that was part of the football challenge 
+willian laughs after being allowed to drive one of the audi 's that was part of the football challenge
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+eden hazard and nathan ake took on loic remy and willian in audi 's football challenge
+the blues stars aim to fire balls into the boot of a car from close range
+hazard and ake secured the points with a 5-3 win over their team-mates
+</Summary>
 
-1. The summary states that Eden Hazard and Nathan Ake took on Loic Remy and Willian in Audi's football challenge, but the article does not mention any such challenge.
-2. The summary mentions that the Chelsea stars aimed to fire balls into the boot of a car from close range, but the article does not mention any such challenge.
-3. The summary states that Hazard and Ake secured the points with a 5-3 win, but the article does not mention any such win.
-4. The summary mentions that the players were set challenges to sink balls into convertible Audis from long range, but the article does not mention any such challenge.
-5. The summary states that Hazard and Ake won the decider to take a 6-0 lead after the first two rounds, but the article does not mention any such lead or decider.
-6. The summary mentions that the final challenge involved the players shooting at cars from long range, but the article does not mention any such challenge.
-7. The summary states that Remy and Willian won the final challenge, but the article does not mention any such win.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains several elements that are not mentioned in the article, such as a football challenge, firing balls into the boot of a car, and a 5-3 win. Additionally, the article does not mention any long-range shooting challenges or a decider.
+1. The summary states that Eden Hazard and Nathan Ake took on Loic Remy and Willian in Audi's football challenge.
+2. The article states that the players were set challenges to sink balls into convertible Audis from long range, and the final challenge involved shooting at cars from long range.
+3. The summary does not mention any challenges involving long-range shots or cars, only stating that the players aimed to fire balls into the boot of a car from close range.
+4. Therefore, the summary is not consistent with the article because it does not include the key details of the challenges that were part of the Audi football challenge, such as the long-range shots and the use of cars as targets.
+5. The summary also does not mention the final challenge, which was the most important part of the event, where the players shot from long range to sink their footballs through the top of a convertible Audi.
+6. The article provides more information about the event, such as the players using a £127,000 Audi R8 V10 plus as a makeshift tennis court and the final challenge involving long-range shots, which are not included in the summary.
+
+In conclusion, the summary is not consistent with the article because it does not include all the key details of the Audi football challenge and focuses only on a limited aspect of the event.
 
 ###Corrected:

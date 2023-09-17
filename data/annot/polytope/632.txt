@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the baby girl was found in a toilet in a restaurant in chengdu , china .
-staff at the restaurant said they saw the woman going into the toilet .
-she was arrested after receiving medical attention and faces charges of neglect . 
-
-    Article: 
-    a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
+<Article>
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
 staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online .
 workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance .
 a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar
@@ -26,21 +21,30 @@ a worker at the fast food outlet said : ` the mother was in shock herself and wa
 i think she was just traumatised . '
 cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her .
 she was later transferred to the police station where she is facing charges of neglect .
-the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors . 
+the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+the baby girl was found in a toilet in a restaurant in chengdu , china .
+staff at the restaurant said they saw the woman going into the toilet .
+she was arrested after receiving medical attention and faces charges of neglect .
+</Summary>
 
-1. The summary states that the woman was arrested after receiving medical attention, but the article states that she was arrested before receiving medical attention. This indicates that the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the woman was found in a toilet, but the article states that the baby was found in a rubbish bin inside the ladies' toilet. This is a discrepancy in the location where the woman and the baby were found.
+1. The summary states that the baby girl was found in a toilet in a restaurant in Chengdu, China.
+2. The article states that the baby girl was found in a rubbish bin inside the ladies' toilet at a Chinese burger bar.
 
-3. The summary does not mention that the woman had blood on her, but the article states that she was found with blood on her shirt. This is another inconsistency between the summary and the article.
+Reasoning: The summary does not accurately reflect the location where the baby was found. The article states that the baby was found in a rubbish bin, while the summary says she was found in a toilet.
 
-4. The summary states that the woman was arrested and faces charges of neglect, but the article does not mention any charges being filed against her. This indicates that the summary is not accurate in regards to the legal consequences of the woman's actions.
+1. The summary states that the woman was arrested after receiving medical attention and faces charges of neglect.
+2. The article states that the woman, Yuan Yen, was found to have blood on her when she was approached and refused to look at her baby or talk to police. She was arrested after receiving medical attention and faces charges of neglect.
 
-5. The summary states that the baby was declared healthy after being checked over by doctors, but the article does not mention the baby's health status. This is another inconsistency between the summary and the article.
+Reasoning: The summary does not accurately reflect the woman's behavior and the charges she faces. The article states that the woman had blood on her and refused to look at her baby, while the summary only mentions that she was arrested and faces charges of neglect.
 
-Overall, the summary is not consistent with the article in several key details, indicating that it is not an accurate representation of the events described in the article.
+1. The summary does not mention any details about the woman's behavior or the charges she faces.
+2. The article provides detailed information about the woman's behavior and the charges she faces.
+
+Reasoning: The summary does not provide enough information to accurately summarize the article. It only mentions the location where the baby was found and the fact that the woman was arrested, but it does not include any details about the woman's behavior or the charges she faces.
 
 ###Corrected:

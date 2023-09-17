@@ -1,20 +1,21 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    loch lomond has been described as the uk\'s best place to swim. 
+<Article>
+Here are some of your pictures from the 26 beaches ranked as Scotland's "most excellent" for water quality.
+</Article>
 
-    Article: 
-    Here are some of your pictures from the 26 beaches ranked as Scotland's "most excellent" for water quality. 
+<Summary>
+loch lomond has been described as the uk\'s best place to swim.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The article does not mention anything about Loch Lomond being the UK's best place to swim. In fact, the article is about the water quality of 26 beaches in Scotland, and it does not mention Loch Lomond at all.
-2. The summary statement is not supported by the article. The article does not provide any information about Loch Lomond being the UK's best place to swim.
-3. Therefore, the summary is not consistent with the article. The summary makes a claim that is not supported by the information in the article.
+1. The article mentions nothing about Loch Lomond being one of the "most excellent" beaches for water quality, nor is it ranked as such.
+2. The article only mentions beaches, and Loch Lomond is a loch (a lake) and not a beach.
+3. Therefore, the statement in the summary that Loch Lomond has been described as the UK's best place to swim is not supported by the article.
 
-So, the reason why the summary is not consistent with the article is that the article does not mention Loch Lomond at all, and the summary makes a claim about Loch Lomond that is not supported by the article.
+Conclusion: The summary is not consistent with the article because it makes a claim about Loch Lomond that is not supported by the information in the article.
 
 ###Corrected:

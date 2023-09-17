@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    james robarge , 45 , from saxtons river , vermont was sentenced in court on friday morning for second-degree murder in the death of his wife kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013 .
-her badly decomposed body , with her hands and head detached , was found 10 days later in unity .
-the couple 's daughter , ciera robarge , in court last month ) said her mom did not deserve this . 
-
-    Article: 
-    a husband convicted of beating his wife to death after she filed for divorce has been sentenced to 30 years to life in prison .
+<Article>
+a husband convicted of beating his wife to death after she filed for divorce has been sentenced to 30 years to life in prison .
 james robarge , 45 , from saxtons river , vermont was sentenced in court on friday morning for second-degree murder in the death of his wife kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013 .
 her badly decomposed body , with her hands and head detached , was found 10 days later in unity .
 the judge said he took into account the extent to which robarge went to conceal his wife 's killing and body , as well as the couple 's history of domestic violence .
@@ -39,26 +34,24 @@ uptegrove testified that kelly robarge told her she was heading to court to file
 he said : ` she seemed clear-headed , determined .
 she 'd made up her mind . '
 in testimony spanning two days , robarge showed no emotion as he repeatedly denied threatening or harming his wife and stared straight ahead when the verdict was announced .
-robarge claimed that he did n't know his wife had filed for divorce , but he acknowledged that just days before , he found a letter from her on their kitchen counter saying she wanted one . 
+robarge claimed that he did n't know his wife had filed for divorce , but he acknowledged that just days before , he found a letter from her on their kitchen counter saying she wanted one .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+james robarge , 45 , from saxtons river , vermont was sentenced in court on friday morning for second-degree murder in the death of his wife kelly robarge , 42 , who disappeared from her charlestown home on june 27 , 2013 .
+her badly decomposed body , with her hands and head detached , was found 10 days later in unity .
+the couple 's daughter , ciera robarge , in court last month ) said her mom did not deserve this .
+</Summary>
 
-Step 1: Identify the inconsistency
-The inconsistency is in the sentence "James Robarge was sentenced to 30 years to life in prison." This sentence is not present in the article.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there are several inconsistencies that can be identified:
 
-Step 2: Analyze the article
-The article states that James Robarge was sentenced to 30 years to life in prison for second-degree murder in the death of his wife, Kelly Robarge.
+1. Date of death: The article states that Kelly Roberge's body was found on June 27, 2013, while the summary only mentions her disappearance on that date without mentioning the discovery of her body.
+2. Cause of death: The article reports that the medical examiner could not pinpoint the cause of death or determine how her head and hands became detached, while the summary states that she died as the result of "homicidal violence."
+3. Location of discovery: The article states that her body was found off a logging road in Unity, while the summary does not mention the location of her discovery.
+4. Eyewitness testimony: The article mentions that a Unity man saw James Roberge, wearing latex gloves, crouched beside his disabled car on a turnaround in Unity the night Kelly disappeared, while the summary does not mention any eyewitness testimony.
+5. Sentencing: The article states that James Roberge was sentenced to 30 years to life in prison, while the summary only mentions his sentencing without providing any details.
 
-Step 3: Analyze the summary
-The summary states that James Robarge was sentenced to 30 years to life in prison for second-degree murder in the death of his wife, Kelly Robarge, who disappeared from her Charlestown home on June 27, 2013.
-
-Step 4: Identify the error
-The error in the summary is the inclusion of the sentence "James Robarge was sentenced to 30 years to life in prison." This sentence is not present in the article.
-
-Step 5: Explain the inconsistency
-The inconsistency is due to the fact that the summary includes a sentence that is not present in the article. The summary is not consistent with the article because it includes an extra sentence that was not actually present in the article.
-
-In conclusion, the summary is not consistent with the article because it includes an extra sentence that is not present in the article. The summary should be corrected to remove this extra sentence and only include the information that is present in the article.
+These inconsistencies suggest that the summary is not a consistent representation of the article's content. The summary omits several important details, misstates others, and does not accurately convey the content of the article.
 
 ###Corrected:

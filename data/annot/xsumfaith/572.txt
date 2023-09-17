@@ -1,26 +1,34 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    imax, the canadian maker of widescreen cinema theatres, is planning an initial public offering (ipo) of its china unit in hong kong. 
-
-    Article: 
-    The firm filed an application with the Hong Kong stock exchange on Thursday in a bid to boost growth in one of the world's fastest growing movie markets.
+<Article>
+The firm filed an application with the Hong Kong stock exchange on Thursday in a bid to boost growth in one of the world's fastest growing movie markets.
 Imax's China profits jumped nearly 30% last year, according to the filing.
 It has been rapidly expanding in the Greater China region, nearly doubling the number of theatres since 2012.
 March figures indicate Imax has 239 theatres in China, Hong Kong and Taiwan, but the company says it is planning to build another 219 theatres in China.
 News of the listing comes as box office revenue in the world's second largest economy jumped 36% last year to $4.9bn (Â£3.2bn), which is nearly three times more than it was 2010.
-The parent company is already listed in New York and its shares rose as much as 9% after the announcement. 
+The parent company is already listed in New York and its shares rose as much as 9% after the announcement.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+imax, the canadian maker of widescreen cinema theatres, is planning an initial public offering (ipo) of its china unit in hong kong.
+</Summary>
 
-1. The summary states that Imax is planning an initial public offering (IPO) of its China unit in Hong Kong.
-2. However, the article does not mention anything about an IPO. Instead, it states that the company has filed an application with the Hong Kong stock exchange and that it is planning to expand its operations in China.
-3. The article also mentions that the company's profits in China jumped nearly 30% last year and that it has been rapidly expanding in the Greater China region.
-4. Therefore, the summary is not consistent with the article because it only mentions an IPO, while the article focuses on the company's expansion plans and financial performance in China.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it only provides partial information about the company's plans and focuses on one specific aspect (the IPO) while ignoring other important details mentioned in the article.
+1. The article states that Imax filed an application with the Hong Kong stock exchange, indicating that the company is planning to list its China unit in Hong Kong.
+2. The summary states that Imax, the Canadian maker of widescreen cinema theatres, is planning an initial public offering (IPO) of its China unit in Hong Kong.
+3. The article does not mention anything about an IPO, only that the company filed an application to list its China unit in Hong Kong.
+4. The wording of the summary is not consistent with the information provided in the article. The summary states that Imax is planning an IPO, while the article states that the company is filing an application to list its China unit.
+5. Therefore, the summary is not consistent with the article, and it appears to be incorrect.
+
+Reasoning step by step:
+
+1. The article states that Imax filed an application with the Hong Kong stock exchange, indicating that the company is planning to list its China unit in Hong Kong.
+2. The summary states that Imax is planning an IPO of its China unit in Hong Kong.
+3. The article does not mention anything about an IPO.
+4. The wording of the summary is not consistent with the information provided in the article.
+5. Therefore, the summary is not consistent with the article, and it appears to be incorrect.
 
 ###Corrected:

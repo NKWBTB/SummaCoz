@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    at a time when ethiopians go to a new hospital in the capital, addis ababa, there\'s a few hundred, 000-a 
-
-    Article: 
-    But just north of the small market town of Korem, bright green fields and neatly terraced hillsides surround a vast lake, and in the brand new local hospital, the ward reserved for severely malnourished babies is all but empty.
+<Article>
+But just north of the small market town of Korem, bright green fields and neatly terraced hillsides surround a vast lake, and in the brand new local hospital, the ward reserved for severely malnourished babies is all but empty.
 Foreign aid is a notoriously difficult business - and much criticised.
 But if you're looking for results, then this vast climate-change challenged country, led by a hugely ambitious and severely authoritarian government, is worth a visit.
 In the first decade of this century, the number of Ethiopians living in poverty dropped by a third.
@@ -42,19 +39,20 @@ But the challenges ahead remain significant.
 Ethiopia's population is heading towards 100 million, with a quarter still living in extreme poverty.
 Sitting down in front of his simple wood and mud home, Mr Admassie said the cash payments had, at times, saved his family from starvation. But he questioned whether he would ever be able to manage without them.
 "I don't own any land. I rent my fields. I have to give half the crop to the owner as payment.
-"I can work hard now, but I worry about what will happen when I get older. I will have to go to the city to find work," he said. 
+"I can work hard now, but I worry about what will happen when I get older. I will have to go to the city to find work," he said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+at a time when ethiopians go to a new hospital in the capital, addis ababa, there\'s a few hundred, 000-a
+</Summary>
 
-1. The summary mentions "a few hundred thousand" people in Addis Ababa, but the article does not mention anything about the city's population.
-2. The summary states that the ward reserved for severely malnourished babies is empty, but the article states that there are many severely malnourished babies in the hospital.
-3. The summary mentions a new hospital in Addis Ababa, but the article does not mention any new hospitals.
-4. The summary states that foreign aid is a notoriously difficult business, but the article does not mention anything about foreign aid.
-5. The summary mentions that the number of Ethiopians living in poverty has dropped by a third, but the article does not mention any specific statistics about poverty reduction.
-6. The summary states that the hospital was built two years ago, but the article does not mention when the hospital was built.
-7. The summary mentions that the doctor and nurses are feeding an emaciated baby with fortified milk, but the article does not mention any specific examples of medical treatment.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. The article provides a more balanced and nuanced view of the situation in Ethiopia, highlighting both the country's economic growth and the challenges it faces in terms of poverty and human rights abuses.
+1. The summary states that Ethiopians go to a new hospital in the capital, Addis Ababa, but the article does not mention a new hospital. Instead, it talks about a brand new local hospital in the town of Korem, which is not the capital.
+2. The summary mentions a few hundred thousand people, but the article does not provide any information about the number of people affected by the development projects. In fact, the article focuses on the story of one family, Admassie Mekonen, and their experience with a British-funded program that provides them with a monthly wage during the six-month food gap season.
+3. The summary does not mention the challenges ahead for Ethiopia, such as the country's growing population and the fact that a quarter of the population still lives in extreme poverty. The article, on the other hand, highlights these challenges and notes that the country's economy has been growing at close to 10% a year for a decade, but the poverty rate has not changed significantly.
+
+Overall, the summary does not accurately reflect the content of the article. It exaggerates the scope and impact of the development projects and ignores the challenges facing the country.
 
 ###Corrected:

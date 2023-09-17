@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    interim england manager gareth southgate is the right man to take the job on a long-term basis, according to arsenal boss arsene wenger. 
-
-    Article: 
-    Wenger, whose club contract runs to the summer, has been linked with the job.
+<Article>
+Wenger, whose club contract runs to the summer, has been linked with the job.
 Southgate succeeded Sam Allardyce in September and oversaw England's 2-0 win against Malta as well the disappointing 0-0 draw with Slovenia on Tuesday.
 Wenger said Southgate "has accumulated experiences and is a good observer of what's going on in the national team."
 Of his own links to the role, the 66-year-old Frenchman added: "I focus on my job, that's what it is about."
@@ -18,17 +15,20 @@ The Arsenal right-back has been linked with a move, with both Barcelona and Manc
 "He has nearly three years to go and we always try get the players to the level where we think they deserve to be. So we try to extend, certainly, his contract," said Wenger.
 "For me, his long-term future is here."
 Wenger added that midfielder Aaron Ramsey, 25, will miss "one or two" more games, having injured a hamstring during Arsenal's opening-day Premier League defeat by Liverpool on 14 August.
-Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox. 
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+interim england manager gareth southgate is the right man to take the job on a long-term basis, according to arsenal boss arsene wenger.
+</Summary>
 
-1. The summary states that Arsene Wenger thinks Gareth Southgate is the right man to take the England job on a long-term basis. However, the article does not contain any quotes from Wenger expressing this opinion.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-2. The summary states that Wenger has been linked with the England job, but the article does not mention this. Instead, it states that Wenger has been linked with a move for Arsenal defender Hector Bellerin.
-
-3. The summary states that Southgate has a World Cup qualifier against Scotland and a friendly against Spain, but the article does not mention these fixtures.
-
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article. It is important for summaries to be accurate and consistent with the original text to maintain the integrity of the information.
+1. The summary states that Arsene Wenger believes Gareth Southgate is the right man to take the England job on a long-term basis.
+2. However, the article does not contain any quotes from Wenger expressing this opinion. In fact, the article states that Wenger "accumulated experiences" and is a "good observer" of the national team, but it does not mention his opinion on Southgate's suitability for the job.
+3. Therefore, the summary is not consistent with the article, as it attributes a specific opinion to Wenger that is not present in the article.
+4. The article does mention Wenger's thoughts on Southgate's experience and the demand for big names in football, but it does not expressly state his support for Southgate as the right man for the England job.
+5. Conclusion: The summary is not consistent with the article because it attributes an opinion to Wenger that is not present in the article. The article does not expressly state Wenger's support for Southgate as the right man for the England job.
 
 ###Corrected:

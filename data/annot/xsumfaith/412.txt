@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a dog that was shot in the leg by a dog in fife has been named as shot one-year-old. 
-
-    Article: 
-    The animal had been shot twice in the shoulder and once in its left back leg, which vets had to amputate.
+<Article>
+The animal had been shot twice in the shoulder and once in its left back leg, which vets had to amputate.
 The charity said the one-year-old cat was "incredibly lucky" to survive.
 Last year the Scottish government held a consultation on licensing air weapons, but a majority of responders opposed the plan.
 One-year-old Teenie was found injured by her owner Sarah Nisbett in NiddryView, Winchburgh, at about 16:30 on Friday 14 March and taken to the Scottish SPCA.
@@ -21,17 +18,19 @@ He added: "The new licensing regime should ensure that only those with a lawful 
 Last year the Scottish government launched a consultation on licensing air weapons, with a large majority of those who responded opposing the plan.
 Under the proposed scheme, anyone wanting to own an air gun would need to demonstrate they had a legitimate reason for doing so.
 A total of 87% of respondents rejected the idea - with some describing it as "draconian" and "heavy-handed". A small number of people felt ministers were not going far enough.
-The Scottish SPCA urged anyone with information about the incident to contact them. 
+The Scottish SPCA urged anyone with information about the incident to contact them.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistency in the summary and the article. Here's my reasoning step by step:
+<Summary>
+a dog that was shot in the leg by a dog in fife has been named as shot one-year-old.
+</Summary>
 
-1. The summary states that the dog was shot in the leg, whereas the article states that the animal was shot twice in the shoulder and once in its left back leg, which had to be amputated.
-2. The summary does not mention the word "dog" at all, while the article clearly states that the animal that was shot was a one-year-old cat named Teenie.
-3. The summary mentions that the cat was "incredibly lucky" to survive, but the article does not include this information.
-4. The summary mentions that the Scottish government held a consultation on licensing air weapons, but the article does not mention this.
-5. The summary states that the cat was found injured by her owner in NiddryView, Winchburgh, but the article does not mention the location where the cat was found.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary is missing important details and includes information that is not present in the article.
+1. The summary states that the animal that was shot was a dog, but the article clearly states that the animal was a one-year-old cat named Teenie. This is inconsistent and indicates that the summary is not accurate.
+2. The summary mentions that the animal was shot in the leg, but the article states that Teenie was shot twice in the shoulder and once in her left back leg, which had to be amputated. This is also inconsistent and indicates that the summary is not accurate.
+3. The summary does not provide any information about the Scottish government's consultation on licensing air weapons, which is a significant aspect of the article. This is another indication that the summary is not consistent with the article.
+
+Overall, the summary is not consistent with the article and contains inaccuracies. It is likely that the summary was not written based on the article, but rather on incomplete or inaccurate information.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    all photographs by steve smith. 
-
-    Article: 
-    Reporters Gavin Sherriff and Darryl Smith worked for the Dundee-based Sunday Post, which closes its London office on Friday.
+<Article>
+Reporters Gavin Sherriff and Darryl Smith worked for the Dundee-based Sunday Post, which closes its London office on Friday.
 For decades Fleet Street was synonymous with the nation's biggest newspapers.
 Ex-Sunday Express editor Robin Esser said it was once a "very, very important place" through which most of the public received its information.
 The first British daily newspaper, the Daily Courant, was published in Fleet Street on 11 March 1702.
@@ -43,17 +40,21 @@ By 1988, most national newspapers had moved away from Fleet Street to other part
 As a result, the buildings they left behind gradually morphed into other uses. The site of Mirror Group Newspapers now houses the headquarters of Sainsbury's supermarkets, for example, and the "Stab in the Back" is a Pizza Express.
 Now a part of Fleet Street's own story has come to an end, and this infamous era of British history has reached its final deadline.
 "As someone who always wanted to be a journalist, and with a keen sense of history as well, just looking at the buildings even now still excites me," says Mr Smith.
-"It makes me smile, when I think of how I now have that place in history." 
+"It makes me smile, when I think of how I now have that place in history."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+all photographs by steve smith.
+</Summary>
 
-1. The summary states that the article is about the last two journalists leaving Fleet Street, but the article does not mention anything about the last two journalists leaving. Instead, it talks about the decline of Fleet Street and the shift of newspapers to other parts of London.
-2. The summary mentions a feature writer named Steve Smith, but there is no mention of a feature writer by that name in the article.
-3. The summary states that the article is about the end of an era for Fleet Street, but the article does not have a nostalgic or farewell tone. Instead, it provides a factual account of the decline of Fleet Street and the changes in the newspaper industry.
-4. The summary mentions a London address being the same as Sweeney Todd's barber shop, but there is no mention of this in the article.
-5. The summary states that the article is about the departure of the last two journalists, but the article does not mention anyone leaving their job or the street being empty. Instead, it talks about the history of Fleet Street and the changes that have taken place over the years.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations, and it does not accurately reflect the tone or content of the article.
+1. The summary states "all photographs by steve smith," which is not supported by the article. The article does not mention any photographs or a photographer named Steve Smith.
+2. The article is a news piece about the closure of the London office of the Sunday Post and the decline of Fleet Street as a center of journalism. The summary does not provide any information about the article's content or themes.
+3. The summary is not consistent with the article because it does not provide any specific information about the article's content or themes. Instead, it only includes a statement that is not supported by the article.
+4. The article is written in a serious and professional tone, while the summary is written in a casual and informal tone. This inconsistency suggests that the summary is not a reliable representation of the article's content.
+5. The summary does not provide any context or background information about the article or its subject matter. This lack of context suggests that the summary was not carefully written or edited, and may not be a reliable representation of the article's content.
+
+Overall, the summary is not consistent with the article because it does not provide any specific information about the article's content or themes, and instead includes a statement that is not supported by the article. The summary's inconsistent tone and lack of context also suggest that it may not be a reliable representation of the article's content.
 
 ###Corrected:

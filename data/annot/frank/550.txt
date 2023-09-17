@@ -1,24 +1,33 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a single punch in the head of phillip UNK , 28 , was shot by a single punch in the head . he was reportedly in his yard on muller road with a single punch . UNK was reportedly in his yard on muller road and was in his yard . mr UNK said his client grabbed his neighbour by the hand and hit out . 
+<Article>
+An argument between two Brisbane neighbours over noise levels has ended in tragedy with one man dead and another charged with manslaughter. Leon Yeaman, 55, was allegedly killed by a single punch in the head from 28-year-old shift worker Phillip Pama, 28, during a row in front of their north Brisbane homes. Mr Yeaman was reportedly in his yard on Muller Road making a lot of noise at around 9pm Thursday night. Phillip Pama covered his face as he left Brisbane Magistrate Courts where he was granted conditional bail on Friday Pama, a married father of three, works a 3 am shift at a nearby warehouse and was sleeping at the time Mr Yeaman was making a commotion. Pama’s defence lawyer Bruce Peters said Mr Yeaman was known for getting drunk, playing loud music and yelling at ‘the world at large’. Pama then confronted Mr Yeaman and it was at that point the situation escalated. Mr Peters said his client grabbed his neighbour by the hand and hit out ‘blindly’. ‘He was being pushed at the same time he was throwing the punch,’ Mr Peters revealed during a bail application for Pama. ‘He didn't see it connect but he felt it connect.’ The father of three allegedly killed his 55-year-old neighbour with one punch after he refused to turn his music down Paramedics were unable to revive Mr Yeaman who was pronounced dead at the scene at around 11pm on Thursday night. Neighbours described Mr Yeaman as king and generous while his friend John Fisher told ABC Radio he was a schizophrenic pensioner who enjoyed playing loud music. Pama shielded his face from reporters outside Brisbane Magistrate Courts when he was granted bail on Friday. The Samoan man was ordered to surrender his passport, aherre to a curfew from 6pm to 2am and will have to report to the local police station twice a week. Pama, who has no history of violence, was reportedly ‘beside himself’ with grief. The case is due to return to court on May 18.
+</Article>
 
-    Article: 
-    An argument between two Brisbane neighbours over noise levels has ended in tragedy with one man dead and another charged with manslaughter. Leon Yeaman, 55, was allegedly killed by a single punch in the head from 28-year-old shift worker Phillip Pama, 28, during a row in front of their north Brisbane homes. Mr Yeaman was reportedly in his yard on Muller Road making a lot of noise at around 9pm Thursday night. Phillip Pama covered his face as he left Brisbane Magistrate Courts where he was granted conditional bail on Friday Pama, a married father of three, works a 3 am shift at a nearby warehouse and was sleeping at the time Mr Yeaman was making a commotion. Pama’s defence lawyer Bruce Peters said Mr Yeaman was known for getting drunk, playing loud music and yelling at ‘the world at large’. Pama then confronted Mr Yeaman and it was at that point the situation escalated. Mr Peters said his client grabbed his neighbour by the hand and hit out ‘blindly’. ‘He was being pushed at the same time he was throwing the punch,’ Mr Peters revealed during a bail application for Pama. ‘He didn't see it connect but he felt it connect.’ The father of three allegedly killed his 55-year-old neighbour with one punch after he refused to turn his music down Paramedics were unable to revive Mr Yeaman who was pronounced dead at the scene at around 11pm on Thursday night. Neighbours described Mr Yeaman as king and generous while his friend John Fisher told ABC Radio he was a schizophrenic pensioner who enjoyed playing loud music. Pama shielded his face from reporters outside Brisbane Magistrate Courts when he was granted bail on Friday. The Samoan man was ordered to surrender his passport, aherre to a curfew from 6pm to 2am and will have to report to the local police station twice a week. Pama, who has no history of violence, was reportedly ‘beside himself’ with grief. The case is due to return to court on May 18. 
+<Summary>
+a single punch in the head of phillip UNK , 28 , was shot by a single punch in the head . he was reportedly in his yard on muller road with a single punch . UNK was reportedly in his yard on muller road and was in his yard . mr UNK said his client grabbed his neighbour by the hand and hit out .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Phillip UNK was shot by a single punch in the head, while the article states that he was killed with one punch.
-2. The summary mentions that UNK was in his yard on Muller Road, but the article does not mention this.
-3. The summary states that Mr. UNK grabbed his neighbor by the hand and hit out blindly, but the article does not mention this.
-4. The summary does not mention that the victim, Leon Yeaman, was a 55-year-old man, while the article does.
-5. The summary does not mention that the accused, Phillip Pama, is a 28-year-old shift worker, while the article does.
-6. The summary does not mention that Pama has a history of working at a nearby warehouse, while the article does.
-7. The summary does not mention that Pama's defense lawyer, Bruce Peters, revealed that his client grabbed his neighbor by the hand and hit out blindly, while the article does.
+Based on the provided article and summary, there are several inconsistencies that can be identified:
 
-Overall, the summary is not consistent with the article because it omits several key details and includes some inaccuracies.
+1. Name inconsistency: In the article, the name of the accused is "Phillip Pama," but in the summary, it is referred to as "Phillip UNK."
+2. Age inconsistency: In the article, the age of the accused is given as 28, but in the summary, it is referred to as "28 years old."
+3. Location inconsistency: In the article, the location of the incident is given as "front of their north Brisbane homes," but in the summary, it is referred to as "in his yard on Muller Road."
+4. Cause of death inconsistency: In the article, the cause of death is given as "one punch in the head," but in the summary, it is referred to as "a single punch in the head."
+5. Grabbing inconsistency: In the article, the accused's lawyer states that his client "grabbed his neighbour by the hand and hit out," but in the summary, it is referred to as "his client grabbed his neighbour by the hand and hit out."
+6. Time inconsistency: In the article, the time of the incident is given as "Thursday night," but in the summary, it is referred to as "at around 11pm on Thursday night."
+
+These inconsistencies indicate that the summary is not a consistent representation of the article's content. Specifically, the summary:
+
+1. Omits the name of the accused, Phillip Pama.
+2. Incorrectly states the age of the accused as "28 years old" instead of 28.
+3. Mislocates the incident from the "front of their north Brisbane homes" to "in his yard on Muller Road."
+4. Incorrectly states the cause of death as "a single punch in the head" instead of "one punch in the head."
+5. Misrepresents the action of the accused's lawyer, stating that he "grabbed his neighbour by the hand and hit out" instead of "his client grabbed his neighbour by the hand and hit out."
+6. Incorrectly states the time of the incident as "at around
 
 ###Corrected:

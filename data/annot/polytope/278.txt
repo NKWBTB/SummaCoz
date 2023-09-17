@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two gunman shot her dead at point-blank range late friday .
-she is in a hospital but is expected to be released on time for her daughter 's funeral .
-no one has claimed responsibility for her shooting . 
-
-    Article: 
-    islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
+<Article>
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors .
 and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship .
 introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed .
 but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide .
@@ -47,21 +42,24 @@ her tightly coiffed short hair and angular glasses framed her bright-eyed featur
 missing was a head scarf .
 on a wall in t2f is a spray painted technicolor image of marilyn monroe from " the seven year itch , " her white dress replaced by a traditional outfit of mustard , ocher and green .
 but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image .
-the artistic expression sticks out and triggers passions , like many things mahmud said and did . 
+the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+two gunman shot her dead at point-blank range late friday .
+she is in a hospital but is expected to be released on time for her daughter 's funeral .
+no one has claimed responsibility for her shooting .
+</Summary>
 
-1. The summary states that Sabeen Mahmud was shot dead at point-blank range, while the article states that she was shot five times and died from her injuries.
-2. The summary mentions that Mahmud is expected to be released from the hospital on time for her daughter's funeral, while the article states that she is in the hospital and her condition is not specified.
-3. The summary does not mention the topic that Mahmud had just finished leading a discussion group on, which was the subject of her death, according to the article.
-4. The summary does not mention the allegations of mass abduction in Baluchistan, which was also mentioned in the article.
-5. The summary does not mention the shutdown of the discussion group by authorities, which was mentioned in the article.
-6. The summary does not mention the death threats that Mahmud had received in the past, which was mentioned in the article.
-7. The summary does not mention the graffiti outside the entrance of T2F, which was mentioned in the article.
-8. The summary does not mention the artist's drawing of Mahmud puttering off on a vespa scooter, which was mentioned in the article.
-9. The summary does not mention the spray-painted technicolor image of Marilyn Monroe on the wall in T2F, which was mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not include many of the details that are present in the article, and some of the details that are included are not accurate. Therefore, the summary is not consistent with the article.
+Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary only provides a brief overview of the event, while the article provides a detailed description of the incident and the person who was killed.
+2. The summary does not mention any of the specific details mentioned in the article, such as the fact that Sabeen Mahmud was a human rights activist, that she was killed by two gunmen, or that she had received death threats in the past.
+3. The summary does not convey the same level of emotion and significance as the article. The article portrays Mahmud as a brave and influential figure who was killed for her beliefs, while the summary barely mentions her name and does not provide any context or background information.
+4. The summary does not mention any of the artistic expressions or decorations that were mentioned in the article, such as the graffiti on the walls or the image of Marilyn Monroe.
+
+Overall, the summary does not provide a accurate or comprehensive overview of the article. It is clear that the summary was not written with the same level of detail or care as the article, and it does not convey the same level of emotion or significance.
 
 ###Corrected:

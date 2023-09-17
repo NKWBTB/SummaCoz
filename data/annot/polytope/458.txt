@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    louise redknapp says trouser can come as the wide leg trouser jean . 
- lou jeans will not go out of the leg trouser . 
- the trouser is a wide leg trouser . 
-
-    Article: 
-    a trend we are just starting to get our heads around is the wide leg trouser .
+<Article>
+a trend we are just starting to get our heads around is the wide leg trouser .
 be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
 there 's something effortless about a wide leg trouser that really appeals .
 and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
@@ -33,17 +28,22 @@ celine and stella mccartney kept it classy with a dressier-style pant , perfect 
 try new online label finery london for a similar style with a lower price tag .
 a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
 to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
-poppy delevingne channeled the trend at the aw15 chloe show in paris 
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+louise redknapp says trouser can come as the wide leg trouser jean . 
+ lou jeans will not go out of the leg trouser . 
+ the trouser is a wide leg trouser .
+</Summary>
 
-1. The summary states that Louise Redknapp says trouser can come as a wide leg trouser jean, but the article does not mention anything about a wide leg trouser jean. Instead, the article talks about a wide leg trouser trend for SS15.
-2. The summary mentions that the wide leg trouser will not go out of style, but the article states that the wide leg trouser is a current trend for SS15.
-3. The summary suggests that Louise Redknapp tried the trend seven years ago with a Stella McCartney flared jean, but the article does not mention anything about Louise Redknapp or her fashion choices.
-4. The summary advises to avoid being drowned by too much fabric, but the article does not mention anything about avoiding too much fabric. Instead, the article suggests that a high heel shoe with an exposed top of foot will elongate the leg and make the outfit look current and cool.
-5. The summary recommends pairing a wide-leg with a simple knit to keep the outfit in proportion, but the article does not mention anything about pairing the wide leg trouser with a specific type of top. Instead, the article suggests that denim is the easiest way to nail the trend.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it contains specific details that are not mentioned in the article, and it also provides advice that is not supported by the article.
+1. The summary states that Louise Redknapp says the wide leg trouser is a jean, but in the article, she is quoted as saying that the wide leg trouser is a welcome relief from the skinny jean.
+2. The summary states that the trouser is a wide leg trouser, but the article does not mention the word "trouser" at all. Instead, it refers to the wide leg trouser as a fashion trend.
+3. The summary does not accurately convey the main point of the article, which is that the wide leg trouser is a new fashion trend that is an alternative to the skinny jean. Instead, the summary focuses solely on Louise Redknapp's comments about the trend.
+
+Overall, the summary is not consistent with the article because it does not accurately convey the main point of the article and contains inaccuracies such as the reference to the trouser as a jean.
 
 ###Corrected:

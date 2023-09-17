@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
-sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2 . 
-
-    Article: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+<Article>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
 here , sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2
 wbc super-featherweight , wbc lightweight , wbc light-welterweight , ibf welterweight , wbc welterweight , wbc light-middleweight , wba light-middleweight
 $ 440 million ( £ 295m )
@@ -34,20 +30,23 @@ pacquiao also owns a basketball team and played several games in their debut sea
 pacquiao has been married to jinkeee for 15 years and has five children : michael , israel , emmanuel , princess and queen elizabeth
 pacquiao has been trained by freddie roach since 2009 .
 pacquiao is promoted by bob arum 's top rank company .
-actor mark wahlberg is a big fan of pacquiao . 
+actor mark wahlberg is a big fan of pacquiao .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2 .
+</Summary>
 
-1. The summary states that the fight between Floyd Mayweather and Manny Pacquiao is worth $300 million, while the article states that the fight is worth $440 million.
-2. The summary mentions that Mayweather does not earn any money from endorsements, but the article states that he has earned $5 million from endorsements with companies such as Nike and Nestle.
-3. The summary states that Mayweather has invested large sums of money in real estate, but the article does not mention this.
-4. The summary states that Pacquiao purchased a mansion in Beverly Hills, but the article does not mention this.
-5. The summary states that Pacquiao is a politician in the Philippines and has ambitions to become the country's president, but the article does not mention this.
-6. The summary mentions that Mayweather has been trained by his uncle Roger and his father Floyd SNr, but the article does not mention this.
-7. The summary states that Pacquiao has been trained by Freddie Roach since 2009, but the article does not mention this.
-8. The summary mentions that actor Mark Wahlberg is a big fan of Pacquiao, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the given summary is not consistent with the article:
 
-Overall, the summary contains several inaccuracies and omissions compared to the article. It is not a consistent summary of the article's content.
+1. The summary mentions "the two men's achievements, in and out of the ring, ahead of their $300m mega-fight on May 2." However, the article does not mention any achievements of the boxers outside of the ring. The article focuses solely on their achievements in the ring and their preparations for the upcoming fight.
+2. The summary states that the fight is for $300m, which is not consistent with the article. The article mentions that the fight is expected to generate $440 million (£295m) for Mayweather and $340 million (£228m) for Pacquiao.
+3. The summary does not mention Mayweather's business interests, investments in real estate, or his relationship with Doralie Medina. These details are present in the article.
+4. The summary does not mention Pacquiao's political career, ambitions to become the President of the Philippines, or his religious beliefs. These details are present in the article.
+5. The summary does not mention Pacquiao's basketball team or his marriage to Jinkeee, or his five children. These details are present in the article.
+
+Therefore, the summary is not consistent with the article as it only highlights the boxers' achievements in the ring and does not include any information about their personal lives or business ventures, which are significant aspects of the article.
 
 ###Corrected:

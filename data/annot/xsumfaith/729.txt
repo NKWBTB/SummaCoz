@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former police officer who shot an unarmed black teenager in the head has been indicted on a murder charge by a grand jury, prosecutors in the us state of texas say. 
-
-    Article: 
-    Roy Oliver, 37, fired a rifle into a car that was driving away from a party in the Dallas suburb of Balch Springs in April, killing Jordan Edwards, 15.
+<Article>
+Roy Oliver, 37, fired a rifle into a car that was driving away from a party in the Dallas suburb of Balch Springs in April, killing Jordan Edwards, 15.
 His lawyer has not commented. No date has been set for the trial.
 The policeman was sacked a few days later for policy violations.
 The death occurred when police responded to reports of underage drinking at a house party.
@@ -17,16 +14,25 @@ He was also charged with four counts of aggravated assault with a deadly weapon 
 The teenager was described by his coach as "a checklist of everything you would want in a player, a son, a teammate, a friend".
 Roy Oliver faces five to 99 years in prison on the murder charge, the Dallas Observer reports.
 If convicted, he would be the first police officer convicted of murder in Dallas county since 1973, the report adds. He is currently free on bail.
-Lee Merritt, a lawyer for the Edwards family, said on Twitter: "We remain cautious. A murder indictment for Roy Oliver is appropriate but the fact is it's been [more than] 40 years since a cop was convicted in [Texas]." 
+Lee Merritt, a lawyer for the Edwards family, said on Twitter: "We remain cautious. A murder indictment for Roy Oliver is appropriate but the fact is it's been [more than] 40 years since a cop was convicted in [Texas]."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a former police officer who shot an unarmed black teenager in the head has been indicted on a murder charge by a grand jury, prosecutors in the us state of texas say.
+</Summary>
 
-1. The summary states that the former police officer was indicted on a murder charge, but the article does not mention the word "murder." Instead, the article states that the officer was charged with four counts of aggravated assault with a deadly weapon by a public official.
-2. The summary mentions that the officer faces 5 to 99 years in prison, but the article does not provide any information about the potential sentence.
-3. The summary states that the officer was fired a few days later for policy violations, but the article does not mention this.
-4. The summary mentions that the teenager was described by his coach as "a checklist of everything you would want in a player, a son, a teammate, a friend," but this information is not in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the former police officer, Roy Oliver, was indicted on a murder charge by a grand jury.
+2. The article states that Oliver was fired a few days after the incident for policy violations, but does not mention a grand jury indictment.
+3. The article does state that Oliver was charged with murder, but the charge was brought by the district attorney, not a grand jury.
+4. Therefore, the summary is not consistent with the article because it mentions a grand jury indictment, which is not mentioned in the article.
+
+Reasoning step by step:
+
+1. The summary states that Oliver was indicted on a murder charge by a grand jury.
+2. The article does not mention a grand jury indictment.
+3. The article states that Oliver was charged with murder, but the charge was brought by the district attorney, not a grand jury.
+4. Therefore, the summary is not consistent with the article because it mentions a grand jury indictment, which is not mentioned in the article.
 
 ###Corrected:

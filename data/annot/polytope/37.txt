@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    eugene in the united states has been awarded the rights to host the 2021 iaaf world championships 
-qatar captial doha , home to the aspire dome , beat eugene to host the 2019 event 
-` in granting the championships to eugene the iaaf council have made a clear choice on a strategic decision that enables us to take advantage of a unique opportunity that may never arise again , whereby public authorities , the private sector , the national olympic committee , nbc and a particularly enthusiastic public are joining forces , ' iaaf president lamine diack said in a 
-
-    Article: 
-    the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .
+<Article>
+the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .
 the decision was taken by the international association of athletics federations council , who decided to bypass the usual bidding process because of what it saw as a ` unique strategic opportunity to host the iaaf world championships for the first time in the usa ' .
 eugene failed last november in its bid to host the 2019 event , which was instead awarded to doha , but a recent presentation to the iaaf persuaded the governing body the city has what it takes to stage a world championships .
 eugene in the united states has been awarded the rights to host the 2021 iaaf world championships
@@ -16,16 +11,30 @@ qatar captial doha , home to the aspire dome , beat eugene to host the 2019 even
 ` in granting the championships to eugene the iaaf council have made a clear choice on a strategic decision that enables us to take advantage of a unique opportunity that may never arise again , whereby public authorities , the private sector , the national olympic committee , nbc and a particularly enthusiastic public are joining forces , ' iaaf president lamine diack said in a statement .
 ` although this decision departs from the usual procedure , i am delighted that my council colleagues understood the enormous opportunity presented to us to access a key market and have taken a decision in the interest of the global development of our sport . '
 the 2007 world championships held in osaka , japan was also awarded without a bidding process .
-mo farah won gold in the men 's 10000 metres during the 2019 iaaf world athletics championships in moscow 
+mo farah won gold in the men 's 10000 metres during the 2019 iaaf world athletics championships in moscow
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+eugene in the united states has been awarded the rights to host the 2021 iaaf world championships 
+qatar captial doha , home to the aspire dome , beat eugene to host the 2019 event 
+` in granting the championships to eugene the iaaf council have made a clear choice on a strategic decision that enables us to take advantage of a unique opportunity that may never arise again , whereby public authorities , the private sector , the national olympic committee , nbc and a particularly enthusiastic public are joining forces , ' iaaf president lamine diack said in a
+</Summary>
 
-1. The summary states that Eugene was awarded the rights to host the 2021 IAAF World Championships, but the article states that the IAAF Council decided to bypass the usual bidding process and awarded the event to Eugene without a bidding process.
-2. The summary mentions that Qatar Capital Doha beat Eugene to host the 2019 event, but the article does not mention any bidding process or awarding of the 2019 event to Doha.
-3. The summary quotes IAAF President Lamine Diack as saying that the council made a clear choice on a strategic decision that enables them to take advantage of a unique opportunity that may never arise again, but the article does not contain this quote.
-4. The summary mentions that the 2007 World Championships held in Osaka, Japan was also awarded without a bidding process, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Therefore, the summary is not consistent with the article as it contains information that is not present in the article and omits information that is present in the article.
+1. The article states that Eugene in the United States has been awarded the rights to host the 2021 IAAF World Championships.
+
+2. However, the summary states that Qatar capital Doha, home to the Aspire Dome, beat Eugene to host the 2019 event.
+
+3. The article does not mention anything about Doha hosting the 2019 event. Instead, it states that Doha was awarded the 2019 event, but Eugene failed in its bid to host that event.
+
+4. Therefore, the summary is not consistent with the article because it mentions Doha hosting the 2019 event, which is not supported by the article.
+
+5. The article explains that the IAAF Council decided to bypass the usual bidding process for the 2021 championships because of a "unique strategic opportunity" to host the event in the USA for the first time.
+
+6. The summary does not mention this reason for bypassing the bidding process, which is a significant detail that is supported by the article.
+
+7. Overall, the summary is not consistent with the article because it contains inaccurate information about the hosting of the 2019 event and does not include a key detail about the reason for bypassing the bidding process.
 
 ###Corrected:

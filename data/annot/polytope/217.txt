@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
-manchester united have made an official approach for memphis depay ( right ) , says psv 's technical director
-united boss louis van gaal ( right ) is keen to make the winger of his first signings this summer 
-
-    Article: 
-    manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
+<Article>
+manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
 the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
 van gaal is already familiar with the qualities of depay having named him in his 23-man world cup squad last year as holland finished third in brazil .
 video scroll down to see depay 's stunning free kick against heerenveen
@@ -54,20 +49,27 @@ international star and world cup goalscorer
 depay was handed his first oranje call-up by louis van gaal in 2013 and was selected for holland 's world cup squad a year later .
 the energetic frontman scored the winning goal in holland 's 3-2 victory over australia , before coming off the bench to net against chile and help van gaal 's men seal top spot in group b.
 having impressed in brazil , depay was nominated for the tournament 's ` best young player ' award but lost out to france midfielder paul pogba .
-click here to read sportsmail 's full background article about memphis depay . 
+click here to read sportsmail 's full background article about memphis depay .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
+manchester united have made an official approach for memphis depay ( right ) , says psv 's technical director
+united boss louis van gaal ( right ) is keen to make the winger of his first signings this summer
+</Summary>
 
-1. The summary states that Manchester United have made an official approach for Memphis Depay, while the article states that the Red Devils have ramped up their efforts to sign the player.
-2. The summary mentions that Louis van Gaal is keen to make Depay one of his first signings this summer, while the article states that the Dutch giants have confirmed that the Red Devils have made a move over the Holland international.
-3. The summary states that the article is about Manchester United's approach for Depay, while the article is actually about PSV Eindhoven's confirmation of the Red Devils' move for the player.
-4. The summary mentions that Depay is worth more than the £15 million that Tottenham offered last summer, while the article does not mention this information.
-5. The summary states that Depay is enjoying a prolific season at the Philips stadium, while the article does not mention this information.
-6. The summary mentions that the 21-year-old winger has scored 20 goals in 26 league games this season, while the article does not mention this information.
-7. The summary states that Depay has been tipped to become as good as Dutch star Arjen Robben, while the article does not mention this information.
-8. The summary mentions that former Holland midfielder Phillip Cocu said that Depay is only 21 years old and that real conclusions can only be drawn in a few years, while the article does not mention this information.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+The given summary is not consistent with the article because:
+
+Step 1: The summary mentions that Manchester United have made an official approach for Memphis Depay, but the article does not mention this. Instead, the article states that PSV Eindhoven have confirmed that Manchester United have made a move for Depay, but does not use the phrase "official approach."
+
+Step 2: The summary states that Louis van Gaal is keen to make Depay one of his first signings this summer, but the article does not mention this. Instead, the article states that van Gaal is familiar with Depay's qualities and named him in his World Cup squad, but does not mention any plans to sign him.
+
+Step 3: The summary mentions that Tottenham were keen on signing Depay last summer, but the article does not mention this. Instead, the article states that Paris-Saint Germain and another big European club are also interested in signing Depay, but does not mention Tottenham.
+
+Step 4: The summary states that Depay is worth more than the £15 million that Tottenham offered last summer, but the article does not mention this. Instead, the article states that Depay has scored 20 goals in 26 league games this season and that PSV Eindhoven are seeking bigger amounts of money for him this time around.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
 
 ###Corrected:

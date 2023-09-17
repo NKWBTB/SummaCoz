@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ai weiwei, the founder of ai giant ai weiwei, has launched a $ 1m (Â # venture) research project. 
-
-    Article: 
-    The venture's backers include Tesla Motors and SpaceX CEO Elon Musk, Paypal co-founder Peter Thiel, Indian tech giant Infosys and Amazon Web Services.
+<Article>
+The venture's backers include Tesla Motors and SpaceX CEO Elon Musk, Paypal co-founder Peter Thiel, Indian tech giant Infosys and Amazon Web Services.
 Open AI says it expects its research - free from financial obligations - to focus on a "positive human impact".
 Scientists have warned that advances in AI could ultimately threaten humanity.
 Mr Musk recently told students at the Massachusetts Institute of Technology (MIT) that AI was humanity's "biggest existential threat".
@@ -15,27 +12,20 @@ However, other experts have argued that the risk of AI posing any threat to huma
 A statement on OpenAI's website said the venture aims "to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return".
 "It's hard to fathom how much human-level AI could benefit society, and it's equally hard to imagine how much it could damage society if built or used incorrectly."
 The statement said AI "should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as is possible safely".
-It said only a tiny fraction of the $1bn pledged would be spent in the next few years. 
+It said only a tiny fraction of the $1bn pledged would be spent in the next few years.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's my step-by-step reasoning for why the given summary is not consistent with the article:
+<Summary>
+ai weiwei, the founder of ai giant ai weiwei, has launched a $ 1m (Â # venture) research project.
+</Summary>
 
-Step 1: Identify the main points of the summary
+Explain your reasoning step by step:[/INST]
 
-The summary states that Ai Weiwei, the founder of AI giant AI Weiwei, has launched a $1m research project.
+1. The summary states that "ai weiwei, the founder of ai giant ai weiwei, has launched a $1m research project." This statement is not consistent with the article, as there is no mention of an individual named "ai weiwei" or an "ai giant" in the article.
+2. The article mentions that OpenAI, a venture backed by Elon Musk and other tech companies, has pledged $1 billion for AI research. The summary does not mention OpenAI or any of the other companies mentioned in the article.
+3. The summary mentions a $1 million research project, which is a much smaller amount than the $1 billion pledged by OpenAI.
+4. The article states that OpenAI's research will be "free from financial obligations" and will focus on having a "positive human impact." The summary does not mention any of these goals or objectives.
 
-Step 2: Identify the main points of the article
-
-The article states that the venture's backers include Elon Musk, Peter Thiel, Infosys, and Amazon Web Services. The venture aims to advance digital intelligence in a way that benefits humanity, without the need for financial return. The article also mentions that scientists have warned that advances in AI could threaten humanity, but other experts have argued that the risk remains remote.
-
-Step 3: Identify the inconsistencies
-
-The inconsistency is that the summary mentions Ai Weiwei as the founder of the AI giant, while the article does not mention any specific founder. Additionally, the summary mentions a $1m research project, while the article does not mention any specific funding amount.
-
-Step 4: Analyze the reasons for the inconsistencies
-
-It is likely that the summary was written based on incomplete or inaccurate information, as there is no mention of Ai Weiwei as the founder of the venture in the article. Additionally, the funding amount mentioned in the summary is not consistent with the article, which states that only a tiny fraction of $1bn will be spent in the next few years.
-
-In conclusion, the given summary is not consistent with the article, as it contains inaccuracies and inconsistencies. It is important to carefully read and analyze the information provided in both the summary and the article to ensure accuracy and consistency.
+Overall, the summary is not consistent with the article because it does not accurately describe the OpenAI venture or its goals, and it mentions a much smaller amount of funding than the $1 billion pledged by OpenAI.
 
 ###Corrected:

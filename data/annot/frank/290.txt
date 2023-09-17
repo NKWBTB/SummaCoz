@@ -1,21 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    hungary\'s president michel szijjarto has warned that hungary could refrain from making attempts to withdraw three laws for asylum seekers. 
+<Article>
+He told Reuters that the EU should not interfere with "domestic issues".He said he had already won backing from Poland that it would veto any move to strip Hungary of its EU voting rights.The EU objects to Hungary's tight controls on asylum seekers and non-governmental organisations (NGOs), as well as a higher education law.Critics say the education law could lead to the closure of the prestigious Central European University, founded by philanthropist George Soros.Thousands of Hungarians have held protest rallies against the laws in recent months.Asked by Reuters on Monday whether Hungary would backtrack on any of the three issues, Mr Szijjarto answered: "No. Why should we?"These laws belong to national competence, so I think European institutions should refrain from making attempts at interfering with domestic issues."The minister added that "my Polish colleague" had made it very clear that Warsaw would veto any EU sanctions against Hungary.EU rules envisage that such decisions as stripping a member country of its voting rights should be approved unanimously.Hungary's right-wing Fidesz government of Prime Minister Viktor Orban is under sustained pressure from European institutions to withdraw the three laws, two of which have already been passed, the BBC's Nick Thorpe in Budapest reports.Hungary is currently forcibly housing asylum seekers in secured shipping containers, raising serious questions whether it is compatible with EU law.Hungary's Higher Education Law, signed in April, could force the closure of the Budapest-based CEU, which ranks among the top 200 universities in the world in eight disciplines.Meanwhile, draft legislation on NGOs is expected to go before parliament soon.Human rights groups say it would stigmatise them as "foreign-backed" organisations.Last month, the deputy head of the bloc's executive Commission, Frans Timmermans, warned action would be taken in coming weeks if there were no positive developments.Hungary passes bill targeting Central European UniversityHungarian attack on George Soros prompts NGO angerThe university built to defend democracy
+</Article>
 
-    Article: 
-    He told Reuters that the EU should not interfere with "domestic issues".He said he had already won backing from Poland that it would veto any move to strip Hungary of its EU voting rights.The EU objects to Hungary's tight controls on asylum seekers and non-governmental organisations (NGOs), as well as a higher education law.Critics say the education law could lead to the closure of the prestigious Central European University, founded by philanthropist George Soros.Thousands of Hungarians have held protest rallies against the laws in recent months.Asked by Reuters on Monday whether Hungary would backtrack on any of the three issues, Mr Szijjarto answered: "No. Why should we?"These laws belong to national competence, so I think European institutions should refrain from making attempts at interfering with domestic issues."The minister added that "my Polish colleague" had made it very clear that Warsaw would veto any EU sanctions against Hungary.EU rules envisage that such decisions as stripping a member country of its voting rights should be approved unanimously.Hungary's right-wing Fidesz government of Prime Minister Viktor Orban is under sustained pressure from European institutions to withdraw the three laws, two of which have already been passed, the BBC's Nick Thorpe in Budapest reports.Hungary is currently forcibly housing asylum seekers in secured shipping containers, raising serious questions whether it is compatible with EU law.Hungary's Higher Education Law, signed in April, could force the closure of the Budapest-based CEU, which ranks among the top 200 universities in the world in eight disciplines.Meanwhile, draft legislation on NGOs is expected to go before parliament soon.Human rights groups say it would stigmatise them as "foreign-backed" organisations.Last month, the deputy head of the bloc's executive Commission, Frans Timmermans, warned action would be taken in coming weeks if there were no positive developments.Hungary passes bill targeting Central European UniversityHungarian attack on George Soros prompts NGO angerThe university built to defend democracy 
+<Summary>
+hungary\'s president michel szijjarto has warned that hungary could refrain from making attempts to withdraw three laws for asylum seekers.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, the summary is not consistent with the content because:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Hungary's president warned that Hungary could refrain from making attempts to withdraw three laws for asylum seekers, but the article states that Hungary's government is under pressure from European institutions to withdraw the three laws.
-2. The summary does not mention the EU's objections to Hungary's tight controls on asylum seekers and NGOs, as well as the higher education law, which are the main reasons for the EU's pressure on Hungary.
-3. The summary does not mention the criticism of the education law, which could lead to the closure of the Central European University, and the protests against the laws in recent months.
-4. The summary states that Hungary's president said that European institutions should refrain from making attempts at interfering with domestic issues, but the article states that the EU objects to Hungary's domestic policies and is under pressure to take action.
+1. The summary states that Hungary's president, Michel Szijjarto, has warned that Hungary could refrain from withdrawing three laws related to asylum seekers.
+2. However, the article states that Hungary's right-wing Fidesz government is under sustained pressure from European institutions to withdraw these laws, and that the government has already passed two of the laws.
+3. The article also mentions that the EU objects to Hungary's tight controls on asylum seekers and NGOs, and that the government's actions have raised serious questions about compatibility with EU law.
+4. Therefore, it is inconsistent for Hungary's president to warn about refraining from withdrawing the laws when the government has already passed two of them and is facing pressure from the EU to withdraw them.
+5. Additionally, the summary does not mention the EU's objections to the laws or the government's actions, which is a significant aspect of the article.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article, specifically the EU's pressure on Hungary to withdraw the three laws and the criticism of Hungary's domestic policies.
+Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article and omits important information.
 
 ###Corrected:

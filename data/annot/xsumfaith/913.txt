@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a police officer has been shot in the head of the capital of the month of kenya\'s parliament, police say. 
-
-    Article: 
-    Mr Ruto and his family were not at the compound near the western city of Eldoret at the time.
+<Article>
+Mr Ruto and his family were not at the compound near the western city of Eldoret at the time.
 Specialist troops had been deployed to deal with the intruder, who was hiding in a partially-constructed building, police said.
 Earlier reports suggested a number of gunmen had entered Mr Ruto's home.
 "In circumstances that are yet unclear, he hit an officer on duty with a machete and managed to enter the farm complex," National Police Inspector General Joseph Boinnet said in a statement.
@@ -15,29 +12,20 @@ The incident comes 10 days before Kenya holds presidential, legislative and regi
 The deputy president had left hours earlier for a campaign rally in the town of Kitale, where he joined President Uhuru Kenyatta.
 Mr Kenyatta is seeking re-election next month.
 While Kenya's 2013 elections passed relatively peacefully, there was serious post-election violence following the 2007 polls, which left more than 1,000 people dead and 600,000 displaced from their homes.
-However, experts say they do not expect to see the same level of conflict following the 8 August vote. 
+However, experts say they do not expect to see the same level of conflict following the 8 August vote.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my step-by-step reasoning for why the given summary is not consistent with the article:
+<Summary>
+a police officer has been shot in the head of the capital of the month of kenya\'s parliament, police say.
+</Summary>
 
-Step 1: Identify the main points of the summary
-The main points of the summary are:
+Explain your reasoning step by step:[/INST]
 
-* A police officer was shot in the head in the capital of Kenya's parliament.
-* The intruder was hiding in a partially-constructed building.
-* The deputy president was not at the compound near the western city of Eldoret at the time of the incident.
+1. The article states that the incident occurred near the western city of Eldoret, while the summary states that the incident occurred in the capital of Kenya's parliament. This is inconsistent, as Eldoret is not the capital of Kenya's parliament.
+2. The article mentions that the deputy president was not at the compound near Eldoret at the time of the incident, while the summary states that the incident occurred in the capital of Kenya's parliament. This is inconsistent, as the deputy president was not in the capital of Kenya's parliament.
+3. The article states that specialist troops were deployed to deal with the intruder, while the summary does not mention this detail. This is inconsistent, as the summary does not provide all the information included in the article.
+4. The article mentions that the incident occurred 10 days before Kenya holds presidential, legislative and regional elections, while the summary does not mention this detail. This is inconsistent, as the summary does not provide all the information included in the article.
 
-Step 2: Identify the main points of the article
-The main points of the article are:
-
-* Mr Ruto and his family were not at the compound near the western city of Eldoret at the time.
-* Specialist troops had been deployed to deal with the intruder, who was hiding in a partially-constructed building.
-* Earlier reports suggested a number of gunmen had entered Mr Ruto's home.
-* The incident comes 10 days before Kenya holds presidential, legislative and regional elections.
-
-Step 3: Identify the inconsistencies
-The summary mentions that a police officer was shot in the head in the capital of Kenya's parliament, but the article does not mention anything about a police officer being shot or killed. Instead, the article focuses on the intruder who was hiding in a partially-constructed building and the deployment of specialist troops to deal with the situation.
-
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the shooting of a police officer). This indicates that the summary may be inaccurate or incomplete.
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits important details.
 
 ###Corrected:

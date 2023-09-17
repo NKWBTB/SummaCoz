@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former us professional football player whose career was cut short by disciplinary problems has been found dead inside his california prison cell. 
-
-    Article: 
-    Officials believe Lawrence Phillips, 40, killed himself early on Wednesday.
+<Article>
+Officials believe Lawrence Phillips, 40, killed himself early on Wednesday.
 In the 1990s, he was a star player at the University of Nebraska, making him a sought-after rookie in the NFL.
 Phillips played for the St Louis Rams, Miami Dolphins and San Francisco 49ers until 1999, but he was plagued by trouble on and off the field.
 After his NFL career, Phillips continued to have problems with the law.
@@ -16,16 +13,19 @@ Phillips, who was serving a term of more than 30 years, had been placed in a cel
 On Tuesday, a judge found that there was enough evidence to try Phillips in the death of Damion Soward, 37.
 It is unclear how he took his own life.
 "He was an intelligent person and had some good qualities," Tom Osborne, his coach at Nebraska, told the Associated Press news agency.
-"Yet he had some anger issues and couldn't overcome the demons in his life.'' 
+"Yet he had some anger issues and couldn't overcome the demons in his life.''
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a former us professional football player whose career was cut short by disciplinary problems has been found dead inside his california prison cell.
+</Summary>
 
-1. The summary states that the former football player's career was cut short by disciplinary problems, but the article does not mention anything about his career being cut short. Instead, it focuses on his legal troubles and eventual death in prison.
-2. The summary mentions that the player was found dead in his California prison cell, but the article does not confirm this. Instead, it states that officials believe he killed himself, but it is unclear how he took his own life.
-3. The summary does not mention the player's legal troubles or his convictions for assault, which are prominent details in the article.
-4. The summary does not mention the player's death being related to the death of his cellmate, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately convey the details of the player's life and death. The article provides more information about the player's legal troubles and the circumstances of his death, which are not included in the summary.
+1. The summary states that the former football player's career was cut short by disciplinary problems. However, the article states that Phillips played for several NFL teams until 1999 and was later convicted of assault. This suggests that his career was not cut short by disciplinary problems, but rather by his own actions and legal issues.
+2. The summary does not mention anything about Phillips being in prison or the circumstances of his death. The article, on the other hand, states that Phillips was found dead in his prison cell and that he had been accused of killing his former cellmate. This information is not present in the summary, indicating that it is not consistent with the article.
+3. The summary uses the phrase "a former us professional football player," which suggests that the writer is referring to a specific person who played in the NFL. However, the article does not use this phrase and instead refers to Phillips by name, indicating that the summary is not consistent with the article's language and style.
+
+Therefore, based on these three points, it can be concluded that the summary is not consistent with the article. The summary does not accurately reflect the information presented in the article and contains several inaccuracies and omissions.
 
 ###Corrected:

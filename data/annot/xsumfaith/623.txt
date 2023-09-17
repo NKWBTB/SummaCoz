@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a hotel and apartment complex in dorset has been approved despite english heritage stating it would be a ``hammer-blow\'\'to the area. 
-
-    Article: 
-    Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
+<Article>
+Three Victorian hotels will go to make way for a six-storey, four star hotel and two assisted-living apartment blocks, at East Cliff in Bournemouth.
 English Heritage strongly objected to the scale of the development in what is a designated conservation area.
 But, councillors voted seven to three in favour saying it would help tourism.
 Chair of the planning board and Conservative ward councillor David Kelsey, said the buildings earmarked for demolition were nice but no longer "necessarily functional".
@@ -16,17 +13,21 @@ The site on Grove Road and East Overcliff Drive will get a 90-room hotel along w
 Applicants The East Cliff Project LLP will demolish Bay View Court, The Cottonwood and the Ocean View hotels.
 The council received 246 letters supporting the plans.
 Forty-nine residents and the Ancient Monuments Society wrote to object to the demolition, stating that despite being altered, they still "give a sense of the historic character of the area".
-English Heritage said the scale of the development would cause "severe harm" to the conservation area. 
+English Heritage said the scale of the development would cause "severe harm" to the conservation area.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a hotel and apartment complex in dorset has been approved despite english heritage stating it would be a ``hammer-blow\'\'to the area.
+</Summary>
 
-1. The summary states that the development was approved despite English Heritage stating it would be a "hammer-blow" to the area. However, the article does not mention anything about English Heritage opposing the development. Instead, it states that English Heritage strongly objected to the scale of the development.
-2. The summary mentions that the development will include a six-storey, four-star hotel and two assisted-living apartment blocks. However, the article does not mention the height of the hotel or the number of stars. It only mentions that the development will include three Victorian hotels being demolished to make way for a new hotel and apartment blocks.
-3. The summary states that councillors voted in favor of the development saying it would help tourism. However, the article does not mention anything about tourism being a factor in the decision. Instead, it states that the councillors voted in favor of the development because the buildings earmarked for demolition were no longer "necessarily functional".
-4. The summary mentions that the site will get a 90-room hotel, but the article does not mention the number of rooms. It only mentions that the development will include a new hotel and apartment blocks.
-5. The summary states that English Heritage said the scale of the development would cause "severe harm" to the conservation area. However, the article does not mention English Heritage's opinion on the scale of the development. Instead, it states that English Heritage strongly objected to the scale of the development.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary contains inaccuracies and exaggerations, such as the height of the hotel, the number of stars, and the reason for the councillors' decision. Additionally, the summary misrepresents English Heritage's opinion on the development, stating that they opposed the development when in fact they only objected to the scale of the development.
+1. The summary states that the development in Dorset was approved despite English Heritage stating it would be a "hammer-blow" to the area.
+2. However, the article states that English Heritage objected to the scale of the development, not the development itself.
+3. The article also states that the council voted in favor of the development, citing the need to improve living conditions for older people and boost tourism.
+4. The summary does not mention the council's reasoning for approving the development, nor does it mention the objections raised by English Heritage.
+5. Therefore, the summary is not consistent with the article because it does not accurately convey the reasons for the development's approval and the objections raised by English Heritage.
+
+In conclusion, the summary is not consistent with the article because it misrepresents the reasons for the development's approval and does not accurately convey the objections raised by English Heritage.
 
 ###Corrected:

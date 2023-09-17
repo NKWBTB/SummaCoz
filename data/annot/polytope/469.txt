@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack grealish takes to aston villa for first premier league start on tuesday night . 
- ireland under 21 international says he is n't about to change . 
- the aston villa teenager says he will carry on that way . 
-
-    Article: 
-    jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
+<Article>
+jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
 the aston villa teenager is renowned for keeping his stockings just above the roll of his shinpads .
 and grealish says , due to superstition , that he 'll carry on that way after making his first premier league start on tuesday night .
 jack grealish is renowned for wearing his socks low when he takes to the field for aston villa
@@ -21,16 +16,23 @@ his first league start for the club came in the pulsating 3-3 draw against qpr o
 grealish was pleased to have finally made his first premier league start for villa against qpr
 ` it was a bit of a tough game to get my first start , in a big relegation scrap , but i 'm pleased even if i 'm not happy about how the game ended up , ' he added .
 ` i try and see it as any other football match but it 's nice that the gaffer has got that faith in me and hopefully i can try to get a few more starts before the end of the season .
-` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . ' 
+` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jack grealish takes to aston villa for first premier league start on tuesday night . 
+ ireland under 21 international says he is n't about to change . 
+ the aston villa teenager says he will carry on that way .
+</Summary>
 
-1. The summary states that Jack Grealish will "carry on that way" with wearing his socks high, but the article states that he wears children's shinpads and has been told by referees to pull his socks up.
-2. The summary does not mention Grealish's superstition about wearing his socks high, which is mentioned in the article.
-3. The summary states that Grealish is "renowned for wearing his socks low" when he takes the field, but the article states that he wears children's shinpads, which are not visible when he is on the field.
-4. The summary does not mention Grealish's statement about not changing his way of wearing socks, which is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It does not mention some of the key details mentioned in the article, and it misrepresents other details.
+1. The summary states that Jack Grealish takes to Aston Villa for his first Premier League start on Tuesday night.
+2. However, the article states that Grealish made his first Premier League start for the club in the pulsating 3-3 draw against QPR on Tuesday night.
+3. The summary does not mention anything about Grealish's unique sock-wearing style, while the article highlights it as a distinct feature of his playing style.
+4. The summary does not mention Grealish's superstition about wearing his socks above his shinpads, which is a significant detail mentioned in the article.
+5. The summary does not provide any specific quotes from Grealish, while the article includes several quotes from the player.
+
+Therefore, the summary is not consistent with the article because it does not provide accurate information about Jack Grealish's first Premier League start for Aston Villa, and it omits important details about his unique sock-wearing style and superstition.
 
 ###Corrected:

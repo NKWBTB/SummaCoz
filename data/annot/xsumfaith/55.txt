@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    grand national winner many clouds died after suffering a haemorrhage during the race on saturday. 
-
-    Article: 
-    The 10-year-old Irish-bred horse collapsed after narrowly beating Thistlecrack to win the Cotswold Chase at Cheltenham's Festival Trials Day.
+<Article>
+The 10-year-old Irish-bred horse collapsed after narrowly beating Thistlecrack to win the Cotswold Chase at Cheltenham's Festival Trials Day.
 He was treated by veterinary staff before being pronounced dead.
 The British Horseracing Authority confirmed the horse suffered from a "severe pulmonary haemorrhage".
 Tony Welsh, acting chief veterinary officer for the BHA, said: "Episodes such as this are rare, and can occur in horses which have no underlying health issues, and amongst all disciplines of sport horses.
@@ -18,27 +15,22 @@ Trainer Oliver Sherwood described him as the "horse of a lifetime".
 BBC horse racing correspondent Cornelius Lysaght
 The crucial words here are "no significant underlying health issues".
 On more than one occasion, notably after his Grand National success, Many Clouds received treatment for a tendency to 'overheat', but he soon recovered, and his welfare was closely monitored by the authorities as a result.
-With that fact in mind, questions have been raised as to whether that condition was linked to his death, but this report concludes he was the victim of a haemorrhage rarely seen on the racetrack. 
+With that fact in mind, questions have been raised as to whether that condition was linked to his death, but this report concludes he was the victim of a haemorrhage rarely seen on the racetrack.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+grand national winner many clouds died after suffering a haemorrhage during the race on saturday.
+</Summary>
 
-1. The summary states that the grand national winner Many Clouds died after suffering a haemorrhage during the race on Saturday.
+Explain your reasoning step by step:[/INST]
 
-2. However, the article does not mention anything about Many Clouds dying during the race. Instead, it states that the horse collapsed after narrowly beating Thistlecrack to win the Cotswold Chase.
-
-3. The article also mentions that Many Clouds had shown symptoms of post-race ataxia in the past, but had never collapsed before.
-
-4. The summary's statement that Many Clouds died after suffering a haemorrhage is therefore not consistent with the article.
-
-5. The article explains that Many Clouds was treated by veterinary staff before being pronounced dead, and that the British Horseracing Authority confirmed the horse suffered from a "severe pulmonary haemorrhage".
-
-6. However, the article does not mention anything about a haemorrhage being the cause of Many Clouds' death. Instead, it suggests that the cause of death is still under investigation.
-
-7. Therefore, the summary's statement that Many Clouds died as a result of a haemorrhage is not supported by the article.
-
-8. Finally, the article notes that Many Clouds had no significant underlying health issues, which further suggests that the cause of death is still unknown and may not be related to the haemorrhage.
-
-Overall, the summary is not consistent with the article because it states that Many Clouds died after suffering a haemorrhage during the race, whereas the article does not mention anything about the horse dying during the race and instead suggests that the cause of death is still under investigation. Additionally, the article notes that Many Clouds had no significant underlying health issues, which further suggests that the cause of death may not be related to the haemorrhage.
+1. The summary states that the Grand National winner Many Clouds died after suffering a haemorrhage during the race on Saturday.
+2. However, the article does not mention anything about Many Clouds dying during the race. Instead, it reports that the horse collapsed and was pronounced dead after the race.
+3. The article states that the horse suffered from a severe pulmonary haemorrhage, which is a rare condition that can occur in horses with no underlying health issues.
+4. The summary does not provide any information about the cause of Many Clouds' death, other than stating that he suffered a haemorrhage during the race.
+5. Therefore, the summary is not consistent with the article, as it does not provide the correct information about the cause of Many Clouds' death.
+6. The article provides more information about the cause of Many Clouds' death, stating that he suffered from a severe pulmonary haemorrhage, which is a rare condition that can occur in horses with no underlying health issues.
+7. The article also mentions that Many Clouds had shown symptoms of post-race ataxia in the past, but there is no mention of this in the summary.
+8. Overall, the summary is not a accurate representation of the article, as it does not provide the correct information about the cause of Many Clouds' death and omits other important details.
 
 ###Corrected:

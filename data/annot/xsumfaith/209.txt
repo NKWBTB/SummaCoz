@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it\'s not long since a top tennis player became the first woman to lose her hair in a match. 
-
-    Article: 
-    Svetlana Kuznetsova will hope not, after she hacked some of her own hair off midway during a match at the WTA Finals in Singapore on Monday.
+<Article>
+Svetlana Kuznetsova will hope not, after she hacked some of her own hair off midway during a match at the WTA Finals in Singapore on Monday.
 "I thought, 'what's more important? My hair, which can grow, or the match?'" said the Russian world number nine, complaining that it was affecting her game in a three-set win over Agnieszka Radwanska.
 Unfortunately, many a sports star has failed to embrace this philosophy of substance over style.
 With the help of Sportsday readers, BBC Sport looks at some of the worst sporting hairstyles.
@@ -19,21 +16,19 @@ Former Arsenal forward Gervinho revealed he had a hairline higher than his outra
 It was the elastic headband that really caused a stir - it looked painful!
 Striker Ronaldo decided this would be a good idea for the 2002 World Cup - Brazil went on to win it.
 Yes, the pinnacle of your career and you have that haircut, shown on the front page of newspapers round the world.
-Sorry Ronaldo. Brilliant footballer. Awful haircut. 
+Sorry Ronaldo. Brilliant footballer. Awful haircut.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the summary is not consistent with the article. Here are the steps:
+<Summary>
+it\'s not long since a top tennis player became the first woman to lose her hair in a match.
+</Summary>
 
-Step 1: Identify the main idea of the summary.
-The main idea of the summary is that a top tennis player lost her hair during a match.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Identify the main idea of the article.
-The main idea of the article is that Svetlana Kuznetsova hacked off some of her own hair midway during a match at the WTA Finals in Singapore, and that many sports stars have had bad hairstyles.
-
-Step 3: Identify the inconsistency.
-The inconsistency is that the summary mentions a top tennis player losing her hair, but the article does not mention any tennis player losing their hair. Instead, the article focuses on Svetlana Kuznetsova's haircut and other sports stars' bad hairstyles.
-
-Step 4: Explain the inconsistency.
-The inconsistency is likely due to a mistake in the summary, as it is not based on the content of the article. The summary mentions a top tennis player losing her hair, but the article does not provide any evidence to support this claim. Instead, the article focuses on Svetlana Kuznetsova's haircut and other sports stars' bad hairstyles.
+1. The summary states that a top tennis player became the first woman to lose her hair in a match.
+2. However, the article does not mention anything about a tennis player losing her hair during a match.
+3. Instead, the article discusses various sporting hairstyles that have gone wrong, including Dennis Rodman's bleached blonde look and Giovanni Simeone's quirky style.
+4. The article does mention Svetlana Kuznetsova hacking off some of her own hair midway through a match at the WTA Finals in Singapore, but this is not the same as losing her hair during the match.
+5. Therefore, the summary is not consistent with the article, as it makes a claim that is not supported by the content of the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ukraine\'s cyber troops have been evacuated from ukraine and other cyber attacks in ukraine, the ukrainian government has said. 
-
-    Article: 
-    Little is beyond their reach. Official documents and private communications are made public, and websites blocked. They hijack CCTV cameras, electronic billboards and network printers.
+<Article>
+Little is beyond their reach. Official documents and private communications are made public, and websites blocked. They hijack CCTV cameras, electronic billboards and network printers.
 The best known of the virtual warriors are the Ukrainian Cyber Troops, the Cyber Berkut and Anonymous International.
 All three present themselves as independent activists, separate from other, government-sponsored groups.
 The most prominent pro-Ukrainians hackers are the Ukrainian Cyber Troops, led by Kiev-based programmer Yevhen Dokukin.
@@ -34,17 +31,27 @@ The group focuses on Russia's domestic affairs, but some of its material covers 
 In  November it published a letter from a Russian fighter in eastern Ukraine suggesting that locals did not support the separatist forces.
 And in May it made headlines leaking what it said were emails to and from former Russian FSB colonel Igor Girkin, also known as Strelkov, who was then a key rebel commander in eastern Ukraine.
 Access to Anonymous International's website is currently blocked in Russia.
-BBC Monitoring reports and analyses news from TV, radio, web and print media around the world. For more reports from BBC Monitoring, click here. You can follow BBC Monitoring on Twitter and Facebook. 
+BBC Monitoring reports and analyses news from TV, radio, web and print media around the world. For more reports from BBC Monitoring, click here. You can follow BBC Monitoring on Twitter and Facebook.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+ukraine\'s cyber troops have been evacuated from ukraine and other cyber attacks in ukraine, the ukrainian government has said.
+</Summary>
 
-1. The summary states that Ukraine's cyber troops have been evacuated from Ukraine, but the article does not mention anything about evacuation.
-2. The summary mentions that the Ukrainian government has said that the cyber troops have been evacuated, but the article does not provide any direct quotes or statements from the Ukrainian government supporting this claim.
-3. The summary mentions that the cyber troops have been involved in DDoS attacks, hacking into public CCTV systems, and disrupting separatist funding, but the article only mentions these activities in passing and does not provide any specific details or examples.
-4. The summary mentions that Cyber Berkut has hacked into electronic billboards in Kiev, but the article does not mention this.
-5. The summary mentions that Anonymous International has published leaked documents from the Kremlin, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not supported by the article, and omits other important information that is mentioned in the article.
+1. The summary is not consistent with the article because:
+
+a. The summary states that Ukraine's Cyber Troops have been evacuated from Ukraine, but the article does not mention any such evacuation.
+
+b. The summary mentions "other cyber attacks in Ukraine," but the article only discusses cyber attacks by Ukrainian Cyber Troops and Cyber Berkut.
+
+c. The summary does not provide any specific information about the cyber attacks or the groups involved, whereas the article provides detailed information about the cyber attacks and the groups responsible.
+
+2. The reason for the inconsistency is that the summary is not a accurate representation of the article. The summary is too brief and lacks specific details, while the article provides more comprehensive information about the cyber attacks in Ukraine.
+
+3. The article provides information about the cyber attacks in Ukraine, including the groups responsible for the attacks, the types of attacks, and the targets of the attacks. The article also provides quotes from officials and hackers, and discusses the impact of the cyber attacks on the conflict in Ukraine.
+
+4. In conclusion, the summary is not consistent with the article because it does not provide accurate information about the cyber attacks in Ukraine. The article provides more comprehensive information about the cyber attacks, and the summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

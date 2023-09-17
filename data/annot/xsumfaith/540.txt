@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester city and chelsea have been charged by the football association for failing to control their players during the premier league game on saturday. 
-
-    Article: 
-    The charge follows the mass fracas in the 95th minute of the game at Etihad Stadium, which Chelsea won 3-1.
+<Article>
+The charge follows the mass fracas in the 95th minute of the game at Etihad Stadium, which Chelsea won 3-1.
 City had forward Sergio Aguero and midfielder Fernandinho sent off, but Chelsea midfielder Cesc Fabregas will not face any further action.
 City manager Pep Guardiola apologised for his team's part in the incident.
 Aguero, 28, received a four-match ban for what was his second dismissal for violent conduct this season, following a high and late challenge on Chelsea defender David Luiz.
 Fernandinho clashed with Fabregas in the scuffle that followed Aguero's challenge, and the Brazil midfielder will serve a three-match ban.
-Both clubs have until 18:00 GMT on 8 December to respond to the charge. 
+Both clubs have until 18:00 GMT on 8 December to respond to the charge.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+manchester city and chelsea have been charged by the football association for failing to control their players during the premier league game on saturday.
+</Summary>
 
-1. The summary states that Manchester City and Chelsea have been charged by the Football Association for failing to control their players during the Premier League game on Saturday.
-2. However, the article states that the charge follows a mass fracas in the 95th minute of the game at Etihad Stadium, which Chelsea won 3-1. This implies that the charge is specifically related to the incidents that occurred during the game, rather than a general failure to control players.
-3. The article goes on to state that City forward Sergio Aguero and midfielder Fernandinho were sent off, while Chelsea midfielder Cesc Fabregas will not face any further action. This suggests that the charge is related to the actions of these specific players, rather than a failure to control all players.
-4. The summary does not mention the specific incidents that led to the charge, such as Aguero's high and late challenge on Chelsea defender David Luiz, or the scuffle that followed. This suggests that the summary is not providing a complete or accurate picture of the events that led to the charge.
-5. Therefore, the summary is not consistent with the article, as it does not provide a detailed description of the specific incidents that led to the charge, and it does not accurately reflect the nature of the charge.
+Explain your reasoning step by step:[/INST]
 
-Overall, it seems that the summary is a general statement about the charge, rather than a detailed description of the specific events that led to the charge. Therefore, it is not consistent with the article.
+1. The article states that Chelsea midfielder Cesc Fabregas will not face any further action, which contradicts the summary that both teams have been charged for failing to control their players.
+2. The article specifically mentions that Manchester City forward Sergio Aguero and midfielder Fernandinho were sent off, but the summary does not mention this.
+3. The article states that Aguero received a four-match ban and Fernandinho will serve a three-match ban, but the summary does not mention any disciplinary action taken against the players.
+4. The article mentions that both clubs have until 18:00 GMT on 8 December to respond to the charge, but the summary does not provide any information about the charge or the deadline for response.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the events and details mentioned in the article. The summary only mentions that both teams have been charged for failing to control their players, but the article provides specific information about the incidents that led to the charges and the disciplinary actions taken against the players.
 
 ###Corrected:

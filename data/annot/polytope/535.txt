@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    amateur jockey lee lewis ferguson has just a cut on his nose to show for his ordeal .
-the 18-year-old was flung from his horse in spectacular fashion at wincanton .
-the 18-year-old was mucking out the stables as usual , just a cut on the nose to show for the fall . 
-
-    Article: 
-    there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
+<Article>
+there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
 the 18-year-old was mucking out the stables as usual , just a cut on the nose to show for the fall which has made him an internet sensation .
 ferguson 's spectacular double somersault fall from the favourite merrion square in the 4.20 pm at wincanton has been watched hundreds of thousands of times online .
 but he was back riding out and is undeterred from getting back in the saddle .
@@ -21,19 +16,26 @@ it 's about the most impressive fall i 've seen .
 ` there was nothing i could do to avoid it , you just have to let it take its course and hope it 's not a bad one .
 i 've been very lucky .
 i got a bit of abuse from the lads and picked up a few hundred twitter followers but it 's all good banter .
-` given the somersaults , maybe i 'll look at having a gymnastics career after finishing racing . ' 
+` given the somersaults , maybe i 'll look at having a gymnastics career after finishing racing . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistencies in the summary and the article. Here's my reasoning step by step:
+<Summary>
+amateur jockey lee lewis ferguson has just a cut on his nose to show for his ordeal .
+the 18-year-old was flung from his horse in spectacular fashion at wincanton .
+the 18-year-old was mucking out the stables as usual , just a cut on the nose to show for the fall .
+</Summary>
 
-1. The summary states that Lee Lewis Ferguson "was flung from his horse in spectacular fashion at Wincanton." However, the article does not mention anything about Ferguson being flung from his horse. Instead, it describes his fall as a "double somersault fall" which made him an internet sensation.
-2. The summary mentions that Ferguson has "just a cut on his nose to show for his ordeal." However, the article states that Ferguson has "just a cut on the nose" and there is no mention of an ordeal.
-3. The summary implies that Ferguson was treated specially at Paul Nicholls' yard on Thursday morning, stating that "there was no special treatment for Lewis Ferguson at Paul Nicholls's yard on Thursday morning." However, the article does not mention any special treatment for Ferguson.
-4. The summary states that Ferguson "was mucking out the stables as usual" after his fall, but the article does not mention anything about Ferguson mucking out the stables.
-5. The summary quotes Ferguson as saying "it was just a blur," but the article does not include this quote.
-6. The summary states that Ferguson "got a bit of abuse from the lads" after his fall, but the article does not mention any abuse.
-7. The summary concludes by stating that Ferguson might consider a gymnastics career after finishing racing, but the article does not mention anything about this.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary contains several inaccuracies and exaggerations, and it does not accurately reflect the content of the article.
+1. The article states that Lee Lewis Ferguson was flung from his horse in spectacular fashion at Wincanton, and that he has just a cut on his nose to show for the fall.
+2. The summary states that the 18-year-old was mucking out the stables as usual, just a cut on the nose to show for the fall.
+3. The article does not mention anything about Ferguson mucking out the stables.
+4. Therefore, the summary is not consistent with the article, as it implies that Ferguson was performing his usual stable duties after the fall, while the article states that he was flung from his horse and only suffered a cut on his nose.
+
+Reasoning:
+
+1. The article provides specific information about Ferguson's fall and its aftermath, including the fact that he was flung from his horse and only suffered a cut on his nose.
+2. The summary omits this information and instead implies that Ferguson was performing his usual stable duties after the fall.
+3. This inconsistency suggests that the summary is not an accurate representation of the article's content.
 
 ###Corrected:

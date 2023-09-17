@@ -1,30 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    wakefield forward jordan tansey has signed a new two-year contract with the league two side, keeping him at the club until june 2019. 
-
-    Article: 
-    The 23-year-old has scored 24 tries in 37 appearances for the Wolves.
+<Article>
+The 23-year-old has scored 24 tries in 37 appearances for the Wolves.
 He could make his debut for Super League's bottom side in Friday's trip to Hull FC.
-"With Jordan Tansey having returned to Wakefield, the opportunity for another outside back to come into the squad was there," managing director Richard Thewlis said. 
+"With Jordan Tansey having returned to Wakefield, the opportunity for another outside back to come into the squad was there," managing director Richard Thewlis said.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+wakefield forward jordan tansey has signed a new two-year contract with the league two side, keeping him at the club until june 2019.
+</Summary>
 
-1. The summary states that Jordan Tansey has signed a new two-year contract with the league two side, keeping him at the club until June 2019.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-This is not consistent with the article because the article states that Tansey has returned to Wakefield, but it does not mention a new two-year contract. Instead, it mentions that he could make his debut for Super League's bottom side in Friday's trip to Hull FC.
+1. The article states that Jordan Tansey has returned to Wakefield, indicating that he was previously with the club and has now returned.
+2. The summary states that Jordan Tansey has signed a new two-year contract with the league two side, which suggests that he was not already contracted to the club.
+3. The article does not mention anything about Jordan Tansey signing a new contract, only that he has returned to the club.
+4. Therefore, the summary is not consistent with the article because it implies that Jordan Tansey has signed a new contract, while the article states that he has simply returned to the club.
 
-2. The article states that Tansey has scored 24 tries in 37 appearances for the Wolves.
-
-This information is not mentioned in the summary.
-
-3. The summary states that the opportunity for another outside back to come into the squad was there, as quoted by managing director Richard Thewlis.
-
-This is not mentioned in the article.
-
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article.
+So, the reason why the summary is not consistent with the article is that it contains information that is not supported by the article. Specifically, the summary states that Jordan Tansey has signed a new two-year contract, which is not mentioned in the article.
 
 ###Corrected:

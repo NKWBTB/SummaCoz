@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    syria\'s education minister has called for a ``high price\'\'of a ``high price\'\'in the migrant crisis. 
-
-    Article: 
-    Mohammad Thneibat said countries such as Jordan faced a "serious problem" in coping with so many young refugees.
+<Article>
+Mohammad Thneibat said countries such as Jordan faced a "serious problem" in coping with so many young refugees.
 He called for more international financial support to help build schools and train teachers.
 "The alternatives are very bad," said Mr Thneibat.
 "The international community will pay a high price if we don't stand together to face this serious problem," he told the Global Education and Skills Forum.
@@ -23,15 +20,24 @@ Tom Fletcher, UK ambassador to Lebanon until last year, said the numbers of refu
 Mr Fletcher is now working for a coalition trying to get business support to tackle the refugee crisis.
 He said conventional humanitarian crisis approaches did not work on this scale, and that other groups, including business, should contribute.
 George Papendreou, former prime minister of Greece, told the conference that he had been a refugee when his family was in political exile.
-He said that European countries should try to see refugees as potential benefits to their societies rather than respond with "fear and ignorance". 
+He said that European countries should try to see refugees as potential benefits to their societies rather than respond with "fear and ignorance".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+syria\'s education minister has called for a ``high price\'\'of a ``high price\'\'in the migrant crisis.
+</Summary>
 
-1. The summary states that the Education Minister of Syria called for a "high price" in the migrant crisis, but the article does not mention anything about a "high price."
-2. The summary suggests that the Education Minister is asking for financial support to build schools and train teachers, but the article does not mention any specific requests for financial support. Instead, the article states that Jordan is already training thousands more teachers and building new schools to accommodate refugee children.
-3. The summary mentions that the international community will "pay a high price" if they don't stand together to face the serious problem, but the article does not mention anything about the international community paying a high price. Instead, the article emphasizes the need for more international assistance to support Jordan in coping with the influx of refugees.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the Education Minister's requests for financial support and emphasizes the idea of a "high price" that the international community will pay, which is not a central theme of the article.
+1. The summary states that "Syria's education minister has called for a 'high price' in the migrant crisis."
+2. However, the article does not mention Syria's education minister making any such call. Instead, it quotes Mohammad Thneibat, Jordan's education minister, discussing the challenges of hosting large numbers of refugees and the need for more international support.
+3. Therefore, the summary is not consistent with the article, as it attributes a quote to the wrong person and misrepresents the content of the article.
+
+Step by step reasoning:
+
+1. The summary states that "Syria's education minister has called for a 'high price' in the migrant crisis."
+2. This statement is not supported by the article, as there is no mention of Syria's education minister making any such call.
+3. Instead, the article quotes Mohammad Thneibat, Jordan's education minister, discussing the challenges of hosting large numbers of refugees and the need for more international support.
+4. Therefore, the summary is not consistent with the article and contains incorrect information.
 
 ###Corrected:

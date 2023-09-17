@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 .
-one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
-nicholson was standing next to the unidentified teenager who was holding the replica of the gun . 
-
-    Article: 
-    an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
+<Article>
+an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
 jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
 the la times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
 suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
@@ -38,33 +33,26 @@ nicholson and huerta say they have never been in trouble with the law before .
 ` you can check our records , ' huerta insisted .
 ` that 's a bad way to meet officers , ' nicholson said .
 ` got off on the wrong foot , ' huerta said .
-officer gutierrez has returned to full duty since the incident , though it remains under investigation . 
+officer gutierrez has returned to full duty since the incident , though it remains under investigation .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistencies in the summary and the article. Here's my reasoning step by step:
+<Summary>
+jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 .
+one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
+nicholson was standing next to the unidentified teenager who was holding the replica of the gun .
+</Summary>
 
-1. The summary states that Jamar Nicholson was shot by a police officer in the back because his friend was holding a toy gun. However, the article states that Nicholson was shot in the back by Officer Miguel Gutierrez because one of the teenagers was holding a replica gun that the officers thought was real.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Inconsistency: The summary implies that Nicholson was shot because his friend was holding a toy gun, while the article states that he was shot because the officers thought the replica gun was real.
+1. The summary states that the officers thought the toy gun was real, while the article states that the gun had an orange tip indicating it was fake.
+2. The summary does not mention that the officer who shot Nicholson, Miguel Gutierrez, also shot and killed a dog in 2008.
+3. The summary does not include the attorneys' statements that the officers' story may have been different if a camera had been rolling and that the police department's officers have each other's backs.
+4. The summary does not mention that Nicholson and his friend Huerta feel traumatized by what happened to them.
+5. The summary does not mention that Nicholson had to miss school as a result of the shooting and that he felt tremendous pain from his injuries.
+6. The summary does not mention that Nicholson and Huerta have never been in trouble with the law before.
+7. The summary does not mention that Officer Gutierrez has returned to full duty since the incident, though it remains under investigation.
 
-2. The summary states that Nicholson was standing next to the unidentified teenager who was holding the replica gun. However, the article states that Nicholson was shot while he was standing next to the unidentified teenager who was holding the toy gun with an orange tip indicating that it was fake.
-
-Inconsistency: The summary and the article disagree on which teenager was holding the replica gun and which one was holding the toy gun with an orange tip.
-
-3. The summary states that the officers thought the replica gun was real, but the article states that the officers thought the toy gun with an orange tip was real.
-
-Inconsistency: The summary and the article disagree on what the officers thought was real.
-
-4. The summary states that Nicholson was shot in the back, but the article states that he was shot in the back by Officer Gutierrez.
-
-Inconsistency: The summary and the article disagree on the location of Nicholson's injury.
-
-5. The summary states that the officers ordered the teenager holding the replica gun to drop it multiple times before shooting him. However, the article states that the officers ordered the teenager holding the toy gun with an orange tip to drop it multiple times before shooting him.
-
-Inconsistency: The summary and the article disagree on which teenager was ordered to drop the gun and what type of gun he was holding.
-
-6. The summary states that the officers shot and killed a dog in 2008 when responding to a traffic collision. However, there is no mention of this in the article.
-
-Inconsist
+In conclusion, the summary does not include many important details from the article, and the details it does include are not entirely accurate. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

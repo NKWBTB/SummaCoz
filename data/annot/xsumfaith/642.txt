@@ -1,28 +1,30 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a 60-year-old woman in dumfries and galloway has been conned out of # 30,000 just a week after a similar scam netted # 10,000. 
-
-    Article: 
-    The first incident saw a 71-year-old woman from Sandyhills tricked by someone claiming to work for BT.
+<Article>
+The first incident saw a 71-year-old woman from Sandyhills tricked by someone claiming to work for BT.
 Now a woman in Stranraer has lost money to a caller who said he was contacting her about problems with her internet.
 He claimed to be from BT technical support and gained remote access to her computer to take the cash.
 The Sandyhills incident happened on 15 September with the Stranraer con taking place seven days later.
 PC Siobhan Pellett said: "The ease with which these people seem to be able to gain access to their victim's computer is frightening and the sums of money being taken are substantial.
 "We are asking people to be very, very careful when answering a cold call from someone who tries to gain remote access to their computer in order to rectify an alleged fault.
 "Our message is worth repeating once again that people should never, never give out any banking details or account numbers over the telephone.
-"Banks, building societies and reputable businesses never ask for this information." 
+"Banks, building societies and reputable businesses never ask for this information."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a 60-year-old woman in dumfries and galloway has been conned out of # 30,000 just a week after a similar scam netted # 10,000.
+</Summary>
 
-1. The summary states that a 60-year-old woman in Dumfries and Galloway was conned out of £30,000, but the article does not mention any such incident.
-2. The article only mentions two incidents: one in Sandyhills where a 71-year-old woman lost £10,000 and another in Stranraer where a woman lost money to a caller claiming to be from BT technical support.
-3. The article does not mention any third incident involving a 60-year-old woman in Dumfries and Galloway.
-4. Therefore, the summary is not consistent with the article, and it appears to be a false or misleading statement.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not supported by the information in the article, and it is likely that it is a fabricated or misleading statement.
+Based on the provided article and summary, there are several inconsistencies that can be identified:
+
+1. Age of the victim: The article states that a 71-year-old woman from Sandyhills was tricked, while the summary claims that a 60-year-old woman in Dumfries and Galloway was conned. This is a discrepancy of 11 years in the age of the victim.
+2. Amount of money lost: The article states that the Stranraer incident resulted in the loss of money, but the amount is not specified. The summary, on the other hand, claims that the victim lost £30,000, which is a significant difference from the amount lost in the Stranraer incident.
+3. Location of the incident: The article states that the Stranraer incident took place seven days after the Sandyhills incident, but the summary does not mention the location of the second incident.
+
+Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary contains information that is not supported by the article, such as the age of the victim and the amount of money lost. Additionally, the location of the second incident is not mentioned in the summary, while the article provides details about the location of the Stranraer incident. Therefore, the summary cannot be trusted as an accurate representation of the article's content.
 
 ###Corrected:

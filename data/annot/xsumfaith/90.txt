@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    steven davies made his maiden county championship century to help surrey beat yorkshire by five wickets at edgbaston. 
-
-    Article: 
-    After being reduced to 8-2, they posted a score of 255-7, with Davies and Ben Foakes (90) sharing a stand of 130.
+<Article>
+After being reduced to 8-2, they posted a score of 255-7, with Davies and Ben Foakes (90) sharing a stand of 130.
 Yorkshire's run-chase was undermined by a three-wicket burst in nine balls from Stuart Meaker, whose victims included Jonny Bairstow and Gary Ballance.
 Tim Bresnan made 68 but was the last to go as they were all out for 236.
 Having lost to Durham in the T20 Blast semi-finals last weekend, Yorkshire were hoping to atone by reaching Lord's for the first time since 2002.
@@ -22,31 +19,36 @@ Surrey skipper Gareth Batty told BBC Radio London:
 "But we got wickets at the right times and it was always going to be an uphill battle for them once it got down to those final overs."
 Yorkshire captain Alex Lees:
 "We are all gutted. We have played some great white-ball cricket this season, but when it has mattered we haven't been good enough.
-"The bowlers were exceptional and we thought it was a reachable target. We needed someone in the top five to make a contribution and we would have reached the target comfortably." 
+"The bowlers were exceptional and we thought it was a reachable target. We needed someone in the top five to make a contribution and we would have reached the target comfortably."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the reasons why the provided summary is not consistent with the article. Here are the steps to explain my reasoning:
+<Summary>
+steven davies made his maiden county championship century to help surrey beat yorkshire by five wickets at edgbaston.
+</Summary>
 
-Step 1: Identify the key points in the summary
-The summary mentions Steven Davies making a century, Surrey beating Yorkshire by five wickets, and Yorkshire's poor run-chase.
+Explain your reasoning step by step:[/INST]
+  Sure, here's my step-by-step reasoning for why the summary is not consistent with the article:
 
-Step 2: Identify the key points in the article
-The article mentions Surrey posting a score of 255-7, Yorkshire's run-chase being undermined by Stuart Meaker's three-wicket burst, and Yorkshire's eventual defeat by five wickets.
+Step 1: Identify the key points in the article
+
+* Yorkshire were bowled out for 236 in their run-chase of 255
+* Surrey's fast bowler Stuart Meaker took three wickets in nine balls to undermine Yorkshire's run-chase
+* Tim Bresnan made 68 for Yorkshire, but they were all out for 236
+
+Step 2: Identify the key points in the summary
+
+* Steven Davies made his maiden county championship century to help Surrey beat Yorkshire by five wickets at Edgbaston
 
 Step 3: Identify the inconsistencies
-The inconsistencies are:
 
-* The summary mentions Steven Davies making a century, but the article does not mention any Surrey batsman scoring a century.
-* The summary mentions Surrey beating Yorkshire by five wickets, but the article does not mention the final score being 255-7.
-* The summary mentions Yorkshire's poor run-chase, but the article does not mention any specific issues with their batting.
+* The article states that Yorkshire were bowled out for 236, but the summary states that Surrey beat Yorkshire by five wickets. This is inconsistent, as Surrey would have needed to bowl out Yorkshire for less than 236 to win by five wickets.
+* The article mentions that Stuart Meaker took three wickets in nine balls to undermine Yorkshire's run-chase, but the summary does not mention this.
 
 Step 4: Analyze the reasons for the inconsistencies
-The reasons for the inconsistencies are:
 
-* The summary may have been written based on incomplete or inaccurate information.
-* The summary may have been written with a different focus or perspective than the article.
-* The summary may have been written before the article was published, and the article may have been updated or revised since then.
+* The inconsistency in the score line is likely due to a mistake in transcribing or summarizing the article. The article states that Yorkshire were all out for 236, while the summary states that Surrey beat Yorkshire by five wickets, which would require a score of less than 236 for Surrey.
+* The omission of Stuart Meaker's performance in the summary is likely due to a lack of information or focus on specific details in the summary.
 
-In conclusion, the provided summary is not consistent with the article because it mentions key points that are not present in the article, such as Steven Davies making a century and Surrey beating Yorkshire by five wickets. The inconsistencies are likely due to incomplete or inaccurate information, a different focus or perspective, or the summary being written before the article was published.
+In conclusion, the summary is not consistent with the article due to inconsistencies in the score line and the omission of key details such as Stuart Meaker's performance.
 
 ###Corrected:

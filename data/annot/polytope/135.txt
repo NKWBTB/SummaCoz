@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jack grealish has made his first premier league start for aston villa
-the republic of ireland under 21 international wears children 's shinpads
-grealish is renowned for keeping his stockings above the roll of his shinpads
-he appears not to wear shinpads on first glance , but does in fact use a children 's size 
-
-    Article: 
-    jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
+<Article>
+jack grealish has a message for premier league referees : you can keep telling me to pull my socks up but there 's no chance of me listening .
 the aston villa teenager is renowned for keeping his stockings just above the roll of his shinpads .
 and grealish says , due to superstition , that he 'll carry on that way after making his first premier league start on tuesday night .
 jack grealish is renowned for wearing his socks low when he takes to the field for aston villa
@@ -22,19 +16,22 @@ his first league start for the club came in the pulsating 3-3 draw against qpr o
 grealish was pleased to have finally made his first premier league start for villa against qpr
 ` it was a bit of a tough game to get my first start , in a big relegation scrap , but i 'm pleased even if i 'm not happy about how the game ended up , ' he added .
 ` i try and see it as any other football match but it 's nice that the gaffer has got that faith in me and hopefully i can try to get a few more starts before the end of the season .
-` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . ' 
+` he said i deserve my start which is nice to hear and it really gives me a bit of a boost . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+jack grealish has made his first premier league start for aston villa
+the republic of ireland under 21 international wears children 's shinpads
+grealish is renowned for keeping his stockings above the roll of his shinpads
+he appears not to wear shinpads on first glance , but does in fact use a children 's size
+</Summary>
 
-1. The summary states that Jack Grealish wears children's shinpads, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that Grealish is renowned for keeping his stockings above the roll of his shinpads, but the article states that he wears his socks low.
+1. The summary states that Jack Grealish wears children's shinpads, while the article states that he wears children's shinpads and keeps his stockings above the roll of his shinpads.
+2. The summary does not mention Grealish's superstition about keeping his socks above the roll of his shinpads, while the article highlights this as a reason why he will continue to wear his socks in this way.
+3. The summary states that Grealish appears not to wear shinpads on first glance, but the article reveals that he does wear shinpads, just in a children's size.
 
-3. The summary states that Grealish has made his first Premier League start for Aston Villa, but the article states that he made his first start against QPR.
-
-4. The summary does not mention Grealish's superstition about wearing children's shinpads, which is mentioned in the article.
-
-Overall, the summary is not consistent with the article because it includes information that is not present in the article and omits other important information that is present in the article.
+Therefore, the summary is not consistent with the article because it does not accurately convey the information about Grealish's shinpads and socks. The article provides more detail and context about Grealish's unique footwear choices, which the summary does not capture.
 
 ###Corrected:

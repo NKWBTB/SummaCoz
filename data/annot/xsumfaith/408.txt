@@ -1,22 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    league two side mansfield town have signed mansfield town midfielder marcus bignot on loan until the end of the season. 
-
-    Article: 
-    The 24-year-old was under contract with the Stags, but Marcus Bignot's side have reached an agreement to bring him in on a free transfer.
+<Article>
+The 24-year-old was under contract with the Stags, but Marcus Bignot's side have reached an agreement to bring him in on a free transfer.
 He spent the first half of the season on loan at Crawley, scoring three goals in 23 appearances.
-The ex-Burton player will officially join on 1 January and becomes Bignot's first signing for the Mariners. 
+The ex-Burton player will officially join on 1 January and becomes Bignot's first signing for the Mariners.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+league two side mansfield town have signed mansfield town midfielder marcus bignot on loan until the end of the season.
+</Summary>
 
-1. The summary states that Mansfield Town has signed Marcus Bignot on loan until the end of the season. However, the article states that Bignot's side have reached an agreement to bring him in on a free transfer. This means that the summary is not consistent with the article because it implies that Bignot is being loaned to Mansfield Town, whereas the article states that he is being signed on a free transfer.
+Explain your reasoning step by step:[/INST]
 
-2. The summary also mentions that Bignot has spent the first half of the season on loan at Crawley, which is not accurate. According to the article, he spent the first half of the season on loan at Crawley, but he is now joining Mansfield Town on a free transfer.
-
-3. Therefore, the summary is not consistent with the article because it contains inaccuracies and implies that Bignot is being loaned to Mansfield Town when he is actually joining on a free transfer.
+1. The article states that the player is joining the club on a free transfer, which means he is not currently under contract with any other team.
+2. The summary states that the player is joining on loan until the end of the season, which implies that he is currently under contract with another team.
+3. The article mentions that the player spent the first half of the season on loan at Crawley, which further supports the fact that he is not currently under contract with Mansfield Town.
+4. Therefore, the summary is not consistent with the article because it implies that the player is joining Mansfield Town on loan, while the article states that he is joining on a free transfer.
 
 ###Corrected:

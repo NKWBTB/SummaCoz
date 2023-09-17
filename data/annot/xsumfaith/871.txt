@@ -1,22 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    alfreton town have signed defender joel mooney from fellow league one side oldham athletic on a two-year deal. end. 
-
-    Article: 
-    The 25-year-old, who is 6ft 9ins tall, joined the Minstermen from Tranmere Rovers on a two-year deal in May, but has only made five appearances.
+<Article>
+The 25-year-old, who is 6ft 9ins tall, joined the Minstermen from Tranmere Rovers on a two-year deal in May, but has only made five appearances.
 Mooney's first stint in professional football in England was at Wycombe and he spent time at Conference North side Oxford City before joining Tranmere.
-He is available for Alfreton's game against Welling United on Saturday. 
+He is available for Alfreton's game against Welling United on Saturday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+alfreton town have signed defender joel mooney from fellow league one side oldham athletic on a two-year deal. end.
+</Summary>
 
-1. The summary states that Alfreton Town signed defender Joel Mooney from Oldham Athletic on a two-year deal.
-2. However, the article states that Mooney joined Alfreton Town from Tranmere Rovers, not Oldham Athletic.
-3. Therefore, the summary is not consistent with the article, as it mentions a different club (Oldham Athletic) than the one (Tranmere Rovers) mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it incorrectly mentions Oldham Athletic as the club that Mooney signed from, when in fact he signed from Tranmere Rovers.
+1. The first sentence of the summary states that Alfreton Town has signed defender Joel Mooney from Oldham Athletic on a two-year deal.
+2. However, the article does not mention anything about Joel Mooney signing for Oldham Athletic. Instead, it mentions that he joined Alfreton Town from Tranmere Rovers on a two-year deal.
+3. The article also states that Joel Mooney has only made five appearances for Alfreton Town since joining them in May.
+4. Therefore, the summary is not consistent with the article because it incorrectly states that Joel Mooney signed for Oldham Athletic, when in fact he signed for Alfreton Town. Additionally, the summary does not accurately reflect the number of appearances he has made for Alfreton Town.
 
 ###Corrected:

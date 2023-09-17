@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    boris nemtsov\'s long-awaited dossier on russia\'s conflict has been published, but it has already been published. 
-
-    Article: 
-    That report was never written, but the murdered opposition politician's colleagues, led by his close associate Ilya Yashin, have since worked to finish it.
+<Article>
+That report was never written, but the murdered opposition politician's colleagues, led by his close associate Ilya Yashin, have since worked to finish it.
 Most of the Russian-language report, entitled Putin. War, is based on facts that have already appeared in Russian and foreign media since Crimea was annexed in March 2014 and conflict broke out in eastern Ukraine.
 But its authors say putting the facts together and describing the human and economic cost of the conflict makes a very compelling case for accusing President Vladimir Putin of waging war in Ukraine for his own ends.
 Russia has consistently denied accusations that it has sent regular troops and armour to help rebels in eastern Ukraine, arguing that any Russians serving there are "volunteers".
@@ -30,19 +27,21 @@ But the opposition does not see it as support. It accuses President Putin of mas
 In this, they admit he was successful.
 And it is entirely possible their report may well see the same fate as earlier works published by the late Boris Nemtsov.
 Critics of Mr Putin praised Mr Nemtsov's reports on corruption in the president's entourage and on the true cost of the 2014 Sochi Olympics.
-But they failed to galvanise protests against him. 
+But they failed to galvanise protests against him.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the given summary is not consistent with the article:
+<Summary>
+boris nemtsov\'s long-awaited dossier on russia\'s conflict has been published, but it has already been published.
+</Summary>
 
-1. The summary states that Boris Nemtsov's long-awaited dossier on Russia's conflict in Ukraine has been published, but the article states that the report was never written.
-2. The summary mentions that the report is based on facts that have already appeared in Russian and foreign media, but the article states that the report presents new evidence of Russian involvement in the conflict.
-3. The summary mentions that the report accuses President Putin of waging war in Ukraine for his own ends, but the article states that the report presents evidence of Russian soldiers and equipment being decisive in securing major victories for the pro-Russian rebels in Donetsk and Luhansk.
-4. The summary mentions that the report presents evidence of volunteer soldiers admitting that they were directed on to Ukraine territory and that Russian generals, not separatists, directed the main battles in eastern Ukraine, but the article does not mention these specific details.
-5. The summary mentions that the report calculates Russian spending on the conflict at 53bn roubles, but the article does not mention this figure.
-6. The summary mentions that the report was not written by Boris Nemtsov, but the article states that his colleagues, led by Ilya Yashin, have since worked to finish it.
-7. The summary mentions that the report may not see the same fate as earlier works published by Boris Nemtsov, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it presents information that is not supported by the article, such as the existence of a report written by Boris Nemtsov, the focus on President Putin's motivations, and the calculation of Russian spending on the conflict. Additionally, the summary mentions specific details that are not present in the article, such as the admissions of volunteer soldiers and the 53bn roubles spent on the conflict.
+1. The summary states that Boris Nemtsov's long-awaited dossier on Russia's conflict has been published.
+2. However, the article states that the dossier was never written, and the opposition colleagues of the murdered politician have since worked to finish it.
+3. Therefore, the summary is not consistent with the article, as the dossier has not been published.
+4. The article explains that the dossier presents evidence of Russian involvement in the conflict in Ukraine, including the use of Russian soldiers and equipment, and the payment of salaries to volunteer soldiers.
+5. The article also states that the report was never written, but the opposition colleagues of Boris Nemtsov have since worked to finish it, and they plan to seek donations to extend the initial print run of only 2,000 copies.
+6. The summary does not provide any information about the content of the dossier or the evidence presented in it, and it only states that the dossier has been published.
+7. Therefore, the summary is not a accurate representation of the article, as the dossier has not been published, and the article provides information about the content and evidence presented in the dossier.
 
 ###Corrected:

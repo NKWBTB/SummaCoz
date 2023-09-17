@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    corry ` corey ` campbell , 21 , was the ringleader of a gang dubbed the ` tattoo terrorists ' 
-he was sentenced to 20 years in state prison for the abuse of greg valecce , 53 , who was tied to a chair and beaten for three days . 
-sandra ng , campbell 's girlfriend , was also sentenced to 23 months in prison for her role in the shocking assault last year . 
-another man involved , david thomas , 28 , is awaiting sentencing while another defendant jennifer pratt , 40 , is awaiting trial . 
-
-    Article: 
-    three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+<Article>
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
 a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
 campbell believed the victim , greg valecce , had hurt his cat , pebbles .
 valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair , in the city 's northeast , however that basement would become a torture chamber where he would be strapped to a chair and violated for three days .
@@ -41,21 +35,25 @@ campbell 's attorney said his client had a rough childhood , with his father lea
 he was sentenced to 20 years in state prison .
 halin received the same sentence for what he did to valecce .
 ng , whose attorney who said she had fallen in with the wrong people at school , was sentenced to 23 months in a state prison .
-another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial . 
+another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the reasons why the summary is not consistent with the article. Here are the steps:
+<Summary>
+corry ` corey ` campbell , 21 , was the ringleader of a gang dubbed the ` tattoo terrorists ' 
+he was sentenced to 20 years in state prison for the abuse of greg valecce , 53 , who was tied to a chair and beaten for three days . 
+sandra ng , campbell 's girlfriend , was also sentenced to 23 months in prison for her role in the shocking assault last year . 
+another man involved , david thomas , 28 , is awaiting sentencing while another defendant jennifer pratt , 40 , is awaiting trial .
+</Summary>
 
-Step 1: Identify the inconsistencies
-The summary states that Corry "Corey" Campbell, 21, was sentenced to 20 years in state prison for the abuse of Greg Valecce, 53. However, the article states that Campbell, his girlfriend Sandra Ng, 19, and friend Carl Halin, 18, cornered Valecce in the basement and took turns punching, slapping, and spitting on him. The article does not mention Campbell being sentenced to 20 years in prison.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Step 2: Analyze the reasons for the inconsistencies
-The inconsistency in the summary is likely due to a lack of attention to detail and a misunderstanding of the article's content. The summary may have been written quickly or without proper review, leading to inaccuracies and inconsistencies.
+1. The summary states that Corry "Corey" Campbell, 21, was the ringleader of a gang dubbed the "tattoo terrorists." However, the article does not mention the word "gang" or "tattoo terrorists."
+2. The summary states that Campbell was sentenced to 20 years in state prison for the abuse of Greg Valecce, 53. However, the article states that Campbell was sentenced to 20 years in state prison for the abuse, along with his accomplices David Harrison and Jennifer Pratt.
+3. The summary states that Sandra Ng, Campbell's girlfriend, was sentenced to 23 months in prison for her role in the assault. However, the article states that Ng was sentenced to 23 months in prison for her role in the assault, along with Harrison and Pratt.
+4. The summary states that David Thomas, 28, is awaiting sentencing. However, the article does not mention Thomas.
+5. The summary states that Jennifer Pratt, 40, is awaiting trial. However, the article does not mention Pratt.
 
-Step 3: Evaluate the impact of the inconsistencies
-The inconsistencies in the summary may have a significant impact on the reader's understanding of the article's content. The reader may be left with a false impression of the events and the individuals involved. Additionally, the inconsistencies may undermine the credibility of the summary and the author.
-
-Step 4: Provide recommendations for improvement
-To improve the consistency of the summary, the author should carefully review the article and ensure that all information is accurately represented. The author should also proofread the summary to catch any errors or inconsistencies before publishing. Additionally, the author should consider providing more context and details to support the summary's claims and to ensure that the reader has a clear understanding of the events and the individuals involved.
+In conclusion, the summary is not consistent with the article because it omits key details and includes information that is not present in the article. It is important to ensure that summaries accurately reflect the information in the original text to avoid confusion and misinformation.
 
 ###Corrected:

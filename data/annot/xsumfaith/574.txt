@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    in the north sea, off the coast of norway, nato has been conducting its largest ever anti-submarine warfare exercise. 
-
-    Article: 
-    It is seen as a response to the growing threat from Russian submarines which have stepped up their own patrols in these very same waters.
+<Article>
+It is seen as a response to the growing threat from Russian submarines which have stepped up their own patrols in these very same waters.
 It has also highlighted a gaping hole in Britain's own defences.
 For now though it is the hunt for U33, not Red October. The German U-boat is acting as the unseen enemy below the waves.
 U33's commander Kai Nicklesdorf and his 28 crew, who live in cramped conditions, are trying to avoid detection by 10 Nato warships.
@@ -53,16 +50,20 @@ Britain, he says, should be "exceptionally worried" that it is seen as a "soft t
 The purpose of this exercise is to ensure Nato is ready to conduct anti-submarine warfare.
 But it is also a reminder that some nations - including Britain - cannot do it alone.
 The lack of any UK maritime patrol aircraft will have to be addressed in the government's forthcoming defence and security review.
-The search for Russian submarines will not be as easy as the hunt for U33. 
+The search for Russian submarines will not be as easy as the hunt for U33.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+in the north sea, off the coast of norway, nato has been conducting its largest ever anti-submarine warfare exercise.
+</Summary>
 
-1. The summary states that the exercise is focused on finding Russian submarines, but the article does not mention this. Instead, the article focuses on the exercise being a response to the growing threat from Russian submarines and highlighting a gap in Britain's defenses.
-2. The summary mentions that the exercise is to find U33, a German U-boat, but the article does not mention U33 at all.
-3. The summary states that the exercise is to train Nato members to locate an invisible enemy under vast stretches of ocean, but the article does not mention this. Instead, the article focuses on the use of anti-submarine warfare helicopters and underwater drones to help track the ocean.
-4. The summary mentions that Britain no longer has any of its own maritime patrol aircraft, but the article does not mention this. Instead, the article mentions that France is providing top cover with a maritime patrol aircraft.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses on different aspects of the exercise and includes information that is not mentioned in the article.
+1. The summary states that the exercise is taking place in the North Sea, off the coast of Norway, but the article does not mention Norway or the North Sea.
+2. The summary mentions "Nato's largest ever anti-submarine warfare exercise", but the article does not mention the scale of the exercise.
+3. The summary does not mention the presence of Russian submarines, which is a key aspect of the article.
+4. The summary does not mention the UK's lack of maritime patrol aircraft, which is a significant point in the article.
+
+Therefore, the summary is not consistent with the article. The summary does not accurately convey the key points and details of the article, and it does not provide a fair representation of the content.
 
 ###Corrected:

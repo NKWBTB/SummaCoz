@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    malaysia\'s aviation authority has decided not to broadcast a satellite tracking system for flight mh370, which was revealed in 2015. 
-
-    Article: 
-    The decision to dedicate part of the radio spectrum to a global flight tracking system was taken at a UN conference in Geneva on Wednesday.
+<Article>
+The decision to dedicate part of the radio spectrum to a global flight tracking system was taken at a UN conference in Geneva on Wednesday.
 The conference aimed to improve on the current tracking system which relies on ground-based radars.
 MH370 disappeared in March 2014 with 239 people on board.
 Representatives from more than 160 countries decided to set aside a radio frequency for the satellite tracking of planes at the World Radiocommunication Conference (WRC), organised by the UN's International Telecommunication Union (ITU).
@@ -20,17 +17,24 @@ The plane is long believed to have crashed into the southern Indian Ocean.
 In July part of an aircraft wing was found on Reunion Island. Malaysian authorities later confirmed the debris to be from the missing MH370 plane.
 Following Wednesday's decision, ITU Secretary-General Houlin Zhao said the agency had "responded in record time to the expectations of the global community on the major issue concerning global flight tracking."
 The UN's aviation arm, the International Civil Aviation Organisation (ICAO), has set a November 2016 deadline for adopting new tracking guidelines.
-These will include aircraft sending their position at least every 15 minutes, or more in case of emergency, reported Reuters. 
+These will include aircraft sending their position at least every 15 minutes, or more in case of emergency, reported Reuters.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+malaysia\'s aviation authority has decided not to broadcast a satellite tracking system for flight mh370, which was revealed in 2015.
+</Summary>
 
-1. The summary states that Malaysia's aviation authority has decided not to broadcast a satellite tracking system for flight MH370, but the article does not mention anything about Malaysia or its aviation authority.
-2. The article discusses the decision taken at a UN conference to set aside a radio frequency for satellite tracking of planes, but the summary does not mention the UN conference or the radio frequency.
-3. The article mentions that the deal will enable satellites to receive transmissions from aircraft, but the summary does not mention anything about satellites or satellite tracking.
-4. The article states that the decision was taken to improve on the current tracking system, which relies on ground-based radars, but the summary does not mention anything about the current tracking system or the need for improvement.
-5. The article mentions that the disappearance of flight MH370 exposed weaknesses in worldwide air navigation systems, but the summary does not mention anything about the disappearance of MH370 or the need for new ways of transmitting flight data in real-time.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or the main points of the article.
+1. The article states that the UN conference in Geneva decided to set aside a radio frequency for satellite tracking of planes. This means that all planes will be required to send their position at least every 15 minutes, or more in case of emergency.
+
+2. However, the summary states that Malaysia's aviation authority has decided not to broadcast a satellite tracking system for flight MH370. This is inconsistent with the article, as the article states that all planes will be required to send their position, not just some of them.
+
+3. Therefore, the summary is not consistent with the article because it implies that only some planes will be required to send their position, while the article states that all planes will be required to do so.
+
+4. Additionally, the summary mentions that the decision was made in 2015, but the article states that the decision was made at a UN conference in Geneva on Wednesday, which is a more recent event.
+
+5. Overall, the summary is not consistent with the article because it provides incomplete and outdated information. It does not accurately reflect the content of the article, which discusses a recent UN conference and the decision to require all planes to send their position for real-time tracking.
 
 ###Corrected:

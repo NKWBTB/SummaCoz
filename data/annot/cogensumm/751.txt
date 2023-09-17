@@ -1,21 +1,20 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tottenham's fans may have been sick of the sight of chelsea blue. spurs lost 2-0 to jose mourinho's men at wembley stadium. lloris wearing the scarf after defeat by chelsea in the fa cup final. the tottenham captain picks it up and wraps it round his neck. 
+<Article>
+Tottenham's fans may have been sick of the sight of Chelsea blue after their Capital One Cup final defeat, but their captain didn't appear to be. Spurs lost 2-0 to Jose Mourinho's men at Wembley Stadium, but as Hugo Lloris led his team up to collect their loser's medals, he appeared to don a Chelsea scarf. In fairness to the French goalkeeper, he didn't appear to notice it wasn't his team's colours - time playing for Les Bleus will do that to you. As Hugo Lloris goes up to collect his medal, he sees that something has been thrown at him . Without realising that it is a Chelsea scarf, the Tottenham captain picks it up and wraps it round his neck . Lloris wearing the scarf after defeat by Chelsea in the Capital One Cup final at Wembley . As a clearly distracted Lloris walked up to get the medal, a member of the crowd threw the scarf at him. The former Lyon man then nonchalantly picked it up and chucked it around his neck before trudging onward. It was an unfortunate end to an unfortunate day for Lloris in which he conceded twice after opposition shots took wicked deflections off of his own players.
+</Article>
 
-    Article: 
-    Tottenham's fans may have been sick of the sight of Chelsea blue after their Capital One Cup final defeat, but their captain didn't appear to be. Spurs lost 2-0 to Jose Mourinho's men at Wembley Stadium, but as Hugo Lloris led his team up to collect their loser's medals, he appeared to don a Chelsea scarf. In fairness to the French goalkeeper, he didn't appear to notice it wasn't his team's colours - time playing for Les Bleus will do that to you. As Hugo Lloris goes up to collect his medal, he sees that something has been thrown at him . Without realising that it is a Chelsea scarf, the Tottenham captain picks it up and wraps it round his neck . Lloris wearing the scarf after defeat by Chelsea in the Capital One Cup final at Wembley . As a clearly distracted Lloris walked up to get the medal, a member of the crowd threw the scarf at him. The former Lyon man then nonchalantly picked it up and chucked it around his neck before trudging onward. It was an unfortunate end to an unfortunate day for Lloris in which he conceded twice after opposition shots took wicked deflections off of his own players. 
+<Summary>
+tottenham's fans may have been sick of the sight of chelsea blue. spurs lost 2-0 to jose mourinho's men at wembley stadium. lloris wearing the scarf after defeat by chelsea in the fa cup final. the tottenham captain picks it up and wraps it round his neck.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
 
-1. The summary states that Hugo Lloris wore a Chelsea scarf after Tottenham's defeat in the Capital One Cup final, but the article states that he wore a Chelsea scarf before collecting his loser's medal. The summary is incorrect because it implies that Lloris wore the scarf after the defeat, while the article states that he wore it before collecting his medal.
-2. The summary states that Lloris "appeared to don a Chelsea scarf," but the article states that he was thrown a Chelsea scarf by a member of the crowd. The summary is incorrect because it suggests that Lloris intentionally wore the scarf, while the article states that it was thrown at him.
-3. The summary states that Lloris "didn't appear to notice it wasn't his team's colours," but the article states that he was distracted and didn't realize that the scarf was a Chelsea scarf. The summary is incorrect because it implies that Lloris was unaware of the color of the scarf, while the article states that he was distracted and didn't notice the specific colors.
-4. The summary states that Lloris "chucked it around his neck before trudging onward," but the article states that he "nonchalantly picked it up and chucked it around his neck." The summary is incorrect because it uses more dramatic language to describe Lloris's actions.
-
-Overall, the summary is not consistent with the article because it contains several inaccuracies and uses more dramatic language to describe the events.
+1. The summary states that Tottenham's fans may have been sick of the sight of Chelsea blue, implying that Tottenham lost to Chelsea in the FA Cup final.
+2. However, the article states that Tottenham lost to Chelsea in the Capital One Cup final, not the FA Cup final.
+3. The summary also states that Lloris wore a Chelsea scarf after the defeat, but the article does not mention anything about Lloris wearing a Chelsea scarf.
+4. Therefore, the summary is not consistent with the article because it incorrectly states the name of the competition Tottenham lost in and also falsely claims that Lloris wore a Chelsea scarf.
 
 ###Corrected:

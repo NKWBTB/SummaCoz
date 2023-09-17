@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester united have made an official approach for memphis depay ( right ) , says psv 's technical director
-the 21-year-old ( left ) has scored 20 goals in 26 league games for psv this season
-the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer . 
-
-    Article: 
-    manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
+<Article>
+manchester united have ramped up their efforts to sign psv eindhoven star memphis depay by making an official approach for the 21-year-old .
 the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
 van gaal is already familiar with the qualities of depay having named him in his 23-man world cup squad last year as holland finished third in brazil .
 video scroll down to see depay 's stunning free kick against heerenveen
@@ -54,17 +49,25 @@ international star and world cup goalscorer
 depay was handed his first oranje call-up by louis van gaal in 2013 and was selected for holland 's world cup squad a year later .
 the energetic frontman scored the winning goal in holland 's 3-9 victory over australia , before coming off the bench to net against chile and help van gaal 's men seal top spot in group b.
 having impressed in brazil , depay was nominated for the tournament 's ` best young player ' award but lost out to france midfielder paul pogba .
-click here to read sportsmail 's full background article about memphis depay . 
+click here to read sportsmail 's full background article about memphis depay .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the summary is not consistent with the article. Here are the steps to explain why:
+<Summary>
+manchester united have made an official approach for memphis depay ( right ) , says psv 's technical director
+the 21-year-old ( left ) has scored 20 goals in 26 league games for psv this season
+the eredivisie champions have confirmed that the red devils have made a move over the holland international - with united manager louis van gaal keen to make him one of his first signings this summer .
+</Summary>
 
-1. The summary states that Manchester United have made an official approach for Memphis Depay, but the article does not mention this. Instead, the article states that Manchester United have ramped up their efforts to sign Depay, but there is no mention of an official approach.
-2. The summary mentions that Depay has scored 20 goals in 26 league games for PSV this season, but the article only mentions that he has scored 20 goals in 26 league games for PSV this season.
-3. The summary states that the article is about Manchester United's efforts to sign Depay, but the article is actually about Depay's prolific season at PSV and his potential transfer to a bigger club.
-4. The summary mentions that Depay is worth more than the £15 million that Tottenham offered for him last summer, but the article does not mention this. Instead, the article mentions that there has been contact with Manchester United and other big European clubs, but it does not mention any specific figures.
-5. The summary states that Depay is 21 years old, but the article does not mention his age.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, such as an official approach from Manchester United, and it focuses on Depay's transfer to a bigger club, whereas the article focuses on his prolific season at PSV. Additionally, the summary mentions specific figures for the transfer fee that were not mentioned in the article.
+The summary is not consistent with the article because:
+
+Step 1: The summary states that Manchester United have made an official approach for Memphis Depay, but the article does not mention this. Instead, the article states that PSV Eindhoven's technical director has confirmed that Manchester United have made a move for Depay, but does not use the phrase "official approach."
+
+Step 2: The summary claims that Depay has scored 20 goals in 26 league games for PSV this season, but the article does not mention this specific statistic. The article does state that Depay has scored 20 goals in the league this season, but it does not provide the exact number of games he has played.
+
+Step 3: The summary states that the Eredivisie champions have confirmed that Manchester United have made a move for Depay, but the article does not quote the champions as saying this. Instead, the article quotes PSV's technical director as confirming the move.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and it does not accurately convey the information that is present in the article.
 
 ###Corrected:

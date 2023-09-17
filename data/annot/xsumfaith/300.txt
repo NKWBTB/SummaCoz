@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    apple has announced that it is cracking down a code that allows users to access to their handsets. 
-
-    Article: 
-    It follows suggestions third-party software had been used to steal intimate photos of celebrities - posted online last month - from iCloud.
+<Article>
+It follows suggestions third-party software had been used to steal intimate photos of celebrities - posted online last month - from iCloud.
 The action should stop the tool from being able to infiltrate Apple's internet storage service if the safety measure is implemented.
 However, the security facility remains an opt-in choice.
 One expert suggested that Apple should instead make it the default option.
@@ -31,17 +28,19 @@ But another security expert downplayed the risk of lost recovery keys, and said 
 "And that applies to not just Apple, but companies like Microsoft and Google too."
 Apple has told the Wall Street Journal that it "plans to more aggressively encourage people" to turn two-factor authentication on and use stronger passwords.
 "When I step back from this terrible scenario that happened and say what more could we have done, I think about the awareness piece," chief executive Tim Cook told the newspaper.
-"I think we have a responsibility to ratchet that up. That's not really an engineering thing." 
+"I think we have a responsibility to ratchet that up. That's not really an engineering thing."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+apple has announced that it is cracking down a code that allows users to access to their handsets.
+</Summary>
 
-1. The summary states that Apple is cracking down on a code that allows users to access their handsets, while the article actually discusses Apple's implementation of two-factor authentication to prevent unauthorized access to iCloud storage.
-2. The summary implies that the new measure is a response to the recent celebrity photo hacking incident, but the article does not mention this. Instead, it focuses on the security improvements made by Apple to prevent cyber-thieves from logging into users' accounts with stolen or guessed passwords.
-3. The summary mentions that the new measure requires users to enter a four-digit code, but the article states that the code is only required when users access their accounts from a new device.
-4. The summary does not mention the recovery key, which is a new feature introduced by Apple to allow users to regain access to their accounts in the event of a lost or stolen device. The article mentions this feature and highlights its potential vulnerabilities.
-5. The summary does not discuss the security expert's concerns about the recovery key and the potential risks of lost recovery keys, which are discussed in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article, which focuses on Apple's security improvements and the potential vulnerabilities of the recovery key.
+1. The summary states that Apple has announced a crackdown on a code that allows users to access their handsets, but the article does not mention anything about a crackdown or restricting access to handsets.
+2. The article discusses Apple's implementation of two-factor authentication to prevent cyber-thieves from accessing iCloud backups, but the summary does not mention anything about two-factor authentication or iCloud.
+3. The summary does not provide any specific information about the changes made by Apple, while the article provides detailed information about the changes and their purpose.
+
+Therefore, the summary is not consistent with the article. The summary is too general and does not accurately reflect the content of the article. The article discusses Apple's security measures and the changes made to prevent cyber-thieves from accessing iCloud backups, while the summary only mentions a vague "crackdown" on access to handsets.
 
 ###Corrected:

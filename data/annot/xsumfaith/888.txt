@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    italy scored two late goals to beat italy in the first leg of their copa del rey victory over belgium. 
-
-    Article: 
-    Sunderland's Giaccherini slotted home in the first half after collecting Leonardo Bonucci's superb long pass.
+<Article>
+Sunderland's Giaccherini slotted home in the first half after collecting Leonardo Bonucci's superb long pass.
 Southampton's Pelle sealed the win in injury time with an emphatic volley following an incisive break.
 Belgium were very disappointing, with Romelu Lukaku and Divock Origi wasteful in front of goal.
 Everton forward Lukaku curled over from the edge of the box with just the keeper to beat while Liverpool's Origi missed two opportunities to head his side level.
@@ -74,18 +71,21 @@ Foul by Éder (Italy).
 Corner,  Italy. Conceded by Laurent Ciman.
 Attempt blocked. Emanuele Giaccherini (Italy) right footed shot from outside the box is blocked. Assisted by Marco Parolo.
 Substitution, Belgium. Divock Origi replaces Romelu Lukaku.
-Foul by Dries Mertens (Belgium). 
+Foul by Dries Mertens (Belgium).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+italy scored two late goals to beat italy in the first leg of their copa del rey victory over belgium.
+</Summary>
 
-1. The summary states that Italy scored two late goals to beat Belgium, while the article states that Italy won the game with a single goal in the first half.
-2. The summary mentions that Belgium were disappointing and wasteful in front of goal, while the article notes that Belgium had more possession and created more chances, but were let down by their finishing.
-3. The summary states that Italy's triumph was due to superior organization and discipline, while the article suggests that Italy's victory was due to their meticulous and tactically astute coach, Antonio Conte, and their stubborn Juventus-centric defense.
-4. The summary mentions that Belgium were vulnerable to counter-attacking brilliance, while the article notes that Belgium's defense was vulnerable to Italy's quick transitions.
-5. The summary states that Belgium had more possession and created more chances, while the article notes that Italy had more possession and created more chances.
-6. The summary states that Italy won the game 2-0, while the article states that Italy won the game 1-0.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates Italy's dominance and downplays Belgium's performance. The article presents a more balanced view of the game, noting that both teams had their strengths and weaknesses and that the game was a close and tactical affair.
+1. The summary states that Italy scored two late goals to beat Belgium, which is not consistent with the article.
+2. The article states that Italy won the match 2-0, with the two goals scored in the first half and the second half, respectively.
+3. The summary does not mention the time period when the goals were scored, implying that both goals were scored in the late stages of the game.
+4. The article does not mention any late goals scored by Italy, only mentioning that Italy took the lead in the first half through Giaccherini's goal and that Pelle sealed the win in injury time with an emphatic volley.
+5. Therefore, the summary is not consistent with the article, as it implies that Italy scored two late goals, while the article states that Italy scored two goals in the first half and one in injury time.
+
+Overall, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

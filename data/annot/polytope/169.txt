@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chelsea manager jose mourinho has revealed that he talks to god every day , but never about football and never discusses the game with his wife . 
-the 52-year-old father-of-two said he only prays for things in his personal life , never about the game . 
-the former real madrid manager said that he tries his best to separate his professional and family life . 
-
-    Article: 
-    mourinho with his wife matilde faria at the 2014 victoria 's secret fashion show in london
+<Article>
+mourinho with his wife matilde faria at the 2014 victoria 's secret fashion show in london
 chelsea football manager jose mourinho has revealed that he talks to god every day , but never about football and never discusses the game with his wife .
 the father-of-two said that he and his family ` know about poverty ' and have been privileged to have worked with the word food programme as an ambassador against hunger .
 the 52-year-old football manager said that he tries his best to separate his professional and his family life .
@@ -32,15 +27,30 @@ chelsea are currently top of the league and are playing struggling qpr this week
 earlier this season , mourinho was fined £ 25,000 by football authorities for claiming there was a ` campaign ' against chelsea after cesc fabregas was booked for diving against southampton .
 mourinho , with his wife and children at the hunger games premiere , said he only prays for things in his personal life , never about football
 mourinho 's son , jose mario , celebrates chelsea 's capital one cup victory with some of the players this year
-the 52-year-old father-of-two said that he prays every day but only goes to church regularly in portugal 
+the 52-year-old father-of-two said that he prays every day but only goes to church regularly in portugal
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+chelsea manager jose mourinho has revealed that he talks to god every day , but never about football and never discusses the game with his wife . 
+the 52-year-old father-of-two said he only prays for things in his personal life , never about the game . 
+the former real madrid manager said that he tries his best to separate his professional and family life .
+</Summary>
 
-1. The summary states that Mourinho only prays for things in his personal life and never about football, but the article states that he prays every day and only goes to church regularly in Portugal. This implies that he does pray about football-related matters.
-2. The summary states that Mourinho never discusses football with his wife, but the article states that he and his family have been privileged to have worked with the World Food Programme as an ambassador against hunger. This suggests that he does discuss football with his wife, as they have worked together on charitable initiatives related to the sport.
-3. The summary portrays Mourinho as a devoutly religious person who only prays for personal matters, but the article presents him as a more nuanced figure who is deeply religious but also discusses football with his family and has a strong faith in God that influences his professional life.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's the reasoning step by step:
 
-Overall, the summary oversimplifies and misrepresents Mourinho's comments about his faith and family life, and does not accurately reflect the content of the article.
+1. The summary states that Jose Mourinho talks to God every day, but never about football.
+2. However, in the article, Mourinho is quoted as saying that he only prays for things in his personal life, never about football.
+3. This implies that Mourinho does not talk to God about football, which contradicts the summary.
+4. Therefore, the summary is not consistent with the article.
+
+Here's the summary again, with the inconsistency highlighted:
+
+<Summary>
+chelsea manager jose mourinho has revealed that he talks to god every day, but never about football and never discusses the game with his wife. 
+the 52-year-old father-of-two said he only prays for things in his personal life, never about the game.
+</Summary>
+
+In the article, Mourinho says he only prays for things in his personal life, but the summary states that he talks to God every day about football. This is the inconsistency.
 
 ###Corrected:

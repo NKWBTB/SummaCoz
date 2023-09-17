@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested on suspicion of murder after a man was stabbed to death in south yorkshire. 
-
-    Article: 
-    Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
+<Article>
+Adrian Fatchett, 52, was injured at a house in Highfield Avenue, Athersley South, said South Yorkshire Police.
 Mr Fatchett died on Saturday night despite being treated at the scene by paramedics, officers said.
-A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police. 
+A 17-year-old boy arrested on suspicion of murder has been bailed and investigations continue, said police.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been arrested on suspicion of murder after a man was stabbed to death in south yorkshire.
+</Summary>
 
-1. The summary states that the man was arrested on suspicion of murder, but the article does not mention any arrest. Instead, it states that a 17-year-old boy was arrested on suspicion of murder, but he has since been bailed.
-2. The summary mentions that the man was stabbed to death, but the article does not mention any stabbing. Instead, it states that Adrian Fatchett died after being injured at a house in Highfield Avenue.
-3. The summary does not mention the location of the incident, but the article states that the incident occurred in Highfield Avenue, Athersley South.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article. Specifically, the summary mentions an arrest and a stabbing, neither of which are mentioned in the article.
+1. The article states that the man, Adrian Fatchett, died on Saturday night despite being treated at the scene by paramedics.
+2. The summary does not mention the man's death. Instead, it only states that a man has been arrested on suspicion of murder.
+3. Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. Specifically, the article states that the man died, while the summary does not mention his death.
+
+So, the reason why the summary is not consistent with the article is that it does not accurately reflect the information provided in the article. The summary only mentions the arrest of a man on suspicion of murder, but it does not mention the man's death, which is a key piece of information in the article.
 
 ###Corrected:

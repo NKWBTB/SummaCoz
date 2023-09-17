@@ -1,38 +1,29 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    british number three kyle edmund is through to the quarter-finals of the indian wells fargo championship after losing 6-4 6-3. 
-
-    Article: 
-    The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
+<Article>
+The world number 45 took the first set but lost 6-7 (2-7) 6-4 6-4 against the reigning US Open champion.
 Edmund, 21, impressed but Wawrinka broke serve at 3-2 in the second set and twice in the decider to win in two hours 36 minutes.
 The Swiss 31-year-old will play third seed Kei Nishikori in the semi-finals.
 Canadian top seed and defending champion Milos Raonic beat 14-time Grand Slam champion Rafael Nadal 4-6 6-3 6-4 to reach the last four.
 The world number three will play Bulgarian seventh seed Grigor Dimitrov, who beat Austrian Dominic Thiem.
 British number four Aljaz Bedene was also knocked at the quarter-final stage of the Chennai Open in India on Friday.
-The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire. 
+The world number 101 lost 6-3 6-0 to French fifth seed Benoit Paire.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+british number three kyle edmund is through to the quarter-finals of the indian wells fargo championship after losing 6-4 6-3.
+</Summary>
 
-1. The summary states that British number three Kyle Edmund is through to the quarter-finals of the Indian Wells Fargo Championship after losing 6-4 6-3.
+Explain your reasoning step by step:[/INST]
+ Sure, here's my reasoning step by step:
 
-This is incorrect because the article states that Edmund lost to Wawrinka, not that he won.
-
-2. The article states that Edmund lost to Wawrinka in three sets, with the scores being 6-7 (2-7) 6-4 6-4.
-
-This contradicts the summary, which states that Edmund lost 6-4 6-3.
-
-3. The article also states that Wawrinka broke serve at 3-2 in the second set and twice in the decider to win in two hours 36 minutes.
-
-This is not mentioned in the summary.
-
-4. The article mentions that Edmund will not play in the semi-finals, as he lost to Wawrinka.
-
-This contradicts the summary, which does not mention that Edmund lost.
-
-Therefore, the summary is not consistent with the article because it contains incorrect information about Edmund's outcome in the match and does not include all the information provided in the article.
+1. The article states that Kyle Edmund, a British player, lost to Stan Wawrinka in the quarterfinals of the tournament.
+2. The summary states that Kyle Edmund is through to the quarterfinals of the Indian Wells Fargo Championship after losing 6-4 6-3.
+3. This is inconsistent with the article, as the article states that Edmund lost to Wawrinka, not that he won and advanced to the quarterfinals.
+4. The reason for this inconsistency is that the summary is incorrect and does not accurately reflect the information in the article.
+5. The article states that Edmund lost 6-7 (2-7) 6-4 6-4 to Wawrinka, but the summary states that he lost 6-4 6-3. This is a clear mistake that leads to the inconsistency.
+6. Therefore, the summary is not consistent with the article, and the correct information should be used to ensure consistency.
 
 ###Corrected:

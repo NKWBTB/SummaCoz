@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    google has lifted a ban on google\'s search service in pakistan, which has been blocked by the country\'s government. 
-
-    Article: 
-    Pakistan's telecoms regulator said the ban was no longer necessary because Google, which owns YouTube, had now launched a Pakistan-specific version.
+<Article>
+Pakistan's telecoms regulator said the ban was no longer necessary because Google, which owns YouTube, had now launched a Pakistan-specific version.
 YouTube has denied claims that the authorities can filter content.
 Many young Pakistanis have welcomed the lifting of the ban but some activists want details of the deal with Google.
 They say there should be greater transparency of the terms agreed between Google and the government.
@@ -22,16 +19,19 @@ Pakistan's ban on YouTube was imposed by the Supreme Court in 2012 after the US-
 The amateur-made video was condemned in the Muslim world and sparked widespread protests for its mocking portrayal of the Prophet Muhammad.
 More than a dozen people died in protests in Pakistan.
 Blasphemy is a crime in Pakistan and can carry the death penalty, although such a sentence has not been carried out.
-Google revealed last week that it had launched local versions of YouTube for Nepal, Pakistan and Sri Lanka. 
+Google revealed last week that it had launched local versions of YouTube for Nepal, Pakistan and Sri Lanka.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+google has lifted a ban on google\'s search service in pakistan, which has been blocked by the country\'s government.
+</Summary>
 
-1. The summary states that Google has lifted a ban on its search service in Pakistan, but the article does not mention anything about a ban on Google's search service. Instead, the article focuses on the lifting of the ban on YouTube.
-2. The summary states that the ban was lifted because Google launched a Pakistan-specific version of YouTube, but the article does not mention this as a reason for the lift. Instead, the article states that the ban was lifted because Google provided a process for the government to request the removal of offending content.
-3. The summary mentions that some activists want greater transparency about the deal between Google and the government, but the article does not mention any such activists or their concerns.
-4. The summary mentions that YouTube will restrict access to offending content after a thorough review, but the article states that YouTube will not automatically grant government requests for content removal.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions. It is important to carefully read and understand the article before creating a summary to ensure that the summary accurately reflects the content of the article.
+1. The summary states that Google has lifted a ban on its search service in Pakistan, which is not consistent with the article.
+2. The article states that the ban was imposed by the Pakistani government, not by Google.
+3. The article also mentions that Google has launched a Pakistan-specific version of YouTube, but there is no mention of Google lifting a ban on its search service.
+4. The summary is not supported by the information in the article, as there is no mention of Google lifting a ban on its search service.
+5. Therefore, the summary is not consistent with the article and may be incorrect or misleading.
 
 ###Corrected:

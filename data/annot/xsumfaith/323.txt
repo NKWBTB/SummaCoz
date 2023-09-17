@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    us intelligence leaker edward snowden has been leaked from the us government. 
-
-    Article: 
-    Ed Snowden, a 29-year-old former technical worker for the CIA, has since revealed himself to be the source of the leaks in an interview with the Guardian news website.
+<Article>
+Ed Snowden, a 29-year-old former technical worker for the CIA, has since revealed himself to be the source of the leaks in an interview with the Guardian news website.
 US director of national intelligence James Clapper described the leaks as "extremely damaging" to national security, but Mr Snowden said he had acted because he found the extent of US surveillance "horrifying".
 What could the US government see?
 According to the documents revealed by Ed Snowden, the US National Security Agency (NSA) has access on a massive scale to individual chat logs, stored data, voice traffic, file transfers and social networking data of individuals.
@@ -47,15 +44,22 @@ However privacy concerns about information uploaded to the internet have been ar
 "Since many of the world's leading technology companies are based in the US, essentially anyone who participates in our interconnected world and uses popular services like Google or Skype can have their privacy violated through the Prism programme," says  Privacy International on its website.
 "The US government can have access to much of the world's data, by default, with no recourse."
 Edward Snowden, the source of the leaked documents, said he had acted over concerns about privacy.
-"I don't want to live in a society that does these sort of thingsâ€¦ I do not want to live in a world where everything I do and say is recorded," he told the Guardian. 
+"I don't want to live in a society that does these sort of thingsâ€¦ I do not want to live in a world where everything I do and say is recorded," he told the Guardian.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the provided article, the summary statement "Edward Snowden, a US intelligence leaker, has been leaked from the US government" is not consistent with the article's content. Here's why:
+<Summary>
+us intelligence leaker edward snowden has been leaked from the us government.
+</Summary>
 
-1. Edward Snowden is not a US intelligence leaker: The article correctly identifies Snowden as a former technical worker for the CIA, but it does not describe him as a leaker. Instead, it reports that he revealed himself as the source of the leaks in an interview with the Guardian news website.
-2. The article does not mention the US government leaking Snowden: The article focuses on the NSA's eavesdropping operations and the access it has to individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals. It does not mention the US government leaking Snowden or anything related to his whereabouts or status.
-3. The article emphasizes the extent of NSA surveillance: The article highlights the scope of the NSA's surveillance activities, including access to millions of phone records and the ability to process and store vast amounts of information through Prism, a secret program that enables "backdoor" access to the servers of nine major technology companies.
+Explain your reasoning step by step:[/INST]
+  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Therefore, the summary statement "Edward Snowden, a US intelligence leaker, has been leaked from the US government" is not consistent with the article's content, which focuses on the NSA's surveillance activities and Snowden's revelation as the source of the leaks.
+1. The summary mentions "us intelligence leaker Edward Snowden has been leaked from the US government," implying that Snowden is the one who was leaked, but the article states that he is the one who leaked the documents.
+2. The summary does not provide any specific information about the leaked documents or the NSA's surveillance activities, while the article provides detailed information about the documents revealed by Snowden and the NSA's access to individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals.
+3. The summary does not mention the companies involved in the NSA's surveillance activities, such as Verizon, Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, and Apple, as mentioned in the article.
+4. The summary does not mention the Prism program, which is a secret government program that allows the NSA to access the servers of major technology companies and collect data on individuals, as mentioned in the article.
+5. The summary does not mention the national security concerns and the legal frameworks that govern the NSA's surveillance activities, as mentioned in the article.
+
+In conclusion, the summary is not consistent with the article because it does not provide specific information about the leaked documents, the NSA's surveillance activities, the companies involved, the Prism program, and the legal frameworks that govern the NSA's activities. Instead, it only mentions that Edward Snowden has been leaked from the US government, which is not accurate.
 
 ###Corrected:

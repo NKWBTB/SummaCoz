@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man who was kidnapped in mexico city centre has been arrested in connection with the kidnapping and murder of a olympiakos fan. 
-
-    Article: 
-    Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
+<Article>
+Pulido, who plays for the Greek club, Olympiakos, cut his wrist when he punched a glass pane on a door as he tried to escape before police arrived.
 Pulido, 25, was abducted at gunpoint on Saturday night in his home town of Ciudad Victoria in Tamaulipas state.
 A 38-year-old man has been arrested.
 Officials say the man had confessed to belonging to a local criminal gang. Police are searching for another three men believed to have been involved in the kidnapping.
@@ -21,29 +18,21 @@ Pulido, with one of his hands bandaged, told reporters early on Monday: "[I am] 
 Tamaulipas is one of Mexico's most violent states, and Mexico recently deployed more security forces to tackle cartels operating in the area.
 The country has one of the world's highest kidnapping rates, with government figures saying some 1,000 people are abducted every year.
 Pulido joined Olympiakos last July and finished the season with six goals in 15 games.
-He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament. 
+He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not called up for the upcoming Copa America tournament.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the steps:
+<Summary>
+a man who was kidnapped in mexico city centre has been arrested in connection with the kidnapping and murder of a olympiakos fan.
+</Summary>
 
-Step 1: Identify the key points in the summary.
+Explain your reasoning step by step:[/INST]
 
-* The summary states that a man who was kidnapped in Mexico City Centre has been arrested in connection with the kidnapping and murder of an Olympiakos fan.
+1. The summary states that the man was arrested in connection with the kidnapping and murder of an Olympiakos fan.
+2. However, the article states that the man was arrested in connection with the kidnapping of the Olympiakos fan, but there is no mention of murder.
+3. Therefore, the summary is not consistent with the article, as it adds the word "murder" which is not present in the article.
+4. Additionally, the article states that the man was arrested for kidnapping, but the summary states that he was arrested in connection with the kidnapping and murder, which is not accurate.
+5. Finally, the article does not mention any murder, and the only crime mentioned is kidnapping, so it is unlikely that the man was arrested for murder.
 
-Step 2: Identify the key points in the article.
-
-* The article states that Pulido, an Olympiakos player, was abducted at gunpoint in his home town of Ciudad Victoria in Tamaulipas state.
-* Pulido was able to escape by punching a glass pane on a door and calling the emergency services.
-* A 38-year-old man has been arrested in connection with the kidnapping, and police are searching for three other men believed to have been involved.
-* Pulido threatened and beat one of his abductors while on the phone with the emergency services, demanding to be told where they were.
-
-Step 3: Identify the inconsistencies between the summary and the article.
-
-* The summary states that the man who was arrested was involved in the kidnapping and murder of an Olympiakos fan, but the article does not mention any details about a murder or the identity of the victim.
-* The summary states that the man was arrested in Mexico City Centre, but the article states that the kidnapping took place in Ciudad Victoria, which is not the same location.
-
-Step 4: Explain why the summary is not consistent with the article.
-
-* The summary is not consistent with the article because it includes details that are not present in the article, such as the murder of an Olympiakos fan and the location of the arrest being Mexico City Centre. These details are not supported by the information in the article, and therefore the summary is not an accurate representation of the content.
+In conclusion, the summary is not consistent with the article because it adds the word "murder" which is not present in the article, and it is not accurate to say that the man was arrested in connection with the kidnapping and murder when the article only mentions kidnapping.
 
 ###Corrected:

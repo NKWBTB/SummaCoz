@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    UNK UNK , 7 , was skiing with his family when he fell over a UNK drop .
-the boy was skiing with his family when he fell over a UNK drop .
-UNK UNK , 44 , has been described as a ' gentle climber ' . 
-
-    Article: 
-    the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' .
+<Article>
+the family of the seven-year-old british boy killed in the french alps say his death has left a ` vast void in their hearts ' .
 carwyn scott-howell was described as a ` daring , outgoing and determined ' youngster whose ` handsome smile lit up any room ' .
 the schoolboy was skiing with his family when he became separated from his mother and headed into dense woodland where he fell over a 164ft drop .
 tragedy : carwyn scott-howell ( left ; right ) fell to his death while on holiday with his mother ceri , nine-year-old sister antonia and brother gerwyn , 19 , in the alps
@@ -47,17 +42,26 @@ a tragic , tragic accident . '
 carwyn lived with his parents at their farmhouse in the village near the brecon beacons .
 he is said to have loved the mountains and helping on the farm where he had grown up .
 the family often attended food fairs across the country and david cameron was pictured buying a scotch egg from the family 's stand last year .
-holiday : carwyn 's family has said ` the most happy ski holiday ' in flaine , france , turned to tragedy after carwyn became detached from the group on the last run of the day 
+holiday : carwyn 's family has said ` the most happy ski holiday ' in flaine , france , turned to tragedy after carwyn became detached from the group on the last run of the day
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+UNK UNK , 7 , was skiing with his family when he fell over a UNK drop .
+the boy was skiing with his family when he fell over a UNK drop .
+UNK UNK , 44 , has been described as a ' gentle climber ' .
+</Summary>
 
-1. The summary states that Carwyn Scott-Howell fell over a UNK drop, but the article does not mention any specific drop. Instead, it describes how Carwyn fell while skiing in woodland and how his family and search teams found his body.
-2. The summary states that Carwyn was skiing with his family when he fell, but the article does not mention his family being with him at the time of the accident. Instead, it describes how his mother Cari and sister Antonia were skiing together when Antonia lost her ski on a jump, and how Cari stopped to help her while Carwyn continued on ahead.
-3. The summary states that Carwyn was a "gentle climber," but the article does not use this phrase to describe him. Instead, it describes Carwyn as a "daring, outgoing and determined" youngster who was an avid skier and snowboarder.
-4. The summary states that Carwyn's body was found by footprints in the snow, but the article does not mention footprints. Instead, it describes how search teams found Carwyn's body based on the broken-up final steps he took before tackling the sharper inclines on his backside.
-5. The summary states that Carwyn was heading for the resort when he fell, but the article does not mention him heading for the resort. Instead, it describes how he was attracted by the ski station he could see below and how he was trying to get back to Flaine.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations that do not accurately reflect the events described in the article.
+1. The summary is not consistent with the article because it does not accurately describe the events leading to the boy's death.
+2. The summary states that the boy fell over a UNK drop, but the article states that he fell over a 164ft drop.
+3. The summary also misstates the age of the boy, saying he was 7, when the article correctly states that he was 10.
+4. The summary misstates the name of the boy's mother, saying she was 44, when the article correctly states that she was 44.
+5. The summary does not mention the fact that the boy was skiing with his family when he became separated from his mother and fell over the drop.
+6. The summary does not mention the dense woodland where the boy's body was found, or the fact that his mother desperately tried to find him.
+7. The summary does not mention the footprints in the snow that led police to the boy's body, or the fact that the police believe he entered the woodland because he had spotted the resort through the trees.
+8. The summary does not mention the tragic circumstances of the boy's death, or the devastation of his family and community.
+
+Overall, the summary does not accurately convey the information in the article and is not a consistent representation of the events described.
 
 ###Corrected:

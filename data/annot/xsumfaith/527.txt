@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    unidentified assailants have hurled petrol bombs and fired shots at the istanbul offices of two staunchly pro-government turkish newspapers, the papers and the police say. 
-
-    Article: 
-    The daily Yeni Safak said its offices and those of Yeni Akit were attacked. No casualties were reported.
+<Article>
+The daily Yeni Safak said its offices and those of Yeni Akit were attacked. No casualties were reported.
 It said four masked assailants attacked the Yeni Safak building. Firefighters quickly extinguished the blaze.
 Police have cordoned off the area around the building.
 The two papers support the governing AK Party of President Recep Tayyip Erdogan.
@@ -14,17 +11,19 @@ The Yeni Akit offices are 20km (12 miles) away from the Yeni Safak building, and
 Windows in both buildings were shattered by the gunfire, Istanbul police said.
 "Numerous spent bullet casings were also found at both scenes," the police added. They are now hunting the assailants.
 So far no group has claimed it was behind the attacks.
-Last September, pro-government protesters attacked the offices of the daily Hurriyet, accusing the paper of misquoting President Erdogan. 
+Last September, pro-government protesters attacked the offices of the daily Hurriyet, accusing the paper of misquoting President Erdogan.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given summary and article, here's why the summary is not consistent with the article:
+<Summary>
+unidentified assailants have hurled petrol bombs and fired shots at the istanbul offices of two staunchly pro-government turkish newspapers, the papers and the police say.
+</Summary>
 
-1. The summary states that unidentified assailants hurled petrol bombs and fired shots at the Istanbul offices of two pro-government Turkish newspapers, while the article only mentions that four masked assailants attacked the Yeni Safak building, and that there were no casualties.
-2. The summary mentions that the Yeni Akit offices are 20km away from the Yeni Safak building, but the article does not mention anything about Yeni Akit offices being attacked.
-3. The summary states that the attacks happened almost at the same time, but the article only mentions that the attack on Yeni Safak happened early on Thursday, without specifying the exact time.
-4. The summary mentions that windows in both buildings were shattered by the gunfire, but the article only mentions that windows in the Yeni Safak building were shattered.
-5. The summary states that numerous spent bullet casings were found at both scenes, but the article only mentions that spent bullet casings were found at the Yeni Safak building.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it includes details that are not present in the article, such as the attack on Yeni Akit offices, the simultaneous nature of the attacks, and the presence of spent bullet casings at both scenes. Additionally, the article does not mention any petrol bombs being hurled, which is also not present in the summary.
+1. The article states that the assailants were masked, but the summary does not mention this detail. The summary only mentions "unidentified assailants," which is inconsistent with the article's description of the attackers as masked.
+2. The article states that the attacks happened "almost at the same time" and that the windows in both buildings were shattered by gunfire, but the summary does not mention this detail. Instead, it only says that the assailants hurled petrol bombs and fired shots, which is not consistent with the article's description of the attacks.
+3. The article states that the police are hunting the assailants and that no group has claimed responsibility for the attacks, but the summary does not mention this detail. Instead, it only says that the attackers fired shots, which implies that they were not apprehended or identified.
+
+Therefore, the summary is not consistent with the article because it does not accurately describe the details of the attacks, such as the masked nature of the assailants, the simultaneous nature of the attacks, and the ongoing investigation by the police.
 
 ###Corrected:

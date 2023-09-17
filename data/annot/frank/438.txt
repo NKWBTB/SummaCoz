@@ -1,32 +1,22 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    kristina karo alleges that she was a classmate of ms kunis , 31 , who moved to the u.s. from ukraine in 1991 , and the pair were ` inseparable ' growing up . karo , now living in los angeles , claims the theft of her pet chicken as a child in ukraine stole it from her . in her lawsuit , karo states that ms kunis would come over to the chicken farm in north-west ukraine . 
+<Article>
+Mila Kunis is being sued by a Ukrainian wannabe singer who claims the Hollywood actress 'stole her pet chicken' as children. Kristina Karo alleges that she was a classmate of Ms Kunis, 31, who moved to the U.S. from Ukraine in 1991,  and that the pair were 'inseparable'  growing up. Karo, now living in Los Angeles, claims a seven-year-old Ms Kunis had been 'envious' of her pet hen, and that 25 years ago, she stole it from her. Bizzare lawsuit: Wannabe singer Kristina Karo  claims the theft of her pet chicken as a child in Ukraine traumatised her, and is now suing 'thief' Mila Kunis for $5,000 In her lawsuit, Karo states that Ms Kunis would come over to the chicken farm in north-west Ukraine where she lived, and play with the hen, called 'Doggie', TMZ reports. She alleges that when 'Doggie' disappeared, Ms Kunis confessed to the crime and told her 'Kristina, you can have any other chicken as a pet, you have a whole chicken farm', the website states. Karo, who has moved to Los Angeles in the hopes of launching a career as a singer, says the theft of her pet chicken  traumatised her and forced her to see a therapist. She claims that being in close proximity to Ms Kunis, who lives in Hollywood with partner Ashton Kutcher and daughter Wyatt, has 'brought back all the bad memories' and she now needs therapy again. Bad memories: The reason for the lawsuit 25 years after the 'theft' is that moving to LA, which is where Kunis also lives, has brought back memories of losing 'Doggie' for Karo and forced her back into therapy Not a bad egg: Mila Kunis, seen here with partner Ashton Kutcher in Los Angeles, is being accused of chicken theft despite growing up more than 100miles from Karo In her suit, Karo alleges that when 'Doggie' disappeared, Kunis confessed to the crime and told her 'Kristina, you can have any other chicken as a pet, you have a whole chicken farm' (stock image) Karo, whose song Give Me Green Card has more than 70,000 views on YouTube, is suing the actress Kunis for $5,000 for emotional distress and to cover her therapy bills. She also claims the theft of 'Doggie' 25 years ago has 'prevented her from pursuing the American dream', according to TMZ. Interestingly enough, Karo's self-penned online bio describes her as being 'born and raised in the small village Berezhnytsia', which is a three hour drive - and more than 100miles away -from Chernivtsi, where Mila Kunis lived before moving to the U.S. aged seven. Wannabe: 'Singer' Kristina Karo says she and Kunis were inseparable in first grade, but that the actress was jealous of her pet chicken 'Doggie' and stole the hen
+</Article>
 
-    Article: 
-    Mila Kunis is being sued by a Ukrainian wannabe singer who claims the Hollywood actress 'stole her pet chicken' as children. Kristina Karo alleges that she was a classmate of Ms Kunis, 31, who moved to the U.S. from Ukraine in 1991,  and that the pair were 'inseparable'  growing up. Karo, now living in Los Angeles, claims a seven-year-old Ms Kunis had been 'envious' of her pet hen, and that 25 years ago, she stole it from her. Bizzare lawsuit: Wannabe singer Kristina Karo  claims the theft of her pet chicken as a child in Ukraine traumatised her, and is now suing 'thief' Mila Kunis for $5,000 In her lawsuit, Karo states that Ms Kunis would come over to the chicken farm in north-west Ukraine where she lived, and play with the hen, called 'Doggie', TMZ reports. She alleges that when 'Doggie' disappeared, Ms Kunis confessed to the crime and told her 'Kristina, you can have any other chicken as a pet, you have a whole chicken farm', the website states. Karo, who has moved to Los Angeles in the hopes of launching a career as a singer, says the theft of her pet chicken  traumatised her and forced her to see a therapist. She claims that being in close proximity to Ms Kunis, who lives in Hollywood with partner Ashton Kutcher and daughter Wyatt, has 'brought back all the bad memories' and she now needs therapy again. Bad memories: The reason for the lawsuit 25 years after the 'theft' is that moving to LA, which is where Kunis also lives, has brought back memories of losing 'Doggie' for Karo and forced her back into therapy Not a bad egg: Mila Kunis, seen here with partner Ashton Kutcher in Los Angeles, is being accused of chicken theft despite growing up more than 100miles from Karo In her suit, Karo alleges that when 'Doggie' disappeared, Kunis confessed to the crime and told her 'Kristina, you can have any other chicken as a pet, you have a whole chicken farm' (stock image) Karo, whose song Give Me Green Card has more than 70,000 views on YouTube, is suing the actress Kunis for $5,000 for emotional distress and to cover her therapy bills. She also claims the theft of 'Doggie' 25 years ago has 'prevented her from pursuing the American dream', according to TMZ. Interestingly enough, Karo's self-penned online bio describes her as being 'born and raised in the small village Berezhnytsia', which is a three hour drive - and more than 100miles away -from Chernivtsi, where Mila Kunis lived before moving to the U.S. aged seven. Wannabe: 'Singer' Kristina Karo says she and Kunis were inseparable in first grade, but that the actress was jealous of her pet chicken 'Doggie' and stole the hen 
+<Summary>
+kristina karo alleges that she was a classmate of ms kunis , 31 , who moved to the u.s. from ukraine in 1991 , and the pair were ` inseparable ' growing up . karo , now living in los angeles , claims the theft of her pet chicken as a child in ukraine stole it from her . in her lawsuit , karo states that ms kunis would come over to the chicken farm in north-west ukraine .
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+Explain your reasoning step by step:[/INST]
 
-Step 1: The summary states that Kristina Karo alleges she was a classmate of Mila Kunis in first grade, but the article does not mention this.
+1. The summary states that Kristina Karo and Mila Kunis were classmates and were "inseparable" growing up. However, the article states that Karo and Kunis were not classmates, and that Karo is a wannabe singer who is suing Kunis for emotional distress.
+2. The summary claims that Karo's pet chicken was stolen by Kunis, but the article states that Karo alleges that Kunis confessed to the theft and told her she could have any other chicken as a pet.
+3. The summary does not mention anything about Karo's therapy bills or her claim that the theft of her pet chicken has prevented her from pursuing the American dream.
+4. The summary states that Karo and Kunis were classmates and were "inseparable" growing up, but the article states that Karo is a wannabe singer who has moved to Los Angeles in the hopes of launching a career as a singer.
 
-The article only states that Karo claims she and Kunis were "inseparable" growing up, without specifying any particular grade or age range.
-
-Step 2: The summary states that Karo's pet chicken "Doggie" disappeared 25 years ago, but the article does not mention this.
-
-The article only states that Karo claims Ms. Kunis stole her pet chicken when they were children, without specifying any particular time frame.
-
-Step 3: The summary states that Karo alleges that Ms. Kunis would come over to the chicken farm in north-west Ukraine where she lived, but the article does not mention this.
-
-The article only states that Karo claims Ms. Kunis would come over to her house to play with her pet chicken.
-
-Step 4: The summary states that Karo claims being in close proximity to Ms. Kunis in Los Angeles has "brought back all the bad memories" and forced her back into therapy, but the article does not mention this.
-
-The article only states that Karo claims the theft of her pet chicken traumatized her and forced her to see a therapist.
-
-Overall, the summary is not consistent with the article because it includes details that are not present in the article, such as Karo and Kunis being in the same grade, the time frame of the alleged theft, and Karo's current location in Los Angeles. Additionally, the summary includes details that are not supported by the article, such as Karo alleging that being in close proximity to Kunis has brought back bad memories and forced her back into therapy.
+Therefore, the summary is not consistent with the article. The summary is missing key details and includes inaccuracies, such as the claim that Karo and Kunis were classmates. Additionally, the summary does not mention Karo's lawsuit or her claims of emotional distress.
 
 ###Corrected:

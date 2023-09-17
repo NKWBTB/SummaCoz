@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    UNK ' corey ' campbell , 21 , was the ringleader of the gang .
-he had been staying in the basement of campbell 's mother 's house in mayfair .
-he had been staying in the basement of campbell 's mother 's house in mayfair .
-he had been staying in the basement of campbell 's mother 's house in mayfair . 
-
-    Article: 
-    three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
+<Article>
+three people have been sent to prison and another two are awaiting sentencing for their roles in a horrific assault on a 53-year-old man , who was beaten , tied to a chair , and covered in offensive tattoos .
 a philadelphia court heard thursday that corry ` corey ' campbell , 21 , was the ringleader of the gang , who have become known as the ` tattoo terrorists ' .
 campbell believed the victim , greg valecce , had hurt his cat , pebbles .
 valecce , an unemployed drug addict , had been staying in the basement of campbell 's mother 's house in mayfair , in the city 's northeast , however that basement would become a torture chamber where he would be strapped to a chair and violated for three days .
@@ -41,19 +35,34 @@ campbell 's attorney said his client had a rough childhood , with his father lea
 he was sentenced to 20 years in state prison .
 halin received the same sentence for what he did to valecce .
 ng , whose attorney who said she had fallen in with the wrong people at school , was sentenced to 23 months in a state prison .
-another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial . 
+another man involved , david thomas , 28 , is awaiting sentencing , while another defendant jennifer pratt , 40 , is awaiting trial .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's why the summary is not consistent with the article:
+<Summary>
+UNK ' corey ' campbell , 21 , was the ringleader of the gang .
+he had been staying in the basement of campbell 's mother 's house in mayfair .
+he had been staying in the basement of campbell 's mother 's house in mayfair .
+he had been staying in the basement of campbell 's mother 's house in mayfair .
+</Summary>
 
-1. The summary states that Corey Campbell was the ringleader of the gang, but the article states that Campbell was the one who had been hurt by the victim, Greg Valecce.
-2. The summary mentions that Valecce was beaten, tied to a chair, and covered in offensive tattoos, but the article does not mention any of these details.
-3. The summary states that the abuse occurred in the basement of Campbell's mother's house, but the article states that the abuse occurred in the basement of a rowhouse on Brighton Avenue in Mayfair.
-4. The summary mentions that Campbell and his accomplices filmed the abuse, but the article does not mention this detail.
-5. The summary states that Valecce was able to escape on April 1 while the others slept, but the article states that Valecce was able to escape after the three-day ordeal.
-6. The summary mentions that the incident lasted for 42 hours, but the article does not mention the duration of the incident.
-7. The summary states that the tattoos were removed, but the article does not mention this detail.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
-Overall, the summary is not consistent with the article because it exaggerates Campbell's role in the abuse, omits key details about the abuse itself, and includes details that are not supported by the article.
+Step 1: Identify the inconsistencies
+
+* The summary only mentions the name "Corey Campbell" once, while the article mentions it multiple times.
+* The summary does not provide any information about the victim, Greg Valecce, or the other defendants involved in the assault.
+* The summary does not mention the location of the assault or the fact that it occurred in the basement of Campbell's mother's house.
+
+Step 2: Analyze the reasons for the inconsistencies
+
+* The summary is too brief and lacks important details, which is why it does not provide any information about the victim or the other defendants.
+* The summary only focuses on Campbell as the ringleader, while the article provides more information about the other defendants and their roles in the assault.
+* The summary does not mention the location of the assault or the fact that it occurred in the basement of Campbell's mother's house, which is a significant detail that is mentioned in the article.
+
+Step 3: Conclude
+
+* The summary is not consistent with the article because it lacks important details and only focuses on Campbell as the ringleader.
+* The article provides more information about the other defendants, the victim, and the location of the assault, which are crucial details that are missing from the summary.
 
 ###Corrected:

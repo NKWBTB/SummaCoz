@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a number of jewish community centres in the us have been threatened by hoax bomb threats, the white house says. 
-
-    Article: 
-    The latest threats bring the number of incidents to 69 in 27 states in the past month, according to the JCC Association of North America.
+<Article>
+The latest threats bring the number of incidents to 69 in 27 states in the past month, according to the JCC Association of North America.
 No bombs were found at any of the centres targeted with telephone calls.
 Last week, 27 Jewish community centres in 17 US states reported receiving hoax bomb threats.
 All of the threats made on Monday, along with previous incidents in January, turned out to be false and Jewish centres have since reopened with normal services resumed.
@@ -21,21 +18,19 @@ The JCC Association of North America, a network of health and education centres,
 In an earlier statement the FBI said that along with the US justice department it was investigating possible civil rights violations in connection with the threats.
 The Anti-Defamation League, a Jewish anti-bigotry organisation, said in a statement that it was "deeply disturbed" by the latest threats to the Jewish community.
 Meanwhile, more than 100 headstones have been damaged at a Jewish cemetery in St Louis, Missouri, local media report.
-In the Canadian city of Toronto, Mayor John Tory has condemned anti-Semitic hate notes left outside the homes of Jewish residents. 
+In the Canadian city of Toronto, Mayor John Tory has condemned anti-Semitic hate notes left outside the homes of Jewish residents.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a number of jewish community centres in the us have been threatened by hoax bomb threats, the white house says.
+</Summary>
 
-1. The summary states that the White House said that Jewish community centers in the US have been threatened by hoax bomb threats, but the article does not mention the White House making any statement.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the threats were made through calls with voice-disguising technology, but the article does not mention this detail.
-
-3. The summary states that the threats were made to Jewish community centers in 27 states, but the article only mentions 27 incidents in 17 states.
-
-4. The summary mentions that the JCC Association of North America is reviewing its security plans, but the article does not mention this.
-
-5. The summary mentions that more than 100 headstones have been damaged at a Jewish cemetery in St Louis, Missouri, but the article does not mention this.
-
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits other important details that are present in the article.
+1. The summary states that the White House says Jewish community centers have been threatened by hoax bomb threats.
+2. However, the article states that the threats were not hoaxes, but rather false threats that were made to 27 Jewish community centers in 17 states.
+3. The article also states that the threats were made through calls that were both pre-recorded and live, with suspects using voice-disguising technology.
+4. The White House press secretary, Sean Spicer, did issue a statement condemning the threats, but the statement does not say that the threats were hoaxes.
+5. Therefore, the summary is not consistent with the article because it implies that the threats were hoaxes, while the article states that they were not.
 
 ###Corrected:

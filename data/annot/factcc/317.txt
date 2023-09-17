@@ -1,22 +1,23 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the full cast will return for the season. 
+<Article>
+(CNN)For those wondering if we would ever hear from the Bluth family again, the answer would appear to be yes. "Arrested Development" executive producer Brian Grazer said the show will return for a fifth season of 17 episodes. The Hollywood mogul was interviewed on Bill Simmons' podcast recently, and let it drop that fans can expect more of the quirky comedy. Netflix had no comment for CNN when asked to verify his statements. The fourth season was streamed exclusively on Netflix in 2013, after Fox canceled the show several years before. Despite critical acclaim, the series never had big ratings, but has a devoted fan base, who often quote from the show. It was not yet known if the full cast, including Jason Bateman, Michael Cera and Will Arnett, will return for the season.
+</Article>
 
-    Article: 
-    (CNN)For those wondering if we would ever hear from the Bluth family again, the answer would appear to be yes. "Arrested Development" executive producer Brian Grazer said the show will return for a fifth season of 17 episodes. The Hollywood mogul was interviewed on Bill Simmons' podcast recently, and let it drop that fans can expect more of the quirky comedy. Netflix had no comment for CNN when asked to verify his statements. The fourth season was streamed exclusively on Netflix in 2013, after Fox canceled the show several years before. Despite critical acclaim, the series never had big ratings, but has a devoted fan base, who often quote from the show. It was not yet known if the full cast, including Jason Bateman, Michael Cera and Will Arnett, will return for the season. 
+<Summary>
+the full cast will return for the season.
+</Summary>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-1. The summary states that "the full cast will return for the season." However, the article states that it is not yet known if the full cast, including Jason Bateman, Michael Cera, and Will Arnett, will return for the season. This indicates that the summary is not consistent with the article.
+1. The article states that Brian Grazer, the executive producer of "Arrested Development," said that the show will return for a fifth season of 17 episodes.
+2. However, the summary claims that the full cast will return for the season.
+3. The article does not mention anything about the full cast returning. In fact, it states that it was not yet known if the full cast, including Jason Bateman, Michael Cera, and Will Arnett, will return for the season.
+4. Therefore, the summary is not consistent with the article because it makes a claim (that the full cast will return) that is not supported by the article.
 
-2. The article only mentions that Brian Grazer, the executive producer of the show, has stated that the show will return for a fifth season of 17 episodes, but it does not confirm whether the full cast will return. In fact, the article states that it is not yet known if the full cast will return.
-
-3. Therefore, the summary's statement that "the full cast will return for the season" is not supported by the article. The article does not provide any information about the full cast's return, and in fact, states that it is not yet known if they will return.
-
-4. As a result, the summary is not consistent with the article, and the statement about the full cast returning is not supported by the information in the article.
+So, the reason why the summary is not consistent with the article is that it adds information that is not present in the article. Specifically, it claims that the full cast will return for the season, whereas the article only mentions that Brian Grazer said the show will return, without mentioning anything about the cast.
 
 ###Corrected:

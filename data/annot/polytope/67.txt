@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off 
-a leading member of the notorious paedophile information exchange , which campaigned to legalise child sex in the 1970s and 80s , has joined the supporters of the media pressure group hacked off . 
-tom o'carroll , a former open university information officer and formerly a key activist for pie , attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation 
-
-    Article: 
-    tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
+<Article>
+tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off
 a leading member of the notorious paedophile information exchange , which campaigned to legalise child sex in the 1970s and 80s , has joined the supporters of the media pressure group hacked off .
 tom o'carroll , a former open university information officer and formerly a key activist for pie , attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation .
 the organisation , set up in the wake of the phone-hacking scandal , is campaigning against what it sees as the ` biased and unfair ' independent press standards organisation .
@@ -21,18 +16,24 @@ o'carroll was on the nccl 's gay rights sub-committee .
 the 69-year-old was jailed in 1981 for ` corrupting public morals ' .
 he wrote a blog after the february meeting , chaired by comedian john cleese , confirming his attendance .
 a hacked off spokesman said that the meeting was ` open to and free for all members of the public to attend ' .
-o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired 
+o'carroll attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation , which john cleese ( left ; right in fawlty towers ) chaired
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+tom o'carroll , a leading member of the notorious paedophile information exchange ( above ) , has joined the supporters of the media pressure group hacked off 
+a leading member of the notorious paedophile information exchange , which campaigned to legalise child sex in the 1970s and 80s , has joined the supporters of the media pressure group hacked off . 
+tom o'carroll , a former open university information officer and formerly a key activist for pie , attended a hacked off rally in the houses of parliament on february 25 to lobby mps for state involvement in media regulation
+</Summary>
 
-1. The summary states that Tom O'Carroll joined the supporters of the media pressure group Hacked Off, but the article does not mention this. Instead, the article states that O'Carroll attended a Hacked Off rally to lobby for state involvement in media regulation.
-2. The summary implies that O'Carroll is a backer of Hacked Off, but the article does not use this language. The article simply states that O'Carroll attended the rally.
-3. The summary mentions that O'Carroll was a leading member of the Paedophile Information Exchange (PIE), but the article does not mention this. The article only states that O'Carroll was a former open university information officer and a former key activist for PIE.
-4. The summary states that PIE campaigned to legalize child sex in the 1970s and 80s, but the article does not mention this. Instead, the article states that PIE formed an alliance with the National Council for Civil Liberties (NCCL) to campaign for the age of sexual consent to be cut to ten.
-5. The summary mentions that O'Carroll was on the NCCL's gay rights sub-committee, but the article does not mention this.
-6. The summary states that O'Carroll was jailed in 1981 for "corrupting public morals," but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains information that is not present in the article, and the article contains information that is not present in the summary. Therefore, the summary is not consistent with the article.
+Based on the provided article and summary, there are several inconsistencies that can be identified:
+
+1. The summary states that Tom O'Carroll is a "leading member" of the Paedophile Information Exchange (PIE), while the article does not mention any leadership role. The article only states that O'Carroll was a "key activist" for PIE.
+2. The summary states that PIE campaigned to legalize child sex in the 1970s and 80s, while the article does not mention any specific campaign to legalize child sex. Instead, the article states that PIE campaigned for sex with children to be legalized and formed an alliance with the National Council for Civil Liberties (NCCL) to lobby for the age of sexual consent to be cut to ten.
+3. The summary does not mention O'Carroll's conviction for "corrupting public morals" in 1981, which is mentioned in the article.
+4. The summary states that O'Carroll attended a hacked off rally in the Houses of Parliament on February 25 to lobby MPs for state involvement in media regulation, which is consistent with the article.
+
+Based on these inconsistencies, it can be concluded that the summary is not consistent with the article. The summary presents a more positive portrayal of Tom O'Carroll and PIE, while the article provides more details about O'Carroll's background and PIE's controversial activities.
 
 ###Corrected:

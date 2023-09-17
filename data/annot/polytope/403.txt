@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
-suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
-: one of the teens present at the shooting was holding this fake gun with an orange tip that lapd say they thought was real 
-
-    Article: 
-    an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
+<Article>
+an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
 jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
 the la times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
 suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
@@ -38,19 +33,26 @@ nicholson and huerta say they have never been in trouble with the law before .
 ` you can check our records , ' huerta insisted .
 ` that 's a bad way to meet officers , ' nicholson said .
 ` got off on the wrong foot , ' huerta said .
-officer gutierrez has returned to full duty since the incident , though it remains under investigation . 
+officer gutierrez has returned to full duty since the incident , though it remains under investigation .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
+suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
+: one of the teens present at the shooting was holding this fake gun with an orange tip that lapd say they thought was real
+</Summary>
 
-1. The summary states that Jamar Nicholson was shot by a police officer in the back, while the article states that he was shot in the back by Officer Miguel Gutierrez.
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary mentions that the police officers approached the boys with their guns drawn, but the article states that the officers saw a teen holding what appeared to be a gun and told him to drop it before drawing their weapons.
 2. The summary does not mention that the gun the officers thought was real had an orange tip indicating that it was fake.
-3. The summary does not mention that the officers ordered the teen to drop the weapon multiple times before shooting him.
-4. The summary does not mention that the LAPD claims that the teen ignored the officers' commands.
-5. The summary does not mention that the officer who shot Nicholson also shot and killed a dog in 2008.
-6. The summary does not mention that Nicholson and his friend Jason Huerta are suing the city of Los Angeles for $20 million.
-7. The summary does not mention that the LA Times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire.
+3. The summary does not mention that the officer who shot Nicholson, Miguel Gutierrez, also shot and killed a dog in 2008.
+4. The summary does not mention that Nicholson and his friend Huerta feel traumatized by what happened to them.
+5. The summary does not mention that Nicholson had to miss school as a result of the shooting and that he felt tremendous pain from his injuries.
+6. The summary does not mention that the incident is under investigation.
 
-Overall, the summary is not consistent with the article because it omits several key details and provides a different version of events.
+Overall, the summary does not provide a accurate summary of the article. It leaves out important details and presents a different version of events.
 
 ###Corrected:

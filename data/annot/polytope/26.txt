@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    he donned a superhero costume during his radiotherapy treatment , to help him feel brave 
-harley asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment like a ninja turtle 
-after harley 's story made headlines around the world , staff at children 's tv channel nickelodeon even sent harley a box full of ninja turtle presents for christmas .  
-
-    Article: 
-    a five-year-old boy who battled cancer has been given the all clear by doctors - after creating a superhero mask to help him through his treatment .
+<Article>
+a five-year-old boy who battled cancer has been given the all clear by doctors - after creating a superhero mask to help him through his treatment .
 harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
 but his ninja turtle mask helped him feel stronger while he was having radiotherapy .
 hospital staff were amazed when the youngster , from stretford , asked if he could decorate the protective mask that holds him still while having his treatment .
@@ -59,17 +54,21 @@ tumours growing in the neck can be visible as a lump , and a child is likely to 
 in cases where a tumour is pressing on the spinal cord , children can experience a weakness in the legs and walk unsteadily .
 a variety of tests and investigations may be needed to diagnose neuroblastoma .
 treatment depends on the age of the child , as well as the size and position of the tumour and whether the disease has spread .
-children can have surgery , chemotherapy , as well as antibody treatment and radiotherapy . 
+children can have surgery , chemotherapy , as well as antibody treatment and radiotherapy .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+he donned a superhero costume during his radiotherapy treatment , to help him feel brave 
+harley asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment like a ninja turtle 
+after harley 's story made headlines around the world , staff at children 's tv channel nickelodeon even sent harley a box full of ninja turtle presents for christmas . 
+</Summary>
 
-1. The summary states that Harley decorated his protective mask like a ninja turtle to help him feel brave during his radiotherapy treatment. However, the article does not mention anything about Harley decorating his mask or using ninja turtles as a source of inspiration.
-2. The summary mentions that Harley was diagnosed with cancer in his kidney, neck, lungs, and bones, but the article only mentions that he was diagnosed with neuroblastoma, a rare and aggressive childhood cancer that affects fewer than 100 children in the UK.
-3. The summary states that Harley underwent 80 days of intensive chemotherapy and an operation to remove his kidney tumour, but the article does not mention the specific treatment he received.
-4. The summary mentions that Harley was given a box full of ninja turtle presents for Christmas by the children's TV channel Nickelodeon, but the article does not mention anything about Christmas gifts or the TV channel.
-5. The summary states that Harley is now cancer-free and has been running about everywhere, but the article only mentions that he was given the all-clear and is free of cancer, without mentioning his current physical condition or activities.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains several details that are not present in the article, such as the use of ninja turtles, specific treatment details, and Christmas gifts. These inconsistencies suggest that the summary is not a reliable representation of the article's content.
+1. The summary states that Harley donned a superhero costume during his radiotherapy treatment to help him feel brave. However, the article does not mention anything about Harley wearing a superhero costume during his treatment.
+2. The summary also states that Harley asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment like a ninja turtle. However, the article does not mention anything about Harley asking to decorate the mask like a ninja turtle.
+3. The summary mentions that staff at Nickelodeon sent Harley a box full of ninja turtle presents for Christmas. However, the article does not mention anything about Nickelodeon or Christmas.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article. The summary should only include information that is directly supported by the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    chinese authorities have arrested more than 100 people suspected of leaking fake chemicals in tianjin, state media report. 
-
-    Article: 
-    A journalist and stock market officials are among those arrested, Xinhua said. It gave no other details.
+<Article>
+A journalist and stock market officials are among those arrested, Xinhua said. It gave no other details.
 Chinese shares fell by nearly 8% after a week of volatile trading that spread fear to global markets.
 The Tianjin explosions killed 150 people - with 23 still missing.
 A total of 367 people remain in hospital after the 12 August blast at a warehouse where large amounts of toxic chemicals were stored. Twenty are in critical condition, according to Xinhua.
@@ -18,16 +15,19 @@ The news agency said "seditious rumours about China's upcoming commemorations of
 A journalist was also arrested along with several stock market officials, according to a Xinhua report. The journalist, Wang Xiaolu, is accused of "spreading fake information" about the market slump, the report said.
 The state news agency said Mr Wang confessed that he "wrote fake report on Chinese stock market based on hearsay and his own subjective guesses without conducting due verifications".
 In 2013 Chinese authorities introduced a possible three-year sentence for spreading rumours - the sentence was supposed to apply to anyone who posted a rumour that was reposted 500 times or viewed 5,000 times.
-Last year, Qin Zhihui, a blogger, was sentenced to three years in a government crackdown on internet rumours. Mr Qin was found guilty of "slander" and "picking quarrels and provoking troubles", state broadcaster CCTV said at the time. 
+Last year, Qin Zhihui, a blogger, was sentenced to three years in a government crackdown on internet rumours. Mr Qin was found guilty of "slander" and "picking quarrels and provoking troubles", state broadcaster CCTV said at the time.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+chinese authorities have arrested more than 100 people suspected of leaking fake chemicals in tianjin, state media report.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that Chinese authorities have arrested more than 100 people suspected of leaking fake chemicals in Tianjin, but the article does not mention anything about fake chemicals or arrests related to that.
-2. The summary mentions that a journalist and stock market officials were arrested, but the article only mentions one journalist, Wang Xiaolu, who was arrested for "spreading fake information" about the stock market slump.
-3. The summary states that the arrests were made for "spreading rumours about China's upcoming commemorations of the 70th anniversary of the end of World War II", but the article does not mention anything about this.
-4. The summary mentions that Chinese authorities have tightly controlled information online and have previously prosecuted internet users for spreading rumors, but the article does not provide any information about this.
-
-Therefore, the summary is not consistent with the article because it includes information that is not present in the article, such as the arrests related to fake chemicals and the commemorations of the end of World War II. Additionally, the summary mentions the arrest of more than one journalist, while the article only mentions one journalist.
+2. The article only mentions the arrest of a journalist and stock market officials for spreading rumors and fake information about the stock market slump and the Tianjin explosions.
+3. The summary is not consistent with the article because it mentions fake chemicals, which is not present in the article.
+4. The article only talks about the arrest of individuals for spreading rumors and fake information, while the summary makes no mention of this.
+5. Therefore, the summary is not a accurate representation of the article and is considered inconsistent with the article.
 
 ###Corrected:

@@ -1,26 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    part of a swansea university campus was evacuated on thursday after the discovery of ``unstable\'\'chemicals. 
-
-    Article: 
-    The university said the move at Singleton Park was "precautionary".
+<Article>
+The university said the move at Singleton Park was "precautionary".
 South Wales Police received a call at about 13:30 BST after concerns about the safe storage of chemicals before a controlled explosion took place.
 Nobody was injured and a police spokesman said a cordon erected was precautionary while the chemicals were removed.
 Student Alex Jones said there was "some panic" at the start of the incident and lectures were moved away from the area to other buildings.
 South Wales Police said the incident was not treated as suspicious and there was no risk to the public.
-The university said the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable". 
+The university said the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+part of a swansea university campus was evacuated on thursday after the discovery of ``unstable\'\'chemicals.
+</Summary>
 
-1. The summary states that part of the Swansea University campus was evacuated due to the discovery of "unstable chemicals."
-2. However, the article states that the evacuation was precautionary and there was no risk to the public.
-3. The article also states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit after the chemicals "had become unstable."
-4. Therefore, the summary is not consistent with the article because it does not mention the precautionary nature of the evacuation or the fact that the controlled explosion was carried out as a precautionary measure.
-5. Additionally, the summary does not mention that the chemicals were unstable, which is a key detail in the article.
-6. Overall, the summary is not an accurate representation of the article and does not provide a consistent summary of the information provided.
+Explain your reasoning step by step:[/INST]
+
+1. The article states that the university said the move was "precautionary", indicating that the evacuation was a preventive measure rather than a response to an existing threat.
+2. The article mentions that the chemicals were "unstable", which suggests that they were potentially dangerous and could have posed a risk to the public if not handled properly.
+3. The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, which implies that the chemicals were indeed dangerous and required specialized handling.
+4. The summary states that the part of the campus was evacuated after the discovery of "unstable chemicals", which is consistent with the article's information.
+5. However, the summary does not mention the precautionary nature of the evacuation, nor does it mention the controlled explosion or the involvement of the bomb disposal unit. This is inconsistent with the article's information.
+
+Therefore, the summary is not consistent with the article because it does not provide the same level of detail and context as the article. Specifically, it does not explain the reason for the evacuation (i.e., the discovery of unstable chemicals) or the measures taken to ensure public safety (i.e., the controlled explosion).
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the world\'s first rocket campaign has been launched in florida, the first 10 satellites to date for the first time. 
-
-    Article: 
-    The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
+<Article>
+The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
 The aim is to deliver broadband links from orbit to every corner of the globe.
 In particular, the project wants every school to have a connection.
 Building so large a constellation requires a step-change in the manufacture of satellites - especially for Airbus.
@@ -36,16 +33,20 @@ Brian Holz, who is CEO of the OneWeb/Airbus manufacturing joint venture, said th
 Time will tell how disruptive the new manufacturing approaches adopted in Toulouse will be to the satellite industry as a whole.
 Airbus and OneWeb hope also to be making satellites for other companies on their assembly lines. But not every platform in the sky will require such volumes and a good number of spacecraft will still need the bespoke treatment.
 "Not everything here is application to the whole space industry. When we launch to Jupiter, there are things that will remain gold-plated whether we like it or not; unless of course we start to manufacture 900 satellites to go to Jupiter but this is not the case today,” said Nicolas Chamussy, who runs the satellite division of Airbus.
-Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos 
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the world\'s first rocket campaign has been launched in florida, the first 10 satellites to date for the first time.
+</Summary>
 
-1. The summary states that the first 10 satellites have been launched, but the article states that the first satellites will be launched in April next year.
-2. The summary mentions that the constellation will consist of 600 satellites, but the article states that the constellation will consist of over 2,000 satellites.
-3. The summary does not mention the fact that the OneWeb constellation will be the greatest rocket campaign in the history of spaceflight, as stated in the article.
-4. The summary does not mention the concern about debris mitigation, which is a significant aspect of the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It seems to be a brief overview of the OneWeb constellation project, but it does not provide the same level of detail and information as the article.
+1. The summary states that the world's first rocket campaign has been launched in Florida, which is not supported by the article. The article does mention that the first assembly line for the OneWeb constellation has been inaugurated in Toulouse, France, but there is no mention of a rocket campaign in Florida.
+2. The summary also states that the first 10 satellites have been launched, which is not accurate. The article states that the first 10 satellites will be launched in April next year, not that they have already been launched.
+3. The summary does not mention the OneWeb constellation, which is a key aspect of the article. The article discusses the plans for the OneWeb constellation, the manufacturing process, and the potential for debris mitigation.
+4. The summary does not provide any information about the scale of the constellation, the number of satellites, or the timeline for the launches, which are all important details that are provided in the article.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits key details. It does not provide a clear understanding of the OneWeb constellation or the plans for the satellite manufacturing and launches.
 
 ###Corrected:

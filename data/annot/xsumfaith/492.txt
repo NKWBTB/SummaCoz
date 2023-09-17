@@ -1,28 +1,26 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the liberal democrats have spent # figures on the conservatives \'election campaign. 
-
-    Article: 
-    UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,
+<Article>
+UKIP, which won May's election, spent £2,956,737, while the Tories' campaign expenditure was £2,980,815,
 The Lib Dems spent £1,580,575 and lost all but one of their MEPs - Labour, which came second, spent £1,027,339.
 The figures cover the campaign period from 23 January to polling day, 22 May.
 UKIP's campaign spending works out at 68p for each of their 4,376,635 votes. For Labour it is 26p per vote, the Conservatives 79p and the Lib Dems, who lost 11 of their 12 MEPs, £1.45. The Green Party, which came fourth, spent £534,249 on its campaign - 43p for each of its 1,255,573 votes.
 Including the SNP's £267,372, the six highest-spending parties spent a total of £9,347,087 on campaigning, the Electoral Commission said.
-All but Labour spent more than they did during the 2009 European election campaign. 
+All but Labour spent more than they did during the 2009 European election campaign.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+the liberal democrats have spent # figures on the conservatives \'election campaign.
+</Summary>
 
-1. The summary states that the Liberal Democrats spent £ figures on the Conservatives' election campaign.
-However, the article states that the Liberal Democrats spent £1,580,575 on their own election campaign, not on the Conservatives' campaign.
-2. The article does not mention the Liberal Democrats spending any money on the Conservatives' campaign.
-In fact, the article states that the Liberal Democrats lost all but one of their MEPs, which suggests that their campaign did not have a significant impact on the Conservatives' campaign.
-3. The article provides information on the campaign spending of several political parties, including the Conservatives, Labour, UKIP, and the Green Party.
-However, the summary does not include any information about the campaign spending of these parties, which suggests that the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the information provided in the article, the summary is not consistent with the article because it falsely states that the Liberal Democrats spent money on the Conservatives' campaign, and it does not provide information about the campaign spending of other political parties.
+1. The article states that the Liberal Democrats spent £1,580,575 on their European election campaign.
+2. The article also states that the Conservatives spent £2,980,815 on their campaign.
+3. Therefore, we can see that the Liberal Democrats spent less than the Conservatives.
+4. The summary states that the Liberal Democrats spent "£ figures on the Conservatives' election campaign". This is not consistent with the information in the article, as the Liberal Democrats spent less than the Conservatives.
+5. Therefore, we can conclude that the summary is not consistent with the article.
 
 ###Corrected:

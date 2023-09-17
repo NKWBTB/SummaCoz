@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    great britain\'s tom latham won great britain\'s first gold medal of the rio olympics with victory in the men\'s sprint race. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 The 23-year-old earned GB's second medal of the Hong Kong championships following Elinor Barker's silver medal in the women's scratch on Wednesday.
 Latham emerged from the pack to take bronze as he chased down Adrian Teklinski of Poland, who won gold, and Lucass Liss of Germany, who got silver.
 In the men's team pursuit, GB were beaten to the bronze medal by Italy.
@@ -39,16 +36,19 @@ Marchant is scheduled to compete in two more events - Saturday's 500m time-trial
 "I'm really disappointed. I feel like I'm just missing a little bit of zing, which is something that coming off Rio is to be expected," she said.
 "I didn't get the roar when I got the number on my back today - maybe the fact it's not an Olympic Games or something in the back of my mind telling me that I'm not feeling great.
 "I know to get knocked out in the first round is not what we expect from a medallist, but the preparation coming into this competition is about the process leading on to Tokyo."
-Media playback is not supported on this device 
+Media playback is not supported on this device
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+great britain\'s tom latham won great britain\'s first gold medal of the rio olympics with victory in the men\'s sprint race.
+</Summary>
 
-1. The summary states that Great Britain's Tom Latham won the gold medal in the men's sprint race, but the article states that he won the bronze medal.
-2. The summary does not mention that Latham won the bronze medal in the men's team pursuit, while the article mentions this.
-3. The summary does not mention that Britain's sole rider in the men's keirin, Joe Truman, was outclassed in his semi-final, while the article mentions this.
-4. The summary does not mention that Britain's women's team pursuit finished fifth in the heats and failed to make the bronze-medal ride, while the article mentions this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the information in the article. It only mentions a few aspects of the article, but leaves out many other important details.
+1. The summary states that Great Britain's Tom Latham won Great Britain's first gold medal of the Rio Olympics, but the article does not mention anything about Rio or the Olympics.
+2. The article actually states that Latham won a bronze medal in the men's sprint race at the UCI Track Cycling World Championships in Hong Kong.
+3. Therefore, the summary is not consistent with the article because it claims that Latham won a gold medal at the Rio Olympics, when in fact he won a bronze medal at the Hong Kong World Championships.
+
+Overall, the summary is incorrect because it provides false information about the event and the medal won by Tom Latham.
 
 ###Corrected:

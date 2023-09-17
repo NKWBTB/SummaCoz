@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia 
-catwalk with a view : crowds gathered to take in the show from the balcony of the iconic club 
-walk this way : models paraded through the empty pool and along the break wall in front of a beautiful backdrop of the ocean  
-
-    Article: 
-    there may have been a few disgruntled lap swimmers at bondi on thursday .
+<Article>
+there may have been a few disgruntled lap swimmers at bondi on thursday .
 the daily visitors to the iconic icebergs club were forced to take their exercise back to the beach as their beloved pool was drained for the fashion folk .
 the empty pool was used as the unusual catwalk setting for the ten pieces presentation as part of mercedes-benz fashion week australia .
 bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
@@ -26,17 +21,22 @@ worlds collide : beachgoers at bondi stopped and stared as the catwalk show took
 girls and boys : the androgynous wares are designed to be worn by both sexes
 winter is coming : models wrapped up in scarves and hoodies from the unisex collection
 poolside : guests enjoyed the sunny weather as they waited for the show to commence
-public site : passers-by stopped to watch the show from the road above the pool 
+public site : passers-by stopped to watch the show from the road above the pool
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia 
+catwalk with a view : crowds gathered to take in the show from the balcony of the iconic club 
+walk this way : models paraded through the empty pool and along the break wall in front of a beautiful backdrop of the ocean 
+</Summary>
 
-1. The summary states that the pool was drained to create a catwalk for Mercedes-Benz Fashion Week Australia, but the article does not mention this. Instead, it mentions that the pool was drained to make way for a presentation of ten pieces of unisex clothing.
-2. The summary mentions a "fashion show" and "models parading through the empty pool," but the article does not use these terms. Instead, it refers to a "presentation" and "guests taking in the show."
-3. The summary states that the collection is designed to be worn in 20 different ways, but the article only mentions that the pieces are designed to be worn in multiple ways.
-4. The summary mentions "nibbles" and "drinks" being served to guests, but the article does not mention this. Instead, it mentions that guests were treated to beautiful blue sky and sunshine throughout the show.
-5. The summary states that the show took place on an unseasonably warm 28 degrees Celsius day, but the article does not mention the temperature.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes details that are not mentioned in the article, and leaves out other important details that are included in the article.
+1. The summary states that "bondi's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia." However, the article does not mention anything about the pool being drained. Instead, it states that the pool was used as a catwalk setting for the fashion show, but does not mention any draining of the pool.
+2. The summary also states "catwalk with a view : crowds gathered to take in the show from the balcony of the iconic club." However, the article does not mention a balcony or any specific viewing area for the crowd. Instead, the article states that the crowd gathered to take in the show from the beach and the break wall.
+3. The summary states "walk this way : models paraded through the empty pool and along the break wall in front of a beautiful backdrop of the ocean." However, the article does not mention any models parading through the pool or along the break wall. Instead, the article states that the models walked through the empty pool and along the break wall.
+4. The summary states "the collection of ten is designed to be worn in 20 different ways, and are suitable for day to night wear." However, the article does not mention the specific number of pieces in the collection (other than mentioning "ten pieces" in the title) or any information about the clothing being suitable for day to night wear.
+
+Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. For example, the summary states that the pool was drained, but the article does not mention any draining. The summary also states that there was a balcony with a view, but the article does not mention any specific viewing area. Additionally, the summary states that the models paraded through the pool and along the break wall, but the article only mentions that they walked through the empty pool and along the break wall. Finally, the summary mentions the clothing being suitable for day to night wear, but the article does not mention this detail.
 
 ###Corrected:

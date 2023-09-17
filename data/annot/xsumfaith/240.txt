@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    juan martin del potro beat stan wawrinka in straight sets to reach the second round of wimbledon for the first time in his career. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Del Potro secured a 3-6 6-3 7-6 (7-2) 6-3 victory over the Swiss player.
 The Argentine is 165th in the rankings after missing more than two years because of injury problems.
 Del Potro, who is in the same half of the draw as Britain's Andy Murray, will next play either France's 32nd seed Lucas Pouille or American Donald Young.
@@ -27,16 +24,32 @@ Spanish 22nd seed Feliciano Lopez will play Kyrgios in the third round, with the
 Lopez fought back from two sets behind to defeat Italian Fabio Fognini 3-6 6-7 6-3 6-3 6-3.
 Elsewhere, there were routine victories for 10th seed Tomas Berdych and 12th seed Jo-Wilfried Tsonga.
 Berdych beat Germany's Benjamin Becker 6-4 6-1 6-2, while Tsonga triumphed 6-1 6-4 6-3 over Juan Monaco of Argentina.
-You can now add tennis alerts in the BBC Sport app - simply head to the menu and My Alerts section 
+You can now add tennis alerts in the BBC Sport app - simply head to the menu and My Alerts section
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+juan martin del potro beat stan wawrinka in straight sets to reach the second round of wimbledon for the first time in his career.
+</Summary>
 
-1. The summary states that Juan Martin del Potro beat Stan Wawrinka in straight sets, but the article states that del Potro won 3-6, 6-3, 7-6 (7-2), 6-3.
-2. The summary does not mention that del Potro struggled early on and lost the first set, while the article highlights this fact.
-3. The summary does not mention the rain delays that affected the match, while the article provides details about the rain delays and their impact on the match.
-4. The summary does not mention the other players in the same half of the draw as del Potro, such as Andy Murray and Nick Kyrgios, while the article provides information about their matches and progress.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-Overall, the summary does not provide a complete or accurate account of del Potro's match against Wawrinka, and does not include many of the details and nuances that are provided in the article.
+Step 1: Review the article and summary
+
+The article reports on Juan Martin del Potro's victory over Stan Wawrinka in the second round of Wimbledon. The summary, on the other hand, states that del Potro beat Wawrinka in straight sets to reach the second round of Wimbledon for the first time in his career.
+
+Step 2: Identify the inconsistency
+
+The inconsistency lies in the fact that the summary states that del Potro won in straight sets, while the article reports that del Potro won in four sets (3-6, 6-3, 7-6, 6-3). Therefore, the summary is not accurate in reflecting the outcome of the match.
+
+Step 3: Analyze the reason for the inconsistency
+
+The reason for the inconsistency is likely due to a misunderstanding or misinterpretation of the article. The summary may have been written based on a quick scan of the article, without fully comprehending the details of the match.
+
+Step 4: Provide feedback
+
+To address the inconsistency, I would provide feedback to the person who wrote the summary, pointing out the error and suggesting that they review the article more carefully in the future to ensure accuracy.
+
+In conclusion, the summary is not consistent with the article because it states that del Potro won in straight sets, while the article reports that he won in four sets. The inconsistency is likely due to a misunderstanding or misinterpretation of the article, and can be addressed by providing feedback and encouraging more careful reading in the future.
 
 ###Corrected:

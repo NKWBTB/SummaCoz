@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    it\'s almost a month since her family voted to leave the european union. 
-
-    Article: 
-    It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
+<Article>
+It was easy to do she says, because of Britain being inside the European Union. She has already sent off her postal vote: she voted to stay in.
 It wasn't just the weather that made the Stevensons leave the UK.
 Their cleaning business was in trouble because it was being undercut by companies run by Polish migrants.
 But so what, Nigel says. He thinks British people need to ''up their game'' and stop complaining about immigration.
@@ -30,17 +27,20 @@ Largest number of Brits living in EU countries, according to Migration Watch.
 There have also been warnings that the Spanish government could start charging them for their healthcare.
 Speaking to members after the match it was striking how many wanted to get out of the EU and how few had thought about how they might be affected financially.
 Whilst one couple worried about their pensions, the others did not seem particularly bothered about being charged for health care; almost all of them had private health insurance.
-John Richardson, summed up the mood best. ''Oh, they'll sort something out''. 
+John Richardson, summed up the mood best. ''Oh, they'll sort something out''.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+it\'s almost a month since her family voted to leave the european union.
+</Summary>
 
-1. The summary states that the family voted to leave the European Union, but the article states that the family, including Nigel, will be voting for Remain.
-2. The summary mentions that the Stevensons left the UK due to their cleaning business being undercut by companies run by Polish migrants, but this is not mentioned in the article.
-3. The summary states that Mark Connor is annoyed by some of the arguments being put forward by the Remain side, but the article does not mention Mark Connor's opinions on the referendum debate.
-4. The summary mentions that there is a community known as Little Britain, but this is not mentioned in the article.
-5. The summary states that there have been warnings that the Spanish government could start charging expats for healthcare, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the provided summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
+1. The summary states that the family voted to leave the European Union, but the article does not mention anything about the family voting. Instead, it mentions that the Stevensons left the UK due to the struggling cleaning business and the impact of Polish migrants.
+2. The summary also mentions that the family is no longer in the UK, but the article states that they are still living in Spain.
+3. The summary does not provide any specific information about the family's reasons for leaving the EU, but the article provides several reasons, including the impact of Polish migrants and the struggling cleaning business.
+4. The summary does not mention anything about the family's financial situation or how they might be affected financially by leaving the EU, but the article mentions that the Spanish government could start charging them for their healthcare and that there have been warnings about the impact of leaving the EU on their pensions.
+
+Based on these differences, it is clear that the summary is not consistent with the article. The summary provides limited information about the family's reasons for leaving the EU and does not accurately reflect the content of the article.
 
 ###Corrected:

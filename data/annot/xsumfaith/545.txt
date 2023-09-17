@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold. 
-
-    Article: 
-    Pop Recs Ltd hosted in-store gigs by acts from Franz Ferdinand to James Bay.
+<Article>
+Pop Recs Ltd hosted in-store gigs by acts from Franz Ferdinand to James Bay.
 It also earned the group an award for Britain's hardest-working band from the Association of Independent Music.
 Drummer Dave Harper, who runs the shop, is now looking for a new site. "We need to be somewhere else," he said. "Not existing is not an option."
 The band opened Pop Recs Ltd to sell their own album in 2013 after realising there were few bricks-and-mortar stores left to sell it.
@@ -25,15 +22,25 @@ Members of shop's the regular meetings have told him that the groups help with t
 The band have always known the council was trying to sell the building, Sunderland City Council's cabinet secretary Councillor Mel Speding said.
 "That has now been secured with its development into student accommodation.
 "This is in line with council objectives to see more people living and working in the city centre and, in the interests of council tax payers in these financially challenging times for local authorities, it secures a capital receipt.
-"Naturally, with the success and popularity of Pop Recs, the council and others have been looking at ways and means of continuing and securing a similar venture elsewhere in the city centre." 
+"Naturally, with the success and popularity of Pop Recs, the council and others have been looking at ways and means of continuing and securing a similar venture elsewhere in the city centre."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold.
+</Summary>
 
-1. The summary states that the record shop shut down due to the premises being sold, but the article states that the shop was forced to close due to the council selling the building for student flats.
-2. The summary does not mention the shop's community hub aspect, including the regular music tuition, poetry, stitching, and toddler groups.
-3. The summary does not mention the band's plans to find a new site or the impact of the shop's closure on the community.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not a consistent representation of the article's content.
+1. The summary states that the record shop was opened by an indie band called "Frankie and the Heartstrings" in their home town of Sunderland two years ago.
+
+However, the article states that the shop was opened by the band Pop Recs Ltd, not Frankie and the Heartstrings.
+
+2. The summary does not mention that the shop was sold, whereas the article reveals that the shop was sold by Sunderland City Council for student flats.
+
+3. The summary does not mention any of the unique features of the shop, such as the in-store gigs, the community hub, the music tuition, the poetry, stitching, and toddler groups.
+
+4. The summary does not mention the band's intention to find a new site or the impact of the closure on the community.
+
+Therefore, the summary is not consistent with the article. The summary only provides a brief and inaccurate overview of the shop's closure, while the article provides a more detailed and accurate account of the shop's history, its unique features, and the impact of its closure on the community.
 
 ###Corrected:

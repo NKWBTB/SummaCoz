@@ -1,24 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    great britain\'s taekwondo fighter mahama cho was born in the ivory coast, but after experiencing physical bullying at school he moved to the uk in 1997 in search of a better life. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 He initially experienced racial abuse, but explains to BBC Sport's Nick Hope how he overcame that and after briefly considering representing France, is now targeting a medal at the 2016 Rio Olympics.
-If you'd like to find out about how to get into martial arts, read our special guide. 
+If you'd like to find out about how to get into martial arts, read our special guide.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+great britain\'s taekwondo fighter mahama cho was born in the ivory coast, but after experiencing physical bullying at school he moved to the uk in 1997 in search of a better life.
+</Summary>
 
-1. The summary states that Mahama Cho was born in the Ivory Coast, but the article does not mention his birthplace.
-2. The summary states that Cho moved to the UK in 1997 in search of a better life, but the article does not mention when he moved to the UK or why he did so.
-3. The summary states that Cho experienced physical bullying at school, but the article does not mention this.
-4. The article mentions that Cho initially experienced racial abuse, but the summary does not mention this.
-5. The article mentions that Cho briefly considered representing France, but the summary does not mention this.
+Explain your reasoning step by step:[/INST]
+Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as Cho's birthplace and the reason for his move to the UK, and omits information that is present in the article, such as the racial abuse he experienced and his brief consideration of representing France.
+1. The article states that the athlete, Mahama Cho, experienced racial abuse and briefly considered representing France.
+2. However, the summary states that Mahama Cho was born in the Ivory Coast and moved to the UK in 1997 in search of a better life.
+3. These two statements are not consistent with each other. Mahama Cho was not born in the UK, and he did not move to the UK in 1997 for a better life.
+4. Therefore, the summary is not consistent with the article.
+
+The reason for this inconsistency is that the summary contains incorrect information about Mahama Cho's background and motivations. The article provides accurate information about his experiences with racial abuse and his decision to consider representing France, but the summary contains false information about his birthplace and move to the UK.
 
 ###Corrected:

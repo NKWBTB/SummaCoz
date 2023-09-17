@@ -1,25 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the international monetary fund (imf) has said it is ``clearly concerned\'\'about the future of the global economy. 
-
-    Article: 
-    David Lipton, second in command at the IMF, outlined some of these risks in a speech to the National Association for Business Economics in Washington on Tuesday.
+<Article>
+David Lipton, second in command at the IMF, outlined some of these risks in a speech to the National Association for Business Economics in Washington on Tuesday.
 "The IMF's latest reading of the global economy shows once again a weakening baseline," he said. "We are clearly at a delicate juncture."
 The comments come after weaker-than-expected trade figures from China showing that exports plunged by a quarter from a year ago.
 The IMF has already said it is likely it will downgrade its current forecast of 3.4% for global growth when it next releases its economic predictions in April.
 The dismal picture is one that has on-going ramifications for businesses and industries that bet on China's growth story.
-Read more from Karishma: Why a story about bulk shipping matters 
+Read more from Karishma: Why a story about bulk shipping matters
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the international monetary fund (imf) has said it is ``clearly concerned\'\'about the future of the global economy.
+</Summary>
 
-1. The summary states that the IMF is "clearly concerned" about the future of the global economy, but the article does not mention any explicit concern from the IMF. Instead, it quotes David Lipton as saying that the IMF is at a "delicate juncture" and that the global economy is weakening.
-2. The summary implies that the IMF has made a statement about the future of the global economy, but the article only mentions that the IMF is likely to downgrade its current forecast of 3.4% for global growth in its next release.
-3. The summary mentions "the future of the global economy," but the article focuses on the current state of the global economy and the potential downgrade of the IMF's forecast.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it implies a more explicit statement from the IMF about the future of the global economy, while the article only mentions a potential downgrade of the IMF's forecast and the current weak state of the global economy.
+1. The summary states that the IMF is "clearly concerned" about the future of the global economy.
+2. The article does not contain any direct quote from the IMF that expresses such a level of concern.
+3. The article does mention that the IMF's latest reading of the global economy shows a weakening baseline and that the organization is likely to downgrade its forecast for global growth, but this is not the same as expressing "concern" about the future of the economy.
+4. The article does mention that the IMF's comments come after weaker-than-expected trade figures from China, but this does not necessarily imply that the IMF is "concerned" about the future of the global economy.
+
+Therefore, the summary is not consistent with the article because it exaggerates the level of concern expressed by the IMF. The article presents a more nuanced picture of the IMF's assessment of the global economy, which is weaker than expected but not necessarily "concerning."
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    bobbi kristina brown is in a medically induced coma , her grandmother says .
-bobbi kristina brown 's condition has improved but that the kind of life will be seen .
-brown 's mother says bobbi kristina brown 's condition has improved . 
-
-    Article: 
-    ( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
+<Article>
+( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
 though the 22-year-old is no longer in a medically induced coma , she remains unresponsive , cissy houston said in a statement monday after visiting her granddaughter .
 " meeting with the doctors and understanding that she can live in this condition for a lifetime truly saddens me , " houston said .
 " we can only trust in god for a miracle at this time . "
@@ -23,16 +18,38 @@ in a statement monday , an attorney for the brown family said that bobbi kristin
 " however , bobbi kristina is presently embarking on a rehabilitation process , and the quality of her life will not be known for years to come . "
 who 's who in the bobbi kristina brown case ?
 bobby brown was in an " emotional state " on stage when he made the remarks about his daughter being awake , according to the statement .
-" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown . 
+" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+bobbi kristina brown is in a medically induced coma , her grandmother says .
+bobbi kristina brown 's condition has improved but that the kind of life will be seen .
+brown 's mother says bobbi kristina brown 's condition has improved .
+</Summary>
 
-1. The summary states that Bobbi Kristina Brown is in a medically induced coma, but the article states that she is no longer in a medically induced coma but remains unresponsive. This is not consistent, as the summary suggests that she is still in a coma, while the article states that she is not.
-2. The summary states that Bobbi Kristina Brown's condition has improved, but the article states that she remains unresponsive and has global and irreversible brain damage. This is not consistent, as the summary suggests that her condition has improved, while the article states that her condition is still severe.
-3. The summary states that Bobbi Kristina Brown is watching her father, Bobby Brown, but the article states that she does not respond to visitors or familiar voices. This is not consistent, as the summary suggests that she is able to watch and respond to her father, while the article states that she is not able to respond to anyone.
-4. The summary states that Bobbi Kristina Brown's condition has improved, but the article states that the kind of life she will lead remains to be seen. This is not consistent, as the summary suggests that her condition has improved and she will have a long life, while the article states that her condition is still uncertain.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The article provides a more accurate and detailed picture of Bobbi Kristina Brown's condition, which is not as positive as the summary suggests.
+1. The article states that Bobbi Kristina Brown is not in a medically induced coma anymore, but she remains unresponsive and has global and irreversible brain damage.
+
+Source: "Bobbi Kristina Brown, the daughter of Bobby Brown and Whitney Houston, has 'global and irreversible brain damage,' according to her grandmother."
+
+2. The article also states that Bobbi Kristina Brown is undergoing a rehabilitation process, but the quality of her life will not be known for years to come.
+
+Source: "doctors have indicated that she will have a long life, but Bobbi Kristina is presently embarking on a rehabilitation process, and the quality of her life will not be known for years to come."
+
+3. The summary states that Bobbi Kristina Brown is in a medically induced coma, which is not consistent with the article.
+
+Source: "bobbi kristina brown is in a medically induced coma, her grandmother says."
+
+4. The summary also states that Bobbi Kristina Brown's condition has improved, which is partially consistent with the article, but the article states that her condition is still unresponsive and she has global and irreversible brain damage.
+
+Source: "bobbi kristina brown's condition has improved, but that the kind of life will be seen."
+
+5. The summary does not mention anything about Bobbi Kristina Brown's mother or grandmother visiting her or making statements about her condition, which is not consistent with the article.
+
+Source: "Cissy Houston, Bobbi Kristina Brown's grandmother, made a statement on Monday after visiting her granddaughter, saying that she remains unresponsive and has global and irreversible brain damage."
+
+Therefore, the summary is not consistent with the article, as it misstates Bobbi Kristina Brown's current medical state and does not accurately reflect the information provided in the article.
 
 ###Corrected:

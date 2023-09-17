@@ -1,28 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a former football football football player has appeared in court accused of stealing millions of pounds worth of money. 
-
-    Article: 
-    Johnny McGurk, 49, appeared in court in County Londonderry accused of theft from quarry firm Patrick Bradley Ltd.
+<Article>
+Johnny McGurk, 49, appeared in court in County Londonderry accused of theft from quarry firm Patrick Bradley Ltd.
 Mr McGurk, an accountant, was released on bail and will appear in court again on 19 November.
 He won an All-Ireland football championship and All-Star award in 1993.
 Mr McGurk also captained his club Lavey to an All-Ireland senior club championship in 1991.
 The accused's name was given to Coleraine Magistrates Court as John Malachy McGurk of Oakland Crescent in Knockloughrim, Magherafelt, County Londonderry.
 He was charged with stealing £572,206 from Patrick Bradley Ltd, based in Kilrea, also in County Londonderry.
 Mr McGurk was also accused of 36 counts of fraud relating to sums of allegedly stolen money lodged in his bank account.
-All the offences are alleged to have happened between 1 July 2006 and 31 December 2011. 
+All the offences are alleged to have happened between 1 July 2006 and 31 December 2011.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a former football football football player has appeared in court accused of stealing millions of pounds worth of money.
+</Summary>
 
-1. The summary states that the accused is a former football player, but the article does not mention anything about football or sports.
-2. The summary mentions that the accused is accused of stealing millions of pounds, but the article only mentions £572,206 as the amount allegedly stolen.
-3. The summary mentions 36 counts of fraud, but the article only mentions one count of fraud.
-4. The summary states that the accused will appear in court on 19 November, but the article does not mention a specific date for the next court appearance.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary contains information that is not present in the article, and omits information that is present in the article.
+1. The summary states that the accused is a "former football football football player." However, the article does not mention anything about the accused being a former football player. Instead, it states that the accused is an accountant.
+2. The summary claims that the accused has been accused of stealing "millions of pounds worth of money." However, the article states that the accused is accused of stealing £572,206 from Patrick Bradley Ltd, which is a much smaller amount than "millions of pounds."
+3. The summary does not provide any information about the charges against the accused, other than the fact that they are accused of stealing money. The article, on the other hand, provides detailed information about the charges, including the amount of money allegedly stolen and the time period during which the alleged thefts occurred.
+
+Therefore, the summary is not consistent with the article because it contains inaccurate information about the accused's identity and the charges against them. The summary also omits important details about the alleged thefts that are provided in the article.
 
 ###Corrected:

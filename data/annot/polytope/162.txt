@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters . 
-the heartwarming clip featured on the people 's daily online shows the young animal taking unsteady steps , wobbling about with its snout to the ground in the hunt for food . 
-
-    Article: 
-    this little piggy has become an internet sensation after learning how to walk on just two feet .
+<Article>
+this little piggy has become an internet sensation after learning how to walk on just two feet .
 the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters .
 the heartwarming clip featured on the people 's daily online shows the young animal taking unsteady steps , wobbling about with its snout to the ground , foraging for food .
 heartwarming : the two-legged pig has become an internet sensation because of a cute video showing it learning to walk
@@ -23,16 +19,38 @@ ms duan said : ` when the piglets were feeding i noticed something strange with 
 it is not the first animal with two legs instead of four to win plaudits in china .
 a rabbit at liuzhou zoo became a star attraction after learning to walk on its front paws .
 many tourists in china 's guangxi province have been taking a detour to see the furry star hop on its front paws .
-looking for grub : the piglet balances on two legs while keeping its snout to the ground in the hunt for food 
+looking for grub : the piglet balances on two legs while keeping its snout to the ground in the hunt for food
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify the inconsistencies in the summary. Here's my step-by-step reasoning:
+<Summary>
+the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters . 
+the heartwarming clip featured on the people 's daily online shows the young animal taking unsteady steps , wobbling about with its snout to the ground in the hunt for food .
+</Summary>
 
-1. The summary states that the piglet was born with its back legs missing, but the article does not mention anything about the piglet being born without back legs. Instead, the article states that the piglet was born with its back legs missing, but it does not specify how the piglet was born.
-2. The summary states that the piglet has mastered the art of balancing on its front trotters, but the article does not mention anything about the piglet being able to balance on its front trotters. Instead, the article states that the piglet is learning to walk on its front legs.
-3. The summary states that the piglet takes unsteady steps and wobbles about with its snout to the ground in the hunt for food, but the article does not mention anything about the piglet taking unsteady steps or wobbling about. Instead, the article states that the piglet is learning to walk on its front legs and is using its snout to search for food.
-4. The summary states that the piglet has become an internet sensation because of a cute video showing it learning to walk, but the article does not mention anything about a video showing the piglet learning to walk. Instead, the article states that the piglet has become an internet sensation because of its unique ability to walk on its front legs.
+Explain your reasoning step by step:[/INST]
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary exaggerates the piglet's abilities and includes information that is not present in the article.
+1. The summary states that the piglet was born with its back legs missing.
+
+However, the article states that the piglet was born with all four legs, but the back legs were missing.
+
+2. The summary states that the piglet has mastered the art of balancing on its front trotters.
+
+The article states that the piglet has to use extraordinary balance to stand on its front trotters.
+
+3. The summary does not mention that the piglet has to use extraordinary balance to stand on its front trotters.
+
+4. The summary states that the piglet takes unsteady steps and wobbles about with its snout to the ground in the hunt for food.
+
+The article states that the piglet happily mixes with the rest of the litter, which have all been born with a full complement of legs, and looks for food by keeping its snout to the ground.
+
+5. The summary does not mention that the piglet has siblings who have all been born with a full complement of legs.
+
+6. The summary states that the piglet has captured the hearts of thousands since a video went online.
+
+The article states that the piglet has become an internet sensation because of a cute video showing it learning to walk.
+
+7. The summary does not mention that the piglet has been named "super pig."
+
+Therefore, the summary is not consistent with the article because it does not accurately describe the piglet's birth, balance, or behavior, and it leaves out important details such as the piglet's siblings and the reason for its internet fame.
 
 ###Corrected:

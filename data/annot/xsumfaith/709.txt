@@ -1,31 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    belfast giants suffered a 3-1 defeat by manchester storm in sunday\'s elite league clash at the sse arena. 
-
-    Article: 
-    Craig Peacock fired the hosts into a ninth minute lead but Manchester hit back three minutes later courtesy of Vinny Scarsella's breakaway goal.
+<Article>
+Craig Peacock fired the hosts into a ninth minute lead but Manchester hit back three minutes later courtesy of Vinny Scarsella's breakaway goal.
 Storm moved in front six seconds before the end of the second period with Luke Salazar finishing an excellent move.
-A short-handed empty net goal from Matthew Davies in the final minute sealed the win. 
+A short-handed empty net goal from Matthew Davies in the final minute sealed the win.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+<Summary>
+belfast giants suffered a 3-1 defeat by manchester storm in sunday\'s elite league clash at the sse arena.
+</Summary>
 
-Step 1: Read the Summary
-The summary states that the Belfast Giants suffered a 3-1 defeat against Manchester Storm.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Read the Article
-The article states that the Giants took the lead in the ninth minute through Craig Peacock, but Manchester hit back three minutes later with a breakaway goal from Vinny Scarsella. The Giants then trailed 2-1 after Storm scored six seconds before the end of the second period.
-
-Step 3: Identify the Discrepancy
-The discrepancy between the summary and the article is that the summary states the Giants lost 3-1, while the article states they trailed 2-1.
-
-Step 4: Analyze the Reason for the Discrepancy
-The reason for the discrepancy is that the article does not mention a third goal for Manchester, which is mentioned in the summary.
-
-Step 5: Conclude
-Therefore, the summary is not consistent with the article because it mentions a third goal for Manchester, which is not supported by the article.
+1. The summary states that Belfast Giants suffered a 3-1 defeat by Manchester Storm.
+2. The article states that Manchester Storm scored three goals, but the Giants scored one goal.
+3. The summary does not mention the Giants' goal, which was scored by Craig Peacock in the ninth minute.
+4. Therefore, the summary is not consistent with the article because it does not include all the information from the article.
+5. Specifically, the summary does not mention the Giants' goal, which is a key piece of information that should be included in a summary of the article.
+6. As a result, the summary is not an accurate representation of the article's content.
 
 ###Corrected:

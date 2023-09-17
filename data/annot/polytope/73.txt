@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    workers at the restaurant said yuan yen had returned to her table and sat ` in a trance ' 
-she was arrested after receiving medical attention and faces charges of neglect 
-police insisted she have emergency treatment and took her to the same hospital as her daughter , where she refused to see doctors .  
-
-    Article: 
-    a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
+<Article>
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant .
 staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online .
 workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance .
 a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar
@@ -26,17 +21,23 @@ a worker at the fast food outlet said : ` the mother was in shock herself and wa
 i think she was just traumatised . '
 cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her .
 she was later transferred to the police station where she is facing charges of neglect .
-the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors . 
+the infant , weighing 2.6 kg ( 5.7 lb ) , was declared to be healthy after being checked over by doctors .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given article and summary, there are several inconsistencies that can be identified:
+<Summary>
+workers at the restaurant said yuan yen had returned to her table and sat ` in a trance ' 
+she was arrested after receiving medical attention and faces charges of neglect 
+police insisted she have emergency treatment and took her to the same hospital as her daughter , where she refused to see doctors . 
+</Summary>
+
+Explain your reasoning step by step:[/INST]
+
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
 
 1. The summary states that the woman, Yuan Yen, was arrested after receiving medical attention, but the article does not mention anything about her receiving medical attention before her arrest.
-2. The summary states that the woman was arrested and faces charges of neglect, but the article does not mention any charges being filed against her.
-3. The summary states that the woman was taken to the same hospital as her daughter, but the article does not mention her having a daughter.
-4. The summary states that the woman was in a trance, but the article does not mention her being in a trance or showing any signs of trauma.
-5. The summary states that the woman refused to see doctors, but the article does not mention her refusing medical attention for herself or her baby.
+2. The summary mentions that the woman was taken to the same hospital as her daughter, but the article does not mention anything about her daughter being taken to the hospital.
+3. The summary states that the woman refused to see doctors, but the article does not mention anything about her refusing to see doctors.
 
-Based on these inconsistencies, it is clear that the summary is not a accurate representation of the article. The summary may have been written based on incomplete or inaccurate information, or it may have been intentionally altered to sensationalize the story.
+These discrepancies indicate that the summary is not a accurate representation of the article. It is possible that the summary was written based on incomplete or inaccurate information, or that it was written with the intention of sensationalizing the story. In any case, it is important to carefully review the original article and ensure that any summaries or interpretations of the article are accurate and consistent with the original information.
 
 ###Corrected:

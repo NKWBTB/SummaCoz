@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    stephen paul copoc, a landscape gardener from liverpool, travelled to the match by coach with friends anthony smith and anthony burrows, who both survived. 
-
-    Article: 
-    This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
+<Article>
+This is the full statement to the inquests from his niece, Ms Natalie Tennant, on behalf of his brother, Peter Copoc:
 Stephen Paul Copoc was born on 1 August 1968, and was aged 20 years when he died at Hillsborough.
 Stephen was the baby of our family, and the apple of our Mum's eye. Our family consisted of Mum and Dad, I, Peter, my sister Angela and then our Stephen. I was 10 years old when Stephen was born. Angela was just seven years old.
 Our Dad took us to the hospital, so that we could meet our new baby brother. Mum and Dad said that Angela and I could name him, and we did. Financially, we had little, but our parents, Agnes and Harold, made sure that there was lots of love in our house.
@@ -39,16 +36,26 @@ Stephen loved to play football as well. He was not the best of players, but he w
 Stephen was a great music fan. He was always playing Pink Floyd and, in particular, 'Shine on you Crazy Diamond'. He always loved Marillion and went to concerts with his four close friends.
 Our parents never got over Stephen's death and the way he died. Our brother Stephen was one of life's genuine nice guys.
 Our Stephen was just 20 years of age, but had maturity and a caring attitude towards others and even from a young age carried a donor card.
-We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you. 
+We miss Stephen from our family and think about what might have been for all of us as a family if Stephen had not died on that awful day. Thank you.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the article, here are the reasons why the given summary is not consistent with the article:
+<Summary>
+stephen paul copoc, a landscape gardener from liverpool, travelled to the match by coach with friends anthony smith and anthony burrows, who both survived.
+</Summary>
 
-1. Age: The summary states that Stephen Paul Copoc was 20 years old when he died, while the article states that he was born on August 1, 1968, and was 20 years old when he died.
-2. Personality: The summary describes Stephen as "the apple of our Mum's eye" and "a joy to all of us," while the article portrays him as a caring and sensitive person who was close to his family and loved birds and fishing.
-3. Interests: The summary mentions that Stephen loved football and was a great music fan, but the article does not mention these interests.
-4. Death: The summary states that Stephen died on that "awful day," while the article does not provide any details about his death.
+Explain your reasoning step by step:[/INST]
+  Sure, I can help you identify the reasons why the summary is not consistent with the article. Here's my step-by-step explanation:
 
-Overall, the summary does not accurately reflect the information provided in the article. It is possible that the summary was based on a different source or was written before the article was available.
+1. The summary states that Stephen Paul Copoc travelled to the match by coach with friends Anthony Smith and Anthony Burrows, who both survived.
+
+However, the article does not mention anything about Stephen travelling by coach or with specific friends. Instead, it describes Stephen as a landscape gardener who was born on August 1, 1968, and died at Hillsborough at the age of 20.
+
+2. The summary implies that Stephen was a casualty of the Hillsborough disaster, but the article does not confirm this. In fact, the article only mentions that Stephen died at Hillsborough, without providing any details about the circumstances of his death.
+
+3. The summary mentions that Stephen was a landscape gardener, but the article does not provide any information about his occupation or hobbies. Instead, it focuses on his personality, family life, and interests.
+
+4. The summary does not mention any of the personal details about Stephen that are included in the article, such as his love of birds, fishing, and music, or his close relationship with his family and nieces and nephews.
+
+Overall, the summary is not consistent with the article because it provides incomplete and inaccurate information about Stephen Paul Copoc. While the summary mentions some facts about Stephen's life, it does not provide a comprehensive or accurate picture of who he was or how he died.
 
 ###Corrected:

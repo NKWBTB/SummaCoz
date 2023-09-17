@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    more than 25 women have been airlifted from royal navy ships because of pregnancy . 
-one ship - hms ocean -- even had five pregnant sailors removed in emergency medevacs .
-ministry of defence spokesman confirmed there was a strict ` no touching ` rule in place at sea . 
-this suggests the women conceived before boarding the ships or during leave . 
-
-    Article: 
-    more than 25 women have been airlifted from royal navy ships because of pregnancy .
+<Article>
+more than 25 women have been airlifted from royal navy ships because of pregnancy .
 one ship - hms ocean -- even had five pregnant sailors removed in emergency ` medevacs ' during the last nine years , a freedom of information request revealed .
 and at least one woman was airlifted from hms illustrious , which was nicknamed ` hms lusty ' by the crew before it was decommissioned last year .
 more than 25 women have been airlifted from royal navy ships because of pregnancy , including at least one woman from hms illustrious ( above ) , which was nicknamed ` hms lusty ' by the crew before it was decommissioned last year
@@ -30,16 +24,24 @@ strict military rules ban mothers-to-be from serving in war zones .
 the women were flown back on flights usually reserved for injured troops and the true figure could be higher if others travelled via routine flights .
 troops are reminded by senior officers to check they are not pregnant before they fly to the front line - but are not made to do pregnancy tests .
 most of the babies would have been conceived before the mother left the uk but a small number of women may have become pregnant on tour .
-a ministry of defence spokesman said at the time : ` the small numbers of personnel who discover that they are pregnant on operations are returned at the first convenient opportunity . ' 
+a ministry of defence spokesman said at the time : ` the small numbers of personnel who discover that they are pregnant on operations are returned at the first convenient opportunity . '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+more than 25 women have been airlifted from royal navy ships because of pregnancy . 
+one ship - hms ocean -- even had five pregnant sailors removed in emergency medevacs .
+ministry of defence spokesman confirmed there was a strict ` no touching ` rule in place at sea . 
+this suggests the women conceived before boarding the ships or during leave .
+</Summary>
 
-1. The summary states that "more than 25 women have been airlifted from royal navy ships because of pregnancy," while the article states that "more than 25 women have been airlifted from royal navy ships because of pregnancy, including at least one woman from hms illustrious." The article does not specify that all of the women were airlifted due to pregnancy.
-2. The summary states that "one ship - hms ocean - even had five pregnant sailors removed in emergency medevacs," while the article does not mention the number of sailors removed from hms ocean or the fact that they were removed in emergency medevacs.
-3. The summary states that "a ministry of defence spokesman confirmed there was a strict `no touching` rule in place at sea," while the article does not mention this rule.
-4. The summary implies that the women conceived before boarding the ships or during leave, while the article does not make this implication.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. It is important to carefully read and understand the original article before creating a summary to ensure accuracy and consistency.
+1. The summary states that "more than 25 women have been airlifted from royal navy ships because of pregnancy."
+2. The article states that "more than 25 women have been airlifted from royal navy ships because of pregnancy, including at least one woman from hms illustrious."
+3. The summary does not mention HMS Illustrious, which is mentioned in the article.
+4. The article states that there were emergency medevacs on HMS Ocean, but the summary does not mention this.
+5. The summary states that there was a "strict `no touching` rule in place at sea," but the article does not mention this.
+
+Therefore, the summary is not consistent with the article because it leaves out important details and includes information that is not present in the article. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

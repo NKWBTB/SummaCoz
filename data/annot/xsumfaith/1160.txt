@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    airbus has launched a plan to build the world\'s most powerful rocket-powered satellite. 
-
-    Article: 
-    The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
+<Article>
+The network will comprise at least 600 spacecraft in the first instance, but could eventually encompass more than 2,000.
 The aim is to deliver broadband links from orbit to every corner of the globe.
 In particular, the project wants every school to have a connection.
 Building so large a constellation requires a step-change in the manufacture of satellites - especially for Airbus.
@@ -36,19 +33,19 @@ Brian Holz, who is CEO of the OneWeb/Airbus manufacturing joint venture, said th
 Time will tell how disruptive the new manufacturing approaches adopted in Toulouse will be to the satellite industry as a whole.
 Airbus and OneWeb hope also to be making satellites for other companies on their assembly lines. But not every platform in the sky will require such volumes and a good number of spacecraft will still need the bespoke treatment.
 "Not everything here is application to the whole space industry. When we launch to Jupiter, there are things that will remain gold-plated whether we like it or not; unless of course we start to manufacture 900 satellites to go to Jupiter but this is not the case today,” said Nicolas Chamussy, who runs the satellite division of Airbus.
-Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos 
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+airbus has launched a plan to build the world\'s most powerful rocket-powered satellite.
+</Summary>
 
-1. The summary states that Airbus has launched a plan to build the world's most powerful rocket-powered satellite, while the article does not mention anything about a rocket-powered satellite.
-2. The summary mentions that the constellation will consist of 600 satellites, while the article states that the constellation will consist of at least 600 spacecraft, but could eventually encompass more than 2,000.
-3. The summary states that the project aims to deliver broadband links from orbit to every corner of the globe, while the article focuses on the OneWeb venture and its aim to provide broadband links to schools.
-4. The summary mentions that the project will require a step-change in the manufacture of satellites, while the article emphasizes the use of new assembly line methods akin to those in factories producing cars and planes.
-5. The summary states that the first 10 satellites will be launched in April next year, while the article states that the first batch will follow into orbit around November, and the launch cadence will kick on apace.
-6. The summary mentions that the establishment of the OneWeb constellation requires the greatest rocket campaign in the history of spaceflight, while the article does not mention anything about the number of rockets required.
-7. The summary states that OneWeb and Airbus are not the only companies planning a mega-constellation in the sky, while the article focuses solely on the OneWeb and Airbus partnership.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the scope and capabilities of the OneWeb constellation, and includes details that are not mentioned in the article.
+1. The summary states that Airbus has launched a plan to build the world's most powerful rocket-powered satellite, which is not consistent with the article.
+2. The article does not mention anything about a rocket-powered satellite. Instead, it talks about the OneWeb constellation, a network of low-Earth orbit satellites that will provide broadband internet connectivity to every corner of the globe.
+3. The article highlights the innovative manufacturing approaches adopted by Airbus and OneWeb to produce the satellites at a lower cost and faster pace, but there is no mention of a rocket-powered satellite.
+4. The article also discusses the concerns about debris mitigation and the need for the new constellations to de-orbit their old, redundant spacecraft within five years to avoid a cascade of collisions and make space unusable.
+5. Therefore, based on the content of the article, it is clear that the summary is not consistent with the article, and the statement about Airbus launching a plan to build the world's most powerful rocket-powered satellite is incorrect.
 
 ###Corrected:

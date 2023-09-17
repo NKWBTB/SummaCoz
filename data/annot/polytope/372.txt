@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    england full back mike brown admits he is unsure when he will return to action for club side harlequins
-george north will not play against clermont auvergne on saturday and will see a neurosurgeon
-northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term . 
-
-    Article: 
-    mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
+<Article>
+mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
 the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens at wembley last weekend .
 northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
 england full back mike brown admits he is unsure when he will return to action for club side harlequins
@@ -35,17 +30,22 @@ brown ( right ) says he suffered a headache after playing in england 's clash ag
 ` now i 've been through it i would definitely talk to team-mates urging them not to play on if i thought they were showing symptoms .
 ` at the time you think it 's a pain but now i 'm very glad i took those online modules .
 ` it 's just not worth pushing through . '
-land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage . 
+land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2022 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the provided summary is not consistent with the article:
+<Summary>
+england full back mike brown admits he is unsure when he will return to action for club side harlequins
+george north will not play against clermont auvergne on saturday and will see a neurosurgeon
+northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
+</Summary>
 
-1. The summary states that George North will not play against Clermont Auvergne on Saturday, but the article does not mention this.
-2. The summary mentions that Mike Brown was knocked out cold in England's victory over Italy in February, but the article does not mention this.
-3. The summary states that Mike Brown was determined not to suffer an extended break, but the article states that he is being cautious and will not rush himself back to action ahead of time.
-4. The summary states that George North has been advised by leading medics not to play again this season, but the article does not mention this.
-5. The summary states that Mike Brown pulled out of the England-Ireland game due to symptoms of concussion, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains information that is not present in the article, and therefore is not consistent with it.
+1. The summary states that George North will not play against Clermont Auvergne on Saturday and will see a neurosurgeon. However, the article does not mention anything about George North seeing a neurosurgeon.
+2. The summary states that Northampton wing George North has been advised by leading medics not to play again this season after suffering four quick-fire concussions. However, the article only mentions that North has been advised to see a neurosurgeon and does not specify that he has been advised not to play again this season.
+3. The summary states that Ireland's Johnny Sexton was stood down for 12 weeks earlier this term. However, the article does not mention anything about Johnny Sexton being stood down for 12 weeks.
+4. The summary states that Mike Brown admits he is unsure when he will return to action for club side Harlequins. However, the article does not mention anything about Mike Brown being unsure about his return to action. Instead, the article states that Brown is determined not to suffer an extended break and will not rush himself back to action ahead of time.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article. Specifically, the summary includes information about George North seeing a neurosurgeon and Johnny Sexton being stood down for 12 weeks, which are not present in the article. Additionally, the summary omits information about Mike Brown's determination not to suffer an extended break and his decision to take a cautious approach to his recovery, which are present in the article.
 
 ###Corrected:

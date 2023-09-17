@@ -1,23 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a motorcyclist has been arrested on suspicion of causing death by dangerous driving after a crash between a lorry and a lorry. 
-
-    Article: 
-    The crash, involving several vehicles, happened on the southbound carriageway, near the Hindhead tunnel at Bramshott, at about 07:30 GMT on Thursday.
+<Article>
+The crash, involving several vehicles, happened on the southbound carriageway, near the Hindhead tunnel at Bramshott, at about 07:30 GMT on Thursday.
 The 32-year-old man was pronounced dead at the scene.
 Police said a 33-year-old man from Waterlooville had been arrested on suspicion of causing death by driving without due care and attention.
-The road was closed between Thursley and Liphook until early evening while officers investigated the scene. 
+The road was closed between Thursley and Liphook until early evening while officers investigated the scene.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a motorcyclist has been arrested on suspicion of causing death by dangerous driving after a crash between a lorry and a lorry.
+</Summary>
 
-1. The summary states that a motorcyclist was arrested on suspicion of causing death by dangerous driving, but the article does not mention anything about the motorcyclist being arrested. Instead, it mentions that a 33-year-old man from Waterlooville was arrested on suspicion of causing death by driving without due care and attention.
-2. The summary states that there was a crash between a lorry and a motorcycle, but the article does not mention a motorcycle. Instead, it mentions that several vehicles were involved in the crash.
-3. The summary states that the crash happened on the southbound carriageway, near the Hindhead tunnel at Bramshott, but the article does not mention the location of the crash.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on the inconsistencies between the summary and the article, it is clear that the summary is not consistent with the article and contains errors.
+1. The article states that a 32-year-old man was pronounced dead at the scene, but the summary states that a motorcyclist has been arrested. This is inconsistent, as there is no mention of a motorcyclist in the article.
+2. The article states that the crash involved several vehicles, but the summary only mentions a lorry and another lorry. This is inconsistent, as the article mentions more than two vehicles were involved in the crash.
+3. The article states that the 33-year-old man from Waterlooville was arrested on suspicion of causing death by driving without due care and attention, but the summary states that the motorcyclist has been arrested on suspicion of causing death by dangerous driving. This is inconsistent, as the article does not mention dangerous driving, only driving without due care and attention.
+
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    change is a problem for many disabled people. 
-
-    Article: 
-    For many people with severe disabilities, their families and carers, this is a reality they are faced with every time they leave the house.
+<Article>
+For many people with severe disabilities, their families and carers, this is a reality they are faced with every time they leave the house.
 In some cases it can leave them feeling isolated and unable to enjoy the simplest of everyday activities that we take for granted just because they haven't got a suitable area to spend a penny.
 Ordinary accessible toilets may be the answer for many independent wheelchair users - but what about those who need two carers to help them or need a hoist to help them transfer on to a bench to change rather than a toilet?"
 Recommendations are in place to support installing Changing Places toilets with enhanced facilities when designing larger buildings such as shopping centres, cinemas and leisure facilities - but campaigners are calling for these to be made compulsory.
@@ -38,17 +35,23 @@ Arsenal Football Club, who were the first side in the Premier League to install 
 Alun Francis, Disability Liaison Officer at the club, said: "There were challenges and despite already having 38 wheelchair accessible toilets we were constrained by the original building design as it existed before the recommendations came in, so we had to adapt.
 "But working with the people behind the Changing Places group was such a positive experience.
 "They looked at our ideas to convert two of the existing toilets into one Changing Place and helped us find a way around things so we could make it possible.
-"You need to think about all of your customers when you run any type of venue and if you want their custom you have to make things accessible for them - it's important." 
+"You need to think about all of your customers when you run any type of venue and if you want their custom you have to make things accessible for them - it's important."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you identify why the given summary is not consistent with the article. Here's my reasoning step by step:
+<Summary>
+change is a problem for many disabled people.
+</Summary>
 
-1. The summary states that "change is a problem for many disabled people." However, the article does not mention this statement explicitly. While the article discusses the challenges faced by disabled people in accessing suitable toilet facilities, it does not frame the issue as a problem exclusively for disabled people.
-2. The summary mentions that the article discusses the need for Changing Places toilets, but the article actually focuses on the need for more accessible toilets, not just Changing Places toilets. The article highlights the importance of having more accessible toilets, especially for people with profound disabilities who require more space and specialized equipment to change.
-3. The summary states that the article is about the lack of Changing Places toilets, but the article actually discusses the lack of truly accessible toilets for people with profound disabilities. While Changing Places toilets are mentioned, the article emphasizes the need for more accessible toilets that meet the needs of all disabled people, not just those who require Changing Places toilets.
-4. The summary mentions that the article discusses the psychological effect of not having appropriate toilet facilities on families, but the article does not mention this explicitly. While the article highlights the challenges faced by families with disabled members, it does not focus on the psychological impact of these challenges.
-5. The summary states that the article is about the need for compulsory Changing Places toilets, but the article actually discusses the need for more accessible toilets and the importance of clarity in building standards. While the article mentions the need for compulsory Changing Places toilets, it does not frame the issue solely around compulsion.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it oversimplifies the issues discussed in the article, focuses on specific aspects of the article, and does not accurately convey the tone and emphasis of the original text.
+1. The article discusses the lack of suitable toilet facilities for people with severe disabilities, specifically those who require a bench and hoist to change.
+2. The summary only mentions "change" as a problem, without providing any context or details.
+3. The article highlights the need for Changing Places toilets, which are specifically designed to meet the needs of people with severe disabilities, but the summary does not mention these toilets or any solutions to the problem.
+4. The article discusses the challenges faced by families and carers of people with severe disabilities, including the stress and anxiety caused by the lack of suitable toilet facilities.
+5. The summary does not acknowledge these challenges or the impact they have on families and carers.
+6. The article includes quotes from individuals and organizations advocating for the installation of Changing Places toilets, and highlights the positive experiences of those who have already benefited from these facilities.
+7. The summary does not include any of these quotes or perspectives, and does not provide any insight into the experiences of people with severe disabilities or their families.
+
+Overall, the summary is not consistent with the article because it does not provide any context or details about the problem of inadequate toilet facilities for people with severe disabilities, and it does not acknowledge the challenges faced by families and carers or the solutions advocated by campaigners and experts.
 
 ###Corrected:

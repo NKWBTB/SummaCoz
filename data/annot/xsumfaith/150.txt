@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    jeremy corbyn has said the poorest residents in the south of england should be rehoused. 
-
-    Article: 
-    The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
+<Article>
+The Labour leader has also said he is "very angry" that so many lives were lost in a deadly tower block fire.
 PM Theresa May said the residents were "in our thoughts and prayers" and has ordered a public inquiry into the fire.
 But she was criticised by a senior Labour MP for failing to meet residents when she visited the scene on Thursday.
 At least 17 people died in the disaster at Grenfell Tower in North Kensington, west London in the early hours of Wednesday.
@@ -43,19 +40,20 @@ Mr Healey said this review had "not been started".
 Responding to reports, the Department for Communities and Local Government said it was "simply not true" that a report about building regulations had been "sat on".
 The BBC understands the Lord Chief Justice will make a recommendation to the prime minister of a judge to chair the inquiry.
 He or she will be independent from the government and able to call who they want as a witness.
-The Liberal Democrats have called for an urgent review into fire safety and building regulations. 
+The Liberal Democrats have called for an urgent review into fire safety and building regulations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+jeremy corbyn has said the poorest residents in the south of england should be rehoused.
+</Summary>
 
-1. The summary states that Jeremy Corbyn said the poorest residents in the south of England should be rehoused, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-2. The summary does not accurately reflect the tone of the article, which is more focused on the Grenfell Tower disaster and the government's response to it, rather than Corbyn's statements.
-
-3. The summary implies that Corbyn's statements were made in response to the disaster, but the article does not specify when or where he made these statements.
-
-4. The summary does not accurately reflect the content of the article, which includes information about the fire, the government's response, and the calls for an inquiry, but does not mention Corbyn's statements about rehousing.
-
-Overall, the summary is not consistent with the article because it does not accurately reflect the content or tone of the article, and it includes information that is not present in the article.
+1. The article states that Jeremy Corbyn said the poorest residents in the south of England should be rehoused.
+2. However, the article does not provide any information or context to support this statement.
+3. In fact, the article mentions that the Grenfell Tower disaster occurred in North Kensington, west London, which is not in the south of England.
+4. Additionally, the article does not mention anything about rehousing the residents or providing assistance to them.
+5. The article focuses on the Prime Minister Theresa May's visit to the site, the fire investigation, and the calls for answers from MPs and the public.
+6. Therefore, the summary statement is not consistent with the article, as it does not accurately reflect the content or the focus of the article.
 
 ###Corrected:

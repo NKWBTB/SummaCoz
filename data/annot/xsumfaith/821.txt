@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the nhs in england is failing to reduce the cost of its pay bill, according to new figures. 
-
-    Article: 
-    The regulator, NHS Improvement, said it wanted more progress after the NHS had slipped behind schedule in its efforts to reduce the agency bill.
+<Article>
+The regulator, NHS Improvement, said it wanted more progress after the NHS had slipped behind schedule in its efforts to reduce the agency bill.
 Last year £3.6bn was spent on agency staff, but the regulator wants that brought down by £1bn by the end of this financial year.
 A cap was introduced in October and has so far saved £600m, the regulator said.
 It means hospitals, mental health trusts and ambulance services should not be paying more than 55% above normal shift rates for any staff, from doctors and nurses to administration staff. Only senior managers are exempted.
@@ -19,23 +16,21 @@ The figures released by NHS Improvement do not cover NHS "bank" staff - effectiv
 NHS Improvement said it would start publishing "league tables" of the best and worst-performing trusts on agency spending later this year.
 Information on the 20 highest-earning agency staff per trust would also be collected amid suspicion some people are still earning large sums from agency work.
 It found examples of hospitals being quoted double the rates for doctors. In one case a trust was quoted £130 an hour for a surgeon when the cap is meant to be £76, while another was quoted £70 an hour for a junior doctor when the fee is meant to be £35.
-NHS Improvement chief executive Jim Mackey said: "The NHS simply doesn't have the money to keep forking out for hugely expensive agency staff. There's much more to be done." 
+NHS Improvement chief executive Jim Mackey said: "The NHS simply doesn't have the money to keep forking out for hugely expensive agency staff. There's much more to be done."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my step-by-step explanation of why the summary is not consistent with the article:
+<Summary>
+the nhs in england is failing to reduce the cost of its pay bill, according to new figures.
+</Summary>
 
-Step 1: Review the Summary
-The summary states that the NHS in England is failing to reduce the cost of its pay bill.
+Explain your reasoning step by step:[/INST]
 
-Step 2: Review the Article
-The article states that the NHS has made progress in reducing the agency bill, with a cap introduced in October that has saved £600m so far. However, the regulator, NHS Improvement, wants more progress, and the NHS is still short of its target.
-
-Step 3: Identify the Inconsistency
-The inconsistency lies in the fact that the summary states that the NHS is failing to reduce its pay bill, while the article states that the NHS has made progress in reducing the agency bill. This implies that the NHS is not failing to reduce its pay bill, but rather, it is making progress in reducing one aspect of its pay bill.
-
-Step 4: Analyze the Reason for the Inconsistency
-The reason for the inconsistency is likely due to the fact that the summary is focusing on the overall pay bill, while the article is focusing on one specific aspect of the pay bill (the agency bill). The article does mention that the NHS still has a long way to go to meet its target, but it does not support the statement that the NHS is failing to reduce its pay bill.
-
-In conclusion, the summary is not consistent with the article because it implies that the NHS is failing to reduce its pay bill, while the article states that the NHS has made progress in reducing one aspect of its pay bill (the agency bill).
+1. The summary states that the NHS in England is failing to reduce the cost of its pay bill.
+2. However, the article states that the NHS has made progress in reducing the agency bill, with a cap introduced in October saving £600m so far.
+3. The article also mentions that the NHS is still short of its target and that the latest accounts suggest NHS trusts are 10% down on where they wanted to be.
+4. Therefore, the summary is not consistent with the article because it does not accurately reflect the progress made by the NHS in reducing its pay bill.
+5. The article provides evidence that the NHS has made some progress in reducing the agency bill, but it is still not enough to meet its target.
+6. The summary does not provide any information about the other parts of the pay bill, such as spending on overtime, which could potentially be contributing to the overall cost of the pay bill.
+7. Therefore, the summary is not a accurate reflection of the situation and does not provide a complete picture of the NHS's efforts to reduce its pay bill.
 
 ###Corrected:

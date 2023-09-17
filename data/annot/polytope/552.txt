@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a viral video is making the rounds in china , which shows a small boy displaying a dazzling array of basketball skills that would put to shame many professional players .
-the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old . 
-
-    Article: 
-    chinese parents are passionate about raising child prodigies - whether they are 10-year-old university entrants or four-year-old michael jackson dance-alikes .
+<Article>
+chinese parents are passionate about raising child prodigies - whether they are 10-year-old university entrants or four-year-old michael jackson dance-alikes .
 now a new basketball superstar is on the rise .
 a viral video is making the rounds in china , which shows a small boy displaying a dazzling array of basketball skills that would put to shame many professional players .
 the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old , reported the people 's daily online .
@@ -24,17 +20,21 @@ it must be special effects ! '
 ` nickwooster ' from fujian simply asking : ` who is his father ? '
 others feel ashamed of their own basketball skills in comparison to the kid .
 ` cubex ' from hunan posted : ` i want to reincarnate and start over again !
-what have i been doing for the past 32 years ? ' 
+what have i been doing for the past 32 years ? '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a viral video is making the rounds in china , which shows a small boy displaying a dazzling array of basketball skills that would put to shame many professional players .
+the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old .
+</Summary>
 
-1. The summary states that the video shows a small boy displaying dazzling basketball skills, while the article only mentions that the video shows the boy scoring a succession of hoops and dribbling two basketballs. The summary exaggerates the boy's skills.
-2. The summary claims that the boy is five years old, while the article only mentions his age as "five-year-old."
-3. The summary states that the boy has been shooting hoops since he was two and a half years old, while the article does not mention this information.
-4. The summary uses more sensational language than the article, such as "dazzling array of basketball skills" and "incredible skills." The article uses more straightforward language, such as "skilful" and "talented."
-5. The summary includes comments from netizens in China, while the article does not mention any comments from netizens.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it exaggerates the boy's skills, includes additional information not present in the article, and uses more sensational language.
+1. The summary states that the child, Mai Zizhuo, has been shooting hoops since he was two and a half years old. However, the article states that he started playing basketball at the age of five.
+2. The summary does not mention the viral video that is making the rounds in China, which is a key aspect of the article.
+3. The summary does not mention the incredible skills of Mai Zizhuo, which are highlighted in the article as the reason for his fame and the subject of the viral video.
+4. The summary does not mention the reactions of netizens in China, who are stunned by Mai Zizhuo's potential and have left comments by the thousands.
+
+Therefore, the summary is not consistent with the article because it does not include key information about Mai Zizhuo's age, the viral video, and the reactions of netizens in China.
 
 ###Corrected:

@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
-after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
-jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star 
-
-    Article: 
-    a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
+<Article>
+a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
 star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
 after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
 jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star
@@ -43,17 +38,24 @@ returned home where she has since made a good recovery .
 i ca n't thank her enough , ' her other added .
 speaking of the decision , shanell said : ` i did n't hesitate to step forward to save star .
 she 's my niece and i would do anything to help her . '
-since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver 
+since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
+after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
+jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star
+</Summary>
 
-1. The summary states that Jade Reader, Star's mother, gave up part of her liver to save her niece, while the article states that Jade's twin sister, Shanell, gave up part of her liver.
-2. The summary does not mention that neither of Star's parents were suitable matches for a partial liver transplant, while the article states that this was the case.
-3. The summary does not mention that Shanell was tested and found to be an ideal candidate for the transplant, while the article states that she was tested and told that she would give the baby the best chance of survival.
-4. The summary does not mention that Star underwent the operation in November and spent six weeks in the hospital, while the article states that she did.
-5. The summary does not mention that Star has to have blood tests and liver function tests every week and will be on anti-rejection medication for the rest of her life, while the article states that she will.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately convey the information in the article. It is important to ensure that all information in a summary is supported by the article to maintain accuracy and consistency.
+1. The summary states that Star Reader was diagnosed with biliary atresia within days of being born in Barnsley, West Yorkshire.
+2. The article states that Star was diagnosed with jaundice within days of being born, but does not mention biliary atresia.
+3. The summary states that Star's parents were told she would need a liver transplant to survive, but the article does not mention this.
+4. The summary states that Jade Reader, Star's mother, was "overcome with emotion" when her twin sister Shanell offered to give Star a part of her liver.
+5. The article states that Shanell was tested and found to be a suitable match for Star, but does not mention Jade's emotional reaction.
+6. The summary states that Star underwent the operation in November and has since made a good recovery, but the article does not mention the specific date of the operation or Star's recovery.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, such as Star being diagnosed with biliary atresia, and Jade being overcome with emotion. Additionally, the summary omits information that is present in the article, such as the cause of Star's jaundice and the fact that her parents were told she would need a liver transplant.
 
 ###Corrected:

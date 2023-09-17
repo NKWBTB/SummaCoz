@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    divorce lawyers are being warned that they are being let down by a new form of divorce form. 
-
-    Article: 
-    The newly-designed form, used to apply for a divorce in England and Wales, asks for the name "of the person your spouse has committed adultery with".
+<Article>
+The newly-designed form, used to apply for a divorce in England and Wales, asks for the name "of the person your spouse has committed adultery with".
 Family lawyers say that, in most cases, involving a third party adds "conflict and complexity".
 The Ministry of Justice said there was "no obligation" to name people.
 Lawyer Margaret Heathcote, vice-chairwoman of family law group Resolution, is one of those concerned about the form.
@@ -28,16 +25,19 @@ Ms Hamblin said 80% of the new clients she deals with in matters of adultery "wa
 When you apply for a divorce you must prove your marriage has broken down and give one of the following reasons:
 Source: Gov.UK
 A Ministry of Justice spokesman said: "It has always been possible for a petitioner to name the person they believe their spouse has committed adultery with on divorce application forms.
-"As set out in the previous form, and more clearly in the new form, there is obviously no obligation to do so. This is a relevant part of divorce proceedings." 
+"As set out in the previous form, and more clearly in the new form, there is obviously no obligation to do so. This is a relevant part of divorce proceedings."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+divorce lawyers are being warned that they are being let down by a new form of divorce form.
+</Summary>
 
-1. The summary states that divorce lawyers are being warned that they are being let down by a new form of divorce form, implying that the form is flawed or problematic. However, the article does not support this statement. Instead, it explains that the form has been updated to make the legal process more user-friendly, and that there is no obligation to name the person your spouse committed adultery with.
-2. The summary mentions that the form asks for the name of the person your spouse committed adultery with, which is true. However, the article highlights that this information is not normally necessary and that there is no obligation to provide it. The summary does not accurately convey this information.
-3. The summary suggests that naming the person your spouse committed adultery with will involve them in the court case, which is correct. However, the article notes that judges take a very dim view of petitioners trying to bring in new partners and embroil them in proceedings. The summary does not acknowledge this potential drawback.
-4. Finally, the summary implies that the new form is causing problems for divorce lawyers, but the article does not support this claim. Instead, it quotes a lawyer as saying that the form has been updated to make the legal process more user-friendly, and that there is no obligation to name the person your spouse committed adultery with.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately convey the information provided in the article, and it implies that the form is problematic when the article does not support this claim.
+1. The summary states that divorce lawyers are being let down by a new form of divorce form, but the article does not support this claim.
+2. The article explains that the new form includes a question asking for the name of the person your spouse has committed adultery with, but the Ministry of Justice has emphasized that there is no obligation to name anyone.
+3. The article also quotes a lawyer who is concerned that the form may encourage people to name the third party, even though it is not necessary, which could lead to conflict and delay the process.
+4. However, the article does not suggest that the new form is a letdown for divorce lawyers. In fact, the article highlights that the form has been updated to make the legal process more user-friendly, especially for those who complete the process without seeking legal advice.
+5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article. The summary implies that the new form is a problem for divorce lawyers, but the article does not support this claim.
 
 ###Corrected:

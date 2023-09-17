@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    russia beat lisicki 4-6 , 7-6 -lrb- 4 -rrb- , 6-3 . 
- anastasia pavlyuchenkova beat germany 's sabine lisicki for a 2-0 lead in the opening rubber . 
- russia are on the fed cup final with 2-0 lead after svetlana lisicki . 
-
-    Article: 
-    russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
+<Article>
+russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
 pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 , after svetlana kuznetsova beat julia goerges in straight sets in the opening rubber .
 pavlyuchenkova said lisicki 's power caused her problems : ` in the first set i believed i could win but i could n't find the rhythm because she plays a bit boom-boom . '
 anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie
@@ -16,25 +11,28 @@ svetlana kuznetsova had earlier beaten julia goerges in straight sets
 both players had problems on their serve - pavlyuchenkova racked up 13 double faults but lisicki 's 63 unforced errors proved crucial .
 ` it was very close and i had a match point but she played a good point on that .
 i did n't play a good tiebreaker , ' lisicki said .
-the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 . 
+the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+russia beat lisicki 4-6 , 7-6 -lrb- 4 -rrb- , 6-3 . 
+ anastasia pavlyuchenkova beat germany 's sabine lisicki for a 2-0 lead in the opening rubber . 
+ russia are on the fed cup final with 2-0 lead after svetlana lisicki .
+</Summary>
 
-Step 1: Identify the inconsistencies
+Explain your reasoning step by step:[/INST]
 
-The summary states that Russia beat Lisicki 4-6, 7-6(4), 4-6, but the article states that Pavlyuchenkova beat Lisicki 4-6, 7-6(4), 6-3.
+1. The summary states that Russia beat Lisicki 4-6, 7-6(4), 6-3.
+2. The article states that Pavlyuchenkova beat Lisicki 4-6, 7-6(4), 6-3.
+3. The summary does not mention Svetlana Kuznetsova's victory in the opening rubber, while the article does.
+4. The summary states that Russia are on the Fed Cup final with a 2-0 lead after Svetlana Lisicki, which is incorrect as the correct name is Svetlana Kuznetsova, not Lisicki.
+5. The summary does not mention the double faults and unforced errors committed by both players, which are mentioned in the article.
+6. The summary does not accurately reflect the match point saved by Pavlyuchenkova, as the article states that she saved a match point in the second set before going on to beat Lisicki.
 
-Step 2: Analyze the reasons for the inconsistencies
+Therefore, the summary is not consistent with the article, and the errors can be explained as follows:
 
-The summary does not mention the fact that Pavlyuchenkova saved a match point in the second set, which is a significant detail that is present in the article. Additionally, the summary does not accurately reflect the scores of the third set, which was won by Pavlyuchenkova.
-
-Step 3: Determine the source of the inconsistencies
-
-The inconsistencies are likely due to a lack of attention to detail when creating the summary. The summary may have been written quickly or without careful review, leading to inaccuracies.
-
-Step 4: Provide recommendations for improvement
-
-To improve the consistency of the summary, it is recommended that the writer carefully review the article and ensure that all relevant details are included accurately. Additionally, the writer should proofread the summary to catch any errors or inaccuracies before submitting it.
+* The summary does not accurately reflect the scores of the matches.
+* The summary does not mention all the information in the article, such as Kuznetsova's victory and the double faults and unforced errors committed by both players.
+* The summary contains incorrect information, such as the name of the player who won the opening rubber (it should be Kuznetsova, not Lisicki).
 
 ###Corrected:

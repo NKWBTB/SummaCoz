@@ -1,22 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a girl has been spotted on a yacht in the north sea, according to a new study. 
-
-    Article: 
-    21 October 2016 Last updated at 15:03 BST
+<Article>
+21 October 2016 Last updated at 15:03 BST
 In 2008, about 40 were recorded on the seahorse study site at South Beach in the bay, but none have been spotted there since 2013.
-Miranda Krestovnikoff has been investigating for Inside Out and speaking to Neil Garrick-Maidment, from the Seahorse Trust, and the Royal Yachting Association's Emma Barton. 
+Miranda Krestovnikoff has been investigating for Inside Out and speaking to Neil Garrick-Maidment, from the Seahorse Trust, and the Royal Yachting Association's Emma Barton.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a girl has been spotted on a yacht in the north sea, according to a new study.
+</Summary>
 
-1. The article states that "none have been spotted there (South Beach) since 2013." This means that there have been no sightings of seahorses at South Beach since 2013.
-2. The summary states that a girl has been spotted on a yacht in the North Sea. This is not consistent with the article, as there is no mention of a yacht or a girl in the article.
-3. Therefore, the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
 
-The reason for this inconsistency is that the summary is not based on the information provided in the article. The article does not mention a yacht or a girl, but the summary does. This is why the summary is not consistent with the article.
+1. The article states that "none have been spotted there since 2013" regarding seahorses at South Beach in the bay.
+2. The summary mentions a girl being spotted on a yacht in the north sea, which is not related to seahorses or South Beach.
+3. Therefore, the summary is not consistent with the article because it discusses a completely different topic.
+
+Reasoning step by step:
+
+1. The article states that there have been no seahorse sightings at South Beach since 2013.
+2. The summary mentions a girl on a yacht in the north sea, which is not related to seahorses or South Beach.
+3. Therefore, the summary is not consistent with the article because it discusses a different topic.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a new railway station is to be built on a former railway station site in south lancashire. 
-
-    Article: 
-    Lancashire County Council has earmarked land on the former Glenburn Sports College and Skelmersdale College.
+<Article>
+Lancashire County Council has earmarked land on the former Glenburn Sports College and Skelmersdale College.
 The sports college closed in August, while Skelmersdale College's Westbank campus, owned by Newcastle College, is also unused.
 The decision follows a comparative study by Network Rail of both sites and one near the Concourse shopping centre.
 Skelmersdale's original railway station closed to passengers in 1956.
@@ -16,18 +13,21 @@ He said the preferred location was big enough to allow for the possibility of fu
 He added: "It has good highway access and good connectivity to the town and the surrounding area."
 The authority confirmed it will now start the process of acquiring the relevant land.
 Skelmersdale was designated a new town on 9 October 1961..
-It is one of the largest towns in the north west of England not to have its own railway station. 
+It is one of the largest towns in the north west of England not to have its own railway station.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a new railway station is to be built on a former railway station site in south lancashire.
+</Summary>
+
+Explain your reasoning step by step:[/INST]
 
 1. The summary states that a new railway station is to be built on a former railway station site in south Lancashire.
-2. However, the article states that the new railway station will be built on the former Glenburn Sports College and Skelmersdale College sites.
-3. The article does not mention anything about a former railway station site.
-4. Therefore, the summary is not consistent with the article because it implies that the new railway station will be built on a former railway station site, while the article states that it will be built on the sites of the former sports college and college.
-5. Additionally, the summary mentions that the new railway station will be built on a former railway station site in south Lancashire, while the article only mentions Skelmersdale as the location of the new railway station.
-6. This further supports the conclusion that the summary is not consistent with the article.
+2. However, the article states that the new railway station will be built on the former Glenburn Sports College and Skelmersdale College sites, not on a former railway station site.
+3. The summary does not mention anything about the sites being former sports colleges or colleges, which is a key detail in the article.
+4. The article states that Skelmersdale has not had a railway station since 1956, but the summary does not mention this fact.
+5. The article mentions that the new railway station will have two direct trains to Liverpool per hour, but the summary does not include this information.
 
-In conclusion, the summary is not consistent with the article because it contains inaccurate information about the location of the new railway station and the use of a former railway station site. The article only mentions Skelmersdale as the location of the new railway station and does not mention any former railway station site.
+Therefore, the summary is not consistent with the article because it does not accurately convey the details of the new railway station's location, the fact that the site is a former sports college and college, and the lack of a railway station in Skelmersdale since 1956. Additionally, the summary does not mention the possibility of future expansion or the good highway access and connectivity to the town and surrounding area, which are important details in the article.
 
 ###Corrected:

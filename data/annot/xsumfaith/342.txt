@@ -1,29 +1,28 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a man has been arrested on suspicion of murder after a woman was stabbed to death in new york city. 
-
-    Article: 
-    Police in Hamelin, in Lower Saxony, say the woman's ex-partner later handed himself in to authorities.
+<Article>
+Police in Hamelin, in Lower Saxony, say the woman's ex-partner later handed himself in to authorities.
 The 28-year-old woman, who has not been identified, was found lying on a pavement late on Sunday with serious injuries.
 She underwent an emergency operation and was flown to a specialist clinic.
 Police say she had been dragged by the neck through several streets.
 The man now in custody is described as 38 and from nearby Bad Muender.
 Both the victim and the suspect are German citizens of Kurdish origin, a police spokesman said.
 A spokesman for Hannover prosecutors, Thomas Klinge, said the motive for the attack was not yet clear.
-Police have secured the area where the woman was found and have called for witnesses to come forward. 
+Police have secured the area where the woman was found and have called for witnesses to come forward.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+a man has been arrested on suspicion of murder after a woman was stabbed to death in new york city.
+</Summary>
 
-1. The summary states that the man was arrested on suspicion of murder in New York City.
+Explain your reasoning step by step:[/INST]
 
-2. The article states that the woman was found lying on a pavement in Hamelin, Lower Saxony, and that the man who handed himself in to authorities is from Bad Muender, also in Lower Saxony.
-
-3. New York City is not located in Lower Saxony, so it is not possible for the events described in the article to have taken place in New York City.
-
-4. Therefore, the summary is not consistent with the article, as it describes events taking place in a different location than where the article states they occurred.
+1. The article is about a woman who was found lying on a pavement in Hamelin, Germany with serious injuries, and her ex-partner has been arrested on suspicion of murder.
+2. The summary, on the other hand, states that a man has been arrested on suspicion of murder after a woman was stabbed to death in New York City.
+3. The two locations mentioned in the article and the summary are not the same. Hamelin is in Germany, while New York City is in the United States.
+4. The article does not mention anything about the victim being stabbed to death, but rather that she had serious injuries and underwent an emergency operation.
+5. Therefore, the summary is not consistent with the article, as it states that the victim was stabbed to death, which is not supported by the information in the article.
 
 ###Corrected:

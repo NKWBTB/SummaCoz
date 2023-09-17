@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures .
-racial slur : this racial slur was allegedly printed by premiere photos at the bottom of some of the photographs at their wedding event in 2012
-denies allegations : james evans who runs premiere photo allegedly did n't apologize for the racial slur and told the couple to ` sue ' him 
-
-    Article: 
-    a couple from texas who celebrated their wedding in 2012 claim their photographer wrote hurtful racial slurs on the bottom of photo booth snapshots from the event .
+<Article>
+a couple from texas who celebrated their wedding in 2012 claim their photographer wrote hurtful racial slurs on the bottom of photo booth snapshots from the event .
 the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures .
 the couple was n't alerted of the photos until many months after the celebration when the bride 's sister told the family about the racist incident at the photo booth the couple rented for the party .
 racial slur : this racial slur was allegedly printed by premiere photos at the bottom of some of the photographs at their wedding event in 2012
@@ -26,16 +21,23 @@ evans has denied all allegations and claimed that at a party of 100 people , the
 evans also said the married couple gave ` no sign of any mental anguish . '
 hale disagrees and says her clients want an apology at the very least .
 mediation is scheduled for tomorrow morning but if the parties do n't reach an agreement then the case is set for trial in july .
-they just want an apology : the couple 's lawyer said that at the very least her client wants an apology from james evans of premiere photos and that it is n't about money 
+they just want an apology : the couple 's lawyer said that at the very least her client wants an apology from james evans of premiere photos and that it is n't about money
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures .
+racial slur : this racial slur was allegedly printed by premiere photos at the bottom of some of the photographs at their wedding event in 2012
+denies allegations : james evans who runs premiere photo allegedly did n't apologize for the racial slur and told the couple to ` sue ' him
+</Summary>
 
-1. The summary states that the couple hired attorney Cathy Hale to sue James Evans for allegedly providing a photo booth that printed a racial slur on the bottom of the pictures, but the article states that the couple hired Hale to sue Evans for allegedly printing the racial slur at the bottom of some of the photographs at their wedding event in 2012.
-2. The summary states that the couple was not alerted of the photos until many months after the celebration, but the article states that the bride's sister told the family about the racist incident at the photo booth after the wedding.
-3. The summary states that James Evans allegedly did not apologize for the racial slur and told the couple to " sue him," but the article states that Evans denied all allegations and claimed that there is no evidence linking the company to the offensive caption.
-4. The summary states that the couple wants an apology at the very least, but the article states that the couple is suing Evans under the Texas Deceptive Trade Practices Act, claiming that Premiere Photo practiced negligence and breach of contract.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it omits or misstates several key details, such as the timing of when the couple was alerted to the racial slur and Evans' alleged response to the incident.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. The summary states that the couple hired an attorney to sue James Evans for allegedly providing a photo booth that printed a racial slur on the bottom of the pictures. However, the article states that the couple did not want to file a lawsuit initially and only decided to press charges after Evans allegedly did nothing about the racial comments.
+2. The summary mentions that James Evans denied all allegations and claimed that there is no evidence linking the company to the offensive caption. However, the article states that Evans' attorney, Christine Kirchner, declined an on-camera interview and gave the same responses they gave in civil court.
+3. The summary states that the couple wants an apology at the very least. However, the article states that the couple does not want to file a lawsuit and only wants an apology from James Evans.
+
+Therefore, the summary is not consistent with the article because it omits certain details, misstates others, and adds some information that is not present in the article.
 
 ###Corrected:

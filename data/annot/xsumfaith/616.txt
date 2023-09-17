@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    northern ireland\'s 11 new district councils are due to get a range of fresh powers when they take over local government from 1 april next year. 
-
-    Article: 
-    They range from extra responsibility for off-street parking, through to tourism.
+<Article>
+They range from extra responsibility for off-street parking, through to tourism.
 Potentially, though, the most controversial move will be putting politicians in charge of all but the most significant planning decisions.
 Councils will be able to accept or reject developments in their own areas.
 Currently, if you want to build a new house or erect an extension, you have to apply for permission to the Planning Service, an agency that comes under the umbrella of Stormont's environment department.
@@ -28,16 +25,20 @@ He said: "It's quite easy to see that continuing, where we get a laissez-faire s
 Friends of the Earth argue that giving politicians more powers with real financial consequences for developers and objectors makes it increasingly important that the public should know who donates to Northern Ireland's political parties.
 Some local politicians remain opposed to the move, because they say it could deter donors worried about their personal security.
 Others argue that the Â£7,500 limit for declaring donations is largely irrelevant to Northern Ireland, as the Stormont parties don't attract such large amounts.
-Under the terms of a law passed earlier this year, it's up to the Northern Ireland Secretary to decide when the time is right to make an order shedding more light on political donations. 
+Under the terms of a law passed earlier this year, it's up to the Northern Ireland Secretary to decide when the time is right to make an order shedding more light on political donations.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+northern ireland\'s 11 new district councils are due to get a range of fresh powers when they take over local government from 1 april next year.
+</Summary>
 
-1. The summary states that the new councils will have "fresh powers," but the article does not support this claim. Instead, the article highlights the potential risks and challenges associated with giving politicians more powers in the planning process.
-2. The summary mentions "tourism" as one of the areas where the new councils will have fresh powers, but the article does not mention tourism at all.
-3. The summary suggests that the new councils will have the final say in planning decisions, but the article states that the Planning Service will still have a role in reviewing and approving plans.
-4. The summary does not mention the concerns raised by Friends of the Earth about the potential for corruption and unfairness in the planning process, which are highlighted in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary does not accurately reflect the content of the article. It presents a more positive and empowering view of the changes, while the article presents a more nuanced and balanced view of the potential risks and challenges associated with the changes.
+1. The summary states that Northern Ireland's 11 new district councils will get a range of fresh powers when they take over local government from 1 April next year.
+2. However, the article states that the councils will have the power to accept or reject developments in their own areas, and that the final say will rest with the councillors.
+3. The summary does not mention anything about the councillors having the final say or the power to accept or reject developments.
+4. Therefore, the summary is not consistent with the article, as it does not provide the same level of detail or accuracy about the new powers that the councils will have.
+
+The reason for this inconsistency is likely that the summary was written to provide a brief overview of the changes, but it did not include all the details and nuances of the article. The article provides more information and context about the changes, including the potential risks and concerns about the new system.
 
 ###Corrected:

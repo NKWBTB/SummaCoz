@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manager chris coleman says wales will learn the progress made by their world cup qualifying campaign in russia this summer. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Victory in Toulouse on Monday would secure Wales' spot in the knockout phase, in their first major international tournament since 1958.
 "This team has got the potential to go on and on. They've got everything to look forward to," said Coleman.
 "We are in a fantastic position. Nevertheless, there's more to come."
@@ -30,15 +27,18 @@ And the Liverpool midfielder promises a positive approach against Russian oppone
 "That won't be our approach, but it is one where we want to make sure we are more in control of how we go about our performance.
 "Performing well is first and foremost what we want to do, because we know when the focus is on doing that then the results come with it."
 Wales assistant boss Osian Roberts confirmed Wales have a fully-fit squad to choose from for the Russia game.
-Pick the XI that you think can take Wales far at Euro 2016 - and then share it with your friends using our team selector. 
+Pick the XI that you think can take Wales far at Euro 2016 - and then share it with your friends using our team selector.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+manager chris coleman says wales will learn the progress made by their world cup qualifying campaign in russia this summer.
+</Summary>
 
-1. The summary states that manager Chris Coleman says Wales will learn the progress made by their World Cup qualifying campaign in Russia this summer, but the article does not mention anything about a World Cup qualifying campaign. Instead, it discusses Wales' performance in the European Championship.
-2. The summary states that Wales could still qualify for the last 16 with a draw against Russia, but the article does not mention anything about qualifying for the last 16. Instead, it focuses on Wales' determination to make the most of their experience at the tournament and not have any regrets.
-3. The summary states that Coleman said this tournament is not the end of the journey for this team, but the article does not mention anything about the team's future or the journey ahead. Instead, it focuses on the players' determination to give their all in the tournament.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it highlights different points and takes a different tone. While the summary focuses on the team's future and qualifying for the last 16, the article focuses on the players' determination to make the most of their experience at the tournament and not have any regrets.
+1. The summary states that Wales will learn about their progress in the World Cup qualifying campaign in Russia this summer.
+2. However, the article does not mention anything about Wales' World Cup qualifying campaign or their plans to learn from it.
+3. The article only mentions Wales' performance in the Euro 2016 tournament and their determination to progress to the knockout stages.
+4. Therefore, the summary is not consistent with the article, as it mentions a different topic (World Cup qualifying campaign) that is not covered in the article.
 
 ###Corrected:

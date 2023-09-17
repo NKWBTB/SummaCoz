@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    manchester city manager jurgen klopp has been impressing in the premier league-and there is no doubt why he will be his old trafford side in the premier league. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Emotion. Drama. Excitement. Brilliant football. Noise. Colour. And all this even before Liverpool's Dejan Lovren rose high at the far post in front of The Kop in injury time to secure a 4-3 victory that will rank alongside the great dramas staged at this sporting theatre.
 It was played out to the backdrop of Liverpool manager Jurgen Klopp's almost crazed touchline demeanour and the young coach who succeeded him at Borussia Dortmund, the gifted and wonderfully dignified Thomas Tuchel.
 Liverpool moved a step closer to earning a place in the Champions League by winning what some regard as Europe's second-rate pot - not a label anyone was attaching to it after this classic.
@@ -48,16 +45,21 @@ Klopp will guard against any complacency but the way in which Liverpool pulled o
 The Europa League is not the only prize within reach - a return to the Champions League via victory in this tournament is now tantalisingly coming into view.
 The famous "This Is Anfield" sign has greeted players on the path to the pitch for decades - many touch it for luck and Klopp even did so himself on a visit to the stadium for a friendly when coach of Borussia Dortmund.
 It carries an aura but Klopp has put a banning order on his players, saying: "I've told my players you need to win something before you touch the 'This Is Anfield'. It's a sign of respect. You don't do it - it is too big."
-Klopp has delivered another incentive to his Liverpool charges. 
+Klopp has delivered another incentive to his Liverpool charges.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     The summary states that Manchester City manager Jürgen Klopp has been impressing in the Premier League, but the article does not mention Manchester City or Jürgen Klopp at all. Instead, it discusses Liverpool manager Jürgen Klopp and their match against Borussia Dortmund. Therefore, the summary is not consistent with the article.
+<Summary>
+manchester city manager jurgen klopp has been impressing in the premier league-and there is no doubt why he will be his old trafford side in the premier league.
+</Summary>
 
-1. The article does not mention Manchester City or Jürgen Klopp.
-2. The summary mentions Manchester City manager Jürgen Klopp, but the article does not.
-3. The article discusses Liverpool manager Jürgen Klopp and their match against Borussia Dortmund.
-4. The summary refers to the Premier League, but the article does not mention the Premier League.
+Explain your reasoning step by step:[/INST]
 
-In summary, the article and the summary are not consistent because the article does not mention the information included in the summary.
+1. The summary is not consistent with the article because:
+	* The summary mentions "Manchester City" and "Old Trafford", but there is no mention of these places in the article.
+	* The summary mentions "Jürgen Klopp" being the manager of "Manchester City", but the article actually states that Klopp is the manager of "Liverpool".
+2. The article is about Liverpool's victory in the Europa League, and the summary does not mention anything about the game or the team's performance.
+3. The summary is written in a way that suggests Klopp is the manager of Manchester City, which is not accurate.
+
+Therefore, the summary is not consistent with the article and contains errors.
 
 ###Corrected:

@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a petition calling for a new tourist attraction to be created in skegness has been criticised by the mayor of london. 
-
-    Article: 
-    People for the Ethical Treatment of Animals (Peta) wants the mascot to be replaced with a modern animal-friendly version.
+<Article>
+People for the Ethical Treatment of Animals (Peta) wants the mascot to be replaced with a modern animal-friendly version.
 The group has suggested a fish with the slogan Skegness - A Happy Plaice.
 The mayor of Skegness said all suggestions were welcome but said he did not think there would be much support for Jolly to be axed.
 The original Jolly Fisherman poster was commissioned by the Great Northern Railway to encourage visitors to take the train on their seaside breaks to Skegness.
@@ -20,16 +17,18 @@ She said Peta's suggestion would give the resort an opportunity to rebrand itsel
 Skegness's mayor, Carl Macey, said the Jolly Fisherman was loved by adults and children alike.
 He said: "Animal cruelty is something we don't want to be portrayed for, but I don't feel Jolly has ever come across in that manner.
 "He is just accepted as happy and friendly and he does such a wonderful job for Skegness.
-"It [Peta's suggestion] will go before council, but if it isn't broken we won't try and fix it." 
+"It [Peta's suggestion] will go before council, but if it isn't broken we won't try and fix it."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+a petition calling for a new tourist attraction to be created in skegness has been criticised by the mayor of london.
+</Summary>
 
-1. The summary states that the mayor of London criticized a petition calling for a new tourist attraction in Skegness, but the article does not mention anything about the mayor of London. Instead, the article is about Peta's suggestion to replace the Jolly Fisherman mascot with a modern, animal-friendly version.
-2. The summary mentions the mayor of Skegness, but the article does not quote the mayor as saying that the Jolly Fisherman is loved by adults and children alike. Instead, the article quotes the mayor as saying that all suggestions are welcome but that he does not think there would be much support for Jolly to be axed.
-3. The summary mentions the Jolly Fisherman poster being commissioned in 1908, but the article does not mention the date of the poster.
-4. The summary states that Peta's suggestion would give the resort an opportunity to rebrand itself as a progressive holiday destination, but the article does not mention anything about rebranding. Instead, the article focuses on Peta's criticism of the Jolly Fisherman mascot as evoking images of animal cruelty.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article.
+1. The summary states that a petition calling for a new tourist attraction in Skegness has been criticised by the mayor of London. However, the article does not mention anything about a petition or a new tourist attraction.
+2. The article is actually about People for the Ethical Treatment of Animals (Peta) wanting the mascot of Skegness, the Jolly Fisherman, to be replaced with a modern animal-friendly version.
+3. The mayor of Skegness is quoted in the article as saying that the Jolly Fisherman is loved by adults and children alike and that there is no need to change it.
+4. Therefore, the summary is not consistent with the article because it mentions a petition and a new tourist attraction, which are not present in the article. Additionally, the summary incorrectly states that the mayor of London criticised the petition, when in fact it is the mayor of Skegness who is quoted in the article.
 
 ###Corrected:

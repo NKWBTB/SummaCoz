@@ -1,24 +1,25 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a murder investigation is under way after a man\'s body was found at a house in glasgow, police have said. 
-
-    Article: 
-    The body of the 36-year-old was found in a house in Glenfinnan Road around 15:05 on Wednesday.
+<Article>
+The body of the 36-year-old was found in a house in Glenfinnan Road around 15:05 on Wednesday.
 Two officers were seen at the property on Friday afternoon. It was cordoned off by police tape and a bunch of flowers lay outside.
 Earlier police said a post-mortem examination would be carried out to establish the exact cause of death.
-They added: "A report will be sent to the procurator fiscal." 
+They added: "A report will be sent to the procurator fiscal."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that! Here's my reasoning step by step:
+<Summary>
+a murder investigation is under way after a man\'s body was found at a house in glasgow, police have said.
+</Summary>
 
-1. The summary states that a murder investigation is underway, but the article does not mention anything about murder. Instead, it mentions that a post-mortem examination will be carried out to establish the exact cause of death.
-2. The summary mentions a man's body being found at a house in Glasgow, which is consistent with the article.
-3. However, the summary does not mention anything about police cordoning off the property or a bunch of flowers being laid outside, which are both mentioned in the article.
-4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (murder investigation) and omits information that is present in the article (police cordoning off the property and the bunch of flowers).
+Explain your reasoning step by step:[/INST]
 
-So, the reason why the summary is not consistent with the article is that it includes inaccurate information and omits accurate information.
+1. The article states that the body of a 36-year-old was found in a house in Glenfinnan Road, but it does not mention anything about a murder investigation.
+2. The summary states that a murder investigation is under way, but this is not supported by the article.
+3. The article only mentions that a post-mortem examination will be carried out to establish the exact cause of death, but it does not mention anything about a murder investigation.
+4. The summary is not consistent with the article, as the article does not provide any information about a murder investigation.
+
+Therefore, the reason why the summary is not consistent with the article is that the article does not mention anything about a murder investigation, but the summary states that one is under way.
 
 ###Corrected:

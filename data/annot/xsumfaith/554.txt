@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    liverpool won a game that will be talked about for generations-a europa league quarter-final against borussia dortmund that will live forever in the memory of all at anfield. 
-
-    Article: 
-    Media playback is not supported on this device
+<Article>
+Media playback is not supported on this device
 Emotion. Drama. Excitement. Brilliant football. Noise. Colour. And all this even before Liverpool's Dejan Lovren rose high at the far post in front of The Kop in injury time to secure a 4-3 victory that will rank alongside the great dramas staged at this sporting theatre.
 It was played out to the backdrop of Liverpool manager Jurgen Klopp's almost crazed touchline demeanour and the young coach who succeeded him at Borussia Dortmund, the gifted and wonderfully dignified Thomas Tuchel.
 Liverpool moved a step closer to earning a place in the Champions League by winning what some regard as Europe's second-rate pot - not a label anyone was attaching to it after this classic.
@@ -48,20 +45,35 @@ Klopp will guard against any complacency but the way in which Liverpool pulled o
 The Europa League is not the only prize within reach - a return to the Champions League via victory in this tournament is now tantalisingly coming into view.
 The famous "This Is Anfield" sign has greeted players on the path to the pitch for decades - many touch it for luck and Klopp even did so himself on a visit to the stadium for a friendly when coach of Borussia Dortmund.
 It carries an aura but Klopp has put a banning order on his players, saying: "I've told my players you need to win something before you touch the 'This Is Anfield'. It's a sign of respect. You don't do it - it is too big."
-Klopp has delivered another incentive to his Liverpool charges. 
+Klopp has delivered another incentive to his Liverpool charges.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+liverpool won a game that will be talked about for generations-a europa league quarter-final against borussia dortmund that will live forever in the memory of all at anfield.
+</Summary>
 
-1. The summary states that Liverpool won the game 4-3, whereas the article states that Liverpool won the game 4-2.
-2. The summary mentions that the game was a "Europa League quarter-final against Borussia Dortmund," but the article does not mention the specific league or competition.
-3. The summary states that the game was a "classic," but the article does not use that word to describe the game.
-4. The summary mentions that the game was played at Anfield, but the article does not mention the specific location of the game.
-5. The summary states that Liverpool manager Jürgen Klopp was a "man possessed on the touchline," but the article does not use that phrase to describe Klopp's behavior.
-6. The summary mentions that the game was a "turning point" for Liverpool, but the article does not use that phrase.
-7. The summary states that the game was a "thriller," but the article does not use that word to describe the game.
-8. The summary mentions that the game was a "drama-filled night," but the article does not use that phrase.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it includes specific details that are not mentioned in the article, and it uses language that is not present in the article.
+1. The summary is not consistent with the article because:
+
+a. The summary states that Liverpool won a game that will be talked about for generations, but the article does not mention anything about the game being a generational one.
+
+b. The summary mentions that the game was a Europa League quarter-final, but the article does not provide any information about the tournament or the opponent.
+
+c. The summary does not mention any specific details about the game, such as the score, the players, or the highlights, while the article provides a detailed account of the match.
+
+2. The reasons why the summary is not consistent with the article are:
+
+a. The summary is too general and does not provide any specific information about the game, while the article provides a detailed account of the match.
+
+b. The summary does not mention any of the specific details mentioned in the article, such as the goals, the players, or the atmosphere.
+
+c. The summary does not convey the same level of excitement and drama as the article, which describes the game as a "classic" and a "thriller".
+
+d. The summary does not provide any context or background information about the game, such as the teams' performances before the match or the significance of the game for Liverpool.
+
+e. The summary does not mention any of the quotes from the manager or the players that are included in the article, which provide additional insight into the game and the team's performance.
+
+Overall, the summary does not accurately reflect the content of the article and does not provide a consistent representation of the game.
 
 ###Corrected:

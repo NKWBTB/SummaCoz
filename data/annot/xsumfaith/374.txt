@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two us police officers have been arrested in washington on suspicion of attempting to smuggle a drugs into the us, officials say. 
-
-    Article: 
-    The incident began on Tuesday morning when border agents encountered two men carrying backpacks five miles (8km) east of Sumas, Washington, in the US.
+<Article>
+The incident began on Tuesday morning when border agents encountered two men carrying backpacks five miles (8km) east of Sumas, Washington, in the US.
 Authorities say agents interrupted an attempt to smuggle a load of MDMA, or ecstasy, from Canada to San Francisco.
 Two others were arrested and accused of planning to transport the drugs.
 On Tuesday morning, US border agents ordered the two men they encountered near the border to halt, officials said.
@@ -19,15 +16,21 @@ Also inside one backpack was a California driver's licence with the name of Will
 Investigators later arrested a Bellingham, Washington woman, Kali Henifin, who they say planned to pick the two men up at the border. They also arrested her boyfriend, Ryan Lambert, who allegedly told officers he was to be paid $11,000 (Â£7,270) to drive the drugs to San Francisco.
 Ms Henifin told agents they had been monitoring police radio communication on a mobile phone when they heard a report of a shooting and left the area, according to the complaint.
 The three defendants in US custody face conspiracy as well as drug possession and distribution charges.
-The wooded area a few miles east of a highway border crossing is a well-known smuggling route for drugs and firearms, and a spokeswoman for the US attorney for the Western District of Washington told the BBC smuggling prosecutions are "a large part of our practice". 
+The wooded area a few miles east of a highway border crossing is a well-known smuggling route for drugs and firearms, and a spokeswoman for the US attorney for the Western District of Washington told the BBC smuggling prosecutions are "a large part of our practice".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+two us police officers have been arrested in washington on suspicion of attempting to smuggle a drugs into the us, officials say.
+</Summary>
 
-1. The summary states that two US police officers were arrested for attempting to smuggle drugs, while the article states that two men were arrested, one of whom was a Canadian citizen.
-2. The summary does not mention the name of the drug that was being smuggled, while the article states that the backpacks contained 58 pounds of ecstasy.
-3. The summary does not mention the involvement of a woman and her boyfriend in the smuggling plot, as described in the article.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it does not accurately describe the events and individuals described in the article.
+1. The summary states that two US police officers were arrested for attempting to smuggle drugs into the US.
+2. However, the article states that the two men arrested were not police officers, but rather individuals who were attempting to smuggle drugs into the US.
+3. The article also states that the two men were arrested for conspiracy to possess and distribute ecstasy, not for being police officers.
+4. Therefore, the summary is not consistent with the article because it incorrectly states that the individuals arrested were police officers.
+5. The article provides evidence that the two men were not police officers, such as their identification as non-law enforcement individuals in the criminal complaint and the fact that they were arrested for drug-related charges.
+6. The summary does not provide any evidence to support the claim that the individuals arrested were police officers, and therefore the summary is not accurate.
+7. The inconsistency between the summary and the article suggests that the summary may be incorrect or misleading.
 
 ###Corrected:

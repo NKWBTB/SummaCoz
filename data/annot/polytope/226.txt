@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    leeds-based direct line is running a competition called #everydayfix .
-they asked groups to design products to deal with common problems .
-the products were designed as part of the direct line everyday fix design makeathon . 
-
-    Article: 
-    have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
+<Article>
+have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
 to deal with these sorts of everyday emergencies , one company has designed a range of prototype products .
 you can vote on which one is your favourite - and the winner will be made into an actual product , funded through a kickstarter campaign .
 leeds-based direct line is running a competition called #everydayfix .
@@ -52,17 +47,27 @@ and as another solution to your phone running out of battery , one team designed
 products that did n't make the final shortlist included the parking pin , shown .
 you could leave this in a parking space , and it will alert you when the space is free , so you can park your car
 the relay app , shown , would let you nominate people to receive your messages when your phone dies
-and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you 
+and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+leeds-based direct line is running a competition called #everydayfix .
+they asked groups to design products to deal with common problems .
+the products were designed as part of the direct line everyday fix design makeathon .
+</Summary>
 
-1. The summary states that the competition is called "#everydayfix," but the article does not mention this hashtag.
-2. The summary mentions that the products were designed to deal with common problems such as forgetting to lock the door, losing keys, and running out of battery. However, the article does not mention these specific problems as the focus of the competition. Instead, it mentions a broader range of everyday emergencies such as not being able to sleep, losing important documents, and being stuck in traffic.
-3. The summary mentions that the products were designed as part of the "direct line everyday fix design makeathon," but the article does not mention this event. Instead, it mentions that the competition is run by Direct Line and that the products were designed by groups from London-based design company Makerversity.
-4. The summary mentions that the products were shortlisted based on a survey of 2,000 people, but the article does not mention this survey. Instead, it mentions that the products were selected by a panel of judges.
-5. The summary mentions that the winning product will be funded through a Kickstarter campaign, but the article does not mention this. Instead, it states that the winning product will be made into an actual product and sold.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it focuses on specific problems and hashtags that are not mentioned in the article, and it mentions events and judging criteria that are not present in the article.
+1. The summary states that Leeds-based Direct Line is running a competition called #everydayfix, and groups were asked to design products to deal with common problems.
+2. However, the article states that the competition is called "Everyday Fix" and is run by Direct Line, but it does not mention groups being asked to design products. Instead, it describes how three prototype products were designed as part of the "Everyday Fix Design Makeathon" to solve everyday emergencies.
+3. The summary does not mention any of the specific products designed, such as the "Forget Me Lock" or "Nipper" devices, or the "Snooze" alarm clock.
+4. Therefore, the summary is not consistent with the article, as it does not accurately describe the competition or the products that were designed.
+
+Reasoning step by step:
+
+1. The summary states that Direct Line is running a competition called #everydayfix, but it does not mention any specific products being designed.
+2. The article describes how three prototype products were designed as part of the "Everyday Fix Design Makeathon" to solve everyday emergencies.
+3. The summary does not mention any of the specific products designed in the article.
+4. Therefore, the summary is not consistent with the article, as it does not accurately describe the competition or the products that were designed.
 
 ###Corrected:

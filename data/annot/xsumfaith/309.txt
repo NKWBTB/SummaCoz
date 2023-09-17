@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    one of the uk\'s most famous landmarks, the duke, has been given the go-ahead by the national trust. 
-
-    Article: 
-    Wellington monument on the Blackdown Hills, in Somerset, was built in 1817 but since 2005 it has been fenced off because of falling stone debris.
+<Article>
+Wellington monument on the Blackdown Hills, in Somerset, was built in 1817 but since 2005 it has been fenced off because of falling stone debris.
 The National Trust is using ground-penetrating radar on the 174ft (53m) tower to see under its stone cladding.
 Ken Evans, from the trust, said the work was "crucial".
 Built on one of the highest points of the Blackdown Hills, the landmark was put up as a tribute to the Duke of Wellington's military achievements at the Battle of Waterloo.
@@ -14,19 +11,25 @@ But according to the trust, it has been struck by lightning twice in its history
 Mr Evans, the trust's building surveyor, said the radar study was one of several being carried out to "understand this unique and somewhat complex monument".
 "We have been using wind and movement sensors which have already surprised us by showing that it doesn't flex in the wind quite as much as we expected," he said.
 "The ground-penetrating radar seeks to identify voids and gaps in the stonework under the surface but should also tell us more about the materials which were used to build the obelisk."
-Data from the detailed survey will also be used to build a computer model of the obelisk and help with a "more effective repair approach". 
+Data from the detailed survey will also be used to build a computer model of the obelisk and help with a "more effective repair approach".
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can explain why the given summary is not consistent with the article. Here are the reasons:
+<Summary>
+one of the uk\'s most famous landmarks, the duke, has been given the go-ahead by the national trust.
+</Summary>
 
-1. The summary mentions "the Duke" being given the go-ahead by the National Trust, while the article does not mention any such person or title. The correct name of the monument is the Wellington Monument, and it was built to commemorate the Duke of Wellington's military achievements.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the National Trust has given the go-ahead for something, but the article does not mention any such approval or decision by the National Trust. Instead, the article states that the National Trust is using ground-penetrating radar to study the monument and understand its condition.
+1. The summary states that the Duke of Wellington has been given the go-ahead by the National Trust. However, the article does not mention anything about the Duke of Wellington being given approval by the National Trust.
+2. The summary implies that the National Trust is responsible for the Duke of Wellington, which is not accurate. The article states that the National Trust is using ground-penetrating radar to study the Wellington monument, but it does not mention anything about the Duke of Wellington.
+3. The summary uses the phrase "one of the UK's most famous landmarks," which is not supported by the article. The article only mentions the Wellington monument, not any other landmarks.
+4. The summary is written in a very brief and simplistic style, which is not consistent with the detail and complexity of the article. The article provides specific information about the Wellington monument, such as its history, the materials used to build it, and the reasons for its current state.
 
-3. The summary mentions nothing about the monument being fenced off due to falling stone debris, which is a significant detail in the article. The article explains that the monument has been fenced off for several years due to safety concerns caused by falling stone debris.
+Therefore, the summary is not consistent with the article because it:
 
-4. The summary does not mention the reason for the National Trust's study of the monument, which is to understand its unique and complex structure and to develop a more effective repair approach.
-
-Overall, the summary does not accurately reflect the content of the article, and it is not consistent with the information provided in the article.
+* Mentions the Duke of Wellington, which is not mentioned in the article.
+* Implies that the National Trust is responsible for the Duke of Wellington, which is not accurate.
+* Uses a phrase that is not supported by the article ("one of the UK's most famous landmarks").
+* Is written in a very brief and simplistic style, which is not consistent with the detail and complexity of the article.
 
 ###Corrected:

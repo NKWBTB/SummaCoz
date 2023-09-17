@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    tributes have been paid to one of scotland\'s most prestigious sporting stars, raise millar, who has died at the age of 83. 
-
-    Article: 
-    The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
+<Article>
+The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
 The ride will raise money to develop young Scottish cycling talent acknowledge the fabulous contribution made to Scottish and British cycling by Millar, who was born in Glasgow in 1958.
 His fourth-placed finish in the 1984 Tour de France was a record for a British rider and has since been matched only by Bradley Wiggins in 2009.
 For three of the organisers, the sportive is the perfect way to celebrate Millar's achievements. They hope it will safeguard his legacy.
@@ -38,16 +35,21 @@ The intensely private Millar gave his permission to Smith as long as proceeds we
 "He was one of my idols," said Smith. "He used to come back in the winter to Glasgow. Every year he came round to the house and gave me a jersey.
 "I was fortunate then; I was just as small as him so I could use them.
 "And now, to have a Robert Millar Sportive is fantastic because the legacy of the name will go on.
-"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world." 
+"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+tributes have been paid to one of scotland\'s most prestigious sporting stars, raise millar, who has died at the age of 83.
+</Summary>
 
-1. The summary states that tributes have been paid to Robert Millar, who died at the age of 83. However, the article does not mention anything about Millar's death.
-2. The summary mentions that the sportive is in memory of Millar, but the article does not mention the sportive at all.
-3. The summary states that the event is to celebrate Millar's achievements and safeguard his legacy, but the article does not mention any specific achievements or legacy of Millar.
-4. The summary mentions that the event will raise money for young Scottish cycling talent, but the article does not mention anything about the funds raised going towards any specific cause.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article as it contains information that is not present in the article, and omits information that is present in the article.
+1. The article and the summary have different titles. The article is titled "Tributes paid to Robert Millar, Scotland's 'King of the Mountains'", while the summary is titled "tributes have been paid to one of scotland's most prestigious sporting stars, raise millar, who has died at the age of 83."
+2. The article is about Robert Millar, a Scottish cyclist who finished fourth in the 1984 Tour de France and is considered one of the best stage riders that Britain has ever produced. The summary, on the other hand, mentions nothing about Robert Millar's achievements or his death.
+3. The article includes quotes from three people who knew Millar well: Billy Bilsland, Brian Smith, and David Lang. The summary does not include any quotes or interviews.
+4. The article mentions that the sportive event is being held to celebrate Millar's achievements and to raise money for young Scottish cyclists. The summary does not mention the sportive event or any fundraising efforts.
+5. The article provides specific details about Millar's career, including his finish in the 1984 Tour de France and his victories in other races. The summary does not provide any specific details about Millar's career.
+
+Based on these differences, it is clear that the summary is not consistent with the article. The summary does not provide any information about Robert Millar's achievements or his death, and it does not mention the sportive event or any fundraising efforts. Therefore, the summary is not a accurate representation of the article.
 
 ###Corrected:

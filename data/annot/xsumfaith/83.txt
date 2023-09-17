@@ -1,22 +1,24 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    conor mcmanus scored a hat-trick as alloa came from behind to beat alloa athletic. 
-
-    Article: 
-    McManus netted from close range on the quarter-hour mark to open the scoring and Ross Forbes' deflected strike quickly doubled Morton's lead.
+<Article>
+McManus netted from close range on the quarter-hour mark to open the scoring and Ross Forbes' deflected strike quickly doubled Morton's lead.
 A shot by Kyle McAusland pulled Alloa back into the game before half-time.
-But another McManus finish and one by Denny Johnstone late on ensured a comfortable win for the hosts. 
+But another McManus finish and one by Denny Johnstone late on ensured a comfortable win for the hosts.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+conor mcmanus scored a hat-trick as alloa came from behind to beat alloa athletic.
+</Summary>
 
-1. The summary states that Conor McManus scored a hat-trick. However, the article states that McManus netted one goal and Denny Johnstone scored another goal late on, but it does not mention a hat-trick for McManus.
-2. The summary states that Alloa came from behind to beat Alloa Athletic, but the article does not mention Alloa Athletic as a team. Instead, it refers to the opposing team as Morton.
-3. The summary does not mention Kyle McAusland's goal, which is mentioned in the article as pulling Alloa back into the game before half-time.
+Explain your reasoning step by step:[/INST]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. Specifically, it misrepresents the number of goals scored by McManus, refers to the opposing team incorrectly, and leaves out important information about McAusland's goal.
+1. The article states that McManus netted from close range to open the scoring, but the summary states that Alloa came from behind to beat Morton. This is inconsistent as Alloa was behind in the game.
+2. The article states that Ross Forbes' deflected strike doubled Morton's lead, but the summary does not mention this. Instead, it states that Alloa came from behind to beat Morton, which is not supported by the article.
+3. The article states that Kyle McAusland pulled Alloa back into the game before half-time, but the summary does not mention this. Instead, it states that Alloa came from behind to beat Morton, which is not supported by the article.
+4. The article states that another McManus finish and a goal by Denny Johnstone ensured a comfortable win for the hosts, but the summary does not mention this. Instead, it states that Alloa came from behind to beat Morton, which is not supported by the article.
+
+Therefore, the summary is not consistent with the article because it does not accurately reflect the events described in the article. The summary states that Alloa came from behind to beat Morton, but the article states that Morton led for most of the game and won comfortably.
 
 ###Corrected:

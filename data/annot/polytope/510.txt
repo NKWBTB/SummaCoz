@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
-his ninja turtle mask helped him feel stronger while he was having radiotherapy .
-his ninja turtle mask helped him feel stronger while he was having radiotherapy .
-hospital staff were amazed when the youngster asked if he could decorate the protective mask that holds him still while having his treatment . 
-
-    Article: 
-    a five-year-old boy who battled cancer has been given the all clear by doctors - after creating a superhero mask to help him through his treatment .
+<Article>
+a five-year-old boy who battled cancer has been given the all clear by doctors - after creating a superhero mask to help him through his treatment .
 harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
 but his ninja turtle mask helped him feel stronger while he was having radiotherapy .
 hospital staff were amazed when the youngster , from stretford , asked if he could decorate the protective mask that holds him still while having his treatment .
@@ -60,16 +54,25 @@ tumours growing in the neck can be visible as a lump , and a child is likely to 
 in cases where a tumour is pressing on the spinal cord , children can experience a weakness in the legs and walk unsteadily .
 a variety of tests and investigations may be needed to diagnose neuroblastoma .
 treatment depends on the age of the child , as well as the size and position of the tumour and whether the disease has spread .
-children can have surgery , chemotherapy , as well as antibody treatment and radiotherapy . 
+children can have surgery , chemotherapy , as well as antibody treatment and radiotherapy .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
+his ninja turtle mask helped him feel stronger while he was having radiotherapy .
+his ninja turtle mask helped him feel stronger while he was having radiotherapy .
+hospital staff were amazed when the youngster asked if he could decorate the protective mask that holds him still while having his treatment .
+</Summary>
 
-1. The summary states that Harley Renshaw was diagnosed with cancer in his kidney, neck, lungs, and bones, but the article states that he was diagnosed with cancer in his kidney, lung, bones, and neck.
-2. The summary mentions that Harley wore a ninja turtle mask during his radiotherapy treatment, but the article does not mention this.
-3. The summary states that Harley was given the all-clear by doctors, but the article states that he was declared cancer-free after battling the disease for a year.
-4. The summary mentions that Harley received a box full of ninja turtle presents for Christmas from the children's TV channel Nickelodeon, but the article does not mention this.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary contains some inaccuracies and exaggerations compared to the original article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent information: The summary states that Harley was diagnosed with cancer in his kidney, neck, lungs, and bones, while the article states that he was diagnosed with neuroblastoma, a rare and aggressive childhood cancer that affects fewer than 100 children in the UK each year.
+2. Lack of detail: The summary does not provide any information about Harley's treatment, such as chemotherapy, surgery, or radiotherapy, while the article provides detailed information about his treatment journey.
+3. Focus on the ninja turtle mask: The summary focuses solely on Harley's request to decorate his protective mask with a ninja turtle design, while the article provides a comprehensive overview of Harley's cancer journey, including his diagnosis, treatment, and recovery.
+4. Incorrect age: The summary states that Harley is five years old, while the article states that he is four years old.
+
+In conclusion, the summary is not consistent with the article because it lacks detail, focuses solely on the ninja turtle mask, and contains incorrect information about Harley's age.
 
 ###Corrected:

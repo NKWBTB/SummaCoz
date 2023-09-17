@@ -1,13 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    two french tourists trying to make contact with a UNK on UNK island off perth in western australia on april 3 .
-two french tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a UNK on UNK island off perth in western australia on april 3 . 
-
-    Article: 
-    a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
+<Article>
+a quokka was the innocent victim of a cruel act by two french tourists who tried to set the australian animal alight .
 the two men allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3 .
 the lucky little critter survived the reckless incident but was singed by the flame .
 two french male tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a quokka on rottnest island off perth in western australia on april 3
@@ -17,17 +13,23 @@ they have each been charged with animal cruelty and will appear in fremantle mag
 the size of a domestic cat
 quokkas can be found on some small islands off the west australian coast
 in particular off rottnest island off perth and bald island near albany
-the lucky little critter survived the reckless incident but was singed by the flame and the men were charged 
+the lucky little critter survived the reckless incident but was singed by the flame and the men were charged
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, here's my reasoning step by step:
+<Summary>
+two french tourists trying to make contact with a UNK on UNK island off perth in western australia on april 3 .
+two french tourists allegedly ignited an aerosol spray with a lighter causing a large flame to make contact with a UNK on UNK island off perth in western australia on april 3 .
+</Summary>
 
-1. The summary states that the two French tourists tried to make contact with a UNK on UNK island off Perth in Western Australia on April 3. However, the article states that the two French tourists tried to set a quokka alight on Rottnest Island off Perth in Western Australia on April 3.
-2. The summary mentions an "aerosol spray" being ignited with a lighter, but the article does not mention any such item. Instead, the article states that the two men allegedly ignited a flame with a lighter, which made contact with the quokka.
-3. The summary states that the two men were trying to make contact with a UNK, but the article states that they were trying to set a quokka alight.
-4. The summary does not mention any injuries or harm caused to the animal, while the article states that the quokka was singed by the flame.
-5. The summary does not mention any charges being brought against the two men, while the article states that they have each been charged with animal cruelty and will appear in court on April 17.
+Explain your reasoning step by step:[/INST]
 
-Therefore, based on these differences, it is clear that the summary is not consistent with the article.
+Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+
+1. Inconsistent language: The summary uses the term "UNK" (which stands for "unknown") to refer to the animal that was allegedly set on fire, while the article uses the correct term "quokka". This is a clear inconsistency and suggests that the summary was not accurately based on the article.
+2. Incorrect location: The summary states that the incident occurred on "UNK island off perth in western australia", while the article correctly states that the incident occurred on "Rottenest Island off Perth in Western Australia".
+3. Incorrect date: The summary states that the incident occurred on "April 3", while the article correctly states that the incident occurred on "April 3".
+4. Incorrect charge: The summary states that the two men were charged with "trying to make contact with a UNK", while the article correctly states that they were charged with "animal cruelty".
+
+Overall, the summary is not consistent with the article because it contains incorrect language, location, date, and charge. It is clear that the summary was not accurately based on the article and may have been intentionally altered to mislead or confuse readers.
 
 ###Corrected:

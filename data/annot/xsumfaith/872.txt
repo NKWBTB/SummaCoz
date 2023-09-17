@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    ``i have fond memories of playing football, but it was n\'t going on the march\'\', but he\'s going on the brink of becoming a goalkeeper. 
-
-    Article: 
-    As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
+<Article>
+As Ron Jones, from Newport, prepares to mark Holocaust Memorial Day on Friday with a service at the city's cathedral, he says that amongst all the terrible memories, there will also be a few which will make him smile.
 He was captured in 1943 fighting in the Middle East, and after nine months in Italy, was transferred to forced labour camp E715, part of the Auschwitz complex.
 There he spent 12 hours a day, six days a week, working with hazardous chemicals in the IG Farben works, but on Sundays they were permitted to play football.
 "I think the Germans thought that letting us play football was a quick and easy way of keeping us quiet," he said.
@@ -39,31 +36,21 @@ But by the time the Russians arrived, Mr Jones was long gone; as part of the dea
 "I was 13 stone (82kg) when I was captured, and when I was liberated by the Americans in April 1945, they weighed me, and I was seven stone."
 Mr Jones considers himself one of the lucky ones.
 "I was very lucky. I came home to a good wife, who helped me get over it. But lots never really recovered at all," he said.
-"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late." 
+"I think I'm probably the last now. There was another of the footballers who I got Christmas cards from, but there was nothing this year. So at 94, I think it's probably time to tell the story before it's too late."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+``i have fond memories of playing football, but it was n\'t going on the march\'\', but he\'s going on the brink of becoming a goalkeeper.
+</Summary>
 
-1. The summary mentions the main character going on a march, but the article does not mention any march.
+Explain your reasoning step by step:[/INST]
 
-2. The summary states that the main character was a goalkeeper, but the article does not mention any information about football or goalkeeping.
+1. The summary states that Ron Jones has fond memories of playing football, but the article does not support this claim.
+2. The article actually states that while playing football was a source of comfort and normality for Mr. Jones and his fellow prisoners, it is not accurate to say that he has fond memories of it.
+3. In the article, Mr. Jones describes the experience of playing football as "a bit of normality" and "something to keep us sane," but he does not use language that suggests he has fond memories of it.
+4. The summary also implies that Mr. Jones's experience of playing football was primarily about becoming a goalkeeper, but the article does not support this claim.
+5. The article actually focuses on the fact that Mr. Jones and his fellow prisoners played football as a way of coping with the horrific conditions of the Auschwitz concentration camp, and that it was a source of comfort and normality for them.
 
-3. The summary implies that the main character survived the Holocaust, but the article does not mention any information about survival or liberation.
-
-4. The summary mentions the Red Cross bringing food parcels, but the article does not mention any information about the Red Cross.
-
-5. The summary mentions the main character playing football with teams from England, Wales, Scotland, and Ireland, but the article does not mention any information about football or teams.
-
-6. The summary mentions the Auschwitz death camp, but the article does not mention any information about Auschwitz.
-
-7. The summary mentions the main character having nightmares about Auschwitz, but the article does not mention any information about nightmares or mental health.
-
-8. The summary mentions the main character being liberated by the Americans, but the article does not mention any information about liberation or the Americans.
-
-9. The summary mentions the main character considering himself one of the lucky ones, but the article does not mention any information about luck or survival.
-
-10. The summary mentions the main character telling his story before it's too late, but the article does not mention any information about the main character's current status or plans to tell his story.
-
-Based on these differences, it is clear that the summary is not consistent with the article. It appears to be a fictionalized version of the article, with many details added or changed to create a different narrative.
+Therefore, the summary is not consistent with the article because it misrepresents Mr. Jones's experience of playing football and focuses on his becoming a goalkeeper, which is not a central aspect of the article.
 
 ###Corrected:

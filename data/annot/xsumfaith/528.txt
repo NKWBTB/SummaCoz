@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    sports direct boss mike ashley has been threatened with being in contempt of parliament after failing to appear in front of a committee of mps. 
-
-    Article: 
-    Mr Ashley had been asked to give evidence about the treatment of his workers.
+<Article>
+Mr Ashley had been asked to give evidence about the treatment of his workers.
 It follows a BBC investigation into the Derbyshire company's warehouse working practises.
 Mr Ashley has until 21 March to respond after a letter from Hartlepool MP Iain Wright.
 The letter reveals Mr Ashley had invited the Business, Innovation and Skills (BIS) select committee - which Mr Wright chairs - to a meeting at the company's base in Shirebrook.
@@ -15,19 +12,19 @@ The letter reveals Mr Ashley had invited the Business, Innovation and Skills (BI
 "A number of alternative dates have been offered to you by the Committee Clerk, but... you have not accepted any of them, nor agreed in principle to attend.
 "Should you fail in your reply to agree to attend on one of the dates offered to you...the committee reserves the right to take the matter further, including seeking the support of the House of Commons in respect of any complaint of contempt."
 Sports Direct has not responded to the BBC's request for a comment.
-The company has previously pledged to review worker rights, with oversight by Mr Ashley, who also owns Newcastle United Football Club. 
+The company has previously pledged to review worker rights, with oversight by Mr Ashley, who also owns Newcastle United Football Club.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's my reasoning step by step:
+<Summary>
+sports direct boss mike ashley has been threatened with being in contempt of parliament after failing to appear in front of a committee of mps.
+</Summary>
 
-1. The summary states that Mike Ashley, the boss of Sports Direct, has been threatened with being in contempt of parliament for failing to appear in front of a committee of MPs.
+Explain your reasoning step by step:[/INST]
 
-2. However, the article does not mention anything about Mike Ashley being threatened with contempt of parliament. Instead, it states that Mr. Ashley has been invited to a meeting with the Business, Innovation, and Skills (BIS) select committee to discuss the treatment of his workers.
-
-3. The article also mentions that Mr. Ashley has been offered several alternative dates for the meeting but has not accepted any of them.
-
-4. Therefore, the summary is not consistent with the article because it does not mention the invitation to the meeting or the alternative dates offered to Mr. Ashley. Instead, it only mentions the threat of being in contempt of parliament, which is not mentioned in the article.
-
-5. The article focuses on the invitation to Mr. Ashley to discuss the treatment of his workers, while the summary focuses on the potential threat of being in contempt of parliament. This is why the summary is not consistent with the article.
+1. The summary states that Mike Ashley has been threatened with being in contempt of parliament for failing to appear in front of a committee of MPs.
+2. However, the article states that Mr. Ashley has been invited to a meeting with the Business, Innovation and Skills (BIS) select committee, and that the committee has offered several alternative dates for the meeting.
+3. The article does not mention any threat of being in contempt of parliament.
+4. Therefore, the summary is not consistent with the article, as it implies that Mr. Ashley has been threatened with being in contempt of parliament, while the article only mentions an invitation to a meeting and offers of alternative dates.
+5. The discrepancy between the summary and the article is likely due to the fact that the summary is not supported by the information in the article. The article does not mention any threat of being in contempt of parliament, and the summary is therefore not accurate.
 
 ###Corrected:

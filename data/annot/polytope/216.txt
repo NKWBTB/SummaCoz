@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
-since leaving top rank in 2006 , mayweather has looked after his own interests and negotiated a 60-40 split in his favour for his fight against pacquiao .
-it is predicted he will retire with as much as $ 100m ( £ 67m ) in the bank . 
-
-    Article: 
-    floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+<Article>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
 here , sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2
 wbc super-featherweight , wbc lightweight , wbc light-welterweight , ibf welterweight , wbc welterweight , wbc light-middleweight , wba light-middleweight
 $ 440 million ( £ 295m )
@@ -35,20 +30,33 @@ pacquiao also owns a basketball team and played several games in their debut sea
 pacquiao has been married to jinkeee for 15 years and has five children : michael , israel , emmanuel , princess and queen elizabeth
 pacquiao has been trained by freddie roach since 2001 .
 pacquiao is promoted by bob arum 's top rank company .
-actor mark wahlberg is a big fan of pacquiao . 
+actor mark wahlberg is a big fan of pacquiao .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+since leaving top rank in 2006 , mayweather has looked after his own interests and negotiated a 60-40 split in his favour for his fight against pacquiao .
+it is predicted he will retire with as much as $ 100m ( £ 67m ) in the bank .
+</Summary>
 
-1. The summary states that Floyd Mayweather earns $100 million (£67 million) from his fight against Manny Pacquiao, but the article states that he will retire with as much as $440 million (£295 million).
-2. The summary states that Mayweather negotiated a 60-40 split in his favor for his fight against Pacquiao, but the article does not mention this.
-3. The summary mentions that Mayweather is not afraid to show off his spending habits on social media, but the article does not mention this.
-4. The summary states that Pacquiao purchased a mansion in Beverly Hills as a retreat during his training camp, but the article does not mention this.
-5. The summary mentions that Pacquiao is a politician in the Philippines and has ambitions to become the country's president, but the article does not mention this.
-6. The summary states that Pacquiao is deeply religious and has released several albums and starred in a number of films, but the article does not mention this.
-7. The summary mentions that Pacquiao owns a basketball team and played several games in their debut season this year, but the article does not mention this.
-8. The summary states that Pacquiao has been trained by Freddie Roach since 2001, but the article states that he is currently trained by his uncle Roger and his father Floyd Sr.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, there are several inconsistencies and inaccuracies in the summary. Here's a step-by-step explanation of why the summary is not consistent with the article:
 
-Overall, the summary contains several inaccuracies and exaggerations compared to the article. It is not a consistent summary of the article's content.
+1. Inconsistent with regard to Mayweather's earnings:
+The summary states that Mayweather negotiated a 60-40 split in his favor for his fight against Pacquiao. However, the article does not mention anything about Mayweather's earnings or his split for the fight.
+2. Incorrect information about Pacquiao's earnings:
+The summary states that Pacquiao purchased a mansion in Beverly Hills as a retreat during his training camp. However, the article does not mention anything about Pacquiao purchasing a mansion.
+3. Incorrect information about Mayweather's personal life:
+The summary states that Mayweather is not afraid to show off his spending habits on social media and has a private jet and expensive jewelry. However, the article does not mention anything about Mayweather's personal life or his spending habits.
+4. Incorrect information about Pacquiao's training:
+The summary states that Pacquiao is trained by Freddie Roach. However, the article states that Pacquiao is trained by his uncle Roger and his father Floyd Sr.
+5. Incorrect information about Mayweather's promotion:
+The summary states that Mayweather is promoted by Bob Arum's Top Rank company. However, the article does not mention anything about Mayweather being promoted by Top Rank.
+6. Incorrect information about Pacquiao's ambitions:
+The summary states that Pacquiao has ambitions to become his country's president. However, the article does not mention anything about Pacquiao's political ambitions.
+7. Incorrect information about Pacquiao's personal life:
+The summary states that Pacquiao has been married to Jinkeee for 15 years and has five children. However, the article does not mention anything about Pacquiao's personal life or his children.
+
+In conclusion, the summary is not consistent with the article because it contains several inaccuracies and inconsistencies regarding the personal lives and careers of both fighters.
 
 ###Corrected:

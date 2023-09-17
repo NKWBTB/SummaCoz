@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    uganda were knocked out of the africa cup of nations as they were held to a goalless draw by uganda at the africa cup of nations. 
-
-    Article: 
-    After a drab game with few chances for either side, Mohamed Salah teed up El Said, who struck firmly past Uganda keeper Denis Onyango on 89 minutes.
+<Article>
+After a drab game with few chances for either side, Mohamed Salah teed up El Said, who struck firmly past Uganda keeper Denis Onyango on 89 minutes.
 Uganda's Joseph Ochaya earlier had a goal correctly disallowed for offside.
 The win means Egypt play Ghana on Wednesday with top spot of Group D still at stake, while Uganda are out of their first tournament since 1978.
 Ghana secured their place in the quarter-finals with a 1-0 victory over Mali earlier on Saturday.
@@ -55,17 +52,25 @@ Attempt missed. Abdallah El Said (Egypt) right footed shot from the centre of th
 Foul by Joseph Ochaya (Uganda).
 Ahmed Fathy (Egypt) wins a free kick in the defensive half.
 Substitution, Egypt. Abdallah El Said replaces Tarek Hamed.
-Foul by Geofrey Massa (Uganda). 
+Foul by Geofrey Massa (Uganda).
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I can help you with that. Here's why the given summary is not consistent with the article:
+<Summary>
+uganda were knocked out of the africa cup of nations as they were held to a goalless draw by uganda at the africa cup of nations.
+</Summary>
 
-1. The summary states that Uganda were knocked out of the Africa Cup of Nations, but the article does not mention anything about Uganda being knocked out. Instead, the article states that Egypt won the match 1-0 against Uganda.
-2. The summary mentions that Uganda were held to a goalless draw by Egypt, but the article states that Egypt won the match 1-0 against Uganda.
-3. The summary states that Egypt played Ghana on Wednesday, but the article does not mention anything about Egypt playing Ghana on Wednesday. Instead, the article states that Egypt will play Ghana in their next match.
-4. The summary mentions that Uganda face Mali in their next match, but the article does not mention anything about Uganda playing Mali in their next match. Instead, the article states that Uganda will face Egypt in their next match.
-5. The summary states that the match ended with Egypt winning 1-0 against Uganda, but the article does not mention the final score. Instead, the article states that Egypt won the match with a goal from El Said.
+Explain your reasoning step by step:[/INST]
+  Based on the given article and summary, we can identify the following issues:
 
-Therefore, the given summary is not consistent with the article. It contains several errors and inaccuracies that do not match the information provided in the article.
+1. Inconsistency: The summary states that Uganda was knocked out of the Africa Cup of Nations, while the article does not mention anything about Uganda being knocked out. Instead, it states that Uganda is out of their first tournament since 1978.
+2. Incorrect information: The summary states that the match ended in a goalless draw, while the article states that Egypt won the match with a goal scored by Abdallah El Said.
+3. Missing information: The summary does not mention the name of the winning team, Egypt, or the scorer of the only goal, Abdallah El Said.
+
+To address these issues, we can revise the summary as follows:
+
+<Revised Summary>
+Egypt defeated Uganda 1-0 in their Group D match at the Africa Cup of Nations, with Abdallah El Said scoring the only goal. The win means Egypt will play Ghana on Wednesday with top spot of Group D still at stake, while Uganda is eliminated from their first tournament since 1978.
+
+This revised summary accurately reflects the information in the article and addresses the inconsistencies and incorrect information in the original summary.
 
 ###Corrected:

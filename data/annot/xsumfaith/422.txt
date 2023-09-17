@@ -1,27 +1,27 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    a memorial service has been held in portsmouth to mark the 70th anniversary of vj day. 
-
-    Article: 
-    The service, held to mark the surrender of Japan at the end of World War Two, was led by Reverend Canon Bob White.
+<Article>
+The service, held to mark the surrender of Japan at the end of World War Two, was led by Reverend Canon Bob White.
 The event included readings from Burma veterans and a performance from the Portsmouth Military Wives Choir.
 The service saw wreaths laid at the war memorial, including one on behalf of the city placed by the Lord Mayor of Portsmouth, councillor Frank Jonas.
 Council leader Donna Jones said: "It's important for communities to commemorate events such as these.
 "The ceremonies in the city provide a poignant opportunity to reflect and remember."
-A special VJ Day Choral Evensong was due to take place from 18:00 BST at Portsmouth Cathedral on Sunday. 
+A special VJ Day Choral Evensong was due to take place from 18:00 BST at Portsmouth Cathedral on Sunday.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's my reasoning step by step:
+<Summary>
+a memorial service has been held in portsmouth to mark the 70th anniversary of vj day.
+</Summary>
 
-1. The summary states that a memorial service was held in Portsmouth to mark the 70th anniversary of VJ Day.
-2. However, the article does not mention anything about the 70th anniversary of VJ Day. Instead, it mentions that the service was held to mark the surrender of Japan at the end of World War Two.
-3. Therefore, the summary is not consistent with the article because it mentions an anniversary that is not mentioned in the article.
-4. Additionally, the summary mentions a memorial service, but the article only mentions a service led by Reverend Canon Bob White, with readings from Burma veterans and a performance from the Portsmouth Military Wives Choir. There is no mention of a memorial service in the article.
-5. Finally, the summary mentions wreaths being laid at the war memorial, but the article does not mention this either.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it mentions events and details that are not present in the article.
+1. The article states that the service was held to mark the surrender of Japan at the end of World War Two, but the summary only mentions the 70th anniversary of VJ Day. This is inconsistent because VJ Day specifically refers to the surrender of Japan, while the article is discussing the anniversary of the end of World War Two.
+2. The article states that the service was led by Reverend Canon Bob White, but this information is not included in the summary.
+3. The article mentions that wreaths were laid at the war memorial, but this information is not included in the summary.
+4. The article quotes Council leader Donna Jones as saying "It's important for communities to commemorate events such as these," but this information is not included in the summary.
+
+Overall, the summary does not accurately reflect the information in the article, as it only provides a brief and general statement about the event without including any specific details or quotes from the article.
 
 ###Corrected:

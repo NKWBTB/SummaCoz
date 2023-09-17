@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    one of the world\'s best cyclists has been named as the world\'s top sports personality of the year. 
-
-    Article: 
-    The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
+<Article>
+The event on 27 May offers 46- or 95-mile routes snaking through the scenic Trossachs and the Campsie Fells north of Glasgow.
 The ride will raise money to develop young Scottish cycling talent acknowledge the fabulous contribution made to Scottish and British cycling by Millar, who was born in Glasgow in 1958.
 His fourth-placed finish in the 1984 Tour de France was a record for a British rider and has since been matched only by Bradley Wiggins in 2009.
 For three of the organisers, the sportive is the perfect way to celebrate Millar's achievements. They hope it will safeguard his legacy.
@@ -38,16 +35,19 @@ The intensely private Millar gave his permission to Smith as long as proceeds we
 "He was one of my idols," said Smith. "He used to come back in the winter to Glasgow. Every year he came round to the house and gave me a jersey.
 "I was fortunate then; I was just as small as him so I could use them.
 "And now, to have a Robert Millar Sportive is fantastic because the legacy of the name will go on.
-"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world." 
+"Every hill that you go over will remind you how difficult it was to become King of the Mountains in the biggest annual sporting event in the world."
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the given summary is not consistent with the article:
+<Summary>
+one of the world\'s best cyclists has been named as the world\'s top sports personality of the year.
+</Summary>
 
-1. The summary states that one of the world's best cyclists has been named as the world's top sports personality of the year. However, the article does not mention anything about the cyclist being named as the world's top sports personality of the year. Instead, the article focuses on the upcoming sportive event in honor of Robert Millar and his achievements in cycling.
-2. The summary mentions that the cyclist is known for their consistency, but the article does not provide any information about the cyclist's consistency. Instead, the article focuses on Robert Millar's achievements and his legacy in the world of cycling.
-3. The summary states that the cyclist has won several races, including the Tour de France, but the article does not mention anything about the Tour de France. Instead, the article focuses on Robert Millar's fourth-placed finish in the 1984 Tour de France and his other achievements in the sport.
-4. The summary mentions that the cyclist is a loner and has a steely determination, but the article does not provide any information about the cyclist's personality or character traits. Instead, the article focuses on Robert Millar's achievements and his legacy in the world of cycling.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the content of the article. The article focuses on Robert Millar's achievements and legacy in the world of cycling, while the summary provides information about a different cyclist and their achievements.
+1. The summary states that one of the world's best cyclists has been named as the world's top sports personality of the year.
+2. However, the article does not mention anything about the cyclist being named as the world's top sports personality of the year.
+3. In fact, the article is about a sportive event being held in Scotland to celebrate the legacy of Robert Millar, a Scottish cyclist who finished fourth in the 1984 Tour de France.
+4. The article highlights the achievements of Millar and his contribution to Scottish and British cycling, but there is no mention of him being named as the world's top sports personality of the year.
+5. Therefore, the summary is not consistent with the article because it makes a claim that is not supported by the content of the article.
 
 ###Corrected:

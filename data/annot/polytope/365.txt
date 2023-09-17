@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option .
+<Article>
 chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
-vitesse currently have chelsea 's josh mceachran , bertrand traore and wallace on their books as they look to seek europa league qualification from the dutch eredivisie . 
-
-    Article: 
-    chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
 mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option .
 the belgian club have been in the top flight for a season since winning promotion via the play-offs last summer .
 they are 13th in the table , two points above the relegation places .
@@ -19,16 +14,25 @@ chelsea already have an agreement with vitesse arnhem in holland and have been l
 vitesse currently have chelsea 's josh mceachran , bertrand traore and wallace on their books as they look to seek europa league qualification from the dutch eredivisie .
 midfielder nemanja matic is the only current regular first-team player in jose mourinho 's squad to have spent time on loan with the dutch club .
 bertrand traore is one of three players currently on loan at vitesse arnhem from chelsea this season
-blues midfielder nemanja matic spent time on loan at vitesse before moving to benfica and then back 
+blues midfielder nemanja matic spent time on loan at vitesse before moving to benfica and then back
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+<Summary>
+mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option .
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
+vitesse currently have chelsea 's josh mceachran , bertrand traore and wallace on their books as they look to seek europa league qualification from the dutch eredivisie .
+</Summary>
 
-1. Partnership with Lille: The summary states that Mouscron had a partnership with Lille, but the article does not mention this. Instead, the article states that Mouscron had a partnership with Lille but that partnership is now set to end.
-2. Preferred option: The summary states that Chelsea are the preferred option for Mouscron, but the article does not mention this. Instead, the article states that Chelsea are in early discussions with Mouscron about a possible partnership.
-3. Current league position: The summary states that Mouscron are 13th in the table, two points above the relegation places, but the article does not mention this. Instead, the article states that Mouscron are 21st in the table.
-4. Players on loan: The summary mentions that Vitesse currently have Chelsea's Josh McEachran, Bertrand Traore, and Wallace on their books, but the article does not mention this. Instead, the article states that Vitesse currently have one Chelsea player on loan, midfielder Nemaja Matic.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains information that is not present in the article, and it omits information that is present in the article.
+1. The summary states that Chelsea are in early discussions over a possible partnership with Belgian club Royal Mouscron-Peruwelz.
+2. The article does not mention any discussions between Chelsea and Mouscron-Peruwelz. Instead, it states that Chelsea are looking to link up with another Belgian club, Ostend, as Lille are set to end their partnership with Mouscron-Peruwelz.
+3. Therefore, the summary is not consistent with the article, as there is no mention of Chelsea and Mouscron-Peruwelz in the article.
+
+Reasoning step by step:
+
+1. The summary states that Chelsea are in early discussions over a possible partnership with Mouscron-Peruwelz.
+2. The article does not mention any discussions between Chelsea and Mouscron-Peruwelz.
+3. Therefore, the summary is not consistent with the article.
 
 ###Corrected:

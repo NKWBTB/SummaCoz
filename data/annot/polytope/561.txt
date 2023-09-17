@@ -1,15 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    conor mcgregor is challenging jose aldo on july 11 .
-the 26-year-old has already got a picture of a gorilla eating a heart tattoo .
-mcgregor is challenging jose aldo for featherweight title challenge .
-mcgregor is challenging jose aldo for featherweight title challenge . 
-
-    Article: 
-    conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
+<Article>
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
 the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
 ` if you see the tiger , it 's too late .
 you 're food , ' mcgregor wrote next to the instagram post of his new artwork .
@@ -22,16 +16,23 @@ aldo makes the eighth defence of his belt against the irish fighter in las vegas
 conor mcgregor grabbed aldo 's ( left ) belt when they took their promotional tour to dublin
 mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
 at the end of march , the duo were undergoing a promotional tour in dublin when mcgregor grabbed the belt from aldo and raised it in front of 5,000 home supporters .
-the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters . 
+the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters .
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+conor mcgregor is challenging jose aldo on july 11 .
+the 26-year-old has already got a picture of a gorilla eating a heart tattoo .
+mcgregor is challenging jose aldo for featherweight title challenge .
+mcgregor is challenging jose aldo for featherweight title challenge .
+</Summary>
 
-1. The summary states that Conor McGregor is challenging Jose Aldo for the featherweight title, but the article does not mention anything about a title challenge. Instead, the article focuses on McGregor's new tattoo and his motivation to win the belt.
-2. The summary mentions that McGregor has already got a picture of a gorilla eating a heart tattoo, but the article does not mention this. The article only mentions a tiger tattoo on McGregor's stomach.
-3. The summary states that McGregor is challenging Aldo on July 11, but the article does not mention a specific date. Instead, the article states that the fight will take place in Las Vegas, but does not provide a date.
-4. The summary mentions that McGregor has greater motivation to win the title than Aldo has to defend it, but the article does not mention this. Instead, the article focuses on McGregor's new tattoo and his confidence in winning the belt.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the summary is not consistent with the article:
 
-Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits other important details that are mentioned in the article.
+1. The summary states that Conor McGregor is challenging Jose Aldo on July 11, which is correct. However, the article provides more information about the upcoming fight, such as McGregor's new tattoo and his claims about Aldo's motivation.
+2. The summary mentions that McGregor has a picture of a gorilla eating a heart tattoo, which is not mentioned in the article. The article only mentions a tiger tattoo on McGregor's stomach.
+3. The summary repeats that McGregor is challenging Aldo for the featherweight title challenge, which is not a accurate representation of the article's content. The article provides more context and details about the fight, such as McGregor's claims about Aldo's motivation and the promotional tour in Dublin.
+
+Overall, the summary does not provide a complete and accurate representation of the article's content. It only mentions a few key points, such as the date of the fight and McGregor's tattoo, but omits other important details and context.
 
 ###Corrected:

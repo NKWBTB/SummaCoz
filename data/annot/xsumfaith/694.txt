@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    nothing says christmas more than watching that harry potter movie you\'ve already seen 2,900 times, eating a mountain of lukewarm turkey and trying to work out where you\'re going to put all those new socks. 
-
-    Article: 
-    Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
+<Article>
+Let's not forget the traditional argument with your other half about whose job it was to buy all the batteries for the children's new toys - which are currently a source of tension because nobody can turn them on.
 Am I right?
 If that sounds all too familiar and you fancy keeping the whole thing a bit more spiritual this year without giving up your gadgets, here are five ways to enjoy Christmas online:
 Everyday Church Online, which launched in the UK in September, runs virtual services every Sunday for a net-based congregation from around the world. Everyone's invited to log on and chat while a recorded sermon is streamed.
@@ -45,15 +42,21 @@ As if you needed the excuse. But lots of groups are using platforms like Faceboo
 "The Church is mostly trying to just drop thoughts in, get people to fix their gaze on something a little bit higher for a second and maybe consider things that are a bit more spiritual rather than earthly."
 "Jesus would definitely be on Twitter," adds Jules Middleton, blogger and mission pastor at The Point Church in Burgess Hill, West Sussex.
 "He was a great communicator."
-Sounds like a seal of approval to me. 
+Sounds like a seal of approval to me.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the summary is not consistent with the article:
+<Summary>
+nothing says christmas more than watching that harry potter movie you\'ve already seen 2,900 times, eating a mountain of lukewarm turkey and trying to work out where you\'re going to put all those new socks.
+</Summary>
 
-1. The summary mentions watching Harry Potter movies and eating turkey, which are not mentioned in the article.
-2. The summary does not mention any online or digital aspects of Christmas, while the article focuses on online services, games, and social media.
-3. The summary does not mention any religious or spiritual aspects of Christmas, while the article focuses on these themes.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it does not capture any of the same elements or themes. The article focuses on online and digital aspects of Christmas, as well as religious and spiritual themes, while the summary is more focused on traditional, secular aspects of the holiday.
+The provided summary is not consistent with the article because it does not accurately represent the content or tone of the article. Here's a step-by-step explanation of why the summary is not consistent:
+
+1. Tone: The summary has a lighthearted and humorous tone, while the article has a more serious and informative tone. The article discusses various ways to enjoy Christmas online, while the summary makes a tongue-in-cheek comment about watching Harry Potter movies and eating lukewarm turkey.
+2. Content: The summary focuses on the mundane aspects of Christmas, such as watching movies and eating food, while the article discusses online Christmas content, such as virtual services, fantasy games, and nativity videos. The article explores different ways to experience Christmas beyond the traditional, physical aspects of the holiday.
+3. Language: The summary uses colloquial language and slang (e.g., "lukewarm turkey"), while the article uses more formal language and avoids colloquialisms.
+
+In conclusion, the summary is not consistent with the article because it does not accurately represent the content or tone of the article. The summary is more focused on the mundane aspects of Christmas, while the article explores online Christmas content and experiences.
 
 ###Corrected:

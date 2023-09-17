@@ -1,12 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    gloucester maintained their 100% start to the european champions cup with a bonus-point win over gloucester at kingsholm. 
-
-    Article: 
-    A Gareth Anscombe drop-goal edged Blues 23-20 ahead after Gloucester Josh Hohneck was yellow carded.
+<Article>
+A Gareth Anscombe drop-goal edged Blues 23-20 ahead after Gloucester Josh Hohneck was yellow carded.
 Alex Cuthbert had helped level the scores after the sin-binning, scoring his second try after Ross Moriarty and Tom Marshall scores put the hosts up.
 But unanswered second-half tries from Jonny May, Marshall, Mark Atkinson and Henry Purdy sealed Gloucester's win.
 The Cherry and Whites, who went out at home at the quarter-final stage last year, won the competition in 2015.
@@ -21,17 +18,20 @@ Replacements: Matu'u, Thomas, Afoa, Galarza, Ludlow, Braley, Atkinson, Purdy.
 Cardiff Blues: Morgan; Cuthbert, Lee-Lo, Shingler, Scully; Anscombe, Williams; Jenkins (capt), Dacey, Filise, Earle, Hoeata, Warburton, Navidi, Williams.
 Replacements: Rees, Domachowski, Assiratti, Cook, Bennett, Williams, Halaholo, Summerhill.
 Referee: Pascal Gauzere (France)
-For the latest rugby union news follow @bbcrugbyunion on Twitter. 
+For the latest rugby union news follow @bbcrugbyunion on Twitter.
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Sure! Here's why the given summary is not consistent with the article:
+<Summary>
+gloucester maintained their 100% start to the european champions cup with a bonus-point win over gloucester at kingsholm.
+</Summary>
 
-1. The summary states that Gloucester maintained their 100% start to the European Champions Cup, but the article states that they won the competition in 2015 and failed to progress beyond the quarter-finals last year. This implies that Gloucester did not maintain their 100% start this year.
-2. The summary mentions a bonus-point win for Gloucester, but the article does not mention any bonus points. Instead, it states that Gloucester won the match 23-20.
-3. The summary states that Alex Cuthbert scored two tries for Cardiff Blues, but the article does not mention any tries scored by Cuthbert. Instead, it states that he helped level the scores after a yellow card was given to Josh Hohneck.
-4. The summary mentions that Gloucester won the match 23-20, but the article states that the final score was 23-20 in favor of Gloucester.
-5. The summary does not mention the name of the referee, Pascal Gauzere, who is mentioned in the article.
+Explain your reasoning step by step:[/INST]
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omissions.
+1. The summary states that Gloucester maintained a 100% start to the European Champions Cup, which is not consistent with the article. The article states that Gloucester won the game 23-20, but the summary implies that they won all of their games in the competition so far, which is not true.
+2. The summary also states that Gloucester won the game with a bonus point, which is not accurate. The article does not mention anything about a bonus point.
+3. The summary does not provide any specific information about the game, such as the scores or the players who scored. The article provides detailed information about the game, including the scores and the players who scored tries.
+4. The summary is very brief and does not provide any context or background information about the game. The article provides more detailed information about the game, including the teams' previous results and the players' performances.
+
+Overall, the summary is not consistent with the article and does not provide accurate or detailed information about the game. It is a very brief and misleading summary that does not reflect the content of the article.
 
 ###Corrected:

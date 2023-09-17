@@ -1,14 +1,9 @@
 <s>[INST] Note that consistency means all information in the summary is supported by the article. 
-    It's known that the following summary is not consistent with the article. 
-    Find out why.
+It's known that the following summary is not consistent with the article. 
+Find out why.
 
-    Summary: 
-    around one million people were killed in the bloody war between the two countries 
-ram , aged 82 , with the success of prime minister narendra modi 's hindu nationalist party at a recent state vote , he says he is hopeful change will come for the west pakistan refugees : ` if something can be done , then maybe i will finally have some enjoyment in this life ' 
-around 100,000 people are classified as refugees - despite most of them never visiting pakistan , and living in the jammu region of india 
-
-    Article: 
-    as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
+<Article>
+as healer mangu ram rests with a threadbare blanket over his creaking knees , the 82-year-old looks to the future .
 it is almost 70 years since he fled the violence that followed the partition of india , and he is still regarded as a second class citizen in indian kashmir -- unable to own property or vote in state elections .
 but now ram and thousands like him are daring to hope they will finally be able to shed the refugee status that has plagued them for decades , after prime minister narendra modi 's hindu nationalist party won a share of power in india 's only muslim-majority state .
 mangu ram was 14 when he fled to kashmir as a refugee - now an old man , for the past 70 years he has been denied citizenship rights
@@ -58,31 +53,23 @@ but he warned the community is ready to take matters into their own hands if the
 ` we will spill our blood on the streets for our rights , ' he says .
 the daughter of a hindu refugee studies in her slum home in surej chak .
 under the current laws she is not allowed to enrolled at a state-run training college or be employed by the state government .
-such laws , argue opponents , make these families ` second class citizens ' 
+such laws , argue opponents , make these families ` second class citizens '
+</Article>
 
-    Explain your reasoning step by step:[/INST]
-     Based on the given text, it appears that the summary is not consistent with the article for the following reasons:
+<Summary>
+around one million people were killed in the bloody war between the two countries 
+ram , aged 82 , with the success of prime minister narendra modi 's hindu nationalist party at a recent state vote , he says he is hopeful change will come for the west pakistan refugees : ` if something can be done , then maybe i will finally have some enjoyment in this life ' 
+around 100,000 people are classified as refugees - despite most of them never visiting pakistan , and living in the jammu region of india
+</Summary>
 
-1. The summary states that around one million people were killed in the bloody war between the two countries, but the article does not mention any such figure.
+Explain your reasoning step by step:[/INST]
 
-2. The summary mentions that the West Pakistan refugees (WPRs) are classified as refugees despite never visiting Pakistan, but the article does not mention this.
+1. The summary states that around one million people were killed in the bloody war between the two countries, which is not supported by the article. The article does mention that hundreds of thousands of families fled across both sides of the border during the conflict, but it does not provide a specific number for the number of people killed.
+2. The summary also states that Ram, aged 82, is hopeful that change will come for the West Pakistan refugees, but the article does not mention Ram's age or his hope for change.
+3. The summary mentions that around 100,000 people are classified as refugees, but the article does not provide a specific number for the total number of refugees. The article does mention that there are around 100,000 people classified as West Pakistan refugees, but it does not mention the total number of refugees.
+4. The summary states that the refugees have been living in abject poverty for decades, but the article does not mention the word "poverty" or the length of time the refugees have been living in poverty.
+5. The summary mentions that the community is ready to take matters into their own hands if their hopes are dashed again, but the article does not mention this.
 
-3. The summary states that the WPRs have been denied citizenship rights for three generations, but the article does not mention this.
-
-4. The summary mentions that the Bharatiya Janata Party (BJP) is expected to champion the refugees' cause, but the article does not mention this.
-
-5. The summary states that the community is ready to take matters into their own hands if their hopes are dashed again, but the article does not mention this.
-
-6. The summary mentions that the estimated 18,000 WPR families live in abject poverty, but the article does not mention this.
-
-7. The summary states that the law is ridiculous, but the article does not mention this.
-
-8. The summary mentions that the WPRs cannot be admitted to state-run training colleges or be employed in the state government, but the article does not mention this.
-
-9. The summary states that the tide may soon turn on the rights given to refugees, but the article does not mention this.
-
-10. The summary mentions that the article is known to be not consistent with the article, but the article does not mention this.
-
-Therefore, it appears that the summary is not consistent with the article, and it contains several inaccuracies and exaggerations.
+Overall, the summary contains several inaccuracies and exaggerations compared to the original article. It is not a consistent summary of the article's content.
 
 ###Corrected:
