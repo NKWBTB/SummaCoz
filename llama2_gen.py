@@ -1,5 +1,4 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig
 import transformers
 import torch
@@ -7,7 +6,7 @@ import deepspeed
 import argparse
 import json
 from tqdm import tqdm
-from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE
+from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST
 
 def load_jsonl(input_path):
     with open(input_path, "r", encoding="UTF-8") as f:
@@ -97,7 +96,7 @@ def postprocess():
         data = load_jsonl(input_path)
         data_len = len(data)
         idx = [i for i in range(data_len) if data[i]["label"] == 0]
-        gen = load_jsonl(os.path.join(gen_folder, "_".join([name, cut])+'_neg.jsonl'))
+        gen = load_jsonl(os.path.join(gen_folder, "_".join([name, cut])+'.jsonl'))
 
         output_folder = os.path.join(annot_folder, name)
         if not os.path.exists(output_folder):
@@ -106,14 +105,29 @@ def postprocess():
             sample_no = idx[i]
             filename = f"{sample_no}.txt"
             output_path = os.path.join(output_folder, filename)
+            if os.path.exists(output_path):
+                with open(output_path, "r") as f:
+                    content = f.read()
+                annotation = content.partition("###Corrected:")[2].strip()
+                if len(annotation) > 0:
+                    continue
+            
             with open(output_path, "w") as f:
                 f.write(line[0]["generated_text"] + "\n\n###Corrected:\n")
 
 if __name__ == '__main__':
     # Zeroshot
-    # main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=10, cut='test')
+    # main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=15, cut='test')
+    # main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/DOCfirst/zeroshot", False, max_new_tokens=15, cut='test')
+    # main(ZEROSHOT_TEMPLATE.format(input=SUM_FIRST), "data/SUMfirst/zeroshot", False, max_new_tokens=15, cut='test')
     
     # Zeroshot - Chain-of-Thought
-    main(COT_TEMPLATE, "data/zs_cot", False, max_new_tokens=512, cut='test')
-    
-    # postprocess()
+    # main(COT_TEMPLATE, "data/zs_cot", False, max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/DOCfirst/zs_cot", False, max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=SUM_FIRST), "data/SUMfirst/zs_cot", False, max_new_tokens=512, cut='test')
+
+    # Selfinstruct
+    # main(SELFINST_TEMPLATE, "data/gen")
+    # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
+
+    postprocess()

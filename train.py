@@ -13,7 +13,7 @@ from peft import get_peft_config, PeftModel, PeftConfig, get_peft_model, LoraCon
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--output_folder', default="output")
+parser.add_argument('--output_folder', default="output/label_only/")
 parser.add_argument('--data_name', default="cogensumm", choices=["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"])
 parser.add_argument('--lora', default=True, action="store_true")
 
@@ -24,8 +24,10 @@ def main():
     args = parser.parse_args()
     print(args)
 
-    data = InstructData(tokenizer)
-    train_data = data.load_data(args.data_name, "val")
+    data = InstructData(tokenizer, label_only=True)
+    train_data = data.load_train(args.data_name)
+    val_data = data.load_val(args.data_name, load_label=True)
+    print(len(train_data), len(val_data))
 
     model = AutoModelForCausalLM.from_pretrained(CFG.MODEL_NAME,
                                                  device_map="auto",
@@ -46,6 +48,7 @@ def main():
 
     training_args = Seq2SeqTrainingArguments(output_dir=os.path.join(args.output_folder, args.data_name), 
                                     save_strategy="epoch",
+                                    evaluation_strategy="epoch",
                                     logging_strategy="epoch",
                                     num_train_epochs=CFG.EPOCH,
                                     optim="paged_lion_8bit",
@@ -60,6 +63,7 @@ def main():
         model=model,
         args=training_args,
         train_dataset=train_data,
+        eval_dataset=val_data
     )
     trainer.train()
 

@@ -1,5 +1,5 @@
 from llama2_gen import load_jsonl, dump2jsonl, apply_template
-from template import CONSISTENT_STRING, INCONSISTENT_STRING, inst_parse, COT_TEMPLATE
+from template import CONSISTENT_STRING, INCONSISTENT_STRING, inst_parse, COT_TEMPLATE, ZEROSHOT_TEMPLATE, DOC_FIRST
 import os
 import torch
 from datasets import Dataset
@@ -8,23 +8,45 @@ from transformers import BatchEncoding
 data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
 
 class InstructData:
-    def __init__(self, tokenizer) -> None:
+    def __init__(self, tokenizer, label_only = False) -> None:
         self.test_folder = "data/raw/"
-        self.val_folder = "data/merge/"
+        self.val_folder = "data/final/"
         self.data_names = set(["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"])
         self.tokenizer = tokenizer
+        self.template = COT_TEMPLATE.format(input=DOC_FIRST)
+        self.label_only = label_only
+        if label_only:
+            self.template = ZEROSHOT_TEMPLATE.format(input=DOC_FIRST)
     
-    def load_data(self, name, cut):
-        print(name, cut)
-        if cut == 'val':
-            datas = load_jsonl(os.path.join(self.val_folder, f"{name}_{cut}.jsonl"))
-        else:
-            datas = load_jsonl(os.path.join(self.test_folder, f"{name}_{cut}.jsonl"))
+    def load_data(self, desired_set, cut, load_label=False, exclude_set=None):
+        print(desired_set, cut)
+        datas = []
+        for name in desired_set:
+            if cut == 'val':
+                data = load_jsonl(os.path.join(self.val_folder, exclude_set, f"{name}_{cut}.jsonl"))
+            else:
+                data = load_jsonl(os.path.join(self.test_folder, f"{name}_{cut}.jsonl"))
+            datas.extend(data)
         datas = Dataset.from_list(datas)
-        datas = datas.map(self.preprocess_function, 
+        datas = datas.map(lambda x : self.preprocess_function(x, load_label=load_label), 
                           # remove_columns=self.remove_columns,
                           batched=True)
         return datas.with_transform(self.collate_fn)
+        
+    def load_train(self, name):
+        desired_set = self.data_names - set([name])
+        self.train_set = self.load_data(desired_set, 'val', load_label=True, exclude_set=name)
+        return self.train_set
+
+    def load_val(self, name, load_label):
+        desired_set = set([name])
+        self.val_set = self.load_data(desired_set, 'val', load_label=load_label, exclude_set=name)
+        return self.val_set
+
+    def load_test(self, name):
+        desired_set = set([name])
+        test_set = self.load_data(desired_set, 'test', load_label=False)
+        return test_set
 
     def collate_fn(self, model_inputs):
         max_length = max([len(sample) for sample in model_inputs["input_ids"]])
@@ -49,19 +71,21 @@ class InstructData:
         model_inputs = BatchEncoding(model_inputs)
         return model_inputs
         
-    def preprocess_function(self, examples):
-        istrain = "cot" in examples
+    def preprocess_function(self, examples, load_label):
         batch_size = len(examples["claim"])
-        input_text = apply_template(examples, COT_TEMPLATE, self.tokenizer)
+        input_text = apply_template(examples, self.template, self.tokenizer)
         inputs = input_text["input"]
         model_inputs = self.tokenizer(inputs, add_special_tokens=False)
-        if istrain:
-            targets = [str(x) for x in examples["cot"]]
+        if load_label:
+            if self.label_only:
+                targets = ["yes" if x else "no" for x in examples["label"]]
+            elif "cot" in examples:
+                targets = [str(x) for x in examples["cot"]]
             labels = self.tokenizer(targets, add_special_tokens=False)
 
         for i in range(batch_size):
             sample_input_ids = model_inputs["input_ids"][i]
-            if istrain: label_input_ids = labels["input_ids"][i] + [self.tokenizer.pad_token_id]
+            if load_label: label_input_ids = labels["input_ids"][i] + [self.tokenizer.eos_token_id]
             else: label_input_ids = []
             model_inputs["input_ids"][i] = sample_input_ids + label_input_ids
             model_inputs.setdefault("labels", []).append([-100] * len(sample_input_ids) + label_input_ids)
