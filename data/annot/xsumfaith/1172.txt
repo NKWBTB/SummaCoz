@@ -51,3 +51,6 @@ Explain your reasoning step by step:[/INST]
 The reason for this inconsistency is that the summary is not based on the content of the article. The article is about a sportive event in Scotland to celebrate Robert Millar's achievements in cycling, while the summary mentions Sir Bradley Wiggins and the British cycling road championships, which are not related to the topic of the article.
 
 ###Corrected:
+1. The summary states that Sir Bradley Wiggins will compete at this year's British cycling road championships in Glasgow.
+2. The article deos not mention British cycling road championships nor Bradley Wiggins's participation in this event.
+3. The article is about a sportive event in Scotland to celebrate Robert Millar's achievements in cycling.
