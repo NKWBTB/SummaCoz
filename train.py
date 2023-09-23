@@ -54,6 +54,7 @@ def main():
                                     optim="paged_lion_8bit",
                                     learning_rate=CFG.LR,
                                     per_device_train_batch_size=CFG.BATCH_SIZE,
+                                    per_device_eval_batch_size=CFG.BATCH_SIZE,
                                     tf32=True,
                                     fp16=True,
                                     gradient_checkpointing=CFG.GRADIENT_CHECKPOINTING,
