@@ -42,7 +42,7 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
                                                 torch_dtype=torch.float16,
                                                 # device_map="auto",
                                                 trust_remote_code=True)
-    tokenizer = AutoTokenizer.from_pretrained(MODEL)
+    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-13b-chat-hf")
     # ds_engine = model
     ds_engine = deepspeed.init_inference(model,
                                         # tensor_parallel={"tp_size": 2},
@@ -69,6 +69,9 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
     from datasets import Dataset
     from transformers.pipelines.pt_utils import KeyDataset
 
+    if not os.path.exists(dump_folder) and args.local_rank == 0:
+        os.makedirs(dump_folder, exist_ok=True)
+
     for name in data_names:
         print(name, cut)
         input_path = os.path.join(data_folder, "_".join([name, cut])+'.jsonl')
@@ -81,7 +84,8 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
                                         num_return_sequences=1,
                                         pad_token_id=tokenizer.eos_token_id))]
         # for line, reasoning in zip(data, generated): line["reasoning"] = reasoning
-        dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
+        if args.local_rank == 0:
+            dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
 def postprocess():
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
@@ -130,4 +134,7 @@ if __name__ == '__main__':
     # main(SELFINST_TEMPLATE, "data/gen")
     # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
 
-    postprocess()
+    # postprocess()
+    
+    # 7b-label_only
+    main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/zeroshot/7b/cogensumm", False, MODEL="scratch/label_only/7b_cogensumm_1ep", max_new_tokens=2, cut='test')
