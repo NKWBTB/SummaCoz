@@ -23,3 +23,6 @@ Step by step reasoning:
 3. Therefore, the summary is not consistent with the article because it implies that the tower was damaged, when in fact, the article states that the tower was not damaged.
 
 ###Corrected:
+1. The summary states the tower itself did not have been halted around midnight.
+2. But the corresponding sentence in article is The emergencies ministry for Moscow said the tower itself did not suffer significant damage and the fire's spread had been halted around midnight.
+3. The summary simply concatenates the two pieces from the above sentence and makes up a new sentence which is inconsistent with article as it is the fire's spread is halted not the tower itself.
