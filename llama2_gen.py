@@ -87,11 +87,10 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
         if args.local_rank == 0:
             dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
-def postprocess():
+def postprocess(annot_folder):
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     data_folder = "data/raw/"
     gen_folder = "data/gen/"
-    annot_folder = "data/annot/"
     cut = 'val'
 
     for name in data_names:
@@ -133,8 +132,20 @@ if __name__ == '__main__':
     # Selfinstruct
     # main(SELFINST_TEMPLATE, "data/gen")
     # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
-
-    # postprocess()
     
+    # Generate data for annotation
+    # postprocess(annot_folder="data/annot")
+
+    # Backup data for abalation study
+    # postprocess(annot_folder="data/raw_annot")
+
     # 7b-label_only
-    main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/zeroshot/7b/cogensumm", False, MODEL="scratch/label_only/7b_cogensumm_1ep", max_new_tokens=2, cut='test')
+    # main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/zeroshot/7b/cogensumm", False, MODEL="scratch/label_only/7b_cogensumm_10ep", max_new_tokens=2, cut='test')
+
+    # 7b-self_inst
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst/7b/cogensumm", False, MODEL="scratch/raw_inst/7b_cogensumm_1ep", max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst/7b/cogensumm", False, MODEL="scratch/raw_inst/7b_cogensumm_10ep", max_new_tokens=512, cut='test'
+     
+    # 7b-human_inst
+    main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/cogensumm", False, MODEL="scratch/human/7b_cogensumm_1ep", max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/cogensumm", False, MODEL="scratch/human/7b_cogensumm_10ep", max_new_tokens=512, cut='test')
