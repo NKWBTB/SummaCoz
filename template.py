@@ -40,8 +40,12 @@ Explain your reasoning step by step:[/INST]
 
 def inst_parse(input:str):
     generation_part = input.partition("[/INST]")[2].partition("###Corrected:")[0]
-    reasoning_part = generation_part.strip().partition(":")[2].strip()
+    reasoning_part = generation_part.partition("\n\n")[2].strip()
     return reasoning_part
+
+def annot_parse(input:str):
+    corretion_part = input.partition("###Corrected:")[2].partition("###")[0].strip()
+    return corretion_part
 
 ZEROSHOT_TEMPLATE = \
 """<s>[INST] Decide if the following summary is consistent with the corresponding article. 
@@ -67,7 +71,7 @@ Note that consistency means all information in the summary is supported by the a
 Explain your reasoning step by step first, and then answer (yes or no) the question in the end:[/INST]
 """
 
-def cot_parse(input:str):
+def cot_parse(input:str, default = 1, debug=False):
     generation_part = input.partition("[/INST]")[2].lower()
     answer_part = generation_part.strip().split("\n")
     for answer in reversed(answer_part):
@@ -81,6 +85,7 @@ def cot_parse(input:str):
                 ("accurate" in words)
             return 0 if ("no" in words) or ("not" in words) else 1
         except:
-            import sys
-            print("###", answer, file=sys.stderr)
-    return 1
+            if debug:
+                import sys
+                print("###", answer, file=sys.stderr)
+    return default
