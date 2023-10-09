@@ -21,3 +21,6 @@ Explain your reasoning step by step:[/INST]
 So, the reason why the summary is not consistent with the article is that it incorrectly states that Satyam Computers was fined $804,000, when in fact it was Raju who was fined.
 
 ###Corrected:
+1. The summary states "satyam computers were also fined $804,000 in 2009".
+2. The article states "Ramalinga Raju, the former chairman of software services exporter Satyam Computers Services, was also fined $804,000".
+3. The summary is inconsistent because the article states that it was Ramalinga Raju that was fined $804,000, not Satyam computers.
