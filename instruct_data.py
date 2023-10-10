@@ -131,8 +131,8 @@ def merge_reasoning(parse_func, reason_folder):
         dump2jsonl(data, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
 if __name__ == '__main__':
-    # merge_reasoning(parse_func=inst_parse, reason_folder="data/raw_annot")
-    merge_reasoning(parse_func=annot_parse, reason_folder="data/annot")
+    merge_reasoning(parse_func=lambda x : inst_parse(x, filter=True), reason_folder="data/raw_annot")
+    # merge_reasoning(parse_func=annot_parse, reason_folder="data/annot")
     import pdb
     pdb.set_trace()
 
