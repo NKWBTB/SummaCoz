@@ -1,4 +1,5 @@
 import string
+import re
 
 SUM_FIRST = \
 """
@@ -38,10 +39,18 @@ Find out why.
 Explain your reasoning step by step:[/INST]
 """
 
-def inst_parse(input:str):
+def inst_parse(input:str, filter=False):
     generation_part = input.partition("[/INST]")[2].partition("###Corrected:")[0]
     reasoning_part = generation_part.partition("\n\n")[2].strip()
-    return reasoning_part
+    if not filter: return reasoning_part
+    reasoning = reasoning_part.split("\n")
+    reasoning = [item for item in reasoning if len(item.strip()) > 0 and (not "summary does not" in item)]
+    results = []
+    for idx, item in enumerate(reasoning, start=1):
+        modified_string = re.sub(r'^\d+\.\s*', '', item)
+        modified_string = f"{idx}. {modified_string}"
+        results.append(modified_string)
+    return "\n".join(results)
 
 def annot_parse(input:str):
     corretion_part = input.partition("###Corrected:")[2].partition("###")[0].strip()
