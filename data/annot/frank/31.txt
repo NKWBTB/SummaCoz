@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -20,3 +20,6 @@ Explain your reasoning step by step:[/INST]
 Therefore, the summary is not consistent with the article because it does not accurately describe the same event or situation. The summary is about a fire in Eamonn, County Down, while the article is about a fire in Duncan Street, Greater Manchester. Additionally, the summary does not mention any of the key details mentioned in the article, such as the Environment Agency's enforcement action, the fire service's concerns, or the cause of the fire.
 
 ###Corrected:
+1. The summary implies that a fire that destroyed a disused waste site in Eamonn, County Down, is to be investigated by the Environment Agency.
+2. However, the article discusses a fire in Duncan Street, Greater Manchester, and actions taken by the Environment Agency (EA) and the Greater Manchester Fire and Rescue Service (GMFRS). There is no mention of Eamonn, County Down, in the article.
+3. The inconsistency is due to the error that the summary makes by referencing a different location (Eamonn, County Down) that is not mentioned in the article.

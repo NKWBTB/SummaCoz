@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -19,3 +19,6 @@ Explain your reasoning step by step:[/INST]
 5. The summary is likely incorrect or misleading, as it does not accurately reflect the content of the article.
 
 ###Corrected:
+1. The summary implies that the Islamic State (IS) militant group has expressed being "deeply concerned" about Syria's chemical weapons.
+2. However, the article does not mention the Islamic State (IS) expressing such concern. The article primarily discusses comments from Deputy Foreign Minister Faisal al-Mekdad, the situation in Syria, and the missed deadline for the handover of chemical weapons. There is no reference to IS expressing concern about Syria's chemical weapons.
+3. The inconsistency is due to the summary introducing a statement that IS is "deeply concerned," which is not supported by the content of the article.

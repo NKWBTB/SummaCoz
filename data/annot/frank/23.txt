@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -21,3 +21,6 @@ Explain your reasoning step by step:[/INST]
 In conclusion, the summary is not consistent with the article because it suggests that the UK should devolve its fisheries policy to the EU, while the article states that the UK will be leaving the EU and seeking to regain control over its waters.
 
 ###Corrected:
+1. The summary implies that the House of Lords report recommends devolving the UK's fisheries policy to the European Union.
+2. However, the article does not mention any such recommendation. Instead, it discusses the House of Lords report in the context of the challenges and opportunities for the UK fishing industry post-Brexit and the potential trade-offs related to access to UK waters for EU boats in exchange for access to European fish markets.
+3. The inconsistency is due to the error in the summary that attributes a specific recommendation to devolve fisheries policy to the EU, which is not present in the article. The article primarily provides an overview of the issues surrounding the UK fishing industry in the context of Brexit.
