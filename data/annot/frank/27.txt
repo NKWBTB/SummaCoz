@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -22,3 +22,6 @@ Explain your reasoning step by step:[/INST]
 Therefore, the summary is not an accurate representation of the article and should be corrected to reflect the actual contents of the article.
 
 ###Corrected:
+1. The summary implies that a teacher who admitted having sex with a 12-year-old boy has been struck off the profession.
+2. However, the article only mentions that Geaney had "condoned and participated in an industry that violates and abuses children" and does not specify the age of the children.
+3. The inconsistency is due to the error in the summary where the information not mentioned in the article is added.

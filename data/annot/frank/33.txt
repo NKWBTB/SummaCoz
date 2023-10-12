@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -19,3 +19,6 @@ Explain your reasoning step by step:[/INST]
 5. To correct the inconsistency, the summary should be revised to accurately reflect the content of the article. For example, the summary could be revised to focus on the Syrian government's efforts to destroy its chemical weapons and the ongoing conflict in Aleppo, rather than mentioning IS militants killing Syrian forces.
 
 ###Corrected:
+1. The summary implies that Syria expresses being "appalled" by reports of Syrian forces being killed by Islamic State (IS) militants in Syria.
+2. However, the article does not mention Syria expressing being "appalled" by these reports. Instead, the article discusses Deputy Foreign Minister Faisal al-Mekdad's comments about Syria missing a deadline for chemical weapons and his statements regarding the situation in Syria. There is no reference to Syria being "appalled" by reports of Syrian forces being killed by IS militants.
+3. The inconsistency is due to the summary introducing a statement of Syria being "appalled" by reports, which is not supported by the content of the article.

@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -20,3 +20,6 @@ Explain your reasoning step by step:[/INST]
 Therefore, based on these inconsistencies, it appears that the summary is not a accurate reflection of the article's content.
 
 ###Corrected:
+1. The summary implies that the EU's Brexit negotiator has urged the UK government to sell fish to the European Union as a result of Brexit negotiations.
+2. However, the article does not mention the EU's Brexit negotiator making such an urging. The article primarily discusses the House of Lords European Union Committee's report, the challenges and opportunities for the UK fishing industry post-Brexit, and the potential trade-offs related to access to UK waters for EU boats in exchange for access to European fish markets.
+3. The inconsistency is due to the error in the summary that attributes a specific urging to the EU's Brexit negotiator, which is not present in the article. The article provides a broader perspective on the issues related to the fishing industry in the context of Brexit.

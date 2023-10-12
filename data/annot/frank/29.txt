@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -21,3 +21,6 @@ Explain your reasoning step by step:[/INST]
 In conclusion, the summary is not consistent with the article because there is no mention of an investigation into the cause of the fire in the article. Instead, the article focuses on the EA's decision to revoke the environmental permit of the site operators due to concerns about the impact of a fire on nearby residents, transport, and the environment.
 
 ###Corrected:
+1. The summary implies that an investigation has been launched into the cause of a fire at a recycling site in Greater Manchester.
+2. However, the article does not explicitly state that an investigation into the cause of the fire has been launched. It provides information about the fire incident, the suspension of Recovered Fuels Shipping Limited from accepting waste, and actions taken by the Greater Manchester Fire and Rescue Service and the Environment Agency. It also mentions that the cause of the fire remains undetermined. While these details are related to the fire, the article does not confirm the launch of an investigation into its cause.
+3. The inconsistency arises because the summary adds the detail of an investigation that is not explicitly mentioned in the article.

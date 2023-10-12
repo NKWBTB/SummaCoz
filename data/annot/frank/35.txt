@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -19,3 +19,6 @@ Explain your reasoning step by step:[/INST]
 5. It is likely that the summary was written based on incorrect or incomplete information, or that it was intended to convey a different message altogether. In any case, it is important to carefully review and verify the accuracy of any summaries or reports before accepting them as true.
 
 ###Corrected:
+1. The summary implies that Syrian President Bashar al-Assad has condemned the bombing of the port city of Aleppo, expressing that the US is "on the brink of war."
+2. However, the article does not mention any statement from President Bashar al-Assad in which he condemns the bombing of Aleppo or claims that the US is "on the brink of war." The article primarily discusses comments made by Deputy Foreign Minister Faisal al-Mekdad regarding Syria's compliance with chemical weapons disposal and other aspects of the conflict in Syria.
+3. The inconsistency is due to the summary introducing a statement by President al-Assad that is not supported by the content of the article.

@@ -1,5 +1,5 @@
-<s>[INST] Note that consistency means all information in the summary is supported by the article. 
-It's known that the following summary is not consistent with the article. 
+<s>[INST] Note that consistency means all information in the summary is supported by the article.
+It's known that the following summary is not consistent with the article.
 Find out why.
 
 <Article>
@@ -20,3 +20,6 @@ Explain your reasoning step by step:[/INST]
 The reason for this inconsistency is that the summary misrepresents the content of the article. The article does not say that Syria's government says it is failing to comply with the UN's deadline, but rather that Syria missed the deadline and that a shipment of weapons was intercepted.
 
 ###Corrected:
+1. The summary implies that Syria's government admits to failing to comply with the UN's deadline for the sale of chemical weapons.
+2. However, the article states that Syria's Deputy Foreign Minister Faisal al-Mekdad mentioned that Syria had missed the deadline to hand over its entire stockpile of chemical weapons, and he explained that this was due to a shipment of weapons coming under attack. Nowhere in the article does it suggest that Syria's government admits to failing to comply with the UN's deadline for the sale of chemical weapons.
+3. The inconsistency is due to the error in the summary, which inaccurately states that Syria admitted to failing to comply with the UN's deadline for the sale of chemical weapons, while the article provides a different context about the missed deadline and the reasons behind it.
