@@ -26,3 +26,12 @@ Explain your reasoning step by step:[/INST]
 4. Therefore, the summary is not consistent with the article because it uses language that is not supported by the content of the article. The article does not describe the team as being "devastated" by the flooding, but rather as being affected by it in a more practical and financial sense.
 
 ###Corrected:
+
+###Comment:
+I feel its okay to say no consisteny.
+35412241,BERTS2S,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",intrinsic,leeds rhinos,1,13,wid_0
+35412241,BERTS2S,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",extrinsic,devastated,40,50,wid_0
+35412241,BERTS2S,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",intrinsic,leeds rhinos,1,13,wid_1
+35412241,BERTS2S,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",extrinsic,last month,105,115,wid_1
+35412241,BERTS2S,"leeds rhinos say they have been left "" devastated "" by the flooding that affected their training ground last month.",extrinsic,affected their training ground last month,74,115,wid_2
+38
