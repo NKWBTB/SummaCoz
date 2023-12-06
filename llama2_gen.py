@@ -6,7 +6,7 @@ import deepspeed
 import argparse
 import json
 from tqdm import tqdm
-from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST
+from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST, SELFINST_TEMPLATE_EXTRA, XSUM_EXTRA_TEMPLATE
 
 def load_jsonl(input_path):
     with open(input_path, "r", encoding="UTF-8") as f:
@@ -27,10 +27,14 @@ def apply_template(batch, template, tokenizer):
             print(f"{len(tokens[i])} > 3000")
             docs[i] = " ".join([batch["doc_sents"][i][idx] for idx in batch["rel_index"][i]])
     sums = batch["claim"]
-    texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
+    if "{xsum_annotation}" in template:
+        extras = batch["extra"]
+        texts = [template.format(summary=_sum, article=_doc, xsum_annotation=extra) for _doc, _sum, extra in zip(docs, sums, extras)]
+    else:
+        texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
     return {"input": texts}
 
-def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val'):
+def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val', data_names=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--local_rank', type=int, default=-1,
                         help='local rank passed from distributed launcher')
@@ -64,7 +68,6 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
                     pad_token_id=tokenizer.eos_token_id,)
     dump2jsonl(results, "test_results.txt")
 
-    data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     data_folder = "data/raw/"
     from datasets import Dataset
     from transformers.pipelines.pt_utils import KeyDataset
@@ -119,6 +122,7 @@ def postprocess(annot_folder):
                 f.write(line[0]["generated_text"] + "\n\n###Corrected:\n")
 
 if __name__ == '__main__':
+    data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     # Zeroshot
     # main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=15, cut='test')
     # main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/DOCfirst/zeroshot", False, max_new_tokens=15, cut='test')
@@ -132,7 +136,8 @@ if __name__ == '__main__':
     # Selfinstruct
     # main(SELFINST_TEMPLATE, "data/gen")
     # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
-    
+    main(SELFINST_TEMPLATE.format(input=DOC_FIRST, extra=XSUM_EXTRA_TEMPLATE), "data/gen/xsum_extra", data_names=["xsumfaith"])
+
     # Generate data for annotation
     # postprocess(annot_folder="data/annot")
 
@@ -144,8 +149,10 @@ if __name__ == '__main__':
 
     # 7b-self_inst
     # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst/7b/cogensumm", False, MODEL="scratch/raw_inst/7b_cogensumm_1ep", max_new_tokens=512, cut='test')
-    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst/7b/cogensumm", False, MODEL="scratch/raw_inst/7b_cogensumm_10ep", max_new_tokens=512, cut='test'
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst/7b/cogensumm", False, MODEL="scratch/raw_inst/7b_cogensumm_10ep", max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/raw_inst_fix/7b/cogensumm", False, MODEL="scratch/raw_inst_fix_lora_r8/7b_cogensumm_8ep", max_new_tokens=512, cut='test')
      
     # 7b-human_inst
-    main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/cogensumm", False, MODEL="scratch/human/7b_cogensumm_1ep", max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/cogensumm", False, MODEL="scratch/human/7b_cogensumm_1ep", max_new_tokens=512, cut='test')
     # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/cogensumm", False, MODEL="scratch/human/7b_cogensumm_10ep", max_new_tokens=512, cut='test')
+    # main(COT_TEMPLATE.format(input=DOC_FIRST), "data/zs_cot/human/7b/frank", False, MODEL="scratch/human/7b_frank_5ep", max_new_tokens=512, cut='test')

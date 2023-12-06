@@ -39,6 +39,21 @@ Find out why.
 Explain your reasoning step by step:[/INST]
 """
 
+SELFINST_TEMPLATE_EXTRA = \
+"""<s>[INST] Note that consistency means all information in the summary is supported by the article. 
+It's known that the following summary is not consistent with the article. 
+Find out why.
+{input}
+{extra}
+Explain your reasoning step by step:[/INST]
+"""
+
+XSUM_EXTRA_TEMPLATE = \
+"""For your information, it's reported that the following spans in the summary have consistency issues:
+{xsum_annotation}
+"""
+
+
 def inst_parse(input:str, filter=False):
     generation_part = input.partition("[/INST]")[2].partition("###Corrected:")[0]
     reasoning_part = generation_part.partition("\n\n")[2].strip()
