@@ -1,5 +1,5 @@
 from llama2_gen import load_jsonl, dump2jsonl, apply_template
-from template import CONSISTENT_STRING, INCONSISTENT_STRING, inst_parse, annot_parse, COT_TEMPLATE, ZEROSHOT_TEMPLATE, DOC_FIRST
+from template import CONSISTENT_STRING, CONSISTENT_TEMPLATE, INCONSISTENT_STRING, inst_parse, annot_parse, COT_TEMPLATE, ZEROSHOT_TEMPLATE, DOC_FIRST
 import os
 import torch
 from datasets import Dataset
@@ -104,7 +104,7 @@ def read_text(path):
         text = f.read()
     return text
 
-def merge_reasoning(parse_func, reason_folder):
+def merge_reasoning(parse_func, neg_reason_folder, pos_reason_folder=None, fallback_func=None):
     raw_folder = "data/raw"
     dump_folder = "data/merge"
     cut = "val"
@@ -114,25 +114,35 @@ def merge_reasoning(parse_func, reason_folder):
         size = len(data)
         index2delete = set()
         for i in range(size):
+            data[i]["cot"] = CONSISTENT_TEMPLATE
             if data[i]["label"]:
-                data[i]["cot"] = CONSISTENT_STRING
+                if pos_reason_folder is None: continue
+                annot_file = os.path.join(pos_reason_folder, name, f"{i}.txt")
             else:
-                annot_file = os.path.join(reason_folder, name, f"{i}.txt")
-                reasoning = ""
-                if os.path.exists(annot_file):
-                    reasoning = read_text(os.path.join(reason_folder, name, f"{i}.txt"))
-                parsed = parse_func(reasoning)
-                if len(parsed) > 3:
-                    reasoning = parsed + "\n" + INCONSISTENT_STRING
-                    data[i]["cot"] = reasoning
-                else:
-                    index2delete.add(i)
+                annot_file = os.path.join(neg_reason_folder, name, f"{i}.txt")
+            reasoning = ""
+            if os.path.exists(annot_file):
+                reasoning = read_text(annot_file)
+            parsed = parse_func(reasoning)
+            parsed_fallback = ""
+            if not fallback_func is None: 
+                parsed_fallback = fallback_func(reasoning, filter=not data[i]["label"])
+            if len(parsed) > 3:
+                reasoning = parsed + "\n" + (CONSISTENT_STRING if data[i]["label"] else INCONSISTENT_STRING)
+                data[i]["cot"] = reasoning
+            elif len(parsed_fallback) > 3:
+                reasoning = parsed_fallback + "\n" + (CONSISTENT_STRING if data[i]["label"] else INCONSISTENT_STRING)
+                data[i]["cot"] = reasoning
+            else:
+                index2delete.add(i)
+        print("Deleted", len(index2delete))
         data = [data[i] for i in range(size) if not i in index2delete]
         dump2jsonl(data, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
 if __name__ == '__main__':
-    merge_reasoning(parse_func=lambda x : inst_parse(x, filter=True), reason_folder="data/raw_annot")
+    # merge_reasoning(parse_func=lambda x : inst_parse(x, filter=True), reason_folder="data/raw_annot")
     # merge_reasoning(parse_func=annot_parse, reason_folder="data/annot")
+    merge_reasoning(parse_func=annot_parse, neg_reason_folder="data/annot", pos_reason_folder="data/positive", fallback_func=inst_parse)
     import pdb
     pdb.set_trace()
 
