@@ -6,7 +6,7 @@ import deepspeed
 import argparse
 import json
 from tqdm import tqdm
-from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST, SELFINST_TEMPLATE_EXTRA, XSUM_EXTRA_TEMPLATE
+from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST, SELFINST_TEMPLATE_EXTRA, XSUM_EXTRA_TEMPLATE, SELFINST_TEMPLATE_POSITIVE, CLAIM_PROMPT
 
 def load_jsonl(input_path):
     with open(input_path, "r", encoding="UTF-8") as f:
@@ -34,9 +34,9 @@ def apply_template(batch, template, tokenizer):
         texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
     return {"input": texts}
 
-def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val', data_names=None):
+def main(template, dump_folder, filter=None, MODEL="meta-llama/Llama-2-13b-chat-hf", max_new_tokens=512, cut='val', data_names=None):
     parser = argparse.ArgumentParser()
-    parser.add_argument('--local_rank', type=int, default=-1,
+    parser.add_argument('--local_rank', type=int, default=0,
                         help='local rank passed from distributed launcher')
     # Include DeepSpeed configuration arguments
     parser = deepspeed.add_config_arguments(parser)
@@ -79,21 +79,25 @@ def main(template, dump_folder, filter=True, MODEL="meta-llama/Llama-2-13b-chat-
         print(name, cut)
         input_path = os.path.join(data_folder, "_".join([name, cut])+'.jsonl')
         data = load_jsonl(input_path)
-        if filter: data = [line for line in data if line["label"] == 0]
+        if not filter is None: data = [line for line in data if filter(line)]
         datas = Dataset.from_list(data)
         datas.set_transform(lambda x: apply_template(x, template, tokenizer))
+        sample = pipeline(datas[0]["input"],
+            max_new_tokens=512,
+            num_return_sequences=1,
+            pad_token_id=tokenizer.bos_token_id,)
+        if args.local_rank == 0: print(sample)
         generated = [out for out in tqdm(pipeline(KeyDataset(datas, "input"), 
                                         max_new_tokens=max_new_tokens,
                                         num_return_sequences=1,
-                                        pad_token_id=tokenizer.eos_token_id))]
+                                        pad_token_id=tokenizer.bos_token_id))]
         # for line, reasoning in zip(data, generated): line["reasoning"] = reasoning
         if args.local_rank == 0:
             dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
-def postprocess(annot_folder):
+def postprocess(annot_folder, gen_folder="data/gen/", filter=None):
     data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
     data_folder = "data/raw/"
-    gen_folder = "data/gen/"
     cut = 'val'
 
     for name in data_names:
@@ -101,7 +105,7 @@ def postprocess(annot_folder):
         input_path = os.path.join(data_folder, "_".join([name, cut])+'.jsonl')
         data = load_jsonl(input_path)
         data_len = len(data)
-        idx = [i for i in range(data_len) if data[i]["label"] == 0]
+        idx = [i for i in range(data_len) if filter(data[i])]
         gen = load_jsonl(os.path.join(gen_folder, "_".join([name, cut])+'.jsonl'))
 
         output_folder = os.path.join(annot_folder, name)
@@ -121,8 +125,11 @@ def postprocess(annot_folder):
             with open(output_path, "w") as f:
                 f.write(line[0]["generated_text"] + "\n\n###Corrected:\n")
 
+positive_only = lambda x: x["label"] == 1
+negative_only = lambda x: x["label"] == 0
+
 if __name__ == '__main__':
-    data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
+    data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"][-2:]
     # Zeroshot
     # main(ZEROSHOT_TEMPLATE, "data/zeroshot", False, max_new_tokens=15, cut='test')
     # main(ZEROSHOT_TEMPLATE.format(input=DOC_FIRST), "data/DOCfirst/zeroshot", False, max_new_tokens=15, cut='test')
@@ -136,10 +143,12 @@ if __name__ == '__main__':
     # Selfinstruct
     # main(SELFINST_TEMPLATE, "data/gen")
     # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
-    main(SELFINST_TEMPLATE.format(input=DOC_FIRST, extra=XSUM_EXTRA_TEMPLATE), "data/gen/xsum_extra", data_names=["xsumfaith"])
+    # main(SELFINST_TEMPLATE.format(input=DOC_FIRST, extra=XSUM_EXTRA_TEMPLATE), "data/gen/xsum_extra", data_names=["xsumfaith"])
+    # main(SELFINST_TEMPLATE_POSITIVE.format(input=CLAIM_PROMPT), "data/gen/positive", data_names=data_names, filter=positive_only)
 
     # Generate data for annotation
     # postprocess(annot_folder="data/annot")
+    postprocess(annot_folder="data/positive", gen_folder="data/gen/positive", filter=positive_only)
 
     # Backup data for abalation study
     # postprocess(annot_folder="data/raw_annot")

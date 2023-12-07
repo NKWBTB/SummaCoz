@@ -13,7 +13,7 @@ gpu_device_map = {
         'model.norm': 2, 'lm_head': 2}
 
 MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"
-EPOCH = 20
+EPOCH = 10
 LR = 1e-4
 BATCH_SIZE = 1
 GRADIENT_CHECKPOINTING=True
