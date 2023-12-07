@@ -41,13 +41,18 @@ Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on Y
 the story of game of game of thrones has gone on display at the top of the uk box office.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the story of game of game of thrones has gone on display at the top of the uk box office"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+  Sure! Here's why the summary is not consistent with the article:
 
-1. The summary mentions "Game of Thrones," but the article does not.
-2. The summary talks about the cast of Skins finding success in Hollywood, but the article does not mention anything about the cast of Skins.
-3. The summary mentions the top of the UK box office, but the article does not mention anything about the UK box office or the success of any movies.
+1. The article is about the success of the cast of the TV show "Skins" and how they went on to have successful careers in Hollywood, while the summary is about "Game of Thrones."
+2. The article mentions nothing about the box office or any displays, while the summary mentions "the top of the uk box office."
+3. The article is about the cast of "Skins" and their success, while the summary is about a different TV show ( "Game of Thrones").
 
-Based on these differences, it is clear that the summary is not consistent with the article. It appears to be a summary of a different article or topic altogether.
+Therefore, the summary is not consistent with the article, as it is discussing a different topic and contains information that is not present in the article.
 
 ###Corrected:

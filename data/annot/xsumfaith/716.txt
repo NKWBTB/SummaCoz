@@ -23,12 +23,20 @@ The wooded area a few miles east of a highway border crossing is a well-known sm
 four people are in custody in the us and canada after a suspected drug smuggler fired on us border agents and fled, sparking a day-long manhunt.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "four people",
+  "drug smuggler fired on us border agents and fled, sparking a day-long manhunt",
+  "day-long manhunt"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that four people are in custody, but the article only mentions three defendants in US custody. Therefore, the summary is not consistent with the article.
-2. The summary mentions a suspected drug smuggler firing on US border agents and fleeing, but the article does not mention any shooting or fleeing. The article only states that one of the men dropped his backpack and fired a weapon at the agents, but did not flee.
-3. The summary states that the four people are in custody after a day-long manhunt, but the article does not mention any manhunt. The article only states that Canadian and US police searched for the fugitive on foot and by helicopter, but does not mention a day-long manhunt.
+1. "four people" - The article states that three people were arrested, not four. The summary is inconsistent with the article in this regard.
+2. "drug smuggler fired on us border agents and fled, sparking a day-long manhunt" - The article does not mention a "drug smuggler" or a "day-long manhunt." The summary is inconsistent with the article in these regards. The article states that one of the men fired a weapon at the border agents and then fled, and that the authorities searched for the fugitive on foot and by helicopter.
+3. "day-long manhunt" - As mentioned above, the article does not mention a "day-long manhunt." The summary is inconsistent with the article in this regard.
 
-Therefore, the summary is not consistent with the article. It appears to be a condensed version of the article, but with some inaccuracies and omissions.
+Therefore, the summary is not consistent with the article. The summary contains several inaccuracies and exaggerations, such as the number of people in custody and the scope of the manhunt.
 
 ###Corrected:

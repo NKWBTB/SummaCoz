@@ -19,14 +19,21 @@ However, experts say they do not expect to see the same level of conflict follow
 a man armed with a machete has forced his way into the rural home of kenya\'s deputy president william ruto after wounding a police guard, police say.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "rural home of kenya\\'s deputy president william ruto",
+  " rural home of kenya\\'s deputy president william ruto"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the man armed with a machete forced his way into the rural home of Kenya's Deputy President William Ruto after wounding a police guard.
-2. However, the article states that Mr. Ruto and his family were not at the compound near the western city of Eldoret at the time of the incident.
-3. The article also states that specialist troops had been deployed to deal with the intruder, who was hiding in a partially-constructed building.
-4. The summary does not mention the presence of specialist troops or the fact that the intruder was hiding in a partially-constructed building.
-5. Therefore, the summary is not consistent with the article because it does not provide accurate information about the circumstances of the incident.
+1. The article states that Mr. Ruto and his family were not at the compound near the western city of Eldoret at the time of the incident. This means that the summary's statement that the man forced his way into the "rural home of Kenya's deputy president William Ruto" is not accurate.
+2. The article also states that the incident occurred near a partially-constructed building, but the summary does not mention this detail.
+3. The article states that the man wounded a police guard, but the summary does not mention this. Instead, it only mentions that the man forced his way into the home.
+4. The article states that specialist troops were deployed to deal with the intruder, but the summary does not mention this.
+5. The article mentions that the incident occurred 10 days before Kenya holds presidential, legislative and regional elections, but the summary does not mention this.
 
-The reason for the inconsistency is that the summary is not accurately describing the events as reported in the article. The summary is missing important details and providing misleading information.
+Based on these inconsistencies, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

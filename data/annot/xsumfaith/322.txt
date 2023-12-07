@@ -32,13 +32,20 @@ A Ministry of Justice spokesperson said it wanted "much more effective rehabilit
 more than half of offenders in england and wales are being punished for their crimes, a report has found.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "more than half",
+  "england and wales",
+  "punished"
+]
 
-1. The summary states that "more than half of offenders in England and Wales are being punished for their crimes."
-2. The article states that the report found delays in getting offenders to start their work and that many were let off if they did not attend.
-3. The article also states that the report outlined 15 recommendations for improvement, including reducing the number of times offenders are turned away from work and creating objectives for unpaid work that match the circumstances of the offender.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the findings of the report. The report did not find that more than half of offenders were being punished, but rather that there were problems with the organization and enforcement of unpaid work sentences.
-5. The summary is also not consistent with the article because it does not mention the specific issues identified in the report, such as delays and lack of attendance, and instead focuses on the overall percentage of offenders being punished.
-6. The article provides more detailed information about the report's findings and recommendations, which are not reflected in the summary.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. "more than half": The article states that "70,000 offenders were ordered to do unpaid work" in 2014, which is less than half of the total number of offenders in England and Wales. Therefore, the statement "more than half" is not accurate.
+2. "england and wales": The article only discusses the situation in England and Wales, and does not provide any information about other parts of the UK. Therefore, the statement "england and wales" is not necessary and could be omitted.
+3. "punished": The article does not use the word "punished" to describe the offenders. Instead, it uses the phrase "unpaid work" to describe the sentence imposed on the offenders. Therefore, the statement "punished" is not accurate.
+
+Overall, the summary does not accurately reflect the content of the article. It exaggerates the number of offenders and uses language that is not present in the article.
 
 ###Corrected:

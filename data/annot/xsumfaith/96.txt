@@ -40,14 +40,25 @@ Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
 the european space agency, airbus, has unveiled its plan to create the world\'s largest network of satellite constellations.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "world\\'s largest",
+  "has unveiled its plan to create the world\\'s largest network of satellite constellations"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you've identified have consistency issues:
 
-1. The summary states that the European Space Agency (ESA) has unveiled a plan to create the world's largest network of satellite constellations. However, the article states that Airbus, not the ESA, is behind the plan.
-2. The summary does not mention the purpose of the satellite constellation, which is to provide broadband internet access to every corner of the globe, as stated in the article.
-3. The summary does not mention the scale of the constellation, which will consist of at least 600 spacecraft and potentially more than 2,000, as stated in the article.
-4. The summary does not mention the manufacturing approach being used by Airbus, which is a new assembly line method akin to those used in factories producing cars and planes, as stated in the article.
-5. The summary does not mention the debris mitigation measures being taken by OneWeb and Airbus, such as de-orbiting the satellites within two years and using a small adapter device to allow for the removal of dead satellites, as stated in the article.
+1. "world's largest": The article does not mention the phrase "world's largest" anywhere. The phrase is only present in the summary, and it is not an accurate representation of the article's content.
+2. "has unveiled its plan to create the world's largest network of satellite constellations": This sentence is not present in the article. The article discusses OneWeb's plan to create a satellite constellation, but it does not mention anything about the network being the "world's largest."
 
-Therefore, the summary is not consistent with the article as it does not provide an accurate overview of the plan, its purpose, or the scale of the constellation. It also omits important details such as the manufacturing approach and debris mitigation measures.
+Here's a step-by-step explanation of the reasoning:
+
+1. The summary states that the European Space Agency and Airbus have unveiled a plan to create the world's largest network of satellite constellations.
+2. However, the article does not mention the phrase "world's largest" anywhere.
+3. The article only discusses OneWeb's plan to create a satellite constellation, without mentioning the size of the network.
+4. Therefore, the summary's statement about the network being the "world's largest" is not supported by the article's content.
+
+Overall, the summary contains inaccuracies and exaggerations that do not accurately represent the content of the article.
 
 ###Corrected:

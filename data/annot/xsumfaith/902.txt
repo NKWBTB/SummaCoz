@@ -14,13 +14,19 @@ Nottingham lead the league on 28 points, with Sheffield Steelers on 27 and Belfa
 nottingham forest secured promotion to the national league with a [UNK] win over nottingham forest green rovers in the national league play-off round.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "nottingham forest secured promotion to the national league with a [UNK] win over nottingham forest green rovers in the national league play-off round"
+]
 
-1. The summary states that Nottingham Forest secured promotion to the National League with a [UNK] win over Nottingham Forest Green Rovers.
-2. However, the article does not mention anything about Nottingham Forest Green Rovers. Instead, it talks about Nottingham Panthers and Sheffield Steelers.
-3. The article mentions that Nottingham Panthers and Sheffield Steelers are teams in the National League, but it does not mention Nottingham Forest Green Rovers.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the teams are playing in the "national league" and the play-off round.
+2. The summary claims that Nottingham Forest secured promotion to the "national league" with a win over Nottingham Forest Green Rovers.
+3. However, there is no mention of Nottingham Forest Green Rovers in the article. The article only mentions Nottingham and Sheffield Steelers as the teams playing in the national league.
 4. Therefore, the summary is not consistent with the article because it mentions a team (Nottingham Forest Green Rovers) that does not exist in the article.
-5. Additionally, the summary claims that Nottingham Forest secured promotion to the National League, but the article does not mention anything about promotion or relegation.
-6. Therefore, the summary is not only inconsistent with the article, but it also contains incorrect information.
+
+So, the inconsistency is in the fact that the summary mentions a team that is not present in the article, and therefore the summary is not accurate.
 
 ###Corrected:

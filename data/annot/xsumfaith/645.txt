@@ -51,14 +51,20 @@ Analysis is on BBC Radio 4 on Monday 17 October at 20:30 BST and Sunday 23 Octob
 two-thirds of conservative mps want to renegotiate the uk\'s relationship with europe but are too scared to reveal their true eurosceptic sentiment, claim conservative party insiders.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "too scared to reveal their true eurosceptic sentiment, claim conservative party insiders",
+  "two-thirds"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning for why the summary has consistency issues:
 
-1. The article states that "almost all of the pro-European 'big beasts' of the Thatcher/Major years are long gone from front-line politics." This implies that there is a shift in the Conservative Party's stance on Europe, with more members now holding eurosceptic views.
-2. The article mentions that "a third of those now on the Conservative benches would like to see a fundamental renegotiation of the UK's relationship with Europe, and another third would like Britain to come out altogether." This suggests that a significant portion of Conservative MPs hold eurosceptic views, but are not openly expressing them.
-3. The article quotes Tim Montgomerie, an assiduous student of backbench opinion, as saying that "only ten Conservative MPs have declared their position publicly, by joining the 'Better Off Out' group." This implies that there are more eurosceptic MPs who are not openly expressing their views.
-4. The article states that "Tory memories of the bitter divisions of the past over Europe are still raw." This suggests that there is a sense of caution among Conservative MPs when it comes to debating Europe, and that they may be hesitant to reveal their true eurosceptic sentiments.
-5. The summary states that "two-thirds of conservative mps want to renegotiate the uk's relationship with europe." However, this is not supported by the article, which states that "a third of those now on the Conservative benches would like to see a fundamental renegotiation of the UK's relationship with Europe."
+1. "too scared to reveal their true eurosceptic sentiment, claim conservative party insiders":
+This statement is not consistent with the article because the article does not mention anything about Conservative Party insiders claiming that MPs are too scared to reveal their true eurosceptic sentiment. Instead, the article suggests that many Conservative MPs are being coy about their true views on Europe, but it does not attribute this to party insiders.
+2. "two-thirds":
+This statement is not consistent with the article because the article does not provide a specific percentage or number for the number of Conservative MPs who want to renegotiate the UK's relationship with Europe. The article mentions that "almost all" of the pro-European "big beasts" of the Thatcher/Major years are gone from front-line politics, and that a third of the current intake of Tory MPs would like to see a fundamental renegotiation of the UK's relationship with Europe, but it does not provide a specific number for the percentage of MPs who want to renegotiate.
 
-Therefore, the summary is not consistent with the article because it exaggerates the number of Conservative MPs who want to renegotiate the UK's relationship with Europe. The article suggests that there is a significant number of eurosceptic MPs who are not openly expressing their views, but it does not support the claim that two-thirds of Conservative MPs want to renegotiate the UK's relationship with Europe.
+Overall, the summary contains two statements that are not supported by the article, and therefore the summary does not accurately reflect the content of the article.
 
 ###Corrected:

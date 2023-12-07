@@ -18,13 +18,20 @@ Sidwell told BBC Radio Sussex: "When I signed the contract last year no-one expe
 brighton & hove albion midfielder mark minichiello has signed a new three-year contract with the championship club.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "brighton & hove albion midfielder",
+  "mark minichiello has signed a new three-year contract with the championship club"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the player who signed a new contract is "Mark Minichiello," but the article does not mention any player with that name.
-2. The article mentions a player named Steve Sidwell, who has made 32 Championship appearances this season and is hoping to sign a new deal with Brighton & Hove Albion.
-3. The summary claims that the player signed a new three-year contract, but the article does not mention any information about the length of Sidwell's new deal.
-4. The summary is not consistent with the article because it mentions a different player (Mark Minichiello) and provides incorrect information about the length of the contract.
+1. The article states that the Brighton & Hove Albion midfielder is Steve Sidwell, not Mark Minichiello. The summary incorrectly names the player as Minichiello.
+2. The article states that Sidwell has made 32 Championship appearances this season, but the summary does not mention this. Instead, it states that he has signed a new three-year contract, which is not mentioned in the article.
+3. The article does not mention anything about Sidwell signing a new contract. In fact, it states that he is hoping to sign a new deal, but no agreement has been reached yet.
+4. The article mentions that Sidwell has previously played in the Premier League with several clubs, but the summary does not include this information.
 
-Therefore, the summary is not accurate and does not reflect the information presented in the article.
+Overall, the summary is not consistent with the article because it incorrectly names the player, leaves out important information about the player's appearances and contract status, and omits details about the player's previous experience in the Premier League.
 
 ###Corrected:

@@ -20,11 +20,20 @@ He turned down offers from elsewhere to stay at the region for whom he made his 
 wales scrum-half rhys webb says he is back up to returning to ireland in the six nations on saturday.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "half rhys",
+  "saturday"
+]
 
-1. The summary states that Rhys Webb is back up and ready to return to Ireland in the Six Nations on Saturday.
-2. However, the article states that Webb has not played since suffering a serious foot injury in a World Cup warm-up with Italy in September, and he is currently going through a pre-season stage to get fit before the Six Nations in February.
-3. The article does not mention anything about Webb being ready to return to Ireland on Saturday. In fact, it states that he is taking each week as it comes and will see where he is then.
-4. Therefore, the summary is not consistent with the article because it implies that Webb is already ready to return to play, while the article states that he is still recovering from an injury and has not yet reached that point.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "half rhys" - The article never mentions "half rhys" as a phrase. The correct phrase is "scrum-half Rhys Webb". The word "half" is not needed in this context, as "scrum-half" already implies that Rhys Webb is a player in that position.
+2. "saturday" - The article does not mention any specific date for Rhys Webb's return, only that he is "close to a return" and will "take each week as it comes". The word "saturday" does not appear in the article at all.
+
+Therefore, the summary is not consistent with the article, as it includes two phrases that do not appear in the original text. To make the summary consistent with the article, it should read:
+
+"Wales scrum-half Rhys Webb is close to returning from a foot injury, but has not specified a specific date for his return."
 
 ###Corrected:

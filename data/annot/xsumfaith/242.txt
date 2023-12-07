@@ -24,12 +24,20 @@ Russia has demanded an apology from Turkey and in the meantime has imposed sanct
 a russian investigation is under way into the downing of a russian warplane by turkey on saturday.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "saturday",
+  "turkey",
+  "warplane"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the Su-24 jet was downed on November 24th, but the summary states that the downing occurred on Saturday. This is inconsistent, as Saturday does not fall on November 24th.
-2. The article mentions that the downing of the jet plunged relations between Russia and Turkey into crisis, and that Russia has imposed sanctions on Turkey. However, the summary makes no mention of these events.
-3. The article provides specific details about the downing of the jet, including the fact that both crew members ejected, the pilot was killed, and a Russian marine was killed and a helicopter destroyed on the ground. The summary does not include any of these details.
+1. "saturday" - The article states that the Su-24 jet was downed on November 24th, not on a Saturday. The summary is inconsistent with the article because it mentions the day of the week as "Saturday" when the actual day was a Wednesday.
+2. "turkey" - The article mentions that the Su-24 was downed by F-16 fighters, but the summary only mentions "Turkey" without specifying the entity that downed the plane. This is inconsistent with the article because it implies that Turkey downed the plane, which is not accurate.
+3. "warplane" - The article uses the term "Su-24 jet" to refer to the downed plane, while the summary uses the term "warplane". This is inconsistent with the article because it implies that the downed plane was a generic "warplane" rather than a specific type of aircraft (the Su-24).
 
-Therefore, the summary is not consistent with the article because it does not provide accurate information about the downing of the Su-24 jet, and it omits important details about the events that followed.
+Overall, the summary is not consistent with the article because it contains inaccuracies and omissions that change the meaning of the original text.
 
 ###Corrected:

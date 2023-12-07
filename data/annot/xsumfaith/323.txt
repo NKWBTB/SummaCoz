@@ -51,15 +51,24 @@ Edward Snowden, the source of the leaked documents, said he had acted over conce
 us intelligence leaker edward snowden has been leaked from the us government.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "has been leaked",
+  "leaked"
+]
+
 Explain your reasoning step by step:[/INST]
-  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
 
-1. The summary mentions "us intelligence leaker Edward Snowden has been leaked from the US government," implying that Snowden is the one who was leaked, but the article states that he is the one who leaked the documents.
-2. The summary does not provide any specific information about the leaked documents or the NSA's surveillance activities, while the article provides detailed information about the documents revealed by Snowden and the NSA's access to individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals.
-3. The summary does not mention the companies involved in the NSA's surveillance activities, such as Verizon, Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, and Apple, as mentioned in the article.
-4. The summary does not mention the Prism program, which is a secret government program that allows the NSA to access the servers of major technology companies and collect data on individuals, as mentioned in the article.
-5. The summary does not mention the national security concerns and the legal frameworks that govern the NSA's surveillance activities, as mentioned in the article.
+1. "has been leaked" should be "leaked" instead. The article states that Edward Snowden, the former CIA technical worker, revealed himself as the source of the leaks. Therefore, it should be "leaked" instead of "has been leaked".
+2. "leaked" should be "leaks" instead. The article is referring to the leaks revealed by Edward Snowden, so it should be "leaks" instead of "leaked" to match the plural form of the noun.
 
-In conclusion, the summary is not consistent with the article because it does not provide specific information about the leaked documents, the NSA's surveillance activities, the companies involved, the Prism program, and the legal frameworks that govern the NSA's activities. Instead, it only mentions that Edward Snowden has been leaked from the US government, which is not accurate.
+Here's the corrected summary:
+
+<Summary>
+US intelligence leaks by Edward Snowden have been revealed from the US government.
+</Summary>
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

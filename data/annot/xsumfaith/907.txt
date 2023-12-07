@@ -21,13 +21,19 @@ Tristram Hunt MP, who was involved in the campaign, said the sale was "fantastic
 a collection of items worth up to # [UNK] has been put up for sale at a museum in staffordshire.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "worth up to"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that a collection of items worth up to £80,000 has been put up for sale at a museum in Staffordshire.
-2. However, the article states that the collection faced being auctioned to help pay off the pottery firm's pension debt, and not that it was put up for sale.
-3. The article also states that the collection will remain on display at the museum and will be loaned to the Wedgwood Museum, which contradicts the idea that the collection is being sold.
-4. Additionally, the article mentions that the collection includes works of art, ceramics, manuscripts, letters, and photographs, which is not mentioned in the summary.
+1. The article states that the collection of items is worth up to £800,000.
+2. The summary only mentions "up to £" without specifying the exact amount.
+3. The article provides a specific figure of £800,000, while the summary only provides a range of values (up to £).
+4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail as the article.
 
-Therefore, the summary is not consistent with the article because it does not accurately convey the information that the collection is not being sold, but rather will remain on display and be loaned to another museum. The summary also omits important details about the collection's contents.
+The summary should have included the exact figure of £800,000 to be consistent with the article. By only mentioning "up to £", the summary gives the impression that the collection is worth a smaller amount, which is not accurate according to the article.
 
 ###Corrected:

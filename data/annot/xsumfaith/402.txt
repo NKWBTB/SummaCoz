@@ -15,12 +15,18 @@ Vunipola's older brother, Mako, recently made his own comeback from a knee probl
 england prop mako vunipola has been ruled out of the rest of the six nations with a knee injury.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "england prop mako",
+  "ruled out of the rest of the six nations"
+]
 
-1. The article states that Vunipola has been out of action since November with a knee injury, but his recovery has progressed quicker than expected.
-2. The summary states that Vunipola has been ruled out of the rest of the Six Nations with a knee injury.
-3. These two statements are contradictory, as the article suggests that Vunipola's recovery is progressing quickly and he could be in contention to face Scotland or Ireland, while the summary states that he has been ruled out of the rest of the Six Nations.
-4. Therefore, the summary is not consistent with the article, and it is likely that the summary is incorrect.
-5. The article does not mention anything about Vunipola being ruled out of the rest of the Six Nations, so it is likely that the summary was based on incorrect information or an incorrect interpretation of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The first inconsistency is "england prop mako". The article never mentions Mako Vunipola's position as a prop. In fact, it refers to him as a back (specifically, a center). So, this phrase is not consistent with the article.
+2. The second inconsistency is "ruled out of the rest of the six nations". According to the article, Mako Vunipola's recovery has progressed quicker than expected, and he could be in contention to face Scotland or Ireland. There is no mention of him being ruled out of the rest of the Six Nations.
+
+Therefore, the summary is not consistent with the article.
 
 ###Corrected:

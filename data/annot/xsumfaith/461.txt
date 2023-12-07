@@ -33,12 +33,21 @@ She said the school would work with parents who were struggling to dress their c
 a school has been sent back to school after being sent off by students at a school in london.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a school has been sent back to school after being sent off by students at a school in london",
+  "a school has been sent back to school after being sent off by students",
+  "london"
+]
 
-1. The summary states that a school has been sent back to school after being sent off by students at a school in London. However, the article does not mention anything about the school being sent off or sent back.
-2. The article only mentions that the school enforced its uniform policy and sent some students home for not adhering to the rules.
-3. The summary is not consistent with the article because it does not accurately reflect the events described in the article.
-4. The article does not mention anything about the school being sent off or sent back, and instead focuses on the school's uniform policy and the reactions of some parents and students.
-5. Therefore, the summary is not a accurate representation of the article and is not consistent with the information provided.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The summary states that "a school has been sent back to school after being sent off by students at a school in London."
+2. However, the article does not mention anything about the school being sent off by students. Instead, it talks about the school enforcing its uniform policy and some students being sent home for not complying with it.
+3. The article does mention that the school is located in London, but this information is not relevant to the main point of the article, which is about the uniform policy and the students who were sent home.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the school being sent off by students) and omits other important information (the reason for the students being sent home, which is the uniform policy).
+
+Overall, the summary does not accurately reflect the content of the article, and it contains inconsistencies that make it difficult to understand the actual events that took place.
 
 ###Corrected:

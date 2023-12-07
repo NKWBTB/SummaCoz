@@ -13,10 +13,22 @@ Sgt Andrew Miller, of the road policing unit, said: "The woman was walking with 
 a woman is in a critical condition in hospital after she was hit by a bin lorry in east lothian.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "east lothian",
+  "in a critical condition in hospital after she was hit by a bin lorry in east lothian",
+  "critical condition in hospital",
+  "a woman is in a critical condition in hospital after she was hit by a bin lorry in east lothian"
+]
 
-1. The summary states that the woman was hit by a bin lorry in east Lothian.
-2. The article does not mention east Lothian. It only mentions the incident happening on Morningside Road, near Jordan Lane, in Edinburgh.
-3. Therefore, the summary is not consistent with the article, as it provides incorrect information about the location of the incident.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the incident happened on Morningside Road, near to Jordan Lane, at about 11:45 on Sunday. However, the summary mentions "east lothian", which is not mentioned in the article.
+2. The article does not mention the woman being in a critical condition in hospital. Instead, it states that Police Scotland have appealed to anyone who may have seen the elderly woman, or the bin lorry, before the incident occurred.
+3. The summary mentions "critical condition in hospital" twice, which is not supported by the article.
+4. The article only mentions the woman being hit by a bin lorry, but the summary adds "a woman is in a critical condition in hospital after she was hit by a bin lorry in east lothian".
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article, and it exaggerates the condition of the woman.
 
 ###Corrected:

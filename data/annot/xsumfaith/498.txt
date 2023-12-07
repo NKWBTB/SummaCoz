@@ -32,15 +32,22 @@ Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a
 temperton temperton, one of the uk\'s most famous 66, has died at the age of 74.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "74",
+  "66"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+  Sure, I'd be happy to help! Here's why the spans in the summary have consistency issues:
 
-1. Inconsistent age: The summary states that Temperton died at the age of 74, while the article states that he died at the age of 66.
-2. Incorrect nationality: The summary mentions that Temperton is from the UK, but the article does not mention his nationality.
-3. Incorrect year of death: The summary states that Temperton died last week, while the article states that he died in London last week at the age of 66.
-4. Incorrect information about Temperton's death: The summary states that Temperton died, but the article states that he passed away after a brief aggressive battle with cancer.
-5. Incorrect information about Temperton's career: The summary does not mention anything about Temperton's career as a songwriter or his work with Michael Jackson, while the article provides detailed information about his career and accomplishments.
+1. "74": The article states that Temperton died at the age of 66, not 74. This is a clear inconsistency.
+2. "66": The summary correctly states that Temperton was 66 years old when he died. However, the previous sentence incorrectly states that he was 74 years old.
 
-Overall, the summary is not consistent with the article because it contains incorrect information about Temperton's age, nationality, year of death, and career.
+To fix these consistency issues, the summary should read:
+
+"Temperton, one of the UK's most famous songwriters, died at the age of 66."
+
+This is consistent with the article, which states that Temperton was 66 years old when he died.
 
 ###Corrected:

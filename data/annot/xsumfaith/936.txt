@@ -21,13 +21,21 @@ Washington had only been to the country once before his international bow agains
 northern ireland\'s euro 2016 qualifier against northern ireland is a ``crazy moment\'\', according to former world cup winner gareth washington.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "euro 2016 qualifier against northern ireland is a ``crazy moment\\'\\', according to former world cup winner gareth",
+  "northern ireland\\'s euro 2016 qualifier against northern ireland",
+  "former world cup winner gareth"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Northern Ireland's Euro 2016 qualifier against Northern Ireland is a "crazy moment", but the article does not mention anything about Northern Ireland playing against Northern Ireland.
-2. The article does mention that Washington made his international debut for Northern Ireland in March, but there is no mention of any qualifier against Northern Ireland.
-3. The summary is incorrect in stating that the qualifier is against Northern Ireland, as the article clearly states that Washington played against Slovenia and Belarus, not Northern Ireland.
-4. The summary is also incorrect in attributing a quote to former World Cup winner Gareth Washington, as there is no such person mentioned in the article.
+1. The article states that Gareth Washington made his international debut for Northern Ireland in March, and scored in his second game against Slovenia. However, the summary states that the "euro 2016 qualifier against northern ireland" is a "crazy moment", which implies that the player has already played in a Euro 2016 qualifier for Northern Ireland, which is not accurate.
+2. The article does not mention anything about Gareth Washington playing in a Euro 2016 qualifier, only that he made his international debut in March and scored in his second game against Slovenia. Therefore, the reference to a "euro 2016 qualifier" in the summary is not supported by the article.
+3. The summary also refers to "former world cup winner gareth", which is not accurate according to the article. Gareth Washington has not won a World Cup, and the article does not mention anything about him being a World Cup winner.
+4. Finally, the summary does not accurately represent the content of the article, as it implies that Gareth Washington has already played in a Euro 2016 qualifier for Northern Ireland, which is not supported by the article.
 
-Therefore, the summary is not consistent with the article and contains several errors.
+Therefore, the summary is not consistent with the article, and the inconsistencies are highlighted in the spans provided.
 
 ###Corrected:

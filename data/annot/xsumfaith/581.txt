@@ -37,14 +37,18 @@ He said: "People are not just doing tests in isolation - they are working togeth
 denmark\'s health service-which is similar to the nhs-started to look in depth at the problem of cancer survival rates in 2000.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "similar to the nhs",
+  "2000"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that Denmark's health service started to look into the problem of cancer survival rates in 2000, but the article states that the changes were introduced in Denmark in 2007.
-2. The summary does not mention the specific changes made to the health service, such as the introduction of fast-track diagnosis and treatment routes, diagnosis centres, and "yes-no" centres, which are described in detail in the article.
-3. The summary does not mention the reason for the changes, which was the discovery of "alarming" cancer survival statistics more than 15 years ago, as stated in the article.
-4. The summary does not mention the improvements in survival rates that have resulted from the changes, as stated in the article.
+1. "similar to the NHS": The summary states that Denmark's health service is "similar to the NHS", but the article does not mention anything about the NHS. In fact, the article emphasizes that Denmark has a different health system than the UK. Therefore, this statement in the summary is not supported by the article.
+2. "2000": The summary states that Denmark started to look into the problem of cancer survival rates in 2000, but the article does not mention any specific year. The article only states that the changes were introduced "more than 15 years ago". Therefore, this statement in the summary is not consistent with the article.
 
-Therefore, the summary is not a consistent summary of the article, as it does not include the key details and reasons for the changes made to Denmark's health service.
+Overall, the summary does not accurately reflect the information in the article. It contains two statements that are not supported by the text, and it does not provide a clear or accurate summary of the article's content.
 
 ###Corrected:

@@ -34,11 +34,19 @@ John Richardson, summed up the mood best. ''Oh, they'll sort something out''.
 as the uk voted to leave the eu, the bbc\'s karen allen looks at why the uk voted to leave the european union.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "bbc\\'s karen allen looks at why the uk voted to leave the european union"
+]
 
-1. The summary states that the UK voted to leave the European Union, but the article does not support this statement. The article discusses the perspectives of British expats living in Spain and does not mention the outcome of the EU referendum.
-2. The summary is not consistent with the article because it implies that the UK as a whole voted to leave the EU, while the article focuses on the experiences of individual expats in Spain.
-3. The article does not mention any information about the EU referendum outcome or the reasons why the UK might have voted to leave the EU. Instead, it discusses the perspectives of British expats living in Spain and their concerns about their financial and healthcare status in the event of a Brexit.
-4. Therefore, the summary is not an accurate reflection of the content of the article. It is a misleading summary that does not accurately represent the information presented in the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The summary states that the BBC's Karen Allen looks at why the UK voted to leave the European Union.
+2. However, the article does not mention Karen Allen or the BBC at all.
+3. The article is about British expats living in Spain and their views on the EU referendum.
+4. The summary is not consistent with the article because it suggests that the article is about the reasons behind the UK's decision to leave the EU, when in fact the article is about something completely different.
+
+Therefore, the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

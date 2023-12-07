@@ -16,13 +16,22 @@ Storey began her sporting career in the pool, winning six medals at the 1992 Par
 britain\'s storey storey retained her olympic 100m title with victory at the track cycling world championships in london.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "100m",
+  "olympic 100m title with victory at the track cycling world championships in london",
+  "world championships",
+  "london"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the event was held in Nottwil, Switzerland, but the summary states that the event was held in London. This is a clear inconsistency.
-2. The article mentions that Storey won the 100m title, but the summary does not mention the distance.
-3. The article states that Storey is targeting further Paralympic success at next year's Games in Rio de Janeiro, but the summary does not mention anything about Rio or the Paralympics.
-4. The article provides specific information about Storey's medals and titles, including her 22 medals and 11 golds, but the summary does not include any of this information.
+1. "100m": The article does not mention the distance of the race, so this statement is not consistent with the article. The article only mentions that Storey won a gold medal in the track cycling event, without specifying the distance.
+2. "olympic 100m title with victory at the track cycling world championships in london": This statement is not consistent with the article because the event was not an Olympic event, but a track cycling world championship. The article mentions that Storey won a gold medal in the track cycling event, but it does not specify that it was an Olympic event.
+3. "world championships": The article does not mention any world championships, so this statement is not consistent with the article. The article only mentions that Storey won a gold medal in the track cycling event.
+4. "london": The article does not mention the location of the event, so this statement is not consistent with the article. The article only mentions that Storey won a gold medal in the track cycling event.
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the details of Storey's victory, including the location of the event, the distance she won, and her future goals.
+Therefore, the summary is not consistent with the article because it contains several inaccuracies and exaggerations.
 
 ###Corrected:

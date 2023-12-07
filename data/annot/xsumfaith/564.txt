@@ -23,12 +23,18 @@ A spokesman for Scottish Labour said: "If Alex Salmond was chocolate he would ea
 former first minister alex salmond has been criticised for unveiling his new portrait in edinburgh on the day mps discussed military action in syria.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "first minister",
+  "former first minister"
+]
 
-1. The summary states that Alex Salmond unveiled his new portrait on the day MPs discussed military action in Syria.
-2. However, the article states that Mr. Salmond was not in the House of Commons to hear Prime Minister David Cameron make his argument for air strikes.
-3. The article also states that Mr. Salmond attended a "full briefing" on Wednesday from the security services and the joint chiefs about the Syria situation, and that he would make his contribution as his party's foreign affairs spokesman when the issue is fully debated in the Commons.
-4. Therefore, it is inconsistent to say that Mr. Salmond unveiled his new portrait on the day MPs discussed military action in Syria, as he was not present in the Commons to do so.
-5. The summary is not consistent with the article because it implies that Mr. Salmond was present in the Commons to unveil his portrait, which is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Alex Salmond is the SNP's foreign affairs spokesman, but the summary says he is a former first minister. This is inconsistent because the article does not mention him being a former first minister, only that he is the SNP's foreign affairs spokesman.
+2. The summary states that he unveiled his new portrait in Edinburgh on the day MPs discussed military action in Syria, but the article does not mention him unveiling a portrait. Instead, it mentions him attending a "full briefing" on Wednesday from the security services and the joint chiefs about the Syria situation, and later attending a Scottish Parliamentary reception for veterans, serving armed forces personnel, and local community representatives.
+
+Therefore, the two spans that have consistency issues are "first minister" and "unveiled his new portrait." The summary should have been more accurate in reflecting the information in the article.
 
 ###Corrected:

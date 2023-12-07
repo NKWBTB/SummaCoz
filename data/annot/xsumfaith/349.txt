@@ -16,13 +16,20 @@ He said: "A joint investigation with the fire service will be carried out.
 a man has been arrested on suspicion of arson after a fire at a house in west lothian.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a man has been arrested on suspicion of arson after a fire at a house in west lothian.",
+  "a man has been arrested on suspicion of arson after a fire at a house in west lothian"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that "initial enquiries would suggest there are no suspicious circumstances" and "there is no known involvement of the occupant".
-2. The summary mentions that a man has been arrested on suspicion of arson, which contradicts the article's statement that there are no suspicious circumstances.
-3. The article also states that the fire is not thought to be suspicious and that there is no known involvement of the occupant.
-4. The summary does not provide any information about the man's arrest or the fire being suspicious, which suggests that the summary is not consistent with the article.
+1. The article states that the fire was not thought to be suspicious, and that initial enquiries suggest there are no suspicious circumstances.
+2. The summary, on the other hand, states that a man has been arrested on suspicion of arson.
+3. These two statements are inconsistent with each other. If the fire was not thought to be suspicious and there are no suspicious circumstances, then it is unlikely that a man would be arrested on suspicion of arson.
+4. Therefore, the summary is not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it mentions a man being arrested on suspicion of arson, which contradicts the article's statement that there are no suspicious circumstances.
+The specific spans in the summary that have consistency issues are the two instances of "a man has been arrested on suspicion of arson after a fire at a house in west lothian." These statements are not supported by the article, and are therefore inconsistent with the rest of the text.
 
 ###Corrected:

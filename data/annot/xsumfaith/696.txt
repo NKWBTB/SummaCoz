@@ -14,11 +14,18 @@ Posting on Twitter, Insp Chris Galley said: "A strange end to a night shift. 15-
 a tractor being driven by a 15-year-old boy ``as a taxi for his drunk mates\'\'has been stopped by police in north yorkshire.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "north yorkshire"
+]
 
-1. The summary states that the driver of the tractor was a 15-year-old boy.
-2. The article states that the driver had no licence, was not insured, and did not have permission from the tractor's owner.
-3. These three points do not align with the fact that the driver was a 15-year-old boy. In the UK, it is illegal for anyone under the age of 16 to drive a tractor on a public road, and it is unlikely that a 15-year-old boy would have the necessary licence and insurance to operate the vehicle legally.
-4. Therefore, the summary is not consistent with the article because it implies that the driver was a 15-year-old boy, while the article states that the driver was an adult who was not licensed, insured, or authorized to operate the tractor.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the John Deere tractor was pulled over by officers in the village of Ripley. The summary incorrectly states that the tractor was stopped in "north yorkshire."
+2. The article does not mention anything about the tractor being driven as a taxi for drunk mates. The summary includes this information, which is not supported by the article.
+3. The article mentions that the driver of the tractor had no licence, was not insured, and did not have permission from the owner. The summary does not include any of this information.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information and leaves out important details that are included in the article.
 
 ###Corrected:

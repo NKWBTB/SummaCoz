@@ -55,13 +55,20 @@ Foul by Andy Taylor (Blackpool).
 blackpool missed the chance to go top of league two as they were held to a draw at bloomfield road.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "missed the chance to go top of league two",
+  "bloomfield road",
+  "blackpool missed the chance to go top of league two as they were held to a draw at bloomfield road"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Blackpool missed the chance to go top of League Two, but the article does not mention anything about Blackpool having the chance to go top of the league.
-2. The article mentions that the game ended in a draw, but the summary does not mention the final score.
-3. The summary states that Blackpool were held to a draw, but the article does not use the word "held" to describe the outcome of the game.
-4. The summary mentions that the game was played at Bloomfield Road, but the article does not include this information.
+1. "missed the chance to go top of league two" - This sentence is not consistent with the article because the article does not mention Blackpool having the chance to go top of League Two. In fact, the article states that Blackpool were already in second place before the match, so they did not have the chance to go top.
+2. "bloomfield road" - This sentence is not consistent with the article because the match was played at Bloomfield Road, but the article does not mention the name of the stadium.
+3. "blackpool missed the chance to go top of league two as they were held to a draw at bloomfield road" - This sentence is a combination of the two previous inconsistencies, and is therefore not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and omits information that is present in the article. The summary also uses different language and phrasing than the article, which suggests that it was not written based on the same information as the article.
+Overall, the summary is not consistent with the article because it contains information that is not supported by the article. The article does not mention Blackpool having the chance to go top of League Two, and it does not mention the name of the stadium. Therefore, the summary should not have included that information.
 
 ###Corrected:

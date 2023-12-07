@@ -12,13 +12,21 @@ A 17-year-old boy arrested on suspicion of murder has been bailed and investigat
 a murder investigation has been launched after a man died following a stabbing attack on a house in south yorkshire.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "stabbing attack",
+  "following a stabbing attack"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that Adrian Fatchett died on Saturday night despite being treated at the scene by paramedics.
-2. The summary does not mention the word "despite" or any language indicating that Mr. Fatchett was treated by paramedics.
-3. The summary only mentions a "stabbing attack" and does not provide any information about the cause of Mr. Fatchett's death.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article about the circumstances of Mr. Fatchett's death.
+1. The article states that Adrian Fatchett died after being injured at a house in Highfield Avenue, Athersley South.
+2. The summary states that a murder investigation has been launched after a man died following a stabbing attack on a house in South Yorkshire.
+3. The article does not mention a stabbing attack. Instead, it states that Adrian Fatchett died after being injured at a house.
+4. Therefore, the phrase "stabbing attack" in the summary is not supported by the article.
+5. Additionally, the phrase "following a stabbing attack" in the summary is also not supported by the article, as there is no mention of a stabbing attack in the article.
 
-In particular, the summary does not mention the fact that Mr. Fatchett was treated by paramedics, which is a significant detail that would be relevant to a murder investigation. By leaving out this information, the summary is not a complete and accurate summary of the article.
+Overall, the summary is not consistent with the article because it includes information that is not supported by the article. Specifically, the phrases "stabbing attack" and "following a stabbing attack" are not accurate based on the information provided in the article.
 
 ###Corrected:

@@ -26,12 +26,22 @@ Google revealed last week that it had launched local versions of YouTube for Nep
 google has lifted a ban on google\'s search service in pakistan, which has been blocked by the country\'s government.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "country\\'s government",
+  "search service"
+]
 
-1. The summary states that Google has lifted a ban on its search service in Pakistan, which is not consistent with the article.
-2. The article states that the ban was imposed by the Pakistani government, not by Google.
-3. The article also mentions that Google has launched a Pakistan-specific version of YouTube, but there is no mention of Google lifting a ban on its search service.
-4. The summary is not supported by the information in the article, as there is no mention of Google lifting a ban on its search service.
-5. Therefore, the summary is not consistent with the article and may be incorrect or misleading.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that YouTube has been unblocked in Pakistan, not Google's search service. Therefore, the statement "google has lifted a ban on google's search service in pakistan" is not accurate.
+2. The article does not mention anything about the Pakistani government blocking Google's search service. The ban was only on YouTube. Therefore, the phrase "country's government" is also not accurate.
+3. The summary states that Google has lifted the ban on YouTube in Pakistan, which is not consistent with the article. The article states that YouTube has been unblocked in Pakistan, but it does not mention anything about Google lifting a ban.
+
+Therefore, the consistency issues in the summary are:
+
+* "country's government" - the article does not mention the Pakistani government blocking Google's search service.
+* "search service" - the article only mentions YouTube, not Google's search service.
 
 ###Corrected:

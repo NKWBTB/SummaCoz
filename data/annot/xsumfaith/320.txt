@@ -24,12 +24,20 @@ Russia has demanded an apology from Turkey and in the meantime has imposed sanct
 a russian jet has been shot dead by a russian jet jet in the syrian capital, ankara, officials say.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "by a russian jet jet",
+  "by a russian jet",
+  "capital, ankara"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The article states that the Su-24 jet was shot down by F-16 fighters on November 24th, while the summary claims that a Russian jet was shot down in the Syrian capital, Ankara. This is inconsistent as Ankara is not a location in Syria, and the Su-24 was shot down in Syrian airspace, not in Ankara.
-2. The article states that both crew members ejected, but the pilot was killed by militants on the ground, while the navigator was rescued. The summary does not mention anything about the crew or their fate.
-3. The article mentions that Russia has imposed sanctions on Turkey, including a ban on package holidays, in response to the downing of the Su-24. The summary does not mention any sanctions or diplomatic fallout.
+1. "by a Russian jet jet" - This phrase is inconsistent because it implies that a Russian jet shot down another Russian jet, which is not possible. The article states that the Su-24 was shot down by F-16 fighters, not another Russian jet.
+2. "by a Russian jet" - This phrase is also inconsistent because it implies that a Russian jet shot down the Su-24, which is not accurate. The article states that the Su-24 was shot down by F-16 fighters.
+3. "capital, Ankara" - This phrase is inconsistent because the Su-24 was shot down in Syria, not in Ankara, which is the capital of Turkey. The article does not mention Ankara at all.
 
-Therefore, the summary is not consistent with the article as it contains inaccurate information about the location of the incident, the fate of the crew, and the diplomatic fallout.
+Therefore, the summary is not consistent with the article because it contains several inaccuracies and inconsistencies.
 
 ###Corrected:

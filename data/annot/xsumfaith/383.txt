@@ -18,12 +18,19 @@ A missing persons database shows that Mr Hernandez said he was taking his son to
 the father of a 12-year-old boy who went missing in ohio has been arrested in ohio, authorities say.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "12-year-old"
+]
 
-1. The summary states that the father of a 12-year-old boy who went missing in Ohio has been arrested.
-2. However, the article states that the boy, Julian Hernandez, disappeared when he was five and is now 18, living with his father in Cleveland.
-3. This implies that the father, Bobby Hernandez, was arrested for something related to the disappearance of his son, but the summary does not mention this.
-4. Instead, the summary only states that the father was arrested in Ohio, without providing any information about the reason for his arrest.
-5. Therefore, the summary is not consistent with the article, as it does not accurately convey the information about the father's arrest and the reason for it.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the boy, Julian Hernandez, disappeared when he was five years old, not 12.
+2. The summary incorrectly states that the father was arrested in Ohio, while the article states that he was arrested in Alabama.
+3. The summary mentions that the boy went missing in Ohio, but the article does not mention this. Instead, it states that the boy was last seen in August 2002 when his father said he was taking him to pre-school, but then fled.
+4. The summary does not mention the fact that the father is also charged with tampering with records in Ohio so he could obtain a driver's license in 2012.
+
+Overall, the summary contains several inconsistencies with the article, including the age of the boy, the location of the arrest, and the details of the father's charges.
 
 ###Corrected:

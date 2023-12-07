@@ -35,14 +35,26 @@ A spokeswoman for the Department for Communities and Local Government said local
 a letting agency has been paid more than # 5.5 m in housing benefit after its owner set up a charity to help the homeless, the bbc has learned.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "5.5 m",
+  "bbc",
+  "bbc has learned"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that a letting agency has been paid more than £5.5m in housing benefit, but the article does not mention this amount.
-2. The summary mentions that the owner of the letting agency set up a charity to help the homeless, but the article does not mention this.
-3. The summary does not provide any specific details about the relationship between the letting agency and the charity, while the article explains that the charity refers clients to the letting agency and that the agency makes a profit by housing multiple unrelated people in one property and charging housing benefit for each person.
-4. The summary does not mention the issues with the properties that the tenants have faced, such as lack of heating and hot water, rats, and dampness.
-5. The summary does not mention the fact that the council has paid nearly half of the money to the letting agency over the past two years.
+1. "5.5 m": The summary states that the letting agency has been paid more than £5.5 million in housing benefit, but the article does not provide a specific figure. The article only mentions that Investing Solutions has received "nearly half" of its benefit payments over the past two years from Wandsworth Council, which amounts to over £2.1 million. Therefore, the figure of £5.5 million is not supported by the article.
+2. "bbc": The summary mentions the BBC, but the article does not mention the BBC at all. The article only refers to "the company" and "the local authorities" without specifying which ones.
+3. "bbc has learned": The summary suggests that the BBC has learned something, but the article does not mention the BBC learning anything. The article presents the information as already known and verified.
 
-Therefore, the summary is not consistent with the article because it does not provide accurate information about the relationship between the letting agency and the charity, the amount of money involved, and the issues with the properties. The summary is misleading and does not give a true representation of the article's content.
+Therefore, the summary contains inconsistencies with the article in the following respects:
+
+* The figure of £5.5 million is not supported by the article.
+* The BBC is not mentioned in the article.
+* The phrase "bbc has learned" is not applicable to the article.
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

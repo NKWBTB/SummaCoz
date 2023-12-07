@@ -25,13 +25,18 @@ One million homes were powered by Fawley
 plans have been submitted for a glass tower on the edge of southampton seafront.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "tower",
+  "edge"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the power station closed in 2013, but the summary states that plans have been submitted for a glass tower on the edge of Southampton seafront, which implies that the power station is still in operation.
-2. The article mentions that the power station was commissioned in 1971 and was capable of powering one million homes, but the summary does not mention any of these details.
-3. The article states that the 300-acre site was sold to Fawley Waterside developers in 2016, but the summary does not mention this information.
-4. The article mentions that the developers plan to build a "merchant city" development featuring a marina, housing, and restaurants, but the summary only mentions a glass tower on the edge of Southampton seafront.
+1. "tower": The article mentions a "petal-shaped glass structure" but not a "tower". The summary is inconsistent with the article because it only mentions a "tower".
+2. "edge": The article does not mention anything about the power station being located on the "edge" of Southampton seafront. The summary is inconsistent with the article because it implies that the power station is located on the edge of the seafront, which is not supported by the article.
 
-Therefore, the summary is not consistent with the article because it does not provide accurate information about the power station, such as its closure date, capacity, and the fact that it is no longer in operation. Additionally, the summary only mentions a glass tower, whereas the article mentions a larger development plan.
+Therefore, the summary is not consistent with the article because it contains two inaccuracies: it only mentions a "tower" instead of a "petal-shaped glass structure", and it implies that the power station is located on the edge of the seafront, which is not supported by the article.
 
 ###Corrected:

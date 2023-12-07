@@ -20,13 +20,20 @@ In January shots were fired at houses in two separate incidents in the same stre
 a man is in a critical condition in hospital after being shot in the head in north belfast.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a man is in a critical condition in hospital after being shot in the head in north belfast",
+  "critical condition",
+  "head in north belfast"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the shooting took place in Sheffield, England, while the summary states that the shooting took place in North Belfast. This is a clear inconsistency.
-2. The article describes the victim as being shot in the chest, while the summary states that the victim was shot in the head. This is another inconsistency.
-3. The article mentions that the shooting took place in the Upperthorpe area of Sheffield, while the summary does not provide any information about the location of the shooting.
-4. The article states that the victim was taken to Northern General Hospital, while the summary does not provide any information about the victim's medical condition or where they were taken for treatment.
+1. "a man is in a critical condition in hospital after being shot in the head in north belfast" - This sentence is not consistent with the article because the article is about a shooting in Sheffield, England, not in North Belfast.
+2. "critical condition" - This phrase is not mentioned in the article. The article only states that the victim was taken to Northern General hospital, but it does not provide any information about the victim's condition.
+3. "head in north belfast" - This phrase is also not mentioned in the article. The article only mentions that the shooting occurred in Sheffield, not in North Belfast.
 
-Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary is incorrect in several key details, including the location of the shooting, the nature of the victim's injuries, and the victim's medical condition.
+Therefore, the summary is not consistent with the article because it contains information about a shooting in North Belfast, which is not mentioned in the article. Additionally, the summary includes two phrases ("critical condition" and "head in north belfast") that are not supported by the article.
 
 ###Corrected:

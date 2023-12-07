@@ -18,12 +18,19 @@ The last increase in burial space in Oxford was in 1932.
 a council has said it has lost almost £30, 000 to build a new cemetery in oxford.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "almost \u00a330, 000 to build"
+]
 
-1. The summary states that the council has lost almost £30,000 to build a new cemetery in Oxford.
-2. However, the article does not mention anything about the council losing money. Instead, it states that the council has been searching for a suitable new burial site for many years and has run out of suitable land within Oxford.
-3. The article also mentions that two cemeteries still have space, but they are expected to be full by 2018 and 2021.
-4. Therefore, it is clear that the summary is not consistent with the article, as there is no mention of the council losing money. Instead, the article highlights the challenges the council is facing in finding a suitable new burial site.
-5. The discrepancy between the summary and the article is likely due to a misunderstanding or misinterpretation of the information in the article. The article does not mention any financial losses, but rather the challenges the council is facing in finding a new burial site.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that the Oxford City Council has been "searching for a suitable new burial site for many years" and that they have run out of suitable land within Oxford.
+2. The article also states that the council has identified several council-owned sites that have been discounted due to various reasons such as size, ground conditions, high water table, or covenant restrictions.
+3. The article does not mention anything about the council losing £30,000 to build a new cemetery.
+4. Therefore, the statement in the summary "a council has said it has lost almost £30, 000 to build a new cemetery in oxford" is not supported by the article.
+
+The consistency issue in the summary is that the statement about the council losing £30,000 is not accurate and is not supported by the information in the article.
 
 ###Corrected:

@@ -17,13 +17,18 @@ PC Siobhan Pellett said: "The ease with which these people seem to be able to ga
 a man from stranraer has been conned out of the internet by a stranger who stole more than # 1m.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "more than # 1m",
+  "man"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that a man from Stranraer was conned out of the internet by a stranger who stole more than £1 million.
-2. The article does not mention any incident where a man from Stranraer was conned out of the internet. Instead, it reports two incidents where elderly women were targeted by scammers claiming to be from BT technical support.
-3. The article states that the scammers gained remote access to the victims' computers and stole substantial amounts of money. However, there is no mention of any incident where a man from Stranraer lost more than £1 million.
-4. The article emphasizes the importance of being cautious when answering cold calls from people claiming to be from technical support, and never giving out banking details or account numbers over the phone.
+1. "more than # 1m": The article states that the victim lost "substantial" amounts of money, but it doesn't specify the exact amount. The summary, on the other hand, states that the victim was conned out of "more than # 1m". This is inconsistent with the article, as it implies that the victim lost a specific amount (# 1m) when the article only states that the amount was "substantial".
+2. "man": The article states that the victim was a woman from Stranraer, while the summary states that the victim was a man from Stranraer. This is inconsistent with the article, as it incorrectly gendered the victim.
 
-Therefore, the summary is not consistent with the article because it describes an incident that does not exist in the article. The article only reports two incidents involving elderly women being targeted by scammers, and does not mention any incident involving a man from Stranraer losing more than £1 million.
+Therefore, the summary has consistency issues with the article.
 
 ###Corrected:

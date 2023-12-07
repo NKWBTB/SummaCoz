@@ -55,12 +55,18 @@ Deaths - probable, confirmed and suspected
 the world\'s most deadly drug lord, the world\'s most deadly drug crash in the mediterranean sea, is one of the most survivors of the world war.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the world\\'s most deadly drug lord, the world\\'s most deadly drug crash in the mediterranean sea, is one of the most survivors of the world war"
+]
 
-1. The article is about a man who survived the civil war in Sierra Leone, was a former child soldier, and later became a leader in his community during the Ebola outbreak.
-2. The summary is not consistent with the article because it mentions nothing about the man's experiences during the civil war or his work during the Ebola outbreak. Instead, it mentions a "drug lord" and a "drug crash" in the Mediterranean Sea.
-3. The summary is not supported by any information in the article. The article does not mention anything about drugs or a drug lord, and it does not mention the Mediterranean Sea.
-4. The article is focused on the man's personal story and his experiences during the civil war and the Ebola outbreak, while the summary is focused on a completely different topic.
-5. Therefore, the summary is not consistent with the article and does not accurately reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary has consistency issues:
+
+1. "the world's most deadly drug lord" is not a consistent phrase with the article. The article does not mention anything about drug lords or drugs.
+2. "the world's most deadly drug crash in the mediterranean sea" is also not consistent with the article. The article does not mention anything about a drug crash or the Mediterranean sea.
+3. "is one of the most survivors of the world war" is not consistent with the article because the article does not mention anything about a world war or survivors of a world war.
+
+Overall, the summary is not consistent with the article because it contains phrases that are not present in the article. It seems like the person who created the summary may have taken information from a different source or mixed up information from different sources.
 
 ###Corrected:

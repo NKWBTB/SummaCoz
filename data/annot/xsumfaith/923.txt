@@ -18,12 +18,19 @@ The novelist died at his Glasgow home on 5 December.
 william mcilvanney has been honoured with a new # [UNK] m facility in ayrshire to honour mark mcilvanney\'s novel.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "honour mark mcilvanney\\'s novel"
+]
 
-1. The summary states that the new facility is being built to honor William McIlvanney's novel.
-2. However, the article does not mention anything about a novel by William McIlvanney.
-3. The article only mentions that the council wants to name the campus after William McIlvanney because he was born and educated in Kilmarnock and was a renowned writer.
-4. The article highlights McIlvanney's achievements as a writer, including his contributions to Scottish literature and his influence on political and sporting life in Scotland.
-5. Therefore, the summary is not consistent with the article because it mentions a novel that does not exist and is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the new £45m facility in Ayrshire will be named after William McIlvanney, a renowned writer who was born and educated in Kilmarnock.
+2. The article does not mention anything about honoring Mark McIlvanney's novel. In fact, there is no mention of Mark McIlvanney at all in the article.
+3. The summary states that the new facility will honor Mark McIlvanney's novel, which is not supported by the article.
+4. Therefore, the summary is not consistent with the article, as it contains information that is not present in the article.
+
+Overall, the inconsistency in the summary is due to the fact that it refers to Mark McIlvanney and his novel, which are not mentioned in the article.
 
 ###Corrected:

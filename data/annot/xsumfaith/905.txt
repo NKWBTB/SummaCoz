@@ -20,12 +20,19 @@ It operates three ferries and two cargo boats to the Northern Isles on a route w
 serco\'s chief executive has said he is ``very pleased\'\'to see the national minimum wage for the northern isles freight contract.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "chief executive"
+]
 
-1. The summary states that Serco's chief executive is "very pleased" to see the national minimum wage for the Northern Isles freight contract.
-2. However, the article does not mention Serco's chief executive being pleased about the national minimum wage. Instead, it quotes Transport Minister Humza Yousaf as saying that the new charter arrangement will allow the wage issue to be resolved and all crew members will be paid at least the minimum wage.
-3. Therefore, the summary is not consistent with the article because it attributes a statement to Serco's chief executive that is not present in the article.
-4. The article states that the new charter arrangement will come into force early next month, subject to some financial and regulatory details being finalized. However, the summary does not mention this detail.
-5. Therefore, the summary is not a complete summary of the article, as it omits important information about the new charter arrangement and the timeline for its implementation.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Transport Minister Humza Yousaf said a new charter arrangement would end the long-running row over seafarers' pay.
+2. The summary states that Serco's chief executive is "very pleased" to see the national minimum wage for the Northern Isles freight contract.
+3. The article does not mention anything about the chief executive of Serco being pleased about the national minimum wage. Instead, it quotes Transport Minister Humza Yousaf as saying that he is pleased to see an agreement in place to end the long-running issue over seafarers' pay.
+4. Therefore, the statement in the summary that Serco's chief executive is "very pleased" to see the national minimum wage for the Northern Isles freight contract is not supported by the article.
+
+Overall, the summary is not consistent with the article because it attributes a quote to Serco's chief executive that is not present in the article.
 
 ###Corrected:

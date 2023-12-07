@@ -25,12 +25,26 @@ Speaking about the latest quake, Dr Brian Baptie, head of seismology at the BGS,
 the uk\'s oil and gas authority (nda) has confirmed it is investigating the discovery of a massive earthquake in the uk.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the uk\\'s oil and gas authority (nda) has confirmed it is investigating the discovery of a massive earthquake in the uk"
+]
 
-1. The summary states that the UK's oil and gas authority (NDA) is investigating the discovery of a massive earthquake in the UK.
-2. However, the article does not mention the NDA or any investigation.
-3. The article does mention that Cuadrilla, the firm behind the fracking operations, has suspended drilling as a precaution after a 1.5 magnitude tremor, and that the British Geological Survey (BGS) is monitoring the situation.
-4. The summary is not consistent with the article because it mentions the NDA and an investigation, while the article does not mention these things.
-5. Therefore, the summary is not accurate and does not reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Cuadrilla, the firm behind the fracking operations, has suspended drilling due to a 1.5 magnitude tremor that was detected.
+2. The British Geological Survey (BGS) has confirmed that the tremor was caused by fracking and has called for a halt to the operations.
+3. The article quotes Mark Miller, chief executive of Cuadrilla Resources, as saying that the company takes its responsibilities seriously and will examine the data collected by the BGS before deciding whether to resume drilling.
+4. The article also mentions that there have been two small earthquakes in Lancashire since fracking began in March, including the latest on Friday.
+5. However, the summary states that the UK's oil and gas authority (NDA) has confirmed it is investigating the discovery of a massive earthquake in the UK.
+
+The issue with the summary is that there is no mention of the NDA in the article. The article only mentions that Cuadrilla has suspended drilling and that the BGS has called for a halt to the operations. There is no mention of any investigation by the NDA. Therefore, the summary is not consistent with the article.
+
+The inconsistency is in the following spans:
+
+"the uk's oil and gas authority (nda) has confirmed it is investigating the discovery of a massive earthquake in the uk"
+
+These spans are not present in the article and are therefore not supported by the information in the article.
 
 ###Corrected:

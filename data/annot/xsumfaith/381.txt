@@ -19,16 +19,18 @@ Metres away people are gathered around the girl, holding her head and stroking h
 an elephant has died after being hit by a elephant at a zoo in the us state of idaho.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "elephant",
+  "idaho"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the elephant did not die, but the girl who was hit by the stone thrown by the elephant did die.
+1. "elephant": The article states that an elephant was involved in the incident, but the summary incorrectly states that an elephant died. This is a consistency issue because the summary claims that an elephant died, but the article does not support this.
+2. "idaho": The article does not mention the state of Idaho at all. The summary incorrectly includes this location, which is not supported by the article.
 
-2. The summary states that an elephant died, which is not consistent with the article.
-
-3. The article mentions that the elephant threw a stone and the girl was hit, but the summary states that an elephant died.
-
-4. The article does not mention any death of an elephant, only the death of the girl.
-
-5. Therefore, the summary is not consistent with the article, and it is likely that the summary is incorrect.
+Therefore, the two spans highlighted in the consistency issues are incorrect because they are not supported by the article. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

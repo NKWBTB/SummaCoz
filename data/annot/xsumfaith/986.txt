@@ -12,10 +12,20 @@ The A96 was closed in the area for several hours, but it has since reopened.
 a man has been taken to hospital after being hit by a car in the a96 area of glasgow.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "glasgow",
+  "hit by a car",
+  "a96 area"
+]
 
-1. The summary states that the man was hit by a car in the A96 area of Glasgow.
-2. The article does not mention that the man was hit by a car. Instead, it states that the man was taken to the hospital with serious but not life-threatening injuries, and that the A96 was closed for several hours.
-3. Therefore, the summary is not consistent with the article because it implies that the man was hit by a car, while the article does not confirm this.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "glasgow" is not consistent with the article because the article does not mention the city of Glasgow. The incident occurred near Dr Gray's Hospital, which is located in Elgin, Scotland.
+2. "hit by a car" is not consistent with the article because the article states that the man was taken to the hospital with what police said were serious but not life-threatening injuries. It does not mention that he was hit by a car.
+3. "a96 area" is not consistent with the article because the article does not mention the A96 road or any area related to it. The incident occurred near Dr Gray's Hospital, which is not located near the A96.
+
+Therefore, the summary is not consistent with the article because it contains information that is not supported by the article. The correct summary should only include information that is explicitly stated in the article.
 
 ###Corrected:

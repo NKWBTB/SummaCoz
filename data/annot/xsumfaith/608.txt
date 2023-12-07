@@ -34,14 +34,22 @@ Media playback is not supported on this device
 england produced a flawless performance to beat pakistan by 330 runs in the second test, says former captain michael vaughan.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "former captain ",
+  "ormer captain ",
+  "former captain michael ",
+  "former captain michael"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that England produced a flawless performance to beat Pakistan by 330 runs in the second Test.
-2. However, the article states that Pakistan were bowled out for 234 on Monday, and England won the match by 330 runs.
-3. The summary does not mention Pakistan's bowling or their second innings, which is inconsistent with the article.
-4. The article provides details about England's batting, including Joe Root's man of the match performance and Alastair Cook's contributions.
-5. The summary does not mention any of these details, which suggests that it is not a accurate summary of the article.
+1. "former captain": The summary states "former captain michael vaughan," but the article never mentions Michael Vaughan as a former captain. He is only referred to as a former England batsman. Therefore, this phrase is inconsistent with the article.
+2. "ormer captain": This is a typo in the summary, and it should read "former captain."
+3. "former captain michael": This phrase is inconsistent with the article because Michael Vaughan is not referred to as a former captain. He is only referred to as a former England batsman.
+4. "former captain michael": This is the second instance of the inconsistent phrase in the summary.
 
-Therefore, the summary is not consistent with the article because it does not provide a comprehensive summary of the match, and it does not mention important details about England's batting and Pakistan's bowling.
+Overall, the summary is not consistent with the article because it uses phrases that are not supported by the text. Specifically, it refers to Michael Vaughan as a former captain, which is not accurate according to the article.
 
 ###Corrected:

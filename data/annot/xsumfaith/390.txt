@@ -17,12 +17,20 @@ Erin is due to return to the UK within the next month for a transplant at the Ro
 a woman who was treated for leukaemia after being diagnosed with leukaemia has said she is ``lucky to be alive\'\'.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "``lucky to be alive\\'\\'",
+  "lucky to be alive",
+  "said"
+]
 
-1. The summary states that the woman was treated for leukaemia and is "lucky to be alive."
-2. However, the article states that the woman is in remission after receiving gene editing therapy, and doctors have told her parents that she is now cancer-free.
-3. The summary does not mention anything about the woman being in remission or cancer-free, which is a significant inconsistency with the article.
-4. The article also mentions that the woman received CAR T-Cell therapy, which is a specific type of gene editing therapy, but the summary does not mention this detail.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the woman's current health status or the treatment she received.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "``lucky to be alive\'\'" - The quotation marks in the summary are not consistent with the article. In the article, the quote is written as "I'm so glad I pushed for her to get on the trial here at Seattle, if I hadn't she wouldn't be here today." The quotation marks in the summary are not accurate and do not match the quote in the article.
+2. "lucky to be alive" - The phrase "lucky to be alive" is not in the article. The article states that Erin is "in remission" after receiving gene editing therapy, but it does not mention anything about being "lucky to be alive."
+3. "said" - The summary states that Erin "said" she is "lucky to be alive," but the article does not quote Erin as saying this. The article quotes her mother, Sarah Cross, as saying "I'm so glad I pushed for her to get on the trial here at Seattle, if I hadn't she wouldn't be here today."
+
+Therefore, the summary is not consistent with the article because it contains inaccurate quotation marks, omits important information, and attributes a quote to the wrong person.
 
 ###Corrected:

@@ -19,13 +19,20 @@ He is also working towards his Uefa A coaching licence, which is required to man
 liverpool have appointed former liverpool captain steven gerrard as their new manager.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "liverpool",
+  "former liverpool captain"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that Steven Gerrard is returning to Liverpool as a youth coach in February, but it does not mention anything about him being appointed as the new manager of the club.
-2. The summary states that Liverpool has appointed Steven Gerrard as their new manager, which is not supported by the article.
-3. The article mentions that Gerrard is retiring as a player and is looking to become a manager in the future, but it does not mention any specific appointment as a manager.
-4. The article also mentions that Gerrard is working towards his Uefa A coaching licence, which is required to manage in the Premier League.
+1. The article states that Steven Gerrard is returning to Liverpool as a youth coach, but the summary claims that Liverpool has appointed him as their new manager. This is not consistent with the information in the article.
+2. The article mentions that Gerrard is coming back to Liverpool as a youth coach in February, but the summary does not provide any information about the timing of his appointment.
+3. The article states that Gerrard is working towards his Uefa A coaching licence, but the summary does not mention this.
+4. The article refers to Gerrard as a "former Reds captain", but the summary simply says "former liverpool captain". This is not consistent with the article's use of "Reds" to refer to Liverpool.
 
-Therefore, the summary is not consistent with the article because it makes a claim about Gerrard being appointed as the new manager of Liverpool, which is not supported by the text.
+Overall, the summary does not accurately reflect the information in the article. It is not consistent in its use of language and omits important details, such as the timing of Gerrard's appointment and his current coaching status.
 
 ###Corrected:

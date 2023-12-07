@@ -14,13 +14,18 @@ Tests showed the first foot found in Weston Park East in February was  "probably
 a human limb has been found in a park in bristol.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "bristol",
+  "human"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that a human limb has been found in a park in Bristol.
-2. The article does not mention anything about a human limb being found in a park. Instead, it mentions that a limb was found in a garden in Cranwells Park.
-3. The article also states that the limb has been sent for forensic analysis, which suggests that the police are taking the discovery seriously and are trying to determine its origin.
-4. The summary does not provide any information about the police investigation or the potential significance of the discovery.
+1. "bristol" - The article does not mention the location of the discovery, only that it was found in a garden in Cranwells Park. Therefore, the summary's reference to "bristol" is not supported by the article.
+2. "human" - The article does not explicitly state that the discovered limb is human. While it does mention that the limb was found in a garden, it could potentially be a non-human object or a body part from an animal. Therefore, the summary's reference to "human" is not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it does not accurately convey the information in the article. Specifically, it misleadingly implies that a human limb was found in a park, when in fact the limb was found in a garden. Additionally, the summary does not provide any context or information about the police investigation, which is a significant aspect of the article.
+Overall, the summary contains two inconsistencies with the article: the location of the discovery (Bristol vs. Cranwells Park) and the type of object discovered (human vs. non-human).
 
 ###Corrected:

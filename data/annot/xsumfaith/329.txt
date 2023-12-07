@@ -21,12 +21,20 @@ Tristram Hunt MP, who was involved in the campaign, said the sale was "fantastic
 a collection of art worth more than # 100,000 has been donated to a county durham museum.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a collection of art worth more than # 100,000 has been donated to a county durham museum"
+]
 
-1. The summary states that a collection of art worth more than £100,000 has been donated to a county Durham museum.
-2. However, the article states that the collection was not donated, but rather it was saved from being auctioned off to pay off the pottery firm's pension debt.
-3. The article also states that the collection will remain on display at the museum in Barlaston, Staffordshire, and will be loaned to the Wedgwood Museum.
-4. The summary does not mention anything about the collection being loaned or remaining on display, implying that the collection has been donated permanently to the county Durham museum.
-5. Therefore, the summary is not consistent with the article because it implies that the collection has been donated permanently, while the article states that the collection will remain on display and be loaned to another museum.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that the collection of art, ceramics, manuscripts, letters, and photographs faced being auctioned to help pay off the pottery firm's pension debt.
+2. The article also states that the collection will remain on display at the museum in Barlaston, Staffordshire, and will be loaned to the Wedgwood Museum.
+3. The summary states that a collection of art worth more than £100,000 has been donated to a county Durham museum.
+4. There is no mention of the collection being donated in the article. Instead, the article states that the collection will remain on display at the museum in Barlaston and will be loaned to the Wedgwood Museum.
+5. The summary is not consistent with the article because it states that the collection has been donated, while the article states that the collection will remain on display and will be loaned to another museum.
+
+Therefore, the spans in the summary that have consistency issues are the statement that the collection has been donated to a county Durham museum, as this is not supported by the information in the article.
 
 ###Corrected:

@@ -26,13 +26,18 @@ It said Vallely had created "a void in our family that will never be filled", ad
 a man has been found guilty of murdering a soldier in a " brutal " attack in powys.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a man has been found guilty of murdering a soldier in a \" brutal \" attack in powys"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the man was found guilty of murdering a soldier in a "brutal" attack in Powys.
-2. However, the article states that Vallely was found guilty of manslaughter, not murder.
-3. The summary does not provide any information about the victim's identity or the circumstances of the attack, unlike the article which mentions that the victim was Pte Matthew Boyd and provides details about the attack and the trial.
-4. The summary is not supported by the article, as the article does not mention any "brutal" attack or the man being found guilty of murder.
+1. The article states that Jake Vallely will be sentenced on December 8th, but the summary says that a man has been found guilty of murdering a soldier in a "brutal" attack in Powys. This is not consistent with the article, as the article only mentions that Vallely will be sentenced, not that he has been found guilty.
+2. The article does not use the word "brutal" to describe the attack. Instead, it describes the attack as "a despicable act" that "shocked" the community of Brecon. The summary's use of the word "brutal" is not supported by the article.
+3. The article does not mention Powys at all. The town of Brecon, where the attack took place, is in Powys, but the article does not provide any information about the location of the attack. The summary's mention of Powys is not consistent with the article.
 
-Therefore, the summary is not consistent with the article and is not accurate.
+Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

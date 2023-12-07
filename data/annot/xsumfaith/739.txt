@@ -47,13 +47,20 @@ The Liberal Democrats have called for an urgent review into fire safety and buil
 properties in north kensington should be ``requisitioned if necessary\'\'for people left homeless after the grenfell tower fire, jeremy corbyn says.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "jeremy"
+]
 
-1. The article states that Jeremy Corbyn called for properties in North Kensington to be requisitioned if necessary for people left homeless after the Grenfell Tower fire.
-2. However, the summary only mentions that Corbyn said properties should be requisitioned, without providing any context or information about the reason for his call.
-3. The article provides context and information about the reason for Corbyn's call, stating that he made the request because he is "very angry" about the loss of lives in the fire and wants to ensure that residents are re-housed locally.
-4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail or context about the reason for Corbyn's call.
-5. Additionally, the summary does not mention that Corbyn was speaking specifically about the Grenfell Tower fire and the need for re-housing local residents, which is a key point in the article.
-6. Overall, the summary does not accurately reflect the content of the article and is not a consistent representation of the information provided.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's the reasoning behind the consistency issues in the summary:
+
+1. "jeremy" should be "Jeremy" (capitalized) because it refers to Jeremy Corbyn, a proper noun.
+
+The rest of the summary is consistent with the article, but the inconsistency in capitalizing "jeremy" stands out. To fix this, the summary should be:
+
+"Properties in North Kensington should be'requisitioned if necessary' for people left homeless after the Grenfell Tower fire, Jeremy Corbyn says."
+
+This corrected summary is consistent with the article and avoids the inconsistency in capitalization.
 
 ###Corrected:

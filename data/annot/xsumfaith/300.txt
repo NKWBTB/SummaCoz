@@ -35,12 +35,24 @@ Apple has told the Wall Street Journal that it "plans to more aggressively encou
 apple has announced that it is cracking down a code that allows users to access to their handsets.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "handsets"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's the reasoning behind the consistency issues in the summary:
 
-1. The summary states that Apple has announced a crackdown on a code that allows users to access their handsets, but the article does not mention anything about a crackdown or restricting access to handsets.
-2. The article discusses Apple's implementation of two-factor authentication to prevent cyber-thieves from accessing iCloud backups, but the summary does not mention anything about two-factor authentication or iCloud.
-3. The summary does not provide any specific information about the changes made by Apple, while the article provides detailed information about the changes and their purpose.
+1. "handsets" - The word "handsets" is not present in the original article. The article only mentions "iCloud" and "back-up service" but not "handsets". Therefore, this word is not consistent with the original article.
 
-Therefore, the summary is not consistent with the article. The summary is too general and does not accurately reflect the content of the article. The article discusses Apple's security measures and the changes made to prevent cyber-thieves from accessing iCloud backups, while the summary only mentions a vague "crackdown" on access to handsets.
+Here's a step-by-step breakdown of the reasoning:
+
+a. The summary mentions "handsets" as if it's a feature or service offered by Apple, which is not true.
+
+b. The original article only talks about iCloud and back-up service, but not handsets.
+
+c. Therefore, the word "handsets" is not consistent with the original article.
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

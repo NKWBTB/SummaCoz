@@ -13,12 +13,25 @@ The road was closed between Thursley and Liphook until early evening while offic
 a motorcyclist has been arrested on suspicion of causing death by dangerous driving after a crash between a lorry and a lorry.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a motorcyclist has been arrested on suspicion of causing death by dangerous driving after a crash between a lorry and a lorry",
+  "after a crash between a lorry and a lorry",
+  "lorry and a lorry",
+  "motorcyclist",
+  "a motorcyclist"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The article states that a 32-year-old man was pronounced dead at the scene, but the summary states that a motorcyclist has been arrested. This is inconsistent, as there is no mention of a motorcyclist in the article.
-2. The article states that the crash involved several vehicles, but the summary only mentions a lorry and another lorry. This is inconsistent, as the article mentions more than two vehicles were involved in the crash.
-3. The article states that the 33-year-old man from Waterlooville was arrested on suspicion of causing death by driving without due care and attention, but the summary states that the motorcyclist has been arrested on suspicion of causing death by dangerous driving. This is inconsistent, as the article does not mention dangerous driving, only driving without due care and attention.
+1. The article states that the crash involved several vehicles, but the summary only mentions a lorry and a motorcyclist. This is inconsistent, as the article does not specify that only two vehicles were involved in the crash.
+2. The summary states that the motorcyclist was arrested on suspicion of causing death by dangerous driving, but the article does not mention any details about the motorcyclist's involvement in the crash or their potential role in causing the death. The article only mentions that a 33-year-old man from Waterlooville was arrested on suspicion of causing death by driving without due care and attention.
+3. The summary mentions "a crash between a lorry and a lorry", which is not consistent with the article, which states that the crash involved several vehicles. Additionally, the article does not mention any details about the crash involving two lorries.
+4. The summary refers to "lorry and a lorry", which is a repetition of the same word and is not consistent with the article.
+5. The summary mentions "motorcyclist", but the article does not use this word to describe the person who was arrested. Instead, the article uses the phrase "33-year-old man from Waterlooville".
+6. The summary mentions "a motorcyclist", but the article does not provide any information about the identity of the person who was arrested or their mode of transportation.
 
-Therefore, the summary is not consistent with the article.
+Overall, the summary is not consistent with the article because it contains inaccuracies and inconsistencies regarding the details of the crash and the person who was arrested.
 
 ###Corrected:

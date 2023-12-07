@@ -16,13 +16,28 @@ He added: "There are a number of other shops in this area and people may have se
 two men have been arrested on suspicion of attempted murder after a robbery at a post office in glasgow.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "glasgow",
+  "arrested on suspicion of attempted murder"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the suspects are white, but the summary does not mention the race of the suspects.
-2. The article states that the suspects threatened a member of staff with a knife and demanded money, but the summary only mentions attempted murder.
-3. The article states that the suspects escaped with the cash, but the summary does not mention this detail.
-4. The article states that the police are carrying out door-to-door inquiries and collecting CCTV images, but the summary does not mention any of these details.
+1. The article states that the robbery took place in Quarrywood Avenue, in the Barmulloch area of Glasgow.
+2. The summary states that the robbery took place in Glasgow.
 
-Therefore, the summary is not consistent with the article because it does not include all the important details mentioned in the article. Additionally, the summary mentions attempted murder, which is not mentioned in the article.
+Consistency issue: The summary does not provide the specific location of the robbery, which is mentioned in the article as Quarrywood Avenue, Barmulloch area of Glasgow.
+
+1. The article states that the suspects were not arrested on suspicion of attempted murder. Instead, they were arrested on suspicion of robbery.
+2. The summary states that the two men were arrested on suspicion of attempted murder.
+
+Consistency issue: The summary incorrectly states that the suspects were arrested on suspicion of attempted murder, whereas the article states that they were arrested on suspicion of robbery.
+
+Therefore, the two consistency issues in the summary are:
+
+1. Failure to provide the specific location of the robbery (Glasgow is a broad location, but Quarrywood Avenue and Barmulloch area are more specific).
+2. Incorrectly stating that the suspects were arrested on suspicion of attempted murder, whereas the article states that they were arrested on suspicion of robbery.
 
 ###Corrected:

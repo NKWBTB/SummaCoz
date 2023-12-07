@@ -15,12 +15,22 @@ For the first time at the World Championships, 'coaches medals' will also be han
 the world championships medals that will be won in london this summer have been revealed, with a shape based on the curves of an athletics track.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "shape based on the curves of an athletics track",
+  "will be won in london this summer have been revealed, with a shape based on the curves of an athletics track",
+  "summer",
+  "\\nthe world championships medals that will be won in london this summer have been revealed, with a shape based on the curves of an athletics track"
+]
 
-1. The summary states that the World Championships medals have been revealed and have a shape based on the curves of an athletics track.
-2. The article does not mention anything about the shape of the medals or their design being based on an athletics track.
-3. Instead, the article mentions that the medals will feature symbols of every event, including Tower Bridge, the London Eye, the Shard, and Big Ben, and that the reverse will be inscribed with braille.
-4. The article also mentions that the medals will be similar to those awarded at the World Para Athletics Championships, but with distinctive disability sport equipment such as a prosthetic running leg and throwing chair.
-5. Therefore, the summary is not consistent with the article because it does not accurately describe the design or features of the medals.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. "shape based on the curves of an athletics track" - The article does not mention anything about the shape of the medals being based on the curves of an athletics track. The article only mentions that the medals will feature symbols of every event, the London skyline, and the London Stadium, but does not mention the shape of the medals.
+2. "will be won in london this summer have been revealed, with a shape based on the curves of an athletics track" - This sentence is a combination of two separate sentences from the article: "The event takes place from 4-13 August" and "Medals at July's World Para Athletics Championships, taking place from 14-23 July, will be similar, but feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair." The sentence is not present in the article as it is written.
+3. "summer" - The article does not mention anything about summer. The event takes place from 4-13 August and 14-23 July, but the article does not use the word "summer".
+4. "the world championships medals that will be won in london this summer have been revealed, with a shape based on the curves of an athletics track" - This sentence is a combination of two separate sentences from the article: "The event takes place from 4-13 August" and "Medals at July's World Para Athletics Championships, taking place from 14-23 July, will be similar, but feature distinctive disability sport equipment such as a prosthetic running leg and throwing chair." The sentence is not present in the article as it is written.
+
+Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and combines two separate sentences from the article into one sentence.
 
 ###Corrected:

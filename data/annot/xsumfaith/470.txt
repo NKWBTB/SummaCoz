@@ -24,14 +24,18 @@ David Thomas from Trinity Laban Conservatoire of Music and Dance, London added: 
 tributes have been paid to british composer michael handel, who has died at the age of 89.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "age of 89",
+  "michael"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the provided summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary mentions "British composer Michael Handel" who has died, but the article does not mention any composer named Michael Handel. Instead, it refers to the death of Christopher Hogwood, a conductor and keyboard player.
-2. The summary states that Hogwood died at the age of 89, but the article does not mention his age.
-3. The summary mentions "tributes have been paid" to Hogwood, but the article does not include any quotes or statements from individuals paying tribute to him.
-4. The summary does not provide any specific information about Hogwood's career or achievements, while the article provides detailed information about his background, accomplishments, and legacy.
+1. "age of 89": The article states that Christopher Hogwood died at his home in Cambridge following an illness lasting several months, but it does not mention his age. Therefore, the statement in the summary that he died at the age of 89 is not supported by the article.
+2. "michael": The article does not mention the name "Michael Handel" anywhere. The correct name of the person who died is Christopher Hogwood, not Michael Handel.
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions that do not accurately represent the content of the article.
+Therefore, the summary is not consistent with the article because it contains two inaccuracies: the age of the person who died and the name of the person who died.
 
 ###Corrected:

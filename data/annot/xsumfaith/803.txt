@@ -16,13 +16,28 @@ It was at the Shanghai Masters last year that Kyrgios was fined $1,500 (£984) f
 world number one mark kyrgios said he was ``very tired\'\'at his time as he made history in the first round of the shanghai masters.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "made history",
+  "mark",
+  "history in the first round",
+  "world number one",
+  "of the shanghai masters",
+  "history in the first round of the shanghai masters",
+  "one mark"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that Kyrgios beat Querrey in 53 minutes, which is a relatively short time for a tennis match.
-2. The article quotes Kyrgios as saying he was "just tired" and "wanted to get the job done." This suggests that Kyrgios did not have a particularly difficult time in the match.
-3. The summary states that Kyrgios was "very tired" at his time, which is not supported by the article. The article does not mention Kyrgios being tired at all.
-4. The summary also states that Kyrgios made history in the first round of the Shanghai Masters, which is not accurate. The article only mentions that Kyrgios beat Querrey in the first round.
+1. "made history" - The article does not mention that Kyrgios "made history" in the first round of the Shanghai Masters. While he did win the tournament and achieved a career-high ranking, there is no mention of him making history.
+2. "mark" - The article does not use the word "mark" to refer to Kyrgios. The correct name of the tennis player is Nick Kyrgios, not "mark."
+3. "history in the first round" - The article does not mention that Kyrgios made history in the first round of the Shanghai Masters. While he did win the tournament, there is no mention of him making history in the first round specifically.
+4. "world number one" - The article does not mention that Kyrgios is the "world number one." While he is ranked 12th in the world, there is no mention of him being the number one player.
+5. "of the shanghai masters" - The article does not mention the "shanghai masters" in this context. The correct phrase is "Shanghai Masters."
+6. "history in the first round of the shanghai masters" - This phrase is a combination of two incorrect statements. The article does not mention that Kyrgios made history in the first round, and it does not mention the "shanghai masters" in this context.
+7. "one mark" - The article does not use the phrase "one mark" to refer to Kyrgios. The correct name of the tennis player is Nick Kyrgios.
 
-Therefore, the summary is not consistent with the article because it contains information that is not supported by the text. The summary should be revised to accurately reflect the content of the article.
+Therefore, the summary is not consistent with the article because it contains several inaccuracies and exaggerations.
 
 ###Corrected:

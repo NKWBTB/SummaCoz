@@ -20,13 +20,20 @@ Check if this is affecting your journey
 thousands of people have been left without power in north wales as storm doris sweeps across wales.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "doris",
+  "storm doris",
+  NaN
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "thousands of people have been left without power in north Wales."
-2. The article does not mention any power cuts or outages in north Wales.
-3. The article does mention that hundreds of homes across Wales experienced power cuts, but it does not specify any specific region or area, including north Wales.
-4. Therefore, the statement in the summary is not supported by the information in the article, and it is an exaggeration or inaccuracy.
+1. "thousands of people have been left without power in north wales" - This statement is not consistent with the article because the article does not mention any power outages in north Wales.
+2. "as storm doris sweeps across wales" - This statement is inconsistent with the article because the article does not mention any storm named "Doris" affecting Wales.
+3. "NaN" - This is not a valid statement and does not appear in the article.
 
-Conclusion: The summary is not consistent with the article because it mentions power outages in north Wales, which is not supported by the information in the article.
+Therefore, the summary is not consistent with the article because it contains inaccurate information about power outages and a nonexistent storm.
 
 ###Corrected:

@@ -27,12 +27,20 @@ Mr Farage has denied her ban was due to criticism of him.
 ukip leader ched evans has ruled herself out of the race to become the party\'s next leader.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "leader",
+  "ched",
+  "ruled herself out"
+]
 
-1. The summary states that Ched Evans has ruled herself out of the race to become the next leader of UKIP.
-2. However, the article states that Ms. Evans would "very much like" to run for the leadership position, but claims that a "handful of people at the top" have ensured she cannot.
-3. The article also mentions that Ms. Evans is currently suspended from the party, which is a reason why she cannot stand for the leadership position.
-4. Therefore, the summary is not consistent with the article because it states that Ms. Evans has ruled herself out of the race, while the article indicates that she would like to run but is unable to due to her suspension and the actions of "a handful of people at the top."
-5. The inconsistency is due to the fact that the summary does not accurately reflect the article's information about Ms. Evans' desire to run for the leadership position and the reasons why she cannot do so.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. "leader": The article never mentions anything about Cheryl Evans being a leader or ruling herself out of the race. In fact, the article states that she would "very much like" to run but claims she cannot due to her suspension.
+2. "ched": There is no mention of Cheryl Evans' name being spelled as "ched" in the article. The correct spelling of her name is "Cheryl".
+3. "ruled herself out": The article does not mention Cheryl Evans ruling herself out of the race. Instead, it states that she would like to run but cannot due to her suspension.
+
+Therefore, the summary has consistency issues in the following spans: "leader", "ched", and "ruled herself out". These errors suggest that the summary may not accurately reflect the content of the article.
 
 ###Corrected:

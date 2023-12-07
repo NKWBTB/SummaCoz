@@ -26,12 +26,20 @@ Other firms, notably Amazon and Google, are now taking us forward with innovativ
 ten years ago i was running from san francisco\'s moscone centre to a nearby hotel to edit a piece for the ten o\'clock news when my phone rang.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "running",
+  "phone rang",
+  "hotel to edit a piece"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that the event occurred "ten years ago," which suggests that the article was written in the present (2017) and looks back at a past event.
-2. The summary mentions the writer running to a nearby hotel to edit a piece for the ten o'clock news, which is not supported by the article. The article does mention the writer heading back to the Moscone Centre to interview Apple's marketing chief Phil Schiller, but there is no mention of running to a hotel to edit a piece.
-3. The summary does not mention the iPhone or any other specific product, which is not consistent with the article, which focuses on the launch of the iPhone and its impact on society.
+1. "running": The article states that the author "headed back to the Moscone Centre" after locating Phil Schiller, which implies that they were walking, not running.
+2. "phone rang": The article does not mention the author's phone ringing. Instead, it states that the author asked Schiller if they could look at the iPhone, and he handed it over.
+3. "hotel to edit a piece": The article does not mention the author going to a hotel to edit a piece. Instead, it states that the author appeared on the Newswatch program to defend their reporting.
 
-Therefore, the summary is not consistent with the article. The writer of the summary appears to have taken creative liberties with the events described, adding details that are not present in the article.
+Therefore, the summary contains several inconsistencies with the article. The author's actions and location were not accurately described in the summary.
 
 ###Corrected:

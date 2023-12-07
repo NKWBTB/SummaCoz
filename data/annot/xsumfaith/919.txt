@@ -32,13 +32,29 @@ But Labour and the Greens both want to see the "hated" council tax scrapped, wit
 the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "minister",
+  "finance minister"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned.
-2. However, the article states that the finance secretary, Derek Mackay, has won the formal backing of a committee for his plans to change the council tax bands.
-3. The article also mentions that the committee rejected an amendment from Green MSP Andy Wightman, which suggests that the finance minister's motion to rethink the council tax base was not successful.
-4. Therefore, the summary is not consistent with the article, as the finance minister's motion was not successful, and the finance secretary's plans were backed by the committee.
+1. The article states that the finance secretary, Derek Mackay, has given evidence to a committee backing the government's plan to change the council tax bands.
+2. The committee has formally recommended the scheme to parliament, and members will submit a report to parliament before the order is voted on by all MSPs.
+3. The article mentions that the finance secretary's plans would lead to a "more progressive" and "fairer" system of local taxation.
+4. However, the article also states that the committee rejected an amendment from Green MSP Andy Wightman noting "concerns" about wider local tax plans.
+5. The summary states that the finance minister has backed a motion calling for the finance secretary to rethink the council tax base planned.
 
-The error in the summary is that it implies that the finance minister's motion was successful, when in fact it was not. The summary should have stated that the finance secretary's plans were backed by the committee, rather than the finance minister's motion being backed.
+The consistency issue arises because there is no finance minister mentioned in the article. The article only mentions the finance secretary, Derek Mackay. The term "finance minister" does not appear anywhere in the article. Therefore, the summary is not consistent with the article because it mentions a nonexistent position.
+
+To fix the consistency issue, the summary should instead say "finance secretary" instead of "finance minister" to ensure consistency with the article. Here's the corrected summary:
+
+<Summary>
+the finance secretary has backed a motion calling for the finance secretary to rethink the council tax base planned.
+</Summary>
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

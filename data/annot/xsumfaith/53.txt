@@ -17,12 +17,22 @@ Police have secured the area where the woman was found and have called for witne
 police in germany have arrested a man in connection with the rape and murder of a german woman.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "rape",
+  "murder",
+  "arrested"
+]
 
-1. The summary states that the police have arrested a man in connection with the rape and murder of a German woman.
-2. However, the article does not mention the word "rape" or "murder" at all.
-3. The article only states that the woman was found lying on the pavement with serious injuries and was flown to a specialist clinic.
-4. The article also mentions that the suspect is in custody, but it does not specify the nature of the crime or the suspect's relationship to the victim.
-5. Therefore, the summary is not consistent with the article because it includes information that is not present in the article (rape and murder) and omits other important details (such as the fact that the suspect is the victim's ex-partner and the motive for the attack is not yet clear).
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "rape": The article does not mention the word "rape." The article states that the woman was found with serious injuries, but it does not specify the nature of those injuries or whether they were the result of sexual assault. Therefore, the summary statement "police in germany have arrested a man in connection with the rape of a german woman" is not supported by the article.
+2. "murder": The article does not mention the word "murder" either. While the woman's injuries are described as serious, there is no information in the article to suggest that she has died. Therefore, the summary statement "police in germany have arrested a man in connection with the murder of a german woman" is also not supported by the article.
+3. "arrested": The article does state that the man is in custody, but it does not use the word "arrested." The article says that the man "handed himself in to authorities," which implies that he voluntarily turned himself in, rather than being arrested by the police. Therefore, the summary statement "police in germany have arrested a man in connection with the rape and murder of a german woman" is not accurate.
+
+In conclusion, the summary has consistency issues because it includes three statements that are not supported by the article: "rape," "murder," and "arrested." To fix these issues, the summary could be revised to more accurately reflect the information in the article. For example:
+
+"Police in Hamelin, in Lower Saxony, say the woman's ex-partner later handed himself in to authorities. The 28-year-old woman, who has not been identified, was found lying on a pavement late on Sunday with serious injuries. She underwent an emergency operation and was flown to a specialist clinic. Police say she had been dragged by the neck through several streets."
 
 ###Corrected:

@@ -13,12 +13,20 @@ The B1191 was closed in both directions between the B1192 Tattershall Road junct
 a motorcyclist has been killed in a collision with a tractor driver in east sussex, police have said.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "east sussex"
+]
 
-1. The article states that the collision occurred in Lincolnshire, specifically on the B1191 at Thornton, near Woodhall Spa.
-2. The summary states that the collision occurred in East Sussex.
-3. These two locations are not the same, and therefore the summary is not consistent with the article.
-4. The article does not mention anything about East Sussex, and the location of the collision is clearly stated as Lincolnshire.
-5. Therefore, the summary is incorrect and does not accurately reflect the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article is about a collision that occurred in Lincolnshire, England, specifically on the B1191 road at Thornton, near Woodhall Spa.
+2. The summary states that the collision occurred in "east sussex", which is a different location from Lincolnshire.
+3. The article does not mention anything about east sussex, so the summary is not consistent with the article.
+4. The word "east sussex" is not supported by any information in the article, and it is not a correct description of the location where the collision occurred.
+5. Therefore, the summary is not consistent with the article, and it contains incorrect information.
+
+Overall, the inconsistency in the summary is due to the incorrect location mentioned in the summary, which is not supported by the article.
 
 ###Corrected:

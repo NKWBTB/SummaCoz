@@ -55,31 +55,19 @@ Foul by Andy Taylor (Blackpool).
 blackpool\'s winless run was extended to five games as they were held at home by fellow league two play-off chasers colchester.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "extended to five games",
+  "two play-off chasers"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Step 1: Identify the main points of the article
+1. The article states that Blackpool and Colchester United played to a 1-1 draw.
+2. The summary states that Blackpool's winless run was extended to five games. This is not consistent with the article, as the game ended in a draw and Blackpool did not lose.
+3. The summary also states that the two teams were "fellow league two play-off chasers." This is not consistent with the article, as the teams are in League One, not League Two.
 
-* Blackpool and Colchester United played a league match
-* Blackpool scored first through Jamille Matt
-* Colchester equalized from a corner kick
-* The score remained 1-1 until the end of the game
-
-Step 2: Identify the main points of the summary
-
-* Blackpool's winless run was extended to five games
-* The team was held at home by Colchester
-
-Step 3: Identify the inconsistencies
-
-* The summary states that Blackpool's winless run was extended to five games, but the article does not mention anything about Blackpool's winless run.
-* The summary states that Blackpool was held at home by Colchester, but the article does not mention anything about Colchester holding Blackpool at home.
-
-Step 4: Analyze the reasons for the inconsistencies
-
-* The summary likely assumed that Blackpool's draw against Colchester meant that their winless run continued, but the article does not explicitly state this.
-* The summary may have also assumed that Colchester held Blackpool at home, based on the fact that the teams played at Blackpool's home stadium.
-
-In conclusion, the summary is not consistent with the article because it contains assumptions that are not supported by the information in the article. The summary should be revised to accurately reflect the information in the article.
+Therefore, the spans in the summary that have consistency issues are "extended to five games" and "two play-off chasers." These statements are not supported by the information in the article and are therefore inconsistent.
 
 ###Corrected:

@@ -13,12 +13,19 @@ The shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes,
 at least three people were wounded, two seriously, when shots were fired in the german city of frankfurt on thursday.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "at least three people were wounded, two seriously, when shots were fired in the german city of frankfurt on thursday"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that "up to a dozen shots" were fired, but the summary only mentions "shots" in the plural form, without specifying the number.
-2. The article states that "at least three people were wounded", but the summary only mentions "two seriously". This implies that the summary is not consistent with the article's statement that at least three people were wounded.
-3. The article mentions that the shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes, but the summary does not provide any information about the location of the shooting.
+1. The article states that "someone opened fire from a passing car" and "witnesses spoke of up to a dozen shots being fired." This implies that there were multiple shooters and multiple shots fired.
+2. The summary states that "at least three people were wounded, two seriously." This implies that there were only three people wounded, which contradicts the article's mention of "up to a dozen shots."
+3. The article does not mention any information about the seriousness of the wounds, while the summary states that two of the wounded were seriously injured. This is not supported by the article.
+4. The article states that the shots were fired in Friedrich-Stoltze Square, a busy area of bars and cafes, while the summary does not provide any information about the location of the shooting.
 
-Therefore, the summary is not consistent with the article because it does not accurately convey all the information provided in the article. Specifically, it understates the number of people wounded and fails to mention the location of the shooting.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the number of people wounded, the seriousness of the wounds, or the location of the shooting.
 
 ###Corrected:

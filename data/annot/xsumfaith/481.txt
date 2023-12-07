@@ -17,11 +17,19 @@ The only remaining deep coal mine in England, Kellingley colliery in North Yorks
 a coal mine in south yorkshire has collapsed as a result of the loss of a coal mine.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "collapsed as a result of the loss of a coal mine"
+]
 
-1. The article states that Hatfield Colliery closed in June with the loss of 430 jobs, but the summary states that a coal mine in South Yorkshire has collapsed. These two statements are not consistent.
-2. The article does not mention any collapse of a coal mine, but instead mentions the closure of Hatfield Colliery due to the loss of the mine.
-3. The summary is not supported by the information in the article, as there is no mention of a collapse of a coal mine in the article.
-4. Therefore, the summary is not consistent with the article, and it appears to be a incorrect or misleading statement.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Hatfield Colliery closed in June with the loss of 430 jobs, but the summary states that the coal mine has collapsed. This is inconsistent, as there is no mention of a collapse in the article.
+2. The article explains that the mine closed due to the loss of the coal mine, but the summary attributes the closure to a collapse. This is also inconsistent, as there is no mention of a collapse as the cause of the closure.
+3. The article mentions that the mine has been running since 1980 and that there were 50,000 miners in South Yorkshire at one point, but the summary makes no mention of these facts. This lack of information is inconsistent with the article, which provides context and history about the mine.
+4. The article quotes John Grogan, the chairman of the Hatfield Employee Benefit Trust, as saying that the mine's closure represents the end of an era and that there will be no more coal mining in South Yorkshire. The summary makes no mention of these quotes or the sentiment behind them. This lack of information is inconsistent with the article, which provides direct quotes and context.
+
+Overall, the summary does not accurately reflect the information in the article. The inconsistencies in the summary suggest that it was not carefully written or reviewed, and that it may not be a reliable representation of the article's content.
 
 ###Corrected:

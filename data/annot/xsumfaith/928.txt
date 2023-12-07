@@ -22,14 +22,21 @@ London Underground said after 100 meetings with unions the number of roles to be
 london underground (tfl) has said it will save more than 250 tube stations as part of a drive to save money.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "save more than 250 tube stations as part of a drive to save money",
+  "more than 250 tube stations as part of a drive to save money"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that London Underground (TfL) is planning to close over 250 ticket offices and move staff to ticket halls and platforms.
-2. The article does not mention anything about saving all 250 stations. Instead, it states that the closures will save £50m annually and are part of a wider drive to save £4.2bn by 2020.
-3. The summary states that London Underground (TfL) has said it will save more than 250 tube stations, which is not supported by the article.
-4. The article only mentions that some ticket offices will be closed, but it does not mention saving all 250 stations.
-5. Therefore, the summary is not consistent with the article because it claims that all 250 stations will be saved, while the article only mentions closing some ticket offices.
+1. The article states that London Underground (TfL) is planning to close over 250 ticket offices and move staff to ticket halls and platforms. This is mentioned in the second paragraph of the article.
+2. The summary states that London Underground (TfL) is planning to save more than 250 tube stations as part of a drive to save money. This is the first sentence of the summary.
+3. The problem with the summary is that it suggests that London Underground (TfL) is planning to save all 250+ ticket offices, when in fact the article states that only 3% of Tube tickets are bought at ticket offices and that the closures are part of a drive to save money.
+4. The article does not mention anything about saving all 250+ ticket offices. Instead, it states that the closures will save £50m annually and that the money will be used to improve the Tube service.
+5. Therefore, the summary is not consistent with the article because it implies that London Underground (TfL) is planning to save all 250+ ticket offices, when in fact the article states that only some of the ticket offices will be closed as part of a drive to save money.
 
-In conclusion, the summary is not accurate because it exaggerates the number of stations that will be saved. The article only mentions closing some ticket offices, not all 250 stations.
+Overall, the summary is not consistent with the article because it exaggerates the number of ticket offices that will be saved and implies that London Underground (TfL) is planning to save all 250+ ticket offices, when in fact the article states that only some of the ticket offices will be closed as part of a drive to save money.
 
 ###Corrected:

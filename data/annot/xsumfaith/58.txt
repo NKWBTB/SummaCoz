@@ -24,14 +24,24 @@ Advice given by young people on dealing with bullying includes:
 the number of uk children who have been abused online has more than trebled in the past year, a charity has said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "uk",
+  "trebled"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the number of children who have been abused online has more than trebled in the past year, according to the NSPCC's Childline service.
-2. However, the summary only states that the number of children who have been abused online has increased, without providing any specific figures or information about the extent of the increase.
-3. Therefore, the summary is not consistent with the article, as it does not provide the same level of detail or specific information about the increase in online abuse.
-4. The article provides specific figures and examples of the types of abuse that children are experiencing online, such as being tormented, abused, and scared to go to school. The summary does not include any of this information.
-5. The article also includes quotes from the president of Childline, Dame Esther Rantzen, who emphasizes the importance of adults, parents, and teachers intervening to protect children from online bullying. The summary does not include any of these quotes or this information.
+1. "uk" - The article does not mention anything about the UK specifically. The NSPCC's Childline service counselled children in the past year, but there is no information about the location of these children. Therefore, the word "uk" should not be included in the summary.
+2. "trebled" - The article does not use the word "trebled" to describe the increase in online abuse. Instead, it states that the number of children counselled by Childline has increased by more than 1,000 compared to the previous year. The correct word to use would be "increased" or "risen", not "trebled".
 
-Overall, the summary does not provide the same level of detail or specific information about online abuse as the article, and therefore is not consistent with the article.
+Therefore, the summary should read:
+
+<Summary>
+The number of children counselled by Childline for online abuse has increased by more than 1,000 in the past year, according to the NSPCC.
+</Summary>
+
+This summary is more accurate and consistent with the information provided in the article.
 
 ###Corrected:

@@ -14,11 +14,26 @@ Subscribe to the BBC Sport newsletter to get our pick of news, features and vide
 world number two novak djokovic has been knocked out of the olympic men\'s doubles in the final in rio.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "knocked out of the olympic",
+  "novak",
+  "olympic men\\'s doubles in the final",
+  "doubles",
+  "final",
+  "two"
+]
 
-1. The article states that Novak Djokovic lost to Argentine Juan Martin del Potro in the singles tournament, but the summary states that he was knocked out of the Olympic men's doubles. This is inconsistent, as Djokovic did not participate in the doubles tournament.
-2. The article also states that Djokovic won his 30th Masters title in Toronto before the Olympics, which is not mentioned in the summary.
-3. Therefore, the summary is not consistent with the article, as it makes reference to Djokovic participating in the doubles tournament and winning a Masters title that he did not actually win.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. "knocked out of the Olympic" - The article does not mention that Djokovic was knocked out of the Olympics. Instead, it states that he lost to Argentine Juan Martin del Potro in the singles.
+2. "novak" - The article refers to Djokovic as "Djokovic" throughout, not "novak".
+3. "olympic men's doubles in the final" - The article does not mention anything about Djokovic playing in the doubles or the Olympics.
+4. "doubles" - The article only mentions Djokovic's singles loss to del Potro, not any doubles match.
+5. "final" - The article does not mention any final match for Djokovic.
+6. "two" - The article does not mention Djokovic's ranking or any specific number of titles he has won.
+
+Therefore, the summary is not consistent with the article because it contains several inaccuracies and exaggerations.
 
 ###Corrected:

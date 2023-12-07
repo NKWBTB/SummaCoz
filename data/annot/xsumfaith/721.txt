@@ -15,12 +15,22 @@ Det Sgt Barry Carr said: "Fortunately the fire was put out quickly and the victi
 a woman had her hair set alight in a ``nasty and extremely dangerous\'\'attack at a mcdonald\'s restaurant in kent, police said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "mcdonald\\'s",
+  "mcdonald\\'s restaurant in kent, police said",
+  "kent"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that the attack was "nasty and extremely dangerous", but the article does not use these words. The article describes the attack as "a nasty and dangerous thing to do", which is a slightly different phrasing.
-2. The summary states that the attack occurred at a McDonald's restaurant in Kent, but the article does not mention the location of the attack. The article only mentions that the attack occurred in Canterbury.
-3. The summary states that the victim's hair was set alight, but the article does not mention this detail. The article only mentions that one of the group set fire to the woman's hair.
+1. "mcdonald's" in the summary should be capitalized as it is a proper noun. The correct spelling is "McDonald's".
+2. "mcdonald's restaurant in kent, police said" in the summary is not consistent with the article because the article does not mention "kent". The location of the assault is specified as "St George's Street, Canterbury", which is not the same as "kent".
+3. "kent" in the summary is not consistent with the article because the article does not mention "kent" at all. The location of the assault is specified as "St George's Street, Canterbury", which is in Kent, but the word "Kent" is not used in the article.
 
-Therefore, the summary is not consistent with the article because it includes details that are not present in the article, and it omits other important details that are present in the article.
+Therefore, the summary is not consistent with the article because it contains errors in capitalization and location. The correct summary should be:
+
+"A woman had her hair set alight in a 'nasty and extremely dangerous' attack at a McDonald's restaurant in Canterbury, police said."
 
 ###Corrected:

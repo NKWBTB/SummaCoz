@@ -35,13 +35,20 @@ Apple has told the Wall Street Journal that it "plans to more aggressively encou
 apple has begun legal action against apple over its use of cyber-thieves \'accounts to allow cyber-thieves to be banned from icloud.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "banned",
+  "legal action against apple over its use of cyber-thieves \\'accounts to allow cyber-thieves to be banned from icloud",
+  "legal action against apple over its use"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's the reasoning step by step:
 
-1. The summary states that Apple has begun legal action against cyber-thieves. This is not consistent with the article, as the article discusses Apple's efforts to improve the security of its iCloud service and protect users' data, but does not mention any legal action against cyber-thieves.
-2. The summary mentions "accounts" being used by cyber-thieves, which is not accurate. The article discusses the use of Elcomsoft's software to access iCloud content, but does not mention anything about "accounts" being used by cyber-thieves.
-3. The summary suggests that Apple is taking legal action against the cyber-thieves to ban them from iCloud. This is not consistent with the article, which discusses Apple's efforts to improve the security of its iCloud service and protect users' data, but does not mention any legal action against cyber-thieves.
-4. The article discusses Apple's decision to make two-factor authentication an opt-in feature, and the expert opinions on why this feature should be made the default. The summary does not mention any of this information.
+1. "banned" - The word "banned" is not present in the original article. The article mentions that Apple has taken steps to prevent cyber-thieves from accessing iCloud accounts, but it does not mention anything about banning them. Therefore, the word "banned" is not consistent with the article.
+2. "legal action against apple over its use of cyber-thieves \'accounts to allow cyber-thieves to be banned from icloud" - This sentence is not consistent with the article because there is no mention of Apple taking legal action against cyber-thieves or banning them from iCloud. The article only mentions that Apple has implemented two-factor authentication to prevent cyber-thieves from accessing iCloud accounts.
+3. "legal action against apple over its use" - This sentence is also not consistent with the article because there is no mention of Apple taking legal action against anyone. The article only mentions that Apple has implemented two-factor authentication to improve security.
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omits important information. It is not a reliable representation of the article's content.
+In conclusion, the summary has consistency issues with the following spans: "banned", "legal action against apple over its use of cyber-thieves \'accounts to allow cyber-thieves to be banned from icloud", and "legal action against apple over its use". These sentences are not present in the original article and do not accurately reflect the content of the article.
 
 ###Corrected:

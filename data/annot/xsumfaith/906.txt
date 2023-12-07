@@ -27,17 +27,20 @@ He said that European countries should try to see refugees as potential benefits
 syria\'s education minister has called for a ``high price\'\'of a ``high price\'\'in the migrant crisis.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a ``high price\\'\\'of a ``high price\\'\\'in the migrant crisis",
+  "high price\\'\\'in the migrant crisis",
+  "``high price\\'\\'of a ``high price\\'\\'in the migrant crisis"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "Syria's education minister has called for a 'high price' in the migrant crisis."
-2. However, the article does not mention Syria's education minister making any such call. Instead, it quotes Mohammad Thneibat, Jordan's education minister, discussing the challenges of hosting large numbers of refugees and the need for more international support.
-3. Therefore, the summary is not consistent with the article, as it attributes a quote to the wrong person and misrepresents the content of the article.
+1. The summary states that "Syria's education minister has called for a 'high price' in the migrant crisis." This is not consistent with the article, as there is no mention of Syria's education minister in the article. The article actually discusses Jordan's education minister, Mohammad Thneibat.
+2. The phrase "a 'high price' in the migrant crisis" is also not consistent with the article. The article discusses the financial costs of educating refugee children, but it does not use the phrase "high price" to describe the cost.
+3. The third span, "``high price\\'\\'of a ``high price\\'\\'in the migrant crisis" is also not consistent with the article. The article does not use the phrase "high price" twice in the same sentence.
 
-Step by step reasoning:
-
-1. The summary states that "Syria's education minister has called for a 'high price' in the migrant crisis."
-2. This statement is not supported by the article, as there is no mention of Syria's education minister making any such call.
-3. Instead, the article quotes Mohammad Thneibat, Jordan's education minister, discussing the challenges of hosting large numbers of refugees and the need for more international support.
-4. Therefore, the summary is not consistent with the article and contains incorrect information.
+Therefore, based on these consistency issues, it is clear that the summary is not accurate and does not reflect the content of the article.
 
 ###Corrected:

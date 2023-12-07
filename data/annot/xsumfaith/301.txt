@@ -14,13 +14,19 @@ So far they've spotted shrimp, jellyfish and black pillow lava from an underwate
 scientists in the pacific ocean say they have discovered the largest known sighting of the pacific ocean.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "scientists in the pacific ocean say they have discovered the largest known sighting of the pacific ocean"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The article states that the team is exploring the Mariana Trench, which is known to be up to 11 kilometers deep.
-2. The summary claims that scientists have discovered the largest known sighting in the Pacific Ocean.
-3. The article does not mention any discoveries or sightings of this magnitude. Instead, it mentions the team's goal of exploring the trench and finding fish, mud volcanoes, and deep sea coral.
-4. Therefore, the summary is not consistent with the article, as it makes a much more dramatic claim about a discovery that is not supported by the article.
+1. The article states that the team is exploring the Mariana Trench in the Pacific Ocean to discover more about the deep-sea ecosystem.
+2. The article does not mention any discoveries of large sightings or any record-breaking finds. Instead, it focuses on the team's efforts to explore the trench and document the sea life they encounter.
+3. The summary statement "scientists in the pacific ocean say they have discovered the largest known sighting of the pacific ocean" is not supported by the article. There is no mention of any such discovery or record-breaking find in the article.
+4. Therefore, the summary is not consistent with the article, and the statement is not accurate.
 
-Conclusion: The summary is not consistent with the article because it exaggerates the discovery made by the team and claims something that is not mentioned in the article.
+So, the consistency issue in the summary is that it makes a claim about a discovery that is not supported by the article.
 
 ###Corrected:

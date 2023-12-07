@@ -28,13 +28,23 @@ Lineups are announced and players are warming up.
 gateshead and guiseley extended their unbeaten runs with a 1-1 draw at the gateshead international stadium.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "gateshead international stadium"
+]
+
 Explain your reasoning step by step:[/INST]
- Sure, I'd be happy to help! Here's my step-by-step reasoning for why the provided summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "gateshead and guiseley extended their unbeaten runs with a 1-1 draw at the gateshead international stadium." However, the article states that Gateshead lost the match 1-1, not drew.
-2. The summary does not provide any information about the match, such as the goalscorers or the performance of the teams. The article, on the other hand, provides detailed information about the match, including the goalscorers and the key events.
-3. The summary is too brief and lacks important details. The article, on the other hand, provides a more comprehensive report of the match, including the starting lineups, the key events, and the goalscorers.
+1. The article states that the match was played at the Gateshead International Stadium, but the summary claims that the match was played at a neutral venue.
+2. The article provides specific details about the venue, including the name of the stadium and its location.
+3. The summary does not provide any information about the venue other than the fact that it was a neutral venue.
+4. The inconsistency arises because the summary does not accurately reflect the information provided in the article.
 
-Therefore, based on the above reasons, the provided summary is not consistent with the article.
+Therefore, the spans in the summary that have consistency issues are:
+
+[ "gateshead international stadium" ]
+
+These spans should be revised to accurately reflect the information provided in the article.
 
 ###Corrected:

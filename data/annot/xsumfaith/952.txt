@@ -33,13 +33,18 @@ More money is expected to be raised for charity on Sunday at a special football 
 tributes have been paid to a 16-year-old boy who has been missing for three days at the age of 10.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "16",
+  "who has been missing for three days at the age of 10"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that tributes have been paid to a 16-year-old boy who has been missing for three days at the age of 10. This is not consistent with the article, as the article is about a 15-year-old boy named Jak Trueman who passed away due to cancer.
-2. The article mentions that Jak was diagnosed with gamma delta T-cell lymphoma and had been documenting his life and treatment on social media. The summary does not mention anything about cancer or social media.
-3. The article states that Jak passed away on Saturday, but the summary does not mention anything about his death. Instead, it mentions that he has been missing for three days at the age of 10.
-4. The article mentions that Jak's family and friends have been raising money for charity in his honor, but the summary does not mention anything about charity or fundraising.
+1. The article states that Jak Trueman was 15 years old when he passed away, not 16.
+2. The summary states that Jak has been missing for three days at the age of 10, which is incorrect. There is no mention of Jak being missing in the article, and he was 15 years old, not 10.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events and details described in the article. The summary is incorrect in several key ways, including the age of the boy, the reason for his absence, and the fact that he has passed away.
+Therefore, the two spans highlighted in the consistency issues are incorrect and do not match the information in the article.
 
 ###Corrected:

@@ -14,13 +14,22 @@ The Metropolitan Police said security at the airport would be reviewed.
 thirteen people have been charged after climate change protesters stormed onto the runway at heathrow airport and chained themselves together.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "climate change protesters",
+  "heathrow airport and chained themselves together",
+  "thirteen people have been charged after climate change protesters stormed onto the runway at heathrow airport and chained themselves together",
+  "thirteen"
+]
 
-1. The summary states that "thirteen people have been charged after climate change protesters stormed onto the runway at Heathrow Airport and chained themselves together."
-2. However, the article states that the protesters were from the action group Plane Stupid and were charged with aggravated trespass and entering a security restricted area of an aerodrome.
-3. The article does not mention anything about the protesters storming onto the runway or chaining themselves together.
-4. Therefore, the summary is not consistent with the article because it includes details that are not present in the article.
-5. The summary is an over-exaggeration of the events and includes sensational language (stormed onto the runway) that is not supported by the article.
-6. The article provides a more factual and accurate account of the protest, which was a peaceful demonstration on the northern runway at 03:30 BST on Monday, whereas the summary is an exaggerated and sensationalized version of the event.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "climate change protesters" - The article does not mention "climate change" at all. The protesters were from the group Plane Stupid, and they were protesting against the airport's expansion plans.
+2. "heathrow airport" - The article mentions "Heathrow Airport" in the first sentence, but the summary does not include the word "Heathrow" before "airport".
+3. "chained themselves together" - The article does not mention anything about the protesters chaining themselves together. They were charged with aggravated trespass and entering a security restricted area of an aerodrome.
+4. "thirteen people have been charged" - The article states that "thirteen men and women" have been charged, not "thirteen people".
+
+Overall, the summary is not consistent with the article because it includes details that are not present in the article, and omits other important details that are mentioned in the article.
 
 ###Corrected:

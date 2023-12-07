@@ -24,17 +24,24 @@ Reporting by the BBC's Greg Dunlop
 the world\'s finest uncut opal has mostly been kept in a safe deposit box since it was unearthed from the south australian outback with a pick and shovel 70 years ago.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "safe deposit box",
+  "since it was unearthed from the south australian outback with a pick and shovel 70 years ago",
+  "deposit box since it was unearthed",
+  "outback with a pick and shovel 70 years ago",
+  "uncut"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the world's finest uncut opal has been kept in a safe deposit box since it was unearthed 70 years ago.
-2. The article states that the opal was discovered by Walter Bartram in 1946, and that it is now on display in Adelaide's South Australian Museum.
-3. The summary does not mention that the opal is on display in a museum, and instead suggests that it has been kept in a safe deposit box for 70 years.
-4. Therefore, the summary is not consistent with the article, as the opal has not been kept in a safe deposit box for 70 years, but has instead been on display in a museum for a significant amount of time.
+1. "safe deposit box": The article does not mention anything about the opal being kept in a safe deposit box. Instead, it states that the opal is now on display in Adelaide's South Australian Museum.
+2. "since it was unearthed from the south australian outback with a pick and shovel 70 years ago": The article does not mention the exact date when the opal was discovered, but it does state that Walter Bartram found it in 1946. Additionally, the article does not mention the use of a pick and shovel in the discovery.
+3. "deposit box since it was unearthed": The article does not mention anything about a deposit box. As mentioned earlier, the opal is now on display in Adelaide's South Australian Museum.
+4. "outback with a pick and shovel 70 years ago": As mentioned earlier, the article does not mention the exact date when the opal was discovered, and it does not mention the use of a pick and shovel in the discovery.
+5. "uncut": The article does mention that the opal is still largely in its original condition, but it does not use the word "uncut". Instead, it states that the opal's two polished faces reveal a kaleidoscope of colors.
 
-Reasoning step by step:
-
-1. The summary makes a statement about the opal being kept in a safe deposit box for 70 years.
-2. The article provides information that contradicts this statement, as it states that the opal is on display in a museum.
-3. Therefore, the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article in several key respects. The summary exaggerates the rarity of the opal, implies that it has been kept in a safe deposit box for 70 years, and misstates the date and circumstances of its discovery.
 
 ###Corrected:

@@ -52,14 +52,18 @@ She told the Huffington Post: "I was always deeply aware that I was living in hi
 melania trump has said he is ``excited\'\'about the decision to leave the white house in the white house.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "leave the white house",
+  "leave"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary has consistency issues:
 
-1. The summary states that Melania Trump is "excited" about the decision to leave the White House, but the article does not mention any such statement from her.
-2. The article explains that Melania Trump has indicated that she and her son Barron will not be moving to the White House immediately after the inauguration, and that she is prioritizing his education over her role as First Lady.
-3. The summary does not provide any specific information about Melania Trump's decision or her priorities, other than stating that she is "excited" about the decision to leave the White House.
-4. The article provides context and information about the history of First Ladies and their roles in the White House, as well as the challenges of raising children in the public eye.
-5. The summary does not acknowledge or reference any of the information or context provided in the article.
+1. "leave the white house": The article does not mention anything about leaving the White House. The First Lady has indicated that she and her son Barron will move to Washington "very soon, after he's finished with school", but there is no mention of leaving the White House.
+2. "leave": The article does not use the word "leave" anywhere. The First Lady has indicated that she and her son will move to Washington, but there is no mention of leaving anything.
 
-Therefore, the summary is not consistent with the article because it does not accurately represent the content or information provided in the article. The summary is too brief and lacks specific details, and it does not convey the same level of nuance and context as the article.
+Therefore, the summary has consistency issues because it mentions "leave" twice, but the article does not use that word anywhere. Additionally, the summary mentions "leave the white house", but the article does not mention anything about leaving the White House.
 
 ###Corrected:

@@ -19,20 +19,22 @@ It was created to showcase opera, musicals, plays and all kinds of entertainment
 a theatre in kent is to undergo a # 1m project to build a new theatre in the capital\'s grounds of alexandra palace.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "capital\\'s grounds",
+  "1m",
+  "kent",
+  "new theatre"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that a new theatre is to be built in the grounds of Alexandra Palace in Kent.
+1. "capital's grounds": The article does not mention anything about the theatre being in the "capital's grounds" of Alexandra Palace. Instead, it states that the theatre is part of Alexandra Palace itself. Therefore, this phrase is not consistent with the article.
+2. "1m": The article does not mention a £1 million project. Instead, it states that the Alexandra Park and Palace Charitable Trust has committed to raising the final £1 million by summer 2017. This is a different amount and timeframe than what is mentioned in the summary.
+3. "kent": The article does not mention anything about Kent. The theatre is located in Alexandra Palace, which is in north London. Therefore, this phrase is not consistent with the article.
+4. "new theatre": The article does not mention the construction of a new theatre. Instead, it states that the existing theatre will be repaired and refurbished. Therefore, this phrase is not consistent with the article.
 
-Error: There is no mention of Kent in the article. The article only mentions Alexandra Palace, which is located in North London.
-
-2. The summary mentions a £1m project to build a new theatre.
-
-Error: The article does not mention any new theatre being built. Instead, it talks about the restoration and refurbishment of the existing Alexandra Palace theatre.
-
-3. The summary states that the project is to be completed by summer 2017.
-
-Error: The article does not mention a specific deadline for the project. It only states that the trust hopes to raise the final £1m by summer 2017.
-
-Conclusion: The summary is not consistent with the article because it mentions a new theatre being built in Kent, which is not mentioned in the article. Additionally, the summary mentions a £1m project, but the article does not mention a specific amount. Finally, the summary states that the project must be completed by summer 2017, but the article does not mention a specific deadline.
+Overall, the summary contains several inaccuracies and inconsistencies compared to the article.
 
 ###Corrected:

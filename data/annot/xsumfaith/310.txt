@@ -18,12 +18,18 @@ The Rhinos, who begin the defence of their Super League title against Warrington
 leeds rhinos have been given # 1m to help save the grade ii-listed lido in leeds.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "grade ii-listed lido",
+  "given"
+]
 
-1. The summary states that Leeds Rhinos have been given £1m to help save the grade II-listed lido in Leeds.
-2. However, the article does not mention anything about the Leeds Rhinos being given £1m to save a lido. In fact, the article only mentions the Rhinos' training facilities being affected by flooding and the cost of repairs estimated to be around £1m.
-3. Therefore, the summary is not consistent with the article. The article does not mention the Leeds Rhinos receiving £1m or any mention of a lido.
-4. The summary is likely incorrect or misleading. It may be a mistake or a misinterpretation of the article.
-5. The article actually discusses the flooding of the Rhinos' training facilities and the estimated cost of repairs, but not any funding or assistance given to the Leeds Rhinos.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "grade ii-listed lido": The article does not mention anything about a "grade ii-listed lido" in Leeds. The article only mentions that the Rhinos have been training across the city of Leeds since the river Aire burst its banks at Christmas, and that the flooding has caused massive disruption. Therefore, this phrase in the summary is not supported by the article.
+2. "given": The article does not mention anything about the Rhinos being given £1m to help save the lido. The article only mentions that the Rhinos have been affected by the flooding and that it will take the best part of six months to repair the damage. Therefore, this phrase in the summary is also not supported by the article.
+
+Overall, the summary is not consistent with the article because it includes two phrases that are not supported by the information in the article.
 
 ###Corrected:

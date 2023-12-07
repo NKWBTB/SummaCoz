@@ -22,12 +22,21 @@ The Department of Health said it had increased mental health funding to Â£11.7
 mental health patients in cornwall are to be sent to the county for treatment, a coroner has said.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "coroner has said",
+  "to be sent to the county for treatment, a coroner has said"
+]
 
-1. The article states that the coroner, Dr. Emma Carlyon, is satisfied with the commitment to continue working hard to ensure the lowest number of patients leave the county for treatment.
-2. The article also states that the Department of Health has accepted the recommendation to eliminate the inappropriate use of out-of-area treatments for adults in acute care by 2020/21.
-3. However, the summary states that mental health patients in Cornwall are to be sent to the county for treatment, which is not supported by the article.
-4. The article does mention that patients are currently being sent out of Cornwall for treatment due to a lack of acute psychiatric inpatient beds in the county, but it does not state that patients will be sent to the county for treatment.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the coroner, Dr. Emma Carlyon, has said that there is a commitment locally to continue to work hard to ensure the lowest number of patients possible leave the county for treatment.
+2. However, the summary states that mental health patients in Cornwall are to be sent to the county for treatment, which is not consistent with the article.
+3. The article does not mention anything about sending patients to the county for treatment. Instead, it focuses on the issue of patients being sent out of the county for treatment due to a lack of acute psychiatric inpatient beds in Cornwall.
+4. The only mention of the county in the article is in the context of the coroner's commitment to work locally to ensure the lowest number of patients leave the county for treatment.
+5. Therefore, the statement in the summary that mental health patients in Cornwall are to be sent to the county for treatment is not supported by the article.
+
+Overall, the consistency issue in the summary is that it states that patients will be sent to the county for treatment, which is not supported by the article. The article focuses on the issue of patients being sent out of the county for treatment due to a lack of acute psychiatric inpatient beds in Cornwall, and the coroner's commitment to work locally to ensure the lowest number of patients leave the county for treatment.
 
 ###Corrected:

@@ -12,12 +12,21 @@ Craig Moore fired a late chance over for Ayr United, who remain third.
 mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "beat ayr united",
+  "mohamed",
+  "mohamed el bakhtaoui scored twice as ayr united came from behind to beat ayr united"
+]
 
-1. The article states that Pars goalkeeper Sean Murdoch denied Jamie Adams in the first half, indicating that there were few chances in the half.
-2. The article also states that two quick fire goals put the visitors in control, suggesting that the game changed rapidly in favor of the visitors.
-3. The summary states that Ayr United came from behind to beat Pars, which is not supported by the article.
-4. The article states that El Bakhtaoui scored two goals for Pars, not Ayr United.
-5. Therefore, the summary is not consistent with the article because it incorrectly states that Ayr United came from behind to win, and it misidentifies the team that scored the goals.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that "Pars goalkeeper Sean Murdoch denied Jamie Adams in a first half of few chances before two quick fire goals put the visitors in control." This implies that Ayr United was the visiting team and they scored two goals in the first half.
+2. The summary states that "Ayr United came from behind to beat Ayr United." This is inconsistent with the article, as there is no mention of Ayr United coming from behind to beat anyone.
+3. The summary also states that "mohamed el bakhtaoui scored twice as Ayr United came from behind to beat Ayr United." This is inconsistent with the article, as there is no mention of a player named Mohamed El Bakhtaoui scoring any goals for Ayr United.
+4. The article does mention a player named Michael Paton, who provided a cross for one of the goals. However, there is no mention of a player named Mohamed El Bakhtaoui.
+
+Therefore, the summary is not consistent with the article because it incorrectly states that Ayr United came from behind to beat Ayr United, and it also incorrectly identifies a player named Mohamed El Bakhtaoui as scoring goals for Ayr United.
 
 ###Corrected:

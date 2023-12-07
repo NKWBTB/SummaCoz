@@ -19,15 +19,19 @@ Subscribe to the BBC Sport newsletter to get our pick of news, features and vide
 germany\'s alexander jung has won olympic gold in the dressage at rio 2016.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "germany\\'s alexander jung has won olympic gold in the dressage at rio 2016"
+]
 
-1. The summary states that Germany's Alexander Jung has won Olympic gold in the dressage at Rio 2016.
-2. However, the article does not mention Alexander Jung at all.
-3. The article mentions Jung won aboard Sam, who was a late replacement when Fischertakinou contracted an infection in July.
-4. The article also mentions that France's Astier Nicolas took silver and American Phillip Dutton won bronze, and that GB's William Fox-Pitt finished 12th.
-5. The summary is not consistent with the article because there is no mention of Alexander Jung in the article.
-6. The summary is incorrect because it mentions a gold medal winner who does not exist in the article.
-7. The article does mention a rider named Jung, but he is not German, he is aboard Sam, and he did not win gold.
-8. Therefore, the summary is not accurate and does not reflect the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the gold medal was won by Great Britain's William Fox-Pitt, not Germany's Alexander Jung.
+2. The summary incorrectly states that the gold medal was won by Alexander Jung.
+3. The article does not mention anything about Alexander Jung competing in the dressage event.
+4. The summary mentions that the gold medal was won in the dressage event, which is not accurate according to the article.
+
+Therefore, the summary is not consistent with the article, as it contains incorrect information about the winner of the gold medal and the event they won it in.
 
 ###Corrected:

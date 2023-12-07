@@ -79,14 +79,28 @@ Foul by Michail Antonio (West Ham United).
 leonardo ulloa\'s injury-time penalty rescued a point for leicester in a controversial encounter with west ham as the foxes went eight points clear at the top of the premier league.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "eight points clear at the top"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's why the consistency issues exist in the given spans of the summary:
 
-The provided summary is not consistent with the article because:
+1. "eight points clear at the top":
 
-1. The summary mentions that Leonardo Ulloa scored an injury-time penalty to rescue a point for Leicester, while the article states that Ulloa scored the equalizing goal in injury time, but does not mention a penalty.
-2. The summary states that the game was a controversial encounter, while the article provides a detailed account of the referee's questionable decisions and the inconsistencies in his officiating.
-3. The summary does not mention the Vardy's red card and the subsequent changes in the game's dynamics, which is a significant event described in the article.
+The article states that Leicester City is 5 points clear at the top of the Premier League table, not eight. This inconsistency exists in the summary as it mentions a larger lead than what the article states.
 
-Therefore, the summary is not a consistent representation of the article's content.
+Steps to identify the issue:
+
+a. Check the article for the correct information.
+
+b. Compare the correct information with the summary.
+
+c. Identify the inconsistency.
+
+d. Verify the inconsistency by cross-checking other sources to confirm the correct information.
+
+Therefore, the summary should read "five points clear at the top" instead of "eight points clear at the top" to maintain consistency with the article.
 
 ###Corrected:

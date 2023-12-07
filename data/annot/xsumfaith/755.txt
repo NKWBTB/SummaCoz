@@ -52,14 +52,18 @@ Klopp has delivered another incentive to his Liverpool charges.
 manchester city manager jurgen klopp has been impressing in the premier league-and there is no doubt why he will be his old trafford side in the premier league.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "manchester city manager",
+  "premier league"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you mentioned have consistency issues:
 
-1. The summary is not consistent with the article because:
-	* The summary mentions "Manchester City" and "Old Trafford", but there is no mention of these places in the article.
-	* The summary mentions "Jürgen Klopp" being the manager of "Manchester City", but the article actually states that Klopp is the manager of "Liverpool".
-2. The article is about Liverpool's victory in the Europa League, and the summary does not mention anything about the game or the team's performance.
-3. The summary is written in a way that suggests Klopp is the manager of Manchester City, which is not accurate.
+1. "manchester city manager": The article mentions "Liverpool manager Jurgen Klopp" but not "Manchester City manager". Therefore, the phrase "manchester city manager" is not consistent with the article's content.
+2. "premier league": The article mentions "the Europa League" and "Champions League", but not "premier league". Therefore, the phrase "premier league" is not consistent with the article's content.
 
-Therefore, the summary is not consistent with the article and contains errors.
+Overall, the summary does not accurately reflect the content of the article. It mentions entities and concepts that are not present in the article, which indicates that the summary was not carefully written based on the article's content.
 
 ###Corrected:

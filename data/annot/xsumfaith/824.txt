@@ -21,12 +21,18 @@ He was involved in repeated family dramas including having an affair with his br
 eastenders actress dame barbara windsor has said he was approached by eastenders as ``the last time legend of eastenders\'\'.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the last time legend of eastenders",
+  "windsor"
+]
 
-1. The summary states that Dame Barbara Windsor said she was approached by EastEnders as "the last time legend of EastEndors."
-2. However, the article states that Grant Mitchell (played by Ross Kemp) will return to EastEnders for a brief return, and that the character will be reunited with his mother before she dies.
-3. The summary does not mention Grant Mitchell or Ross Kemp, and instead focuses on Dame Barbara Windsor.
-4. Therefore, the summary is not consistent with the article, as it does not mention the main plot point of Grant Mitchell's return and instead focuses on a different character (Dame Barbara Windsor).
-5. The reason for the inconsistency is likely that the summary was written based on a misunderstanding or misinterpretation of the article, or that the summary was written for a different article or context entirely.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "the last time legend of eastenders": The phrase "last time legend" is not found in the original article. The article refers to Dame Barbara Windsor's character Peggy Mitchell returning to EastEnders for the last time, but it does not use the phrase "last time legend." Therefore, this span is not consistent with the article.
+2. "windsor": The article refers to Dame Barbara Windsor as "Barbara" or "Peggy Mitchell," but it does not use the name "Windsor." Therefore, this span is not consistent with the article.
+
+Overall, the summary contains two inconsistencies with the original article. The first inconsistency is the use of the phrase "last time legend," which is not found in the article. The second inconsistency is the use of the name "Windsor," which is not the name used in the article to refer to Dame Barbara Windsor's character.
 
 ###Corrected:

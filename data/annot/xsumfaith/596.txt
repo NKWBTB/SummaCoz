@@ -12,13 +12,22 @@ The boy was taken to Queen Elizabeth University Hospital, in Glasgow, where his 
 a nine-year-old boy is being treated in hospital after being hit by a vehicle in north lanarkshire on saturday.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a nine-year-old boy is being treated in hospital after being hit by a vehicle in north lanarkshire on saturday",
+  "nine-year-old",
+  "vehicle in north lanarkshire on saturday",
+  "hit by a vehicle in north lanarkshire on saturday"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure, here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the boy was struck in Coatbridge, but the summary only mentions "north Lanarkshire." This is inconsistent, as Coatbridge is a specific location within Lanarkshire, but the summary does not specify the exact location.
-2. The article states that the boy was taken to Queen Elizabeth University Hospital in Glasgow, which is not in north Lanarkshire. The summary does not mention the hospital or the location of the boy's treatment.
-3. The article describes the boy's condition as "serious," but the summary does not provide any information about his condition.
+1. The article states that the boy was struck in Coatbridge, but the summary says he was hit by a vehicle in north Lanarkshire on Saturday. The article does not mention the location of the incident as north Lanarkshire, so this is inconsistent.
+2. The article does not mention the age of the boy, but the summary states that he is nine years old. This is not supported by the article.
+3. The article states that the boy was taken to Queen Elizabeth University Hospital in Glasgow, but the summary does not mention the location of the hospital. This is inconsistent.
+4. The article does not mention the day of the week or the time of the incident, but the summary states that it happened on Saturday. This is not supported by the article.
 
-Therefore, the summary is not consistent with the article because it does not provide the same level of detail and specificity as the article. The summary does not mention the exact location of the incident, the boy's condition, or the hospital where he was taken for treatment.
+Therefore, the summary is not consistent with the article because it contains several inaccuracies and omissions.
 
 ###Corrected:

@@ -20,11 +20,18 @@ The eight-month campaign on the Gallipoli peninsula in Turkey was one of the blo
 a service of remembrance has been held in new zealand to mark the 70th anniversary of the gallipoli landings.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "70th anniversary",
+  "held in new zealand"
+]
 
-1. The summary states that a service of remembrance was held in New Zealand to mark the 70th anniversary of the Gallipoli landings.
-2. However, the article does not mention anything about a service being held in New Zealand. Instead, it talks about services being held in London, specifically at Hyde Park Corner and Westminster Abbey.
-3. The article does mention that the Gallipoli campaign was one of the bloodiest of the war and that the allied operation was an attempt to force the Ottoman empire out of the war.
-4. Therefore, the summary is not consistent with the article because it mentions a service being held in New Zealand, which is not supported by the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "70th anniversary": The article does not mention the 70th anniversary of the Gallipoli landings. Instead, it mentions that the first Anzac Day was commemorated in 1916, a year after the landings. Therefore, the summary statement is not consistent with the article.
+2. "held in new zealand": The article does not mention anything about a service being held in New Zealand. It only mentions that a service was held at Westminster Abbey in London. Therefore, the summary statement is also not consistent with the article.
+
+Overall, the summary is not consistent with the article because it contains two inaccuracies: it mentions the 70th anniversary of the Gallipoli landings, which is not mentioned in the article, and it states that the service was held in New Zealand, which is also not mentioned in the article.
 
 ###Corrected:

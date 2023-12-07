@@ -13,12 +13,18 @@ A Gwent Police spokesman said: "Officers are investigating the circumstances sur
 a fire at a derelict building in newport is being investigated by police.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "newport",
+  "derelict"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the fire occurred in Bloomery Circle, Llanwern, which is not the same location as a derelict building in Newport. The summary incorrectly states that the fire occurred in a derelict building in Newport.
-2. The article mentions that the burning material included a large amount of scrapped railway sleepers, which is not mentioned in the summary.
-3. The article states that the fire is believed to have been deliberately set, which is not mentioned in the summary.
+1. The article states that the fire occurred in Bloomery Circle, Llanwern, but the summary mentions "newport". This is inconsistent because "newport" is not mentioned in the article.
+2. The article describes the burning material as "a large amount of scrapped railway sleepers", but the summary mentions "derelict building". This is inconsistent because the article does not mention any derelict buildings.
 
-Therefore, the summary is not consistent with the article because it incorrectly states the location of the fire, omits important details about the burning material, and fails to mention the suspicion of arson.
+Therefore, the summary is not consistent with the article because it contains two inaccuracies: the location and the type of building involved in the fire.
 
 ###Corrected:

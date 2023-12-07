@@ -15,12 +15,18 @@ Manchester United's Facebook page has more than 70 million 'likes', while Rooney
 manchester united\'s wayne rooney will make his first appearance in the united states next month.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "manchester united\\'s wayne rooney will make his first appearance in the united states next month",
+  "first appearance in the united states next month"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the testimonial game will be streamed globally, but the summary claims that Wayne Rooney will make his first appearance in the United States. This is not consistent with the article, as there is no mention of Rooney traveling to the United States or playing there.
-2. The article states that the game will be played at Old Trafford, which is in Manchester, England. There is no mention of the game being played in the United States.
-3. The summary does not provide any information about the charities that Rooney will be supporting, which is mentioned in the article as a key aspect of the testimonial game.
-
-Therefore, the summary is not consistent with the article because it contains incorrect information about the location of the game and omits important details about the charities that Rooney will be supporting.
+1. The article states that Rooney's testimonial game will be streamed globally, but the summary mentions that Rooney will make his first appearance in the United States next month. This is inconsistent because the article does not mention anything about Rooney traveling to the United States or playing a game there.
+2. The article does not mention anything about Rooney making his first appearance in the United States. It only mentions that the game will be streamed globally, which suggests that the game will be played at Old Trafford in Manchester, England.
+3. The phrase "first appearance in the United States" is not supported by the article. Rooney has played for Manchester United for 12 years, and the article does not mention any previous trips to the United States.
+4. Therefore, the summary is not consistent with the article because it mentions Rooney making his first appearance in the United States, which is not supported by the text.
 
 ###Corrected:

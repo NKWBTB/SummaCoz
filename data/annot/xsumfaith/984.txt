@@ -15,14 +15,19 @@ Mr Lansdown told the club's official website: "We'll sign the section 106 agreem
 bristol\'s mayor has announced it will sign a # [UNK] m upgrade to a new stadium stadium in bristol.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "mayor",
+  "bristol"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that Bristol Sport Ltd, the owner of the football club, wants to replace two stands to increase capacity.
-2. The article does not mention anything about a new stadium or the mayor of Bristol announcing a stadium upgrade.
-3. The summary states that the mayor of Bristol has announced a # [UNK] m upgrade to a new stadium, which is not supported by the article.
-4. The article only mentions the plan to replace two stands, not a new stadium.
-5. The summary is not consistent with the article, as it mentions a new stadium upgrade, which is not mentioned in the article.
+1. The article states that Bristol Sport Ltd, the owner of the football club, wants to replace two stands to increase capacity. There is no mention of a new stadium or the mayor of Bristol being involved in the plans.
+2. The summary states that the mayor of Bristol will sign a # [UNK] m upgrade to a new stadium. This is not supported by the article, as there is no mention of a new stadium or the mayor being involved in the plans.
+3. The word "bristol" is also not consistent with the article, as the article only mentions Bristol Sport Ltd and the football club, not the city of Bristol.
 
-Therefore, the summary is not accurate and does not reflect the information in the article.
+Therefore, the summary is not consistent with the article because it mentions a new stadium and the mayor of Bristol, neither of which are mentioned in the article.
 
 ###Corrected:

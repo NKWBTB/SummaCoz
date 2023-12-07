@@ -21,12 +21,20 @@ Media playback is not supported on this device
 former world champion williamson norfolk says she is ``lucky to be alive\'\'after suffering a serious neck injury in a motorbike crash.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "motorbike ",
+  "motorbike"
+]
 
-1. The summary states that Williamson is "lucky to be alive" after suffering a serious neck injury in a motorbike crash.
-2. However, the article states that Williamson fractured her neck and back, dislocated her pelvis, and slipped a disc in her neck, but she did not die.
-3. Therefore, the statement in the summary that Williamson is "lucky to be alive" is not consistent with the article, as she did not die in the crash.
-4. Additionally, the article does not mention anything about a motorbike crash, only that Williamson was injured in a crash during the omnium final at a velodrome.
-5. Therefore, the summary is not consistent with the article because it includes information that is not present in the article and omits information that is present in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the cyclist, Williamson Norfolk, was involved in a crash during the omnium final and suffered a serious neck injury.
+2. The summary states that Williamson Norfolk is "lucky to be alive" after suffering a serious neck injury in a motorbike crash.
+3. The problem with the summary is that it mentions "motorbike" twice, which is not accurate according to the article. The article does not mention anything about a motorbike, only a crash during the omnium final.
+4. The correct summary should only mention "crash" or "accident" instead of "motorbike" to accurately reflect the information in the article.
+
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the text.
 
 ###Corrected:

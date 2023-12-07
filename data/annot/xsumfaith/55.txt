@@ -22,15 +22,21 @@ With that fact in mind, questions have been raised as to whether that condition 
 grand national winner many clouds died after suffering a haemorrhage during the race on saturday.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "died after suffering a haemorrhage during the race on saturday",
+  NaN
+]
 
-1. The summary states that the Grand National winner Many Clouds died after suffering a haemorrhage during the race on Saturday.
-2. However, the article does not mention anything about Many Clouds dying during the race. Instead, it reports that the horse collapsed and was pronounced dead after the race.
-3. The article states that the horse suffered from a severe pulmonary haemorrhage, which is a rare condition that can occur in horses with no underlying health issues.
-4. The summary does not provide any information about the cause of Many Clouds' death, other than stating that he suffered a haemorrhage during the race.
-5. Therefore, the summary is not consistent with the article, as it does not provide the correct information about the cause of Many Clouds' death.
-6. The article provides more information about the cause of Many Clouds' death, stating that he suffered from a severe pulmonary haemorrhage, which is a rare condition that can occur in horses with no underlying health issues.
-7. The article also mentions that Many Clouds had shown symptoms of post-race ataxia in the past, but there is no mention of this in the summary.
-8. Overall, the summary is not a accurate representation of the article, as it does not provide the correct information about the cause of Many Clouds' death and omits other important details.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Many Clouds collapsed after the race and was pronounced dead, with the cause of death being a severe pulmonary haemorrhage.
+2. The summary states that Many Clouds died after suffering a haemorrhage during the race on Saturday.
+3. The problem with the summary is that it implies that the haemorrhage occurred during the race, whereas the article states that the haemorrhage occurred after the race.
+4. The article does not mention anything about Many Clouds suffering a haemorrhage during the race. Instead, it states that he collapsed after the race and was pronounced dead.
+5. Therefore, the summary is not consistent with the article, as it implies that the haemorrhage occurred during the race, whereas the article states that it occurred after the race.
+
+Overall, the inconsistency in the summary is due to the fact that it incorrectly states that Many Clouds suffered a haemorrhage during the race, whereas the article states that he suffered a haemorrhage after the race.
 
 ###Corrected:

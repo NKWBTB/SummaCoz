@@ -13,13 +13,18 @@ They added: "A report will be sent to the procurator fiscal."
 police have launched an investigation after a man\'s body was found in a house in kilmarnock.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "kilmarnock"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I can help you identify the consistency issues in the summary. Here's my reasoning step by step:
 
-1. The article states that the body of a 36-year-old was found in a house in Glenfinnan Road, but the summary only mentions Kilmarnock. The article does not mention Kilmarnock at all.
-2. The article states that the body was found on Wednesday, but the summary only mentions a general "police investigation". There is no mention of when the investigation started or any other details about the timing of the investigation.
-3. The article states that police have cordoned off the property and a post-mortem examination will be carried out to establish the exact cause of death, but the summary does not mention any of these details.
-4. The article states that a report will be sent to the procurator fiscal, but the summary does not mention this.
+1. The article states that the body was found in a house in Glenfinnan Road, but the summary says "police have launched an investigation after a man's body was found in a house in kilmarnock."
+2. Kilmarnock is a town in Scotland, but Glenfinnan Road is not located in Kilmarnock. The article specifically mentions Glenfinnan Road, which is a different location.
+3. Therefore, the summary is not consistent with the article because it mentions a different location (Kilmarnock) than the one mentioned in the article (Glenfinnan Road).
 
-Therefore, the summary is not consistent with the article because it does not include any of the specific details mentioned in the article. The summary is too general and does not accurately reflect the content of the article.
+So, the inconsistency issue is in the mention of "kilmarnock" in the summary, which is not supported by the article.
 
 ###Corrected:

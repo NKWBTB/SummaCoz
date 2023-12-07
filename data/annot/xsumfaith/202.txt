@@ -15,14 +15,24 @@ Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and prai
 police are appealing for information after a cow was killed in conwy county on saturday.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "police are appealing for information after a cow was killed in conwy county on saturday",
+  "conwy county on saturday"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the incident occurred on Saturday, but the article states that the incident occurred on Friday.
-2. The summary mentions that the cow was killed in Conwy County, but the article states that the incident occurred near Old Colwyn, which is not in Conwy County.
-3. The summary does not mention anything about the cause of death, but the article states that the cows died as a result of toxins found in yew and leylandii tree cuttings.
-4. The summary does not mention anything about a post-mortem examination, but the article states that a post-mortem examination was conducted.
-5. The summary mentions that the police are appealing for information, but the article states that the police have already received information through social media.
+1. The article states that the cows were found in Dolwen, near Old Colwyn, on Friday, not on Saturday.
+2. The summary mentions "Conwy county on Saturday", which is not accurate as the article does not mention Conwy county or any location on Saturday.
+3. Therefore, the summary is not consistent with the article because it provides incorrect information about the location and day when the cows were found.
 
-Therefore, the summary is not consistent with the article, and it appears to be a brief and inaccurate summary of the article.
+Here's a breakdown of the consistency issues in the summary:
+
+* "police are appealing for information after a cow was killed in Conwy county on Saturday" - The article does not mention Conwy county or any location on Saturday.
+* "Conwy county on Saturday" - The article does not mention Conwy county or any location on Saturday.
+
+I hope this explanation helps! Let me know if you have any further questions.
 
 ###Corrected:

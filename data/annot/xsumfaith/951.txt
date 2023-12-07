@@ -20,13 +20,20 @@ The eight-month campaign on the Gallipoli peninsula in Turkey was one of the blo
 tens of thousands of people have attended the annual anzac day parade in the gallipoli landings in hyde park.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "tens of",
+  "gallipoli landings",
+  "tens of thousands"
+]
 
-1. The summary states that the event took place in the "gallipoli landings in hyde park." However, the article does not mention anything about the gallipoli landings taking place in hyde park.
-2. The article states that the event took place at Hyde Park Corner and the Cenotaph, which are both located in central London.
-3. The summary implies that the event was held in a specific location called the "gallipoli landings," which is not a real place and does not exist in London.
-4. The article does mention the Gallipoli campaign, but it does not mention any specific location called the "gallipoli landings."
-5. The summary is not consistent with the article because it implies that the event took place in a specific location that does not exist and does not match the location described in the article.
-6. Therefore, the summary is not an accurate representation of the article and contains errors.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. "tens of" - The article does not mention "tens of" anything. The phrase "tens of thousands" is not supported by the article.
+2. "gallipoli landings" - The article does not mention "gallipoli landings". The correct term is "Gallipoli peninsula".
+3. "tens of thousands" - The article does not mention a specific number of attendees. It only states that "thousands" attended the event.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

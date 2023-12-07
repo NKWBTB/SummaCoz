@@ -25,14 +25,20 @@ He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not calle
 a man who was kidnapped in mexico city centre has been arrested in connection with the kidnapping and murder of a olympiakos fan.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "in mexico city",
+  "murder of a olympiakos fan",
+  "mexico city"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that the man was arrested in connection with the kidnapping and murder of an Olympiakos fan.
-2. However, the article states that the man was arrested in connection with the kidnapping of the Olympiakos fan, but there is no mention of murder.
-3. Therefore, the summary is not consistent with the article, as it adds the word "murder" which is not present in the article.
-4. Additionally, the article states that the man was arrested for kidnapping, but the summary states that he was arrested in connection with the kidnapping and murder, which is not accurate.
-5. Finally, the article does not mention any murder, and the only crime mentioned is kidnapping, so it is unlikely that the man was arrested for murder.
+1. "in mexico city": The article does not mention that the kidnapping took place in Mexico City. Instead, it states that the kidnapping happened in Ciudad Victoria, which is a town in the state of Tamaulipas. Therefore, this phrase in the summary is not consistent with the article.
+2. "murder of a olympiakos fan": The article does not mention anything about a murder. It only states that Pulido was kidnapped and eventually escaped. Therefore, this phrase in the summary is not consistent with the article.
+3. "mexico city": As mentioned earlier, the article does not mention Mexico City at all. Therefore, this phrase in the summary is not consistent with the article.
 
-In conclusion, the summary is not consistent with the article because it adds the word "murder" which is not present in the article, and it is not accurate to say that the man was arrested in connection with the kidnapping and murder when the article only mentions kidnapping.
+Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. For example, there is no mention of a murder in the article, and the location of the kidnapping is incorrectly stated as Mexico City. Additionally, the phrase "Olympiakos fan" is not accurate, as Pulido is a former player for Olympiakos, but he is not a fan of the team.
 
 ###Corrected:

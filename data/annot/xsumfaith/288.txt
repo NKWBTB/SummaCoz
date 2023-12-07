@@ -17,14 +17,19 @@ The Health and Safety Executive said its inspectors and electrical safety expert
 two men have been arrested on suspicion of murder after a man was killed in a road accident in county durham.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "two men have been arrested on suspicion of murder after a man was killed in a road accident in county durham"
+]
 
-1. The article states that two men, Daniel Timbers and Barry Joy, were killed in a workplace accident at Harford Attachments in Spar Road, County Durham.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that two men, Daniel Timbers and Barry Joy, were killed in a workplace explosion at Harford Attachments in Spar Road, County Durham.
 2. The summary states that two men have been arrested on suspicion of murder after a man was killed in a road accident in County Durham.
-3. The article does not mention any arrests or murder, only that the two men were killed in a workplace accident.
-4. Therefore, the summary is not consistent with the article, as it implies that the two men were arrested for murder, while the article states that they were killed in a workplace accident.
-5. The discrepancy between the summary and the article suggests that the summary is incorrect or misleading.
-6. The article provides more details about the accident, such as the location, the time of day, and the cause of the explosion, which are not mentioned in the summary.
-7. Therefore, the summary is not a accurate summary of the article and does not provide a consistent overview of the information provided in the article.
+3. The article does not mention anything about a road accident or a murder investigation. Instead, it focuses on the explosion at Harford Attachments and the subsequent forensic search and witness statements.
+4. Therefore, the summary is not consistent with the article because it mentions a road accident and murder investigation, while the article only mentions a workplace explosion.
+
+Overall, the summary is not accurate because it does not reflect the content of the article. The article does not mention any arrests, murders, or road accidents, so the summary is not consistent with the information provided in the article.
 
 ###Corrected:

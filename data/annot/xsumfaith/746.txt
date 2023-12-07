@@ -23,12 +23,30 @@ He has also called for a debate on international tax reform.
 google\'s executive chairman eric schmidt has said he is ``perplexed\'\'by the ongoing debate over the company\'s tax contributions in the uk.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "eric",
+  "executive"
+]
 
-1. The summary states that Eric Schmidt, Google's executive chairman, is "perplexed" by the ongoing debate over the company's tax contributions in the UK.
-2. However, the article does not mention any debate or controversy over Google's tax contributions in the UK. Instead, it reports that Mr. Schmidt defended the company's tax payments and called for a change in the tax system if the government wants companies to pay more taxes.
-3. Therefore, the summary is not consistent with the article because it implies that there is a debate over Google's tax contributions in the UK, while the article does not mention any such debate.
-4. The article does mention that Margaret Hodge, the head of the Parliamentary Public Accounts Committee, has suggested a new committee should be established to oversee the tax arrangements of major firms, and that Google has been criticized for organizing its tax affairs in ways that minimize the amounts it pays in the UK. However, these points are not mentioned in the summary.
-5. Overall, the summary is not a accurate reflection of the content of the article, and is therefore not consistent with the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that "Mr Schmidt told the BBC that the company did what was 'legally required' to pay the right amount of taxes."
+2. The summary says "Google's executive chairman Eric Schmidt has said he is 'perplexed' by the ongoing debate over the company's tax contributions in the UK."
+
+Issue: The summary does not accurately reflect the article's statement. The article quotes Mr Schmidt as saying that the company did what was legally required, not that he is perplexed by the debate.
+
+1. The article states that "Mr Schmidt said it was up to the government to change its tax system if it wanted companies to pay more taxes."
+2. The summary does not mention this statement.
+
+Issue: The summary does not include all the information in the article. The article quotes Mr Schmidt as saying that the government should change the tax system if it wants companies to pay more taxes, but this statement is not included in the summary.
+
+1. The article states that "Google, most of whose UK sales are routed through Ireland, is one of the multinationals strongly criticised for organising their tax affairs in ways that minimise the amounts they pay in the UK."
+2. The summary does not mention this information.
+
+Issue: The summary does not include all the information in the article. The article mentions that Google is one of the multinationals criticized for organizing their tax affairs in ways that minimize the amounts they pay in the UK, but this information is not included in the summary.
+
+In conclusion, the summary has consistency issues because it does not accurately reflect the article's statements and does not include all the information in the article. Specifically, it misquotes Mr Schmidt as being "perplexed" by the debate, when the article states that he said the company did what was legally required. Additionally, the summary does not include the information that Google is one of the multinationals criticized for organizing their tax affairs in ways that minimize the amounts they pay in the UK.
 
 ###Corrected:

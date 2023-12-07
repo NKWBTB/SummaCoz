@@ -33,13 +33,18 @@ Attendance: 7,158
 warrington moved up to third in super league with a hard-fought win over widnes vikings.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "third",
+  "win over"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the provided summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Warrington moved up to third in the Super League, but the article states that they remain fifth.
-2. The summary mentions a hard-fought win, but the article describes the game as a comfortable victory for Widnes.
-3. The summary does not provide any specific information about the game, other than the final score, while the article provides detailed information about the tries scored, the performance of individual players, and the coaches' comments.
+1. "third" - The article states that Warrington moved up to fifth, not third, in the Super League table. The summary is inconsistent with the article here.
+2. "win over" - The article states that Widnes held Warrington to a 24-10 victory, but the summary says Warrington won the game. This is also inconsistent with the article.
 
-Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article.
+Therefore, the summary is not consistent with the article, and the spans that need to be corrected are "third" and "win over".
 
 ###Corrected:

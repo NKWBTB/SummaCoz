@@ -18,13 +18,19 @@ Data from the detailed survey will also be used to build a computer model of the
 work is to be carried out to mark the 150th anniversary of the battle of waterloo for the first time.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "150th anniversary",
+  "first time"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the work is to be carried out to mark the 150th anniversary of the Battle of Waterloo.
-2. However, the article states that the work is being done to understand the unique and complex monument, and to identify voids and gaps in the stonework under the surface.
-3. There is no mention of the 150th anniversary of the Battle of Waterloo in the article.
-4. Therefore, the summary is not consistent with the article, as it implies that the work is being done to mark the 150th anniversary of the Battle of Waterloo, while the article does not mention this.
+1. The article states that the Wellington monument was built in 1817, which is before the Battle of Waterloo (1815). Therefore, it cannot be marking the 150th anniversary of the battle, as the battle took place before the monument was built.
+2. The article also states that the monument has been fenced off since 2005 due to falling stone debris, and that the National Trust is using ground-penetrating radar to understand the monument's structure and materials. There is no mention of any work being carried out to mark the 150th anniversary of the battle.
+3. The phrase "first time" is also inconsistent with the article, as there is no mention of any previous attempts to repair or maintain the monument.
 
-Conclusion: The summary is not consistent with the article because it includes information that is not present in the article.
+Therefore, the summary is not consistent with the article, as it contains two inaccuracies (the 150th anniversary and the first time work is being carried out) that are not supported by the information in the article.
 
 ###Corrected:

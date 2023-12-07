@@ -14,12 +14,18 @@ Mourne Mountain Rescue Team, Belfast Coastguard, Irish coastguard, PSNI and the 
 a paraglider has been rescued after being injured on a mountain in county armagh.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "county armagh",
+  "paraglider"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the casualty was airlifted off Slieve Gullion, but the summary only mentions that the casualty was injured on a mountain in County Armagh. This is not consistent, as Slieve Gullion is located in County Down, not Armagh.
-2. The article specifically states that the casualty had a "serious leg injury," but this information is not present in the summary.
-3. The article mentions that multiple agencies were involved in the rescue, including the Mourne Mountain Rescue Team, Belfast Coastguard, Irish Coastguard, PSNI, and the Northern Ireland Ambulance Service. This information is not present in the summary.
+1. "County Armagh" is not consistent with the article because the article states that the rescue took place on Slieve Gullion, which is located in the Mourne Mountains, not in County Armagh. County Armagh is a separate location in Northern Ireland.
+2. "Paraglider" is not consistent with the article because the article does not mention anything about a paraglider. The article only mentions a person with a "serious leg injury" who was airlifted off Slieve Gullion.
 
-Therefore, the summary is not consistent with the article because it does not accurately convey the details of the casualty's location, injuries, and the involvement of multiple agencies in the rescue.
+Therefore, the summary is not consistent with the article because it contains two inaccuracies: the location and the type of activity involved.
 
 ###Corrected:

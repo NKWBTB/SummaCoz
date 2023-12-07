@@ -25,13 +25,26 @@ For the latest rugby union news follow @bbcrugbyunion on Twitter.
 gloucester maintained their 100% start to the european champions cup with a bonus-point win over gloucester at kingsholm.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "win over gloucester",
+  "maintained their 100% start to the european champions cup with a bonus-point",
+  "kingsholm"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Gloucester maintained a 100% start to the European Champions Cup, which is not consistent with the article. The article states that Gloucester won the game 23-20, but the summary implies that they won all of their games in the competition so far, which is not true.
-2. The summary also states that Gloucester won the game with a bonus point, which is not accurate. The article does not mention anything about a bonus point.
-3. The summary does not provide any specific information about the game, such as the scores or the players who scored. The article provides detailed information about the game, including the scores and the players who scored tries.
-4. The summary is very brief and does not provide any context or background information about the game. The article provides more detailed information about the game, including the teams' previous results and the players' performances.
+1. "win over gloucester" - The article does not mention a "win over Gloucester." Instead, it states that Gloucester won the match.
 
-Overall, the summary is not consistent with the article and does not provide accurate or detailed information about the game. It is a very brief and misleading summary that does not reflect the content of the article.
+2. "maintained their 100% start to the european champions cup with a bonus-point" - The article does not mention Gloucester maintaining a 100% start to the European Champions Cup. In fact, the article states that Gloucester won the match, but it does not mention anything about their start to the competition.
+
+3. "kingsholm" - The article does not mention "Kingsholm." The venue for the match was Kingston Park, not Kingsholm.
+
+Therefore, the summary is not consistent with the article. The summary contains three errors:
+
+* It incorrectly states that Gloucester won the match, when in fact the article states that Gloucester won.
+* It incorrectly states that Gloucester maintained a 100% start to the European Champions Cup, when in fact the article does not mention anything about their start to the competition.
+* It incorrectly states that the match was played at Kingsholm, when in fact it was played at Kingston Park.
 
 ###Corrected:

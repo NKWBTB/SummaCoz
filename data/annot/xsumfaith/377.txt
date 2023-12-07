@@ -12,13 +12,20 @@ The boy was taken to Queen Elizabeth University Hospital, in Glasgow, where his 
 a three-year-old boy has been seriously injured after being hit by a car in glasgow.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "three-year-old",
+  "glasgow",
+  "hit by a car"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the incident occurred in Coatbridge, not Glasgow. The summary incorrectly states that the incident occurred in Glasgow.
-2. The article states that the boy was taken to Queen Elizabeth University Hospital, which is located in Glasgow. However, the summary does not mention the hospital or the location of the incident.
-3. The article describes the boy as being "badly injured" and his condition as "serious". The summary does not provide any information about the severity of the boy's injuries.
+1. "three-year-old": The article states that the boy was badly injured in Coatbridge, but does not mention his age. The summary incorrectly states that the boy is three years old.
+2. "glasgow": The article states that the boy was taken to Queen Elizabeth University Hospital in Glasgow, but does not mention that the incident occurred in Glasgow. The summary incorrectly states that the incident occurred in Glasgow.
+3. "hit by a car": The article does not mention that the boy was hit by a car. It states that he was badly injured in an incident, but does not provide any details about what caused the injury. The summary incorrectly states that the boy was hit by a car.
 
-Therefore, the summary is not consistent with the article because it incorrectly states the location of the incident, fails to mention the hospital where the boy was taken, and does not provide information about the severity of the boy's injuries.
+Therefore, the summary is not consistent with the article because it contains three incorrect statements about the boy's age, location, and cause of injury.
 
 ###Corrected:

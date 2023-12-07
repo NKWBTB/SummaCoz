@@ -13,14 +13,19 @@ The alert was raised shortly after 13:45.
 three people have been rescued from a burning boat off a river in the firth of forth, scotland.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "three people have been rescued from a burning boat off a river in the firth of forth, scotland"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that three people were rescued from a burning boat off a river in the Firth of Forth, Scotland.
-2. The article states that the boat capsized in the Durris area, at Craiglug, and that the three people were stranded on an island in the river.
-3. The article does not mention that the boat was burning.
-4. Therefore, the summary is not consistent with the article because it mentions a burning boat, which is not present in the article.
-
-So, the reason why the summary is not consistent with the article is that it includes the detail of the boat being on fire, which is not supported by the article.
+1. The article states that the boat capsized in the Durris area, at Craiglug.
+2. The summary states that the three people were rescued from a burning boat off a river in the Firth of Forth, Scotland.
+3. The article does not mention anything about a burning boat. Instead, it states that the Scottish Fire and Rescue Service initially said one of the three teenagers made it ashore, and efforts were being made to reach the other two who were stranded on an island in the river.
+4. Therefore, the statement in the summary about the boat being on fire is not supported by the article.
+5. Additionally, the summary states that the three people were rescued, but the article only mentions that one of the teenagers made it ashore and efforts were being made to reach the other two.
+6. Therefore, the summary is not consistent with the article because it contains inaccurate information about the boat being on fire and the number of people rescued.
 
 ###Corrected:

@@ -27,12 +27,20 @@ He said that European countries should try to see refugees as potential benefits
 the head of lebanon\'s education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the head of lebanon\\'s education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future"
+]
 
-1. The summary states that the head of Lebanon's education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future.
-2. However, the article does not mention anything about the end of education or the migrant crisis leading to the end of education. Instead, it discusses the challenges faced by Jordan in educating a large number of refugee children and the need for more international assistance to support these efforts.
-3. The article quotes Mohammad Thneibat, Jordan's education minister, as saying that Jordan is trying to educate young refugees for peace and tolerance, but that the country does not have the capacity to deal with such an influx of families without more international assistance.
-4. The article also mentions that there has been financial support from the international community, but that almost two-thirds of the cost of each extra refugee pupil is being taken from Jordan's own education budget.
-5. Therefore, based on the information in the article, it is not accurate to say that the head of Lebanon's education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future. Instead, the article highlights the challenges faced by Jordan in educating refugee children and the need for more international support to address these challenges.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that Mohammad Thneibat, Jordan's education minister, warned that Syria's neighbors do not have the capacity to deal with the influx of refugees without more international assistance.
+2. The article does not mention anything about the head of Lebanon's education department.
+3. The summary states that the head of Lebanon's education department has warned that international efforts to tackle the migrant crisis could lead to the end of education in the future.
+4. This statement is not supported by the article, as there is no mention of the head of Lebanon's education department or any concerns about the end of education.
+5. Therefore, the summary is not consistent with the article.
+
+So, the reason why the summary is not consistent with the article is that it introduces a new character (the head of Lebanon's education department) and a new concern (the end of education) that are not present in the article.
 
 ###Corrected:

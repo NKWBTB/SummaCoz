@@ -27,13 +27,22 @@ Dagenham & Redbridge manager John Still told BBC Radio London:
 dagenham & redbridge reached the top of the premier league with a narrow victory over dagenham and redbridge in the championship play-off final.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "narrow victory over dagenham and redbridge",
+  "final",
+  "dagenham & redbridge reached the top of the premier league with a narrow victory over dagenham and redbridge in the championship play-off final",
+  "top of the premier league"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure, I'd be happy to help! Here's why the provided summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Dagenham & Redbridge reached the top of the Premier League, but the article states that the team was relegated from League One to the National League.
-2. The summary mentions a "championship play-off final," but there is no mention of a play-off final in the article.
-3. The article states that Dagenham & Redbridge lost the match 3-2, while the summary states that the team won the match.
+1. "narrow victory" - The article states that Dagenham & Redbridge needed victory to keep their slim survival hopes alive, which implies that the victory was not narrow. Therefore, this statement in the summary is not consistent with the article.
+2. "final" - The article does not mention a final, as the match was a regular league game. Therefore, this statement in the summary is not consistent with the article.
+3. "dagenham & redbridge reached the top of the premier league" - The article does not mention the Premier League, as the match was played in League One. Therefore, this statement in the summary is not consistent with the article.
+4. "top of the premier league" - As mentioned above, the article does not mention the Premier League, so there is no "top of the premier league" to reach. Therefore, this statement in the summary is not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it contains inaccurate information about the team's performance and the outcome of the match.
+Overall, the summary contains several statements that are not supported by the article, including the use of the word "final," the claim that Dagenham & Redbridge reached the top of the Premier League, and the description of the victory as narrow. These inconsistencies suggest that the summary is not an accurate reflection of the article.
 
 ###Corrected:

@@ -14,15 +14,19 @@ Here's the story - in 15 seconds.
 the number of people living in the uk has risen dramatically in the past year, according to a new report.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the number of people living in the uk has risen dramatically in the past year, according to a new report"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the Global AgeWatch Index 2014 measures the social and economic welfare of those over 60 in 96 countries.
-2. The article does not mention anything about the number of people living in the UK or any other country.
-3. The summary states that the number of people living in the UK has risen dramatically in the past year.
-4. This statement is not supported by the article, as the article does not provide any information about the UK or any changes in population.
-5. Therefore, the summary is not consistent with the article.
+1. The article states that the Global AgeWatch Index 2014 measures the social and economic welfare of those over 60 in 96 countries, but the summary claims that the report is about the number of people living in the UK. This is a consistency issue because the article does not mention anything about the UK.
+2. The article does not mention any information about the number of people living in the UK, nor does it mention any report about the UK. Therefore, the summary statement is not supported by the article.
+3. The article only mentions that Norway is the best country for older people and Afghanistan is the worst, followed by Mozambique. This information is not mentioned in the summary.
+4. The summary statement is not consistent with the information provided in the article, and therefore it is not a accurate summary of the article.
 
-So, the reason why the summary is not consistent with the article is that the article does not provide any information about the UK or any changes in population, while the summary states that the number of people living in the UK has risen dramatically in the past year.
+Overall, the summary statement is not consistent with the article because it claims that the report is about the number of people living in the UK, which is not mentioned in the article. Additionally, the summary does not include any of the information mentioned in the article, such as the ranking of countries for older people.
 
 ###Corrected:

@@ -21,12 +21,18 @@ Follow us on Twitter @BBCNewsEnts, on Instagram, or if you have a story suggesti
 la la land film la la land has won the top prize at the venice film festival.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
-  Sure, here's my reasoning step by step:
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "won the top prize",
+  "won the top"
+]
 
-1. The summary states that La La Land has won the top prize at the Venice Film Festival.
-2. However, the article does not mention anything about La La Land winning the top prize at Venice. Instead, it mentions that the film has enjoyed rave reviews since premiering at the festival.
-3. The article does mention that La La Land has been well-received, but it does not specify that it has won any awards or prizes.
-4. Therefore, the summary is not consistent with the article because it claims that La La Land has won the top prize at Venice, which is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "won the top prize" - This phrase is not consistent with the article because the article does not mention any prize won by La La Land. Instead, it mentions that the film has enjoyed rave reviews since premiering at the Venice Film Festival.
+2. "won the top" - This phrase is also not consistent with the article because there is no mention of La La Land winning any prize or topping anything. The article only mentions that the film has received rave reviews.
+
+Therefore, the summary is not consistent with the article because it makes claims about La La Land winning prizes or topping anything, which are not supported by the information in the article.
 
 ###Corrected:

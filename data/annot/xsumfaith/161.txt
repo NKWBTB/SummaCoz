@@ -17,13 +17,18 @@ Multifuel Energy is a joint venture between power company SSE and and waste mana
 work has started on the construction of a new nuclear power station in west yorkshire.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "new nuclear power station",
+  "has started"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the new power station will be built next to the Ferrybridge Multifuel 1, which is a waste-to-energy plant.
-2. The article mentions that the power station will burn waste, including wood, to produce electricity.
-3. The article does not mention anything about a nuclear power station.
-4. The summary states that work has started on the construction of a new nuclear power station in West Yorkshire, which is not supported by the article.
+1. "new nuclear power station": The article does not mention anything about a new nuclear power station. Instead, it talks about a waste-to-energy power station that will burn refuse, industrial, and commercial waste to produce electricity. Therefore, this statement in the summary is not consistent with the article.
+2. "has started": The article does not mention anything about work having started on the construction of the power station. Instead, it states that the Secretary of State has granted development consent for the new plant and that construction is expected to begin in 2016. Therefore, this statement in the summary is also not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it mentions a nuclear power station, which is not mentioned in the article. The article only mentions a waste-to-energy power station.
+Overall, the summary is not consistent with the article because it contains two statements that are not supported by the information in the article.
 
 ###Corrected:

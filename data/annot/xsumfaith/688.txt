@@ -41,18 +41,34 @@ Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on Y
 e4\'s teen drama skins won numerous awards and gained a cult following over its seven series.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "e4\\'s",
+  "won numerous awards and gained a cult following over its seven series",
+  "e4\\'s teen drama skins won numerous awards and gained a cult following over its seven series"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning for why the following spans in the summary have consistency issues:
 
-1. The summary states that "e4's teen drama Skins won numerous awards and gained a cult following over its seven series."
-2. However, the article states that the cast of Skins was able to find success in Hollywood films and TV shows, with examples of Dev Patel, Jack O'Connell, and Kaya Scodelario.
-3. The summary does not mention anything about the cast's success in Hollywood or their ability to find work after the show ended.
-4. Therefore, the summary is not consistent with the article, as it does not provide an accurate representation of the cast's success after the show ended.
+1. "e4\'s"
 
-Reasoning step by step:
+The summary starts with "e4\'s teen drama Skins", which is incorrect. The correct format would be "e4's teen drama Skins", with no apostrophe after "e4". This is a common mistake, but it's important to use the correct punctuation to avoid confusion.
 
-1. The summary makes a statement about Skins winning awards and gaining a cult following, which is correct.
-2. However, the article provides evidence that the cast of Skins was able to find success in Hollywood and TV shows, which is not mentioned in the summary.
-3. The summary does not include this information, which means it is not consistent with the article.
-4. Therefore, the summary needs to be updated to include the information about the cast's success in Hollywood and TV shows to be consistent with the article.
+2. "won numerous awards and gained a cult following over its seven series"
+
+This sentence is too long and contains multiple clauses. It would be better to break it up into two separate sentences for easier readability. For example:
+
+"Skins won numerous awards and gained a cult following over its seven series."
+
+This sentence is simpler and easier to understand.
+
+3. "e4\'s teen drama Skins won numerous awards and gained a cult following over its seven series"
+
+This sentence is a repeat of the first sentence, but with an extra "e4" added at the beginning. This is unnecessary and can be removed for clarity.
+
+Overall, the summary could be improved by breaking up long sentences, using correct punctuation, and avoiding unnecessary repetition. Here's an improved version of the summary:
+
+"e4's teen drama Skins gained a cult following over its seven series, winning numerous awards along the way."
 
 ###Corrected:

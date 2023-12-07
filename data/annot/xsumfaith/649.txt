@@ -62,14 +62,26 @@ Cole Skuse (Ipswich Town) wins a free kick on the left wing.
 ipswich town put their scoring problems behind them with their biggest win of the season to sink qpr at portman road.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "portman road"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the following spans in the summary have consistency issues:
 
-1. The summary states that Ipswich Town had their biggest win of the season, but the article states that the team had failed to score in seven of their previous 10 Championship games. This is inconsistent, as a team that has struggled to score would not have had their biggest win of the season.
-2. The summary does not mention the scuffed shot that Grant Ward put into the net, which was the first goal for Ipswich Town. This is inconsistent, as the article highlights this goal as a key moment in the match.
-3. The summary states that Ipswich Town "capped the scoring with a calm finish into the corner," but the article does not mention a calm finish. Instead, it states that Tom Lawrence capped the scoring with a "cool finish" into the bottom left corner.
-4. The summary mentions that QPR offered little in attack, but the article states that QPR had a few chances, including a header against the post from Sandro. This is inconsistent, as the article suggests that QPR had more opportunities to score than the summary indicates.
-5. The summary states that the win lifted Ipswich Town up four places to 14th, but the article states that the team moved up to 15th, not 14th. This is inconsistent, as the article provides the correct information about the team's position in the table.
+1. "portman road"
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the details of the match. The summary does not mention key moments from the game, such as the scuffed shot that led to Ipswich Town's first goal, and it does not accurately convey the performance of QPR.
+The article never mentions "portman road" explicitly. The venue where the match was played is mentioned as "Ipswich Town's Portman Road stadium" in the article, but the summary only includes "portman road" without the context of the stadium's name. This inconsistency may lead readers to assume that "portman road" is a specific location or a team, which is not the case.
+
+To fix this issue, the summary should include the full name of the stadium, like this: "Ipswich Town's Portman Road stadium."
+
+Here's the corrected summary:
+
+<Summary>
+Ipswich Town put their scoring problems behind them with their biggest win of the season to sink QPR at Ipswich Town's Portman Road stadium.
+</Summary>
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

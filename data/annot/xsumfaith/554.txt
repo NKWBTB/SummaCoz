@@ -52,28 +52,22 @@ Klopp has delivered another incentive to his Liverpool charges.
 liverpool won a game that will be talked about for generations-a europa league quarter-final against borussia dortmund that will live forever in the memory of all at anfield.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "quarter-final"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you provided have consistency issues:
 
-1. The summary is not consistent with the article because:
+1. "quarter-final"
 
-a. The summary states that Liverpool won a game that will be talked about for generations, but the article does not mention anything about the game being a generational one.
+The article uses the phrase "Europa League quarter-final" twice, but the summary only includes the word "quarter-final" once. This inconsistency could be corrected by including the phrase "Europa League" before "quarter-final" in the summary, like this:
 
-b. The summary mentions that the game was a Europa League quarter-final, but the article does not provide any information about the tournament or the opponent.
+"Liverpool won a thrilling Europa League quarter-final against Borussia Dortmund..."
 
-c. The summary does not mention any specific details about the game, such as the score, the players, or the highlights, while the article provides a detailed account of the match.
+By including the phrase "Europa League" in the summary, it ensures consistency with the language used in the article and provides more context for the reader.
 
-2. The reasons why the summary is not consistent with the article are:
-
-a. The summary is too general and does not provide any specific information about the game, while the article provides a detailed account of the match.
-
-b. The summary does not mention any of the specific details mentioned in the article, such as the goals, the players, or the atmosphere.
-
-c. The summary does not convey the same level of excitement and drama as the article, which describes the game as a "classic" and a "thriller".
-
-d. The summary does not provide any context or background information about the game, such as the teams' performances before the match or the significance of the game for Liverpool.
-
-e. The summary does not mention any of the quotes from the manager or the players that are included in the article, which provide additional insight into the game and the team's performance.
-
-Overall, the summary does not accurately reflect the content of the article and does not provide a consistent representation of the game.
+Overall, the summary should be consistent with the language and structure used in the article to provide a clear and accurate summary of the content.
 
 ###Corrected:

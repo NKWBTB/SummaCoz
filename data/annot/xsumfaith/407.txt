@@ -33,14 +33,19 @@ Coverage from this year's ceremony, where the prize will be presented by the Duc
 the winner of this year\'s bbc children\'s footballer of the year 2017 has been announced.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the winner of this year\\'s bbc children\\'s footballer of the year 2017 has been announced"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The title of the article is "Booker Prize shortlist 2014: The Lives of Others by Neel Mukherjee favored to win".
-2. The title of the summary is "winner of this year's bbc children's footballer of the year 2017 has been announced".
-3. The two titles do not match. The article is about the Booker Prize shortlist, while the summary is about the BBC Children's Footballer of the Year.
-4. The article mentions nothing about children or football.
-5. Therefore, the summary is not consistent with the article.
+1. The article is about the Booker Prize shortlist, while the summary is about the BBC Children's Footballer of the Year.
+2. The summary does not mention anything about the Booker Prize or the authors on the shortlist.
+3. The article is discussing the Booker Prize and the shortlisted authors, while the summary is completely unrelated to the topic.
+4. The summary is not supported by any information in the article, as the article does not mention anything about a BBC Children's Footballer of the Year.
 
-Note that the summary is incorrect and does not reflect the content of the article. The article is about the Booker Prize shortlist, not the BBC Children's Footballer of the Year.
+Therefore, the summary is not consistent with the article, and it appears to be a completely unrelated topic.
 
 ###Corrected:

@@ -28,13 +28,24 @@ There has been intense fighting in Kunduz since Taliban fighters swept into the 
 us president barack obama has called an international inquiry into the taliban attack on an afghan hospital that killed at least 11 people.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "taliban attack",
+  "barack",
+  "afghan hospital",
+  "international",
+  "11"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that President Obama called for an international inquiry into the Taliban attack on an Afghan hospital, but the article does not mention any such inquiry. Instead, the article reports that President Obama expressed his condolences for the deaths and said that the Department of Defense would launch a full investigation.
-2. The summary refers to the attack as a "Taliban attack" on an Afghan hospital, but the article does not use the word "Taliban" to describe the attackers. Instead, the article states that the US military conducted an air strike that may have caused "collateral damage" to the hospital.
-3. The summary does not mention the death toll or the damage caused by the air strike, while the article reports that at least 12 MSF staff members and seven patients were killed, and the hospital was severely damaged.
+1. "Taliban attack" is not consistent with the article because the article states that the US military conducted an air strike on a hospital in Kunduz, and the Taliban was not directly involved in the attack. The article mentions that the Taliban had swept into the city earlier that week, but does not mention any direct involvement in the hospital attack.
+2. "Barack" is not consistent with the article because the name "Barack" does not appear in the article. The article refers to "President Obama" once, but not by his first name.
+3. "Afghan hospital" is not consistent with the article because while the article does mention a hospital in Kunduz, it does not specify that it is an Afghan hospital. The hospital is run by the medical charity MSF (Médecins Sans Frontières), which is an international organization.
+4. "International" is not consistent with the article because while the article does mention an international investigation, there is no indication that the investigation is being conducted by international forces. The article states that the US Department of Defense has launched an investigation.
+5. "11" is not consistent with the article because while the article does mention that at least 12 MSF staff members and patients were killed in the attack, it does not specify the exact number of deaths.
 
-Overall, the summary does not accurately reflect the content of the article. It misrepresents the nature of the attack and the response to it, and omits key details about the death toll and the damage caused.
+Overall, the summary contains several inaccuracies and inconsistencies with the article. It is important to carefully read and summarize the article to ensure accuracy and consistency.
 
 ###Corrected:

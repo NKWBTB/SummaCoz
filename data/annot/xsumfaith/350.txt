@@ -16,12 +16,18 @@ Take part in our new Premier League Predictor game, which allows you to create l
 manchester city have agreed a deal to sign goalkeeper carlos tevez from chinese side shanghai sipg.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "manchester city have agreed a deal to sign goalkeeper carlos tevez from chinese side shanghai sipg"
+]
 
-1. The article states that Shanghai SIPG have signed Carlos Tevez from Boca Juniors, but no details were given over the contract.
-2. The summary states that Manchester City have agreed a deal to sign goalkeeper Carlos Tevez from Chinese side Shanghai SIPG.
-3. The article does not mention anything about Manchester City or a goalkeeper named Carlos Tevez.
-4. The summary is not consistent with the article, as the article does not mention a deal between Manchester City and Shanghai SIPG for a goalkeeper named Carlos Tevez.
-5. Therefore, the summary is not accurate and is likely a mistake or a misinterpretation of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Shanghai SIPG have signed Carlos Tevez, but the summary claims that Manchester City have agreed a deal to sign him. This is inconsistent, as there is no mention of Manchester City in the article.
+2. The article also mentions that Tevez has joined Shanghai SIPG from Boca Juniors, but the summary does not include this information.
+3. Additionally, the summary states that Tevez is a goalkeeper, which is not accurate. The article states that Tevez is a forward.
+
+Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

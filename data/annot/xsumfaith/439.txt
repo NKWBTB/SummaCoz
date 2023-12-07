@@ -41,13 +41,28 @@ He said he had been "surprisingly excited" to be getting married to Ms Formby, w
 the editor of the daily telegraph, nathan gill, has died at the age of 77, his publisher has confirmed.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "nathan",
+  "editor of the daily telegraph",
+  "publisher",
+  "age of 77"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the columnist, Adrian Gill, died at the age of 77, but the summary states that the editor of the Daily Telegraph, Nathan Gill, died at the age of 77.
-2. The article provides the name of the columnist as Adrian Gill, while the summary provides the name of the editor as Nathan Gill.
-3. The article does not mention anything about the editor of the Daily Telegraph, while the summary mentions the death of the editor.
-4. The article provides specific details about Adrian Gill's life, such as his career, illness, and personal life, while the summary does not provide any such details.
+1. "nathan" should be "Adrian" because the name of the person who passed away is Adrian Gill, not Nathan Gill.
+2. "editor of the daily telegraph" should be "columnist for the Sunday Times" because Adrian Gill was a columnist for the Sunday Times, not the editor of the Daily Telegraph.
+3. "publisher" should be "not mentioned" because there is no information in the article about a publisher.
+4. "age of 77" should be "not mentioned" because the article does not mention Adrian Gill's age.
 
-Therefore, the summary is not consistent with the article because it refers to a different person (Nathan Gill) and provides no information about Adrian Gill's life or career. The summary is likely incorrect or incomplete.
+Therefore, the summary should read:
+
+<Summary>
+Adrian Gill, a columnist for the Sunday Times, has died, his paper has confirmed.
+</Summary>
+
+I hope this helps! Let me know if you have any other questions.
 
 ###Corrected:

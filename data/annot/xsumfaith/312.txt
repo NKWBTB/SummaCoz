@@ -18,20 +18,18 @@ The museum said it will take legal action to get compensation for the apparent f
 one of india\'s most iconic artists, singapore item, has been stolen from a temple in the indian capital, delhi.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "indian capital, delhi",
+  "artists, singapore item"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that one of India's most iconic artists has been stolen from a temple in Delhi.
+1. "indian capital, delhi" - The article does not mention Delhi as the location where the sculpture was stolen. Instead, it states that the sculpture was stolen from a Shiva temple in Tamil Nadu, India. Therefore, this statement in the summary is not consistent with the article.
+2. "artists, singapore item" - The article does not mention anything about an artist from Singapore or an item from Singapore. The article only mentions that the Asian Civilisation Museum in Singapore purchased the sculpture from a dealer in New York. Therefore, this statement in the summary is also not consistent with the article.
 
-Inconsistency: This statement is not consistent with the article, as the article does not mention any theft or loss of an artwork from a temple in Delhi. Instead, it reports that the Asian Civilisation Museum (ACM) bought the sculpture of Hindu goddess Uma Parameshvari from a New York dealer in 2007, and that the sculpture is believed to have been stolen from a Shiva temple in Tamil Nadu, India.
-
-2. The summary mentions "Singapore item," which suggests that the stolen artwork is located in Singapore.
-
-Inconsistency: This statement is also not consistent with the article, as the article does not mention any connection between the sculpture and Singapore. Instead, it reports that the ACM bought the sculpture from a New York dealer and that the ASI submitted an official request for its return.
-
-3. The summary does not provide any information about the confession of Aaron Freedman, the manager of Art of the Past, or the fact that the ACM will take legal action to get compensation for the apparent fraud.
-
-Inconsistency: This lack of information is a significant inconsistency with the article, as the article reports that Freedman admitted selling stolen Indian antiquities, including the bronze being returned, and that the ACM will take legal action to get compensation for the apparent fraud.
-
-Conclusion: The summary is not consistent with the article because it contains inaccurate information and omits important details. The summary should be revised to accurately reflect the content of the article.
+Overall, the summary contains two statements that are not supported by the article, and therefore the summary is not consistent with the article.
 
 ###Corrected:

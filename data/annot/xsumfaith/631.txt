@@ -29,13 +29,18 @@ A total of 8,000 people will carry the flame during its 8,000 mile, 70-day journ
 injured paratrooper ben parkinson, who carried the olympic flame, has been swamped with friend requests on social media and seen a huge increase in post addressed to ``hero ben\'\'.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "paratrooper",
+  "hero ben"
+]
 
-1. The summary states that injured paratrooper Ben Parkinson has been swamped with friend requests on social media.
-2. The article states that Ben Parkinson has had thousands of requests on Facebook, but the site limits friend associations to 5,000 per personal page.
-3. Therefore, the statement in the summary that Ben Parkinson has been swamped with friend requests on social media is not consistent with the article, as the article states that he cannot accept all the requests due to the limit on Facebook.
-4. The summary also states that there has been a huge increase in post addressed to "hero Ben", but the article does not mention this.
-5. The article does mention that Ben Parkinson's mother has received a lot of messages of support, but there is no mention of an increase in post addressed to "hero Ben".
-6. Therefore, the summary is not consistent with the article, as it includes information that is not present in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "paratrooper": The article does not mention that Ben Parkinson is a paratrooper. The word "paratrooper" does not appear anywhere in the article. Therefore, this span is not consistent with the article.
+2. "hero ben": The article does mention that Ben Parkinson is a "hero" and that he has received a lot of support and friendship since carrying the Olympic torch. However, the phrase "hero ben" is not a direct quote from the article, and it does not accurately convey the information in the article. The article does not use the phrase "hero ben" to describe Ben Parkinson.
+
+Therefore, based on these two points, the summary is not consistent with the article. The summary includes information that is not present in the article, and it does not accurately convey the information that is present in the article.
 
 ###Corrected:

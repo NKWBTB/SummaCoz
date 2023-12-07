@@ -20,12 +20,18 @@ The cause of the fire remains undetermined.
 an investigation has been launched into the cause of a fire at a recycling site in greater manchester.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "recycling",
+  "an investigation has been launched into the cause of a fire at a recycling site in greater manchester"
+]
 
-1. The summary states that an investigation has been launched into the cause of a fire at a recycling site in Greater Manchester.
-2. However, the article does not mention any investigation into the cause of the fire. Instead, it reports on the Environment Agency's decision to revoke the environmental permit of the site operators, Recovered Fuels Shipping Limited, due to concerns about fire safety.
-3. The article also mentions that the fire service had raised concerns about the impact of a fire at the site on nearby residents, transport, and the environment, but it does not mention any investigation into the cause of the fire.
-4. Therefore, the summary is not consistent with the article because it mentions an investigation into the cause of the fire, but the article does not mention any such investigation.
-5. It is likely that the summary is not accurate and needs to be corrected to reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. "recycling" - The article does not mention the word "recycling" at all. The summary should be a concise summary of the article's content, and including information that is not present in the article is not consistent.
+2. "an investigation has been launched into the cause of a fire at a recycling site in greater manchester" - The article does mention a fire at a recycling site, but it does not mention an investigation into the cause of the fire. The summary should be accurate and not include information that is not present in the article.
+
+Therefore, the summary has consistency issues and should be revised to accurately reflect the content of the article.
 
 ###Corrected:

@@ -14,11 +14,18 @@ So far they've spotted shrimp, jellyfish and black pillow lava from an underwate
 images courtesy of afp, epa, getty images and climbers and other sea creatures in the ocean have been caught on camera.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "images courtesy of afp, epa, getty images and climbers"
+]
 
-1. The article states that the team is using a robotic submarine called Deep Discoverer to explore the Mariana Trench and that the expedition is looking for things like fish, mud volcanoes, and deep sea coral.
-2. The summary states that "images courtesy of afp, epa, getty images and climbers and other sea creatures in the ocean have been caught on camera."
-3. The article does not mention anything about images or photographs of sea creatures or climbers being caught on camera. Instead, it mentions that the team is using a camera on the Deep Discoverer submarine to explore the trench.
-4. Therefore, the summary is not consistent with the article because it mentions photographs and sea creatures, which are not mentioned in the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that the team is using a robotic submarine called Deep Discoverer to explore the Mariana Trench, and that the expedition is looking for things like fish, mud volcanoes, and deep sea coral.
+2. The summary mentions "images courtesy of afp, epa, getty images." These are all news agencies that provide images to the media, but there is no mention of these images being related to the Deep Discoverer expedition or the Mariana Trench in the article.
+3. The summary also mentions "climbers and other sea creatures in the ocean." There is no mention of climbers or other sea creatures in the article, and it is unlikely that the Deep Discoverer expedition would be exploring the ocean for climbers or other sea creatures, as their focus is on exploring the deepest parts of the trench.
+
+Therefore, the inconsistency in the summary is that it mentions things that are not present in the article (images from news agencies and climbers/other sea creatures), and it does not accurately reflect the focus of the Deep Discoverer expedition as described in the article.
 
 ###Corrected:

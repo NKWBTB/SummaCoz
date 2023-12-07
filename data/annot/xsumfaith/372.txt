@@ -18,13 +18,19 @@ The last increase in burial space in Oxford was in 1932.
 the site of a new burial site in oxford has been approved by the city council.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "approved"
+]
 
-1. The summary states that the site of a new burial site in Oxford has been approved by the city council.
-2. However, the article states that the council has not found a suitable new burial site and has been searching for many years.
-3. The article also mentions that the two remaining cemeteries in Oxford are expected to be full by 2018 and 2021, and that only a few reserved plots and the interment of ashes would be possible after they are full.
-4. Therefore, it is clear that the summary is not consistent with the article, as there is no mention of the council approving a new burial site.
-5. The inconsistency can be attributed to the fact that the summary is a misleading statement that does not accurately reflect the content of the article.
-6. The article provides information about the council's ongoing search for a new burial site and the limited burial space available in Oxford, but the summary does not convey this information accurately.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the city council has not given up and is "still exploring options" for a new burial site. This implies that no specific site has been approved yet.
+2. The article mentions that the council has been searching for a suitable new burial site for many years, but so far, all the council-owned sites that have been identified have had to be discounted due to various reasons such as size, ground conditions, high water table, or covenant restrictions.
+3. The article does not mention anything about a specific site being approved. Instead, it states that the council is still exploring options and that only the reopening of family plots, the use of a few reserved plots, and the interment of ashes would be possible after the two remaining cemeteries are full.
+4. Therefore, based on the information in the article, it is not accurate to say that the site of a new burial site in Oxford has been approved by the city council. Instead, the council is still in the process of exploring options and has not yet identified a suitable site.
+
+So, the span "approved" in the summary is not consistent with the article.
 
 ###Corrected:

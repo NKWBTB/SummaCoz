@@ -55,23 +55,19 @@ Foul by Andy Taylor (Blackpool).
 colchester\'s unbeaten run came to an end as they were held to a draw at blackpool.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "draw"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-Step 1: Identify the main points of the article
+1. The article states that Blackpool and Colchester United played a match that ended in a draw, with the final score being 1-1.
+2. The summary states that Colchester's unbeaten run came to an end, which implies that they did not win the match.
+3. However, the article states that the match ended in a draw, which means that neither team won or lost.
+4. Therefore, the statement in the summary that Colchester's unbeaten run came to an end is not consistent with the article, as the match ended in a draw rather than a loss.
 
-* Blackpool and Colchester United played a match that ended in a draw.
-* Colchester United equalized after Blackpool scored the first goal.
-* There were several missed opportunities for both teams to score.
-
-Step 2: Identify the main points of the summary
-
-* Colchester United's unbeaten run came to an end.
-
-Step 3: Compare the main points of the article and the summary
-
-* The article mentions that the match ended in a draw, but the summary states that Colchester United's unbeaten run came to an end. This is not consistent, as a draw does not necessarily mean that an unbeaten run has ended.
-
-Therefore, the summary is not consistent with the article.
+So, the inconsistency lies in the fact that the summary states that Colchester's unbeaten run came to an end, while the article states that the match ended in a draw.
 
 ###Corrected:

@@ -31,12 +31,23 @@ Muir broke her own British 1500m record at the Diamond League meeting in Paris i
 scottish middle-distance runner eilish mccolgan says she has been ``overwhelmed\'\'by the number of female athletes who have broken the world record.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "number of female athletes who have broken the world record",
+  "scottish middle-distance runner eilish"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's the reasoning step by step:
 
 1. The summary states that Eilish McColgan said she has been "overwhelmed" by the number of female athletes who have broken the world record.
-2. However, the article does not mention anything about McColgan being overwhelmed by the number of record breakers. In fact, the article only mentions McColgan's concerns about the legitimacy of Muir's record-breaking attempt.
-3. Therefore, the summary is not consistent with the article, as it implies that McColgan is overwhelmed by the number of record breakers, while the article does not support this statement.
-4. The discrepancy between the summary and the article could be due to a misinterpretation or misrepresentation of McColgan's comments. The article quotes McColgan as saying that she had concerns about the legitimacy of Muir's record-breaking attempt, but the summary does not accurately reflect this.
-5. Overall, the summary is not a accurate representation of the article and is not consistent with the information provided.
+2. However, the article does not mention anything about the number of female athletes breaking the world record. Instead, it focuses on Muir breaking McColgan's 25-year-old record.
+3. The article does mention that McColgan had raised concerns about the criteria for record-breaking attempts, but this is not related to the number of female athletes breaking the world record.
+4. Therefore, the statement in the summary is not supported by the information in the article, and is considered inconsistent.
+
+Specifically, the two spans in the summary that have consistency issues are:
+
+* "number of female athletes who have broken the world record" - This statement is not supported by the article, as the article only mentions Muir breaking McColgan's record, and does not mention any other female athletes breaking world records.
+* "scottish middle-distance runner eilish" - This statement is also not supported by the article, as the article refers to McColgan as a "former middle-distance runner" and does not use the term "scottish middle-distance runner".
 
 ###Corrected:

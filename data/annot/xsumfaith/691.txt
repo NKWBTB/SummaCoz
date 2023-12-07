@@ -12,14 +12,20 @@ If you'd like to find out about how to get into martial arts, read our special g
 great britain\'s taekwondo fighter mahama cho was born in the ivory coast, but after experiencing physical bullying at school he moved to the uk in 1997 in search of a better life.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "great britain\\'s taekwondo fighter mahama cho was born in the ivory coast, but after experiencing physical bullying at school he moved to the uk in 1997 in search of a better life"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the athlete, Mahama Cho, experienced racial abuse and briefly considered representing France.
-2. However, the summary states that Mahama Cho was born in the Ivory Coast and moved to the UK in 1997 in search of a better life.
-3. These two statements are not consistent with each other. Mahama Cho was not born in the UK, and he did not move to the UK in 1997 for a better life.
-4. Therefore, the summary is not consistent with the article.
+1. The article states that the taekwondo fighter's name is Mahama Cho, but the summary says "great britain's taekwondo fighter mahama cho." This is not consistent, as the article does not mention that Mahama Cho is a British taekwondo fighter.
+2. The article states that Mahama Cho was born in the Ivory Coast, but the summary says he was born in the UK. This is not consistent, as the article does not mention that Mahama Cho was born in the UK.
+3. The article states that Mahama Cho moved to the UK in 1997 due to physical bullying at school, but the summary does not mention this. Instead, it says he moved to the UK in search of a better life, which is not supported by the article.
 
-The reason for this inconsistency is that the summary contains incorrect information about Mahama Cho's background and motivations. The article provides accurate information about his experiences with racial abuse and his decision to consider representing France, but the summary contains false information about his birthplace and move to the UK.
+Therefore, the summary is not consistent with the article, and the following spans have consistency issues:
+
+[ "great britain\\'s taekwondo fighter mahama cho was born in the ivory coast, but after experiencing physical bullying at school he moved to the uk in 1997 in search of a better life" ]
 
 ###Corrected:

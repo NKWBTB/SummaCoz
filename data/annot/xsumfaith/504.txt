@@ -19,13 +19,29 @@ Katherine Cawley, regional director at Monitor, said: "People are relying on Sou
 a # 9.8 m deficit recorded for 2014/15 at an essex hospital is to be investigated by a health service watchdog.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "essex",
+  "9.8",
+  "health service watchdog",
+  "2014/15"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the hospital recorded a £9.8m deficit in 2014/15, but the article does not mention any specific deficit figure.
-2. The article does mention that the hospital is facing a planned £7.8m deficit, but there is no mention of a £9.8m deficit.
-3. The summary also mentions that the health service watchdog is investigating the deficit, but the article does not mention any investigation by Monitor.
-4. The article does mention that Monitor is looking into the financial sustainability of the hospital, but the focus of the investigation is on the hospital's financial management and the strength of its financial plans, rather than a specific deficit figure.
+1. "Essex": The article does not mention the word "Essex" at all. The correct location is "Southend".
+2. "9.8": The article mentions a planned £7.8m deficit, not a recorded £9.8m deficit.
+3. "Health service watchdog": The article mentions "Monitor", not "health service watchdog".
+4. "2014/15": The article does not mention the specific financial year 2014/15. The deficit is mentioned as a planned deficit for the current financial year.
 
-Therefore, the summary is not consistent with the article because it mentions a specific deficit figure that is not supported by the article, and it also mentions an investigation by Monitor that is not mentioned in the article.
+Therefore, the summary has consistency issues in the following spans:
+
+* "Essex" should be "Southend"
+* "9.8" should be "7.8"
+* "Health service watchdog" should be "Monitor"
+* "2014/15" should be removed as it is not mentioned in the article.
+
+I hope this helps!
 
 ###Corrected:

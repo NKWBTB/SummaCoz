@@ -19,14 +19,24 @@ It was created to showcase opera, musicals, plays and all kinds of entertainment
 alexandra palace has started a # 1m fundraising campaign to bring its victorian theatre back to life after lying unused for 80 years.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "victorian",
+  "80 years",
+  "bring its victorian theatre back to life after lying unused for 80 years"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Alexandra Palace has started a #1m fundraising campaign to bring its Victorian theatre back to life after lying unused for 80 years.
-2. However, the article states that the theatre has not been unused for 80 years, but has been in use for theatrical performances, cinema screenings, comedy, and live music.
-3. The article also states that the theatre has been refurbished and repaired, and that the renovations are expected to be completed in 2018.
-4. Therefore, the statement in the summary that the theatre has been lying unused for 80 years is not consistent with the information in the article.
-5. Additionally, the summary states that the fundraising campaign is to bring the theatre back to life, implying that the theatre is currently not in use and has been dormant for a long time. However, the article states that the theatre is still in use and has been refurbished, so the fundraising campaign is not necessary to bring the theatre back to life.
+1. "victorian" - The article does not mention the word "victorian" to describe the theatre. The theatre was founded in 1875, but the article only states that it has been unused for decades. Therefore, the summary should not have included the word "victorian".
+2. "80 years" - The article states that the theatre has been unused for decades, but it does not specify the exact number of years. The summary should not have included the number "80" without evidence from the article.
+3. "bring its victorian theatre back to life after lying unused for 80 years" - The article does not mention the word "victorian" to describe the theatre, and it does not state that the theatre has been unused for 80 years. The summary should not have included these phrases.
 
-Overall, the summary is not consistent with the information in the article, as it contains inaccuracies and exaggerations.
+Therefore, the summary should have read:
+
+"Alexandra Palace has started a £1m fundraising campaign to restore its historic theatre, which has been unused for decades."
+
+This summary is more accurate and consistent with the information provided in the article.
 
 ###Corrected:

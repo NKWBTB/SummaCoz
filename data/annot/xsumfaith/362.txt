@@ -23,13 +23,20 @@ Ferguson will make changes for Monday's FA Cup quarter-final replay at Chelsea a
 manchester united manager sir alex ferguson says his side are capable of beating premier league leaders manchester city in the premier league.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "premier league",
+  "premier league leaders ",
+  "manager sir alex"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Manchester United manager Sir Alex Ferguson believes his side can beat Premier League leaders Manchester City in the Premier League.
-2. However, the article does not contain any quote or statement from Ferguson regarding Manchester City.
-3. The article only mentions Ferguson's comments about United's current form and their focus on the next league game against Chelsea.
-4. Therefore, the summary is not consistent with the article as it attributes a statement to Ferguson that is not present in the article.
+1. "premier league" - The article does not mention the word "premier league" at all. The summary should not have included this phrase, as it is not supported by the article.
+2. "premier league leaders" - The article mentions "United remain 15 points clear at the top of the table with eight games left" and "Manchester United have won 50 of a possible 54 points in their last 18 Premier League games", but it does not mention "premier league leaders". The summary should not have included this phrase, as it is not consistent with the article.
+3. "manager sir alex" - The article mentions "Ferguson" but not "manager sir alex". The summary should not have included this phrase, as it is not consistent with the article.
 
-Conclusion: The summary is not accurate as it contains information that is not supported by the article.
+Therefore, the summary is not consistent with the article, and the inconsistent spans are "premier league", "premier league leaders", and "manager sir alex".
 
 ###Corrected:

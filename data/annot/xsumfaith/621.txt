@@ -72,14 +72,22 @@ It raises the possibility of a truly strange scenario - Brexit ministers asking 
 arguments over brexit have been raging in parliament and the country since june\'s leave vote and this week they move to the high court.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "june\\'s",
+  "this week"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you mentioned have consistency issues:
 
-The provided summary is not consistent with the article because it does not accurately represent the main points of the article. Here's why:
+1. "june's" - The possessive form of "June" should be "June's" (with an apostrophe), not "june's" (without an apostrophe).
+2. "this week" - The phrase "this week" should be set off with commas, not parentheses.
 
-1. Focus on the High Court case: The summary mentions "arguments over Brexit" and "this week" but does not specify that the article is about a High Court case. The article, however, focuses on the legal challenge to the government's right to trigger Article 50 without a vote in Parliament.
-2. Lack of detail: The summary does not provide any details about the legal arguments, the parties involved, or the potential implications of the case. The article, on the other hand, provides a detailed explanation of the legal issues at stake, the positions of the government and the claimants, and the potential impact of the case on the Brexit process.
-3. Incorrect emphasis: The summary suggests that the article is about "arguments over Brexit" in general, rather than the specific legal challenge being brought before the High Court. The article, however, is focused on the legal aspect of the Brexit process and the role of the High Court in it.
+Here's the corrected summary with the consistency issues addressed:
 
-Overall, the summary does not accurately represent the content or focus of the article, and is therefore not consistent with it.
+arguments over Brexit have been raging in Parliament and the country since June's leave vote, and this week they move to the High Court.
+
+I hope that helps! Let me know if you have any other questions.
 
 ###Corrected:

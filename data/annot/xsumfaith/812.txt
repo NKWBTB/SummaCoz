@@ -12,12 +12,22 @@ She was treated before being flown to Cardiff's University Hospital of Wales.
 a climber has been airlifted to hospital after being rescued from the sea off the coast of bridgend. been named.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "climber",
+  "bridgend. been named.",
+  "sea",
+  "bridgend. been named"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the person rescued was a rider, not a climber. The summary incorrectly identifies the person as a climber.
-2. The article states that the person was rescued from Sker Beach, near Kenfig Nature Reserve, but the summary does not mention the location.
-3. The article states that the person was treated for head injuries and was cold, but the summary does not mention these details.
+1. "climber" - The article does not mention anything about a climber. The rescued person was a rider, not a climber. Therefore, this word is not consistent with the article.
+2. "bridgend. been named." - The article does not mention the name of the location where the rescue took place. The correct location is Sker Beach, near Kenfig Nature Reserve. Therefore, this phrase is not consistent with the article.
+3. "sea" - The article does not mention the sea. The rescue took place on the beach, not in the sea. Therefore, this word is not consistent with the article.
+4. "bridgend. been named" - As mentioned earlier, the correct location is Sker Beach, near Kenfig Nature Reserve, not Bridgend. Therefore, this phrase is not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it incorrectly identifies the person rescued, fails to mention the location, and omits important details about the person's condition.
+Overall, the summary contains several inconsistencies with the article, specifically with regard to the identity of the rescued person, the location of the rescue, and the type of environment where the rescue took place.
 
 ###Corrected:

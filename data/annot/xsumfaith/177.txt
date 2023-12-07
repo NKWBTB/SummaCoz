@@ -25,14 +25,20 @@ So far 75 UK blocks have failed fire safety tests in 26 areas.
 a council has said it is " devastated " after one of its tower blocks failed fire safety tests.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "devastated",
+  NaN
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the council is "devastated" after one of its tower blocks failed fire safety tests.
-2. However, the article states that the council is not devastated, but rather, they are determined to get to the bottom of what happened.
-3. The summary does not mention the reason for the failure of the fire safety tests, while the article reveals that the cladding at Hanover House was not made of the solid aluminium panels ordered, and that a single element of the cladding system had failed new fire tests.
-4. The summary does not provide any specific information about the tower block that failed the fire safety tests, while the article provides detailed information about Hanover House, including the fact that the cladding was not what was expected, and that residents are angry and feel betrayed.
-5. Therefore, the summary is not consistent with the article, as it does not provide the same level of detail or accuracy about the tower block that failed the fire safety tests.
+1. The word "devastated" in the summary is not consistent with the article. The article states that the council is "not stopping until we get to the bottom of what happened," but it does not use the word "devastated."
+2. The word "devastated" has a negative connotation, implying a strong emotional response. The article does not describe the council's response in this way. Instead, it emphasizes the council's determination to investigate the issue and ensure the safety of its residents.
+3. The summary does not provide any specific information about the council's response or the reason for the failure of the fire safety tests. It simply states that the council is "devastated," which is not supported by the article.
+4. The article provides specific information about the council's response, including the fact that it will not stop until it gets to the bottom of what happened, and the fact that it is carrying out independent testing of the cladding at its 24 tower blocks. This information is not included in the summary.
 
-Overall, the summary is too general and does not accurately reflect the content of the article. It does not provide specific information about the tower block that failed the fire safety tests, and it does not mention the reason for the failure, which is revealed in the article as being due to the cladding not being what was expected.
+Therefore, based on the above reasoning, the summary is not consistent with the article because it uses a word ("devastated") that is not supported by the article's content, and it does not provide specific information about the council's response or the reason for the failure of the fire safety tests.
 
 ###Corrected:

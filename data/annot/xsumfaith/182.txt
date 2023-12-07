@@ -23,13 +23,23 @@ Crocodiles are a common feature of Australia's tropical north and numbers have i
 a golfer has said he was surprised to have been attacked by a crocodile at his golf course in australia.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "at his golf course",
+  "he was surprised"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the golfer was "surprised" to have been attacked by a crocodile, implying that the attack was unexpected.
-2. However, the article states that crocodiles are a common sight on the golf course and that signs warn players of the dangers. This suggests that the golfer should have been aware of the possibility of a crocodile attack.
-3. The golfer, John Lahiff, is quoted in the article as saying that he had seen crocodiles on the course before and "should have realised to be a bit more aware". This further suggests that the attack was not entirely unexpected.
-4. The summary does not mention the golfer's comments about seeing crocodiles on the course before or the fact that he was taken to hospital with injuries. These details are not supported by the summary and are therefore inconsistent with the article.
+1. "at his golf course": The article states that the incident occurred on the Palmer Sea Reef golf course in Port Douglas, Queensland. However, the summary does not mention the name of the golf course or the location.
 
-Therefore, the summary is not consistent with the article because it implies that the golfer was attacked by a crocodile unexpectedly, when in fact the article states that crocodiles are a common sight on the course and that the golfer should have been aware of the danger.
+Consistency issue: The summary should have included the name of the golf course or the location to ensure consistency with the article.
+
+2. "he was surprised": The article states that Mr. Lahiff told ABC News that he had seen crocodiles on the golf course before and "should have realised to be a bit more aware." However, the summary states that he was surprised by the attack.
+
+Consistency issue: The summary should have reflected Mr. Lahiff's statement in the article, which suggests that he was not surprised by the attack but should have been more aware of the crocodiles on the course.
+
+Overall, the summary should have included more specific details from the article to ensure consistency and accuracy.
 
 ###Corrected:

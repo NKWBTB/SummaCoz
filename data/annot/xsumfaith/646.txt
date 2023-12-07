@@ -12,12 +12,21 @@ A 17-year-old boy arrested on suspicion of murder has been bailed and investigat
 a man who died after he suffered a serious head injury at a party in barnsley has been named.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "barnsley",
+  "party",
+  "head injury at a party in barnsley"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that Adrian Fatchett died after suffering a serious head injury, but the summary does not mention anything about a head injury.
-2. The article states that the death occurred at a house in Highfield Avenue, Athersley South, but the summary does not provide any information about the location of the incident.
-3. The article states that the 17-year-old boy was arrested on suspicion of murder, but the summary does not mention anything about an arrest or suspicion of murder.
+1. The article states that Adrian Fatchett was injured at a house in Highfield Avenue, Athersley South. There is no mention of a party or any event taking place at the house.
+2. The summary states that Adrian Fatchett died after suffering a serious head injury at a party in Barnsley. This is not supported by the article, which does not mention any party or event taking place in Barnsley.
+3. The article does mention that Adrian Fatchett was treated at the scene by paramedics, but there is no mention of a head injury. The article only states that he was injured.
+4. The summary also mentions a 17-year-old boy being arrested on suspicion of murder, but this is not mentioned in the article.
 
-Therefore, the summary is not consistent with the article because it does not provide the same information as the article. The summary only provides a brief statement about the name of the deceased, but it does not provide any details about the circumstances of the death or the investigation.
+Therefore, the summary is not consistent with the article because it includes details that are not present in the article, such as a party in Barnsley and a head injury. Additionally, the summary omits important details that are present in the article, such as the fact that Adrian Fatchett was treated by paramedics and that a 17-year-old boy was arrested on suspicion of murder.
 
 ###Corrected:

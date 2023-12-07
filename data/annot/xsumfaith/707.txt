@@ -28,12 +28,24 @@ Risk campaign manager Kathy Voss added: "Though she shouldn't even find herself 
 the husband of a british-iranian charity worker jailed in iran is ``terrified\'\'about the outcome of his wife\'s appeal, he has said.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "is ``terrified",
+  "terrified",
+  "british-iranian charity worker"
+]
 
-1. The summary states that the husband of a British-Iranian charity worker jailed in Iran is "terrified" about the outcome of his wife's appeal.
-2. However, the article does not mention the word "terrified" or any similar language to describe the husband's feelings.
-3. Instead, the article quotes the husband, Richard Ratcliffe, as saying that he is "increasingly on tenterhooks as to what could happen" and that he will know when the appeal has happened and what was said in the courtroom.
-4. The summary also does not mention the fact that Mrs. Zaghari-Ratcliffe has been sentenced to five years in jail, or that she has spent time in solitary confinement, which are both key details in the article.
-5. Therefore, the summary is not consistent with the article, as it does not accurately convey the information and details provided in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "is `terrified`": The word "is" is not in the original article. The article states "Mr Ratcliffe said he was terrified," which is a different phrasing.
+2. "terrified": The word "terrified" is repeated in the summary, but it's not clear if this is intended to convey the same meaning as the original article. The article states "Mr Ratcliffe said he was terrified," which implies a stronger emotion than simply being "terrified."
+3. "british-iranian charity worker": The article does not use the phrase "british-iranian charity worker" to describe Mrs. Zaghari-Ratcliffe. Instead, it uses the phrase "British-Iranian woman."
+
+Therefore, the summary does not accurately reflect the information in the original article. The inconsistencies in the summary are:
+
+* Using "is" instead of "said" to describe Mr. Ratcliffe's statement.
+* Repeating the word "terrified" without clarifying if it means the same thing as the original article.
+* Using the phrase "british-iranian charity worker" to describe Mrs. Zaghari-Ratcliffe, which is not the phrasing used in the original article.
 
 ###Corrected:

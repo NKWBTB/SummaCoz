@@ -18,12 +18,20 @@ Sidwell told BBC Radio Sussex: "When I signed the contract last year no-one expe
 steve sidwell says he has done all he can to earn a new brighton contract and play in the premier league next season.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "has done all he can to earn a new brighton contract",
+  "steve"
+]
 
-1. The summary states that Steve Sidwell says he has done all he can to earn a new Brighton contract and play in the Premier League next season.
-2. However, the article does not mention anything about Sidwell wanting to earn a new contract or play in the Premier League next season.
-3. Instead, the article states that Sidwell is hoping to sign a new deal with Brighton, but only if the club is promoted to the Premier League.
-4. The article also mentions that Sidwell has made 32 Championship appearances this season to help Brighton achieve promotion, and he believes he deserves the opportunity to play at the top level again.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. Specifically, the summary does not mention the condition that Brighton must be promoted to the Premier League for Sidwell to sign a new deal, which is a key point in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "has done all he can to earn a new brighton contract": This sentence is not consistent with the article because the article states that Sidwell has made 32 Championship appearances this season to help Brighton achieve promotion, but it does not mention anything about him earning a new contract. In fact, the article states that Sidwell's contract is due to expire at the end of the campaign, which suggests that he has not yet earned a new contract.
+2. "steve": This is a minor consistency issue, but the article never mentions Sidwell's first name as "Steve." The article refers to him only as "Sidwell."
+
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the text. To make the summary consistent with the article, it should be revised to exclude the phrases "has done all he can to earn a new brighton contract" and "steve." Here's a revised summary that is consistent with the article:
+
+"Sidwell hopes to sign a new deal with Brighton after making 32 Championship appearances this season to help the team achieve promotion to the Premier League for the first time in 34 years."
 
 ###Corrected:

@@ -20,13 +20,23 @@ The cause of the fire remains undetermined.
 a company which runs a paper recycling plant in salford where a major fire broke out has had its environmental permit revoked.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "runs a paper recycling plant in salford"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the company's environmental permit has been revoked, but the article does not mention this. The article only states that the Environment Agency (EA) has taken enforcement action against the site operators and that the company is still required to remove all the waste.
-2. The summary does not provide any information about the cause of the fire, while the article states that the cause of the fire remains undetermined.
-3. The summary mentions that the company runs a paper recycling plant in Salford, but the article does not provide this information.
-4. The summary does not mention the EA's decision to revoke the environmental permit, nor does it mention the date by which the company must remove all the waste.
+1. The article states that the company, Recovered Fuels Shipping Limited, operates a paper recycling plant in Salford. However, the summary only mentions that the company "runs a paper recycling plant in Salford."
+2. The article does not use the word "runs" to describe the company's operations. Instead, it says that the company "operates" the paper recycling plant.
+3. The word "operates" is a more specific and precise word than "runs." It implies that the company is actively involved in the day-to-day activities of the paper recycling plant, whereas "runs" could be more general and imply that the company is simply responsible for the plant's existence.
+4. Therefore, to make the summary consistent with the article, it should use the word "operates" instead of "runs."
 
-Therefore, the summary is not consistent with the article because it contains information that is not present in the article, and it omits information that is present in the article. The summary also fails to provide context and details that are important to understanding the situation.
+So, the revised summary should be:
+
+"a company which operates a paper recycling plant in Salford where a major fire broke out has had its environmental permit revoked."
+
+This ensures that the summary is consistent with the article and accurately reflects the information it contains.
 
 ###Corrected:

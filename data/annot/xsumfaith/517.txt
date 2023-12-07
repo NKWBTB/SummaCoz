@@ -21,13 +21,23 @@ Charlotte was less impressed after taking a tumble on the concrete after leaving
 the duchess of cambridge tried her hand at conducting a prestigious symphony orchestra on the final day of the royal tour of germany.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "cambridge tried her hand at conducting a prestigious",
+  "germany"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the Duchess of Cambridge did not conduct a symphony orchestra. Instead, she accompanied six children trying out different instruments and later went on a guided tour of a helicopter with her children.
-2. The summary incorrectly states that the Duchess of Cambridge tried her hand at conducting a prestigious symphony orchestra. This is not supported by the article, which does not mention any conducting activity by the Duchess.
-3. The article mentions that the Duchess played the flute at school, but the summary does not include this information.
-4. The summary is too focused on the Duchess's activities and does not provide a balanced summary of the article, which also covers the Duke of Cambridge's activities and the children's interactions with the orchestra.
+1. The article states that the Duchess of Cambridge played the flute at school, but the summary does not mention anything about the Duchess playing the flute.
+2. The article states that the royal couple listened to a performance of a symphony especially adapted for young people, but the summary does not mention anything about the symphony being adapted for young people.
+3. The article states that the Duke of Cambridge gave Prince George and Princess Charlotte a guided tour of a helicopter at the Airbus factory in Hamburg, but the summary does not mention anything about the Duke giving his children a tour of a helicopter.
+4. The article states that the Duchess was introduced to music in front of the Duke and Duchess, but the summary does not mention anything about the Duke being present.
 
-Overall, the summary is not consistent with the article because it exaggerates the Duchess's role and leaves out important details.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the information in the article. The spans that have consistency issues are:
+
+* "cambridge tried her hand at conducting a prestigious" - The Duchess did not conduct a symphony orchestra, she played the flute.
+* "germany" - The article does not mention anything about the royal tour being in Germany.
 
 ###Corrected:

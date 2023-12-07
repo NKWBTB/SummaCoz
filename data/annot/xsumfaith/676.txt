@@ -24,14 +24,19 @@ These will include aircraft sending their position at least every 15 minutes, or
 a deal has been struck on using satellites to track planes, motivated by the disappearance of malaysia airlines flight mh370 last year.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "last year"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the deal was motivated by the disappearance of Malaysia Airlines flight MH370 last year.
-2. However, the article does not mention MH370 as a motivation for the deal. Instead, it states that the disappearance of MH370 exposed weaknesses in worldwide air navigation systems and that the current system leaves around 70% of the world's airspace uncovered.
-3. The article does mention the July discovery of aircraft debris on Reunion Island, which was later confirmed to be from MH370, but this is not presented as a motivation for the deal.
-4. Therefore, the summary is not consistent with the article because it implies that the deal was motivated by MH370, when the article does not present it as such.
+1. The article states that the disappearance of flight MH370 exposed weaknesses in worldwide air navigation systems, and that the current system leaves around 70% of the world's airspace uncovered. This implies that the disappearance of MH370 happened in the past, but the article does not specify when.
+2. The summary states that the deal was struck "last year," which suggests that the disappearance of MH370 also happened last year. However, this is not consistent with the article, which does not specify when the disappearance occurred.
+3. The article states that the decision to dedicate part of the radio spectrum to a global flight tracking system was taken at a UN conference in Geneva on Wednesday, and that the conference aimed to improve on the current tracking system which relies on ground-based radars. This suggests that the conference took place on Wednesday, and that the decision to dedicate part of the radio spectrum to a global flight tracking system was made at that conference.
+4. The summary does not mention the date of the conference or the decision, only stating that a deal has been struck on using satellites to track planes "last year." This is not consistent with the article, which states that the decision was made at a conference on Wednesday.
 
-In conclusion, the summary is not accurate because it adds a motivation for the deal that is not present in the article.
+Therefore, the inconsistency in the summary is that it states that the deal was struck "last year," which is not supported by the article, which does not specify when the disappearance of MH370 occurred or when the conference took place.
 
 ###Corrected:
