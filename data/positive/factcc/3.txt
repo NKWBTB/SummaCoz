@@ -1,0 +1,16 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+(CNN)"Star Wars" fans will get more than they bargained for when the saga comes to digital HD on Friday. The collection of the first six "Star Wars" movies will also include many special features, some of which give fans a rare glimpse behind the scenes of the saga. One focus of the features will be the sound effects of the movies, including that of the insect-like Geonosians, as seen in "Star Wars Episode II: Attack of the Clones." 'Star Wars' universe gets its first gay character . In the exclusive first-look video, sound designer Ben Burtt explains which animals were used to capture the alien sounds made by the Geonosians. Take a look at the video above to find out. 'Star Wars' films available for digital download for first time .
+</Article>
+
+<Claim>
+one focus of the features will be the sound effects of the movies.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that one focus of the special features will be the sound effects of the movies, including the alien sounds made by the Geonosians in "Star Wars Episode II: Attack of the Clones."
+
+###Corrected:

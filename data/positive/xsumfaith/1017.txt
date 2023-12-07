@@ -1,0 +1,33 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+They believe ministers are placing too much emphasis on the environment at the expense of trees grown for timber.
+Britain is currently the world's third largest importer of wood.
+Ministers said they were encouraging commercial forestry organisations to invest in woodland creation.
+Conifer forests have been a familiar sight for half a century in Wales and have helped the timber industry grow.
+But Confor, which promotes the forestry industry, warns that at least 16,000 hectares - or 40,000 acres - of commercial forest have been lost since 2001 and need to be re-planted to meet needs.
+Half of the woodland is managed by Natural Resources Wales with the the other half by private companies.
+As an industry, it is estimated to be worth more than Â£450m a year to the Welsh economy.
+But there is a conflict with environmental policy.
+Successive ministers have wanted more native, broadleaf species of trees and better access for walkers and bike riders while conservationists claim commercial forests are bad for wildlife.
+However, some forests in Wales are difficult to reach and hard to harvest while transporting the timber through rural communities can bring companies into conflict with local residents.
+The Welsh government wants a balance between the environmental, the economic and the social in how forestry is developed.
+It points to its Glastir scheme which encourages farmers and other landowners to plant woodland.
+It said its Woodlands for Wales forestry strategy "sets out how we want Wales to be known for its high quality woodlands that enhance the landscape, provide real social and community benefits, support thriving woodland-based industries and contribute to a better quality environment".
+Martin Bishop, of Confor, which represents 200 businesses in Wales, believes the emphasis on environmental aspects is seen as "sexier" than commercial forestry.
+He said the current system is also too bureaucratic for creating new woodland areas.
+Mr Bishop said 90 hectares were planted last year but there needed to be 20,000 hectares a year to meet long-term targets set by ministers.
+"There's a huge market for our timber. Every saw miller tells me he would double or treble production if the timber was there to feed that mill," he added.
+</Article>
+
+<Claim>
+wales \'forests are being planted with woodland as part of a campaign to boost environmental efforts.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Successive ministers have wanted more native, broadleaf species of trees and better access for walkers and bike riders while conservationists claim commercial forests are bad for wildlife." This supports the claim that Wales is planting forests as part of a campaign to boost environmental efforts.
+2. The article also mentions the Welsh government's Woodlands for Wales forestry strategy, which aims to create high-quality woodlands that enhance the landscape, provide social and community benefits, and support thriving woodland-based industries. This further supports the claim that Wales is planting forests for environmental reasons.
+
+###Corrected:

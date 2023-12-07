@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Bayer Leverkusen defender Emir Spahic could face a lengthy ban after video footage emerged appearing to show him fighting and aiming a headbutt at stewards after a defeat by Bayern Munich on Wednesday night. Spahic was substituted in the 90th minute with an ankle injury as Bayer crashed out of the Germany's DFB-Pokal at the quarter-final stage, losing 5-3 on penalties after 120 goalless minutes at the BayArena. But amateur footage from after the game shows the Bosnian defender involved in an altercation with stewards along the side of the pitch, where he had to be restrained by pitchside staff who were believed to have stopped his friends from walking between the stadium's West and East stands. Bayer Leverkusen defender Emir Spahic could face a lengthy ban after appearing to fight with stewards After initially being restrained (first photo), Spahic became involved in a clash with staff after the game Spahic later seemed to aim a headbutt at a member of stadium staff, even after the angry clash had died down Spahic is pictured taking on Bayern Munich's Philipp Lahm for the ball during the DFB-Pokal quarter-final The incident has been referred to the public prosecutor in Cologne and could now be investigated by police.  Spahic will issue an apology for his behaviour. A Bayer spokesman said: 'It is clear that there has been a physical dispute after the final whistle. We will review the incident and try to clarify now who was there and why they were there.' In the video Spahic, wearing a red club top, is at first restrained by two stewards as members of his group clash with the stadium staff. Spahic is seen breaking away from the clutches of two stewards to assist his friends in the melee Footage shows Spahic seeming to throw his hands into the faces of some of the yellow-jacketed staff After breaking free, the 34-year-old joins the melee and appears to throw his hands into the faces of multiple stewards before aiming a headbutt at another even when the brawl dies down. Spahic is expected to miss his side's trip to face Mainz in the Bundesliga on Saturday through injury but he could be in line for a longer spell on the sidelines if action is taken after the incident on Wednesday night. Bayer are fourth in the Bundesliga, two points behind Borussia Monchengladbach in the race for a Champions League place and trailing runaway leaders Bayern by 19 points. Spahic tackles Muller on Wednesday, and he has been one of Bayer's star performers so far this season The Bosnian midfielder also appeared for his country during the recently international break against Austria
+</Article>
+
+<Claim>
+emir spahic could face a lengthy ban after appearing to fight with stewards after a defeat by bayern munich . spahic was substituted in the 90th minute as bayer crashed out of the germany 's dfb-pokal at the quarter-final stage , losing 5-3 on penalties after 120 goalless minutes at the bayarena . but amateur footage from after the game shows the bosnian defender involved in an altercation with stewards along the side of the pitch , where he had to be restrained by pitchside staff .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Emir Spahic could face a lengthy ban after appearing to fight with stewards after a defeat by Bayern Munich.
+
+2. The article mentions that Spahic was substituted in the 90th minute as Bayer crashed out of the Germany's DFB-Pokal at the quarter-final stage, losing 5-3 on penalties after 120 goalless minutes at the BayArena.
+
+3. The article states that amateur footage from after the game shows the Bosnian defender involved in an altercation with stewards along the side of the pitch, where he had to be restrained by pitchside staff.
+
+###Corrected:

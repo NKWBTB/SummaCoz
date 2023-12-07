@@ -1,0 +1,34 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+this dog 's certainly not setting a good example to the youngsters under her charge .
+gemma the pit bull was filmed at home in california being fed some treats .
+but in a bid to trick her , her owner throws a broccoli spear into the mix .
+immediately the canine pulls a look of disgust as she chomps on the vegetable .
+she then proceeds to spit it out on the floor .
+let 's hope the two children she lives with do n't follow her lead and they learn to love their greens .
+when she 's not filling her face , other videos show gemma enjoys sleeping and hanging out with her human family .
+yuck : gemma the pit bull was filmed at home in california being fed some treats , but in a bid to trick her , her owner throws a broccoli spear into the mix
+not a broccoli fan : immediately the canine pulls a look of disgust as she chomps on the vegetable - she then proceeds to spit it out on the floor
+</Article>
+
+<Claim>
+gemma the pit bull was filmed at home in california being fed some treats . 
+but in a bid to trick her , her owner throws a broccoli spear into the mix . 
+immediately the canine pulls a look of disgust as she chomps on the vegetable . 
+she then proceeds to spit it out on the floor .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Gemma the pit bull was filmed at home in California being fed some treats.
+2. The claim that Gemma was fed treats is expressed in the article as follows: "Gemma the pit bull was filmed at home in California being fed some treats."
+3. The article also states that her owner throws a broccoli spear into the mix in a bid to trick her.
+4. The claim that Gemma's owner threw a broccoli spear into the mix is expressed in the article as follows: "but in a bid to trick her, her owner throws a broccoli spear into the mix."
+5. The article states that immediately the canine pulls a look of disgust as she chomps on the vegetable.
+6. The claim that Gemma pulled a look of disgust as she chomped on the vegetable is expressed in the article as follows: "immediately the canine pulls a look of disgust as she chomps on the vegetable."
+7. The article states that she then proceeds to spit it out on the floor.
+8. The claim that Gemma spit the broccoli out on the floor is expressed in the article as follows: "she then proceeds to spit it out on the floor."
+
+###Corrected:

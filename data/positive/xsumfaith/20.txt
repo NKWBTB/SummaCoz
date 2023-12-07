@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Hawick Knitwear, which employs more than 230 staff, has also increased its production of sweaters to meet demand.
+Production has been boosted by better than expected sales of the Hawick Knitwear-branded range which launched in January.
+The company, which dates back to 1874, was bought by managing director Benny Hartop in November last year.
+As well as the new range, the firm has seen growth of its longer-established business of supplying customers who sell the garments under their private labels.
+In Europe, Hawick Knitwear sells into Sweden, Finland, Ireland, Germany, the Netherlands, Belgium, France, Italy and Spain.
+Markets outside Europe include the USA, Canada, Mexico, and Japan.
+The knitwear firm has increased its production to 9,500 sweaters each week, from about 7,500 last year, to keep up with demand.
+Mr Hartop said: "The increase in production is in direct response to a surge in orders from both home and abroad for our private label clients and now for our own brand too.
+"There will always be challenges but thankfully our future is looking very good and this is a testament to the dedicated staff working at all levels of the business.
+"I have no doubt this success will continue for us into the future."
+</Article>
+
+<Claim>
+a borders knitwear firm has announced a new production range, following a rise in demand for its clothing.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Hawick Knitwear has increased its production to 9,500 sweaters each week, from about 7,500 last year, to keep up with demand. This supports the claim that the company has announced a new production range.
+2. The article quotes Mr. Hartop as saying, "The increase in production is in direct response to a surge in orders from both home and abroad for our private label clients and now for our own brand too." This sentence explicitly states that the company has seen a rise in demand for its clothing, which supports the claim.
+
+###Corrected:

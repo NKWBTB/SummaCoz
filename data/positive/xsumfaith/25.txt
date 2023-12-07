@@ -1,0 +1,24 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Aberdeenshire-based Harbro Group saw pre-tax profit increase by £800,000, to £3.5m, in the year to the end of June 2016.
+This was despite turnover falling by £1m to just over £100m.
+Harbro said international sales grew over the year, both in Europe and in new markets further afield.
+The Turriff-based company manufactures and supplies feeds for the beef, sheep, dairy, pig and poultry sectors.
+It also has a network of 19 shops across Scotland, operating under the Country Store brand. The stores cater for farming and rural communities with a range of products, including fireside supplies, country clothing and footwear.
+In accounts filed with Companies House, the company said: "As always, the outlook for agriculture is difficult to predict.
+"We have certainly been experiencing challenging times over the last 12-18 months but the industry is a robust one.
+"The impact of Brexit is still to be fully understood, although the board are confident that the group will be well positioned for whatever business challenges this may bring about."
+</Article>
+
+<Claim>
+one of scotland\'s largest food suppliers has reported a rise in turnover and profits for the past year.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "pre-tax profit increased by £800,000, to £3.5m, in the year to the end of June 2016." This sentence expresses the claim that the company's profits have risen.
+2. The article also states that "turnover fell by £1m to just over £100m." This sentence expresses the claim that the company's turnover has increased.
+
+###Corrected:

@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+A lonely man has taken his search for love - or lust - online, posting an advertisement complete with his desires, or 'requirements'. The outback Casanova, who lives in Humpty Doo, Northern Territory, detailed his dream girl on Gumtree. 'WANTED!!!!! girlfriend/wife, must love pets... Accomodation available, position MAY offer company car, phone and laptop, to the 'successful candidate',' it reads. Scroll down for video . 'Rich' who lives in Humpty Doo, Northern Territory, detailed his dream girl on Gumtree . 'Prefer NON drinker and smoker (i know i'm dreamin), fit attractive, will get free gym membership, to a gym of there choice, phone of there choice, must be reliable, honest, and loyal, good around th house, be good with their hands, good cook, great in bed.' The advertisement outlined how the successful applicant must enjoy the outdoors, but is also 'also a princess when need to be'. For his part, the 31-year-old only identified as Rich, described himself as: 'athletic build, white, heavily tattoo'd brown hair, brown eyes, don't drink, don't smoke, DON'T do drugs, like travelling, love the outdoors, sports, fishing, camping blah blah blah.' The post continues: '175cm tall, WELL Endowed, own my own property(s) make great money, succesful, love cars, bikes, very independant.' The 31-year-old's advertisement included a list of requirements in his potential partner, and personal details about himself . The advertisement outlined how the successful applicant must enjoy the outdoors, but is also 'also a princess when need to be' Rich also said he is 'not shy of blowin cash on my woman', and his potential partner would 'receive lots of benefits'. And, there's no reason to be shy ladies, 'Rich' promised 'all reasonable offers will be considered'. The hopeless romantic also stated former partners need not apply. Daily Mail Australia unsuccessfully attempted to contact the man behind the commercial.
+</Article>
+
+<Claim>
+the outback casanova , who lives in humpty doo , northern territory , has his dream girl on gumtree . he is also ` also a princess ' need to be ' . accomodation available , position may offer company car , phone and laptop , to the ` successful candidate ' , ' it reads . the advertisement included a list of requirements in his potential partner , and personal details about his dream .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the man, known as "Rich," has his dream girl on Gumtree and has outlined his requirements for a partner in an advertisement.
+2. The advertisement includes a list of requirements for a potential partner, such as being non-smoking, fit, attractive, reliable, honest, and loyal.
+3. The man is looking for someone who enjoys the outdoors but is also "a princess when need to be."
+4. The advertisement mentions that accommodation is available and the successful candidate may receive a company car, phone, and laptop.
+5. The man is looking for a long-term relationship and has specified that former partners should not apply.
+
+###Corrected:

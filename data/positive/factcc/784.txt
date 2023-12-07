@@ -1,0 +1,16 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+(CNN)For the first time in eight years, a TV legend returned to doing what he does best. Contestants told to "come on down!" on the April 1 edition of "The Price Is Right" encountered not host Drew Carey but another familiar face in charge of the proceedings. Instead, there was Bob Barker, who hosted the TV game show for 35 years before stepping down in 2007. Looking spry at 91, Barker handled the first price-guessing game of the show, the classic "Lucky Seven," before turning hosting duties over to Carey, who finished up. Despite being away from the show for most of the past eight years, Barker didn't seem to miss a beat.
+</Article>
+
+<Claim>
+contestants told to "come on down" on the april 1 edition of "the price is right" encountered not host drew carey but another familiar face in charge of the proceedings.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that contestants encountered Bob Barker, a familiar face, instead of host Drew Carey on the April 1 edition of "The Price Is Right."
+
+###Corrected:

@@ -1,0 +1,18 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+There's not been a lot to laugh about this season at Doncaster Rovers. An uninspired campaign has seen the Yorkshire side firmly entrenched in mid-table mediocrity in League One. Saturday's visit of Fleetwood Town, who were eyeing the beach after their play-off hopes had all but evaporated, hardly promised to be a thriller. Doncaster's League One encounter against Fleetwood tested the patience of the most ardent fan . Doncaster's media team faced a tough challenge compling the match highlights of 0-0 draw . And so it proved as the two sides played out a goalless draw at the Keepmoat Stadium. It left the media team with a bit of a problem when they were faced with sticking up the match highlights on the club's YouTube channel. So they made it short and sweet, just 27 seconds in fact with 14 seconds of match action.  Just enough time for the kick off, a goal kick and the final whistle. A must-see video for all football fans. The managers on the touchline during Saturday's goalless draw at the Keepmoat Stadium .
+</Article>
+
+<Claim>
+an uninspired campaign has seen the yorkshire side firmly entrenched in mid-table mediocrity in league one . saturday 's visit of fleetwood town , who were eyeing the beach after their play - off hopes had all but evaporated , hardly promised to be a thriller . doncaster 's media team faced a tough challenge compling the match highlights of 0 - 0 draw
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "an uninspired campaign has seen the Yorkshire side firmly entrenched in mid-table mediocrity in League One."
+2. The claim that "Saturday's visit of Fleetwood Town, who were eyeing the beach after their play-off hopes had all but evaporated, hardly promised to be a thriller" is also expressed in the article.
+3. The article states that "Doncaster's media team faced a tough challenge compiling the match highlights of 0-0 draw."
+
+###Corrected:

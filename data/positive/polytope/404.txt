@@ -1,0 +1,32 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
+a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
+in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
+a bus driver was caught reading a newspaper while driving in auckland , new zealand
+as the bus slows to a stop at a set of traffic lights he moves his head to get a good look at one of the pages .
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions .
+` i am absolutely amazed by how absolutely stupid the guy is .
+bloody irresponsible behaviour to the first degree , i ca n't believe it , ' mr ritchie told the new zealand herald .
+` the people on that bus put their trust in him .
+he was n't even trying to hide it , he was holding the whole newspaper open , over the steering wheel . '
+mr ritchie said the driver would be disciplined , but would not go into detail .
+a passenger filmed the driver and sent the video to bus company ritchies coachlines along with a complaint
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions
+</Article>
+
+<Claim>
+a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions . '
+in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "a passenger filmed the driver on a bus in Auckland, New Zealand, and sent the video to bus company Ritchies Coachlines along with a complaint."
+2. The claim that the driver was "flicking through pages of the newspaper while the bus is in motion" is also stated in the article.
+3. The article quotes the bus company's boss, Andrew Ritchie, as saying he was "embarrassed by the 'idiot' driver's actions."
+
+###Corrected:

@@ -1,0 +1,28 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+In the year to the end of March, 57 victims of homicide (murders and culpable homicides) were recorded - down five on the previous 12 months.
+This is the lowest number of recorded homicide cases for a single 12-month period since 1976 and half the figure of nine years ago.
+As of 31 March 2016, only one case of homicide recorded in 2015-16 was unresolved.
+The report Homicide in Scotland showed that a sharp instrument remained the most common method of killing in Scotland and accounted for 51% of homicides (29 cases) in 2015-16.
+Nearly all of these cases (26 out of 29) involved a knife.
+While the majority of the accused had an unknown status for alcohol and drugs, 31% (20 people) were identified by the police as being under the influence of alcohol or alcohol and drugs.
+Justice Secretary Michael Matheson said: "While it is encouraging to see continued falls in homicide cases alongside the long-term decline in violent crime, the sustained efforts that have helped achieve this - through education and enforcement - must continue, because each of the lives lost is one life too many.
+"There is a clear role across a range of public services, in addition to the critical work of our police, to continue to support communities that may remain at risk from violent crime and to challenge irresponsible attitudes both to alcohol misuse and to so-called 'casual' violence.
+"We will continue to work with partners and invest in a range of projects to help steer our young people away from the risks of a life of violence and crime, while also ensuring our law enforcement agencies and the courts have the powers and resources needed to deal with those who do harm to others."
+Scottish Labour's justice spokeswoman Claire Baker said: "Whilst I welcome the overall downward trend in homicides in Scotland we have to take these statistics with a note of caution.
+"Last year when the Scottish government were heralding 'record low' homicide figures after a supposed similar drop, the actual figures were being revised upwards to show an increase.
+"Meanwhile, sexual crime in Scotland sits at a 45-year high and in the past year we have seen an increase in violent crime with attempted murder and serious assault rising by a staggering 27%."
+The number of homicide victims for 2014-15 stood at 59 last year but later increased to 62, after three cases were reclassified following deaths.
+</Article>
+
+<Claim>
+the number of recorded homicide in scotland has fallen to its lowest level since records began last year, according to a new report.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "In the year to the end of March, 57 victims of homicide (murders and culpable homicides) were recorded - down five on the previous 12 months." This sentence expresses the claim that the number of recorded homicides in Scotland has fallen to its lowest level since records began.
+
+###Corrected:

@@ -1,0 +1,35 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The weather also hit Norfolk and Lincolnshire, where homes were evacuated and an air display cancelled.
+BBC Weather said 50mm of rain fell in Cambridgeshire in an hour, damaging the banks of the River Nene in March.
+A Tesco shopper said water was "pouring through the ceiling near the fresh fish counter".
+Richard Mayer, 32, became trapped in his car at Bar Hill while he was visiting to buy a home in the area.
+Speaking from the vehicle he said: "Water is lapping over the kerb now. People can walk through it, but it's far more than you'd want to drive through.
+"I'm sitting in my car on the pavement in order to maintain some height just down from the Bar Hill roundabout near Tesco.
+"There are cars everywhere and the flooding is getting worse as people are trying to drive through it, but their engines are cutting out which is causing them to block the road."
+Fire service group commander Ryan Stacey said: "We have seven crews currently in the March, Doddington and Wisbech St Mary areas, assisting with evacuating residents, salvaging and pumping water out of homes.
+"The exact number of properties affected cannot be confirmed, but we understand that we are assisting currently at least 60 properties."
+He warned: "Don't try to drive through standing water - as well as the water damaging your car, there may be hazards under the water you can't see."
+A rest centre was opened in St John the Evangelist Parish Hall in Queens Street, March.
+There have also been reports of flash flooding in west Norfolk.
+Norfolk Fire and Rescue Service said officers have been dealing with about 40 flood-related calls with ongoing incidents in Swaffham, Necton, Outwell and Downham Market.
+Police in Cambridgeshire urged people to avoid driving on the county's roads unless absolutely necessary due to the "deluge of rain currently being experienced".
+Ch Insp Nick Night said: "We are assisting partner agencies including the Highways Agency, Fire and Rescue Service, Fenland District Council and Cambridgeshire County Council with road closures, evacuating residents and pulling vehicles out of flood water.
+"We do not have a stock of sandbags, so please do not call 999 requesting any."
+The UK Power Network said it had been working to restore power to homes and about 400 homes were still without power at about 21:00 BST on Friday.
+</Article>
+
+<Claim>
+homes have been flooded in parts of cambridgeshire after flash flooding caused widespread flooding.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "homes were evacuated" and "about 60 properties" were affected by flooding in Cambridgeshire.
+2. The article also mentions that "widespread flooding" was caused by flash flooding, and that water was "laping over the kerb" and "pouring through the ceiling" in some areas.
+
+Therefore, the claim that "homes have been flooded in parts of Cambridgeshire" is supported by the information in the article.
+
+###Corrected:

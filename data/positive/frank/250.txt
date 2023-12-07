@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Media playback is not supported on this deviceMuir told BBC Scotland her veterinary medicine studies will mean she will not be with the Scotland team at next year's event on Australia's Gold Coast.The 24-year-old finished fourth and sixth in the 1500m and 5,000m at the World Athletics Championships."My exams aren't until May so Commonwealths being in April, it's just not going to work out unfortunately," said the middle distance runner."I go back to university next week. I've got a week off then back to my studies to complete my final year.Media playback is not supported on this device"I love running for Scotland whenever I can and the Commonwealths are one of the few opportunities you can do it so, yeah, I'm gutted I'm going to be missing it."But you have to think about getting my degree and that was really important to me. I'm sure the team's going to do so, so well. They're going to do great."I think I've got at least two, even three more Olympics in me. What events? I don't know. Certainly, so much scope for the future."However, Muir says the World Indoor Championships in March are "potentially a target"."These next few months are going to be very full on with my studies," she explained."I feel like I'm in reasonable shape. I'd like to run in Birmingham."Hellen Obiri upset defending world champion Almaz Ayana to win 5,000m gold in London, with Sifan Hassan third.Muir's time of 14 minutes 52.07 seconds was her new outdoor personal best."I'm really happy," she said after Sunday's race."It was really tough competition out there. I'm delighted with that. I'm really, really pleased with how I ran."My fifth race in 10 days - it's a lot of running and to still come away with that I think there's a lot of potential for the future."
+</Article>
+
+<Claim>
+scotland\'s olympic gold medallist laura muir believes she will be able to compete at this year\'s world indoor championships.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Laura Muir believes she will be able to compete at this year's World Indoor Championships, which is the claim.
+
+Here is the sentence that expresses the claim:
+
+"Muir says the World Indoor Championships in March are 'potentially a target'."
+
+###Corrected:

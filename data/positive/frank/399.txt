@@ -1,0 +1,22 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+PGA Tour star Rickie Fowler has earned extra brownie points with his growing legion of fans after calling out an online hater who accused his girlfriend of being a 'gold digger.' The golfer's girlfriend, bikini model Alexis Randock, had posted a photo on her Instagram account of her and sister Nicole on the beach last week. The photo was shared with her 25,000 followers, which included an abusive commenter known as 'fatalsplash' who was quick to judge and accused Alexis of being a 'gold digger.' Bikini model Alexis Randock posted this photo on her Instagram account of her and sister Nicole on the beach last week PGA Tour star Rickie Fowler, right, has earned extra brownie points with his growing legion of fans after calling out an online hater who accused his girlfriend Alexis Randock, left, of being a 'gold digger' 'Must be nice getting s*** free in life and not have to work for it,' he posted. It wasn't long before Fowler came to his girlfriend's defense and responded to the troll that he 'might want to get your facts straight before you talk to my girl friend like that', reports the Golf Channel. Alexis also wasn't shy about standing up for herself. 'That's hilarious. I work my butt off to be able to fully support myself in NYC, I'm out here grinding to live a nice life,' she posted. Fowler received a number of positive comments from other posters who commended him on standing up for his girlfriend. 'Fatalsplash' - who has since changed his user name to - '@dont_hava_usename' - was roundly criticized, being called a moron and accused of working at McDonald's. The troll even attempted to backtrack by offering Alexis congratulations for supporting herself. A troll called 'fatalsplash' then accused Alexis of being a 'gold digger' who didn't have to work Fowler quickly told the hater to 'get your facts straight', while Alexis informed him that she worked her 'butt off'
+</Article>
+
+<Claim>
+pga tour star rickie fowler has earned extra brownie points . the golfer 's girlfriend had posted a photo on her instagram account of her and sister nicole on the beach last week . the photo was shared with her 25,000 followers , which included an abusive commenter known as ' fatalsplash ' who was quick to judge and accused alexis of being a ' gold digger ' .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Rickie Fowler has earned extra brownie points for calling out an online hater who accused his girlfriend Alexis Randock of being a "gold digger."
+
+2. The article quotes Fowler as saying, "Must be nice getting s*** free in life and not have to work for it."
+
+3. The article also quotes Alexis Randock as saying, "That's hilarious. I work my butt off to be able to fully support myself in NYC, I'm out here grinding to live a nice life."
+
+All of these sentences express the claim that Rickie Fowler has earned extra brownie points for standing up for his girlfriend against an online hater who accused her of being a "gold digger."
+
+###Corrected:

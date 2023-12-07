@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Radamel Falcao's former Monaco team-mate Nabil Dirar believes the Colombian must be regretting his failed loan move to Manchester United even though he was not happy in France. The former Atletico Madrid striker moved to Old Trafford on a season-long loan  last summer but has struggled to hit the heights he achieved before suffering a serious knee injury. United will have to pay £46million to make Falcao's transfer permanent but having only scored four goals all season Louis van Gaal's side are unlikely to take up that option. Radamel Falcao has struggled for Manchester United during his season-long loan . Falcao has struggled to reach the heights he achieved before suffering a serious knee injury . And Dirar has revealed that Falcao was not happy in France but thinks he would have been better off staying at Monaco. 'I think Falcao must be biting his fingers [ruing the fact] he's gone,' he told Le Parisien. 'Here, he would have played and participated in the Champions League. But he may need more atmosphere. 'In Monaco, he was not feeling well.'
+</Article>
+
+<Claim>
+radamel falcao moved to old trafford on a season-long loan last summer . former atletico madrid striker was not happy in france . united will have to pay # 46million to make falcao 's transfer permanent .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Radamel Falcao moved to Old Trafford on a season-long loan last summer.
+2. The article states that Falcao was not happy in France.
+3. The article states that United will have to pay £46million to make Falcao's transfer permanent.
+
+All of these statements are true and can be found in the article.
+
+###Corrected:

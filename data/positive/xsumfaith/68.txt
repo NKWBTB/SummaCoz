@@ -1,0 +1,30 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Justice Minister Claire Sugden confirmed a motion will go before the assembly for approval.
+The move will bring Northern Ireland in line with England and Wales, where plans for automatic pardons were announced last month.
+Those proposals would see men convicted of now-abolished sexual offences receive posthumous pardons.
+Dubbed 'Turing's Law', after the World War Two code-breaker Alan Turing, the law will also allow living men convicted of such offences to apply for a pardon.
+The motion in the assembly is expected to contain the same provisions and allow for pardons both posthumously as well as for living gay and bisexual men.
+The minister said she has secured executive agreement to ask the assembly to pass a legislative consent motion to pardon convictions related to abolished sexual offences.
+Ms Sugden said that arrangements would be brought in "as soon as possible to ensure that there is equal treatment for gay and bisexual men here as for their counterparts in England and Wales".
+"This is an opportunity for the criminal justice system to try and right the wrongs of the past and one which will allow for much earlier resolve than that presented by way of an assembly bill," she added.
+The motion will now go forward for consideration by the assembly.
+</Article>
+
+<Claim>
+a proposal to pardon gay and bisexual men convicted of sexual offences in northern ireland has been approved by the northern ireland assembly.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the proposal to pardon gay and bisexual men convicted of sexual offences in Northern Ireland has been approved by the Northern Ireland Assembly.
+
+Sentence in the article that expresses the claim:
+
+"The minister said she has secured executive agreement to ask the assembly to pass a legislative consent motion to pardon convictions related to abolished sexual offences."
+
+This sentence indicates that the proposal has been approved by the Northern Ireland Assembly, as it mentions that the executive agreement has been secured to ask the assembly to pass a legislative consent motion.
+
+###Corrected:

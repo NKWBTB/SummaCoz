@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Roedd Mr Jones yn ymgyrchu i Brydain adael yr UE cyn y refferendwm y llynedd.
+Wrth gael ei holi gan y BBC ddydd Gwener dywedodd cyn ysgrifennydd Cymru, Mr Jones mai Mrs May yw'r "arweinydd gorau sydd gan y Torïaid ar hyn o bryd".
+Y Farwnes Anelay sydd wedi cymryd ei le fel Gweinidog Gwladol dros adael y UE wrth i'r Prif Weinidog Theresa May roi trefn ar ei chabinet newydd.
+</Article>
+
+<Claim>
+mae leader theresa may wedi dweud bod arweinydd ar brexit yn cael ei fod yn y
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Mr Jones said Mrs May is the "best leader the Tories have on Brexit".
+
+The sentence that expresses the claim is:
+
+"Wrth gael ei holi gan y BBC ddydd Gwener dywedodd cyn ysgrifennydd Cymru, Mr Jones mai Mrs May yw'r "arweinydd gorau sydd gan y Torïaid ar hyn o bryd".
+
+This sentence is translated to English as:
+
+"When asked by the BBC on Gwener 28th, Mr Jones said that Mrs May is the "best leader the Tories have on Brexit".
+
+###Corrected:

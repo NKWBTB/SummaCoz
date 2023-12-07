@@ -1,0 +1,23 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field.
+North Wales Police said the culprit is described as a heavily built man, aged 50 to 60, with curly brown hair, driving a dark blue pick-up truck.
+Anyone with information can call 101.
+"Apparently he has been dumping clippings over past two weeks. Has to be living/working local to Colwyn Bay," Sgt Rob Taylor, of the rural crime team, tweeted on Sunday.
+A post-mortem examination showed the cows, aged 16 months, died as a result of toxins found in yew and leylandii tree cuttings.
+Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and praised the "impressive" response to his appeal for information on social media.
+</Article>
+
+<Claim>
+a man has been found ``dumping clippings\'\'in colwyn bay, prompting a police appeal for witnesses.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that a man has been found "dumping clippings" in Colwyn Bay, which is the same as the claim. The sentence that expresses this claim is:
+
+"The Friesians were found in Dolwen, near Old Colwyn, on Friday after eating poisonous tree clippings dumped in a farmer's field."
+
+###Corrected:

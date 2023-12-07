@@ -1,0 +1,24 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Referee Mark Clattenburg has been named to take charge of the Manchester derby on Sunday, despite having sent off three players from United and City this season. City captain Vincent Kompany was dismissed for two bookable offences during Belgium's narrow 1-0 defeat of Israel in their Euro 2016 qualifier on March 31, meaning he is now suspended for the match against Wales in June. And, although Clattenburg has been accused of favouring Louis van Gaal's side in the past, it's worth noting that the 40-year-old has only sent off two players season in the Premier League this season and both have been from United; Tyler Blackcett in the 5-3 defeat by Leicester and Luke Shaw in the 1-1 draw with West Ham. Mark Clattenburg will officiate the Manchester derby between United and City at Old Trafford . The English referee sent off City and Belgium captain Vincent Kompany during the international break . Leicester 5-3 Manchester United . West Ham 1-1 Manchester United . Manchester United 3-0 Tottenham . Manchester City 3-1 West Ham . Liverpool 2-1 Manchester City . Chelsea 1-1 Manchester City . Clattenburg has courted controversy during his career but is generally regarded as one of the Premier League's leading referees alongside Michael Oliver. The champion's shock 2-1 loss to Crystal Palace on Monday saw United move a point above their local rivals to add extra incentive for both sides ahead of the derby at Old Trafford, which could ultimately decide who finishes second behind expected winners Chelsea. While Manuel Pellegrini's side have struggled since the turn of the year, turning from title challengers to fourth place chases, United are coasting on confidence having won their last five consecutive league games. Clattenburg will be joined on Sunday by assistants Simon Beck and Jake Collin, while Jonathan Moss will serve as the fourth official. Clattenburg has shown only two red cards this season, both to United players including Luke Shaw (centre)
+</Article>
+
+<Claim>
+mark clattenburg will take charge of the manchester derby on sunday . the english referee sent off vincent kompany for belgium against israel . tyler blackcett and luke shaw have also been sent off for united . clattenburg will be joined by assistants simon beck and jake collin . jonathan moss will serve as the fourth official at old trafford .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Mark Clattenburg will take charge of the Manchester derby on Sunday.
+2. The English referee sent off Vincent Kompany for Belgium against Israel.
+3. Tyler Blackcett and Luke Shaw have also been sent off for United.
+
+The sentences that express the claim are:
+
+1. "Mark Clattenburg will officiate the Manchester derby between United and City at Old Trafford."
+2. "The English referee sent off City and Belgium captain Vincent Kompany during the international break."
+3. "Tyler Blackcett in the 5-3 defeat by Leicester and Luke Shaw in the 1-1 draw with West Ham have been sent off for United."
+
+###Corrected:

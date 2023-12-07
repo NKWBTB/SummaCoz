@@ -1,0 +1,30 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The Garfield Weston Foundation made the award to the Mackintosh Campus Appeal, which aims to raise £32m.
+The Mackintosh building was badly damaged by fire on 23 May 2014.
+Contractors who are restoring the iconic Grade A-listed art nouveau building hope to have completed their work by the end of February 2019.
+Philippa Charles, director of the Garfield Weston Foundation, said: "The Garfield Weston Foundation supports organisations and activities that share a commitment to making a positive impact on the lives of the communities in which they work, and that are driven by a desire to achieve excellence.
+"The Glasgow School of Art sits at the heart of the Garnethill community and the people of Glasgow hold the Mackintosh building dear.
+"We are delighted to be able to support the Mackintosh Campus Appeal which will enable the GSA to bring this iconic building back as part an extended campus and enable the internationally-renowned Glasgow School of Art to recover fully from the impact of the fire."
+The art school announced earlier this year plans to purchase the former Stow College building in nearby West Campbell Street for its expanded Garnethill campus.
+The aim is to provide additional space to accommodate a 25% increase in student numbers by 2018.
+News of the £500,000 donation emerged as the Secretary of State for Scotland, David Mundell, prepared to host an event for the Mackintosh Campus Project at Dover House in London.
+Mr Mundell said: "It is a real pleasure to host tonight's fundraising event for the Mackintosh Campus, and to support the rebuilding of an iconic British institution which has produced so many leading architects, designers and artists."
+Professor Tom Inns, director of GSA, added: "It is an important opportunity for us to share our ambitious plans for the campus redevelopment, including bringing together all pathways of the School of Fine Art for the first time in many years in a refurbished Stow Building, and to give an update on the restoration of the Mackintosh Building."
+After the Mackintosh building blaze, an investigation by the Scottish Fire and Rescue Service concluded it was caused by flammable gases from a canister of expanding foam.
+The report said the gases ignited as they came into contact with the hot surface of a projector.
+</Article>
+
+<Claim>
+the director of glasgow school of art ( gsa ) has said the fire which damaged glasgow school of art\'s ( gsa ) mackintosh
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Philippa Charles, director of the Garfield Weston Foundation, said: 'The Garfield Weston Foundation supports organisations and activities that share a commitment to making a positive impact on the lives of the communities in which they work, and that are driven by a desire to achieve excellence.'"
+
+This sentence expresses the claim that the director of Glasgow School of Art (GSA) has said something about the fire that damaged the Mackintosh building.
+
+###Corrected:

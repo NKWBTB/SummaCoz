@@ -1,0 +1,21 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Bristol Sport Ltd, which owns the football club, wants to replace two stands to increase capacity.
+The plan is an alternative to proposals to build a new stadium at nearby Ashton Vale, which has been delayed by an application for a town green.
+Majority shareholder Steve Lansdown confirmed the club would begin work at a shareholder meeting on Tuesday.
+The work was approved by Bristol City Council in November.
+Mr Lansdown told the club's official website: "We'll sign the section 106 agreement any day now, and then we have six weeks to wait for the judicial review period.
+"We wanted to give some certainty to supporters, so if we get through to March with no judicial review, then we will be going ahead with the redevelopment plans, starting in May."
+</Article>
+
+<Claim>
+plans to redevelop bristol city football club\'s new stadium have been approved.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "The work was approved by Bristol City Council in November." This sentence expresses the claim that the plans to redevelop Bristol City Football Club's new stadium have been approved.
+
+###Corrected:

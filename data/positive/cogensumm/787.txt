@@ -1,0 +1,18 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu. The Turkey international has impressed since joining from Hamburg in the summer, scoring five times in Leverkusen's bid to qualify for the Champions League. And his displays have captured the attention of both City and Arsenal in recent months. Arsenal and Manchester City are keen on Bayer Leverkusen star Hakan Calhanoglu, pictured here in action earlier this month against FC Kaiserslautern in the German Cup quarter final . The Gunners have been on the 21-year-old's case since last season, but City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months. Calhanoglu's ability from dead ball situations have particularly caught the eye of City and Arsenal scouts. Calhanoglu has impressed at Leverkusen this season following his arrival from Hamburg last summer . Manchester City and Arsenal both have scouts monitoring the 21-year-old dead ball specialist's progress .
+</Article>
+
+<Claim>
+arsenal and manchester city also tracking bayer leverkusen midfielder hakan calhanoglu. turkey international has impressed since joining from hamburg in the summer. manchester city are keen on bayer leverkusen star hakan calhanoglu. the gunners have been on the 21-year-old's case since last year.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Arsenal and Manchester City are tracking Bayer Leverkusen midfielder Hakan Calhanoglu.
+2. The claim that Manchester City are keen on Hakan Calhanoglu is expressed in the article as "City are also paying close attention to his displays having impressed Etihad Stadium scouts in recent months."
+3. The claim that the Gunners have been on the 21-year-old's case since last season is expressed in the article as "Arsenal have been on the 21-year-old's case since last season."
+
+###Corrected:

@@ -1,0 +1,23 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+A footballer caught on film allegedly punching a rival in the face has been charged by the Football Association. Morecambe youngster Sam Livesey, 18, was captured on a clip obtained by Sportsmail appearing to strike Oldham's unsuspecting Jack Tuohy in the temple. Livesey, who was dismissed by the referee in Oldham Under 18's 7-2 win over their Lancashire rivals, could now face a lengthy ban after the FA intervened. VIDEO: Scroll down to watch sickening alleged punch that knocks out Oldham youngster . Jack Touhy is struck from behind in the head, apparently with no provocation, by an opponenent . The Oldham youth player is knocked from his feet by the force of Sam Livesey's alleged punch . A red card for violent conduct would normally carry a three-match ban but officials believe such a punishment may be too lenient and have stepped in. A spokesman for the FA said: 'The charge is an allegation that Mr Livesey's behaviour in or around the 71st minute constitutes violent conduct in circumstances where the standard punishment that would otherwise apply following his dismissal is clearly insufficient.' It is understood that Livesey, on loan to Morecambe from Preston North End, has admitted the charge. His case will now be heard by an Independent Regulatory Commission. Livesey has now been charged with violent conduct by the FA and is understood to have admitted the charge . Tuohy spent four hours at hospital after the game after complaining of concussion-like symptoms . Morecambe say they are dealing with the matter internally. A spokesman for Preston North End said: 'At the time of the incident, Sam Livesey was playing for Morecambe and we therefore have no comment to make.' Tuohy spent four hours at hospital after the game after complaining of concussion-like symptoms. After the game he tweeted: 'Good 7-2 win good to get a goal and head is killing me now wow.'
+</Article>
+
+<Claim>
+sam livesey, 18, was captured by sportsmail appearing to strike oldham's unsuspecting jack tuohy. livesey could now face a lengthy ban after the fa intervened. the oldham youth player is knocked from his feet by the alleged punch. officials believe a punishment may be too lenient and have stepped in. jack touhy is struck from behind the head, apparently with no provocation.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Sam Livesey was captured on film allegedly punching Jack Tuohy in the face, and that he could now face a lengthy ban after the FA intervened.
+2. The article also states that Tuohy was knocked from his feet by the alleged punch, and that officials believe a punishment may be too lenient and have stepped in.
+
+Therefore, the sentences in the article that express the claim are:
+
+1. "Sam Livesey, 18, was captured by Sportsmail appearing to strike Oldham's unsuspecting Jack Tuohy."
+2. "Tuohy spent four hours at hospital after the game after complaining of concussion-like symptoms."
+3. "Officials believe a punishment may be too lenient and have stepped in."
+
+###Corrected:

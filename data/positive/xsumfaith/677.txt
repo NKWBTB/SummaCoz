@@ -1,0 +1,23 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The site at Knottingley, West Yorkshire is to burn fuel from refuse, industrial and commercial waste including wood, said operator Multifuel Energy Ltd.
+The Â£300m plant is to create hundreds of jobs over a three-year build and should produce electricity for about 160,000 homes, it said.
+The adjoining coal-fired Ferrybridge 'C' plant is to close in March 2016, it was announced in May.
+The Secretary of State has granted development consent for the new plant.
+Construction is expected to begin in 2016 with about 35 permanent jobs once it is operational.
+The power station is expected to produce up to 90MWe of electricity annually by burning 675,000 tonnes of waste that could have ended up in landfill, said Multifuel Energy
+It is to be built next to the newly-constructed Ferrybridge Multifuel 1 that stated operations earlier this year.
+Multifuel Energy is a joint venture between power company SSE and and waste management company Wheelabrator Technologies.
+</Article>
+
+<Claim>
+a second multifuel power station has been approved for ferrybridge.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "The Secretary of State has granted development consent for the new plant." This sentence expresses the claim that a second multifuel power station has been approved for Ferrybridge.
+
+###Corrected:

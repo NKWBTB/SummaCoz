@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Share this withEmailFacebookMessengerMessengerTwitterPinterestWhatsAppLinkedInCopy this linkBarry Pring, 47, was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008.His wife, Ganna Ziuzina, had returned to a restaurant for a missing glove.The coroner at Exeter County Hall, Dr Elizabeth Earland, recorded a verdict of unlawful killing.More on the millionaire 'murdered' by his wife, and other newsShe said: "His guard was lowered by inebriation. The car had stolen licence plates and did not brake or stop."I am satisfied that having heard all the evidence... much of it circumstantial, nevertheless, in my view it is overwhelming."I am satisfied beyond reasonable doubt that Barry John Pring has been unlawfully killed."She said the case demonstrated the difficulty in investigating a case of a death abroad, adding: "Our thoughts and condolences must go to the family who have endured years and years of distress and unhappiness."Close friend Peter Clifford, a lawyer, told the inquest he had "no reasonable doubt" that Barry was murdered.Ms Ziuzina, known as Anna, was 19 years younger than her husband. She tried to claim his assets within days of his death.His family believe he was killed in a staged hit and run accident.The couple met online in 2006 and were married in 2007 following a four-day engagement.Mr Pring's mother, Irene Pring, said Ms Ziuzina claimed to be a teacher when the pair first met, but she was in fact a lap dancer and stripper.She said: "We are sure Anna had some involvement in his death to inherit his money and property."I was quite surprised how cold she was with Barry. She did not lift a finger, she was a lazy thing."The inquest heard Ms Ziuzina sold her husband's Range Rover, contents from his flat and moved funds from his bank account.The hearing was also told she was "entitled to the first Â£200,000 of his estate" and that computer records revealed "she was having an affair with a Ukrainian man".Greater Devon coroner Dr Elizabeth Earland said "strenuous attempts" had been made to get her to attend the inquest, but without success.In a statement, Ms Ziuzina said she had made "three separate statements to Ukrainian police" and did not believe she could "add anything further".Det Con Jonathan Watts, from Devon and Cornwall Police, said Mr Pring was hit by a car with no lights, speeding at 75mph.He also said witnesses at the scene in Kiev described the killing "as a deliberate act".The Ukrainian police closed an inquiry into his death, but relaunched it in 2011 as a murder inquiry. The case is still active "but not actively pursued".
+</Article>
+
+<Claim>
+a millionaire millionaire was unlawfully killed by his wife, an inquest has heard.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Barry Pring was killed by a speeding car as he tried to hail a taxi on the hard shoulder of a dual carriageway in Kiev in 2008. The coroner at Exeter County Hall, Dr Elizabeth Earland, recorded a verdict of unlawful killing.
+
+2. The claim that the millionaire was unlawfully killed by his wife is expressed in the following sentences:
+
+a. "The car had stolen licence plates and did not brake or stop."
+
+b. "I am satisfied that having heard all the evidence... much of it circumstantial, nevertheless, in my view it is overwhelming."
+
+c. "I am satisfied beyond reasonable doubt that Barry John Pring has been unlawfully killed."
+
+d. The inquest heard that Ms. Ziuzina was entitled to the first £200,000 of Mr. Pring's estate and that she was having an affair with a Ukrainian man.
+
+###Corrected:

@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Radamel Falcao's former Monaco team-mate Nabil Dirar believes the Colombian must be regretting his failed loan move to Manchester United even though he was not happy in France. The former Atletico Madrid striker moved to Old Trafford on a season-long loan  last summer but has struggled to hit the heights he achieved before suffering a serious knee injury. United will have to pay £46million to make Falcao's transfer permanent but having only scored four goals all season Louis van Gaal's side are unlikely to take up that option. Radamel Falcao has struggled for Manchester United during his season-long loan . Falcao has struggled to reach the heights he achieved before suffering a serious knee injury . And Dirar has revealed that Falcao was not happy in France but thinks he would have been better off staying at Monaco. 'I think Falcao must be biting his fingers [ruing the fact] he's gone,' he told Le Parisien. 'Here, he would have played and participated in the Champions League. But he may need more atmosphere. 'In Monaco, he was not feeling well.'
+</Article>
+
+<Claim>
+radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker moved to old trafford on a season-long loan last summer but has struggled to hit the heights he achieved before suffering a serious knee injury . radamel falcao has struggled for manchester united during his season-long loan .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Radamel Falcao's former Monaco team-mate Nabil Dirar believes that Falcao must be regretting his failed loan move to Manchester United.
+2. The article states that Falcao has struggled to hit the heights he achieved before suffering a serious knee injury.
+3. The article states that Falcao has struggled for Manchester United during his season-long loan.
+
+All of these sentences express the claim made in the <Claim>.
+
+###Corrected:

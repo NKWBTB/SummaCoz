@@ -1,0 +1,56 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The claims against the agricultural commodities trader were made in a report by Mighty, a US-based environmental lobby group.
+Mighty also accuses Olam and its main stakeholder, Singapore state-owned investment company Temasek, of turning a blind eye to these practices.
+Both companies reject the allegations.
+Singapore and Malaysia regularly suffer from haze caused by slash-and-burn practices by small-scale farmers and rogue palm oil traders in Indonesia.
+Indonesia is often blamed for not doing enough to tackle the agriculture fires used to clear vegetation for palm oil, pulp and paper plantations in the Riau province in East Sumatra, South Sumatra, and parts of Kalimantan on Indonesian Borneo.
+Singapore-based Olam has confirmed that it buys 99% of its palm oil from third party suppliers and while it is a relative newcomer to the industry, it says it accounts for less than 1% of the global market.
+Mighty's report says Olam and Temask could be unwittingly encouraging unsustainable palm oil trading practices that may contribute to the haze that is caused by the fires.
+It also says Olam created a "secretive market for rogue palm oil companies" that allowed the vast majority of its product to be bought from unknown sources.
+But Olam chief executive Sunny Verghese told the BBC that the firm had a "very vigorous sourcing policy and we insist that there is zero tolerance for burning, so it's a 'no burn-no peat-no deforestation' compliance policy".
+The company only agreed to release the names of its 14 suppliers on Monday, having previously resisted calls by Mighty to do so.
+Mr Verghese said he believed the firm's current suppliers all met Olam's strict requirements, but added that the vetting and verification process would take several more years to complete.
+He added that producers who do not comply with the company's sustainable principles would be removed from its supply chain.
+Since Temasek is the majority stake holder in Olam, Mighty's allegations could link Singapore's state fund to the devastating annual haze affecting Singapore, Thailand, Malaysia and Indonesia - if the claims of sourcing from rogue palm oil producers are proven.
+Temasek's investment in Olam means that "the people of Singapore have unwittingly financed what is likely one of the world's black boxes for the kind of unsustainably produced palm oil that fuels the haze," the report says.
+Temasek has dismissed the allegations, explaining that they "fully support no-burn policies for land clearance, and would urge oil palm companies and plantation owners to do the same."
+The fund told the BBC: "Olam's operations are properly matters for the board and management of Olam to address.
+"As a matter of proper governance, Temasek does not direct the business operations of our portfolio companies, including Olam."
+It would be fair to say that the palm oil industry globally has a troubled track record.
+It is one of the world's biggest industries, projected to be worth $88bn by 2022 but also often accused of unfair and illegal labour practices, as well as deforestation and the burning of plantations.
+Green groups and palm oil executives often find themselves at loggerheads with one another - NGOs say that the industry is wilfully turning a blind eye to environmentally unfriendly practices, while palm oil executives claim it is an industry-wide problem, and policing third party suppliers is impossible.
+Activists say governments need to punish palm oil firms that don't comply with acceptable standards of protecting the environment - but changing the government mindset can be challenging, because the reality is many of these firms bring jobs and investment to rural areas.
+The report also highlights concerns in the African state of Gabon, where according to Mighty, Olam "bulldozes rainforests to establish monoculture palm oil plantations," bringing the same practices to Africa "that have destroyed vast natural landscapes in Southeast Asia".
+In response to the accusation that Olam is responsible for vast forest clearings through its joint ventures with the government of Gabon, Olam said its private-public partnerships in the country strove to be both responsible and transparent.
+"We agree with Gabon's sovereign right to convert a tiny percentage of its least valuable forested land for agriculture, so long as it is responsibly and transparently done," it said.
+"Our plans and progress for developing sustainable palm oil plantations have been shared transparently with stakeholders and put in the public domain."
+</Article>
+
+<Claim>
+palm oil giant olam has been accused of using suppliers that may use unsustainable practices in parts of southeast asia.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Olam has been accused of using suppliers that may use unsustainable practices in parts of Southeast Asia. This claim is expressed in the following sentence:
+
+"Mighty's report says Olam and Temask could be unwittingly encouraging unsustainable palm oil trading practices that may contribute to the haze that is caused by the fires."
+
+2. The article also states that Olam has been accused of turning a blind eye to these practices. This claim is expressed in the following sentence:
+
+"Mighty also accuses Olam and its main stakeholder, Singapore state-owned investment company Temasek, of turning a blind eye to these practices."
+
+3. The article highlights that the use of unsustainable practices in the palm oil industry can contribute to the annual haze that affects several countries in Southeast Asia. This claim is expressed in the following sentence:
+
+"Since Temasek is the majority stake holder in Olam, Mighty's allegations could link Singapore's state fund to the devastating annual haze affecting Singapore, Thailand, Malaysia and Indonesia - if the claims of sourcing from rogue palm oil producers are proven."
+
+Therefore, the claims expressed in the article are:
+
+1. Olam has been accused of using suppliers that may use unsustainable practices in parts of Southeast Asia.
+2. Olam has been accused of turning a blind eye to these practices.
+3. The use of unsustainable practices in the palm oil industry can contribute to the annual haze that affects several countries in Southeast Asia.
+
+###Corrected:

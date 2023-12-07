@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+A young woman who was subjected to years of abuse by Bega Cheese boss Maurice Van Ryn has told a court of the severe impact it had on her life. For years she kept what Van Ryn did to her a secret, but when she found out he had been caught she knew she had to break her silence. The wealthy NSW businessman has pleaded guilty to 12 sex offences, including the most serious charge of persistent sexual abuse of a child. One of his victims told Sydney's District Court on Monday that she is scared for her future relationships, and didn't understand why she had been targeted. Scroll down for video . A young woman who was subjected to years of abuse by Bega Cheese boss Maurice Van Ryn (pictured) has told a court of the severe impact it had on her life . The wealthy NSW businessman has pleaded guilty to 12 sex offences, including the most serious charge of persistent sexual abuse of a child . 'I am scared for my future relationships,' the young woman said, according to News Corp. 'He has stolen my right to share my body with someone for the first time.' Van Ryn sat calmly in the dock and did not look at the young woman as she told Sydney's District Court on Monday about the impact his abuse has had on her. The young woman, who cannot be named, said when he abused her as a child she didn't know it was wrong. 'I didn't understand why he would do something like this. Does this happen to every kid? Do friends do this to other friends?' she said. 'I didn't know it was against the law.' Van Ryn (left) sat calmly in the dock and did not look at the young woman as she told Sydney's District Court on Monday about the impact his abuse has had on her. The young woman, who cannot be named, said when he abused her as a child she didn't know it was wrong . She said she hadn't spoken up about the abuse until the day she heard he had been caught, and since then had attempted to take her own life. 'I knew I had to say something.' Since then, however, she says she has been scared people will find out. 'I didn't want people to know what happened to me. I don't want people asking questions. She says she wonders when Van Ryn, who is now in custody will be out in the community again, and she worries what he did to her will forever affect how she relates to men. She said she has suffered depression since she was 14 and had been hospitalised for self harm and attempted suicide. The hearing continues. Readers seeking support and information about suicide prevention can contact Lifeline on 13 11 14. Sorry we are not currently accepting comments on this article.
+</Article>
+
+<Claim>
+a young woman was subjected to abuse by bega cheese boss maurice van ryn . the wealthy nsw businessman has pleaded guilty to 12 sex offences . he pleaded guilty to 12 sex offences , including most serious charge of a child . one of his victims told sydney 's district court that she is scared for her future relationships . for years she kept what van ryn did to break her silence . a young woman was subjected to years of abuse by bega cheese .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that a young woman was subjected to years of abuse by Bega Cheese boss Maurice Van Ryn.
+
+2. The article claims that the young woman kept what Van Ryn did to her a secret for years, but eventually broke her silence after finding out he had been caught.
+
+3. The article states that Van Ryn has pleaded guilty to 12 sex offences, including the most serious charge of persistent sexual abuse of a child.
+
+4. The young woman told the court that she is scared for her future relationships and did not understand why she had been targeted.
+
+5. The article quotes the young woman as saying that Van Ryn's abuse has had a severe impact on her life and that she has suffered depression since she was 14.
+
+All of these statements in the article express the claim that a young woman was subjected to abuse by Bega Cheese boss Maurice Van Ryn and that she has been affected by his actions.
+
+###Corrected:

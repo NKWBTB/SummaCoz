@@ -1,0 +1,24 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Nationalist MPs will take control of the UK Parliament's energy and climate change select committee and Scottish affairs select committee.
+The SNP won 56 of the 59 Westminster constituencies at the general election two weeks ago.
+That resulted in the party being the third largest, behind the Conservatives and Labour.
+Parliamentary convention dictates that the official third largest party at Westminster gets to chair a number of select committees.
+SNP chief whip Mike Weir said both committees were especially important to Scotland in this parliament.
+He said: "We will be seeing one of the major bills coming forward in the Scotland Bill on more powers for Scotland, and of course the energy and climate change committee is of particular importance with our oil and gas sector and renewables industry.
+"The SNP chairing these committees will allow us to make progress on these important issues, and will help us get the best deal for Scotland."
+</Article>
+
+<Claim>
+the snp will chair two house of commons select committees at westminster, it has been announced.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the SNP will chair two House of Commons select committees at Westminster, specifically the energy and climate change select committee and the Scottish affairs select committee. This is expressed in the following sentence:
+
+"Nationalist MPs will take control of the UK Parliament's energy and climate change select committee and Scottish affairs select committee."
+
+###Corrected:

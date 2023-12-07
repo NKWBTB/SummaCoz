@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The move was announced by Stormont's Enterprise, Trade and Investment (DETI) Minister Arlene Foster.
+She said Northern Ireland's agri-food industry was "hugely important", with almost 100,000 jobs including farming, fishing, retail and distribution.
+The marketing body will be developed by the Agri-Food Strategy Board (AFSB).
+Ms Foster said: "The establishment of a new industry-led agri-food marketing body, which would be similar to the already successful Scotland Food and Drink, will provide a significant and exciting opportunity for the Northern Ireland agri-food industry to work together for the benefit of the entire sector.
+"This body will play a pivotal role in providing strategic leadership and direction for the marketing activities of both government and private sector organisations."
+Stormont's Agriculture Minister Michelle O'Neill welcomed the announcement.
+"Agri-food is one of the key sectors in delivering export-led economic growth for the north," she said.
+She said industry representatives had made it clear that there was "a need for better coordination of current marketing activities" in Northern Ireland.
+However, Ms O'Neill added that while the new body was "clearly a positive step", the plans could have "implications for the work of other organisations", including her own department.
+She said she looked forward to discussing the plans with AFSB.
+</Article>
+
+<Claim>
+the northern ireland agri-food industry (afsb) has announced plans for a new ``[UNK] agri-food\'\'industry in northern ireland.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the Agri-Food Strategy Board (AFSB) will develop a new industry-led agri-food marketing body for Northern Ireland.
+2. The claim is correct, as the article mentions that the new body will be similar to the already successful Scotland Food and Drink.
+
+###Corrected:
