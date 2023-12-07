@@ -1,0 +1,23 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Wayne Maycock, Paul Bromwich and Admi Headley were last seen at HMP Leyhill at about 16:45 GMT on Sunday.
+Avon and Somerset Police has appealed for anyone who sees them, or knows of their whereabouts, to make contact.
+HMP Leyhill in South Gloucestershire is the only minimum-security prison in the South West.
+Headley was sentenced in 2006 for rape and robbery, Maycock was jailed in the same year for GBH, while Bromwich was sentenced in 2001 for rape.
+Earlier, the police force suggested all three were convicted of rape but this information was later amended.
+A Prison Service spokesperson said: "Public protection is our top priority. We take absconds from custody extremely seriously. We are working closely with the police and are urgently investigating this incident."
+According to Avon and Somerset Police:
+Leyhill, near Wotton-under-Edge, is a category D prison housing more than 500 inmates, including some on life sentences.
+</Article>
+
+<Claim>
+a convicted rapist has absconded from an open prison, police have said.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Headley was sentenced in 2006 for rape and robbery, Maycock was jailed in the same year for GBH, while Bromwich was sentenced in 2001 for rape." This sentence expresses the claim that all three individuals are convicted rapists.
+
+###Corrected:

@@ -1,0 +1,29 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Rockstar have announced the game's release has been delayed until 24 March.
+The latest version of the open world adventure was due to go on sale on 27 January.
+A statement from Rockstar said: "The game requires a few extra weeks of testing and polish to make it as good as can be."
+"Moving a release date is never a decision we take lightly and is a choice we make only when we know it is in the best interests of the game and our fans.
+"Thanks everyone for your understanding and we assure you these few extra weeks will be worth it when the game does arrive in March."
+It's not all bad news though. The company announced that eagerly-awaited online heists are coming to consoles before the PC release date.
+Screenshots from the PC version of GTA V have been released, with Rockstar promising "even greater levels of detail".
+Los Santos and Blaine County will be visible in 1080p at 60fps, with up to 4K resolution and support for up to triple monitor configurations.
+While you're waiting for the game to be released you can make sure your PC is up to scratch.
+Minimum specifications required to run GTA V have also been published.
+Grand Theft Auto V became the fastest-selling entertainment product ever when it was released on 17 September 2013, taking just three days to generate $1bn (Â£620m) in revenue.
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+</Article>
+
+<Claim>
+the release date for grand theft auto v v v v ( v ) has been delayed.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the release date for Grand Theft Auto V has been delayed until 24 March. This information can be found in the following sentence:
+
+"Rockstar have announced the game's release has been delayed until 24 March."
+
+###Corrected:

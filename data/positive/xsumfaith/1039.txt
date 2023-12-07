@@ -1,0 +1,23 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Police in Hamelin, in Lower Saxony, say the woman's ex-partner later handed himself in to authorities.
+The 28-year-old woman, who has not been identified, was found lying on a pavement late on Sunday with serious injuries.
+She underwent an emergency operation and was flown to a specialist clinic.
+Police say she had been dragged by the neck through several streets.
+The man now in custody is described as 38 and from nearby Bad Muender.
+Both the victim and the suspect are German citizens of Kurdish origin, a police spokesman said.
+A spokesman for Hannover prosecutors, Thomas Klinge, said the motive for the attack was not yet clear.
+Police have secured the area where the woman was found and have called for witnesses to come forward.
+</Article>
+
+<Claim>
+a german man has been arrested on suspicion of attempted murder after a german woman was dragged from her neck and dragged into a pavement, police say.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "a man now in custody is described as 38 and from nearby Bad Muender" and "Police have secured the area where the woman was found and have called for witnesses to come forward." These sentences express the claim that a German man has been arrested on suspicion of attempted murder.
+
+###Corrected:

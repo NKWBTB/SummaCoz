@@ -1,0 +1,16 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Kabul, Afghanistan (CNN)Three people were killed and five others were wounded Thursday afternoon when a group of armed assailants stormed into the attorney general's office in Balkh province, northern Afghanistan, according to a press release from the provincial governor's office. Although most staff members and civilians have been rescued, an exchange of fire between Afghan security forces and the assailants is ongoing, the statement says. Two police officers and a security guard of the provincial attorney general's office were among the dead. Afghan security forces are cautiously making advances in the fight in order to avoid civilian casualties, according to the press statement.
+</Article>
+
+<Claim>
+two officers and a security guard of the provincial attorney general's office were among the dead.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Two police officers and a security guard of the provincial attorney general's office were among the dead." This sentence expresses the claim.
+
+###Corrected:

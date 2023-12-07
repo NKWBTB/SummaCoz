@@ -1,0 +1,54 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Downing Street backed a report by think tank Policy Exchange which said selling high value homes when they become vacant would raise £4.5bn a year.
+That would be enough to build 80,000 to 170,000 social homes, the report said.
+Labour said new homes were urgently needed but "driving out hard-working families on low wages from whole neighbourhoods" was not the answer.
+In its Ending Expensive Social Tenancies report, Policy Exchange argues the move could create the largest social house building programme since the 1970s - giving the economy a kickstart.
+Neil O'Brien, the think tank's director, told the BBC that social housing would still exist in very expensive areas under its proposal, but there would just be "less of it".
+"The truth is I don't believe anybody has the right to live in the most expensive parts of town.
+"People do have a right to get housed, just not in the very most expensive areas," he said.
+He also suggested that the overall number of people waiting for social housing, currently around 1.8 million, could be reduced by about 500,000 if the scheme was implemented.
+The prime minister's official spokesman said: "This is something that councils can choose to do already.
+"Councils should be looking for ways to use their social housing stock as efficiently as they can. The waiting list for social housing has increased a lot over passing years.
+"They need to think about how they can use that social housing stock efficiently.
+"If they can sell high-value housing to invest in more social housing and find more homes for more people, then that is certainly something they should look at."
+But Labour said the coalition's "failed" polices were "making the housing crisis worse not better".
+Shadow housing minister Jack Dromey said: "Councils and housing associations should make effective use of their housing stock but the government should not force them to arbitrarily sell off social homes, breaking up mixed communities and driving out hard-working families on low wages from whole neighbourhoods."
+He said the government should use a bank bonus tax to fund 250,000 affordable homes and "put unemployed builders back to work" and boost the construction industry.
+'Lucky family'
+Expensive social housing - which Policy Exchange defines as housing worth more than the average property in each region - accounts for 21.8% of the total social housing stock in the UK, it says.
+This equates to 816,000 properties - out of a total of 3.78 million - which the think tank says could raise up to £159bn if sold.
+It says London alone has more than £70bn of expensive social housing.
+About 3.5% of the total stock becomes vacant every year owing to people moving out or dying, the think tank said.
+This meant the government could sell a total of 28,500 properties each year, raising £5.5bn a year. The figure would stand at £4.5bn after paying off the debt held against the stock, the report said.
+Mr O'Brien argued that many hard-working people might want to live in a nicer area or in a bigger house but could not afford to.
+"Rather than having one lucky family with a very expensive house, you would have two families perhaps desperately waiting for social housing, now having a roof over their heads.
+"That seems fairer to me," he added.
+The think tank also said the move would be "extremely popular" with all sections of society, claiming that 73% of people, including social tenants, think people should not be given council houses worth more than the average property in a local authority.
+'Dramatic erosion'
+Critics say such a move would push the least well-off out of expensive streets, and into new ghettos.
+The National Housing Federation, which represents housing associations, says many towns would be "cleansed" of "hardworking people who can't afford to pay high prices".
+Labour MP Karen Buck, who represents Westminster North, is concerned that lower income families, particularly in London, will be forced out of more affluent areas creating segregated communities of rich and poor.
+Ms Buck also argued that the Labour government's £8bn social and affordable housing building programme was cut by 60% when the coalition came to power.
+Housing Minister Grant Shapps - who is in favour of a sell-off - said the government had introduced "radical reforms" to "get Britain building" and to reduce social housing waiting lists.
+They included investing £19.5bn public and private funding into an affordable housing programme "set to exceed expectations and deliver up to 170,000 homes".
+Councils could now offer fixed-term tenancies to new tenants to make sure "social housing goes to those in greatest need", he added.
+</Article>
+
+<Claim>
+the housing and housing associations are ``something they should look at low wages\'\', a think tank has suggested.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the think tank, Policy Exchange, suggests that councils and housing associations should sell high-value social housing to invest in more social housing and find more homes for more people. This is mentioned in the following sentences:
+
+"If they can sell high-value housing to invest in more social housing and find more homes for more people, then that is certainly something they should look at."
+
+"The prime minister's official spokesman said: 'This is something that councils can choose to do already. Councils should be looking for ways to use their social housing stock as efficiently as they can.'"
+
+2. The claim is that councils and housing associations should look at selling high-value social housing to invest in more social housing and find more homes for more people.
+
+###Corrected:

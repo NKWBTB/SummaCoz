@@ -1,0 +1,35 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+John Clancy, Labour councillor for Quinton, beat closest rival Penny Holbrook in Monday night's ballot.
+Ahead of the vote, he said providing new homes and improving existing social housing should be the authority's "top priority".
+He will officially replace Sir Albert Bore on 1 December.
+Mr Clancy, who has bid to become leader of the city council several times, was chosen in the ballot by the authority's 78 Labour councillors.
+Updates on this story and others on Birmingham and Black Country
+Sir Albert announced he would stand down as head of the self-styled "largest local authority in Europe".
+A close call for a man waiting in the wings for more than a decade.
+John Clancy has become leader of the Labour group after five attempts - and by just one vote. He will officially become leader of Birmingham City Council on 1st December when it's ratified at full council.
+An English teacher for many years, he's no stranger to working in the public sector but he also had a spell as a solicitor, as well as a business lecturer.
+His big message at a hustings last week was the council under his leadership can provide smarter financial decisions, political openness and free school meals for all primary age children.
+Some critics from within the party are already saying they're worried he won't have the clout or the vision to make the huge and rapid improvement needed to keep government commissioners at bay.
+The former Labour group leader's departure followed two other senior party figures, who resigned after criticising the way city was being run.
+Ian Ward, the deputy leader of the local authority and councillor Barry Henley also stood for the position.
+Mr Clancy, a former teacher and lecturer, has also pledged to widen access to free school meals for primary school children and expand regeneration outside the city centre.
+Birmingham City Council has found itself under scrutiny from a government-appointed independent panel.
+The panel was appointed at Sir Bob Kerslake's recommendation to oversee changes at the council.
+Sir Bob's study was commissioned after a series of reports focussed on the council during an inquiry into the so-called Trojan Horse letter.
+</Article>
+
+<Claim>
+the leader of birmingham city council has been elected as the city\'s new leader.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "John Clancy has become leader of the Labour group after five attempts - and by just one vote."
+2. The article states that "He will officially become leader of Birmingham City Council on 1st December when it's ratified at full council."
+
+Both of these sentences express the claim that John Clancy has been elected as the new leader of Birmingham City Council.
+
+###Corrected:

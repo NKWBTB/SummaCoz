@@ -1,0 +1,32 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The exhibition Growing Up in the City at the Museum of Liverpool boasts 25 evocative photographs which capture the life of children over more than 100 years.
+As well as a providing a snapshot of those lost days of childhood, the pictures also provide a thought-provoking social history of life in Liverpool through the decades.
+The photographs span the period from the 1880s to the 1990s and illustrate just how much life for a child has changed and also how special occasions were marked on the city's streets.
+The oldest image dates back to 1887 and is a portrait of Florence, George and Gertie Rollo, who came from Waterloo Park.
+The Rollo family lived in a large home in the area called Stone House and had four servants. The picture shows the children dressed up in costumes for a fancy dress ball hosted by the Mayor and Mayoress of Bootle, Alderman and Mrs Howard.
+As well as showing children at play, another image reminds us that many youngsters were also sent out to work.
+A nervous looking young maid for a well-to-do Liverpool family is captured in a great portrait which is thought to have been taken about 1900.
+The exhibition has been put together by Kay Jones, Curator of Urban Community History at the Museum of Liverpool.
+Ms Jones painstakingly trawled through hundreds of images from the National Museums Liverpool's collections before deciding on the final 25 for the exhibition.
+She said: "This has been a fascinating exhibition to work on.
+"Looking through hundreds of different postcards, photographs and glass plate negatives in our collections; it was hard to decide on the final 25 images.
+"I chose the ones that really stood out and told the experience of childhood.
+"People love seeing old photographs and most people can relate to the same experiences of playing out in the street if they're from Liverpool or anywhere else.
+"But, at the same time, the pictures also remind us of how things have changed.
+"I didn't want it to be just happy memories, I also wanted to remember the children who had to work throughout their childhood.
+"I wanted it to be the good and bad experiences of childhood."
+Growing Up in the City is at the Museum of Liverpool until 25 September.
+</Article>
+
+<Claim>
+the oldest image of the oldest image of children dressed in the street in liverpool, has been unveiled in liverpool.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the oldest image of children dressed in the street in Liverpool dates back to 1887 and is a portrait of Florence, George, and Gertie Rollo.
+
+###Corrected:

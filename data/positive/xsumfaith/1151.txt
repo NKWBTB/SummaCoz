@@ -1,0 +1,37 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The views were expressed following a meeting of the EU Negotiation Joint Ministerial Committee in London.
+Mr Davis said the UK government would keep Scotland, Wales and Northern Ireland up-to-date about negotiations.
+However, Mr Russell said transparency about UK government plans was needed.
+Mr Davis said he wanted to hold a monthly meeting to share analysis as part of a "two-way information flow" with each of the three nations.
+He believed that would allow the devolved administrations to voice their views as the Westminster government prepares talks with Brussels.
+Mr Davis said: "Today's meeting was an important step in bringing the devolved administrations together with the UK government to discuss how we can work together to get the best deal for the whole of the UK.
+"Naturally, there are different standpoints around the table, but the meeting was constructive and amicable. We will meet regularly and share our latest thinking as the UK shapes its negotiating strategy.
+"We will work positively with the Scottish government, the Welsh government and the Northern Ireland Executive as we implement the decision of the people of the UK to leave the EU."
+Mr Russell said it was "good" that the process of involving the Scottish government was under way.
+But he added: "More than four months after the referendum the UK government has still not made its strategic intentions clear.
+"There was a discussion over EU market access but we do not know whether UK ministers want to remain inside the single market or the customs union. This will remain a considerable problem as we continue to promote the interests of Scotland.
+"The UK Government must provide greater clarity and transparency on its intentions."
+He said he made it "absolutely clear" that membership of the single market "is essential for the economic prosperity of Scotland".
+The UK government hopes the High Court judgment on how Article 50 will be triggered will be overruled on appeal to the Supreme Court next month.
+However, the Scottish government will seek to oppose the UK government in the Supreme Court during the appeal.
+The intention is for Lord Advocate James Wolffe, Scotland's most senior law officer, to apply to be heard in the case.
+</Article>
+
+<Claim>
+the scottish government is to meet to discuss the uk government\'s commitment to leaving the european union.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the Scottish government will meet to discuss the UK government's commitment to leaving the European Union.
+
+Source:
+
+"the Scottish government is to meet to discuss the UK government's commitment to leaving the European Union."
+
+This sentence expresses the claim made in the claim section.
+
+###Corrected:

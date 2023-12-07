@@ -1,0 +1,19 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+After Chelsea forward Eden Hazard had scored give his side a 1-0 lead against Manchester United at Stamford Bridge on Saturday, the Sky Sports punditry team were convinced that there had been a foul in the build-up. Chelsea captain John Terry had come in with a strong challenge from behind on United striker Radamel Falcao which sent the Colombian hurtling to the ground. Blues midfielder Cesc Fabregas then collected the loose ball and released it to Oscar before his back-heel sent it into the path of the oncoming Hazard to slot home. Chelsea defender John Terry comes in from behind with a strong challenge on Radamel Falcao . Terry's challenge on Falcao came during the build-up to Eden Hazard's opening goal for Chelsea . The Manchester United striker struggles to hold his grand and loses the ball to Terry near the half-way line . Terry's strong challenge leads to a loose ball that is picked up by Cesc Fabregas to start of the scoring move . Without taking anything away from the sublime spectacle of the goal, pundits Thierry Henry, Jamie Redknapp and Graeme Souness agreed during their half-time analysis that play should have been stopped for Terry's rough tackle on Falcao. Souness said, 'It's a decent forearm smash. I mean he does stick his elbow in the back of Falcao's head and that's a foul.' He added, 'If that elbow's not there he's not going down like that.' Former Arsenal captain Henry, meanwhile, felt sympathy for Falcao as a fellow striker. Asked if he would have wanted a foul in that position as a player, the Frenchman responded, 'Yes, all day long.' Finally, Redknapp admitted that while Falcao could have possibly done better to stay on his feet, Terry's challenge from behind shouldn't have gone unpunished. 'I think he could have been stronger, but it's still a foul.' Sky pundits Graeme Souness (left), Thierry Henry (centre) and Jamie Redknapp agree Terry fouled Falcao .
+</Article>
+
+<Claim>
+eden hazard scored give his side a 1-0 lead against manchester united . sky sports punditry team were convinced that there had been a foul in the build-up . chelsea captain john terry had come in with a strong challenge from behind on united striker radamel falcao which sent the colombian hurtling to the ground .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Chelsea captain John Terry had come in with a strong challenge from behind on United striker Radamel Falcao which sent the Colombian hurtling to the ground."
+2. The article states that "Sky pundits Graeme Souness, Thierry Henry, and Jamie Redknapp agreed that Terry fouled Falcao."
+
+Both of these sentences express the claim that John Terry fouled Radamel Falcao in the build-up to Eden Hazard's goal.
+
+###Corrected:

@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury by signing a new one-year contract extension . poynton , 25 , missed the entire 2014 campaign due to leg injuries sustained in a road accident in which his father keith died last april . the former england under-19 international had to undergo an ankle operation but he made his playing comeback during derbyshire 's pre-season tour of abu dhabi . derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury . he will be available for the start of the season and has now committed himself to the county until the end of the 2016 season . derbyshire 's elite performance director , graeme welch , said : ' tom has displayed exceptional character since the tragic events that ended his season last april . ' he has worked tirelessly both in training and in his off-the-field role to prepare him for his return and everyone at the club is delighted to see him back on the field playing for derbyshire . ' we hope the new contract will now give him the confidence to go out and express himself this summer . ' he has shown good form since his return to training and in abu dhabi and we hope this continues . '
+</Article>
+
+<Claim>
+tom poynton missed the entire 2014 campaign due to leg injuries in a road accident in which his father keith died last april .
+the former england under-19 international had to undergo an ankle operation but he made his playing comeback during derbyshire 's pre-season tour of abu dhabi .
+derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Tom Poynton missed the entire 2014 campaign due to leg injuries in a road accident in which his father Keith died last April.
+2. The article states that Tom Poynton had to undergo an ankle operation after sustaining injuries in the road accident.
+3. The article states that Tom Poynton has been rewarded for his successful return from injury by signing a new one-year contract extension.
+
+###Corrected:

@@ -1,0 +1,32 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+A Saudi Arabian man has been arrested at the Mexican border after attempting to flee the country to avoid facing rape charges in Utah. Monsour Alshammari, 27, is in the U.S. on a Saudi government student sponsorship and has ties to the country's royal family, according to court documents. He was picked up by U.S. Immigration and Customs Enforcement on Friday and a judge in Provo signed an arrest warrant on Monday to extradite him back to Utah. Monsour Alshammari, 27, was arrested on Friday at the border near San Diego. He is set to be extradited back to Utah where he faces charges related to the rape of a student in February Alshammari had been charged on April 3 with rape, a first-degree felony, and obstructing justice, a second-degree felony. He has not yet entered a plea to those charges. Prosecutors believe Alshammari was attempting to flee the country with no concern for the $100,000 someone posted for his bail. He is being held at a facility in San Diego until he can be extradited to Utah. Orem police Lt. Craig Martinez said that process could take several weeks. Utah police said in court documents that they want Alshammari held without bail in Utah because they believe his international connections and willingness to walk away from $100,000 bail mean he'll flee the country to avoid prosecution. 'If you are bailing out, you are not supposed to leave the state – let alone the country,' Deputy Utah County Attorney Craig Johnson told KSL.com. 'If he had been successful, there is no way for us to extradite him back to Utah – especially with his ties to the royal family.' Alshammari was arrested in March, nearly a month after a woman reported to police she had been raped, while on a date. The victim led police to Alshammari at this apartment complex near Utah Valley University. He was booked into the Utah County jail on March 26, but $100,000 in bail was posted for him five days later. Alshammari's attorney Ron Yengich declined to comment on Tuesday, saying he had not talked with his client since the arrest. When asked about Alshammari's connections to the Saudi Arabian royal family, Yengich said he would not speak about any relationship or connections due to attorney client privilege. Police did not offer details about the royal connection, besides saying that federal officials reported Alshammari is related to royalty and has family connections to the Saudi Arabian government.
+</Article>
+
+<Claim>
+monsour alshammari , 27 , is in the u.s. on a saudi government student sponsorship and has ties to the country 's royal family . he was picked up by u.s. immigration and customs enforcement on friday and a judge in provo signed an arrest warrant on monday to extradite him back to utah . he had been charged on april 3 with rape , a first-degree felony , and obstructing justice , a second-degree felony .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Monsour Alshammari, 27, is in the U.S. on a Saudi government student sponsorship and has ties to the country's royal family.
+
+Source:
+
+"Monsour Alshammari, 27, is in the U.S. on a Saudi government student sponsorship and has ties to the country's royal family, according to court documents."
+
+2. The article states that a judge in Provo signed an arrest warrant on Monday to extradite Alshammari back to Utah.
+
+Source:
+
+"A judge in Provo signed an arrest warrant on Monday to extradite him back to Utah."
+
+3. The article states that Alshammari had been charged on April 3 with rape, a first-degree felony, and obstructing justice, a second-degree felony.
+
+Source:
+
+"He had been charged on April 3 with rape, a first-degree felony, and obstructing justice, a second-degree felony."
+
+###Corrected:

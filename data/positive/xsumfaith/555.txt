@@ -1,0 +1,38 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Pte Matthew Boyd, 20, was off-duty on a night out in Brecon when he was punched and beaten by Jake Vallely.
+But the jury cleared Vallely's friend Aaeron Evans of manslaughter after Cardiff Crown Court was told he was not present during the attack.
+Vallely, 24, will be sentenced on 8 December.
+The unconscious body of Pte Boyd, who served with the Royal Gibraltar Regiment, was found by police in the town in the early hours of 8 May.
+Pte Boyd, who is originally from Carrickfergus, County Antrim, had been in the town for training exercises at the infantry battle school.
+During the trial, the court heard Pte Boyd was making his way back to the barracks when he was attacked outside a bar called The Cellar.
+CCTV footage showed the soldier being punched, going to the ground and being beaten until he no longer moved.
+Vallely then dragged his body from the scene before fleeing.
+The trial was told the killer had been on a seven hour drinking binge and in the hour before the attack was boasting he was the "hardest man in Brecon".
+His friend Mr Evans was cleared of any involvement in the attack, after the jury was told he had left the scene before the start of any violence.
+Senior investigating officer Det Supt David Guiney, from Dyfed-Powys Police, called the attack "a despicable act" that "shocked" the community of Brecon.
+"I plead with anyone who plans a night out drinking with their friends to please, walk away from any conflict, do not resort to violence," he said.
+A family tribute described Pte Boyd as an "all-rounder" who had "a promising career ahead of him which has been cut short".
+The tribute read: "Matthew was full of life. He was loving, caring and loyal. He was always playing jokes on his peers and family, and always brought smiles to our faces."
+It said Vallely had created "a void in our family that will never be filled", adding the "unbearable pain" was something they will have to live with for the rest of their lives.
+"During this trial, it has been mentioned that Jake Vallely called himself the 'hardest man in Brecon' on the night that he murdered Matthew," the tribute said.
+"He couldn't have been more wrong. There has been such a massive outpouring of love from the community in Brecon towards our family; in our mind, those are the strongest people in Brecon."
+</Article>
+
+<Claim>
+a killer who boasted he was the ``hardest man\'\'in town has been found guilty of murdering a soldier in powys.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the killer, Jake Vallely, boasted that he was the "hardest man in Brecon" before the attack.
+
+Here is the sentence that expresses the claim:
+
+"His friend Mr Evans was cleared of any involvement in the attack, after the jury was told he had left the scene before the start of any violence. During the trial, the court heard Pte Boyd was making his way back to the barracks when he was attacked outside a bar called The Cellar. CCTV footage showed the soldier being punched, going to the ground and being beaten until he no longer moved. Vallely then dragged his body from the scene before fleeing."
+
+This sentence indicates that Vallely boasted about being the "hardest man in Brecon" before the attack, which is the claim being made.
+
+###Corrected:

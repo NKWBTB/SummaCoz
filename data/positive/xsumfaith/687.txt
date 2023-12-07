@@ -1,0 +1,27 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Administrators of the ACT test took the decision just hours before some 5,500 students were due to sit it.
+The ACT is one of two entrance exams available to international and domestic students wanting to go to a US college.
+This is not the first cheating scandal to hit the tests in East Asia.
+The other entrance exam - the SAT - was cancelled in South Korea in 2013 because some of the questions were leaked.
+The ACT test was due to be held at 56 test centres in both South Korea and Hong Kong on Saturday morning.
+The Associated Press said teachers at some of Seoul's private "cram schools" said they were not notified until about an hour before the students were due to sit the test.
+ACT Inc, an Iowa-based non-profit organisation that was operating the test, said it took the decision after receiving "credible evidence that test materials intended for administration in these regions have been compromised".
+The organisation said in a statement that all students would get a refund but would only be able to resit when the tests are held again in September.
+</Article>
+
+<Claim>
+an examination for students in south korea and hong kong hoping to study at us colleges has been cancelled after ``credible evidence\'\'emerged that it had been leaked in advance.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the ACT test was cancelled in South Korea and Hong Kong due to "credible evidence that test materials intended for administration in these regions have been compromised."
+
+Here is the sentence in the article that expresses the claim:
+
+"ACT Inc, an Iowa-based non-profit organisation that was operating the test, said it took the decision after receiving 'credible evidence that test materials intended for administration in these regions have been compromised'."
+
+###Corrected:

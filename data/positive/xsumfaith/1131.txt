@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The man died in Inverness on 27 October this year.
+The Police Investigations and Review Commissioner (Pirc), Kate Frame, has been asked to scrutinise the initial police response to the man's call.
+Police Scotland said it was "fully engaging" with the investigation and awaited its findings.
+A spokesman for Pirc said: "The Crown Office and Procurator Fiscal Service (COPFS) has instructed the Police Investigations and Review Commissioner to undertake an investigation into the initial police response to a call from a 72-year-old man who was later found dead at a sheltered housing complex in Inverness.
+"A report on the commissioner's findings will be submitted to the COPFS in due course."
+</Article>
+
+<Claim>
+a police investigation into the death of a man who was found dead in his sheltered housing complex has been launched.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "a police investigation into the death of a man who was found dead in his sheltered housing complex has been launched." This sentence expresses the claim.
+
+###Corrected:

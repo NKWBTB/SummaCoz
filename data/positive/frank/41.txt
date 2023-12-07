@@ -1,0 +1,18 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Share this withEmailFacebookMessengerMessengerTwitterPinterestWhatsAppLinkedInCopy this linkThe charity said tests confirmed all of the cats near Victor Avenue, in Melton Mowbray, Leicestershire, had ingested the toxic substance.In the most recent case, seven-month-old Meereen died on Monday.An RSPCA spokesman said it was unclear whether the poisonings were accidental or deliberate.Updates on this story and more from LeicestershireThree other cats in the area have died in the last seven days, while another cat died two weeks ago.Meereen's "devastated" owner, Adria Pearce, said the cat came home on Friday evening and "seemed to be shivering a little"."I haven't been able to stop crying since she died," she said."We found her behind the sofa, where she was foaming from the mouth and trying to be sick."Meereen was taken to the vets - where it was confirmed she had consumed antifreeze - and died three days later.RSPCA inspector, Andy Bostock, is appealing for everyone in the area to ensure pesticides and chemicals were stored safely."We are very concerned," he said."It is the time of year where people use antifreeze in their cars, so if you do, please make sure there are no leaks and any spills are cleaned up properly."
+</Article>
+
+<Claim>
+a cat has died in a suspected chemical overdose, the rspca has confirmed.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that "Meereen died on Monday after ingesting antifreeze, the RSPCA has confirmed."
+
+The sentence that expresses the claim is: "the RSPCA has confirmed that Meereen died on Monday after ingesting antifreeze."
+
+###Corrected:

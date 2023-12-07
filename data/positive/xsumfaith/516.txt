@@ -1,0 +1,32 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The much-anticipated film sparked controversy last week after it emerged it would feature a "gay moment".
+It was due for release in Malaysia on Thursday, but Disney said it was being held for a "review" of its content.
+The Malaysian Censorship Board (LPF) said on Tuesday it had approved the screening but with "a minor edit concerning a gay moment in the film".
+Homosexual activity is illegal in Muslim majority Malaysia, although the country's tourism minister has said banning the film is "ridiculous".
+A new release date has yet to be announced.   The live-action remake was granted a "P13 parental guidance classification".
+"We have approved the film so there is no more issue. Once a film receives approval, it means it can be screened," LPF Chairman Datuk Abdul Hamid said.
+"However, the date of screening and where the screening takes place is not under LPF's jurisdiction. We only look at the content and give a decision on whether the movie gets approved or not."
+Local cinema chains have been offering refunds for customers who have purchased tickets in advance.
+Beauty and the Beast director Bill Condon has spoken about the "exclusively gay moment" in the film.
+It involves LeFou - the sidekick of the film's main antagonist Gaston - who tries to come to terms with feelings for Gaston that swing between lust and admiration, as a side-plot to the main story.
+The decision to review the Disney classic in Malaysia courted criticism from netizens, many of whom called it "stupid and laughable".
+"Malaysia bans 'Beauty and the Beast' but is okay with nonsense Malay movies with no moral values, just full of brainless jokes," wrote a Twitter user in a tweet which drew more than 4,500 re-tweets.
+Priyanka Laxmiâ€
+</Article>
+
+<Claim>
+the release of disney\'s beauty and the beast has been postponed in malaysia.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the release of Disney's Beauty and the Beast has been postponed in Malaysia due to a "review" of its content by the Malaysian Censorship Board (LPF).
+
+The sentence that expresses the claim is:
+
+"Disney said it was being held for a "review" of its content."
+
+###Corrected:

@@ -1,0 +1,27 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Part of a school roof was ripped off at Rhosgadfan near Caernarfon, Gwynedd, while hundreds of homes across Wales experienced power cuts.
+The day saw train delays, speed and lane restrictions on major bridges and power cuts for hundreds of homes.
+It followed a yellow 'be aware' warning for wind across Wales, which was in force until midnight on Friday.
+Friday has been one of the busiest days of the festive season on UK roads as the Christmas getaway combined with the end of the working week.
+The highest gusts of wind were recorded on Friday afternoon at Mona on Anglesey.
+Irish Ferries cancelled six of its fast sailings between Holyhead and Dublin due to "adverse weather conditions" on the Irish Sea, transferring passengers to their cruise ferry services.
+Arriva Trains Wales warned of "speed restrictions and possible delays" for all services between Llandudno Junction to Holyhead due to the winds.
+The National Trust also closed Erddig Hall and Chirk Castle in Wrexham due to the expected high winds.
+Winds eased into Friday evening, with earlier restrictions on both the A55 Britannia Bridge in north Wales and the M48 Severn Bridge in Monmouthshire lifted.
+But a blustery forecast for the Christmas weekend has seen at least one festive event postponed - Rhyl's Boxing Day Dip in the sea in Denbighshire will now go ahead 24 hours later, on Tuesday, 27 December.
+Check if this is affecting your journey
+</Article>
+
+<Claim>
+high winds and high winds have caused disruption across parts of wales as high winds and high winds continue.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that high winds have caused disruption across parts of Wales, with sentences such as "hundreds of homes experienced power cuts" and "train delays and speed restrictions" due to the windy conditions.
+2. The claim is correct, as the article mentions high winds multiple times and describes the disruption caused by them.
+
+###Corrected:

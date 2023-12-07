@@ -1,0 +1,26 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Economy passengers have long wished they were in first class with lie-flat beds and nice meals, but now it seems there is someone else to envy - the cabin crew. A new plane design has revamped the areas where cabin crew can enjoy from rest and relaxation in flight, and it seems they have more space than any passengers. A slick bunk bed design has been unveiled by Zodiac Galleys Europe, giving staff a bed each and some privacy for a little shut-eye during long-haul flights. Scroll down for video First class accommodation! Zodiac Aerospace have revealed their new designs for luxury sleeping quarters for cabin crew The lower deck area aims to maximise the sense of space and privacy for flight attendants as they rest Drawing on the help of 30 flight attendants from four different continents, their lower deck designs reveal an area designed to feel spacious, private and with maximum personal comfort. Every bunk is equipped with a personal service unit (PSU) offering crew with individual comfort features such as an in-flight entertainment and air conditioning system. In order to maximise the sense of space, innovative materials and lighting solutions were designed and implemented. The Zodiac Aerospace concept was revealed Aircraft Interiors Expo in Hamburg last week, which aimed to showcase the latest developments in aircraft manufacturing. The company has been creating Lower Deck Mobile Crew Rests for Airbus A330/A340 since the '90s and is the market leader for this area. Each section boasts a personal service unit (PSU) offering crew with individual  in-flight entertainment systems and air conditioning They aimed to start from a clean slate  in order to create a new concept for sleeping areas, and conducted extensive market research to achieve this. 'The goal was not only to improve on quantitative aspects such as cost and weight, but also to enhance the user experience,' a spokesperson for Zodiac Aerospace stated to Skift. 'In every step of the process users were involved. 'The extensive research provided a thorough understanding of the factors which influence how users experience crew rests.' Cabin envy! The deluxe areas were created after Zodiac Aerospace spoke to 30 flight attendants from four different continents Last year other rare photographs revealed the tiny space quarters afforded to flight attendants on Boeing 373 Dreamliners. Unlike the Aerospace lower deck areas, the Boeing Crew Rest Departments (CRCs) can be located in a compartment at the top of the plane, or in a hidden section of the same cabin as passengers. Enough room to swing a cat? A file picture reveals the Crew Rest Department on board a Boeing 777 On a Cathay Pacific 777-300ER there is a concealed staircase leading to the CRC at the rear of the plane. Attendants have to duck to get through it, but there is room for eight flight staff with six foot bunk beds with heavy curtains for blocking out noise from other crew members. Instructions state that one crew member can be on a bunk at a time, and never during taxi, take off and landing. When not in use, the secret door must be closed and latched to avoid passengers wandering in. Sleep tight: The cosy and comfortable looking crew sleeping quarters on the Boeing 787 Dreamliner Pilots have their own separate sleeping quarters, such as this one, on the Boeing 787 Dreamliner Looking out over the passengers: Cabin crew can keep an eye on everyone on the flight in case of any issues
+</Article>
+
+<Claim>
+the deluxe areas were created after zodiac aerospace spoke to 30 flight attendants from four continents . the boeing crew rest departments can be located in a compartment at the top of the plane , or in a hidden section of the same cabin as passengers . the company has been creating lower deck mobile crew rests for airbus a330/a340 since the '90s .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Zodiac Aerospace spoke to 30 flight attendants from four continents to create the deluxe areas.
+
+Sentence: "Zodiac Aerospace has revealed its new designs for luxury sleeping quarters for cabin crew, created after speaking to 30 flight attendants from four different continents."
+
+2. The article mentions that the Boeing Crew Rest Departments (CRCs) can be located in a compartment at the top of the plane or in a hidden section of the same cabin as passengers.
+
+Sentence: "The Boeing CRCs can be located in a compartment at the top of the plane, or in a hidden section of the same cabin as passengers."
+
+3. The article states that the company has been creating Lower Deck Mobile Crew Rests for Airbus A330/A340 since the '90s.
+
+Sentence: "The company has been creating Lower Deck Mobile Crew Rests for Airbus A330/A340 since the '90s."
+
+###Corrected:

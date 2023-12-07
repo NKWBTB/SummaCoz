@@ -1,0 +1,29 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Her Royal Highness took the baton at the Hamburg Symphony Orchestra's new home, the Elbphilharmonie concert hall.
+It was part of an event where 250 schoolchildren were introduced to music in front of the Duke and Duchess.
+The Royal party are due back in the UK on Friday evening, after a five-day tour that began in Poland on Monday.
+On the last day of the tour, the Duchess, who comes from a musical family and played the flute at school, took the musicians through the first notes of Beethoven's fifth symphony.
+The royal couple then listened to a performance of a symphony especially adapted for young people, and then went on stage to learn more about the orchestra.
+Earlier, Catherine and William walked around the stage accompanying six children trying out different instruments, including a violin, flute, timpani [kettle drums] and trombone.
+Later the Duke of Cambridge gave Prince George and Princess Charlotte a guided tour of a helicopter at the Airbus factory in Hamburg.
+Prince George tried on a pilot's helmet while Princess Charlotte played with buttons in the cockpit.
+The Duke flew helicopters when he was an air ambulance pilot.
+Antoine van Gent, head of flight testing at Airbus, said: "The Duke was very relaxed showing his children the professional aircraft he uses.
+"George was excited, with the first helicopter he wanted to sit in the cockpit and then he wanted to sit in the next one, he already knew there was a difference between them."
+Charlotte was less impressed after taking a tumble on the concrete after leaving the aircraft but Mr van Gent said she enjoyed playing in the pilot's seat.
+</Article>
+
+<Claim>
+the duke and duchess of cambridge have taken part in a final tour of poland for their children\'s service.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the Duke and Duchess of Cambridge took their children, Prince George and Princess Charlotte, on a tour of a helicopter at the Airbus factory in Hamburg as part of their final day of their five-day tour of Poland.
+
+The sentence that expresses this claim is: "The Duke of Cambridge gave Prince George and Princess Charlotte a guided tour of a helicopter at the Airbus factory in Hamburg."
+
+###Corrected:

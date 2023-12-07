@@ -1,0 +1,20 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+The Easter bunny was invented in German folklore, where an 'Easter Hare' was used to determine whether children had been well-behaved. Much like Father Christmas, the brown-coloured animals was often depicted carrying a selection of treats to good children's houses. But while the traditional version of the rabbit was a natural-looking creature, the modern character has become an often terrifying white, pink, purple and yellow creation. The Easter bunny is meant to be a joyful character, but often botched costumes mean they are more horrific than happy, as this picture demonstrates . The symbol of the Easter often results in a terrifying sight when produced on a budget. Children who would usually be delighted to be meeting someone who will be gifting them with chocolate eggs end up screaming for their parents. As reported by Metro, unfortunate humans who have been given the task of dressing up as the rabbit end up looking more like the terrifying Donnie Darko character than a friendly furball. Read on to see some of the creepiest Easter bunnies around.... This bunny would be better suited to Halloween . This Easter rabbit looks like he could behave a starring role in Texas Chainsaw Massacre . This bunny isn't giving much cheer out... and appears to have lost its neck . This child is braver than most adults, getting this close to an evil-looking bunny . This bunny looks like it needs to break out . This Easter rabbit needs to work on its body language . This bunny on the left might like to lay off the coffee, while the bunny on the right hasn't had much luck impressing these children . This bunny took the hand-on approach too literally . This bunny looks like it could borrow a few cups of coffee from bunny No.7 .
+</Article>
+
+<Claim>
+the easter bunny was invented in german folklore, where an 'easter hare' the modern character has become an terrifying white, pink, purple and yellow creation. the symbol of the easter often results in a terrifying sight. the brown-coloured was often depicted carrying a selection of treats to good children's houses.
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that the modern Easter bunny has become a terrifying sight, with costumes often being botched and resulting in a frightening appearance.
+2. The article mentions that the Easter bunny has become a "terrifying white, pink, purple and yellow creation."
+3. The article states that the symbol of the Easter bunny often results in a terrifying sight.
+
+All of these statements express the claim that the Easter bunny has become a terrifying figure, rather than a joyful one as it was originally intended to be.
+
+###Corrected:

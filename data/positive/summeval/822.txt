@@ -1,0 +1,18 @@
+<s>[INST] You are given an article and a claim.
+Please read the <Claim> and find the sentence(s) in the <Article> that express the <Claim>.
+
+<Article>
+Serge Gnabry says he is feeling 'better and better' all the time as the Arsenal teenager prepares to return after more than a year out. The 19-year-old midfielder impressed for the Gunners last season, but his progress has been stunted by a serious knee injury. Gnabry, as a result, has not featured since the Champions League last-16 second leg against Bayern Munich in March 2014, although he is at last closing in on a return. Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading on Monday . The 19-year-old has not featured for the first team since March last year after suffering serious knee injury . Gnabry impressed for the Gunners last season before his progress was curtailed due to injury . The Germany Under-21 international played for Arsenal's development squad as they lost 1-0 to Reading on Monday and is now over his injury worries. 'I am feeling good, I'm feeling better and better,' Gnabry told Arsenal Media. 'It is my second 90 minutes [in the space of a week], I am playing and over my injury so it is all good and I am looking forward to the next game.'
+</Article>
+
+<Claim>
+Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading . The 19-year-old has not featured for the first team since March last year . The Germany Under-21 international played for Arsenal 's development squad as they lost 1-0 to Reading .
+</Claim>
+
+Your reponse:[/INST]
+
+1. The article states that Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading.
+2. The claim that Gnabry has not featured for the first team since March last year is also true, as the article states that he has not played for the first team since the Champions League last-16 second leg against Bayern Munich in March 2014.
+3. The claim that Gnabry played for Arsenal's development squad as they lost 1-0 to Reading is also true, as the article states that he played for the Under-21 team in the match against Reading.
+
+###Corrected:
