@@ -6,7 +6,7 @@ import deepspeed
 import argparse
 import json
 from tqdm import tqdm
-from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST, SELFINST_TEMPLATE_EXTRA, XSUM_EXTRA_TEMPLATE, SELFINST_TEMPLATE_POSITIVE, CLAIM_PROMPT
+from template import COT_TEMPLATE, ZEROSHOT_TEMPLATE, SELFINST_TEMPLATE, DOC_FIRST, SUM_FIRST, SELFINST_TEMPLATE_EXTRA, XSUM_EXTRA_TEMPLATE, SELFINST_TEMPLATE_POSITIVE, CLAIM_PROMPT, TYPE_EXTRA_TEMPLATE
 
 def load_jsonl(input_path):
     with open(input_path, "r", encoding="UTF-8") as f:
@@ -23,13 +23,16 @@ def apply_template(batch, template, tokenizer):
     tokens = tokenizer(docs)["input_ids"]
     bs = len(docs)
     for i in range (bs):
-        if len(tokens[i]) > 3000:
-            print(f"{len(tokens[i])} > 3000")
+        if len(tokens[i]) > 2000:
+            print(f"{len(tokens[i])} > 2000")
             docs[i] = " ".join([batch["doc_sents"][i][idx] for idx in batch["rel_index"][i]])
     sums = batch["claim"]
     if "{xsum_annotation}" in template:
         extras = batch["extra"]
         texts = [template.format(summary=_sum, article=_doc, xsum_annotation=extra) for _doc, _sum, extra in zip(docs, sums, extras)]
+    elif "{type_annotation}" in template:
+        extras = batch["extra"]
+        texts = [template.format(summary=_sum, article=_doc, type_annotation=extra) for _doc, _sum, extra in zip(docs, sums, extras)]
     else:
         texts = [template.format(summary=_sum, article=_doc) for _doc, _sum in zip(docs, sums)]
     return {"input": texts}
@@ -95,8 +98,7 @@ def main(template, dump_folder, filter=None, MODEL="meta-llama/Llama-2-13b-chat-
         if args.local_rank == 0:
             dump2jsonl(generated, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
-def postprocess(annot_folder, gen_folder="data/gen/", filter=None):
-    data_names = ["cogensumm", "xsumfaith", "polytope", "factcc", "summeval", "frank"]
+def postprocess(annot_folder, data_names, gen_folder="data/gen/", filter=None):
     data_folder = "data/raw/"
     cut = 'val'
 
@@ -143,12 +145,14 @@ if __name__ == '__main__':
     # Selfinstruct
     # main(SELFINST_TEMPLATE, "data/gen")
     # main(SELFINST_TEMPLATE.format(input=DOC_FIRST), "data/gen")
-    # main(SELFINST_TEMPLATE.format(input=DOC_FIRST, extra=XSUM_EXTRA_TEMPLATE), "data/gen/xsum_extra", data_names=["xsumfaith"])
+    # main(SELFINST_TEMPLATE_EXTRA.format(input=DOC_FIRST, extra=XSUM_EXTRA_TEMPLATE), "data/gen/xsum_extra", data_names=["xsumfaith"])
     # main(SELFINST_TEMPLATE_POSITIVE.format(input=CLAIM_PROMPT), "data/gen/positive", data_names=data_names, filter=positive_only)
+    main(SELFINST_TEMPLATE_EXTRA.format(input=DOC_FIRST, extra=TYPE_EXTRA_TEMPLATE), "data/gen/polytope_extra", data_names=["polytope"], filter=negative_only)
 
     # Generate data for annotation
     # postprocess(annot_folder="data/annot")
-    postprocess(annot_folder="data/positive", gen_folder="data/gen/positive", filter=positive_only)
+    # postprocess(annot_folder="data/positive", gen_folder="data/gen/positive", filter=positive_only)
+    # postprocess(annot_folder="data/annot", gen_folder="data/gen/xsum_extra", filter=negative_only, data_names=["xsumfaith"])
 
     # Backup data for abalation study
     # postprocess(annot_folder="data/raw_annot")
