@@ -13,11 +13,18 @@ Find all the latest football transfers on our dedicated page.
 grimsby town have signed defender phil wilson on a one-year deal following his release by league two rivals preston north end.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
-1. The summary states that Phil Wilson has been signed by Grimsby Town on a one-year deal, but the article does not mention anything about Grimsby Town or a one-year deal.
-2. The article states that Wilson was released by Preston North End in May, but the summary mentions that he was released by League Two rivals Preston North End, which is not consistent with the article.
-3. The article mentions that Wilson has previously played for Notts County, but the summary does not mention anything about Notts County.
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "grimsby town have signed defender phil wilson on a one-year deal following his release by league two rivals preston north end"
+]
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Wilson rejoined Championship side Forest from Celtic for £2.5m in August 2013. This means that he was not playing for Preston North End at that time, as Preston North End is a League Two team and Forest is a Championship team.
+2. The summary states that Wilson was released by Preston North End, which is a League Two team. This is inconsistent with the article, which states that he rejoined Forest in August 2013 and was not playing for Preston North End at that time.
+3. Additionally, the summary states that Wilson has signed a one-year deal with Grimsby Town, which is also a League Two team. This is inconsistent with the article, which states that Wilson was released by Forest in May and does not mention him signing with any other team.
+
+Therefore, the summary is not consistent with the article because it implies that Wilson was released by Preston North End and signed with Grimsby Town, which is not supported by the information in the article.
 
 ###Corrected:

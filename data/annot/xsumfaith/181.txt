@@ -16,13 +16,20 @@ He added: "There are a number of other shops in this area and people may have se
 two men have been threatened with a knife during a robbery at a post office in glasgow.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "glasgow",
+  "two men",
+  "two"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the robbery occurred in Glasgow, but the article does not mention the location of the robbery. The article only mentions the location of the Post Office as Quarrywood Avenue in the Barmulloch area.
-2. The summary states that two men were threatened with a knife, but the article does not mention the use of a knife. The article only mentions that one of the suspects was described as having a knife.
-3. The summary does not mention the fact that the worker was badly shaken but otherwise unharmed.
-4. The summary does not mention the appeal for information from the police.
+1. "glasgow": The article states that the Post Office is located in Quarrywood Avenue in the Barmulloch area, but it does not mention Glasgow. Therefore, the summary's reference to Glasgow is inconsistent with the article.
+2. "two men": The article states that "two suspects" entered the Post Office, but the summary only mentions "two men". This is a minor inconsistency, but it could be confusing for readers who are looking for information about the suspects.
+3. "two": The article states that "two suspects" entered the Post Office, but the summary says "two men". This is a repetition of the inconsistency mentioned above.
 
-Therefore, the summary is not consistent with the article as it omits several key details and includes some inaccuracies.
+Overall, the summary has consistency issues because it does not accurately reflect the information in the article. The article provides more specific details about the suspects and the location of the Post Office, while the summary is more general and does not provide any specific details.
 
 ###Corrected:

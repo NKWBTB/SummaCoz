@@ -42,13 +42,26 @@ But overall such horrific incidents still seem more likely to foster national un
 ``now i \'m okay,\'\'was about all cynthia terotich could manage, as she sat in the casualty ward in garissa\'s hospital.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "now i \\'m okay,\\'\\'was about all cynthia terotich could manage, as she sat in the casualty ward in garissa\\'s hospital",
+  "``now i \\'m okay,\\'\\'was about all cynthia terotich could manage, as she sat in the casualty ward in garissa\\'s hospital"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's why the given summary has consistency issues:
 
-1. The summary states that Cynthia Terotich said she was "okay" after being in a cupboard for 50 hours and hearing her friends being killed outside.
-2. The article does not mention Cynthia Terotich or any student being in a cupboard or hearing friends being killed.
-3. The article discusses the politeness of the survivors of the Garissa attack and the possible reasons for their behavior.
-4. The summary is not consistent with the article, as it does not accurately reflect the content or tone of the article.
+1. Inconsistent quotation marks:
+The summary has two sets of quotation marks, one set for "now i'm okay," and another set for "garissa's hospital." However, the first set of quotation marks is not closed properly, and the second set is not open.
+2. Incorrect punctuation:
+The summary lacks proper punctuation, which makes it difficult to understand the intended meaning. For instance, there is no comma after "okay" in the first set of quotation marks, and no period at the end of the sentence.
+3. Inconsistent capitalization:
+The word "garissa" is capitalized in the second set of quotation marks, but it is not capitalized in the first set. This inconsistency can make the summary appear unprofessional.
 
-Therefore, the summary is not a reliable representation of the article and may be misleading.
+To fix these issues, the summary should be rewritten as follows:
+
+"Now I'm okay," was about all Cynthia Terotich could manage as she sat in the casualty ward at Garissa's hospital.
+
+This revised summary maintains consistent quotation marks, proper punctuation, and consistent capitalization.
 
 ###Corrected:

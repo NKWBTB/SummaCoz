@@ -22,12 +22,19 @@ Last year, Qin Zhihui, a blogger, was sentenced to three years in a government c
 chinese authorities have arrested more than 100 people suspected of leaking fake chemicals in tianjin, state media report.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "more than 100",
+  NaN,
+  "chemicals"
+]
 
-1. The summary states that Chinese authorities have arrested more than 100 people suspected of leaking fake chemicals in Tianjin, but the article does not mention anything about fake chemicals or arrests related to that.
-2. The article only mentions the arrest of a journalist and stock market officials for spreading rumors and fake information about the stock market slump and the Tianjin explosions.
-3. The summary is not consistent with the article because it mentions fake chemicals, which is not present in the article.
-4. The article only talks about the arrest of individuals for spreading rumors and fake information, while the summary makes no mention of this.
-5. Therefore, the summary is not a accurate representation of the article and is considered inconsistent with the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. "more than 100": The article states that "A journalist and stock market officials are among those arrested, Xinhua said. It gave no other details." There is no mention of the number of people arrested, so the summary's claim of "more than 100" is not supported by the article.
+2. NaN: The article does not mention anything about "chemicals" being leaked. The explosions in Tianjin were caused by the storage of large amounts of toxic chemicals, but there is no mention of fake chemicals being leaked. Therefore, the summary's claim of "chemicals" is not supported by the article.
+
+Overall, the summary is not consistent with the article because it makes claims that are not supported by the information provided in the article.
 
 ###Corrected:

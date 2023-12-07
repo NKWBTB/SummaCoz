@@ -37,13 +37,18 @@ A spokesperson for the Health and Safety Executive (HSE) said: "HSE has been mad
 a oil company has said it is " extremely concerned " about the health of six workers who were exposed to radioactive radiation at a north sea platform.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "sea",
+  "oil company"
+]
 
-1. The summary states that the oil company is "extremely concerned" about the health of six workers who were exposed to radioactive radiation.
-2. However, the article states that the level of exposure was less than 1% of the reportable level to the Health and Safety Executive (HSE).
-3. The article also states that EnQuest, the oil company, advised the HSE of the matter and took appropriate control measures to prevent exposure to NORM (naturally occurring radioactive material).
-4. The article does not mention any concern from the oil company about the health of the workers.
-5. The only mention of concern in the article is from the Unite union, which states that the way the workers were treated was "terrible" and that there should be openness and transparency about serious safety incidents.
-6. Therefore, the summary is not consistent with the article because it implies that the oil company is concerned about the health of the workers, when in fact, there is no mention of such concern in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "sea": The article does not mention the word "sea" at all. The incident occurred on a North Sea platform, but the word "sea" is not used in the summary.
+2. "oil company": The article does not mention an "oil company" being concerned about the workers' health. EnQuest, the company that owned the platform, is mentioned in the article, but there is no mention of an oil company being concerned about the workers' health.
+
+Therefore, the summary has consistency issues with the article because it mentions two things (the "sea" and an "oil company") that are not present in the article. The summary should be more accurate and reflect the content of the article more closely.
 
 ###Corrected:

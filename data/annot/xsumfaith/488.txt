@@ -28,14 +28,26 @@ The election, which is voted on by Fifa's 209 members, will take place in the or
 sepp blatter\'s bid to succeed sepp blatter as president of football\'s world governing body fifa has come to an end.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "sepp blatter\\'s bid",
+  "come to an end",
+  "sepp blatter\\'s bid to succeed sepp blatter as president of football\\'s world governing body fifa has come to an end"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Sepp Blatter's bid to succeed himself as President of FIFA has come to an end, which is not consistent with the article.
-2. The article states that there are five candidates running for the position of President, including Gianni Infantino, but the summary does not mention this.
-3. The article mentions that Domenico Scala, the head of FIFA's Ad-Hoc Electoral Committee, is Swiss-Italian and that there is a controversy surrounding his involvement in the election due to his nationality. The summary does not mention this.
-4. The article states that the election will take place on February 26, but the summary does not mention this.
-5. The article mentions that there are eligibility issues with some candidates, including the Liberian FA boss Musa Bility, but the summary does not mention this.
+1. The article states that Domenico Scala, who heads up Fifa's Ad-Hoc Electoral Committee, is Swiss-Italian, and that he excused himself from the 2015 elections because he shared nationality with a candidate, Sepp Blatter.
+2. The article also states that Musa Bility, the LFA boss, has written a letter to Scala demanding that he withdraw from the current elections because of the potential conflict of interest.
+3. According to the article, Scala has refused to withdraw, and Bility has threatened to take the case to the Court of Arbitration for Sport.
+4. The article states that the battle to replace long-standing president Blatter takes place in 18 days' time, and that there are five candidates running for the position, including Gianni Infantino, who is Swiss-Italian like Scala.
+5. The summary states that Sepp Blatter's bid to succeed Sepp Blatter as president of FIFA has come to an end.
 
-Therefore, the summary is not consistent with the article because it does not provide accurate information about the election, the candidates, and the controversies surrounding the election. The summary only mentions Sepp Blatter's bid to succeed himself, which is not accurate according to the article.
+The issue with the summary is that it implies that Sepp Blatter is running for president again, which is not the case. Sepp Blatter is not a candidate in the upcoming elections, and therefore his bid to succeed himself has not come to an end.
+
+Additionally, the summary does not accurately reflect the article's information about Domenico Scala and the potential conflict of interest. The article states that Scala excused himself from the 2015 elections because of his nationality, but the summary does not mention this.
+
+Overall, the summary is not consistent with the article because it misrepresents the information about Sepp Blatter and Domenico Scala, and it does not accurately reflect the content of the article.
 
 ###Corrected:

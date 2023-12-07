@@ -15,13 +15,18 @@ The university said the controlled explosion was carried out by the Royal Logist
 students at swansea university have been moved from the site following a controlled explosion.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "swansea university"
+]
 
-1. The article states that the move was "precautionary" and there was "some panic" at the start of the incident.
-2. The article also states that lectures were moved away from the area to other buildings.
-3. However, the summary does not mention anything about precautionary measures or panic, and only states that students have been moved from the site.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the reasons for the students being moved from the site.
-5. The article explains that the move was precautionary due to concerns about the safe storage of chemicals before a controlled explosion took place, and that there was some panic at the start of the incident.
-6. The summary does not include this information, which is why it is not consistent with the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the incident occurred at Singleton Park, but the summary incorrectly says "students at swansea university have been moved from the site." This is inconsistent because Singleton Park is not part of the university, it's a separate location where the incident occurred.
+2. The article does not mention any students being moved from the site. Instead, it reports that lectures were moved to other buildings as a precautionary measure. The summary incorrectly states that students were moved from the site.
+3. The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, but the summary does not mention this detail. This is inconsistent because the article provides important information about the nature of the incident and the response to it.
+
+Overall, the summary is not consistent with the article because it contains inaccuracies and omits important details.
 
 ###Corrected:

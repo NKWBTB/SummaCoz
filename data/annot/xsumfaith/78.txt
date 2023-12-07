@@ -15,12 +15,23 @@ Both clubs have until 18:00 GMT on 8 December to respond to the charge.
 manchester city and manchester city have been charged by the football association for violent conduct during saturday\'s premier league game at etihad stadium.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "saturday\\'s premier league",
+  "manchester city and manchester city have been charged by the football association for violent conduct during saturday\\'s premier league game at etihad stadium",
+  "football association",
+  "manchester city and manchester city",
+  "manchester city and manchester city have been charged by the football association for violent conduct during saturday\\'s premier league"
+]
 
-1. The article states that Manchester City has been charged by the Football Association for violent conduct during Saturday's Premier League game at Etihad Stadium.
-2. However, the summary states that both Manchester City and Chelsea have been charged for violent conduct.
-3. The article clearly states that only Manchester City has been charged, and there is no mention of Chelsea being charged.
-4. Therefore, the summary is not consistent with the article, as it incorrectly includes Chelsea as one of the clubs charged.
-5. The reason for this inconsistency is likely a mistake or an error in the summary, as there is no mention of Chelsea being involved in the violent conduct or being charged by the Football Association in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "saturday's premier league" - The article does not mention "saturday's premier league" specifically. It only mentions "the game at Etihad Stadium" and "the 95th minute of the game". Therefore, this phrase in the summary is not consistent with the article.
+2. "manchester city and manchester city" - The article only mentions "Manchester City" once, and it is not repeated anywhere else in the article. The summary, on the other hand, mentions "manchester city and manchester city" twice. This is not consistent with the article, as there is no mention of "Manchester City" twice.
+3. "football association" - The article mentions "the Football Association" once, but the summary does not include this phrase. Instead, it uses "the football association". This is not consistent with the article, as the article uses "the" before "Football Association".
+4. "manchester city and manchester city have been charged by the football association for violent conduct during saturday's premier league" - This phrase is not consistent with the article because the article does not mention "saturday's premier league" or "violent conduct". The article only mentions that Chelsea won 3-1 and that City had two players sent off.
+
+Overall, the summary has several consistency issues with the article, including the use of "saturday's premier league", "manchester city and manchester city", "football association", and the phrase "manchester city and manchester city have been charged by the football association for violent conduct during saturday's premier league". These inconsistencies suggest that the summary is not a accurate representation of the article.
 
 ###Corrected:

@@ -25,18 +25,19 @@ One million homes were powered by Fawley
 construction work has started on a new # [UNK] power station in brighton, which would create a new power station in brighton.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "started on a new # [UNK] power station in brighton, which would create a new power station in brighton"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that construction work has started on a new power station in Brighton.
-2. However, the article does not mention anything about Brighton. Instead, it talks about Fawley Power Station in Southampton.
-3. The article states that the power station closed in 2013 and that the site was sold to developers in 2016.
-4. The article also mentions that the developers plan to turn the site into a "merchant city" with a marina, housing, and restaurants, but there is no mention of a new power station being built.
-5. Therefore, the summary is not consistent with the article because it mentions a new power station in Brighton, while the article only talks about Fawley Power Station in Southampton.
+1. The article states that the Fawley power station is located on the western side of Southampton Water, and that it was commissioned in 1971.
+2. The summary states that construction work has started on a new power station in Brighton. This is inconsistent with the article, as Brighton is not mentioned in the article as the location of the Fawley power station.
+3. The article does not mention anything about building a new power station in Brighton. Instead, it focuses on the redevelopment of the Fawley power station site into a "merchant city" with a marina, housing, and restaurants.
+4. Therefore, the statement in the summary that construction work has started on a new power station in Brighton is not supported by the article.
 
-Reasoning step by step:
-
-1. The summary mentions a new power station in Brighton, which is not mentioned in the article.
-2. The article only talks about Fawley Power Station in Southampton.
-3. Therefore, the summary is not consistent with the article.
+Overall, the inconsistency in the summary is due to the fact that it refers to a new power station being built in Brighton, while the article only discusses the redevelopment of the Fawley power station site in Southampton.
 
 ###Corrected:

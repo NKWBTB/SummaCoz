@@ -19,14 +19,22 @@ Some 300,000 people were affected and at least six babies died after consuming m
 chinese police say they have found a drug that led to the death of two young people in china.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "chinese police say they have found a drug that led to the death of two young people in china",
+  "two young people"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Chinese police found a drug that led to the death of two young people in China.
-2. However, the article does not mention anything about the death of two young people. Instead, it reports on the seizure of a large quantity of alcohol and Viagra in Liuzhou, and the investigation of two distillers.
-3. Therefore, the summary is not consistent with the article, as it makes a claim about the death of two young people that is not supported by the article.
-4. The article does mention that the powder found in the alcohol was identified as Sildenafil, which is better known as Viagra, and that the haul was worth up to 700,000 yuan. However, it does not mention any deaths or injuries related to the seizure.
-5. It is possible that the summary was based on a different article or information, or that it was incorrect or misleading.
+1. The article states that "More than 5,300 bottles of alcohol were seized by the investigators in the southern city of Liuzhou." However, the summary only mentions "Chinese police say they have found a drug." There is no mention of alcohol being seized.
+2. The article also mentions that "packets of a white powder called Sildenafil, better known as the anti-impotence drug Viagra" were found. However, the summary does not mention anything about Viagra or any other drug being found.
+3. The article states that the powder was added to three different types of 'baijiu' - a strong, clear spirit that is the most popular drink in China. The summary does not mention anything about baijiu or any other type of drink being affected.
+4. The article mentions that the haul was worth up to 700,000 yuan (£72,000; $113,000). However, the summary does not mention any specific monetary value or quantity of the seized items.
+5. The article mentions that doctors recommend that adults requiring prescription should take only one dose of Viagra a day, with a lower dose for those over the age of 65. However, the summary does not mention anything about dosage or prescription requirements.
+6. The article mentions that China continues to face widespread food safety problems, including the seizure of more than 100,000 tonnes of smuggled meat in June. However, the summary does not mention anything about food safety or any other related issues.
 
-Overall, the summary is not consistent with the article because it makes a claim about the death of two young people that is not supported by the article.
+Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary only mentions "Chinese police say they have found a drug" and "two young people," but the article does not provide any information about a drug that led to the death of two young people. Instead, the article focuses on the seizure of alcohol and Viagra, as well as food safety issues in China.
 
 ###Corrected:

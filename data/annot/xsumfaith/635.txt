@@ -22,19 +22,20 @@ The aim is to get the hospital finished by autumn 2014.
 a community hospital in somerset is to be replaced and rebuilt with a # 16m grant from the government.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "# 16m grant from the government",
+  "16m grant from the government"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's my reasoning step by step:
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the money for the Bridgwater Community Hospital is part of the coalition's £330m investment for new NHS facilities across England. This means that the hospital will be funded by the government, not with a £16m grant as stated in the summary.
+1. The article states that the money for the new hospital is part of the coalition's £330m investment for new NHS facilities across England. This means that the £33m cost of the project is not coming solely from the government, but rather as part of a larger investment.
+2. The summary states that the hospital will be rebuilt with a "# 16m grant from the government". This implies that the entire £33m cost of the project will be covered by the government, which is not accurate based on the information in the article.
+3. Furthermore, the article does not mention any specific grant from the government for the project. Instead, it states that the money is part of the coalition's larger investment for new NHS facilities.
+4. Therefore, the statement in the summary that the hospital will be rebuilt with a "# 16m grant from the government" is not consistent with the information in the article.
 
-2. The article also mentions that the total cost of the project is £33m, and the remaining balance will be paid for by NHS Somerset and Somerset Partnership NHS Foundation Trust. This contradicts the summary, which states that the hospital will be rebuilt with a £16m grant from the government.
-
-3. The article quotes Matron Sue Taylor as saying that the current hospital is "very old and in the summer it's very, very hot. In the winter it's quite cold, there's lots of maintenance, lots of running repairs - it's a poor old tired building now." This suggests that the hospital is in need of replacement, but the summary does not convey this information.
-
-4. The article also mentions that three out of Somerset's 13 community hospitals have been replaced in the past five years, which suggests that the replacement of Bridgwater Community Hospital is part of a larger effort to modernize NHS facilities in the area. The summary does not provide this context.
-
-5. Finally, the article quotes Dr Donal Hynes as saying that the new hospital will make a "huge difference" for him and his patients. This suggests that the hospital is being rebuilt to improve patient care, but the summary does not convey this information.
-
-Overall, the summary is not consistent with the article because it does not accurately convey the funding source, the condition of the current hospital, the context of the replacement, or the benefits of the new hospital.
+Overall, the summary should have been more accurate in its representation of the information in the article. It should have stated that the new hospital will be built as part of the coalition's larger investment for new NHS facilities, rather than implying that the entire cost will be covered by a specific government grant.
 
 ###Corrected:

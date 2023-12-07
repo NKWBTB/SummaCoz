@@ -47,13 +47,23 @@ The Liberal Democrats have called for an urgent review into fire safety and buil
 theresa may has said he is ``angry and angry\'\'that the grenfell tower fire was ``the wealthiest part of the country\'\'.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "grenfell tower fire was ``the wealthiest part of the country\\'\\'",
+  "grenfell tower fire was ``the wealthiest part of the country"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you mentioned have consistency issues:
 
-1. The summary states that Theresa May is "angry and angry" about the Grenfell Tower fire being in the wealthiest part of the country.
-2. However, the article does not mention anything about Theresa May being angry about the location of the fire. In fact, the article states that she visited the scene and met with emergency services and local residents, but did not speak to them.
-3. The article does mention that the Prime Minister has ordered a public inquiry into the disaster and praised the local community's support for the residents.
-4. The summary is not consistent with the article because it misrepresents the Prime Minister's actions and emotions regarding the Grenfell Tower fire.
+1. "grenfell tower fire was ``the wealthiest part of the country\'\'":
+The summary quotes Theresa May as saying she is "angry and angry" that the Grenfell Tower fire was "the wealthiest part of the country." However, the article does not contain any quote from Theresa May that specifically mentions the wealthiest part of the country. Instead, the article states that the prime minister said she was "angry and angry" that so many lives were lost in the deadly tower block fire.
 
-Therefore, the summary is not an accurate reflection of the article's content.
+Therefore, the summary is not consistent with the article because it attributes a quote to Theresa May that does not appear in the article.
+
+2. "grenfell tower fire was ``the wealthiest part of the country"":
+The second span is not consistent with the article because it omits the word "part" that appears in the article. The article states "the wealthiest part of the country," while the summary only includes "the wealthiest country."
+
+Overall, the two spans in the summary are not consistent with the article because they misquote Theresa May and omit important words from the original quote.
 
 ###Corrected:

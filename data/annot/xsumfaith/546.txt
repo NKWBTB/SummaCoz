@@ -19,14 +19,21 @@ Metres away people are gathered around the girl, holding her head and stroking h
 a seven-year-old girl has died after being hit by a stone thrown by an elephant from its enclosure at rabat zoo in morocco.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "morocco",
+  "seven-year-old"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the girl was hit by a stone thrown by an elephant, implying that the elephant directly targeted her.
-2. However, the article states that the elephant was not directly targeting the girl, but rather exhibiting frustration.
-3. The article also mentions that the enclosure met international standards and that this kind of accident is rare, unpredictable, and unusual.
-4. The Scientific Director of the Amboseli Trust for Elephants, Phyllis Lee, is quoted as saying that targeted throwing of stones and branches by elephants is very unusual and can happen when elephants are frustrated or bored.
-5. The article includes a video that shows the elephant waving its trunk behind a fence and swerving to show a stone on the ground, but does not show the girl being hit by the stone.
+1. The article states that the girl was taken to hospital and died within a few hours, but the summary only mentions that she died. This inconsistency is in the span "hospital".
+2. The article mentions that the elephant threw a stone, but the summary only mentions that the elephant threw a stone without specifying that it was a stone. This inconsistency is in the span "stone".
+3. The article states that the girl was hit by the stone, but the summary only mentions that she was hit. This inconsistency is in the span "hit".
+4. The article mentions that the elephant was in its enclosure, but the summary does not mention this. This inconsistency is in the span "morocco".
+5. The article states that the girl was seven years old, but the summary only mentions her age as "seven-year-old". This inconsistency is in the span "seven-year-old".
 
-Therefore, the summary is not consistent with the article because it implies that the elephant directly targeted the girl, while the article states that the elephant was exhibiting frustration and that this kind of accident is rare and unpredictable. Additionally, the video footage does not show the girl being hit by the stone, which further contradicts the summary.
+Therefore, the summary is not consistent with the article because it does not accurately convey all the information provided in the article.
 
 ###Corrected:

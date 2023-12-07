@@ -15,12 +15,19 @@ All but Labour spent more than they did during the 2009 European election campai
 the liberal democrats have spent # figures on the conservatives \'election campaign.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "conservatives \\'election"
+]
 
-1. The article states that the Liberal Democrats spent £1,580,575 on their European election campaign.
-2. The article also states that the Conservatives spent £2,980,815 on their campaign.
-3. Therefore, we can see that the Liberal Democrats spent less than the Conservatives.
-4. The summary states that the Liberal Democrats spent "£ figures on the Conservatives' election campaign". This is not consistent with the information in the article, as the Liberal Democrats spent less than the Conservatives.
-5. Therefore, we can conclude that the summary is not consistent with the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The summary states: "the liberal democrats have spent # figures on the conservatives 'election campaign."
+2. The article does not mention the Liberal Democrats spending any money on the Conservatives' election campaign. Instead, it states that the Liberal Democrats spent £1,580,575 on their own campaign.
+3. The word "conservatives" in the summary should be replaced with "their own campaign" to make the sentence consistent with the article.
+4. Therefore, the corrected summary should read: "the liberal democrats have spent # figures on their own campaign."
+
+The inconsistency in the summary is that it incorrectly states that the Liberal Democrats spent money on the Conservatives' campaign, when in fact they spent money on their own campaign.
 
 ###Corrected:

@@ -12,14 +12,18 @@ The road was closed and diversions were put in place via the A897 Helmsdale to M
 one person has died following a two-vehicle crash on the a9 in the highlands.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "highlands",
+  "one person has died following a two-vehicle"
+]
+
 Explain your reasoning step by step:[/INST]
- Sure, here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that "several other people received minor injuries" in the crash, which suggests that there were multiple people involved in the incident.
-2. The summary only mentions one person dying, which is not consistent with the article's information.
-3. The article does not mention any fatalities, only that "inquiries into the incident were ongoing."
-4. Therefore, the summary is not consistent with the article because it states that one person has died, while the article does not mention any fatalities.
+1. "highlands" - The article does not mention the "highlands" at all. The incident occurred on the A9 north of Berriedale in Caithness, which is not in the Highlands. Therefore, this statement in the summary is not consistent with the article.
+2. "one person has died following a two-vehicle" - The article states that "several other people received minor injuries" in the crash, but it does not mention that one person has died. This statement in the summary is also not consistent with the article.
 
-So, the reason why the summary is not consistent with the article is that it incorrectly states that one person has died, when in fact, the article does not mention any fatalities.
+Therefore, the summary is not consistent with the article because it contains two statements that are not accurate based on the information provided in the article.
 
 ###Corrected:

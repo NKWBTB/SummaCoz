@@ -82,13 +82,18 @@ Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul.
 alexis sanchez was sent off in the first half as arsenal beat 10-man hull to reach the premier league play-off final.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "alexis sanchez was sent off in the first half as arsenal beat 10-man hull to reach the premier league play-off final"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the consistency issues exist in the summary:
 
-1. The summary states that Alexis Sanchez was sent off in the first half, which is not consistent with the article.
-2. In the article, Sanchez was not sent off, but instead, he scored a goal and won a penalty for Arsenal.
-3. The summary also states that Arsenal beat 10-man Hull, which is not accurate as Hull did not have a man sent off.
-4. The article does not mention anything about Arsenal reaching the premier league play-off final.
+1. Alexis Sanchez was not sent off in the first half. In fact, he scored two goals in the second half.
+2. Arsenal did not beat Hull 10-man. Hull had 11 players on the field at all times.
+3. Arsenal did not reach the Premier League play-off final. The article states that they are in third place in the Premier League table.
 
-Therefore, the summary is not consistent with the article, and it contains several inaccuracies.
+These inconsistencies exist because the summary is not accurately representing the events described in the article. It is important for summaries to be clear and accurate in order to provide a helpful overview of the content.
 
 ###Corrected:

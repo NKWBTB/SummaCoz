@@ -29,18 +29,21 @@ The band have always known the council was trying to sell the building, Sunderla
 a record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "\\na record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold",
+  "two years",
+  "indie band frankie and the heartstrings",
+  "a record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the summary has consistency issues:
 
-1. The summary states that the record shop was opened by an indie band called "Frankie and the Heartstrings" in their home town of Sunderland two years ago.
+1. "two years" - The article states that Pop Recs has been open for "two years", but the summary only mentions "one year" later on. This inconsistency could be corrected by changing "two years" to "one year" in the summary.
+2. "indie band frankie and the heartstrings" - The article does not mention the name "Frankie and the Heartstrings" at all. The correct name of the band is "Pop Recs Ltd", and they are not an indie band. This inconsistency could be corrected by removing the phrase "indie band" and replacing it with "Pop Recs Ltd" in the summary.
+3. "a record shop opened by indie band frankie and the heartstrings in their home town of sunderland two years ago has shut after the premises was sold" - This sentence is a direct copy from the article, but it is not accurate. The article states that the shop was opened by the band Pop Recs Ltd, not "indie band frankie and the heartstrings". Additionally, the sentence states that the shop has shut down, but the article states that the band is looking for a new site and the shop is not closed yet. This inconsistency could be corrected by rephrasing the sentence to accurately reflect the content of the article.
 
-However, the article states that the shop was opened by the band Pop Recs Ltd, not Frankie and the Heartstrings.
-
-2. The summary does not mention that the shop was sold, whereas the article reveals that the shop was sold by Sunderland City Council for student flats.
-
-3. The summary does not mention any of the unique features of the shop, such as the in-store gigs, the community hub, the music tuition, the poetry, stitching, and toddler groups.
-
-4. The summary does not mention the band's intention to find a new site or the impact of the closure on the community.
-
-Therefore, the summary is not consistent with the article. The summary only provides a brief and inaccurate overview of the shop's closure, while the article provides a more detailed and accurate account of the shop's history, its unique features, and the impact of its closure on the community.
+Overall, the summary has several inconsistencies that need to be addressed to accurately reflect the content of the article.
 
 ###Corrected:

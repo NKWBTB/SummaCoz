@@ -41,13 +41,27 @@ Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on Y
 the stars of tv\'s game of thrones have been surprised by the news that the stars of the latest series, game of thrones, will
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "latest series, game of thrones",
+  "game of thrones",
+  "surprised"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's why the spans you mentioned have consistency issues:
 
-1. The summary is not consistent with the article because the article is about the success of the cast of the TV show "Skins," while the summary mentions "Game of Thrones" instead.
-2. The article discusses how the cast of "Skins" was able to find success in Hollywood, while the summary does not mention anything about "Skins" or the cast's success in Hollywood.
-3. The article mentions specific examples of the cast members' success, such as Dev Patel's role in "Slumdog Millionaire" and Jack O'Connell's role in "Unbroken," while the summary does not provide any specific examples.
-4. The article emphasizes the unconventional approach to casting taken by the makers of "Skins," while the summary does not mention anything about the casting process.
+1. "latest series, game of thrones"
+The article does not mention a "latest series" of Game of Thrones. The show has already ended, and the article is discussing the success of the actors from the show Skins.
+2. "game of thrones"
+The correct name of the show is "Skins," not "Game of Thrones."
+3. "surprised"
+The article does not mention the actors from Skins being "surprised" by anything. The article is discussing how the show helped launch the careers of its young cast members.
 
-Therefore, the summary is not consistent with the article because it mentions "Game of Thrones" instead of "Skins," does not mention the cast's success in Hollywood, does not provide specific examples of the cast members' success, and does not mention the unconventional approach to casting taken by the makers of "Skins."
+Therefore, the summary does not accurately reflect the content of the article. The inconsistencies are:
+
+* Using the name of a different show (Game of Thrones) instead of the correct name of the show being discussed (Skins).
+* Referencing a "latest series" that does not exist.
+* Using the word "surprised" which is not present in the article.
 
 ###Corrected:

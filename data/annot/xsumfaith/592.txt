@@ -30,13 +30,25 @@ The Ushakov medal is awarded to sailors who have displayed courage in the course
 the russian embassy has honoured 30 world war two veterans in southampton for their part in transporting crucial supplies to russia.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "30",
+  "southampton"
+]
 
-1. The summary states that the Russian embassy honored 30 World War II veterans in Southampton for their part in transporting crucial supplies to Russia.
-2. However, the article states that the Russian embassy awarded the Ushakov medals to the veterans, not honored them.
-3. The summary does not mention anything about the Ushakov medals or the reason for the awards.
-4. The article explains that the Ushakov medals are awarded to sailors who have displayed courage in the course of defending Russia or its interests.
-5. Therefore, the summary is not consistent with the article because it does not mention the Ushakov medals or the reason for the awards, while the article provides specific information about the medals and the reason for their presentation.
-6. The inconsistency is likely due to the fact that the summary is a brief summary of the article and does not include all the details provided in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the Russian embassy honored 30 World War II veterans with the Ushakov medal.
+2. The summary states that the Russian embassy honored 30 World War II veterans in Southampton.
+
+Consistency issue: The article does not mention Southampton as the location of the ceremony.
+
+1. The article states that the Foreign Office allowed an "exception to the rules" last year, allowing the veterans to receive the Russian medal.
+2. The summary does not mention the Foreign Office or any exception to the rules.
+
+Consistency issue: The summary does not provide the same information as the article about the Foreign Office's role in allowing the veterans to receive the Russian medal.
+
+Overall, the summary does not provide a consistent summary of the article's information. The inconsistencies are in the numbers (30 veterans vs. no mention of Southampton) and the details of the Foreign Office's role in the ceremony.
 
 ###Corrected:

@@ -14,13 +14,19 @@ The Metropolitan Police said security at the airport would be reviewed.
 two men have been arrested in connection with a protest at a protest against a protest at the international airport in london.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "two men have been arrested in connection with a protest at a protest against a protest at the international airport in london"
+]
 
-1. The article states that the campaigners from Plane Stupid staged a demonstration on Monday in opposition to the airport's expansion plans.
-2. The summary states that two men have been arrested in connection with a protest at the international airport in London.
-3. The article does not mention any arrests or protests in connection with a protest.
-4. The summary is not consistent with the article because it mentions arrests and a protest, while the article only mentions a demonstration.
-5. The article states that the demonstration took place on the northern runway at 03:30 BST on Monday, but the summary does not mention any specific details about the protest or where it took place.
-6. Therefore, the summary is not supported by the information in the article, and it is not consistent with the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that "Campaigners from action group Plane Stupid staged the demonstration on Monday in opposition to the airport's expansion plans." This implies that the protest was held by a group of campaigners, not by two individuals.
+2. The article also states that "the men and women have been charged with aggravated trespass and entering a security restricted area of an aerodrome." This suggests that multiple people were involved in the protest, not just two individuals.
+3. The summary states that "two men have been arrested in connection with a protest at a protest against a protest at the international airport in London." This implies that there were two individuals involved in the protest, which contradicts the article's statement that multiple people were involved.
+4. Additionally, the phrase "a protest at a protest" is nonsensical, as a protest is a single event, not a series of events. This suggests that the summary is not accurately summarizing the article.
+
+Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and should be revised to accurately reflect the information presented in the article.
 
 ###Corrected:

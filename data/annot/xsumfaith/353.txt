@@ -56,12 +56,22 @@ Mr Metcalf declined to comment.
 the crown prosecution service (cps) will be charged over the hillsborough disaster, the crown prosecution service has announced.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the crown prosecution service has announced",
+  "crown prosecution service (cps) will be charged"
+]
 
-1. The article states that the Crown Prosecution Service (CPS) has announced that it will be bringing criminal charges against six individuals in relation to the Hillsborough disaster.
-2. The summary states that the CPS will be charged over the Hillsborough disaster.
-3. However, this is not consistent with the article, as the article states that it is the individuals who will be charged, not the CPS.
-4. The reason for this inconsistency is that the summary is not accurately summarizing the article. The summary states that the CPS will be charged, but the article does not say this. Instead, the article states that six individuals will be charged.
-5. Therefore, the summary is not consistent with the article, and it is not an accurate summary of the information provided in the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the summary has consistency issues:
+
+1. "the crown prosecution service has announced" - This sentence is in the present tense, indicating that the Crown Prosecution Service has just announced something. However, the article is from 2018, and the announcement was made in 2019, so it is not a current announcement.
+2. "crown prosecution service (cps) will be charged" - This sentence is in the future tense, indicating that the Crown Prosecution Service will be charged at some point in the future. However, the article states that the charges have already been brought, so this sentence is not accurate.
+
+Overall, the summary is not consistent with the article because it uses present and future tenses to describe events that have already occurred. To fix these consistency issues, the summary could be rewritten in the past tense to match the article's timeline. For example:
+
+"The Crown Prosecution Service has announced that it will bring charges over the Hillsborough disaster."
+
+This revised sentence is consistent with the article and accurately reflects the timeline of events.
 
 ###Corrected:

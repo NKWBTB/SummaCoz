@@ -33,14 +33,22 @@ Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday
 children at the centre of a controversy over the treatment of baby ashya king\'s parents may have been denied treatment, say doctors.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "children at the centre of a controversy over the treatment of baby",
+  "children at the centre of a controversy over the treatment of baby ashya king\\'s parents may have been denied treatment, say doctors"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "children at the centre of a controversy over the treatment of baby Ashya King's parents may have been denied treatment, say doctors."
-2. However, the article states that Ashya did receive treatment in the form of proton beam therapy in Prague, and his parents refused subsequent chemotherapy recommended by doctors.
-3. The article also quotes Dr. Peter Wilson, a paediatric intensive care consultant at Southampton General Hospital, who says that every month that goes by without Ashya receiving chemotherapy worsens his outcome, and that there is a risk of halving his survival chances.
-4. Additionally, the article quotes other experts who say that Ashya is not completely out of the woods yet and that it is far too early to say he has been completely cured.
-5. Therefore, the summary is not consistent with the article because it suggests that the children may have been denied treatment, when in fact Ashya did receive treatment, and his parents refused additional treatment recommended by doctors.
+1. The article states that Ashya King's parents took him abroad for proton beam therapy without the knowledge or consent of the hospital staff, and that they refused to follow the recommended chemotherapy treatment.
+2. The article quotes Dr. Peter Wilson, a paediatric intensive care consultant at Southampton General Hospital, as saying that every month that goes by without Ashya receiving chemotherapy worsens his outcome, and that there is a risk of halving his survival chances.
+3. The article also quotes Professor Karol Sikora, an oncology specialist, as saying that although Ashya is in remission, it is far too early to say he has been completely cured.
+4. The summary states that "children at the centre of a controversy over the treatment of baby Ashya King's parents may have been denied treatment, say doctors."
 
-The summary is not accurate because it does not accurately reflect the content of the article. The article provides information about the treatment that Ashya received and the risks associated with not receiving subsequent chemotherapy, while the summary implies that the children may have been denied treatment altogether.
+The issue with the summary is that it does not accurately reflect the content of the article. While the article discusses the controversy surrounding Ashya's treatment and the concerns of his parents and doctors, it does not suggest that the children were denied treatment. In fact, the article states that Ashya received proton beam therapy in Prague, which was not recommended by the hospital staff.
+
+Therefore, the inconsistency in the summary is that it implies that the children were denied treatment, while the article actually discusses the controversy surrounding the treatment that Ashya received.
 
 ###Corrected:

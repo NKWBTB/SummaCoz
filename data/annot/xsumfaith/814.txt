@@ -13,13 +13,19 @@ She was found guilty after a seven-day trial of acting with others to take the m
 a woman has been jailed for 12 months for a total of 16 years for money from a court in dumfries and galloway.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "galloway",
+  "12 months for a total of 16 years"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that Wanda Campbell was jailed for three years, not 12 months.
-2. The article also states that she was ordered to pay compensation of £110,000, but the summary does not mention anything about compensation.
-3. The article states that Campbell's appeal against the sentence and conviction will be heard at the Appeal Court in Edinburgh, but the summary does not mention anything about an appeal.
-4. The summary states that Campbell was jailed for 16 years, but the article only mentions a three-year jail sentence.
+1. The article states that Wanda Campbell was jailed for three years, not 12 months. The summary states that she was jailed for 12 months, which is inconsistent with the article.
+2. The article does not mention anything about Galloway. The summary states that the court is located in Dumfries and Galloway, but this is not supported by the article.
+3. The article states that Campbell was ordered to pay compensation of £110,000, but the summary does not mention this.
 
-Therefore, the summary is not consistent with the article because it contains incorrect information about the length of Campbell's jail sentence and the fact that she was ordered to pay compensation. Additionally, the summary does not mention the appeal that will be heard at the Appeal Court in Edinburgh, which is a significant detail that is included in the article.
+Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

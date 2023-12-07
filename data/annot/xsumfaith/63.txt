@@ -19,14 +19,29 @@ But the Labour source predicted "residual tensions", adding: "I can't imagine th
 the liberal democrats and lib dems have clashed in the house of lords during their latest round of campaigning.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "clashed in the house",
+  "during their latest round",
+  "latest round of campaigning",
+  "and lib dems"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the Liberal Democrats and Labour have clashed in the House of Lords during their latest round of campaigning.
-2. However, the article states that the two parties have teamed up to help inflict defeats on the government, but that co-operation went out the window when MPs rejected those amendments.
-3. The article also states that the Lib Dems are determined to insist on the amendments, while Labour is prepared to defer to the Commons, indicating a disagreement between the two parties.
-4. Additionally, the article quotes a Labour source as saying that the Lib Dems' actions are "fairly obvious grandstanding" and that they are building up false hope with people worried about their future in Britain.
-5. Therefore, it is clear that the two parties do not see eye-to-eye on the issue and have clashed in the House of Lords, contradicting the summary's statement that they have clashed during their latest round of campaigning.
+1. "clashed in the house": The article does not mention any clashes in the House of Lords. Instead, it describes the two parties working together to inflict defeats on the government.
+2. "during their latest round": The article does not mention any rounds of campaigning. It only mentions the two parties working together on specific issues.
+3. "latest round of campaigning": The article does not mention any campaigning. It only mentions the two parties working together on specific issues.
+4. "and lib dems": The article refers to the Liberal Democrats, not "lib dems."
 
-In conclusion, the summary is not consistent with the article because it does not accurately reflect the disagreement between the Liberal Democrats and Labour in the House of Lords. The article portrays a more complex situation, with the two parties having previously teamed up but now disagreeing on how to proceed with the amendments.
+Therefore, the summary has consistency issues in the following spans:
+
+* "clashed in the house"
+* "during their latest round"
+* "latest round of campaigning"
+* "and lib dems"
+
+These spans do not accurately reflect the content of the article.
 
 ###Corrected:

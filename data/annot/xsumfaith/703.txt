@@ -13,12 +13,24 @@ Sgt Andrew Miller, of the road policing unit, said: "The woman was walking with 
 an 85-year-old woman has died after being struck by a bin lorry in edinburgh.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "85-year-old",
+  "an 85-year-old woman has died after being struck by a bin lorry in edinburgh",
+  "edinburgh",
+  "died"
+]
 
-1. The summary states that an 85-year-old woman has died after being struck by a bin lorry in Edinburgh.
-2. However, the article does not mention the woman's death. Instead, it reports that the woman was injured and that police are appealing for witnesses.
-3. The summary is not consistent with the article because it states that the woman has died, while the article does not confirm this.
-4. The reason for the inconsistency is that the summary is not supported by the information in the article. The article does not mention the woman's death, only her injury.
-5. Therefore, the summary is not accurate and should not be relied upon as a summary of the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. "85-year-old": The article does not mention the woman's age. The word "85-year-old" is not supported by the article.
+2. "an 85-year-old woman has died": The article does not use the phrase "an 85-year-old woman." The correct phrase would be "the elderly woman."
+3. "edinburgh": The article does not mention the city of Edinburgh. The correct location is "Morningside Road, near to Jordan Lane."
+4. "died": The article does not use the word "died." The correct word would be "injured."
+
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the article. The correct summary should be:
+
+"An elderly woman was injured after being struck by a bin lorry on Morningside Road, near to Jordan Lane, in Edinburgh."
 
 ###Corrected:

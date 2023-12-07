@@ -15,13 +15,24 @@ The university said the controlled explosion was carried out by the Royal Logist
 a controlled explosion has been carried out by police after an explosive device was found at a bomb disposal unit in cardiff.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "device was found",
+  "carried out by police",
+  "cardiff",
+  "police",
+  "explosive device"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, not the police.
-2. The summary claims that the controlled explosion was carried out by the police.
-3. The article states that the incident was not treated as suspicious and there was no risk to the public, which contradicts the summary's suggestion that an explosive device was found.
-4. The article states that the chemicals "had become unstable", which is not mentioned in the summary.
+1. "device was found": The article does not mention that an explosive device was found. Instead, it states that there were concerns about the safe storage of chemicals before a controlled explosion took place.
+2. "carried out by police": The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, not the police.
+3. "cardiff": The article does not mention the location of the incident as Cardiff. It only states that the incident took place at Singleton Park.
+4. "police": The article states that South Wales Police received a call about concerns regarding the safe storage of chemicals, but it does not mention the police being involved in the controlled explosion.
+5. "explosive device": The article does not mention the word "explosive device". Instead, it refers to the controlled explosion being carried out by the Royal Logistics Corps bomb disposal unit.
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The summary should be revised to accurately reflect the contents of the article.
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the text. Specifically, it implies that the police were involved in the controlled explosion, which is not accurate. Additionally, it mentions the location of the incident as Cardiff, which is not correct.
 
 ###Corrected:

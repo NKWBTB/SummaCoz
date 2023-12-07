@@ -19,14 +19,18 @@ He will be sentenced in January.
 a former liverpool police officer has been found guilty of fraud and perverting the course of justice.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "police officer"
+]
 
-1. The summary states that a former Liverpool police officer has been found guilty of fraud and perverting the course of justice.
-2. However, the article states that Angus Carpenter, a 62-year-old man from Liverpool, was found guilty of one count of fraud, but was cleared of the two other counts.
-3. The summary does not mention that Carpenter was cleared of two counts, only that he was found guilty of one count.
-4. Therefore, the summary is not consistent with the article, as it does not accurately reflect the verdict of the trial.
-5. The article states that Carpenter was found guilty of one count of fraud, but the summary states that he has been found guilty of fraud and perverting the course of justice, which is not supported by the article.
-6. The article also states that Carpenter was cleared of two counts, but the summary does not mention this.
-7. Therefore, the summary is not a accurate reflection of the article and is not consistent with the information provided.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Angus Carpenter is a busker, not a police officer. The summary incorrectly states that he is a former Liverpool police officer.
+2. The article does not mention anything about fraud or perverting the course of justice. The summary introduces these concepts without any supporting evidence from the article.
+3. The article does mention that Carpenter was found guilty of one count of an offense, but the summary does not provide any details about the offense or the circumstances surrounding it.
+
+Therefore, the summary is not consistent with the article because it introduces information that is not present in the article, and it does not accurately convey the information that is present in the article.
 
 ###Corrected:

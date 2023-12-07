@@ -14,13 +14,22 @@ Find all the latest football transfers on our dedicated page.
 barnsley have signed wrexham striker kayden jackson for an undisclosed fee on a three-year deal.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "three-year deal",
+  "undisclosed fee",
+  "striker",
+  "three-year"
+]
+
 Explain your reasoning step by step:[/INST]
- Sure, I'd be happy to help! Here's my step-by-step reasoning for why the summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Barnsley have signed Kayden Jackson for an undisclosed fee on a three-year deal. However, the article does not mention any transfer fee or contract length.
-2. The article states that Jackson turned down a contract offer from Wrexham for next season, indicating that he was already under contract with Wrexham and had the option to extend his stay with the club. However, the summary does not mention anything about Jackson being under contract with Wrexham or turning down a contract offer.
-3. The summary mentions that Jackson will fit in nicely to the way Barnsley play, suggesting that he will be a key player for the team. However, the article does not provide any information about Jackson's playing style or his potential role in the team.
+1. "three-year deal": The article states that Jackson has signed for Barnsley on a "three-year deal", but the article only mentions a single season. Therefore, this statement in the summary is not consistent with the article.
+2. "undisclosed fee": The article does not mention the transfer fee, so this statement in the summary is not supported by the article.
+3. "striker": The article refers to Jackson as a "forward", but not as a "striker". Therefore, this statement in the summary is not consistent with the article.
+4. "three-year": As mentioned earlier, the article only mentions a single season, so this statement in the summary is not consistent with the article.
 
-Overall, the summary is not consistent with the article because it provides information that is not supported by the text. Specifically, the summary mentions a transfer fee and contract length that are not mentioned in the article, and it also suggests that Jackson will be a key player for Barnsley without providing any evidence to support this claim.
+Overall, the summary contains several inaccuracies and inconsistencies with the article. It is important to carefully review and fact-check information before summarizing it to ensure accuracy and consistency.
 
 ###Corrected:

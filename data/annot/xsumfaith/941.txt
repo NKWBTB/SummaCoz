@@ -29,14 +29,27 @@ Os bydd cynllun peilot Cwm Cynon - fydd yn para chwe mis - yn llwyddiannus, bydd
 mae cleifion o [UNK] yng nghymru yn cael profion â \'r wlad yn disgwyl am ddyfodol cynllun peilot.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "mae cleifion o [UNK] yng nghymru yn cael profion \u00e2 \\'r wlad yn disgwyl am ddyfodol cynllun peilot"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that "meddyg teulu yn gweld claf a ddim yn siŵr beth sydd o'i le" (doctors are seeing claf but are not sure what it is). This suggests that the doctors are not certain about the nature of the condition, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
-2. The article mentions that the doctors are not sure if the symptoms are due to a specific condition or not, which is inconsistent with the summary's statement that the condition is "disgwyl" (expected).
-3. The article states that the doctors are not sure if the condition is due to a peripheral or central cause, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
-4. The article mentions that the doctors are not sure if the condition is due to a known or unknown cause, which is inconsistent with the summary's statement that the condition is "disgwyl" (expected).
-5. The article states that the doctors are not sure if the condition is due to a specific disease or not, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
+1. The article states that "meddyg teulu yn Nenmarc wedi gwella cyfraddau goresgyn canser" (doctors in Nenmarc have improved the accuracy of cancer diagnoses).
+2. The article also states that "yr ofn yw bod gormod o gleifion yn dechrau triniaeth pan mae eu canser wedi datblygu neu nad oes modd ei wella" (the problem is that many patients are not receiving a diagnosis until their cancer has already progressed or spread).
+3. The article mentions that only 35% of patients with symptoms are receiving a diagnosis in the Cwm Taf area.
+4. The article quotes Dr. Gareth Davies, Cyfarwyddwr Cyswllt Rhwydwaith Canser Cymru, as saying that the new system will help doctors to identify cancer earlier and provide a more accurate diagnosis.
+5. The article also quotes Gareth Jordan, a doctor in Aberdâr, as saying that the new system will make a big difference to patients' lives.
 
-Overall, the article presents a more uncertain and open-ended picture of the condition than the summary, which is inconsistent with the summary's statement that the condition is "disgwyl am ddyfodol cynllun peilot" (expected to be a specific diagnosis).
+Based on these points, it is clear that the article is discussing the improvement of cancer diagnoses in Nenmarc and the impact it will have on patients' lives. However, the summary does not accurately reflect this information. Instead, it states that "cleifion o [UNK] yng nghymru yn cael profion â \'r wlad yn disgwyl am ddyfodol cynllun peilot" (patients in [UNK] are receiving profitable treatment from the government for a new cancer diagnosis).
+
+This is not supported by the article, as there is no mention of any profitable treatment or government involvement in the new system. Additionally, the phrase "cleifion o [UNK]" is not accurate, as the article does not mention any specific location or group of patients.
+
+Therefore, the consistency issues in the summary are:
+
+* Incorrect information about the location of the patients (the article does not mention any specific location)
+* Incorrect information about the nature of the treatment (the article does
 
 ###Corrected:

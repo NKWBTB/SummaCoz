@@ -43,12 +43,20 @@ Mr Jones considers himself one of the lucky ones.
 on the eve of the world cup, the first day of the battle of the somme came to an end.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "on the eve of the world cup, the first day of the battle of the somme came to an end"
+]
 
-1. The summary is not consistent with the article because there is no mention of the World Cup or the Battle of the Somme in the article.
-2. The article is about a man named Ron Jones who was a prisoner of war in Auschwitz during World War II and how he and other prisoners survived by playing football.
-3. The summary does not mention any of the key points from the article, such as the fact that the prisoners played football, the conditions in the camp, or the liberation of the camp by the Soviet Army.
-4. Instead, the summary mentions the first day of the Battle of the Somme, which is not related to the article at all.
-5. Therefore, the summary is not a consistent summary of the article and does not accurately convey the main points of the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article is about Ron Jones, a former prisoner of war who survived Auschwitz, and his experiences during the Holocaust.
+2. The summary states that "on the eve of the world cup, the first day of the battle of the somme came to an end." This statement is not consistent with the article, as there is no mention of a "world cup" or "battle of the somme" in the article.
+3. The article is set in the context of the Holocaust, and the mention of a "world cup" and "battle of the somme" is not relevant to the topic. The article is focused on Mr. Jones' experiences as a prisoner of war and his survival of Auschwitz.
+4. The use of these phrases in the summary is confusing and misleading, as they do not accurately reflect the content of the article.
+5. Therefore, the summary is not consistent with the article, and the inconsistencies may lead to confusion or misinterpretation of the information.
+
+Overall, the summary does not accurately reflect the content of the article, and the inconsistencies may lead to confusion or misinterpretation of the information.
 
 ###Corrected:

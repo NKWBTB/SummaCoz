@@ -15,11 +15,21 @@ Black Panther will be released in February 2018.
 star wars actor lupita nyong has signed a two-year deal with the national league side.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "lupita",
+  "signed a two-year deal with the national league side",
+  "has signed a two-year deal with the national league side"
+]
 
-1. The summary states that Lupita Nyong'o, a Star Wars actor, has signed a two-year deal with a national league side.
-2. However, the article does not mention anything about Lupita Nyong'o signing a deal with a national league side. Instead, it mentions that she won a best supporting actress Oscar for 12 Years a Slave in 2014 and played the CGI character Maz Kanata in Star Wars: The Force Awakens.
-3. The article also mentions that Nyong'o will be working with Michael B. Jordan in the upcoming film Black Panther, but there is no mention of her signing a deal with a national league side.
-4. Therefore, the summary is not consistent with the article, as there is no information in the article about Lupita Nyong'o signing a two-year deal with a national league side.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Lupita Nyong'o will be working with Ryan Coogler on the film Black Panther, but the summary claims that she has signed a two-year deal with a national league side. This is not consistent with the article, as there is no mention of Lupita Nyong'o signing a deal with a sports team.
+2. The article mentions that Lupita Nyong'o played the character Maz Kanata in Star Wars: The Force Awakens, but the summary does not mention this. This is inconsistent, as the article provides information about Lupita Nyong'o's previous work in the Star Wars franchise.
+3. The summary uses the phrase "star wars actor", which is not consistent with the article, as the article does not refer to Lupita Nyong'o as a Star Wars actor. The article mentions that she played a role in Star Wars: The Force Awakens, but does not use the phrase "star wars actor".
+4. The summary uses the phrase "has signed a two-year deal", which is not consistent with the article, as there is no mention of Lupita Nyong'o signing a deal with a sports team.
+
+Overall, the summary contains several inconsistencies with the article, including the fact that it mentions a two-year deal with a sports team, does not mention Lupita Nyong'o's previous work in Star Wars, and uses the phrase "star wars actor" inconsistently.
 
 ###Corrected:

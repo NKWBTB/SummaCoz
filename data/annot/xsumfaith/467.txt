@@ -18,13 +18,19 @@ The novelist died at his Glasgow home on 5 December.
 tributes have been paid to scottish writer william mcilvanney, who has died at the age of 87.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "tributes have been paid to scottish writer william mcilvanney, who has died at the age of 87"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the council is planning to name a new campus in Kilmarnock after William McIlvanney, but the summary does not mention this.
-2. The article mentions that McIlvanney was born and educated in Kilmarnock, but the summary does not include this information.
-3. The article states that McIlvanney was a renowned writer and gained immediate recognition with his first novel, but the summary only mentions that tributes have been paid to him.
-4. The article provides specific details about McIlvanney's career as a writer, including the fact that he wrote the acclaimed Laidlaw trilogy and other Glasgow-based works, but the summary does not include any of these details.
+1. The article states that the council is planning to name a new campus in Kilmarnock after William McIlvanney.
+2. The summary states that William McIlvanney has died at the age of 87.
+3. The problem here is that the summary mentions McIlvanney's death, but the article does not. The article only mentions the council's plan to name the campus after him.
+4. Therefore, the summary is not consistent with the article because it includes information that is not present in the article. Specifically, it mentions McIlvanney's death, which is not mentioned in the article.
 
-Therefore, the summary is not consistent with the article because it does not provide any information about the council's plans to name the campus after McIlvanney, his birth and education in Kilmarnock, or his career as a writer. The summary only mentions that tributes have been paid to him, which is a much more general and vague statement.
+So, the inconsistency lies in the fact that the summary includes information that is not supported by the article.
 
 ###Corrected:

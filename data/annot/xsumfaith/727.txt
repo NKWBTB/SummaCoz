@@ -16,13 +16,27 @@ Anyone with information about the caravan is asked to call Cambridgeshire Police
 star wars and harry potter star warwick davis, who played an ewok in return of the jedi, has taken to twitter to help recover his stolen caravan.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "ewok in return of the jedi",
+  "warwick"
+]
 
-1. The summary states that Warwick Davis, a Star Wars and Harry Potter star, had his caravan stolen.
-2. However, the article does not mention anything about Warwick Davis being a Star Wars or Harry Potter star.
-3. The article only mentions that Davis played the role of Wicket in the third of the original Star Wars movies, but it does not mention any other roles he has played in Star Wars or Harry Potter.
-4. The summary is not consistent with the article because it mentions Star Wars and Harry Potter, which are not mentioned in the article.
-5. The article only mentions that Davis played the role of Wicket in the third Star Wars movie, and it does not mention any other roles he has played in Star Wars or Harry Potter.
-6. Therefore, the summary is not accurate and is not supported by the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "ewok in return of the jedi": The article does not mention anything about Warwick Davis playing an Ewok in "Return of the Jedi." The correct information is that he played the role of Wicket in "Star Wars: Episode VI - Return of the Jedi."
+2. "warwick": The article does not mention the name "Warwick" at all. The correct name is "Wicket."
+
+Therefore, the summary has consistency issues in the following spans:
+
+* "ewok in return of the jedi" - The Ewok character does not exist in "Return of the Jedi."
+* "warwick" - There is no character named "Warwick" in the article.
+
+To fix these consistency issues, the summary should be revised to accurately reflect the information in the article. Here's a corrected summary:
+
+<Summary>
+Wicket Davis, who played the role of Wicket in Star Wars: Episode VI - Return of the Jedi, has taken to Twitter to help recover his stolen caravan.
+</Summary>
 
 ###Corrected:

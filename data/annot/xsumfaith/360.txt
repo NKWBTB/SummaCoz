@@ -14,12 +14,17 @@ Tests showed the first foot found in Weston Park East in February was  "probably
 a suspected human foot has been found in a park in bristol, police have said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "bristol"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the limb found in the park is not a human foot, but a "medical teaching aid" (emphasis added).
-2. The summary does not mention this detail and only states that a "suspected human foot" was found.
-3. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
+1. The article states that the limb was found in a garden in Cranwells Park, but the summary says it was found in a park in Bristol. This is inconsistent because the article specifically mentions the location of the find as Cranwells Park, while the summary simply says "a park in Bristol."
+2. The article does not mention the word "suspected" in relation to the limb found. The summary introduces this word, which is not supported by the article.
 
-The summary should have been more specific and included the detail that the limb found was not a human foot, but a medical teaching aid. This would have made the summary more accurate and consistent with the article.
+Therefore, based on these two inconsistencies, it can be concluded that the summary is not consistent with the article.
 
 ###Corrected:

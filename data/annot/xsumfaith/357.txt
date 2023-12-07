@@ -24,11 +24,21 @@ He said: "Animal cruelty is something we don't want to be portrayed for, but I d
 a petition calling for a new tourist attraction to be created in skegness has been criticised by the mayor of london.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "petition calling",
+  "criticised by the mayor of london",
+  "\\na petition calling for a new tourist attraction to be created in skegness has been criticised by the mayor of london"
+]
 
-1. The summary states that a petition calling for a new tourist attraction in Skegness has been criticised by the mayor of London. However, the article does not mention anything about a petition or a new tourist attraction.
-2. The article is actually about People for the Ethical Treatment of Animals (Peta) wanting the mascot of Skegness, the Jolly Fisherman, to be replaced with a modern animal-friendly version.
-3. The mayor of Skegness is quoted in the article as saying that the Jolly Fisherman is loved by adults and children alike and that there is no need to change it.
-4. Therefore, the summary is not consistent with the article because it mentions a petition and a new tourist attraction, which are not present in the article. Additionally, the summary incorrectly states that the mayor of London criticised the petition, when in fact it is the mayor of Skegness who is quoted in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The summary states that a "petition calling for a new tourist attraction to be created in Skegness has been criticised by the mayor of London." However, the article does not mention anything about a petition or the mayor of London.
+2. The article is actually about People for the Ethical Treatment of Animals (Peta) wanting the mascot of Skegness to be replaced with a modern animal-friendly version, and the mayor of Skegness's response to this suggestion.
+3. The summary does not accurately reflect the content of the article. The summary mentions a petition and the mayor of London, but these are not present in the article.
+4. Therefore, the summary is not consistent with the article.
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

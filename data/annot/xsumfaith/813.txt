@@ -22,13 +22,20 @@ In relation to special school provision in general, they said the Education Auth
 the mother of a 16-year-old boy who asked the education authority to protect him from mainstream schooling is being asked to look at the education authority.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "education authority to protect",
+  "asked the education authority to protect",
+  "16-year-old"
+]
 
-1. The summary states that the mother of a 16-year-old boy is being asked to look at the education authority.
-2. The article states that the family does not want the boy to be named to protect his identity, and that the mother has to give up her job to look after him.
-3. The summary does not mention any information about the boy's identity being protected or the mother's job situation.
-4. Therefore, the summary is not consistent with the article because it does not provide the same level of detail and context about the family's situation.
-5. The article provides specific information about the boy's situation, such as his age, the fact that he is not coping in mainstream schooling, and the challenges his family is facing in finding a special school for him. The summary does not include any of this information.
-6. Overall, the summary is too brief and lacks the specific details and context provided in the article, which makes it inconsistent with the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "education authority to protect": The article states that the family has asked the Education Authority to protect their son's identity, but the summary does not accurately reflect this. The wording "education authority to protect" implies that the Education Authority is being asked to protect the boy, which is not the case.
+2. "asked the education authority to protect": This phrase is also not consistent with the article. The family is asking for a special school for their son, not for the Education Authority to protect him.
+3. "16-year-old": The article does not mention the boy's age, so this information is not consistent with the article.
+
+Overall, the summary does not accurately reflect the information in the article. The phrases "education authority to protect", "asked the education authority to protect", and "16-year-old" are not supported by the text.
 
 ###Corrected:

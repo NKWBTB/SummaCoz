@@ -14,13 +14,24 @@ Last year Sullivan said it was possible a minority shareholding could be sold to
 west ham\'s # [UNK] m euros (Â # [UNK] m) stake in west ham united\'s # [UNK] m euros (Â # [UNK] m) investment have been approved by the club.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "west ham\\'s # [UNK] m euros (\u00c2 # [UNK] m) stake in west ham united\\'s # [UNK] m euros (\u00c2 # [UNK] m) investment have been approved by the club"
+]
 
-1. The summary states that West Ham United's £200m investment has been approved by the club.
-2. The article does not mention any investment of £200m from West Ham United. Instead, it mentions a potential £200m takeover offer from an energy drinks giant.
-3. The article also states that Sullivan and Gold own a majority stake in West Ham United, valued at £105m, and that they have been linked with takeovers from Qatari and Chinese groups.
-4. Therefore, the summary is not consistent with the article because it mentions a £200m investment from West Ham United, which is not supported by the article.
-5. The article does mention the possibility of a minority shareholding being sold to clear debts, but this is not the same as a £200m investment.
-6. Therefore, the summary is not accurate and does not reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the energy drinks giant was considering a £200m offer for West Ham United, but it does not mention any approval of investment or stake in the club.
+2. The summary states that "west ham's # [UNK] m euros (Â # [UNK] m) stake in west ham united's # [UNK] m euros (Â # [UNK] m) investment have been approved by the club." This statement is not supported by the article.
+3. The article mentions that Sullivan and Gold bought a majority stake in West Ham in 2010, and that they now own more than 85% of the club. However, the article does not mention any approval of investment or stake in the club.
+4. The summary is not consistent with the article because it mentions approval of investment and stake in the club, which is not supported by the article.
+
+Therefore, the consistency issues in the summary are:
+
+* The statement "west ham's # [UNK] m euros (Â # [UNK] m) stake in west ham united's # [UNK] m euros (Â # [UNK] m) investment have been approved by the club" is not supported by the article.
+* The article does not mention any approval of investment or stake in the club.
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

@@ -25,16 +25,18 @@ He was part of Mexico's squad at the 2014 World Cup in Brazil, but was not calle
 a man in the northern mexican city of tamaulipas has been kidnapped in the north-eastern city of wrist, officials say.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "northern",
+  "north-eastern city"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the man was kidnapped in the "north-eastern city of Wrist." However, the article does not mention any city called Wrist.
-2. The article states that the man was kidnapped in his home town of Ciudad Victoria in Tamaulipas state.
-3. Therefore, the summary is not consistent with the article because it mentions a fictional city called Wrist, which does not exist in the article.
+1. "northern" - The article states that Tamaulipas is located in the northeastern part of Mexico, but it does not mention that it is located in the north. Therefore, the summary's statement that the man was kidnapped in the "northern city of Tamaulipas" is not consistent with the article.
+2. "north-eastern city" - The article does not mention the name of the city where the man was kidnapped, and it does not describe it as being located in the northeastern part of Mexico. Therefore, the summary's statement that the man was kidnapped in the "north-eastern city of Wrist" is not consistent with the article.
 
-Step by step reasoning:
-
-1. The summary states that the man was kidnapped in the "north-eastern city of Wrist."
-2. The article does not mention any city called Wrist.
-3. Therefore, the summary is not consistent with the article.
+Overall, the summary contains two inconsistencies with the article: it misstates the location of Tamaulipas and invents a city called "Wrist" where the man was kidnapped.
 
 ###Corrected:

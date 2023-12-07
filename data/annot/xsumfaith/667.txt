@@ -82,13 +82,23 @@ Andrea Ranocchia (Hull City) is shown the yellow card for a bad foul.
 alexis sanchez scored twice as title-chasing arsenal beat relegation-threatened hull in controversial circumstances in the premier league.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "beat relegation-threatened hull in controversial circumstances",
+  "beat relegation-threatened hull in controversial circumstances ",
+  "twice as title-chasing"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans in the summary have consistency issues:
 
-1. The summary states that Alexis Sanchez scored twice for Arsenal in their Premier League match against Hull City.
-2. However, the article does not mention Sanchez scoring twice. In fact, it only mentions one goal scored by Sanchez, which was a penalty.
-3. The article states that Hull City were awarded a penalty after Sam Clucas was sent off for handball, but the summary does not mention this.
-4. The summary also does not mention the controversy surrounding the second goal, which was scored by Sanchez, and the fact that Clucas was sent off for handball.
+1. "beat relegation-threatened hull in controversial circumstances":
+The phrase "beat relegation-threatened hull" is inconsistent with the article because the article uses "Arsenal" and "Hull City" to refer to the teams, rather than using "Hull" as a singular noun. Additionally, the phrase "in controversial circumstances" is not supported by the article, as there is no mention of controversy or disputed calls.
+2. "beat relegation-threatened hull in controversial circumstances":
+The second occurrence of this phrase is also inconsistent with the article, for the same reasons as the first one.
+3. "twice as title-chasing":
+The phrase "twice as title-chasing" is inconsistent with the article because there is no mention of Arsenal being "title-chasing" in the article. The article focuses on the match between Arsenal and Hull City, and does not discuss Arsenal's broader title aspirations.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the events of the match. Specifically, it does not mention the controversial circumstances surrounding Sanchez's second goal, and it does not accurately reflect the number of goals scored by Sanchez.
+Overall, the summary contains several phrases that are not supported by the article, and does not accurately reflect the content of the article.
 
 ###Corrected:

@@ -20,19 +20,22 @@ Brackfield Wood is about seven miles outside Derry city, just off the Glenshane 
 a new public woodland is being created in county londonderry to mark the centenary of world war one.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "county londonderry",
+  "a new public woodland is being created in county londonderry to mark the centenary of world war one",
+  "centenary"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that a new public woodland is being created in county Londonderry to mark the centenary of World War One.
-2. However, the article states that the woodland is being created in Brackfield Wood, which is located in the Faughan Valley, not in county Londonderry.
-3. The article also states that the woodland is being created as a tribute to the millions of people who died during World War One, while the summary only mentions the centenary of the war.
-4. Furthermore, the article states that the project is organised by the Woodland Trust, while the summary does not mention this.
+1. "county londonderry" - The article does not mention "county londonderry" anywhere. The correct location is "Brackfield Wood in the Faughan Valley".
+2. "a new public woodland is being created in county londonderry to mark the centenary of world war one" - The article does not mention "county londonderry" or "centenary of World War One". The correct statement would be "a new public woodland is being created in Brackfield Wood in the Faughan Valley to commemorate the millions of people who died during WW1".
+3. "centenary" - The article does not mention "centenary" at all.
 
-Therefore, the summary is not consistent with the article because it:
+Therefore, the summary is not consistent with the article because it contains inaccuracies and exaggerations. The correct summary should be:
 
-* Mentions a different location (county Londonderry) than the location of the woodland (Brackfield Wood in the Faughan Valley).
-* Focuses only on the centenary of World War One, while the article mentions the millions of people who died during the war.
-* Omits the fact that the project is organised by the Woodland Trust.
-
-Overall, the summary does not accurately reflect the content of the article.
+"The Woodland Trust is creating a new public woodland in Brackfield Wood in the Faughan Valley to commemorate the millions of people who died during WW1. The project aims to plant 40,000 native trees in tribute to the estimated 40,000 people from the island of Ireland who lost their lives in the conflict."
 
 ###Corrected:

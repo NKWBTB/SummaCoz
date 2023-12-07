@@ -12,13 +12,21 @@ It is the latest addition from KLM since it started Inverness-Amsterdam flights 
 a new flight to the highlands and islands airports has been launched by the scottish government.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "scottish government",
+  "highlands and islands airports"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
 1. The article states that KLM has added new flights from the Highlands airport and an evening flight from Schiphol.
-2. The summary states that a new flight to the Highlands and Islands airports has been launched by the Scottish government.
-3. The article does not mention anything about the Scottish government launching new flights. Instead, it states that KLM has added new flights.
-4. Therefore, the summary is not consistent with the article because it attributes the launch of new flights to the Scottish government, while the article states that KLM has added the flights.
+2. The article does not mention anything about the Scottish government launching a new flight.
+3. The phrase "scottish government" in the summary is not supported by the article.
+4. The article refers to Highlands and Islands Airports Limited (Hial) as the entity that manages the airports, not the Scottish government.
+5. Therefore, the phrase "highlands and islands airports" in the summary is also not supported by the article.
 
-So, the reason why the summary is not consistent with the article is that it incorrectly attributes the launch of new flights to the Scottish government, when in fact KLM has added the flights.
+Overall, the summary is not consistent with the article because it attributes the launch of new flights to the Scottish government, when in fact it is KLM that has added the new flights.
 
 ###Corrected:

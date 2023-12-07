@@ -32,13 +32,19 @@ What a time to be alive.
 it\'s one of the most popular song in japanese-but a song that has gone viral on social media has become an internet hit.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "most popular song",
+  "it\\'s one of the most popular song in japanese-but a song that has gone viral on social media has become an internet hit"
+]
+
 Explain your reasoning step by step:[/INST]
- Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that the song is one of the most popular songs in Japan, but the article does not mention anything about the song's popularity in Japan. In fact, the article states that the song has gone viral on social media and has become an internet hit, but it does not mention anything about the song's popularity in Japan.
-2. The summary implies that the song is a Japanese song, but the article does not mention anything about the song's nationality or origin. The article only mentions that the song is a viral hit on social media.
-3. The summary does not mention anything about the song's catchy nature or the fact that it has been covered by many people on social media, which are two of the main points of the article.
+1. "most popular song" - The article does not mention the song being the "most popular" in Japan or anywhere else. It simply states that the song has gone viral on social media and has become an internet hit. Therefore, the phrase "most popular song" is not supported by the article.
+2. "it's one of the most popular song in japanese-but" - The article does not mention the song being "one of the most popular" in Japanese. It only states that the song is a viral hit on social media, without providing any information about its popularity in Japan or anywhere else. Therefore, this phrase is also not supported by the article.
+3. "a song that has gone viral on social media has become an internet hit" - This phrase is a paraphrase of the article's content, but it is not an exact quote. The article does not use the phrase "internet hit" to describe the song's popularity. Instead, it uses the phrase "viral hit on social media" to describe the song's popularity. Therefore, this phrase is not consistent with the article's language and tone.
 
-Overall, the summary does not accurately reflect the content of the article. It is important to ensure that summaries accurately represent the content of the original text, and avoid making assumptions or adding information that is not supported by the text.
+Overall, the summary contains several inconsistencies with the article's language, tone, and content. The phrases "most popular song", "one of the most popular song in japanese-but", and "internet hit" are not supported by the article, and the summary's use of these phrases is not consistent with the article's style and tone.
 
 ###Corrected:

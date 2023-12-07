@@ -33,12 +33,19 @@ Should the Tunisians reach the 2017 finals in Gabon, they will reach their thirt
 tunisia and morocco\'s differences with the confederation of african football (caf) are in the past, both north african nations say.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "north african nations say"
+]
 
-1. The summary states that Tunisia and Morocco's differences with CAF are in the past, but the article reveals that this is not entirely true.
-2. The article mentions that Tunisia had faced expulsion from the 2017 Africa Cup of Nations until they apologized to CAF for complaints they lodged during the 2015 Nations Cup. This indicates that there were still issues between Tunisia and CAF as of March 2017.
-3. The summary does not mention Morocco's issues with CAF, but the article reveals that Morocco was punished in February 2015 for refusing to host the 2015 Nations Cup and was only allowed to enter the 2017 qualifying draw after a court overturned their ban.
-4. The summary also does not mention the tensions between Tunisia and CAF that led to a contentious penalty in their quarter-final match against Equatorial Guinea, which further strained their relationship.
-5. Therefore, the summary is not consistent with the article because it does not accurately reflect the current status of Tunisia and Morocco's relationships with CAF. While both countries have apologized and made amends, there were still outstanding issues between them and CAF as of March 2017.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. The article states that Tunisia and Morocco had differences with CAF in the past, but those differences have been resolved.
+2. The summary states that "north african nations say" their differences with CAF are in the past.
+3. The problem is that the summary does not accurately reflect the article. The article states that Tunisia and Morocco had differences with CAF, but the summary implies that all north African nations (including Tunisia and Morocco) have resolved their differences with CAF.
+4. The wording "north african nations say" is also not accurate, as the article only mentions Tunisia and Morocco, not all north African nations.
+
+Therefore, the summary is not consistent with the article, and the inconsistency is in the wording "north african nations say" which implies that all north African nations have resolved their differences with CAF, when only Tunisia and Morocco have done so.
 
 ###Corrected:

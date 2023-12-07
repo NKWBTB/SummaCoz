@@ -38,11 +38,26 @@ After the good years many Russians are now getting a harsh lesson in capitalism 
 millions of russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side, the bbc\'s oleg boldyrev reports.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "the bbc\\'s oleg boldyrev reports",
+  "bbc\\'s oleg boldyrev reports"
+]
 
-1. The summary states that "millions of Russians took out loans during the economic boom years," which is consistent with the article.
-2. However, the summary also states that "the law is not on their side," which is not consistent with the article. The article does not mention anything about the law being against the debtors.
-3. In fact, the article highlights that the debtors have limited options for seeking help and that the banks are not willing to restructure their debts. This suggests that the law is not providing adequate protection for the debtors.
-4. Therefore, the summary is not consistent with the article because it implies that the law is against the debtors, while the article suggests that the law is not providing adequate protection for them.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary has consistency issues:
+
+1. The first span ["the bbc's oleg boldyrev reports"] has a single quote (") inside a single quote ("). This is not allowed in standard English grammar.
+2. The second span ["bbc's oleg boldyrev reports"] has two quotes (") inside a single quote ("). This is also not allowed.
+
+The correct way to write the summary would be to use single quotes for the title of the article, like this:
+
+"millions of russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side, according to the bbc's oleg boldyrev reports."
+
+Or, alternatively, to use double quotes for the title and single quotes for the reporter's name, like this:
+
+"millions of russians took out loans during the economic boom years, but now they face crippling debts and the law is not on their side, reports the bbc's oleg boldyrev."
+
+In both cases, the quotes are used consistently throughout the summary, which resolves the consistency issues.
 
 ###Corrected:

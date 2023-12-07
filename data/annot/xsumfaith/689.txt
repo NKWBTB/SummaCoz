@@ -21,14 +21,20 @@ At the end of the hearing, he said to the judge: "When I rebuild my house, I wan
 a farmer told to demolish a mock tudor castle that was built without planning permission has vowed to rebuild ``the work of art\'\'elsewhere.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "farmer",
+  "planning permission",
+  "mock tudor"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the farmer, Robert Fidler, was told to demolish a mock Tudor castle that was built without planning permission, and that he has vowed to rebuild the "work of art" elsewhere.
-2. However, the article states that Mr. Fidler has already demolished the castle, but there is still more to be done to restore the land to its former agricultural use.
-3. The article also states that Mr. Fidler remains in contempt of court, and that the case has been adjourned for a month to give him an opportunity to fully comply with the council enforcement notices.
-4. Therefore, the summary is not consistent with the article because it implies that Mr. Fidler has not demolished the castle and that he is planning to rebuild it elsewhere, when in fact he has already demolished the castle and is facing legal proceedings.
-5. The summary also uses the phrase "work of art" to describe the castle, which is not a accurate description of the structure as described in the article.
+1. "farmer": The article does not mention that Robert Fidler is a farmer. In fact, it states that he built the house in 2000 and hid it behind hay bales, which suggests that he is not a farmer. Therefore, the summary should not have referred to him as a farmer.
+2. "planning permission": The article states that Robert Fidler built the house without planning permission, but the summary does not mention this. Instead, it refers to "full planning permission," which is not accurate.
+3. "mock tudor": The article does not use the term "mock tudor" to describe the house. It simply states that the house is a "four bedroom castle." The summary should not have used this term, as it is not accurate.
 
-Overall, the summary is not a consistent representation of the article's content and contains some inaccuracies.
+Overall, the summary contains several inaccuracies and inconsistencies with the article. It is important to carefully read and summarize the article to ensure accuracy and consistency.
 
 ###Corrected:

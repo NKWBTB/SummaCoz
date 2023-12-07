@@ -19,13 +19,21 @@ It said only a tiny fraction of the $1bn pledged would be spent in the next few 
 ai weiwei, the founder of ai giant ai weiwei, has launched a $ 1m (Â # venture) research project.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "ai weiwei, the founder of ai giant ai weiwei, has launched a $ 1m (\u00c2 # venture) research project"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "ai weiwei, the founder of ai giant ai weiwei, has launched a $1m research project." This statement is not consistent with the article, as there is no mention of an individual named "ai weiwei" or an "ai giant" in the article.
-2. The article mentions that OpenAI, a venture backed by Elon Musk and other tech companies, has pledged $1 billion for AI research. The summary does not mention OpenAI or any of the other companies mentioned in the article.
-3. The summary mentions a $1 million research project, which is a much smaller amount than the $1 billion pledged by OpenAI.
-4. The article states that OpenAI's research will be "free from financial obligations" and will focus on having a "positive human impact." The summary does not mention any of these goals or objectives.
+1. The article states that the venture's backers include Tesla Motors and SpaceX CEO Elon Musk, Paypal co-founder Peter Thiel, Indian tech giant Infosys, and Amazon Web Services. However, the summary does not mention any of these backers.
+2. The article states that OpenAI aims to advance digital intelligence in a way that benefits humanity and is unconstrained by a need to generate financial return. The summary does not mention this goal or any mention of benefiting humanity.
+3. The article states that the venture expects its research to focus on a "positive human impact" and that scientists have warned that advances in AI could ultimately threaten humanity. The summary does not mention any mention of positive human impact or the potential threats of AI.
+4. The article states that Elon Musk has warned that AI is humanity's "biggest existential threat". The summary does not mention this statement.
+5. The article states that the risk of AI posing any threat to humans remains remote, but the summary does not mention this.
+6. The article states that the venture aims to advance digital intelligence in a way that is most likely to benefit humanity, and that AI "should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as is possible safely". The summary does not mention any of these statements.
 
-Overall, the summary is not consistent with the article because it does not accurately describe the OpenAI venture or its goals, and it mentions a much smaller amount of funding than the $1 billion pledged by OpenAI.
+Based on these inconsistencies, it is clear that the summary is not consistent with the article. The summary does not accurately reflect the goals, backers, or purpose of OpenAI, and does not mention many of the important points that are included in the article.
 
 ###Corrected:

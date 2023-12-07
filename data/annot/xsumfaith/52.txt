@@ -20,14 +20,18 @@ It is one of the largest towns in the north west of England not to have its own 
 a new railway station is to be built on a former railway station site in south lancashire.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "south",
+  "former"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that a new railway station is to be built on a former railway station site in south Lancashire.
-2. However, the article states that the new railway station will be built on the former Glenburn Sports College and Skelmersdale College sites, not on a former railway station site.
-3. The summary does not mention anything about the sites being former sports colleges or colleges, which is a key detail in the article.
-4. The article states that Skelmersdale has not had a railway station since 1956, but the summary does not mention this fact.
-5. The article mentions that the new railway station will have two direct trains to Liverpool per hour, but the summary does not include this information.
+1. "south": The article does not mention anything about the location of the new railway station being in the south of Lancashire. In fact, the article states that the proposed site is in Skelmersdale, which is located in the north west of England. Therefore, the mention of "south" in the summary is not consistent with the article.
+2. "former": The article does not mention anything about the site being a former railway station. The article states that the site is the former Glenburn Sports College and Skelmersdale College, but it does not use the word "former" to describe the site. Therefore, the mention of "former" in the summary is also not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it does not accurately convey the details of the new railway station's location, the fact that the site is a former sports college and college, and the lack of a railway station in Skelmersdale since 1956. Additionally, the summary does not mention the possibility of future expansion or the good highway access and connectivity to the town and surrounding area, which are important details in the article.
+Overall, the summary contains two inconsistencies with the article: the location of the new railway station is not in the south of Lancashire, and the site is not a former railway station.
 
 ###Corrected:

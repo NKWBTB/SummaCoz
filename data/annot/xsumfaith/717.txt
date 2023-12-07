@@ -15,14 +15,18 @@ The university said the controlled explosion was carried out by the Royal Logist
 part of a swansea university campus was evacuated on thursday after the discovery of ``unstable\'\'chemicals.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "swansea",
+  "thursday"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the university said the move was "precautionary", indicating that the evacuation was a preventive measure rather than a response to an existing threat.
-2. The article mentions that the chemicals were "unstable", which suggests that they were potentially dangerous and could have posed a risk to the public if not handled properly.
-3. The article states that the controlled explosion was carried out by the Royal Logistics Corps bomb disposal unit, which implies that the chemicals were indeed dangerous and required specialized handling.
-4. The summary states that the part of the campus was evacuated after the discovery of "unstable chemicals", which is consistent with the article's information.
-5. However, the summary does not mention the precautionary nature of the evacuation, nor does it mention the controlled explosion or the involvement of the bomb disposal unit. This is inconsistent with the article's information.
+1. The article states that the incident occurred on Thursday, but the summary only mentions "part of a Swansea university campus" without specifying the day of the week. This inconsistency is because the summary only mentions the location and does not provide the specific day of the incident, which is included in the article.
+2. The article mentions that the chemicals "had become unstable," but the summary only uses the phrase "unstable chemicals." This inconsistency is because the summary does not fully convey the reason for the evacuation, which is provided in the article.
 
-Therefore, the summary is not consistent with the article because it does not provide the same level of detail and context as the article. Specifically, it does not explain the reason for the evacuation (i.e., the discovery of unstable chemicals) or the measures taken to ensure public safety (i.e., the controlled explosion).
+Therefore, the two spans that have consistency issues in the summary are "swansea" and "thursday." These issues can be resolved by including the specific day of the week and providing more information about the chemicals, as shown in the article.
 
 ###Corrected:

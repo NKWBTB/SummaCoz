@@ -28,13 +28,23 @@ Jonathan.Amos-INTERNET@bbc.co.uk
 glaciers in the french alps have lost a quarter of their area in the past 40 years, according to new research.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "quarter"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that glaciers in the French Alps have lost a quarter of their area in the past 40 years.
-2. The article states that the area of glaciers in the French Alps has decreased from approximately 375 sq km to approximately 275 sq km over the same period, which is a loss of about 26% of the original area.
-3. However, the article does not state that the glaciers have lost a quarter of their area. In fact, the article states that the retreat is not uniform across the French Alps, and that the greatest losses have been seen in the southern sectors.
-4. Therefore, the summary is not consistent with the article because it overstates the extent of the glacial retreat in the French Alps. The article provides a more nuanced picture of the retreat, indicating that the loss of area is not uniform across the region and that the southern sectors have experienced the greatest losses.
+1. The article states that the area of glaciers in the French Alps has decreased by 26% over the last 40 years.
+2. To calculate this percentage change, we need to know the original area of the glaciers in the late 1960s/early 1970s. The article gives this value as approximately 375 sq km.
+3. The article also states that the area of glaciers in the late 2000s is approximately 275 sq km.
+4. To calculate the percentage change, we can subtract the original area from the later area and divide by the original area:
 
-In conclusion, the summary is not consistent with the article because it exaggerates the extent of the glacial retreat in the French Alps. The article provides a more accurate picture of the retreat, indicating that the loss of area is not uniform across the region and that the southern sectors have experienced the greatest losses.
+(275 sq km - 375 sq km) / 375 sq km = 0.26 or 26%
+
+So, the correct statement is that glaciers in the French Alps have lost approximately 26% of their area over the last 40 years.
+
+The word "quarter" is not accurate because it implies a loss of 25% of the original area, which is not supported by the article. The article states a loss of 26%, not 25%. Therefore, the statement "glaciers in the French Alps have lost a quarter of their area in the past 40 years" is not consistent with the information in the article.
 
 ###Corrected:

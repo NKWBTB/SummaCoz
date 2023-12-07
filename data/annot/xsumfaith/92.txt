@@ -18,12 +18,18 @@ The novelist died at his Glasgow home on 5 December.
 the new campus of scotland\'s largest education campus is to be renamed in honour of author william mcilvanney.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "renamed",
+  "largest"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the new campus will be named in honor of William McIlvanney, but the summary only states that the campus will be renamed in honor of an author.
-2. The article mentions that William McIlvanney was a renowned writer and the "Godfather of Tartan Noir," but the summary does not provide any information about his background or achievements as a writer.
-3. The article states that the council leader is delighted to be able to "preserve" the William McIlvanney name in Kilmarnock, implying that the name is already well-known and significant in the area. However, the summary does not mention anything about the name being significant or why it would be appropriate to rename the campus after him.
+1. "renamed": The article does not mention anything about the campus being renamed. The article only mentions that the council is considering asking permission from the McIlvanney family to name the campus in his honour. Therefore, the word "renamed" is not supported by the article.
+2. "largest": The article does not provide any information about the size of the campus or its ranking in terms of size. The article only mentions that the campus will house primary and secondary schools, a Gaelic school, and a childcare centre. Therefore, the word "largest" is not supported by the article.
 
-Therefore, the summary is not consistent with the article because it does not provide enough information about William McIlvanney's background or why he is being honored with the renaming of the campus. The summary is too brief and lacks important details, making it inconsistent with the article.
+Overall, the summary has consistency issues because it contains two statements that are not supported by the article.
 
 ###Corrected:

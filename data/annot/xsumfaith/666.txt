@@ -23,14 +23,19 @@ Crocodiles are a common feature of Australia's tropical north and numbers have i
 a golfer has suffered leg injuries after being bitten by a crocodile on an australian golf course.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "australian golf course"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the golfer suffered leg injuries after being bitten by a crocodile on an Australian golf course.
-2. However, the article states that the golfer, John Lahiff, was taken to hospital with a deep laceration to his shin and puncture wounds to his calf, but not bitten by a crocodile.
-3. The article also states that Lahiff was attacked by a 1.2m (4ft) saltwater crocodile while looking for a ball in the water at the course in Port Douglas, Queensland.
-4. The summary does not mention that the attack occurred while Lahiff was looking for a ball in the water or that the crocodile was 1.2m (4ft) long.
-5. Therefore, the summary is not consistent with the article because it does not accurately describe the circumstances of the attack or the injuries sustained by Lahiff.
+1. The summary states "a golfer has suffered leg injuries after being bitten by a crocodile on an australian golf course."
+2. However, the article does not mention that the golfer was bitten on an Australian golf course. Instead, it states that the golfer was bitten by a crocodile on the Palmer Sea Reef golf course in Port Douglas, Queensland.
+3. The phrase "Australian golf course" is not supported by the article, as the article specifically names the Palmer Sea Reef golf course as the location of the incident.
+4. Therefore, the summary is not consistent with the article, as it incorrectly states that the incident occurred on an Australian golf course rather than specifically naming the Palmer Sea Reef golf course.
 
-In conclusion, the summary is not consistent with the article because it misrepresents the details of the attack and the injuries sustained by the golfer. The article provides more specific and accurate information about the incident, including the fact that Lahiff was not bitten by a crocodile, but rather attacked by a 1.2m (4ft) saltwater crocodile while looking for a ball in the water.
+I hope that helps! Let me know if you have any further questions.
 
 ###Corrected:

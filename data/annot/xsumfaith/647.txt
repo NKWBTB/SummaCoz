@@ -13,14 +13,20 @@ Dervite follows David Wheater, Gary Madine and Jem Karacan in signing new contra
 defender dorian dervite has signed a new one-year contract with bolton.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "defender",
+  "defender dorian dervite has signed a new one-year contract with bolton",
+  "one-year"
+]
+
 Explain your reasoning step by step:[/INST]
  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that defender Dorian Dervite has signed a new one-year contract with Bolton.
-2. However, the article states that Dervite made 14 appearances last season and helped the team finish second in League One and secure promotion.
-3. This suggests that Dervite is already a member of the Bolton team and has been playing for them for some time, rather than signing a new contract.
-4. Therefore, the summary is not consistent with the article, as it implies that Dervite is signing a new contract when in fact he is already a member of the team.
+1. "defender" - The article does not mention the word "defender" to describe Dorian Dervite. The article uses the phrase "French centre-back" to describe Dervite's position.
+2. "defender dorian dervite has signed a new one-year contract with bolton" - The article does not mention the word "one-year" to describe the length of Dervite's new contract. The article states that Dervite has signed a new contract, but it does not provide the length of the contract.
+3. "one-year" - The article does not provide any information about the length of Dervite's new contract. The summary is incorrect to state that the contract is for one year.
 
-So, the reason why the summary is not consistent with the article is that it implies that Dervite is signing a new contract when in fact he is already a member of the team.
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article. Specifically, the summary includes the words "defender" and "one-year" which are not supported by the article.
 
 ###Corrected:

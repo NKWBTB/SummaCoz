@@ -72,13 +72,28 @@ It raises the possibility of a truly strange scenario - Brexit ministers asking 
 the government has launched a legal challenge against the government\'s decision to allow the uk to leave the european union.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "government"
+]
 
-1. The summary states that the government has launched a legal challenge against the government's decision to allow the UK to leave the European Union.
-2. However, the article states that the challenge is not against the decision to leave the EU, but rather against the government's claim that the Prime Minister has the power to trigger Article 50 of the Treaty of Lisbon 2007, which would begin the process of leaving the EU, without a vote in Parliament.
-3. The article explains that the legal challenge is being brought by Gina Miller, a businesswoman, and others, who argue that only Parliament can make a decision that leads to the loss of their "rights" under EU law.
-4. The article states that the government argues that the Prime Minister has the power to trigger Article 50 using the Royal Prerogative, which are powers left over from medieval monarchs.
-5. The article notes that the legal challenge is not a matter of whether the UK should leave the EU, but rather a matter of how the process of leaving should be done.
-6. Therefore, the summary is not consistent with the article because it does not accurately reflect the nature of the legal challenge. The summary makes it sound like the challenge is against the decision to leave the EU, when in fact it is only against the government's claim of power to trigger Article 50 without a vote in Parliament.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the spans you identified have consistency issues:
+
+1. "government"
+
+The summary states that the "government has launched a legal challenge against the government's decision to allow the UK to leave the European Union." However, the article never uses the word "government" twice in a row. Instead, it uses "Prime Minister Theresa May" or "the government's legal adviser" to refer to the executive branch of the UK.
+
+Therefore, the summary is not consistent with the article because it uses "government" twice, while the article only uses it once to refer to the executive branch as a whole. To fix this, the summary should replace "government" with "Prime Minister Theresa May" or "the government's legal adviser" to make it consistent with the article.
+
+Here's the corrected summary:
+
+"Prime Minister Theresa May has launched a legal challenge against her own decision to allow the UK to leave the European Union."
+
+Or, if you prefer to use "the government's legal adviser," you could say:
+
+"The government's legal adviser has launched a legal challenge against the government's decision to allow the UK to leave the European Union."
+
+Either way, the corrected summary should use the same language as the article to refer to the executive branch, rather than using the word "government" twice.
 
 ###Corrected:

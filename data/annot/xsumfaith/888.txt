@@ -78,14 +78,23 @@ Foul by Dries Mertens (Belgium).
 italy scored two late goals to beat italy in the first leg of their copa del rey victory over belgium.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "italy in the first leg of their copa del rey",
+  "italy scored two late goals to beat italy in the first leg of their copa del rey victory over belgium"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's why the following spans in the summary have consistency issues:
 
-1. The summary states that Italy scored two late goals to beat Belgium, which is not consistent with the article.
-2. The article states that Italy won the match 2-0, with the two goals scored in the first half and the second half, respectively.
-3. The summary does not mention the time period when the goals were scored, implying that both goals were scored in the late stages of the game.
-4. The article does not mention any late goals scored by Italy, only mentioning that Italy took the lead in the first half through Giaccherini's goal and that Pelle sealed the win in injury time with an emphatic volley.
-5. Therefore, the summary is not consistent with the article, as it implies that Italy scored two late goals, while the article states that Italy scored two goals in the first half and one in injury time.
+1. "italy in the first leg of their copa del rey"
 
-Overall, the summary is not accurate and does not reflect the content of the article.
+The phrase "italy in the first leg of their copa del rey" is inconsistent with the rest of the summary, as there is no mention of a "copa del rey" tournament in the article. The article is actually about the Euro 2016 football tournament, so this phrase does not fit.
+
+2. "italy scored two late goals to beat italy in the first leg of their copa del rey victory over belgium"
+
+This phrase is also inconsistent with the article, as there is no mention of Italy scoring two late goals or winning the first leg of any tournament. The article is about Italy's victory over Belgium in the Euro 2016 football tournament, not about a "copa del rey" tournament.
+
+In conclusion, the two spans in the summary that have consistency issues are the ones that mention "copa del rey" and "italy scoring two late goals" because these phrases do not appear in the article and do not fit the context of the summary.
 
 ###Corrected:

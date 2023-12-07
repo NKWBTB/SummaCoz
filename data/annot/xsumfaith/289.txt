@@ -76,14 +76,24 @@ Corner,  Southampton. Conceded by Curtis Davies.
 hull city moved back to the top of the premier league as they were held to a draw at home to hull city.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "held to a draw",
+  "moved back to the top of the premier league",
+  "premier league as they were held to a draw at home",
+  "to hull city",
+  "hull city"
+]
+
 Explain your reasoning step by step:[/INST]
-  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+  Sure! Here's my reasoning step by step:
 
-1. Inconsistent information: The summary states that Hull City moved back to the top of the Premier League, but the article does not mention anything about Hull City being at the top of the table. In fact, the article states that Hull City is in the relegation zone.
-2. Incorrect information: The summary mentions that the game was held at Hull City's home ground, but the article states that the game was played at the KCOM Stadium.
-3. Lack of context: The summary does not provide any context about the game, such as the score or the teams' performances. The article, on the other hand, provides detailed information about the game, including the score, the teams' performances, and the injuries suffered by Hull City's players.
-4. Incorrect tone: The summary has a positive tone, suggesting that Hull City had a good game, but the article has a more neutral tone and does not make any judgments about the teams' performances.
+1. "held to a draw": The article states that Hull City won the match 2-1, not that they were held to a draw.
+2. "moved back to the top of the premier league": The article does not mention anything about Hull City moving back to the top of the premier league. In fact, it states that they are still in the bottom three.
+3. "premier league as they were held to a draw at home": This phrase is incorrect because the match was not a draw, but rather a win for Southampton.
+4. "to hull city": This phrase is unnecessary and does not add any meaning to the summary.
+5. "hull city": This phrase is also unnecessary and repetitive.
 
-Based on these inconsistencies and inaccuracies, it is clear that the summary is not consistent with the article.
+Therefore, the summary has consistency issues in the following spans: [ "held to a draw", "moved back to the top of the premier league", "premier league as they were held to a draw at home", "to hull city", "hull city" ].
 
 ###Corrected:

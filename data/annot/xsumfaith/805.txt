@@ -51,18 +51,29 @@ Edward Snowden, the source of the leaked documents, said he had acted over conce
 the head of the us national security agency (nsa) has said it is ``extremely concerned\'\'about the us government\'s access to national security.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  NaN,
+  "extremely concerned"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-The provided summary is not consistent with the article because:
+1. The article states that Edward Snowden, a former CIA technical worker, revealed that the US government has been accessing national security information on a massive scale through the NSA's Prism program.
+2. The article mentions that the US government has accessed millions of phone records from Verizon, including call duration, location, and phone numbers of both parties.
+3. The article also states that the NSA has access to individual chat logs, stored data, voice traffic, file transfers, and social networking data of individuals through Prism.
+4. The article quotes James Clapper, the US Director of National Intelligence, as saying that the leaks are "extremely damaging" to national security.
+5. The article also quotes Snowden as saying that he acted because he found the extent of US surveillance "horrifying".
 
-1. The summary states that the head of the US National Security Agency (NSA) is "extremely concerned" about the US government's access to national security, but the article does not mention anything about the NSA or the US government's access to national security.
-2. The summary does not accurately reflect the content of the article, which discusses the US government's surveillance programs and the access of US intelligence agencies to private data stored by technology companies.
+Based on these points, it is clear that the US government has been actively collecting a wide range of data on individuals and organizations through the Prism program, and that this collection has been considered "extremely damaging" to national security.
 
-Here are the steps to explain why the summary is not consistent with the article:
+Now, let's look at the summary:
 
-1. The summary statement is not present in the article. The article does not mention anything about the NSA or the US government's access to national security.
-2. The article discusses the US government's surveillance programs and the access of US intelligence agencies to private data stored by technology companies.
-3. The summary does not accurately reflect the content of the article.
-4. Therefore, the summary is not consistent with the article.
+1. The summary states that the head of the US National Security Agency (NSA) is "extremely concerned" about the US government's access to national security.
+2. This statement is inconsistent with the article, which states that the US government has been actively collecting national security information through the Prism program.
+3. The summary does not provide any specific information about the NSA's concerns or the nature of the access to national security information.
+
+Therefore, the summary is not consistent with the article, and the inconsistency is in the fact that the summary does not provide any specific information about the NSA's concerns, while the article provides detailed information about the US government's data collection activities through the Prism program.
 
 ###Corrected:

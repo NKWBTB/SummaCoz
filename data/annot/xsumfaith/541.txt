@@ -18,13 +18,19 @@ At first, the ministry said the captain did not believe it would be necessary to
 a fire has broken out on a spanish ferry from mallorca, forcing some 150 passengers and crew to abandon ship.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "150 passengers",
+  "150"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the ferry was travelling from the coastal city of Valencia to Mallorca when the fire broke out, but the summary only mentions that the ferry is from Mallorca. This is inconsistent, as the article clearly states that the ferry was not originating from Mallorca.
-2. The article states that at least three people were injured and taken to hospital by helicopter, but the summary does not mention any injuries or casualties. This is inconsistent, as the article mentions that there were at least three people injured and taken to hospital.
-3. The article states that the passengers and crew were evacuated onto lifeboats and then rescued by another ship, but the summary only mentions that they had to abandon ship. This is inconsistent, as the article provides more detail about the evacuation process.
-4. The article states that the reason for the fire is unclear, but the summary does not mention this. This is inconsistent, as the article provides more information about the situation but the summary does not.
+1. The article states that "at least three people have been injured" and "one is reported to be seriously hurt." This implies that there are more than three people who have been injured, but the exact number is not given. Therefore, the summary statement "150 passengers" is not consistent with the article, as it implies that all 150 passengers were injured, which is not supported by the article.
+2. The article states that "the passengers and crew on the life rafts eventually boarded one of the ferries, the Puglia." This implies that not all 150 passengers were on the Sorrento when the fire broke out, as some must have been rescued on life rafts. Therefore, the summary statement "abandon ship" is not consistent with the article, as it implies that all 150 passengers were on the Sorrento when they had to abandon it, which is not supported by the article.
+3. The article states that "the passengers and crew on the life rafts eventually boarded one of the ferries, the Puglia." This implies that the total number of people rescued is less than 150, as some passengers must have been rescued on life rafts. Therefore, the summary statement "150" is not consistent with the article, as it implies that the total number of people rescued is 150, which is not supported by the article.
 
-Overall, the summary is not consistent with the article because it omits important details and provides inaccurate information.
+Therefore, the two spans in the summary that have consistency issues are "150 passengers" and "150". These statements are not supported by the information in the article, and therefore the summary is not consistent with the article.
 
 ###Corrected:

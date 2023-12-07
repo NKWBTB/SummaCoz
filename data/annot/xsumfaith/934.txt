@@ -16,14 +16,19 @@ Managing director James Freeman said: "We are hoping we will have a full service
 a man has been killed in a crash on the m4 in berkshire, south wales police has said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "a man has been killed in a crash on the m4 in berkshire, south wales police has said"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the incident occurred on the A36 road in Bath, while the summary claims that the incident occurred on the M4 in Berkshire. This is a clear inconsistency as the M4 is located in a different location and is not mentioned in the article.
-2. The article states that the incident occurred at 03:00 GMT and the road was closed until 14:00 GMT, while the summary does not mention any specific time or road closure.
-3. The article mentions that investigations are underway into how the collision happened, while the summary does not provide any information about the cause of the incident.
-4. The article mentions that First Bus services were affected by the incident, while the summary does not mention anything about bus services.
-5. The article quotes a managing director of First, James Freeman, while the summary does not provide any quotes or information about the people involved in the incident.
+1. The article is about a crash on the A36 road in Bath, Avon and Somerset Police have closed the Lower Bristol Road, and the investigation is ongoing.
+2. The summary states that a man has been killed in a crash on the M4 in Berkshire, which is a different location and road altogether.
+3. The article does not mention anything about the M4 or Berkshire, so this information in the summary is not supported by the article.
+4. Therefore, the summary is not consistent with the article, and the spans highlighted in the consistency issues are the ones that do not match the information in the article.
 
-Therefore, based on these inconsistencies, it is clear that the summary is not consistent with the article and was likely written based on incomplete or inaccurate information.
+Overall, the summary contains incorrect information about the location and details of the crash, which is not supported by the article.
 
 ###Corrected:

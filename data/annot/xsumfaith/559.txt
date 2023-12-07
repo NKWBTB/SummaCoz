@@ -21,13 +21,22 @@ Washington had only been to the country once before his international bow agains
 northern ireland striker conor washington counts himself a lucky man as he prepares to head to euro 2016.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "as he prepares to head to euro 2016",
+  "counts himself a lucky man as he prepares to head to euro 2016",
+  "northern ireland striker conor",
+  "northern ireland striker conor washington counts himself a lucky man as he prepares to head to euro 2016"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Conor Washington is a Northern Ireland striker, but the article does not mention anything about him playing for Northern Ireland.
-2. The summary mentions that Washington is preparing to head to Euro 2016, but the article does not mention anything about him being selected for the tournament.
-3. The article states that Washington made his international debut for Northern Ireland in March, but the summary does not mention this.
-4. The summary does not provide any specific information about Washington's achievements or why he considers himself a lucky man.
+1. "as he prepares to head to euro 2016": The article does not mention anything about Euro 2016. The player is preparing to play for Northern Ireland, but there is no mention of any specific tournament.
+2. "counts himself a lucky man as he prepares to head to euro 2016": The article does not mention the player considering himself lucky. The player is quoted as saying "life doesn't get much better" and "I'm proud of my achievements," but there is no mention of luck.
+3. "northern ireland striker conor": The article does not mention the player's position as a striker. The player is mentioned as a "postman" and "former non-League player" in the article.
+4. "northern ireland striker conor washington counts himself a lucky man as he prepares to head to euro 2016": This sentence is not consistent with the article because it mentions the player preparing to head to Euro 2016, which is not mentioned in the article. Additionally, the article does not mention the player considering himself lucky.
 
-Therefore, the summary is not consistent with the article. The summary does not provide accurate information about Washington's international career or his feelings about his achievements.
+Overall, the summary is not consistent with the article because it includes information that is not present in the article, such as the player preparing to head to Euro 2016 and considering himself lucky.
 
 ###Corrected:

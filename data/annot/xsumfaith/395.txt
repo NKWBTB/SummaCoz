@@ -22,12 +22,22 @@ Subscribe to the BBC Sport newsletter to get our pick of news, features and vide
 arsenal manager arsene wenger says he is ``very happy\'\'about his future as manager of the club.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "arsenal manager arsene",
+  "manager of the club",
+  "his"
+]
 
-1. The summary states that Arsene Wenger is "very happy" about his future as Arsenal manager.
-2. However, the article states that Wenger's club contract runs until the summer, and he has been linked with the England manager job.
-3. The article quotes Wenger as saying that he focuses on his job and that the most important thing is the person's competency, suggesting that he is not guaranteeing his long-term future at Arsenal.
-4. Furthermore, the article mentions that Wenger will offer a new contract to Hector Bellerin, which contradicts the summary's statement that Wenger is "very happy" about his future.
-5. Therefore, the summary is not consistent with the article, as it does not accurately reflect Wenger's comments about his future at Arsenal.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "arsenal manager arsene": The summary mentions "arsenal manager arsene", but the article does not mention Arsene Wenger's name until the third paragraph. The correct phrase should be "Arsene Wenger, the Arsenal manager".
+2. "manager of the club": The summary mentions "manager of the club", but the article does not use this phrase. Instead, the article refers to Wenger as "the Arsenal manager" or simply "Wenger".
+3. "his": The summary mentions "his", but the article does not use the word "his" to refer to Wenger. Instead, the article uses "he" or "Wenger" to refer to the Arsenal manager.
+
+Therefore, the correct summary should be:
+
+"Arsene Wenger, the Arsenal manager, says he is'very happy' about his future with the club."
 
 ###Corrected:

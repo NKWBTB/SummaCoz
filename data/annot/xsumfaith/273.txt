@@ -29,12 +29,22 @@ The Sir Edward Heath Charitable Foundation, which operates the museum at Arundel
 the former head of the child sex abuse inquiry, sir edward heath, has called on the uk government to investigate allegations of child sex abuse.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "former head of the child sex abuse inquiry, sir edward heath",
+  "government",
+  "former head",
+  "sir edward heath"
+]
 
-1. The summary states that the former head of the child sex abuse inquiry, Sir Edward Heath, has called on the UK government to investigate allegations of child sex abuse.
-2. However, the article states that Sir Edward Heath is deceased and has been since 2005. Therefore, it is not possible for him to have called on the government to investigate anything.
-3. The summary is not consistent with the article because it implies that Sir Edward Heath is still alive and capable of making requests, when in fact he has been deceased for over 15 years.
-4. The article does mention that there are ongoing investigations into allegations of child sex abuse, but these investigations are not related to Sir Edward Heath himself, as he is not a subject of the investigations.
-5. Therefore, the summary is not accurate and does not reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "former head of the child sex abuse inquiry, sir edward heath": The article does not mention that Sir Edward Heath was the "former head" of any child sex abuse inquiry. In fact, the article states that he was a former Prime Minister, not the head of any inquiry.
+2. "government": The article does not mention the UK government investigating allegations of child sex abuse. Instead, it states that the UK's ongoing independent inquiry into child sexual abuse, chaired by Justice Lowell Goddard, is examining claims about Sir Edward.
+3. "former head": The article does not use the phrase "former head" to describe Sir Edward Heath. It simply states that he was a former Prime Minister.
+4. "sir edward heath": The article does not mention Sir Edward Heath's name in the context of the child sex abuse inquiry. The only mention of his name is in the context of the allegations against him, which the article states are being investigated.
+
+Therefore, the summary is not consistent with the article. The summary falsely implies that Sir Edward Heath was the head of a child sex abuse inquiry, and that the UK government is investigating allegations of child sex abuse. In reality, the article states that the ongoing independent inquiry into child sexual abuse is examining claims about Sir Edward, and that there have been no direct allegations against him.
 
 ###Corrected:

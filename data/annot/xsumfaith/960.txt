@@ -14,13 +14,22 @@ Mourne Mountain Rescue Team, Belfast Coastguard, Irish coastguard, PSNI and the 
 a man has been airlifted to hospital after falling from cliffs in the mourne mountains in the firth of forth.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "in the firth of forth",
+  "firth of forth",
+  "falling from cliffs",
+  "after falling from cliffs in the mourne mountains in the firth of forth"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the casualty was airlifted off Slieve Gullion, which is located in the Mourne Mountains in Northern Ireland.
-2. The summary states that the casualty fell from cliffs in the Mourne Mountains in the Firth of Forth.
-3. The Firth of Forth is a large estuary located in Scotland, not Northern Ireland.
-4. Therefore, the summary is not consistent with the article because it places the location of the incident in the wrong country.
+1. "in the firth of forth" - The article does not mention the Firth of Forth at all. The location of the incident is specified as Slieve Gullion in the Mourne Mountains, which is in Northern Ireland.
+2. "firth of forth" - As mentioned above, the article does not mention the Firth of Forth. The word "firth" is not used at all in the article.
+3. "falling from cliffs" - The article states that the casualty had a "serious leg injury", but it does not specify how the injury occurred. The word "falling" is not used in the article.
+4. "after falling from cliffs in the mourne mountains in the firth of forth" - As we've seen, the article does not mention the Firth of Forth or falling from cliffs. The sentence is a combination of elements that are not present in the article.
 
-So, the reason why the summary is not consistent with the article is that it provides incorrect information about the location of the incident.
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article. The correct summary should only include information that is supported by the article.
 
 ###Corrected:

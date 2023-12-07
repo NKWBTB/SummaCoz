@@ -14,13 +14,25 @@ So far they've spotted shrimp, jellyfish and black pillow lava from an underwate
 scientists are taking pictures of deep-sea underwater exploration.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "scientists are taking pictures",
+  "scientists are taking pictures of deep-sea underwater exploration",
+  "scientists"
+]
 
-1. The article states that the team is sending down a robotic submarine called Deep Discoverer with a camera on it to explore the Mariana Trench.
-2. The purpose of the expedition is to explore the trench and look for things like fish, mud volcanoes, and deep sea coral.
-3. The article mentions that the team has already spotted shrimp, jellyfish, and black pillow lava from an underwater eruption.
-4. The summary, on the other hand, simply states that scientists are taking pictures of deep-sea underwater exploration.
-5. There is no mention of the specific expedition or the findings in the summary, which suggests that the summary is not consistent with the article.
-6. Therefore, the reason why the summary is not consistent with the article is that it does not provide any specific information about the expedition or the findings, but rather just a general statement about scientists taking pictures of deep-sea underwater exploration.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. The article states that a team has been sending down a robotic submarine called Deep Discoverer with a camera on it to explore the Mariana Trench.
+2. The purpose of the expedition is to look for things like fish, mud volcanoes, and deep sea coral.
+3. So far, the team has spotted shrimp, jellyfish, and black pillow lava from an underwater eruption.
+4. The summary states that "scientists are taking pictures of deep-sea underwater exploration."
+5. However, the article does not mention anything about scientists taking pictures. Instead, it mentions that the team is sending down a robotic submarine with a camera to explore the trench.
+6. Therefore, the phrase "scientists are taking pictures" is not supported by the article, as it is the team that is sending down the submarine with a camera, not scientists.
+7. Similarly, the phrase "scientists are taking pictures of deep-sea underwater exploration" is also not consistent with the article, as the team is exploring the trench with the submarine, not scientists.
+8. Finally, the word "scientists" is also not consistent with the article, as the team is sending down the submarine, not scientists.
+
+Therefore, the summary has consistency issues in the phrases "scientists are taking pictures", "scientists are taking pictures of deep-sea underwater exploration", and "scientists".
 
 ###Corrected:

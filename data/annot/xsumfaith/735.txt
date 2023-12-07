@@ -15,11 +15,18 @@ Read more from Karishma: Why a story about bulk shipping matters
 the international monetary fund (imf) has warned that the global economy faces a growing ``risk of economic derailment\'\'and must take steps to boost global demand.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "to boost",
+  "warned"
+]
 
-1. The summary states that the IMF has warned of a "risk of economic derailment" and calls for steps to boost global demand.
-2. The article does not mention anything about the IMF warning of an economic derailment risk or calling for steps to boost global demand. Instead, it states that the IMF has downgraded its forecast for global growth and highlights the weakening baseline of the global economy.
-3. The summary is not consistent with the article because it presents a different message from the IMF. The article presents a more pessimistic view of the global economy, while the summary presents a more optimistic view.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "to boost" - The summary states that the IMF must take steps to boost global demand, but the article does not mention anything about boosting demand. Instead, it talks about the IMF downgrading its forecast for global growth.
+2. "warned" - The summary states that the IMF warned about the risk of economic derailment, but the article does not use the word "warned." Instead, it quotes David Lipton as saying that the IMF's latest reading of the global economy shows a weakening baseline and that they are at a delicate juncture.
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article. The article does not mention the IMF taking steps to boost demand or using the word "warned."
 
 ###Corrected:

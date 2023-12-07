@@ -21,10 +21,25 @@ He said groundings were an issue with seamanship, which had been resolved.
 shopkeepers near the isle of wight\'s troubled new ``floating bridge\'\'have asked councillors to consider compensating them for loss of business.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "isle of wight\\'s",
+  "floating bridge"
+]
 
-1. The summary states that shopkeepers near the Isle of Wight's new floating bridge have asked councillors to consider compensating them for loss of business.
-2. The article does not mention anything about shopkeepers asking for compensation. Instead, it reports that the council leader has ordered a review of the project by auditors and that there have been teething problems with the ferry, including breakdowns, groundings, and training issues.
-3. Therefore, the summary is not consistent with the article, as it does not accurately reflect the content of the article. Specifically, it omits the fact that the council leader has ordered a review of the project and that there have been teething problems with the ferry, and instead focuses on the request for compensation, which is not mentioned in the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "isle of wight's" - The article never uses the possessive form "isle of wight's" to refer to the Isle of Wight. Instead, it uses "the Isle of Wight" or "Isle of Wight" without the possessive apostrophe. Therefore, the summary should not have used "isle of wight's" in this context.
+2. "floating bridge" - The article never uses the term "floating bridge" to describe the new vessel. Instead, it uses "chain ferry" or "the crossing" to refer to the new link between East Cowes and Cowes. Therefore, the summary should not have used "floating bridge" in this context.
+
+Overall, the summary is not consistent with the article because it uses possessive forms and terms that are not present in the article. To make the summary consistent with the article, the following changes could be made:
+
+1. Replace "isle of wight's" with "the Isle of Wight" or "Isle of Wight".
+2. Replace "floating bridge" with "chain ferry" or "the crossing".
+
+Here's the revised summary:
+
+shopkeepers near the Isle of Wight have asked councillors to consider compensating them for loss of business due to the problems with the new chain ferry.
 
 ###Corrected:

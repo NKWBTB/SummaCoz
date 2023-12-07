@@ -20,13 +20,18 @@ It operates three ferries and two cargo boats to the Northern Isles on a route w
 an agreement has been reached to ensure foreign workers on freight boats serving orkney and shetland are paid at least the minimum wage.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "orkney and shetland",
+  "foreign"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that "all crew members will be paid at least the minimum wage" under the new charter arrangement.
-2. However, the summary claims that only foreign workers on freight boats will be paid at least the minimum wage.
-3. The article does not mention anything about foreign workers specifically; it only mentions "crew members" who will be paid the minimum wage.
-4. Therefore, the summary is not consistent with the article, as it narrows the scope of the agreement to only apply to foreign workers, while the article states that all crew members will be paid the minimum wage, without any mention of nationality.
+1. "orkney and shetland": The article does not mention "orkney and shetland" as specific locations where the freight boats operate. Instead, it mentions "the Northern Isles" as the destination of the ferries and cargo boats. Therefore, the summary's reference to "orkney and shetland" is not supported by the article.
+2. "foreign workers": The article does not mention the nationality of the crew members. It only mentions that Seatruck, the contracted operator, argued that the national minimum wage was not applicable to the crew, many of whom are non-UK residents. The summary's reference to "foreign workers" is not supported by the article.
 
-Conclusion: The summary is not consistent with the article because it restricts the application of the agreement to only foreign workers, while the article does not make any such distinction.
+Therefore, the summary is not consistent with the article because it includes two spans that are not supported by the information in the article.
 
 ###Corrected:

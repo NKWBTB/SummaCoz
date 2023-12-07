@@ -22,12 +22,21 @@ The report said the gases ignited as they came into contact with the hot surface
 the restoration of glasgow school of art\'s (gsa) mackintosh building in glasgow has been given the go-ahead by the scottish government.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "go-ahead by the scottish government",
+  NaN
+]
 
-1. The summary states that the restoration of Glasgow School of Art's (GSA) Mackintosh building has been given the go-ahead by the Scottish government.
-2. However, the article does not mention anything about the Scottish government giving the go-ahead for the restoration. Instead, it talks about the Garfield Weston Foundation donating £500,000 to the Mackintosh Campus Appeal.
-3. Therefore, the summary is not consistent with the article, as it implies that the Scottish government has approved the restoration, while the article only mentions a private donation to the appeal.
-4. The article does mention that the Mackintosh building was damaged by fire and that contractors are working to restore it, but there is no mention of any official approval or funding from the Scottish government for the restoration.
-5. The summary is not accurate, as it does not reflect the content of the article. The article does not mention the Scottish government giving the go-ahead for the restoration, but instead focuses on the private donation to the appeal.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the Mackintosh Campus Appeal aims to raise £32m to restore the Mackintosh building, which was damaged by fire in 2014.
+2. The article does not mention anything about the Scottish government giving the go-ahead for the restoration. In fact, the only mention of the government is a quote from the Secretary of State for Scotland, David Mundell, who is hosting a fundraising event for the Mackintosh Campus Project in London.
+3. Therefore, the statement in the summary that the restoration has been given the go-ahead by the Scottish government is not supported by the article.
+4. Additionally, the summary states that the Mackintosh building was damaged by a canister of expanding foam, which is not mentioned in the article. The article only mentions that the fire was caused by flammable gases from a canister of expanding foam.
+5. Finally, the summary does not mention the Garnethill community or the fact that the Glasgow School of Art sits at the heart of the community, which is a key point in the article.
+
+Overall, the summary does not accurately reflect the information in the article, and there are several inconsistencies and inaccuracies in the summary.
 
 ###Corrected:

@@ -17,15 +17,24 @@ Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or if you have a
 the number of transgender and minority characters in the us has increased by more than a third in the year, according to a new report.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "us",
+  "more than a third",
+  "minority characters in the us",
+  "more than a third in the year"
+]
+
 Explain your reasoning step by step:[/INST]
   Sure! Here's my reasoning step by step:
 
-1. The article states that the number of transgender characters has risen from 7 to 16 this year.
-2. The article also states that more than 25 lesbian and bisexual female characters died or were killed off.
-3. The summary does not mention the increase in transgender characters, nor does it mention the deaths of lesbian and bisexual female characters.
-4. The summary only mentions an increase in the number of transgender and minority characters, without providing any specific numbers or details.
-5. Therefore, the summary is not consistent with the article, as it does not accurately reflect the findings of the Glaad report.
+1. "us": The article does not mention the United States specifically. The study analyzed scripted broadcast, cable, and streaming series in the US, but the article does not limit the findings to the US. The summary should not have included "us" to make it more inclusive.
+2. "more than a third": The article states that the number of transgender characters has risen from seven to 16, which is an increase of 117.64% (not "more than a third"). The summary should have used the correct percentage increase instead of a rough estimate.
+3. "minority characters in the us": The article does not mention "minority characters" specifically. The study found a record high percentage of black characters on broadcast television, but the article does not limit the findings to black characters. The summary should not have included "minority characters" to make it more inclusive.
+4. "more than a third in the year": The article states that the number of transgender characters has risen from seven to 16, which is an increase of 117.64% in one year. The summary should have used the correct time frame instead of "in the year" to make it more precise.
 
-Overall, the summary is too general and does not provide enough specific information to be considered consistent with the article.
+Therefore, the summary should have been written as follows to ensure consistency with the article:
+
+"The number of transgender characters has increased by 117.64% in one year, according to a new report. The study found a record high percentage of black characters on broadcast television."
 
 ###Corrected:

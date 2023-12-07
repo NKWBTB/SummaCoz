@@ -31,16 +31,22 @@ They can purchase foreign exchange equivalent to 5,000 rupees using these bank n
 india\'s prime minister narendra modi has said he will not seek a new $ 500 (Â # anti-corruption ; $ exchange) payment to the country\'s banks.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "prime minister narendra"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the summary has consistency issues:
 
-1. The summary states that India's Prime Minister Narendra Modi will not seek a new $500 payment to the country's banks.
-2. However, the article states that the government has announced a surprise move to withdraw the legal tender status of the 500 and 1,000 rupee notes, effective immediately.
-3. The article also mentions that people can exchange their old notes at banks until December 30, but there are limits on cash withdrawals from ATMs and banks.
-4. The article does not mention anything about a new $500 payment to the country's banks.
-5. Therefore, the summary is not consistent with the article because it mentions a new $500 payment, which is not mentioned in the article.
+1. "prime minister narendra" should be "Prime Minister Narendra" (capitalized) because it is a proper noun and the name of a specific person.
+2. The hashtag symbol # is not used in the original article, so it should not be included in the summary.
+3. The phrase "anti-corruption" should be hyphenated as "anti-corruption" in the summary, as it is in the article.
 
-Reasoning:
+Here's the corrected summary:
 
-The summary is not consistent with the article because it contains information that is not present in the article. The article does not mention a new $500 payment to the country's banks, but the summary states that the Prime Minister will not seek such a payment. This discrepancy indicates that the summary is not an accurate representation of the article's content.
+"Prime Minister Narendra Modi has said he will not seek a new $500 exchange payment to the country's banks."
+
+I hope this helps! Let me know if you have any other questions.
 
 ###Corrected:

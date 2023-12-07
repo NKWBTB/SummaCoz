@@ -22,13 +22,22 @@ With that fact in mind, questions have been raised as to whether that condition 
 a post mortem examination revealed many clouds died from bleeding on the lung but that the 2015 grand national winner had no underlying health problems.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "post mortem examination",
+  "\\na post mortem examination revealed many clouds died from bleeding on the lung but that the 2015 grand national winner had no underlying health problems",
+  "2015",
+  "a post mortem examination revealed many clouds died from bleeding on the lung but that the 2015"
+]
 
-1. The summary states that Many Clouds died from bleeding on the lung (consistent with the article).
-2. However, the summary also states that the horse had no underlying health problems (inconsistent with the article).
-3. The article states that Many Clouds had shown symptoms of post-race ataxia in the past, which had seen him over-heat and "wobble" on his feet. This suggests that the horse had some underlying health issues.
-4. The article also mentions that Many Clouds had received treatment for a tendency to 'overheat' on more than one occasion, particularly after his Grand National success.
-5. Therefore, based on the information in the article, it is not accurate to say that Many Clouds had no underlying health problems.
-6. The inconsistency between the summary and the article is likely due to the summary omitting or simplifying information from the article, rather than the article containing incorrect information.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "post mortem examination" - The article does not mention a "post mortem examination". Instead, it states that the horse was treated by veterinary staff before being pronounced dead, and that the British Horseracing Authority confirmed the horse suffered from a "severe pulmonary haemorrhage".
+2. "but that the 2015 grand national winner had no underlying health problems" - This sentence is not supported by the article. The article states that Many Clouds had previously shown symptoms of post-race ataxia, which had seen him over-heat and "wobble" on his feet, but it does not mention any underlying health problems.
+3. "2015" - This word is not mentioned in the article.
+4. "a post mortem examination revealed many clouds died from bleeding on the lung" - This sentence is not supported by the article. The article states that the horse suffered from a "severe pulmonary haemorrhage", but it does not mention a post mortem examination.
+
+Overall, the summary is not consistent with the article because it includes information that is not present in the article, and omits information that is present in the article. Specifically, the summary states that Many Clouds had no underlying health problems, which is not supported by the article, and it mentions a post mortem examination, which is not mentioned in the article.
 
 ###Corrected:

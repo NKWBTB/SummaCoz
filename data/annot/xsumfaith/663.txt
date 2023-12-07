@@ -12,19 +12,20 @@ But another McManus finish and one by Denny Johnstone late on ensured a comforta
 declan mcmanus scored twice as greenock morton beat scottish championship bottom side alloa athletic, who remain 10 points adrift.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "\\ndeclan mcmanus scored twice as greenock morton beat scottish championship bottom side alloa athletic, who remain 10 points adrift",
+  "declan mcmanus scored twice as greenock morton beat scottish championship bottom side alloa athletic, who remain 10 points adrift"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Declan McManus scored twice for Greenock Morton in their win against Alloa Athletic.
-2. The article does not mention Declan McManus as one of the goalscorers for Morton. Instead, it mentions McManus netting from close range on the quarter-hour mark, but does not specify that he scored twice.
-3. The article mentions Ross Forbes' deflected strike as the second goal for Morton, but the summary does not include this information.
-4. The summary states that Alloa remain 10 points adrift, but the article does not mention this information.
+1. The article states that "McManus netted from close range on the quarter-hour mark to open the scoring." However, the summary states "declan mcmanus scored twice." This is inconsistent because the article only mentions one goal scored by McManus.
+2. The article also states "Ross Forbes' deflected strike quickly doubled Morton's lead." However, the summary does not mention this goal at all. This is inconsistent because the article mentions a second goal scored by Morton, but the summary does not include this information.
+3. The article states "A shot by Kyle McAusland pulled Alloa back into the game before half-time." However, the summary does not mention this goal at all. This is inconsistent because the article mentions a goal scored by Alloa, but the summary does not include this information.
+4. The article states "But another McManus finish and one by Denny Johnstone late on ensured a comfortable win for the hosts." However, the summary only mentions one goal scored by McManus. This is inconsistent because the article mentions two goals scored by McManus, but the summary only includes one.
 
-Therefore, the summary is not consistent with the article because it:
-
-* Incorrectly states that Declan McManus scored twice, when the article only mentions one goal for him.
-* Omits Ross Forbes' goal, which is mentioned in the article.
-* Includes information about Alloa's position in the table, which is not present in the article.
-
-Overall, the summary is not an accurate representation of the article's content.
+Therefore, the summary is not consistent with the article because it does not accurately reflect the information provided in the article. Specifically, it misrepresents the number of goals scored by McManus and does not include information about the other goals scored in the match.
 
 ###Corrected:

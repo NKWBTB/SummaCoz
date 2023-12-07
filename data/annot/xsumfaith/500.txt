@@ -18,14 +18,20 @@ In 2007, a 14-year-old schoolboy was shot dead by two fellow students at a schoo
 a man arrested on suspicion of shooting a female student dead and wounding another at a school in india has been remanded in custody.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "dead",
+  "india",
+  "at a school"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the man was arrested on suspicion of shooting a female student dead and wounding another at a school in India.
-2. However, the article states that the alleged gunman, Mahesh, was working as an office assistant in the school and barged into the room of 18-year-old Gautami and shot her in the head with a pistol on Tuesday evening.
-3. The article does not mention anything about the man being arrested on suspicion of the shooting. Instead, it states that Mahesh was arrested on Wednesday after a manhunt.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the events described in the article. Specifically, it does not mention the name of the alleged gunman, Mahesh, or the fact that he was an office assistant in the school.
-5. Additionally, the summary states that the man was arrested on suspicion of shooting a female student dead, but the article does not mention the word "suspicion." Instead, it states that Mahesh was arrested after a manhunt.
+1. "dead" - The article states that one of the students, Gautami, was shot in the head and is believed to be dead, but the summary only mentions that she was "shot dead". This is a consistency issue because the summary should match the language used in the article.
+2. "india" - The article mentions that the shooting took place in Bangalore city, India, but the summary simply says "in india". This is a consistency issue because the summary should provide more specific information about the location of the shooting.
+3. "at a school" - The article states that the shooting occurred at a hostel attached to the private Pragati Residential School, but the summary only mentions "at a school". This is a consistency issue because the summary should provide more specific information about the location of the shooting.
 
-Overall, the summary is not consistent with the article because it does not accurately reflect the events described in the article and includes words and phrases that are not present in the article.
+Overall, the summary does not accurately reflect the information provided in the article, and there are consistency issues with the language and specificity of the information presented.
 
 ###Corrected:

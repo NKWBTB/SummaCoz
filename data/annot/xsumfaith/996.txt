@@ -26,14 +26,22 @@ Palestinian Authority President Mahmoud Abbas has said the resolution "paves the
 israel\'s security council has rejected a proposal by the us government to press ahead with a resolution calling for an end to the construction of a two-state solution.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "us government",
+  NaN,
+  "israel\\'s security council"
+]
 
-1. The summary states that Israel's Security Council has rejected a proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution.
-2. However, the article states that the US did not propose such a resolution. Instead, the Security Council passed a resolution that condemned Israel's settlement construction in the West Bank and East Jerusalem, which Israel rejected.
-3. Therefore, the summary is not consistent with the article, as there was no proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution.
-4. The article explains that the Security Council passed a resolution that condemned Israel's settlement construction, which Israel rejected. The US did not propose the resolution, but instead abstained from voting.
-5. The summary misrepresents the events by suggesting that Israel rejected a proposal by the US government, which is not accurate.
-6. The article also mentions that Israel has responded to the resolution by summoning the ambassadors of the US and the 14 countries on the Security Council who voted in favour of the resolution, recalling Israel's ambassadors to New Zealand and Senegal, cutting aid to Senegal, and cancelling a visit by Ukraine's prime minister. These actions suggest that Israel is angry about the resolution and is taking steps to protest it.
-7. In conclusion, the summary is not consistent with the article, as there was no proposal by the US government to press ahead with a resolution calling for an end to the construction of a two-state solution. The article explains that the Security Council passed a resolution that condemned Israel's settlement construction, which Israel rejected, and that the US abstained from voting.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that the US chose not to veto a UN Security Council resolution calling for an end to settlement construction. This means that the US government did not support the resolution, but instead allowed it to pass.
+2. The article also states that Israel rejected the resolution, and that the Jerusalem Planning and Housing Committee had indicated it would press ahead with a planned vote on authorising 492 new homes in the settlements of Ramat Shlomo and Ramot. This means that Israel did not support the resolution either.
+3. The summary states that the "us government" proposed a resolution calling for an end to the construction of a two-state solution. This is not consistent with the article, as the US government did not propose such a resolution. Instead, the US allowed a resolution calling for an end to settlement construction to pass.
+4. The summary also states that the "israel's security council" rejected the proposal. This is also not consistent with the article, as there is no such thing as an "israel's security council". The UN Security Council, which is made up of representatives from various countries, passed the resolution.
+5. Finally, the summary states that the proposal was for a two-state solution, but this is not mentioned in the article at all. The article only discusses the resolution calling for an end to settlement construction.
+
+Overall, the summary is not consistent with the article because it misrepresents the actions of the US government, Israel, and the UN Security Council. It also introduces a new concept (a two-state solution) that is not mentioned in the article.
 
 ###Corrected:

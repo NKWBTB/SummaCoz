@@ -31,14 +31,18 @@ Replacements: 16-Badri Alkhazashvili, 17-Kakha Asieshvili, 18-Dudu Kubriashvili,
 scotland moved to the top of the scottish premiership with a hard-fought victory over scotland.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "top of the scottish premiership",
+  "over scotland"
+]
+
 Explain your reasoning step by step:[/INST]
-  Based on the provided article and summary, it is clear that the summary is not consistent with the article. Here's why:
+  Sure! Here's why the spans in the summary have consistency issues:
 
-1. Inconsistent information: The summary states that Scotland moved to the top of the Scottish Premiership, but the article does not mention anything about the Premiership. Instead, it talks about Scotland's victory over Georgia in an international rugby match.
-2. Incorrect sport: The summary mentions "scottish premiership," which is a fictional sport. There is no such thing as the Scottish Premiership in real life. The article, on the other hand, is about a real rugby match between Scotland and Georgia.
-3. Incorrect teams: The summary mentions "scotland" and "georgia," but the article is about Scotland playing against Georgia in a rugby match. The summary does not accurately reflect the teams that played in the match.
-4. Incorrect outcome: The summary states that Scotland won, but the article does not mention a victory for Scotland. Instead, it talks about Scotland's dominant performance and their scoring of several tries.
+1. "top of the scottish premiership": The article does not mention the Scottish Premiership. Instead, it talks about Scotland and Georgia playing a rugby match.
+2. "over scotland": The article does not mention Scotland being "over" anyone. The Scottish team won the match, but there is no mention of them being "over" their opponents.
 
-Overall, the summary is not consistent with the article because it contains incorrect information about the sport, teams, and outcome of the match.
+The summary is not consistent with the article because it implies that Scotland is a team that plays in the Scottish Premiership, which is not mentioned in the article. Additionally, the summary uses the phrase "over scotland," which is not accurate based on the content of the article.
 
 ###Corrected:

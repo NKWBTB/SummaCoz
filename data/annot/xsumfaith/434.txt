@@ -82,12 +82,20 @@ Robbie Savage was speaking to BBC Sport's Chris Bevan
 liverpool\'s premier league title rivals, liverpool, liverpool and liverpool are one of the premier league\'s top clubs in the premier league.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "rivals"
+]
 
-1. The summary provided is not consistent with the article.
-2. The summary mentions "Liverpool's premier league title rivals" four times, but the article does not mention any specific teams as title rivals.
-3. The summary also mentions "Liverpool" five times, but the article only mentions the team once, in the context of Brendan Rodgers' management.
-4. The summary states that the team is one of the premier league's top clubs, but the article does not mention any specific achievements or successes that would support this claim.
-5. Therefore, the summary is not consistent with the article, and it appears to be a poorly written and inaccurate summary of the article's content.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning for why the spans in the summary have consistency issues:
+
+1. "rivals" - This word is not consistent with the rest of the summary, which focuses on Liverpool's performance and their chances of winning the Premier League title. The word "rivals" implies that there are other teams competing with Liverpool for the title, which is not accurately reflected in the summary.
+
+Here's a revised version of the summary that addresses this issue:
+
+Liverpool's Premier League title hopes are on the line this weekend as they face Chelsea. Despite their poor form in recent weeks, the Reds are still in the hunt for a top-four finish and a chance to qualify for the Champions League.
+
+This revised summary is more consistent with the original article, which focuses on Liverpool's performance and their chances of winning the Premier League title. The word "rivals" is not needed, as it is not accurately reflected in the summary.
 
 ###Corrected:

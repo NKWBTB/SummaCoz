@@ -19,11 +19,24 @@ Subscribe to the BBC Sport newsletter to get our pick of news, features and vide
 great britain\'s jung jung won olympic gold in the men\'s fox-pitt at the rio olympics.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "great britain\\'s jung jung won olympic gold in the men\\'s fox-pitt at the rio olympics"
+]
 
-1. The summary states that Great Britain's Jung Jung won Olympic gold in the men's fox-pitt at the Rio Olympics.
-2. However, the article does not mention anything about a rider named Jung Jung competing in the Olympics, nor does it mention any gold medal wins for Great Britain in the men's fox-pitt event.
-3. The article does mention a rider named William Fox-Pitt, who competed in the event and finished 12th overall.
-4. Therefore, the summary is not consistent with the article, as there is no mention of a rider named Jung Jung or any gold medal wins for Great Britain in the men's fox-pitt event.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that Great Britain's William Fox-Pitt finished 12th in the men's event, not that Great Britain won Olympic gold.
+
+2. The summary states that Great Britain won Olympic gold, which is not supported by the article.
+
+3. The article does not mention a rider named "Jung Jung" or any other rider winning Olympic gold.
+
+4. The article does mention that Fox-Pitt was competing just 10 months after being placed in an induced coma following a fall, but the summary does not include this information.
+
+5. The article mentions that Fox-Pitt led after the dressage phase but dropped to 21st after incurring several time penalties in the cross-country phase, which is not mentioned in the summary.
+
+Therefore, the summary is not consistent with the article because it falsely states that Great Britain won Olympic gold and does not accurately represent the performance of William Fox-Pitt.
 
 ###Corrected:

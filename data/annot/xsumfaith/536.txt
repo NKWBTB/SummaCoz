@@ -67,14 +67,20 @@ Billy McKay (Inverness CT) wins a free kick in the attacking half.
 premiership bottom side inverness caledonian thistle moved to within four points of opponents hamilton academical with three games to play.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "premiership bottom side inverness caledonian",
+  "three games to play"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure, I'd be happy to help! Here's why the provided summary is not consistent with the article:
+  Sure! Here's why the following spans in the summary have consistency issues:
 
-1. Inconsistent language: The summary states that Inverness Caledonian Thistle is a "premiership bottom side," while the article never uses the word "premiership" to describe the team. The article only mentions that Inverness is in the Scottish Championship.
-2. Incorrect scoring: The summary states that Inverness won 2-1, while the article reports the final score as 2-0.
-3. Missing information: The summary does not mention the names of the players who scored for Inverness, while the article reports that Brad McKay and Daniel Redmond scored for the team.
-4. Incorrect context: The summary suggests that Inverness is "within four points" of Hamilton Academical, while the article states that Inverness is "four points behind" Hamilton.
+1. "premiership bottom side inverness caledonian":
+The article never uses the phrase "premiership bottom side" to describe Inverness Caledonian Thistle. The article only mentions that Inverness is "bottom of the table" or "at the bottom of the league". Therefore, the phrase "premiership bottom side" is not consistent with the article's language.
+2. "three games to play":
+The article does not mention the number of games left to play for Inverness or Hamilton. The article only mentions that Inverness has "three points" and that Hamilton is "four points" behind. Therefore, the phrase "three games to play" is not consistent with the article's focus on points rather than games.
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and inconsistencies in language, scoring, and context.
+Overall, the summary does not accurately reflect the content of the article. It uses phrases that are not consistent with the article's language and focuses on different aspects of the game (games left to play instead of points).
 
 ###Corrected:

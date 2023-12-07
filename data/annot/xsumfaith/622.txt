@@ -26,13 +26,22 @@ Tens of thousands of Iraqi civilians died over the period, though estimates vary
 an online campaign to fund possible legal action against former prime minister tony blair and other officials has reached its target of # 150,000.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "150,000",
+  "tony"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure, I'd be happy to help! Here's why the summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. Target amount: The summary states that the campaign reached its target of #150,000, but the article states that the campaign initially aimed to reach £50,000 via crowdfunding and later extended its target to £150,000.
-2. Legal action: The summary mentions possible legal action against former Prime Minister Tony Blair and other officials, but the article does not mention any specific legal action or lawsuits. Instead, it focuses on the campaign's goal of seeking answers and justice for the families of British troops killed in Iraq.
-3. Funding: The summary states that the campaign reached its target of #150,000, but the article states that the campaign received enough backing to fund the whole campaign, without specifying a specific amount.
+1. The article states that the campaign group initially aimed to raise £50,000 via crowdfunding, but extended its target after raising that amount in nine hours on the CrowdJustice website.
+2. The article does not mention any specific amount of money raised, only that the campaign has received enough backing to fund the whole campaign.
+3. The summary states that the campaign has reached its target of £150,000, which is not supported by the article.
+4. The article does mention that the campaign received enough backing to fund the whole campaign, but it does not specify the amount raised.
+5. The summary also refers to "tony blair" in the second sentence, which is not the name used in the article. The article refers to "Tony Blair" with an uppercase "T".
+6. Therefore, the two spans in the summary that have consistency issues are "150,000" and "tony".
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and exaggerations. For example, the summary mentions legal action against Tony Blair and other officials, which is not mentioned in the article. Additionally, the summary states that the campaign reached a target of #150,000, but the article does not mention a specific target amount.
+Overall, the summary does not accurately reflect the information in the article, as it mentions a specific amount of money raised that is not supported by the article, and uses a different name for the former prime minister.
 
 ###Corrected:

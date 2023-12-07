@@ -18,13 +18,19 @@ Last September, pro-government protesters attacked the offices of the daily Hurr
 gunmen have attacked two offices in the turkish capital, istanbul, killing two people and injuring several other people.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "gunmen have attacked two offices in the turkish capital, istanbul, killing two people and injuring several other people"
+]
 
-1. The article states that "No casualties were reported" in the attacks on the Yeni Safak and Yeni Akit offices.
-2. The summary states that "gunmen have attacked two offices in the Turkish capital, Istanbul, killing two people and injuring several other people."
-3. This contradicts the article, as there were no casualties reported in the attacks according to the article.
-4. The summary is not consistent with the article, as it provides information that is not supported by the article.
-5. The article states that the attacks happened early on Thursday, and the windows in both buildings were shattered by gunfire, but there is no mention of anyone being killed or injured.
-6. Therefore, the summary is not an accurate summary of the article and contains information that is not supported by the article.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that "no casualties were reported" after the attack on the Yeni Safak and Yeni Akit offices. This means that no one was killed or injured during the attack.
+2. The summary, on the other hand, states that "gunmen have attacked two offices in the Turkish capital, Istanbul, killing two people and injuring several other people." This is not consistent with the article, as there were no casualties reported.
+3. The summary also states that the attack resulted in the deaths of two people, which is not supported by the article. The article only mentions that the windows in both buildings were shattered by the gunfire and that police have cordoned off the area.
+4. The summary does not provide any information about the identity of the attackers or their motives, which is not supported by the article. The article only mentions that police are hunting the assailants and that no group has claimed responsibility for the attacks.
+
+Therefore, the summary is not consistent with the article and contains several inaccuracies.
 
 ###Corrected:

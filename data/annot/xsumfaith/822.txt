@@ -28,13 +28,18 @@ If Russia fails to prosecute anyone, it says it will file a case at the Internat
 the russian news agency novaya gazeta has said it is ``retribution\'\'against russian men detained in chechnya.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "retribution\\'\\'against",
+  NaN
+]
 
-1. The summary states that Novaya Gazeta reported that the detention of Russian men in Chechnya is "retribution" against them.
-2. However, the article states that the detentions were based on suspicions of homosexuality, and that the Chechen clerics have called for "retribution" against those who slandered the Chechen nation and clerics.
-3. The article does not mention anything about "retribution" against the detained men. Instead, it focuses on the allegations of homophobia and human rights abuses in Chechnya.
-4. Therefore, the summary is not consistent with the article, as it misrepresents the content of the article and focuses on a different aspect of the story.
-5. The summary is also not accurate, as there is no evidence in the article to suggest that the detentions were a form of "retribution" against the men. Instead, the article emphasizes the allegations of homophobia and human rights abuses.
-6. Overall, the summary is not a accurate reflection of the content of the article, and it misrepresents the story by focusing on a different aspect of the story.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary has consistency issues:
+
+1. "retribution\'" in the summary is not consistent with the article. The article uses the word "retribution" in quotes, indicating that it is a direct quote from the Russian news agency Novaya Gazeta. However, the summary omits the quotes and instead uses the word "retribution" as if it is a summary of the article's content.
+2. The word "against" in the summary is not present in the article. The article mentions "retribution" as a resolution adopted by Chechen Muslim clerics, but it does not mention anything about "against" or targeting any specific group of people.
+
+Therefore, the summary is not consistent with the article because it omits quotes and adds words that are not present in the original content.
 
 ###Corrected:

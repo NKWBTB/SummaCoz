@@ -17,16 +17,20 @@ On the same card, WBC international featherweight champion Josh Warrington defen
 britain\'s double olympic champion nicola adams will face mexico\'s maryan salazar in leeds on saturday.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "leeds on saturday",
+  "mexico\\'s maryan",
+  "britain\\'s double olympic champion nicola"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the fight will be between Britain's Nicola Adams and Mexico's Maryan Salazar, but the article does not mention anything about Salazar being from Mexico.
-2. The article states that the fight will be over four three-minute rounds, while the summary only mentions two three-minute rounds.
-3. The article quotes Adams as saying that she needs more time in each round to find her rhythm and establish her jab, but the summary does not include this information.
+1. "Leeds on Saturday" - The article does not mention the location of the fight, only that it will be over four three-minute rounds. The summary incorrectly states that the fight will take place in Leeds on Saturday.
+2. "Mexico's Maryan" - The article does not mention Maryan's nationality. The summary incorrectly adds "Mexico's" before Maryan's name.
+3. "Britain's double Olympic champion Nicola" - The article does not mention Nicola's achievements or titles. The summary incorrectly adds "Britain's double Olympic champion" before Nicola's name.
 
-Therefore, the summary is not consistent with the article because it:
-
-* Falsely claims that Salazar is from Mexico.
-* Omits the detail that the fight will be over four three-minute rounds.
-* Does not include Adams' quote about needing more time in each round.
+Therefore, the summary is not consistent with the article because it includes information that is not supported by the article. The correct summary should only include information that is directly quoted or explicitly stated in the article.
 
 ###Corrected:

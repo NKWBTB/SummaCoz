@@ -19,14 +19,23 @@ She said she looked forward to discussing the plans with AFSB.
 northern ireland\'s first minister arlene foster has announced plans for a new body body in northern ireland.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "first"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that "Northern Ireland's first minister Arlene Foster has announced plans for a new body." However, the article does not mention anything about a new body being established.
-2. The article states that the Agri-Food Strategy Board (AFSB) will develop a marketing body for the agri-food industry, but the summary does not mention the AFSB or any other organization involved in the development of the new body.
-3. The article states that the new marketing body will be industry-led and will provide strategic leadership and direction for the marketing activities of both government and private sector organisations, but the summary does not mention any of these details.
-4. The article states that the new body will be similar to the already successful Scotland Food and Drink, but the summary does not mention this.
-5. The article mentions that the Agriculture Minister Michelle O'Neill welcomed the announcement, but the summary does not mention her or any other government official's reaction to the plans.
+1. The article states that the announcement was made by Stormont's Enterprise, Trade and Investment (DETI) Minister Arlene Foster, not the "first minister" of Northern Ireland.
+2. The article does not mention the creation of a new body, only the development of a marketing body by the Agri-Food Strategy Board (AFSB).
+3. The summary incorrectly states that the new body will be in Northern Ireland, when in fact the article states that the marketing body will be developed by the AFSB.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the details of the announcement made by Arlene Foster. The summary is too brief and lacks important information about the new body, such as its purpose, composition, and how it will be developed.
+Therefore, the following spans in the summary have consistency issues:
+
+* "first" (should be "Enterprise, Trade and Investment" or "DETI")
+* "new body" (should be "marketing body" or "Agri-Food Strategy Board")
+
+Overall, the summary does not accurately reflect the information in the article.
 
 ###Corrected:

@@ -20,13 +20,25 @@ Brackfield Wood is about seven miles outside Derry city, just off the Glenshane 
 thousands of people have taken part in a protest in londonderry to help save the lives of thousands of native oak trees.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "thousands of people have taken part in a protest in londonderry to help save the lives of thousands of native oak trees",
+  "save the lives of thousands",
+  "oak",
+  "protest",
+  "oak ",
+  "thousands of people have taken part in a protest in londonderry"
+]
 
-1. The article is about the planting of thousands of native trees in Brackfield Wood in the Faughan Valley, as part of a four-year project by the Woodland Trust to commemorate the millions of people who died during WW1.
-2. The summary, however, states that thousands of people have taken part in a protest in Londonderry to save the lives of thousands of native oak trees.
-3. The article does not mention anything about a protest or oak trees. Instead, it focuses on the planting of native trees in Brackfield Wood as a tribute to the people from Ireland who lost their lives in WW1.
-4. Therefore, the summary is not consistent with the article, as it describes a completely different event (a protest to save oak trees) instead of the planting of native trees in Brackfield Wood.
-5. The reason for the inconsistency is likely that the person who wrote the summary misunderstood or misread the article, or that they intentionally changed the content of the article to fit their own agenda.
-6. In any case, the summary is not an accurate reflection of the article and should not be relied upon as a summary of the content.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "thousands of people have taken part in a protest in londonderry" - This statement is not consistent with the article because there is no mention of a protest in the article. The article only mentions a tree planting event.
+2. "to help save the lives of thousands of native oak trees" - This statement is not consistent with the article because the article does not mention anything about saving the lives of trees. The article only mentions planting trees as a tribute to the people who died in WW1.
+3. "oak" - This word is not consistent with the article because the article does not mention the specific type of tree being planted. The article only mentions "native UK trees" in general.
+4. "protest" - This word is not consistent with the article because the article does not mention anything about a protest. The article only mentions a tree planting event.
+5. "oak " - This word is not consistent with the article because there is no space between "oak" and the next word "". It should be "oak trees" instead.
+
+Overall, the summary is not consistent with the article because it contains several inaccuracies and exaggerations. The article only mentions a tree planting event, but the summary describes a protest to save the lives of trees, which is not supported by the article.
 
 ###Corrected:

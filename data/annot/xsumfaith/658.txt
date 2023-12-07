@@ -31,13 +31,26 @@ They can purchase foreign exchange equivalent to 5,000 rupees using these bank n
 the plan to withdraw high-value rupee notes in india had to be kept secret, prime minister narendra modi has said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "plan",
+  "had to be kept secret, prime minister narendra",
+  "kept secret, prime minister narendra"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the plan to withdraw high-value rupee notes in India had to be kept secret.
-2. However, the article states that Mr. Modi announced the plan suddenly on Tuesday night, and the banks were closed on Wednesday.
-3. This implies that the plan was not kept secret, as it was announced publicly and suddenly.
-4. Therefore, the summary is not consistent with the article, as it states that the plan had to be kept secret, while the article indicates that it was announced publicly.
+1. "plan" - The word "plan" is not present in the original article. The article discusses the government's decision to withdraw high-value rupee notes, but it does not mention a specific "plan" to do so. Therefore, this sentence is not consistent with the article.
+2. "had to be kept secret, prime minister narendra" - This sentence is partially consistent with the article. While the article does mention that the government's decision to withdraw high-value rupee notes was a surprise move, it does not specify that the decision had to be kept secret. Additionally, the phrase "prime minister narendra" is not present in the article.
+3. "kept secret, prime minister narendra" - This sentence is not consistent with the article. While the article does mention that the government's decision was a surprise move, it does not specify that the decision was kept secret.
 
-Note: Consistency means that all information in the summary should be supported by the article. In this case, the summary information is not supported by the article, as the plan was not kept secret but was announced publicly.
+Therefore, the summary has consistency issues with the following spans:
+
+* "plan"
+* "had to be kept secret, prime minister narendra"
+* "kept secret, prime minister narendra"
+
+These sentences do not accurately reflect the information present in the original article.
 
 ###Corrected:

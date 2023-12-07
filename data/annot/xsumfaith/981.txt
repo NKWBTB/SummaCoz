@@ -28,14 +28,26 @@ There has been intense fighting in Kunduz since Taliban fighters swept into the 
 president barack obama has called for a ``full investigation\'\'in the wake of a deadly suicide bombing in kunduz.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "barack",
+  "suicide bombing"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-The given summary is not consistent with the article because it does not accurately reflect the content of the article. Here's why:
+1. "barack" is not a word. It should be "Barack" with a capital B, as it is a proper noun referring to the name of the President.
+2. "suicide bombing" is not a accurate description of the incident. The article states that the strike may have caused "collateral damage" and mentions that the hospital was severely damaged, but it does not use the term "suicide bombing".
 
-1. The summary mentions a "suicide bombing" in Kunduz, but the article does not mention any suicide bombing. Instead, the article reports that a US military strike targeting the Taliban in Kunduz may have caused "collateral damage" and resulted in the deaths of at least 12 MSF staff members and seven patients.
-2. The summary mentions President Obama calling for a "full investigation" into the bombing, but the article does not mention any such statement from the President. Instead, the article reports that the US Department of Defense has launched an investigation into the incident.
-3. The summary does not mention the MSF hospital being damaged or the deaths of patients and staff, which are major aspects of the article.
+Therefore, the summary has consistency issues with the following spans:
 
-Therefore, the summary is not a consistent representation of the article's content. It appears to be a brief and inaccurate summary of the article, which does not accurately reflect the events described in the article.
+[ "barack" ]
+
+The correct phrase should be:
+
+[ "Barack" ]
+
+And the summary should be revised to accurately reflect the content of the article, without any inconsistencies.
 
 ###Corrected:

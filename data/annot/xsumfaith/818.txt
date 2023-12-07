@@ -19,14 +19,23 @@ Metres away people are gathered around the girl, holding her head and stroking h
 a 12-year-old girl has died after being hit by a elephant at a zoo in rabat, rabat, texas.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "texas",
+  "12-year-old"
+]
+
 Explain your reasoning step by step:[/INST]
  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the girl was taken to hospital and died within a few hours, but the summary only mentions that she was hit by an elephant at a zoo in Rabat, Texas. This is inconsistent because the article provides more information about the girl's fate, while the summary only provides a brief summary of the incident.
-2. The article mentions that the zoo stated that the enclosure met international standards and that this kind of accident is rare, unpredictable, and unusual. The summary does not include this information.
-3. The article quotes Phyllis Lee, Scientific Director of the Amboseli Trust for Elephants, as saying that targeted throwing of stones and branches by elephants is very unusual and that it can happen when elephants are frustrated or bored. The summary does not include this information.
-4. The article includes a video showing the moments after the girl was struck, which is not included in the summary.
+1. The article states that the incident occurred at a zoo in Rabat, Morocco, not Texas. The summary incorrectly locates the incident in Texas.
+2. The article does not mention the age of the girl, so the summary's reference to a "12-year-old girl" is not supported by the article.
 
-Overall, the summary does not provide a consistent summary of the article because it leaves out important details about the girl's fate, the zoo's statement, and the expert's opinion. Additionally, the summary contains inaccurate information (the girl did not die in Rabat, Texas, but in a hospital after being taken there).
+Therefore, the two spans in the summary that have consistency issues are:
+
+* "texas" (should be "Rabat, Morocco")
+* "12-year-old" (not mentioned in the article)
+
+I hope this helps! Let me know if you have any further questions.
 
 ###Corrected:

@@ -31,13 +31,29 @@ Cortez said he oversaw an "out of control" sparring session between McGregor and
 ufc lightweight champion liam bennett has said he is ``coming sprinting at you with bricks\'\'after his ufc career was rejected.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "after his ufc career was rejected",
+  "liam bennett",
+  "ufc career was rejected",
+  "liam",
+  "ufc lightweight champion liam bennett"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the provided summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's the step-by-step reasoning for why the given spans in the summary have consistency issues:
 
-1. The summary mentions "Liam Bennett" as the UFC lightweight champion, but the article actually refers to "Conor McGregor" as the UFC lightweight champion.
-2. The summary states that Liam Bennett is "coming sprinting at you with bricks," but the article does not mention anything about Liam Bennett or any other fighter using bricks.
-3. The summary does not provide any context or information about the article's topic, which is the upcoming boxing match between Conor McGregor and Floyd Mayweather.
+1. "after his ufc career was rejected":
+The article does not mention anything about McGregor's UFC career being rejected. In fact, the article states that McGregor is making his boxing debut in what could be the richest fight in history. Therefore, this phrase in the summary is not accurate and does not reflect the content of the article.
+2. "liam bennett":
+There is no person named "Liam Bennett" in the article. The correct name of the executive director of the Nevada Athletic Commission (NAC) is "Bob Bennett." Therefore, this mistake in the summary indicates a lack of attention to detail and inconsistency with the article.
+3. "ufc career was rejected":
+As mentioned earlier, there is no mention of McGregor's UFC career being rejected in the article. This phrase in the summary is purely imaginative and does not reflect the content of the article.
+4. "liam":
+There is no mention of a person named "Liam" in the article. The correct name of the UFC lightweight champion is "Conor McGregor." Therefore, this mistake in the summary indicates a lack of attention to detail and inconsistency with the article.
+5. "ufc lightweight champion liam bennett":
+This phrase in the summary is a combination of two mistakes: "Liam Bennett" (which is not the correct name of the NAC executive director) and "ufc lightweight champion" (which is not an accurate description of McGregor's career). Therefore, this span in the summary has consistency issues and does not reflect the content of the article.
 
-Overall, the summary is not a accurate representation of the article's content and does not provide any useful information about the topic.
+In summary, the given spans in the summary have consistency issues because they contain inaccuracies, imaginative phrases, and incorrect names. These mistakes indicate a lack of attention to detail and inconsistency with the article.
 
 ###Corrected:

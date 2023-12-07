@@ -48,14 +48,18 @@ Cash-strapped schools may struggle to afford the hardware or the computing power
 think of virtual reality and you will probably conjure up images of fantastical landscapes in a game or film set.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "think of virtual reality and you will probably conjure up images of fantastical landscapes in a game or film set"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary has consistency issues:
 
-1. The summary states that when we think of virtual reality (VR), we likely imagine fantastical landscapes in games or films.
-2. However, the article presents a variety of real-world uses for VR, such as teaching students about autism, helping soldiers overcome post-traumatic stress disorder, and improving language skills.
-3. The article also discusses how VR is being used in retail, such as Ikea's virtual kitchen app, and in healthcare, such as surgeons using VR to practice surgical procedures.
-4. The article highlights how VR is being used to help people understand and overcome phobias, such as arachnophobia, and to improve learning outcomes in education.
-5. The summary does not mention any of these real-world uses of VR, instead focusing on the more fantastical aspects of the technology.
+1. The summary mentions "virtual reality" but focuses only on gaming and film applications, giving the impression that VR is only used for entertainment purposes. However, the article discusses a wide range of applications beyond gaming and film, such as education, healthcare, and retail.
+2. The summary states that VR is used for "fantastical landscapes" in games and films, but the article highlights how VR is being used for more realistic and practical purposes, such as teaching, training, and therapy.
+3. The summary does not mention any of the specific examples of VR use cases mentioned in the article, such as virtual surgery, virtual meatballs, or virtual field trips for school children.
 
-Therefore, the summary is not consistent with the article, as it does not accurately reflect the diverse range of real-world applications of VR that are discussed in the article. Instead, the summary focuses on the more sensational and imaginative aspects of VR, which are not the primary focus of the article.
+Overall, the summary does not accurately reflect the diverse range of applications and uses of virtual reality discussed in the article.
 
 ###Corrected:

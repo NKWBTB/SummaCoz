@@ -22,11 +22,20 @@ He rejects the claim.
 macedonia\'s president aleksandar ivanov says he will cut ties with the government and cut ties with the government.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "with the government and cut ties with the government",
+  "cut ties with the government",
+  "aleksandar"
+]
 
-1. The summary states that Macedonia's President Aleksandar Ivanov says he will cut ties with the government.
-2. However, the article states that President Ivanov cancelled an investigation into claims of abuse of power, and that he acted to "defend national interests".
-3. The article does not mention President Ivanov cutting ties with the government. Instead, it states that his move was condemned by the opposition and EU officials, and that it put Macedonia's EU membership ambitions at risk.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. Specifically, the summary misrepresents President Ivanov's actions and does not mention the opposition and EU officials' condemnation of his move.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "with the government and cut ties with the government": The summary states that the President will "cut ties with the government," but the article does not mention anything about cutting ties with the government. Instead, the article states that the President has cancelled an investigation into claims of abuse of power.
+2. "cut ties with the government": The summary repeats the same phrase again, but it is not supported by the article. The article does not mention anything about cutting ties with the government.
+3. "aleksandar": The summary misspells the President's name as "aleksandar" instead of "Aleksandar."
+
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article and also misspells the name of the President.
 
 ###Corrected:

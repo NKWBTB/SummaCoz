@@ -33,13 +33,22 @@ Asked if he thought about running out at Twickenham, Charnley added: "Any player
 sale sharks captain chris charnley says he is confident his side can avoid relegation from next season\'s super league game.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "can avoid relegation from next season\\'s",
+  "confident his side can avoid relegation from next season\\'s super league game",
+  "captain chris",
+  "captain"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's why the spans in the summary have consistency issues:
 
-1. The summary is not consistent with the article because the article does not mention anything about Sale Sharks avoiding relegation or the Super League. The article is about Chris Charnley's move from rugby league to union and his hopes to succeed in his new sport.
-2. The summary is a direct quote from Charnley, but the context of the quote is not provided in the summary. The quote is taken out of context and does not accurately reflect the content of the article.
-3. The article does not mention anything about Charnley being the captain of Sale Sharks. While Charnley is mentioned in the article as the player who has switched from rugby league to union, there is no mention of him being the captain of the team.
-4. The summary is a misleading representation of the article's content. It does not accurately reflect the main points of the article and instead focuses on a minor aspect of the article that is not even mentioned in the article.
+1. "can avoid relegation from next season's" - The article does not mention anything about relegation. The word "relegation" is not present in the article at all. Therefore, this phrase in the summary is not consistent with the article.
+2. "confident his side can avoid relegation from next season's super league game" - Similarly, the article does not mention anything about confidence or avoiding relegation. The phrase "confident his side" is not present in the article, and the word "relegation" is not present as well.
+3. "captain chris" - The article does not mention anything about Chris being a captain. The word "captain" is not present in the article.
+4. "captain" - This word is not present in the article at all.
 
-Overall, the summary is not consistent with the article because it does not accurately represent the content of the article and instead focuses on a minor aspect that is not even mentioned in the article.
+Therefore, the summary is not consistent with the article because it contains phrases that are not present in the article. The summary should be revised to accurately reflect the content of the article.
 
 ###Corrected:

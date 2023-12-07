@@ -12,18 +12,21 @@ Extra staff will also be out repairing drainage systems damaged by heavy rain an
 potholes on the isle of wight are set to be closed for the first time in more than six months.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "potholes on the isle of wight are set to be closed for the first time in more than six months",
+  "isle of wight are set to be closed for the first time in more than six months"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that Northumberland County Council is using Jetpatcher machines to fill in potholes, indicating that the potholes are still present and need to be repaired.
-2. The summary states that potholes on the Isle of Wight are set to be closed, implying that the potholes have already been repaired.
-3. The article does not mention the Isle of Wight or any plans to close potholes.
-4. Therefore, the summary is not consistent with the article because it refers to a different location (the Isle of Wight) and a different action (closing potholes, rather than filling them).
+1. The article states that Northumberland County Council is using Jetpatcher machines to fill in potholes.
+2. The article does not mention the Isle of Wight or any plans to close potholes there.
+3. Therefore, the statement in the summary that "potholes on the Isle of Wight are set to be closed for the first time in more than six months" is not supported by the article.
+4. Additionally, the phrase "isle of wight are set to be closed" is grammatically incorrect and should be "Isle of Wight is set to be closed" or "potholes on the Isle of Wight are set to be closed".
+5. Therefore, the second span in the summary that "isle of wight are set to be closed for the first time in more than six months" is also not consistent with the article.
 
-Reasoning step by step:
-
-1. The article mentions Northumberland County Council using Jetpatcher machines to fill in potholes, which implies that the potholes are still present.
-2. The summary states that potholes on the Isle of Wight are set to be closed, which implies that the potholes have already been repaired.
-3. The article does not mention the Isle of Wight or any plans to close potholes.
-4. Therefore, the summary is not consistent with the article because it refers to a different location and a different action.
+Overall, the summary is not consistent with the article because it mentions the Isle of Wight and closing potholes, which are not present in the article.
 
 ###Corrected:

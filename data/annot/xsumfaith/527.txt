@@ -18,12 +18,26 @@ Last September, pro-government protesters attacked the offices of the daily Hurr
 unidentified assailants have hurled petrol bombs and fired shots at the istanbul offices of two staunchly pro-government turkish newspapers, the papers and the police say.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "two staunchly pro-government turkish newspapers, the papers",
+  "hurled petrol bombs and fired shots",
+  "staunchly pro-government",
+  "hurled petrol bombs"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the assailants were masked, but the summary does not mention this detail. The summary only mentions "unidentified assailants," which is inconsistent with the article's description of the attackers as masked.
-2. The article states that the attacks happened "almost at the same time" and that the windows in both buildings were shattered by gunfire, but the summary does not mention this detail. Instead, it only says that the assailants hurled petrol bombs and fired shots, which is not consistent with the article's description of the attacks.
-3. The article states that the police are hunting the assailants and that no group has claimed responsibility for the attacks, but the summary does not mention this detail. Instead, it only says that the attackers fired shots, which implies that they were not apprehended or identified.
+1. "two staunchly pro-government turkish newspapers, the papers":
+The article states that Yeni Safak and Yeni Akit are pro-government papers, but the summary incorrectly says "staunchly pro-government". The word "staunchly" implies a stronger level of support than what is actually stated in the article.
+2. "hurled petrol bombs and fired shots":
+The article states that the attackers fired shots, but it does not mention petrol bombs. The summary is inconsistent with the article by including petrol bombs.
+3. "staunchly pro-government":
+The article does not use the phrase "staunchly pro-government" to describe Yeni Safak and Yeni Akit. The summary is adding an adjective that is not present in the article.
+4. "hurled petrol bombs":
+As mentioned earlier, the article does not mention petrol bombs. The summary is inconsistent with the article by including this detail.
 
-Therefore, the summary is not consistent with the article because it does not accurately describe the details of the attacks, such as the masked nature of the assailants, the simultaneous nature of the attacks, and the ongoing investigation by the police.
+Overall, the summary is not consistent with the article because it includes details that are not present in the article, and it uses language that is not accurate.
 
 ###Corrected:

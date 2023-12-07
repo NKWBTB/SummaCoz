@@ -33,14 +33,17 @@ Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday
 ashya king, whose parents were treated for cancer, has been cured for his treatment for treatment for cancer.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "whose parents were treated for cancer, has been cured"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's why the summary has consistency issues:
 
-1. The summary states that Ashya King has been cured for his treatment for cancer, which is not consistent with the article.
-2. The article states that Ashya's outcome worsens every month that he does not receive chemotherapy, and that he is not completely cured yet.
-3. The summary does not mention the fact that Ashya's parents took him abroad without telling hospital staff, or that they ignored medical advice and took him to Prague for proton beam therapy.
-4. The summary does not mention the concerns of the medical professionals interviewed in the article, such as Dr. Wilson and Professor Sikora, about the potential risks of not receiving chemotherapy and the lack of evidence that Ashya is completely cured.
-5. The summary does not provide any supporting evidence for the claim that Ashya has been cured, such as quotes from medical professionals or information about the specific treatment he received.
+1. "whose parents were treated for cancer" - This phrase suggests that Ashya King's parents were being treated for cancer, which is not accurate. The article states that Ashya was being treated for cancer, not his parents.
+2. "has been cured" - This statement is also not accurate, as the article states that Ashya is in remission but it is far too early to say he has been completely cured. The article quotes cancer experts as saying that Ashya is not out of the woods yet and that it is too early to say he has been cured.
 
-Therefore, the summary is not consistent with the article and appears to be an oversimplification of the facts. It is possible that the summary was written to sensationalize the story and create a more positive outcome for Ashya, but it does not accurately reflect the information presented in the article.
+Therefore, the summary does not accurately reflect the information in the article. The summary should have said something like "Ashya King, who was being treated for cancer, is in remission but it is too early to say he has been completely cured." This would have accurately reflected the information in the article and avoided the consistency issues.
 
 ###Corrected:

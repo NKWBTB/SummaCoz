@@ -22,14 +22,26 @@ Subscribe to the BBC Sport newsletter to get our pick of news, features and vide
 england manager arsene wenger has backed gareth southgate to be the next england manager.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "england manager",
+  "o be the next england manager",
+  "backed gareth",
+  "england manager arsene",
+  "to be the next england manager",
+  "gareth"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that Arsene Wenger backed Gareth Southgate to be the next England manager, but the article does not mention any such endorsement.
-2. The article only quotes Wenger as saying that Southgate "has accumulated experiences and is a good observer of what's going on in the national team." This is not the same as endorsing him as the next England manager.
-3. The article also mentions that Wenger is focused on his own job at Arsenal and did not comment on his own links to the England job. The summary, however, implies that Wenger has backed Southgate for the role.
-4. The article does not mention any contract extensions or new contracts for Hector Bellerin, as mentioned in the summary.
+1. "england manager": The article does not mention that Arsene Wenger is the current England manager. In fact, it states that Gareth Southgate is the current England manager, and Wenger is only a potential candidate for the job. Therefore, this span is inconsistent with the article.
+2. "o be the next england manager": The article does not mention that Wenger will be the next England manager. It only states that he has been linked with the job and that he has praised Southgate's performance. Therefore, this span is also inconsistent with the article.
+3. "backed gareth": The article states that Wenger has praised Southgate, but it does not mention that he has "backed" him. This word is not present in the article, so it is inconsistent.
+4. "england manager arsene": The article does not mention that Arsene Wenger is the England manager. As mentioned earlier, the article states that Gareth Southgate is the current England manager. Therefore, this span is inconsistent with the article.
+5. "to be the next england manager": The article does not mention that Wenger will be the next England manager. It only states that he has been linked with the job and that he has praised Southgate's performance. Therefore, this span is also inconsistent with the article.
+6. "gareth": The article does not mention Gareth Southgate's name in the context of Wenger's quotes. The only mention of Southgate is in the phrase "Gareth Southgate succeeded Sam Allardyce in September," which is not inconsistent with the article.
 
-Therefore, the summary is not consistent with the article as it contains information that is not present in the article and omits other information that is present in the article.
+Overall, the summary is not consistent with the article because it contains several spans that are not present in the article or are phrased differently in the article.
 
 ###Corrected:

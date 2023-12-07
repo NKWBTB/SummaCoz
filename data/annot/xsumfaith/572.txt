@@ -15,20 +15,22 @@ The parent company is already listed in New York and its shares rose as much as 
 imax, the canadian maker of widescreen cinema theatres, is planning an initial public offering (ipo) of its china unit in hong kong.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "canadian maker of widescreen cinema theatres, is planning an initial public offering (ipo) of its china unit in hong kong",
+  "the canadian maker of widescreen cinema theatres, is planning an initial public offering (ipo) of its china unit in hong kong"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that Imax filed an application with the Hong Kong stock exchange, indicating that the company is planning to list its China unit in Hong Kong.
-2. The summary states that Imax, the Canadian maker of widescreen cinema theatres, is planning an initial public offering (IPO) of its China unit in Hong Kong.
-3. The article does not mention anything about an IPO, only that the company filed an application to list its China unit in Hong Kong.
-4. The wording of the summary is not consistent with the information provided in the article. The summary states that Imax is planning an IPO, while the article states that the company is filing an application to list its China unit.
-5. Therefore, the summary is not consistent with the article, and it appears to be incorrect.
+1. The article states that Imax filed an application to list its China unit on the Hong Kong stock exchange, but the summary claims that Imax is planning an initial public offering (IPO) of its China unit in Hong Kong.
+2. The article does not mention anything about an IPO, only that Imax is seeking to list its China unit on the Hong Kong stock exchange.
+3. The word "ipo" is not mentioned anywhere in the article.
+4. The summary is not consistent with the article because it uses the term "ipo" which is not present in the article, and it also refers to the company as a "canadian maker of widescreen cinema theatres" which is not accurate as the company is a global company with operations in multiple countries, not just Canada.
+5. The article specifically states that Imax's China profits jumped nearly 30% last year, but the summary does not mention this fact.
+6. The article also mentions that Imax has been rapidly expanding in the Greater China region, but the summary does not include this information.
 
-Reasoning step by step:
-
-1. The article states that Imax filed an application with the Hong Kong stock exchange, indicating that the company is planning to list its China unit in Hong Kong.
-2. The summary states that Imax is planning an IPO of its China unit in Hong Kong.
-3. The article does not mention anything about an IPO.
-4. The wording of the summary is not consistent with the information provided in the article.
-5. Therefore, the summary is not consistent with the article, and it appears to be incorrect.
+Therefore, the summary is not consistent with the article because it contains inaccuracies and omits important information that is present in the article.
 
 ###Corrected:

@@ -16,12 +16,26 @@ In August, Worcestershire signed Australia pace bowler John Hastings as their ma
 worcestershire have signed new zealand all-rounder colin munro for the 2016 t20 blast campaign.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "worcestershire have signed new zealand all-rounder colin munro for the 2016 t20 blast campaign",
+  "new zealand all-rounder colin munro for the 2016 t20 blast campaign"
+]
 
-1. The summary states that Worcestershire have signed New Zealand all-rounder Colin Munro for the 2016 T20 Blast campaign.
-2. However, the article states that Worcestershire signed Australia pace bowler John Hastings as their main overseas player for the 2017 season across all formats of the game.
-3. The article does not mention anything about signing Colin Munro or any other New Zealand player.
-4. Therefore, the summary is not consistent with the article, as it mentions a player (Colin Munro) who is not mentioned in the article.
-5. The summary is incorrect and does not accurately reflect the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that Worcestershire signed Australia pace bowler John Hastings as their main overseas player for the 2017 season across all formats of the game.
+2. The summary states that Worcestershire have signed New Zealand all-rounder Colin Munro for the 2016 T20 Blast campaign.
+3. The article does not mention Colin Munro or any New Zealand player.
+4. Therefore, the statement in the summary that Worcestershire have signed Colin Munro for the 2016 T20 Blast campaign is not supported by the article.
+5. Additionally, the phrase "New Zealand all-rounder" is also not consistent with the article, as the article only mentions Australia pace bowler John Hastings.
+6. Therefore, the two spans in the summary that have consistency issues are:
+
+"worcestershire have signed new zealand all-rounder colin munro for the 2016 t20 blast campaign"
+
+"new zealand all-rounder colin munro for the 2016 t20 blast campaign"
+
+7. These two statements are not supported by the article and are therefore inconsistent with the rest of the text.
 
 ###Corrected:

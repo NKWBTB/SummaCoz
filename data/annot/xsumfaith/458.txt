@@ -17,13 +17,31 @@ In accounts filed with Companies House, the company said: "As always, the outloo
 a scottish food company has reported a pre-tax profit of # both for the first half of 2016.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "first half ",
+  "first half",
+  NaN,
+  "scottish food company"
+]
 
-1. The summary states that the Scottish food company reported a pre-tax profit of "# for the first half of 2016."
-2. However, the article states that the company reported a pre-tax profit of £800,000, not "#".
-3. The summary is not consistent with the article because it does not accurately reflect the information provided in the article.
-4. The article states that the company's pre-tax profit increased by £800,000, but the summary does not mention this increase.
-5. Additionally, the summary does not provide any specific information about the company's financial performance, such as the amount of turnover or the sector in which the company operates.
-6. Therefore, the summary is not a reliable representation of the information in the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. "first half" - The article does not mention "first half" explicitly. The time period mentioned is "the year to the end of June 2016".
+2. "#" - The article does not mention any profit figure in pounds (#). The profit figure mentioned is £800,000.
+3. NaN - The article does not mention anything about NaN (Not a Number).
+4. "scottish food company" - The article mentions "Aberdeenshire-based Harbro Group" as the company name, not "scottish food company".
+
+Therefore, the summary is not consistent with the article as it contains inaccuracies and ambiguities in the following spans:
+
+* "first half"
+* "#"
+* NaN
+* "scottish food company"
+
+The correct summary should be:
+
+"Aberdeenshire-based Harbro Group saw pre-tax profit increase by £800,000 to £3.5m in the year to the end of June 2016, despite turnover falling by £1m to just over £100m. The company manufactures and supplies feeds for the beef, sheep, dairy, pig and poultry sectors, and has a network of 19 shops across Scotland."
 
 ###Corrected:

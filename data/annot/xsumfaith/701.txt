@@ -15,11 +15,18 @@ Sgt Taylor said he was "appalled" by the "atrocious" act of fly-tipping and prai
 the description of a man believed to be involved in fly-tipping which left three conwy cows dead has been released by police.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "three conwy",
+  "released"
+]
 
-1. The summary states that the police have released a description of a man believed to be involved in fly-tipping, but the article does not mention any description of the culprit being released.
-2. The article only mentions that the police are looking for a heavily built man, aged 50 to 60, with curly brown hair, driving a dark blue pick-up truck, but this information is not included in the summary.
-3. The summary only mentions that the cows died as a result of toxins found in yew and leylandii tree cuttings, but the article also mentions that the cows were found in Dolwen, near Old Colwyn, and that the culprit is believed to be living or working local to Colwyn Bay.
-4. Therefore, the summary is not consistent with the article because it does not include all the information provided in the article, and it does not accurately convey the details of the police's appeal for information.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. "three conwy" - The article does not mention the number of cows that died. It only states that "the cows, aged 16 months, died as a result of toxins found in yew and leylandii tree cuttings." Therefore, the phrase "three conwy" is not supported by the article.
+2. "released" - The article states that Sgt Taylor tweeted an appeal for information on social media, but it does not mention that the police released any description of a man believed to be involved in fly-tipping. Therefore, the phrase "released" is also not supported by the article.
+
+Overall, the summary has consistency issues because it includes information that is not present in the article. The correct summary should only include information that is directly supported by the article.
 
 ###Corrected:

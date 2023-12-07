@@ -20,13 +20,22 @@ The eight-month campaign on the Gallipoli peninsula in Turkey was one of the blo
 prince harry has laid wreaths during a dawn service at london\'s wellington arch and on behalf of the queen at the cenotaph to mark anzac day in the uk.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "london\\'s wellington arch",
+  "london\\'s wellington arch and on behalf of the queen",
+  "behalf of the queen",
+  "prince harry"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that Prince Harry laid wreaths at both the dawn service and the Cenotaph.
-2. The article does not mention Prince Harry at all.
-3. The article does mention the Australian High Commissioner, Alexander Downer, laying a wreath at the Cenotaph, but there is no mention of Prince Harry.
-4. Therefore, the summary is not consistent with the article, as Prince Harry is not mentioned in the article as attending any Anzac Day events.
+1. "london's wellington arch" - The article does not mention anything about a dawn service at Wellington Arch. The dawn service was held at Hyde Park Corner, not Wellington Arch. Therefore, this phrase is not consistent with the article.
+2. "london's wellington arch and on behalf of the queen" - The article does not mention anything about Prince Harry laying a wreath on behalf of the Queen. The wreath-laying ceremony at the Cenotaph was performed by the Australian High Commissioner, Alexander Downer, not Prince Harry or the Queen. Therefore, this phrase is not consistent with the article.
+3. "behalf of the queen" - As mentioned above, the article does not mention anything about Prince Harry laying a wreath on behalf of the Queen. Therefore, this phrase is not consistent with the article.
+4. "prince harry" - The article does not mention Prince Harry at all. The article only mentions the Australian High Commissioner, Alexander Downer, and the wreath-laying ceremony at the Cenotaph. Therefore, this phrase is not consistent with the article.
 
-The reason for the inconsistency is likely that the summary is incorrect or incomplete information. It is possible that the summary was based on a different article or source that mentioned Prince Harry attending Anzac Day events, but the article provided does not support this information.
+Overall, the summary contains several inconsistencies with the article, including the location of the dawn service, the identity of the person who laid the wreath, and the involvement of the Queen.
 
 ###Corrected:

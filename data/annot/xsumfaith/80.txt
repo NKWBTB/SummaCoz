@@ -76,14 +76,18 @@ Corner,  Southampton. Conceded by Curtis Davies.
 robert snodgrass\'s first premier league goal was enough to give southampton victory over hull city.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "first premier league",
+  "victory"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that Hull City lost two players to injury in the first half, which suggests that the team was already struggling before Snodgrass' goal.
-2. The summary does not mention the injuries to Hull City's players, which means that the reader would not know that the team was weakened by injuries.
-3. The article highlights Snodgrass' goal as the turning point in the game, but the summary does not mention the goal or the impact it had on the game.
-4. The article states that Hull City pushed for an equalizer but were unable to find one, while the summary does not mention this aspect of the game at all.
-5. The article mentions the international break and the fact that Hull City will have to deal with several injuries during that time, but the summary does not mention this.
+1. "first premier league" - The summary mentions "first premier league goal", but the article does not mention anything about the goal being Snodgrass' first in the Premier League. In fact, the article states that Snodgrass has already scored four league goals this season. Therefore, the summary's claim is not consistent with the article.
+2. "victory" - The summary states that Southampton won the match, but the article does not mention anything about Southampton winning. Instead, the article states that Hull City won the match. Therefore, the summary's claim is not consistent with the article.
 
-Overall, the summary does not accurately reflect the content of the article. It does not mention the injuries to Hull City's players, Snodgrass' goal, or the fact that the team was unable to find an equalizer. Additionally, the summary does not provide any context about the game, such as the fact that Hull City was struggling due to injuries. Therefore, the summary is not consistent with the article and does not provide an accurate summary of the game.
+Overall, the summary contains two inconsistencies with the article.
 
 ###Corrected:

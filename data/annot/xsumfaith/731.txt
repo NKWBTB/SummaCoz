@@ -24,14 +24,22 @@ Advice given by young people on dealing with bullying includes:
 the number of children and young people needing counselling about online bullying has increased by 88% over five years, according to a helpline.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "88% over five years, according to a helpline",
+  "increased by 88% over five years, according to a helpline"
+]
 
-1. The article states that the number of children and young people seeking counselling about online bullying has increased by 88% over five years, according to a helpline (Childline).
-2. However, the summary only mentions an 88% increase in the number of children needing counselling about online bullying, without providing any context or timeframe for this increase.
-3. The article provides specific information about the timeframe of the increase, stating that the increase has occurred over the past five years.
-4. Therefore, the summary is not consistent with the article because it does not provide the same timeframe for the increase in the number of children needing counselling.
-5. Additionally, the summary does not mention the specific number of children and young people who have sought counselling, only stating that the number has increased by 88%.
-6. The article provides more detailed information about the number of children and young people who have sought counselling, stating that Childline counselled more than 4,500 children in the past year, compared to about 2,400 in 2011-12.
-7. Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the number of children and young people affected by online bullying.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
+
+1. The article states that the NSPCC's Childline service counselled more than 4,500 children in the past year, compared to about 2,400 in 2011-12. This implies that the number of children seeking help for online bullying has increased.
+2. The article also states that the total number of children suffering online abuse is thought to be far higher, and that some children as young as seven have been tormented, abused, and scared to go to school. This suggests that online bullying is a significant problem.
+3. The article quotes Dame Esther Rantzen as saying that online trolls cause misery and humiliation for thousands of children, and that it is imperative that adults, parents, and teachers intervene to protect them. This implies that online bullying has serious consequences for the mental health and well-being of children.
+4. The article also states that the report is being released at the start of Anti-Bullying Week, which is coordinated by the Anti Bullying Alliance. This suggests that the issue of online bullying is being taken seriously by organizations and individuals who are working to combat it.
+5. However, the summary states that the number of children and young people needing counselling about online bullying has increased by 88% over five years, according to a helpline. This is not consistent with the article, which does not provide any information about the percentage increase in the number of children seeking help for online bullying.
+6. Furthermore, the summary states that the increase in the number of children seeking help for online bullying is based on a helpline, but the article does not mention a helpline. This suggests that the summary is not accurately representing the information in the article.
+
+Therefore, based on the above reasoning, I conclude that the summary is not consistent with the article because it provides incorrect information about the percentage increase in the number of children seeking help for online bullying, and it misrepresents the source of the information.
 
 ###Corrected:

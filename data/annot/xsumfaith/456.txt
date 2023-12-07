@@ -22,12 +22,18 @@ The number of homicide victims for 2014-15 stood at 59 last year but later incre
 the number of recorded crimes in scotland has fallen to its lowest level since records began, according to new figures.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "began",
+  "lowest"
+]
 
-1. The summary states that the number of recorded crimes in Scotland has fallen to its lowest level since records began.
-2. However, the article states that the number of homicide cases in Scotland has actually increased by three cases compared to the previous year, and that the number of homicide victims for 2014-15 was revised upwards to 62 from 59.
-3. Therefore, the summary is not consistent with the article, as it claims that the number of recorded crimes has fallen, while the article states that the number of homicide cases has actually increased.
-4. The article also mentions that there has been an increase in violent crime with attempted murder and serious assault rising by 27%, which further contradicts the summary's statement that the number of recorded crimes has fallen.
-5. Therefore, the summary is not an accurate representation of the information provided in the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "began": The word "began" is not present in the original article. The article provides information about the number of homicide cases in Scotland for the year to the end of March 2016, but it does not mention when the records began. Therefore, the statement "according to new figures" in the summary is not supported by the article.
+2. "lowest": The statement "lowest level since records began" in the summary is also not consistent with the article. While the article does report that the number of homicide cases in Scotland has decreased, it does not specify that this is the lowest level since records began. In fact, the article mentions that there were 59 homicide victims in 2014-15, which is higher than the number reported for the current year. Therefore, the statement "lowest level since records began" is not supported by the article.
+
+Overall, the summary is not consistent with the article because it contains two statements that are not supported by the information provided in the article.
 
 ###Corrected:

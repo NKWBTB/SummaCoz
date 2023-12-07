@@ -12,13 +12,22 @@ A short-handed empty net goal from Matthew Davies in the final minute sealed the
 belfast giants suffered a 3-1 defeat by manchester storm in sunday\'s elite league clash at the sse arena.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "belfast giants",
+  "3-1",
+  "belfast giants suffered a 3-1 defeat by manchester storm in sunday\\'s elite league clash at the sse arena",
+  "sunday\\'s elite league clash at the sse arena"
+]
 
-1. The summary states that Belfast Giants suffered a 3-1 defeat by Manchester Storm.
-2. The article states that Manchester Storm scored three goals, but the Giants scored one goal.
-3. The summary does not mention the Giants' goal, which was scored by Craig Peacock in the ninth minute.
-4. Therefore, the summary is not consistent with the article because it does not include all the information from the article.
-5. Specifically, the summary does not mention the Giants' goal, which is a key piece of information that should be included in a summary of the article.
-6. As a result, the summary is not an accurate representation of the article's content.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "belfast giants" - The article does not mention the team as "belfast giants". Instead, it refers to them as "Manchester Storm". Therefore, this phrase is not consistent with the article.
+2. "3-1" - The article does mention the score, but it's not a 3-1 defeat for the Belfast Giants. Instead, the score is 4-1 in favor of Manchester Storm. Therefore, this phrase is not consistent with the article.
+3. "belfast giants suffered a 3-1 defeat by manchester storm in sunday's elite league clash at the sse arena" - This sentence is not consistent with the article because it states that the Belfast Giants suffered a 3-1 defeat, which is not accurate according to the article. Additionally, the sentence mentions a "sunday's elite league clash", but the article does not mention the date of the game.
+4. "sunday's elite league clash at the sse arena" - This phrase is not consistent with the article because the game was not played on a Sunday. Instead, the game was played on a different day, as stated in the article.
+
+Therefore, the summary is not consistent with the article because it contains inaccuracies and inconsistencies in the phrases mentioned above.
 
 ###Corrected:

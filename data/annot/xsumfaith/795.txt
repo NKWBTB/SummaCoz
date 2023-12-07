@@ -34,12 +34,20 @@ Media playback is not supported on this device
 england\'s all-time leading wicket-taker james vaughan has been called up to england\'s world twenty20 squad for the first test against pakistan in sharjah.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "has been called up to england\\'s world twenty20 squad",
+  "sharjah",
+  "all-time leading wicket-taker james"
+]
 
-1. The summary states that James Vaughan has been called up to England's World Twenty20 squad for the first test against Pakistan in Sharjah.
-2. However, the article does not mention anything about James Vaughan being called up to the squad.
-3. The article is actually about the second Test between England and Pakistan at Old Trafford, and it discusses England's victory, Joe Root's performance, and Pakistan's struggles.
-4. Therefore, the summary is not consistent with the article, as there is no mention of James Vaughan in the article.
-5. It seems that the summary may have been mistaken or misleading, as there is no connection between James Vaughan and the England vs Pakistan Test series.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "has been called up to england's world twenty20 squad" - This sentence is not consistent with the article because there is no mention of James Vaughan being called up to the World T20 squad in the article. In fact, the article does not mention James Vaughan at all.
+2. "sharjah" - This sentence is not consistent with the article because the article is about the second Test between England and Pakistan at Old Trafford, not the first Test in Sharjah.
+3. "all-time leading wicket-taker james" - This sentence is not consistent with the article because there is no mention of James Vaughan being the all-time leading wicket-taker in the article. The article mentions Joe Root as the man of the match, but there is no mention of James Vaughan.
+
+Therefore, the summary is not consistent with the article because it contains incorrect information about James Vaughan and the location of the match.
 
 ###Corrected:

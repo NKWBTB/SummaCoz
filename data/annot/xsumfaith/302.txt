@@ -12,13 +12,18 @@ The A96 was closed in the area for several hours, but it has since reopened.
 a man has been taken to hospital after being hit by a car in moray.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "after being hit by a car in moray"
+]
+
 Explain your reasoning step by step:[/INST]
-Sure! Here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the man was taken to the hospital with "serious but not life-threatening injuries." This implies that the man was injured, but not critically so.
-2. The summary only states that a man was "hit by a car" in Moray, without any information about the severity of his injuries. This is inconsistent with the article, which provides specific information about the man's injuries.
-3. The article also states that the A96 was closed in the area for several hours, but it has since reopened. This information is not present in the summary.
+1. The article states that the incident happened "near Dr Gray's Hospital." This implies that the incident occurred in the general vicinity of the hospital, but does not specify that it happened within the hospital itself.
+2. The summary states that the man was "hit by a car in Moray." This is not consistent with the article, as the article does not mention the location of the incident as being in Moray.
+3. The article does mention that the A96 was closed in the area for several hours, but the summary does not include this information.
 
-Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the man's injuries and does not mention the closure of the A96.
+Therefore, the summary is not consistent with the article because it includes information that is not present in the article (the location of Moray) and omits information that is present in the article (the closure of the A96).
 
 ###Corrected:

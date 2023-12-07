@@ -14,13 +14,18 @@ Posting on Twitter, Insp Chris Galley said: "A strange end to a night shift. 15-
 a man has been arrested after a tractor and a tractor was seized by police in a tractor and trailer.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "trailer",
+  "man has been arrested after a tractor"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the driver of the tractor was a 15-year-old boy, while the summary claims that a man was arrested. This is a inconsistency, as the article does not mention the arrest of a man.
-2. The article states that the tractor was seized, but the summary claims that a tractor and trailer were seized. This is another inconsistency, as the article only mentions the seizure of the tractor.
-3. The article states that the driver of the tractor was driving without a license, and that the vehicle was not insured. The summary does not mention these details.
-4. The article states that the police posted on Twitter about the incident, but the summary does not mention this.
+1. "trailer" - The article does not mention a trailer. The article only mentions a tractor being seized by the police. The summary incorrectly includes a trailer, which is not supported by the article.
+2. "man has been arrested after a tractor" - The article does not mention an arrest. The article only mentions that the driver of the tractor was not licensed, did not have permission from the owner, and was not insured. The summary incorrectly includes an arrest, which is not supported by the article.
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. The summary should be revised to accurately reflect the information in the article.
+Therefore, the two spans in the summary that have consistency issues are "trailer" and "man has been arrested after a tractor". These errors indicate that the summary is not consistent with the article and may be inaccurate.
 
 ###Corrected:

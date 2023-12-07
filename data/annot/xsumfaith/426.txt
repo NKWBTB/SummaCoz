@@ -19,19 +19,20 @@ Other items declared treasure at the coroner's inquest include an early-medieval
 an 18th century coin believed to be worth more than # 1m has been discovered in a norfolk village.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "in a norfolk village",
+  "worth more than # 1m",
+  "18th century"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the coin was discovered in Norfolk, while the summary states that the coin is from the 18th century, which is not consistent with the article.
-2. The article describes the coin as being from the 600 AD period, while the summary states that the coin is from the 18th century, which is not consistent with the article.
-3. The article mentions that the coin was created by French rulers, while the summary does not mention this detail.
-4. The article mentions that the coin was likely brought to England through export trade, while the summary does not mention this detail.
+1. "in a norfolk village": The article does not mention anything about the coin being found in a village. Instead, it states that the coin was found near Dereham, which is a town in Norfolk. Therefore, this phrase in the summary is not consistent with the article.
+2. "worth more than # 1m": The article does not mention the value of the coin. While it's possible that the coin could be worth more than £1 million, there is no evidence to support this claim in the article. Therefore, this phrase in the summary is not consistent with the article.
+3. "18th century": The article states that the coin was created in the 7th century, not the 18th century. Therefore, this phrase in the summary is not consistent with the article.
 
-Therefore, the summary is not consistent with the article because it contains inaccuracies and omissions. Specifically, the summary:
-
-* Mentions an 18th century coin, while the article states that the coin is from the 600 AD period.
-* Fails to mention the French rulers who created the coin.
-* Fails to mention the likely export of the coin to England.
-
-Overall, the summary is not a reliable representation of the article's content.
+Overall, the summary contains several inaccuracies and exaggerations that are not supported by the article. It's important to carefully read and summarize articles to ensure that the summary is accurate and consistent with the original source.
 
 ###Corrected:

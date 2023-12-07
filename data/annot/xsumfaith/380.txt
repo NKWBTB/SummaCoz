@@ -22,14 +22,24 @@ The aim is to get the hospital finished by autumn 2014.
 a new # 150m hospital in somerset has been given the go-ahead by the government.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "go-ahead by the government",
+  "# 150m",
+  "150m",
+  "government",
+  "150"
+]
 
-1. The summary states that a new #150m hospital in Somerset has been given the go-ahead by the government.
-2. However, the article states that the project will cost £33m, not £150m.
-3. Therefore, the summary is not consistent with the article, as it provides an incorrect amount for the cost of the project.
-4. The article does not mention anything about the government giving the go-ahead for the project, so this information is also not present in the article.
-5. The summary is an over-simplification of the article, as it only provides a single piece of information (the cost of the project) without providing any context or additional details.
-6. The article provides more information about the hospital, such as its location, size, and features, as well as quotes from hospital staff and officials.
-7. Therefore, the summary does not accurately represent the content of the article, and is not a consistent summary of the information provided.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "go-ahead by the government": The article states that the project has been given the go-ahead by the coalition government, but the summary only mentions "the government" without specifying which government. This inconsistency may be due to the fact that the article is referring to the UK coalition government, while the summary only mentions "the government" in a general sense.
+2. "# 150m": The article uses the phrase "£330m investment" to describe the total amount of funding for new NHS facilities across England, but the summary only mentions "£150m" without specifying the currency. This inconsistency may be due to a mistake or an error in translation.
+3. "150m": The article uses the phrase "£330m investment" to describe the total amount of funding for new NHS facilities across England, but the summary only mentions "£150m" without specifying the currency. This inconsistency may be due to a mistake or an error in translation.
+4. "government": The article refers to the "coalition government" that has given the go-ahead for the project, but the summary only mentions "the government" without specifying which government. This inconsistency may be due to the fact that the article is referring to the UK coalition government, while the summary only mentions "the government" in a general sense.
+5. "150": The article does not mention the number "150" anywhere, so this inconsistency may be due to a mistake or an error in translation.
+
+Overall, the inconsistencies in the summary may be due to mistakes or errors in translation, or they may be due to the fact that the summary is not accurately representing the information in the article. It's important to carefully review and fact-check any summaries or translations to ensure that they accurately represent the information in the original source.
 
 ###Corrected:

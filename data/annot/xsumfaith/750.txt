@@ -30,14 +30,20 @@ Follow Tom on Twitter.
 daisy daisy and daisy [UNK] have shared rare cloned sheep through a [UNK] pen in a barn on a farm in nottingham.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "through a [UNK] pen",
+  "daisy daisy and daisy [UNK] have shared rare",
+  "on a farm"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+  Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary mentions "Daisy, Daisy, and Daisy" while the article only mentions "Daisy" once.
-2. The summary mentions a "pen" and a "barn" while the article does not mention these words.
-3. The summary does not mention any of the scientific details or concepts mentioned in the article, such as cloning, age-memory, cellular senescence, osteoarthritis, or co-morbidities.
-4. The summary does not mention the University of Nottingham or the fact that the sheep are being studied for their health and aging processes.
+1. "through a [UNK] pen": The article does not mention anything about an unknown pen, so this phrase is not supported by the text. The article states that the sheep were put through a set of exacting, methodical tests in a straw-lined pen in a barn on the university's Sutton Bonington Campus.
+2. "daisy daisy and daisy [UNK] have shared rare": The article only mentions three cloned sheep named Daisy, Debbie, Denise, and Diane. There is no mention of any other sheep or any shared rare cloning.
+3. "on a farm": The article does not mention the farm where the sheep were kept, only that the study was conducted at the University of Nottingham's Sutton Bonington Campus.
 
-Overall, the summary is very brief and lacks specific details, while the article provides a more in-depth look at the study and the cloned sheep. Therefore, the summary is not consistent with the article.
+Therefore, the summary is not consistent with the article because it includes phrases that are not supported by the text.
 
 ###Corrected:

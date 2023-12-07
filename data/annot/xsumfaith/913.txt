@@ -19,13 +19,20 @@ However, experts say they do not expect to see the same level of conflict follow
 a police officer has been shot in the head of the capital of the month of kenya\'s parliament, police say.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "capital of the month of kenya\\'s parliament",
+  "in the head of the capital of the month of kenya\\'s parliament"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the incident occurred near the western city of Eldoret, while the summary states that the incident occurred in the capital of Kenya's parliament. This is inconsistent, as Eldoret is not the capital of Kenya's parliament.
-2. The article mentions that the deputy president was not at the compound near Eldoret at the time of the incident, while the summary states that the incident occurred in the capital of Kenya's parliament. This is inconsistent, as the deputy president was not in the capital of Kenya's parliament.
-3. The article states that specialist troops were deployed to deal with the intruder, while the summary does not mention this detail. This is inconsistent, as the summary does not provide all the information included in the article.
-4. The article mentions that the incident occurred 10 days before Kenya holds presidential, legislative and regional elections, while the summary does not mention this detail. This is inconsistent, as the summary does not provide all the information included in the article.
+1. The article states that the incident occurred in Eldoret, which is a town located in the western part of Kenya, and not in the capital city of Kenya.
+2. The summary mentions that the incident occurred in the "capital of the month of Kenya's parliament", which is not accurate as there is no capital city of Kenya called "the month of Kenya's parliament".
+3. The summary also mentions that the police officer was shot "in the head of the capital of the month of Kenya's parliament", which is not accurate as there is no such place as the "head of the capital of the month of Kenya's parliament".
+4. The article does not mention anything about a police officer being shot or injured, let alone in the capital city of Kenya or in the "head" of such a place.
 
-Overall, the summary is not consistent with the article because it contains inaccuracies and omits important details.
+Therefore, the summary is not consistent with the article, and the spans highlighted in the question are the ones that have consistency issues.
 
 ###Corrected:

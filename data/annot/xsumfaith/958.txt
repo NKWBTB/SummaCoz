@@ -29,15 +29,20 @@ A police spokesman told the AFP news agency that the case was under investigatio
 russian rapper [UNK] sukhbaatar has been attacked by a russian court after he was shot dead by a russian court.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "russian rapper [UNK]",
+  "shot dead",
+  "court"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's my reasoning step by step:
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the Russian rapper Sukhbaatar was "shot dead by a Russian court." However, the article does not mention anything about Sukhbaatar being shot or killed. In fact, the article states that he is in a coma after being beaten with a metal object.
-2. The summary is therefore not consistent with the article, as there is no mention of Sukhbaatar being shot or killed in the article.
-3. The article states that Sukhbaatar was performing in Ulan Bator when he was attacked and beaten with a metal object. The summary does not mention this detail.
-4. The article also states that Sukhbaatar's father and a band member denied reports on social media that he shouted "Heil Hitler" at the show. The summary does not mention this detail either.
-5. The article concludes by stating that the case is under investigation and that the suspect, a Russian diplomatic officer, was not kept in detention because the injury is not serious. The summary does not mention this detail either.
+1. "russian rapper [UNK]": The article does not mention the word "UNK" or any unknown person. The article mentions a Mongolian rapper named Amarmandakh Sukhbaatar, so this phrase in the summary is not consistent with the article.
+2. "shot dead": The article does not mention anything about the rapper being shot or killed. In fact, it states that the rapper was beaten and injured, but not killed. Therefore, this phrase in the summary is not consistent with the article.
+3. "court": The article does not mention a court or any legal proceedings. The article only mentions that the rapper was beaten and injured, and that the Russian embassy is investigating the incident. Therefore, this phrase in the summary is not consistent with the article.
 
-Overall, the summary is not consistent with the article because it falsely states that Sukhbaatar was shot dead by a Russian court, when in fact he was beaten with a metal object and is in a coma. Additionally, the summary leaves out several important details from the article, such as the fact that Sukhbaatar was performing in Ulan Bator and that his father and band member denied reports of him shouting "Heil Hitler."
+Overall, the summary contains several inconsistencies with the article, including the use of the word "UNK," the mention of the rapper being shot dead, and the reference to a court. These inconsistencies suggest that the summary is not a accurate summary of the article.
 
 ###Corrected:

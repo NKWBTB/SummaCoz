@@ -22,13 +22,24 @@ McDonald's received $9.27bn (Â£6.40bn) in revenues from its franchised restaur
 mcdonald\'s mcdonald\'s has said it is ``proud\'\'of its franchisees and workers because it is ``proud of its franchisees\'\'.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "and workers",
+  NaN
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that McDonald's is "proud of its franchisees and workers." This is not supported by the article, as the article does not mention McDonald's being proud of its franchisees or workers.
-2. The article states that the European Commission has received a formal complaint from a group of Italian consumers' organisations, alleging that McDonald's is forcing franchisees to pay excessive rents and high fees. The summary does not mention this complaint or any allegations of wrongdoing by McDonald's.
-3. The article states that McDonald's has responded to the complaint by saying that it shares risks and rewards with its licencees, and that this approach has been successful for many years. The summary does not include this information.
-4. The article also mentions that the Service Employees International Union (SEIU) and European unions are supporting the formal antitrust complaint, and that the European Commission has the powers to launch an investigation if it believes the allegations are founded. The summary does not mention any of these details.
+1. The article states that McDonald's has been accused of forcing franchisees to pay excessive rents and high fees. This is not mentioned in the summary.
+2. The article mentions that the European Commission has received a formal complaint from a group of Italian consumers' organisations, but the summary does not mention this.
+3. The article states that the consumer organisations claim that franchisees are prevented from switching to competitors because McDonald's makes them sign longer-than-average contracts, but the summary does not mention this.
+4. The article mentions that the European Commission has the powers to launch an investigation if it believes the allegations are founded, but the summary does not mention this.
+5. The article states that McDonald's received $9.27bn in revenues from its franchised restaurants worldwide in 2014, but the summary does not mention this.
 
-Overall, the summary is not consistent with the article because it does not accurately represent the information or claims made in the article. The summary is limited to a single sentence that is not supported by the article, and it does not include any of the key details or allegations mentioned in the article.
+Therefore, the summary is not consistent with the article because it does not include any of the key points mentioned in the article. Instead, the summary seems to be a simplification of McDonald's statement, which is not supported by the article. The spans in the summary that have consistency issues are:
+
+* "and workers" - this phrase is not present in the article.
+* NaN - there is no value present in this span, which indicates that it is not a valid statement.
 
 ###Corrected:

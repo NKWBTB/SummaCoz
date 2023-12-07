@@ -29,11 +29,26 @@ The government consultation on further regulation runs until mid-January.
 the head of ofsted, sir michael wilshaw, has been accused of failing to prevent child abuse in schools in england.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "head of ofsted",
+  "the head",
+  "accused",
+  "accused of failing to prevent child abuse"
+]
 
-1. The summary states that Sir Michael Wilshaw, the head of Ofsted, has been accused of failing to prevent child abuse in schools in England.
-2. However, the article does not mention anything about Sir Michael Wilshaw failing to prevent child abuse. Instead, it reports that Ofsted has found evidence of children being taught in squalid conditions in three places in Birmingham, and that the owners are being investigated under suspicion of running an illegal school.
-3. The article also mentions that Sir Michael Wilshaw is concerned about the risk of child abuse and radicalization in unregistered schools, and that Ofsted has provided funding for a team of six inspectors to investigate illegal schools.
-4. Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. Specifically, the summary falsely accuses Sir Michael Wilshaw of failing to prevent child abuse, when in fact the article does not make any such accusation.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "head of Ofsted" vs "Chief Inspector of Schools in England"
+The summary uses the term "head of Ofsted", while the article uses the title "Chief Inspector of Schools in England" to refer to Sir Michael Wilshaw. This inconsistency may be due to a simple mistake or a lack of familiarity with the correct title.
+2. "the head" vs "Sir Michael Wilshaw"
+The summary uses the phrase "the head" to refer to Sir Michael Wilshaw, which is not a precise or accurate term. The article uses the name "Sir Michael Wilshaw" to refer to him.
+3. "accused" vs "seriously concerned"
+The summary uses the word "accused" to describe Sir Michael Wilshaw's alleged failure to prevent child abuse, which is a much stronger and more negative term than the article's phrase "seriously concerned". This inconsistency may be due to a difference in tone or emphasis.
+4. "accused of failing to prevent child abuse" vs "seriously concerned that children were at risk of being abused or radicalised"
+The summary's phrase "accused of failing to prevent child abuse" is not supported by the article, which does not mention any accusations or failures on Sir Michael Wilshaw's part. Instead, the article quotes Sir Michael as expressing serious concerns about the risk of child abuse and radicalisation.
+
+Overall, the summary is not consistent with the article because it uses more negative and sensational language, and it introduces concepts (such as "accused") that are not supported by the article.
 
 ###Corrected:

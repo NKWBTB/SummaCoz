@@ -14,13 +14,20 @@ A Twitter account run by the White Whale Research Centre provides real-time upda
 a famous white humpback whale has been spotted on his annual migration to australia\'s north.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "on his annual migration to australia\\'s north",
+  "north"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that the whale is on its annual migration to Australia's north, implying that it is a regular occurrence. However, the article states that Migaloo is known for his distinctive coloring and was the only documented all-white humpback whale in the world, suggesting that this is not a regular migration.
-2. The summary does not provide any information about Migaloo's coloring or his uniqueness, which is a significant aspect of the article.
-3. The summary mentions "a famous white humpback whale," but the article does not use the word "famous." Instead, it refers to Migaloo as "the only documented all-white humpback whale in the world."
-4. The summary states that the whale is on its annual migration to Australia's north, but the article does not mention anything about migration. Instead, it states that Migaloo has been sighted off the coast of New South Wales state, including the resort town of Byron Bay.
+1. The article states that Migaloo is known for his distinctive coloring and has been sighted off the coast of New South Wales state, including the resort town of Byron Bay. However, the summary states that the famous white humpback whale has been spotted on his annual migration to Australia's north. This implies that Migaloo is migrating to a different location, which is not supported by the article.
+2. The article does not mention anything about Migaloo migrating to a specific location, let alone Australia's north. Instead, it states that he has been sighted off the coast of New South Wales state.
+3. The word "annual" in the summary is also not supported by the article. The article does not mention anything about Migaloo migrating on an annual basis.
+4. Finally, the word "north" in the summary is also not supported by the article. The article does not mention anything about Migaloo traveling to the north.
 
-Therefore, the summary is not consistent with the article because it does not accurately represent the information provided in the article. The summary omits important details about Migaloo's uniqueness and coloring, and it includes information that is not present in the article (such as annual migration).
+Therefore, based on the inconsistencies listed above, it is clear that the summary is not consistent with the article.
 
 ###Corrected:

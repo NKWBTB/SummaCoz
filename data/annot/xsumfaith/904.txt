@@ -42,12 +42,20 @@ The intensely private Millar gave his permission to Smith as long as proceeds we
 one of the world\'s best cyclists has been named as the world\'s top sports personality of the year.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "one of the world\\'s best cyclists has been named as the world\\'s top sports personality of the year"
+]
 
-1. The summary states that one of the world's best cyclists has been named as the world's top sports personality of the year.
-2. However, the article does not mention anything about the cyclist being named as the world's top sports personality of the year.
-3. In fact, the article is about a sportive event being held in Scotland to celebrate the legacy of Robert Millar, a Scottish cyclist who finished fourth in the 1984 Tour de France.
-4. The article highlights the achievements of Millar and his contribution to Scottish and British cycling, but there is no mention of him being named as the world's top sports personality of the year.
-5. Therefore, the summary is not consistent with the article because it makes a claim that is not supported by the content of the article.
+Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
+
+1. The article is about Robert Millar, a Scottish cyclist, and his achievements in the sport.
+2. The summary states that Robert Millar has been named the world's top sports personality of the year.
+3. However, this statement is not supported by the article. The article does not mention anything about Robert Millar being named the world's top sports personality of the year.
+4. In fact, the article focuses on Robert Millar's achievements in cycling and his contributions to the sport, but it does not mention any awards or recognition he has received.
+5. Therefore, the summary is not consistent with the article, as it makes a claim that is not supported by the content of the article.
+
+Overall, the summary is not an accurate reflection of the article's content, and it contains information that is not supported by the text.
 
 ###Corrected:

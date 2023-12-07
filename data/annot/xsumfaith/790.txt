@@ -25,13 +25,24 @@ The IAAF said last week it was concerned about the number of Russian doping case
 britain\'s olympic gold medallist jade chernova has been banned from the world anti-doping agency for failing to qualify for the rio olympics.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "olympic gold medallist jade",
+  "failing to qualify",
+  "jade",
+  "britain\\'s olympic",
+  "world anti-doping agency for failing to qualify for the rio olympics"
+]
+
 Explain your reasoning step by step:[/INST]
-  Sure! Here's why the summary is not consistent with the article:
+ Sure! Here's my reasoning step by step:
 
-1. The summary states that Jade Chernova was banned from the World Anti-Doping Agency (WADA) for failing to qualify for the Rio Olympics. However, the article does not mention anything about Chernova being banned from WADA. Instead, it states that she was given a two-year ban by the Russian anti-doping agency, which was backdated to 22 June 2013.
-2. The summary incorrectly implies that Chernova failed a doping test and was banned as a result. However, the article states that Chernova was given a ban after a sample from 2009 was re-tested and found to contain performance-enhancing drugs.
-3. The summary mentions nothing about the fact that Chernova's ban was backdated, meaning that she will be eligible to compete again soon. The article states that Chernova's ban is due to expire on 21 June, and that she could potentially compete at the 2015 World Championships in Beijing and the 2016 Rio Olympics.
+1. "olympic gold medallist jade" - The article does not mention Jade Chernova as an Olympic gold medallist. The correct information is that she won the gold medal at the 2011 World Championships in Daegu, South Korea.
+2. "failing to qualify" - The article does not mention that Chernova failed to qualify for the Rio Olympics. In fact, the article states that she could compete at both the 2015 World Championships in Beijing and the 2016 Rio Olympics, despite her ban.
+3. "jade" - The correct name of the athlete is Yuliya Chernova, not Jade.
+4. "britain's olympic" - The article does not mention that Chernova is from Britain. She is a Russian athlete.
+5. "world anti-doping agency for failing to qualify for the rio olympics" - The article does not mention the World Anti-Doping Agency (WADA) or failing to qualify for the Rio Olympics. Chernova's ban is due to a doping violation, not for failing to qualify for a specific competition.
 
-Overall, the summary is not consistent with the article because it contains incorrect information and omits key details. It is important to carefully read and understand the article before creating a summary to ensure accuracy and consistency.
+Therefore, the summary is not consistent with the article, as it contains several inaccuracies and exaggerations.
 
 ###Corrected:

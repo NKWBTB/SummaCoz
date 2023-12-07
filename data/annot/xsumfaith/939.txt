@@ -14,13 +14,20 @@ The Metropolitan Police said security at the airport would be reviewed.
 men and women have been charged in connection with a protest against a planned airport airport in the republic of ireland.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "protest against a planned airport airport in the republic of ireland",
+  "republic of ireland"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the protest took place at Heathrow Airport in the UK, not in the Republic of Ireland.
-2. The summary mentions a planned airport in the Republic of Ireland, which is not mentioned in the article.
-3. The article states that the protesters were charged with aggravated trespass and entering a security restricted area of an aerodrome, while the summary only mentions a protest against a planned airport.
-4. The article is specific about the location of the protest (Heathrow Airport) and the charges brought against the protesters, while the summary is vague and does not provide any specific details.
+1. The article states that the protest took place at an airport in London, specifically on the northern runway at 03:30 BST on Monday.
+2. The summary states that the protest was against a planned airport in the republic of Ireland. This is inconsistent with the article, as there is no mention of Ireland or any planned airport expansion in the article.
+3. The phrase "republic of Ireland" is also inconsistent with the article, as the article does not mention Ireland at all.
+4. Therefore, the summary is not consistent with the article, as it contains information that is not supported by the article.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary is incorrect in stating that the protest took place in the Republic of Ireland and does not mention the specific charges brought against the protesters.
+Overall, the summary should be revised to accurately reflect the information in the article.
 
 ###Corrected:

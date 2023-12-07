@@ -23,12 +23,18 @@ Sorry Ronaldo. Brilliant footballer. Awful haircut.
 it\'s not long since a top tennis player became the first woman to lose her hair in a match.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "it\\'s not long since a top tennis player became the first woman"
+]
 
-1. The summary states that a top tennis player became the first woman to lose her hair in a match.
-2. However, the article does not mention anything about a tennis player losing her hair during a match.
-3. Instead, the article discusses various sporting hairstyles that have gone wrong, including Dennis Rodman's bleached blonde look and Giovanni Simeone's quirky style.
-4. The article does mention Svetlana Kuznetsova hacking off some of her own hair midway through a match at the WTA Finals in Singapore, but this is not the same as losing her hair during the match.
-5. Therefore, the summary is not consistent with the article, as it makes a claim that is not supported by the content of the article.
+Explain your reasoning step by step:[/INST]
+  Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. The article states that Svetlana Kuznetsova hacked off some of her own hair midway through a match at the WTA Finals in Singapore.
+2. The article does not mention any other top tennis players who have lost their hair in a match.
+3. Therefore, the statement in the summary "it's not long since a top tennis player became the first woman" is not accurate, as there is no evidence in the article to support the claim that there have been other top tennis players who have lost their hair in a match.
+4. The phrase "it's not long since" implies that the event being described is recent or recent enough to still be within memory, but the article does not provide any indication that other top tennis players have lost their hair in a match.
+5. Therefore, the summary is not consistent with the article, as it implies that there have been other top tennis players who have lost their hair in a match, when in fact there is no evidence to support this claim in the article.
 
 ###Corrected:

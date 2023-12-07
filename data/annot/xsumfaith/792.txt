@@ -18,14 +18,26 @@ During the attack in Ranaghat town on 14 March, money was stolen from the conven
 a man has been arrested in connection with a gang rape in a convent in kolkata (calcutta), police have said.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "convent",
+  "gang rape",
+  NaN
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the police have arrested a man named Nazrul for the gang rape of a 74-year-old nun in a convent in Kolkata.
-2. The summary only states that a man has been arrested in connection with the gang rape, without providing any details about the man's name or nationality.
-3. The article mentions that Nazrul is a Bangladeshi citizen, which is not mentioned in the summary.
-4. The article also mentions that this is the sixth arrest in the case and that eight suspects have been identified, while the summary does not provide any information about the number of arrests or suspects.
-5. The article states that the police acted on a tip-off that Nazrul, who had fled to Bangladesh after being identified from CCTV footage of the attack, was due to return to Kolkata by train, which is not mentioned in the summary.
+1. "convent": The article mentions "convent school" and "convent itself", but the summary only mentions "convent". This is an inconsistency because the summary does not accurately reflect the article's use of the word "convent".
+2. "gang rape": The article mentions "gang rape" and describes the attack in detail, but the summary only mentions "gang rape" without providing any additional information. This is an inconsistency because the summary does not accurately reflect the article's information about the attack.
+3. "NaN": The article does not mention "NaN" at all. This is an inconsistency because the summary includes a word that does not appear in the article.
 
-Therefore, the summary is not consistent with the article because it does not provide the same level of detail about the man arrested, his nationality, the number of arrests and suspects, and the circumstances of the arrest.
+Therefore, the summary has consistency issues with the following spans:
+
+* "convent"
+* "gang rape"
+* "NaN"
+
+I hope this helps! Let me know if you have any other questions.
 
 ###Corrected:

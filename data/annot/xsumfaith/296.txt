@@ -33,15 +33,26 @@ Ashya: The Untold Story is to be broadcast on BBC1 in the South region on Friday
 brain tumour patient ashya king has been diagnosed with cancer, the bbc has learned.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "cancer",
+  "learned",
+  "king",
+  "brain tumour patient",
+  "brain tumour",
+  "diagnosed with cancer"
+]
+
 Explain your reasoning step by step:[/INST]
+  Sure! Here's my reasoning step by step:
 
-1. The summary states that Ashya King has been diagnosed with cancer, but the article does not mention any such diagnosis.
-2. The article states that Ashya was being treated for a brain tumour, but the summary does not mention the specific type of tumour or any treatment details.
-3. The summary is not consistent with the article because it does not provide any supporting information or context from the article.
-4. The article provides information about Ashya's treatment, including proton beam therapy and the fact that he did not receive subsequent chemotherapy, but the summary does not mention any of this information.
-5. The article quotes medical professionals expressing concerns about the potential impact of not receiving chemotherapy on Ashya's recovery, but the summary does not include any of these quotes or concerns.
-6. The article provides a more detailed and nuanced account of Ashya's situation, including the breakdown in the relationship between his parents and the hospital, the controversy surrounding his treatment, and the concerns of medical professionals, but the summary does not provide any of this context or detail.
+1. "cancer": The summary mentions "cancer" as if it's a new diagnosis, but the article states that Ashya was diagnosed with a brain tumour, not cancer.
+2. "learned": The summary implies that the BBC has just learned about Ashya's diagnosis, but the article states that the hospital staff were aware of Ashya's condition and were concerned about the lack of chemotherapy treatment.
+3. "king": The summary mentions "king" as if it's a name, but the article does not mention a specific name.
+4. "brain tumour patient": The summary does not provide any context or information about Ashya's condition, other than the fact that he is a "brain tumour patient".
+5. "brain tumour": The summary does not provide any information about the type of tumour Ashya has, other than the fact that it is a "brain tumour".
+6. "diagnosed with cancer": The summary states that Ashya has been "diagnosed with cancer", but the article states that he has a brain tumour, not cancer.
 
-Overall, the summary is not consistent with the article because it does not provide any supporting information or context and instead focuses on a single, misleading statement about Ashya's diagnosis.
+Overall, the summary does not provide accurate or consistent information about Ashya's condition or treatment. It is based on incomplete or inaccurate information and does not reflect the full context of the article.
 
 ###Corrected:

@@ -18,11 +18,20 @@ The exhibition runs from 31 July until 5 August.
 an edinburgh taxi driver who took thousands of people to a festival has revealed he has been given the chance to take up the art exhibition.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "he has been given the chance to take up the art exhibition",
+  "thousands",
+  "revealed he has been given the chance to take up the art"
+]
 
-1. The article states that Ryan Walls took pictures of 101 passengers during the Edinburgh Festival in 2015.
-2. The summary states that the taxi driver took thousands of people to the festival. This is not consistent with the article, as it would be physically impossible for one driver to take thousands of people to the festival.
-3. The article states that Ryan Walls took pictures of 101 passengers, which is a much smaller number than thousands.
-4. Therefore, the summary is not consistent with the article because it exaggerates the number of people the taxi driver took to the festival.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "he has been given the chance to take up the art exhibition" - The article does not mention anything about the taxi driver being given the chance to take up an art exhibition. The article only mentions that his photographs will be on display at Out of the Blue Drill Hall.
+2. "thousands" - The article does not mention the word "thousands" or any specific number of passengers that the taxi driver took to the festival. The article only mentions that he took pictures of 101 passengers.
+3. "revealed he has been given the chance to take up the art" - The article does not mention anything about the taxi driver being given the chance to take up an art exhibition. The article only mentions that his photographs will be on display at Out of the Blue Drill Hall.
+
+Therefore, the summary is not consistent with the article because it contains information that is not present in the article. The summary should only have included information that is directly supported by the article.
 
 ###Corrected:

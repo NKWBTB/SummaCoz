@@ -26,13 +26,22 @@ Growing Up in the City is at the Museum of Liverpool until 25 September.
 a collection of photographs from around the world have gone on display in liverpool for the first time.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "around the world",
+  "first time",
+  "from around the world",
+  "for the first time"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure! Here's my reasoning step by step:
 
-1. The article states that the exhibition is at the Museum of Liverpool, which suggests that the photographs are from Liverpool or the surrounding area.
-2. The summary states that the photographs are from around the world. This is inconsistent with the article, as the article specifically states that the photographs are from Liverpool.
-3. The article also mentions that the exhibition is a collection of 25 evocative photographs that capture the life of children over more than 100 years, while the summary only mentions a collection of photographs without any specific details about the content or time period.
-4. Additionally, the article mentions that the exhibition is curated by Kay Jones and includes photographs from the National Museums Liverpool's collections, while the summary does not provide any information about the curator or the provenance of the photographs.
+1. "around the world": The article does not mention anything about photographs from around the world. It only mentions photographs from the Museum of Liverpool's collections, which are all from Liverpool.
+2. "first time": The article does not mention that the exhibition is the first time the photographs have been displayed. It only states that the exhibition has been put together by the Curator of Urban Community History at the Museum of Liverpool.
+3. "from around the world": This statement is not consistent with the article, as the photographs are all from Liverpool and there is no mention of photographs from around the world.
+4. "for the first time": This statement is also not consistent with the article, as there is no mention of the exhibition being the first time the photographs have been displayed.
 
-Therefore, the summary is not consistent with the article because it does not accurately describe the content or location of the exhibition. The article provides specific details about the exhibition, including the location, time period, and content, while the summary is very general and does not provide any specific information.
+Therefore, the summary is not consistent with the article. The summary makes claims about the exhibition that are not supported by the information in the article.
 
 ###Corrected:

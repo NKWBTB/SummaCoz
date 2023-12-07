@@ -24,15 +24,18 @@ Reports suggest that some other British universities are thinking of using simil
 the open university of st andrews has launched a bursary scheme designed to help students cope with students.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "students",
+  "st andrews"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The article states that the Open University (OU) has developed a scheme to observe students' paths through courses and engagement with online learning modules.
-2. The summary states that the Open University of St Andrews has launched a bursary scheme.
-3. The Open University of St Andrews does not exist, as there is no such institution as the "Open University of St Andrews". The Open University is a separate institution, located in Milton Keynes, England.
-4. Therefore, the summary is not consistent with the article, as it refers to a non-existent institution and a bursary scheme, while the article discusses the OU's scheme to observe students' engagement with online learning modules.
-5. The article mentions that the OU's scheme is designed to provide targeted support to students who may be struggling, and that the university has taken steps to ensure that students' privacy is protected.
-6. The summary does not mention any of these details, and instead refers to a bursary scheme that does not exist.
+1. "students" - The article mentions "students" multiple times, but the summary only includes it once. This inconsistency may be due to the fact that the article is discussing the scheme's purpose of helping students, while the summary only mentions it once in the context of the bursary scheme.
+2. "st andrews" - The article does not mention "St Andrews" at all. The summary is referring to the Open University, which is a different institution. This inconsistency is likely due to a mistake or misreading of the article.
 
-In conclusion, the summary is not consistent with the article because it refers to a non-existent institution and a bursary scheme, while the article discusses the OU's scheme to observe students' engagement with online learning modules.
+Overall, the summary is not consistent with the article because it includes two place names that do not appear in the article. To make the summary consistent with the article, the place names "Open University" and "students" should be included more frequently, and "St Andrews" should be removed entirely.
 
 ###Corrected:

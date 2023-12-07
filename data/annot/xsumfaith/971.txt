@@ -17,12 +17,20 @@ He added: "The TT was a bloody disaster, aside from walking the dog and racing t
 ulster grand prix champion chris martin has been forced to pull out of the ulster grand prix because of injury.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "because of injury",
+  "ulster grand prix champion",
+  "chris"
+]
 
-1. The summary states that Chris Martin has been forced to pull out of the Ulster Grand Prix due to injury.
-2. However, the article states that Martin did not compete in the Ulster Grand Prix because the bike was not competitive, and he was withdrawn from the event by the team without being told.
-3. There is no mention of injury in the article as a reason for Martin's withdrawal from the Ulster Grand Prix.
-4. Therefore, the summary is not consistent with the article, as it provides a reason (injury) for Martin's withdrawal that is not supported by the article.
-5. The correct summary should reflect the information provided in the article, which is that Martin was withdrawn from the Ulster Grand Prix by the team due to the bike's lack of competitiveness, and there is no mention of injury as a reason for his withdrawal.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "because of injury": The article does not mention anything about Chris Martin pulling out of the Ulster Grand Prix due to injury. Instead, it states that he will not compete in the event because the bike won't be competitive, and the team decided to withdraw him from the event without telling him. Therefore, the phrase "because of injury" is not supported by the article.
+2. "ulster grand prix champion": The article does not refer to Chris Martin as the "ulster grand prix champion". While he has competed in the Ulster Grand Prix in the past, there is no mention of him winning the event or being crowned a champion. Therefore, this phrase is also not supported by the article.
+3. "chris": The article refers to Chris Martin by his full name, "Chris Martin", throughout. The summary uses the name "Chris" which is not consistent with the article.
+
+Therefore, based on the above reasons, the summary is not consistent with the article.
 
 ###Corrected:

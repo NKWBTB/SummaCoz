@@ -32,12 +32,18 @@ Reporting by the BBC's Greg Dunlop
 star wars: the new york city of fett has been speaking to the bbc about how he\'s first film about the darth vader costume.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "new york city",
+  "first film"
+]
 
-1. The summary states that the article is about Mick Fett's Darth Vader costume, but the article does not mention anything about a costume.
-2. The summary mentions that Mick Fett has been speaking to the BBC about his first film, but the article does not mention anything about a film.
-3. The summary is not consistent with the article because the article does not contain any information about a film or a costume.
-4. The article is actually about Mick Fett's extensive collection of Star Wars memorabilia and his love for the franchise, but the summary does not reflect this.
-5. The summary is a poor representation of the article's content and does not accurately convey the main points of the article.
+Explain your reasoning step by step:[/INST]
+ Sure! Here's why the spans in the summary have consistency issues:
+
+1. "new york city": The article does not mention anything about New York City. The article is about a man in Australia who has a vast collection of Star Wars memorabilia and has created a custom Darth Vader costume. Therefore, the mention of "New York City" in the summary is not accurate and does not match the content of the article.
+2. "first film": The article does not mention anything about a "first film" either. The article is about the man's collection and his custom Darth Vader costume, but it does not discuss any films or movie releases. Therefore, the mention of "first film" in the summary is also not accurate and does not match the content of the article.
+
+Overall, the summary does not accurately reflect the content of the article, and it contains two inconsistencies (the mention of "New York City" and "first film").
 
 ###Corrected:

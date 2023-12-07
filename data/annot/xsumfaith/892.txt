@@ -18,12 +18,22 @@ The last increase in burial space in Oxford was in 1932.
 a new burial site is to be held in oxford city centre, the city council has said in a new burial centre.
 </Summary>
 
-Explain your reasoning step by step:[/INST]
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "be held in oxford city centre",
+  "new burial centre",
+  "a new burial site is to be held in oxford city centre, the city council has said in a new burial centre",
+  "in a new burial centre"
+]
 
-1. The article states that the Oxford City Council has been searching for a new burial site for many years, but has not found any suitable sites within the city.
-2. The article mentions that two cemeteries, in Wolvercote and Botley, are still available, but they are expected to be full by 2018 and 2021, respectively.
-3. The council has not given up and is still exploring options, but so far, all council-owned sites that have been identified have been discounted due to various reasons such as size, ground conditions, high water table, or covenant restrictions.
-4. The article does not mention anything about a new burial site in the city centre.
-5. Therefore, the summary statement "a new burial site is to be held in oxford city centre" is not supported by the article and is inconsistent with the information provided.
+Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
+
+1. "be held in oxford city centre": The article does not mention anything about a new burial site being held in Oxford city centre. Instead, it states that the city council has been searching for a suitable new burial site for many years, but has not found any suitable sites within Oxford.
+2. "new burial centre": The article does not mention the term "new burial centre". Instead, it mentions that the council has been searching for a suitable new burial site for many years.
+3. "a new burial site is to be held in oxford city centre, the city council has said in a new burial centre": This statement is not consistent with the article, as there is no mention of a new burial site being held in Oxford city centre, and the article does not mention a new burial centre.
+4. "in a new burial centre": This statement is also not consistent with the article, as there is no mention of a new burial centre.
+
+Overall, the summary does not accurately reflect the information in the article. The article states that the city council has been searching for a suitable new burial site for many years, but has not found any suitable sites within Oxford, and that the two remaining cemeteries are expected to be full by 2018 and 2021. The summary, on the other hand, mentions a new burial site being held in Oxford city centre, which is not supported by the article.
 
 ###Corrected:

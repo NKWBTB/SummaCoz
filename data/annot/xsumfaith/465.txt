@@ -22,14 +22,21 @@ McDonald's received $9.27bn (Â£6.40bn) in revenues from its franchised restaur
 mcdonald\'s has said it is ``deeply concerned\'\'about the future of mcdonald\'s restaurants in mcdonald\'s restaurants.
 </Summary>
 
+For your information, it's reported that the following spans in the summary have consistency issues:
+[
+  "deeply concerned\\'\\'about the future",
+  "in mcdonald\\'s restaurants",
+  "mcdonald\\'s restaurants"
+]
+
 Explain your reasoning step by step:[/INST]
+ Sure, I'd be happy to help! Here's my reasoning step by step:
 
-1. The summary states that McDonald's is "deeply concerned" about the future of its restaurants, but the article does not mention anything about McDonald's being concerned about the future of its restaurants.
-2. The article states that a formal complaint has been made to the European Commission by a group of Italian consumers' organisations, but the summary does not mention anything about a complaint or the European Commission.
-3. The article mentions that McDonald's has been accused of forcing franchisees to pay excessive rents and high fees, but the summary does not mention anything about these allegations.
-4. The article states that the Service Employees International Union (SEIU) and European unions are supporting the formal antitrust complaint, but the summary does not mention anything about the SEIU or European unions.
-5. The article mentions that the consumer organisations claim that franchisees are prevented from switching to competitors because McDonald's makes them sign longer-than-average contracts, but the summary does not mention anything about this.
+1. "deeply concerned'': The word "deeply" is not present in the original article. The article states that McDonald's "shared risks and rewards with its licencees" and "is proud of its franchisees," but it does not mention the company being "deeply concerned" about anything.
+2. "about the future": The article does not mention the future of McDonald's restaurants. It discusses the present situation and allegations made by consumer organisations.
+3. "in mcdonald's restaurants": This phrase is not consistent with the article, as the article does not mention anything about McDonald's restaurants. The article discusses McDonald's franchisees and the allegations made by consumer organisations.
+4. "mcdonald's restaurants": The correct spelling is "McDonald's" with an initial capital letter. The summary uses lowercase "mcdonald's" throughout.
 
-Therefore, the summary is not consistent with the article because it does not accurately reflect the content of the article. The summary only mentions one sentence that is not present in the article, "mcdonald\'s has said it is ``deeply concerned\'\'about the future of mcdonald\'s restaurants in mcdonald\'s restaurants."
+Therefore, the summary is not consistent with the article because it contains words and phrases that are not present in the original article, and it uses incorrect spelling and capitalization.
 
 ###Corrected:
