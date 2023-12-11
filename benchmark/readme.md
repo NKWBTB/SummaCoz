@@ -1,9 +1,9 @@
 # Reasoning Benchmark
 
-## API Endpoint
-https://docs.endpoints.anyscale.com/examples/work-with-openai
-https://platform.openai.com/docs/api-reference/chat/create
-https://platform.openai.com/docs/guides/text-generation/reproducible-outputs
+## API Reference
+1. https://docs.endpoints.anyscale.com/examples/work-with-openai
+2. https://platform.openai.com/docs/api-reference/chat/create
+3. https://platform.openai.com/docs/guides/text-generation/reproducible-outputs
 
 ## Parameter
 ```
