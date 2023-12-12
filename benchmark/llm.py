@@ -16,12 +16,12 @@ from tenacity import (
 def completion_with_backoff(client, **kwargs):
     return client.chat.completions.create(**kwargs)
 
-def consistency_check(item,client,model_name):
+def consistency_check(item,client,model_name, role="system"):
     doc_sum = template.COT_TEMPLATE.format(article = item["document"],summary = item["claim"])
     chat_completion = completion_with_backoff(
         client=client,
         model=model_name,
-        messages=[{"role": "system", "content": doc_sum}],
+        messages=[{"role": role, "content": doc_sum}],
         temperature=0,
         max_tokens = keys.MAX_NEW_TOKEN
     )
@@ -29,18 +29,25 @@ def consistency_check(item,client,model_name):
     item[model_name] = step_reasoning
     return item
 
-def main(model_name = "gpt-3.5-turbo-0301"):
-    client = openai.OpenAI(api_key=keys.openai_api_key)
+def main(api_key, role, model_name="gpt-3.5-turbo-0301", base_url=None):
+    client = openai.OpenAI(
+        base_url=base_url,
+        api_key=api_key
+    )
     benchmark = utils.load_jsonl("benchmark_v_0_6.jsonl")
     for index,item in enumerate(tqdm(benchmark)):
         file_name = os.path.join(model_name, f"{index}.jsonl")
         if os.path.exists(file_name): continue
-        result = consistency_check(item,client,model_name)
+        result = consistency_check(item,client,model_name, role=role)
         utils.dump2jsonl(lines = [result], output_path = file_name)
         time.sleep(60.0/keys.RPM[model_name])
 
 if __name__ == "__main__":
-    main()
+    # main()
+    main(keys.anyscale_key,
+         role="user",
+         base_url="https://api.endpoints.anyscale.com/v1",
+         model_name="meta-llama/Llama-2-7b-chat-hf")
     
     
 
