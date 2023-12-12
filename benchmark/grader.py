@@ -2,17 +2,16 @@ import os
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import transformers
 import torch
-from utils import load_jsonl
+from utils import load_jsonl, dump2jsonl
 import re
-from nltk import sent_tokenize
+# from nltk import sent_tokenize
 import string
 from tqdm import tqdm
 import template
 
-RUN_LOCAL = True
-
+RUN_LOCAL = False
+MODEL = "meta-llama/Llama-2-70b-chat-hf"
 if RUN_LOCAL:
-    MODEL = "meta-llama/Llama-2-13b-chat-hf"
     model = AutoModelForCausalLM.from_pretrained(MODEL,
                                                 torch_dtype=torch.float16,
                                                 trust_remote_code=True,
@@ -25,19 +24,43 @@ if RUN_LOCAL:
         tokenizer=tokenizer,
     )
 
-def llm_generate(input_txt):
-    sequences = pipeline(
-            input_txt,
-            max_new_tokens=16,
-            num_return_sequences=1,
-            pad_token_id=tokenizer.bos_token_id,
-            eos_token_id=tokenizer.eos_token_id,
-            do_sample=False,
-            temperature=0.0,
-            top_p=1.0,
-            return_full_text=False
+    def llm_generate(message):
+        input_text = tokenizer.apply_chat_template(message, tokenize=False, add_generation_prompt=True)
+        sequences = pipeline(
+                input_text,
+                max_new_tokens=16,
+                num_return_sequences=1,
+                pad_token_id=tokenizer.bos_token_id,
+                eos_token_id=tokenizer.eos_token_id,
+                do_sample=False,
+                temperature=0.0,
+                top_p=1.0,
+                return_full_text=False
+        )
+        return sequences[0]['generated_text']
+else:
+    import openai
+    import keys
+    import llm
+    client = openai.OpenAI(
+        base_url="https://api.endpoints.anyscale.com/v1",
+        api_key=keys.anyscale_key,
     )
-    return sequences[0]['generated_text']
+    from joblib import Memory
+    memory = Memory("llm_cache", verbose=0)
+
+    @memory.cache
+    def llm_generate(message):
+        import time
+        time.sleep(60.0/keys.RPM[MODEL])
+        chat_completion = llm.completion_with_backoff(
+            client=client,
+            model=MODEL,
+            messages=message,
+            temperature=0,
+            max_tokens = 16
+        )
+        return chat_completion.choices[0].message.content
 
 def process_human_reasoning(human_reason):
     human_reason = re.sub(r'\n+', '\n', human_reason).strip()
@@ -61,8 +84,9 @@ def answer_parse(input:str):
         pdb.set_trace()
     return 0 if ("no" in words) or ("not" in words) else 1
 
-def run_llm_metric(reference, prediction, template, model_field="reason"):
+def run_llm_metric(reference, prediction, template, model_field="reason", debug=False):
     scores = []
+    if debug: reference = reference[:3]
     for idx, human in enumerate(tqdm(reference)):
         pred = prediction[idx][model_field]
         # print(predicted)
@@ -70,13 +94,16 @@ def run_llm_metric(reference, prediction, template, model_field="reason"):
         points = []
         for item in ground_truth:
             message = [{"role": "user", "content": template.format(input_reasoning=pred, reference=item)}]
-            answer = llm_generate(tokenizer.apply_chat_template(message, tokenize=False, add_generation_prompt=True))
+            answer = llm_generate(message)
             points.append(answer_parse(answer))
         # print(points)
         scores.append(sum(points)/len(points))
     return scores
 
 if __name__ == "__main__":
-    gt = load_jsonl("benchmark_v_0_5.jsonl")
-    pred = load_jsonl("llama2-13b-posthoc.jsonl")
-    run_llm_metric(reference=gt, prediction=pred, template=template.GRADER_TEMPLATE)
+    gt = load_jsonl("benchmark_v_0_6.jsonl")
+    pred = load_jsonl("llama2-13b-posthoc_filtered.jsonl")
+    scores = run_llm_metric(reference=gt, prediction=pred, template=template.GRADER_TEMPLATE, debug=True)
+    dump2jsonl(scores, "scores.jsonl")
+    import pdb
+    pdb.set_trace()

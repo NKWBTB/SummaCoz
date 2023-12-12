@@ -35,19 +35,24 @@ def main(api_key, role, model_name="gpt-3.5-turbo-0301", base_url=None):
         api_key=api_key
     )
     benchmark = utils.load_jsonl("benchmark_v_0_6.jsonl")
+    lines = []
     for index,item in enumerate(tqdm(benchmark)):
         file_name = os.path.join(model_name, f"{index}.jsonl")
-        if os.path.exists(file_name): continue
+        if os.path.exists(file_name): 
+            lines.extend(utils.load_jsonl(file_name))
+            continue
         result = consistency_check(item,client,model_name, role=role)
+        lines.append(result)
         utils.dump2jsonl(lines = [result], output_path = file_name)
         time.sleep(60.0/keys.RPM[model_name])
+    utils.dump2jsonl(lines, f"{model_name}.jsonl")
 
 if __name__ == "__main__":
     # main()
-    main(keys.anyscale_key,
-         role="user",
-         base_url="https://api.endpoints.anyscale.com/v1",
-         model_name="meta-llama/Llama-2-7b-chat-hf")
+    main(keys.openai_api_key,
+         role="system",
+        #  base_url="https://api.endpoints.anyscale.com/v1",
+         model_name="gpt-3.5-turbo-0301")
     
     
 
