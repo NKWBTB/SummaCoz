@@ -23,3 +23,20 @@ Note that consistency means all information in the summary is supported by the a
 {DOC_FIRST}
 Explain your reasoning step by step first, and then answer (yes or no) the question in the end:
 """
+
+GRADER_TEMPLATE = \
+"""You are an assessor to give judgement on a reasoning problem.
+Here is the text to be assessed:
+
+<text>
+{input_reasoning}
+</text>
+
+Does the above text mention or contain the following reference reasoning step:
+
+<reference>
+{reference}
+</reference>
+
+Answer (yes or no):
+"""
