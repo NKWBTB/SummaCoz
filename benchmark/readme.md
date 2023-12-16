@@ -18,3 +18,7 @@ max_new_token=500
     4. meta-llama/Llama-2-13b-chat-hf
     5. meta-llama/Llama-2-7b-chat-hf
 
+## License
+The human explantion is edited based on LLama-2-13b-chat-hf model's output.
+Usage of the data meaning you accept the Use Policy and Licensing Agreement for Llama 2 under the LLama license:
+https://ai.meta.com/llama/license/
