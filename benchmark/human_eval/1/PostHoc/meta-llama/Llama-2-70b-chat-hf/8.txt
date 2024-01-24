@@ -1,0 +1,19 @@
+Reference Reasoning:
+1. The summary states that Amir Khan had hoped to take on Floyd Mayweather in a $300 million mega-fight.
+2. However, the article states that Khan had hoped to fight Adrien Broner, not Mayweather.
+3. The article states but the pound-for-pound king(Mayweather) will instead meet Manny Pacquaio in a $300million mega-fight on May 2.
+4. As the summary use the wrong information that is not included in article, it is inconsistent with article.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+  The summary is not consistent with the article because it mentions the Bolton boxer (Amir Khan) hoping to take on Floyd Mayweather in a $300million mega-fight, but the article does not mention this. In fact, the article states that Amir Khan had hoped to take on Floyd Mayweather but the pound-for-pound king will instead meet Manny Pacquaio in a $300million mega-fight on May 2. This means that the summary is incorrect, as Amir Khan did not hope to take on Floyd Mayweather in a $300million mega-fight, but rather, he had hoped to take on Manny Pacquaio in a $300million mega-fight.
+
+Here's a step-by-step breakdown of the reasoning:
+
+1. The summary mentions Amir Khan hoping to take on Floyd Mayweather in a $300million mega-fight.
+2. The article mentions Amir Khan had hoped to take on Floyd Mayweather but the pound-for-pound king will instead meet Manny Pacquaio in a $300million mega-fight on May 2.
+3. The article does not mention Amir Khan hoping to take on Floyd Mayweather in a $300million mega-fight.
+4. Therefore, the summary is inconsistent with the article, as it mentions a hope that Amir Khan had, which is not supported by the article.
+
+###Annotation
+[]

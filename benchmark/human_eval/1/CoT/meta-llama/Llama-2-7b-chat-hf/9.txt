@@ -1,0 +1,20 @@
+Reference Reasoning:
+1. The summary mentions the home was built for inspection just a day after his sudden passing.
+2. But the fact in article is The home which was built for former Australian prime minister Malcolm Fraser and his wife Tamie has been opened for inspection just a day after his sudden passing. 
+3. The summary simply concatenate two parts of the sentence from the article and express different meanings. Thus it is inconsistent with article.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+  Yes, the summary is consistent with the corresponding article. Here's why:
+
+1. The article mentions that the home was built for former Australian prime minister Malcolm Fraser and his wife Tamie, and the summary confirms this information.
+2. The article states that the property is located in Canberra and has been on the market since October last year, and the summary confirms this information as well.
+3. The article mentions that the property is described as a 'sensational slice of Canberra's political history' by agents, and the summary repeats this information.
+4. The article provides information about the design of the residence, including that it was built by Melbourne Society Architect Guilford Bell and combines Georgian architecture with American plantation style. The summary repeats this information as well.
+5. The article mentions that the property was last sold 20 years ago to vendors Tony and Sue Marinos, and the summary confirms this information.
+6. The article states that Malcolm Fraser died 'peacefully' aged 84 on Friday morning, and the summary repeats this information.
+
+Based on the above, it is clear that the summary is consistent with the corresponding article in terms of all the information provided. Therefore, the answer to the question is (yes).
+
+###Annotation
+[]
