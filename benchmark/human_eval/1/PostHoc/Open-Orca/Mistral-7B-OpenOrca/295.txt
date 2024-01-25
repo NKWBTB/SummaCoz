@@ -1,0 +1,30 @@
+Reference Reasoning:
+1. The summary mentions the resemblance to the first of the original star wars films, but it is not a whole sentence which has grammar error, in the article the fact is Professor Jonathan Armbruster, a biologist and curator of fishes at the museum, said his colleagues Chris Hamilton noticed the resemblance to the alien killed by Han Solo in the first of the original Star Wars films.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+ 1. Read the article and the summary provided.
+2. Identify the main points in the article:
+   a. A new species of bug-eyed catfish has been named after the Star Wars character Greedo.
+   b. The catfish was discovered in the Gurupi River in north central Brazil.
+   c. The fish has large dark eyes, protruding bristles, and a sucker mouth.
+   d. The fish was named by biologists at Auburn University Museum of Natural History.
+   e. The fish resembles the character Greedo from the first Star Wars film.
+   f. Other species named after Star Wars characters are mentioned.
+
+3. Compare the main points in the article with the summary:
+   a. The summary mentions that the catfish is named by biologists at Auburn University Museum of Natural History.
+   b. The summary mentions that the fish was discovered in the Gurupi River in north central Brazil.
+   c. The summary mentions the resemblance to the first of the original Star Wars films.
+   d. The summary mentions that the new species of catfish has large eyes and a sucker mouth much like the bounty.
+   e. The summary mentions that Han Solo is an extinct species found in southern China.
+
+4. Identify inconsistencies between the article and the summary:
+   a. The summary does not mention the large dark eyes and protruding bristles of the catfish.
+   b. The summary incorrectly states that the catfish resembles the bounty hunter Greedo, when it is actually the other way around.
+   c. The summary incorrectly states that Han Solo is an extinct species found in southern China, when it is actually a character from the Star Wars films.
+
+5. Conclusion: The summary is not consistent with the article because it omits important details about the catfish's appearance and incorrectly states that the catfish resembles the bounty hunter Greedo instead of the other way around. Additionally, the summary incorrectly identifies Han Solo as an extinct species found in southern China.
+
+###Annotation
+[]

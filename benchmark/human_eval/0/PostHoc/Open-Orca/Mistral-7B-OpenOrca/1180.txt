@@ -1,0 +1,17 @@
+Reference Reasoning:
+1. The summary mentions John Fett, but the article does not mention any person with that name. The article only mentions "Mick Fett," who is the one with the extensive Star Wars collection.
+2. The summary states that Fett is overwhelmed by the latest Star Wars collection: the force awakens. Howevewr, the article does not mention a Star Wars collection named "the force awakens".
+3. The summary mentions that Fett says he is "overwhelmed" by the latest collection, but the article does not quote him as saying that.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+ 1. Read the article and the summary provided.
+2. Identify the main subject of the article: Mick Fett and his Star Wars collection.
+3. Identify the main point of the article: Mick Fett's vast collection of Star Wars memorabilia, including a life-size Han Solo carbonite statue, priceless vintage toys, and a pod-racer in the backyard.
+4. Compare the main point of the article with the summary provided.
+5. Notice that the summary mentions "star wars actor John Fett" and "overwhelmed by the latest collection of star wars: the force awakens."
+6. Realize that the summary does not mention Mick Fett's vast collection of memorabilia, the life-size Han Solo carbonite statue, priceless vintage toys, or the pod-racer in the backyard.
+7. Conclude that the summary is not consistent with the article because it does not include the main points of the article.
+
+###Annotation
+[]

@@ -1,0 +1,17 @@
+Reference Reasoning:
+1. The summary mentions jim hamilton is a little detached from the reality of something special.
+2. The original sentence in article is After four straight Six Nations defeats, it may seem that he is a little detached from the reality of the situation but Jim Hamilton, that most rugged of lock forwards, maintains this is a team on the verge of something special.
+3. The summary simply concatenate some words from the original sentence and discard the rest of words which express different meaning with article, thus it is inconsistent with article.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+1. The article discusses Scotland's current situation in the Six Nations rugby tournament.
+2. Jim Hamilton, a lock forward for Scotland, maintains that the team is on the verge of something special despite their four straight defeats.
+3. Hamilton cites young talent such as Jonny Gray, Adam Ashe, Stuart Hogg, Finn Russell, and Fraser Brown as reasons for optimism going forward.
+4. Hamilton believes that Scotland is heading in the right direction under coach Vern Cotter and that they are building an unbelievably good squad of players.
+5. Hamilton acknowledges that winning is a habit that Scotland has gotten out of, but he believes that they can change that habit and finish the Six Nations with a win.
+6. The summary only mentions that Jim Hamilton is a little detached from the reality of something special, which is not consistent with the article.
+7. No.
+
+###Annotation
+[]

@@ -1,0 +1,29 @@
+Reference Reasoning:
+1. The summary implies that a guard at the U.S. Census Bureau headquarters was shot in the abdomen. The shooter had taken some three dozen police officers on a wild chase back into D.C., which ended when ramming the front gates.
+2. However, the article states that the shooter tried to ram the gates before firing at the guard at least once. The guard was shot after noticing a couple fighting in a car and went to investigate, costing him his life.
+3. The inconsistency is due to the error that the summary suggests the shooter's chase into D.C. ended by ramming the front gates, while the article states that the shooting occurred after the shooter tried to ram the gates. The sequence of events is misrepresented in the summary.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+ 1. Read the article and the summary provided.
+2. Identify the main points in the article:
+   - A guard at the U.S. Census Bureau headquarters was shot and later died.
+   - The shooter initially kidnapped his own wife at gunpoint in Washington.
+   - The campus was locked down as authorities searched for the shooter.
+   - The shooter took a wild chase back into D.C., ramming the front gates and firing at the guard.
+   - The shooter may be tied to another shooting in the city.
+   - The guard was shot after noticing a couple fighting in a car.
+   - The shooter was eventually shot and wounded in a standoff in Northeast Washington.
+   - Two police officers were also wounded in the standoff but had non-life threatening injuries.
+
+3. Compare the main points in the article with the summary:
+   - The summary mentions the guard being shot in the abdomen, which is consistent with the article.
+   - The summary mentions the shooter taking a wild chase back into D.C., which is consistent with the article.
+   - The summary does not mention the shooter ramming the gates before firing at the guard, which is an important detail in the article.
+   - The summary does not mention the guard being shot after noticing a couple fighting in a car, which is a key detail in the article.
+   - The summary does not mention the shooter possibly being tied to another shooting in the city, which is a relevant detail in the article.
+
+4. Determine that the summary is not consistent with the article because it omits important details and does not accurately represent the events described in the article.
+
+###Annotation
+[]

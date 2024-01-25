@@ -1,0 +1,20 @@
+Reference Reasoning:
+1. The summary mentions the resemblance to the first of the original star wars films, but it is not a whole sentence which has grammar error, in the article the fact is Professor Jonathan Armbruster, a biologist and curator of fishes at the museum, said his colleagues Chris Hamilton noticed the resemblance to the alien killed by Han Solo in the first of the original Star Wars films.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+  Yes, the summary is consistent with the article.
+
+Reasoning:
+
+1. The article mentions that the new species of catfish was named by biologists at Auburn University Museum of Natural History. The summary also states that the catfish was named by biologists at the same institution.
+2. The article states that the fish was discovered in the Gurupi River in north central Brazil. The summary also mentions that the fish was discovered in the same location.
+3. The article mentions that the new species of catfish has large eyes and a sucker mouth, which resembles the bounty hunter Greedo from Star Wars. The summary also states that the catfish has large eyes and a sucker mouth, and that it resembles the character Greedo.
+4. The article mentions that Han Solo, an extinct species of trilobite found in southern China, was also named after a character from Star Wars. The summary does not mention this, but it does list Han Solo as an extinct species found in southern China.
+
+Overall, the summary accurately summarizes the main points of the article, and it provides additional information not found in the article. Therefore, the summary is consistent with the article.
+
+Answer: Yes.
+
+###Annotation
+[]

@@ -1,0 +1,15 @@
+Reference Reasoning:
+1. The summary mentions the resemblance to the first of the original star wars films, but it is not a whole sentence which has grammar error, in the article the fact is Professor Jonathan Armbruster, a biologist and curator of fishes at the museum, said his colleagues Chris Hamilton noticed the resemblance to the alien killed by Han Solo in the first of the original Star Wars films.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+The summary is not consistent with the article because:
+
+1. The summary states that the catfish was named by biologists at Auburn University Museum of Natural History, which is supported by the article.
+2. The summary correctly states that the fish was discovered in the Gurupi River in north central Brazil, which is also supported by the article.
+3. However, the summary incorrectly states that the catfish's resemblance is to the first of the original Star Wars films, when in fact it is specifically to the character Greedo from that film. The article clearly states that the catfish was named Peckoltia greedoi after the fictional alien bounty hunter Greedo.
+4. The summary correctly describes the catfish as having large eyes and a sucker mouth, which is supported by the article.
+5. The summary incorrectly states that Han Solo is an extinct species found in southern China. While the article does mention a fossil trilobite that was given the name Han solo by a palaeobiologist, it does not state that Han Solo is an extinct species found in southern China.
+
+###Annotation
+[]

@@ -1,0 +1,15 @@
+Reference Reasoning:
+1. The summary mentions jim hamilton is a little detached from the reality of something special.
+2. The original sentence in article is After four straight Six Nations defeats, it may seem that he is a little detached from the reality of the situation but Jim Hamilton, that most rugged of lock forwards, maintains this is a team on the verge of something special.
+3. The summary simply concatenate some words from the original sentence and discard the rest of words which express different meaning with article, thus it is inconsistent with article.
+Therefore, the answer is no, the summary is not consistent with the article.
+
+Model Reasoning:
+  The summary states that Jim Hamilton is "a little detached from the reality" of something special. However, the article does not support this claim. In fact, the article portrays Hamilton as a positive and optimistic figure who believes in the potential of the Scotland team despite their recent losses. He emphasizes the young talent and progress being made under coach Vern Cotter, and expresses confidence in the team's ability to execute their game plan and win games.
+
+Therefore, the summary is not consistent with the article. The article presents a more positive outlook on the Scotland team and Jim Hamilton's views, rather than portraying him as detached from reality.
+
+Answer: No, the summary is not consistent with the article.
+
+###Annotation
+[]
