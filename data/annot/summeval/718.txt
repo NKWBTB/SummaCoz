@@ -21,3 +21,8 @@ Explain your reasoning step by step:[/INST]
 1. The summary states that Ross Barkley missed a penalty, but his replacement Leighton Baines had no problem taking the shot.
 2. However, the article states that Barkley took the penalty, not Baines.
 3. Therefore, the summary is not consistent with the article, as it implies that Barkley missed the penalty and was replaced by Baines, when in fact Barkley took the penalty and it was saved by the goalkeeper.
+
+###Corrected:
+1. The summary states that Ross Barkley missed a penalty, but his replacement Leighton Baines had no problem taking the shot.
+2. The summary implies that Barkley missed the penalty and was replaced by Baines.
+3. But the article does not mention Barkley is replaced by Baines, nor Baines taking the shot.
