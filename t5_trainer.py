@@ -14,17 +14,16 @@ import os
 
 YES_TEXT = "Yes, the hypothesis is true."
 NO_TEXT = "No, the hypothesis is not true."
-EXPLANATION_PROMPT = "Provide an explanation if the answer is no."
 
 PROMPT = \
-"""Premise: {article} 
+"""Determine if the hypothesis is true given the premise?
 
 Hypothesis: {summary}
 
-Is the hypothesis true given the premise?
+Premise: {article} 
 """
 
-MODEL_ID = "google/flan-t5-large"
+MODEL_ID = "google/flan-t5-xl"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 
@@ -34,7 +33,6 @@ def process_message(example, tokenizer, add_response, add_reason):
     if add_response:
         answer = (YES_TEXT if example["label"] == 0 else NO_TEXT)
         if add_reason:
-            instruction += EXPLANATION_PROMPT
             reason = example["reason"].replace("article", "premise")
             reason = reason.replace("summary", "hypothesis")
             answer = (YES_TEXT if example["label"] == 0 else NO_TEXT) + "\n\n" + reason
@@ -78,30 +76,35 @@ def compute_metrics(eval_preds):
 if __name__ == '__main__':
     GRADIENT_CHECKPOINTING = True
     LORA = True
+    LOAD_IN_8BIT = True
     summae_train = load_summae("data/merge/train.jsonl", add_reason=True)
     summae_dev = load_summae("data/merge/val.jsonl", add_reason=True)
 
     model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_ID, 
-                                                  device_map="auto")
+                                                  device_map="auto",
+                                                  load_in_8bit=LOAD_IN_8BIT)
                                                 #   attn_implementation="flash_attention_2")
+    
     if LORA:
+        if LOAD_IN_8BIT:
+            model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=GRADIENT_CHECKPOINTING)
         peft_config = LoraConfig(
             task_type = TaskType.SEQ_2_SEQ_LM,
             r = 16,
-            lora_alpha = 16,
+            lora_alpha = 32,
             lora_dropout = 0.05,
             inference_mode = False,
             bias='lora_only'
         )
         model = get_peft_model(model, peft_config)
-        if GRADIENT_CHECKPOINTING:
+        if GRADIENT_CHECKPOINTING and not LOAD_IN_8BIT:
             model = model._prepare_model_for_gradient_checkpointing(model)
         model.print_trainable_parameters()
 
     training_args = Seq2SeqTrainingArguments(
         num_train_epochs=20,
         per_device_train_batch_size=4,
-        per_device_eval_batch_size=2,
+        per_device_eval_batch_size=4,
         gradient_accumulation_steps=2,
         evaluation_strategy="steps", 
         save_strategy="steps",
@@ -133,6 +136,6 @@ if __name__ == '__main__':
     # pdb.set_trace()
 
     from functools import partial
-    trainer.evaluate = partial(trainer.evaluate, max_length=10)
+    trainer.evaluate = partial(trainer.evaluate, max_length=2)
     # print(trainer.evaluate())
     trainer.train()
