@@ -2,6 +2,7 @@ from llama2_gen import load_jsonl, dump2jsonl, apply_template
 from template import CONSISTENT_STRING, CONSISTENT_TEMPLATE, INCONSISTENT_STRING, inst_parse, annot_parse, COT_TEMPLATE, ZEROSHOT_TEMPLATE, DOC_FIRST
 import os
 import torch
+import re
 from datasets import Dataset
 from transformers import BatchEncoding
 
@@ -139,10 +140,81 @@ def merge_reasoning(parse_func, neg_reason_folder, pos_reason_folder=None, fallb
         data = [data[i] for i in range(size) if not i in index2delete]
         dump2jsonl(data, os.path.join(dump_folder, "_".join([name, cut])+'.jsonl'))
 
+def reason_parse(input:str):
+    corretion_part = input.rpartition("###Corrected:")[2]
+    if "###" in corretion_part: 
+        return ""
+    return corretion_part
+
+def reason_process(input:str):
+    reasoning = input.split("\n")
+    reasoning = [item for item in reasoning if len(item.strip()) > 0 and (not "summary does not" in item.lower())]
+    results = []
+    for idx, item in enumerate(reasoning, start=1):
+        modified_string = re.sub(r'^\d+\.\s*', '', item)
+        # modified_string = modified_string.replace("article", "premise")
+        # modified_string = modified_string.replace("summary", "hypothesis")
+        results.append(modified_string)
+    return "\n".join(results)
+
+def filter_criterion(sample):
+    # Filter out polytope problematic labels
+    if sample["dataset"] == "polytope" and sample["label"] == 0:
+        errors = set(sample["errors"])
+        other_errors = set(["Addition", "Omission", "Duplication"])
+        if other_errors.union(errors) == other_errors: 
+            return True
+    # Ignore Frank-XSum
+    if sample["dataset"] == "frank" and sample["origin"] == "xsum":
+        return True
+
+def add_reason(annot_folder, parse_func):
+    import random
+    raw_folder = "data/raw"
+    dump_folder = "data/merge"
+    cut = "val"
+    lines = []
+    remain = []
+    for name in data_names:
+        print(name, cut)
+        data = load_jsonl(os.path.join(raw_folder, "_".join([name, cut])+'.jsonl'))
+        size = len(data)
+        index2delete = set()
+        for i in range(size):
+            annot_file = os.path.join(annot_folder, name, f"{i}.txt")
+            reasoning = ""
+            if os.path.exists(annot_file):
+                reasoning = read_text(annot_file)
+            parsed = parse_func(reasoning)
+            sample = {
+                "summary": data[i]["claim"],
+                "article": data[i]["document"],
+                "reason": reason_process(parsed),
+                "origin": data[i]["origin"],
+                "dataset": data[i]["dataset"],
+                "label": (0 if data[i]["label"] else 2),
+            }
+            if len(parsed) > 3:
+                lines.append(sample)
+            else:
+                if len(reasoning) > 0:
+                    index2delete.add(i)
+                if not filter_criterion(data[i]):
+                    if sample["label"] == 0 and random.randint(0, 1):
+                        lines.append(sample)
+                    else:
+                        remain.append(sample)
+        print("Deleted", len(index2delete))
+    print(len(lines))
+    dump2jsonl(lines, os.path.join(dump_folder, "train.jsonl"))
+    print(len(remain))
+    dump2jsonl(remain, os.path.join(dump_folder, "val.jsonl"))
+
 if __name__ == '__main__':
     # merge_reasoning(parse_func=lambda x : inst_parse(x, filter=True), reason_folder="data/raw_annot")
     # merge_reasoning(parse_func=annot_parse, reason_folder="data/annot")
-    merge_reasoning(parse_func=annot_parse, neg_reason_folder="data/annot", pos_reason_folder="data/positive", fallback_func=inst_parse)
+    # merge_reasoning(parse_func=annot_parse, neg_reason_folder="data/annot", pos_reason_folder="data/positive", fallback_func=inst_parse)
+    add_reason("data/annot", reason_parse)
     import pdb
     pdb.set_trace()
 
