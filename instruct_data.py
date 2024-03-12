@@ -148,7 +148,7 @@ def reason_parse(input:str):
 
 def reason_process(input:str):
     reasoning = input.split("\n")
-    reasoning = [item for item in reasoning if len(item.strip()) > 0 and (not "summary does not" in item.lower())]
+    reasoning = [item for item in reasoning if len(item.strip()) > 0]
     results = []
     for idx, item in enumerate(reasoning, start=1):
         modified_string = re.sub(r'^\d+\.\s*', '', item)
@@ -210,11 +210,63 @@ def add_reason(annot_folder, parse_func):
     print(len(remain))
     dump2jsonl(remain, os.path.join(dump_folder, "val.jsonl"))
 
+def use_filtered_samples(annot_folder, parse_func):
+    import random
+    raw_folder = "data/raw"
+    dump_folder = "data/merge"
+    cut = "val"
+    lines = []
+    remain = []
+    # Filtered Negative samples
+    filtered_samples = load_jsonl("data/gpt_filtered.jsonl")
+    for line in filtered_samples:
+        sample1 = {
+            "summary": line["claim"],
+            "article": line["document"],
+            "reason": line["human_reason"].strip().rpartition("\n")[0],
+            "origin": line["origin"],
+            "dataset": line["dataset"],
+            "label": 2,
+        }
+        sample2 = sample1.copy()
+        sample2["reason"] = line["gpt-4-1106-preview"]
+        lines.extend([sample1, sample2])
+    print("Negs", len(lines))
+    # Other samples
+    for name in data_names:
+        print(name, cut)
+        data = load_jsonl(os.path.join(raw_folder, "_".join([name, cut])+'.jsonl'))
+        size = len(data)
+        for i in range(size):
+            annot_file = os.path.join(annot_folder, name, f"{i}.txt")
+            reasoning = ""
+            if os.path.exists(annot_file):
+                reasoning = read_text(annot_file)
+            if len(parse_func(reasoning)) > 3: continue
+            sample = {
+                "summary": data[i]["claim"],
+                "article": data[i]["document"],
+                "reason": "",
+                "origin": data[i]["origin"],
+                "dataset": data[i]["dataset"],
+                "label": (0 if data[i]["label"] else 2),
+            }
+            if not filter_criterion(data[i]):
+                if sample["label"] == 0 and random.randint(0, 1):
+                    lines.append(sample)
+                else:
+                    remain.append(sample)
+    print(len(lines))
+    dump2jsonl(lines, os.path.join(dump_folder, "train_filtered.jsonl"))
+    print(len(remain))
+    dump2jsonl(remain, os.path.join(dump_folder, "val_filtered.jsonl"))
+
 if __name__ == '__main__':
     # merge_reasoning(parse_func=lambda x : inst_parse(x, filter=True), reason_folder="data/raw_annot")
     # merge_reasoning(parse_func=annot_parse, reason_folder="data/annot")
     # merge_reasoning(parse_func=annot_parse, neg_reason_folder="data/annot", pos_reason_folder="data/positive", fallback_func=inst_parse)
-    add_reason("data/annot", reason_parse)
+    # add_reason("data/annot", reason_parse)
+    use_filtered_samples("data/annot", reason_parse)
     import pdb
     pdb.set_trace()
 
