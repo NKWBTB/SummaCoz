@@ -4,6 +4,7 @@ from datasets import Dataset, load_dataset, concatenate_datasets, interleave_dat
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, TrainingArguments, pipeline
 from peft import get_peft_config, PeftModel, PeftConfig, get_peft_model, LoraConfig, TaskType, prepare_model_for_kbit_training
 from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
+from sklearn.metrics import balanced_accuracy_score
 import torch
 import pandas as pd
 import os
@@ -12,11 +13,11 @@ COT_TEXT = "Explain your reasoning step by step first, and then answer (yes or n
 POSTHOC_TEXT = "Answer (yes or no) the question first, and then provide an explanation."
 BASELINE_TEXT = "Answer (yes or no):"
 
-YES_TEXT = "Yes, the hypothesis text is faithful."
-NO_TEXT = "No, the hypothesis text is not faithful."
+YES_TEXT = "Yes, the hypothesis is faithful."
+NO_TEXT = "No, the hypothesis is not faithful."
 
 NLI_PROMPT = \
-"""You are given a premise passage:
+"""You are given a premise:
 <premise> {premise} </premise>
 
 Decide if the following hypothesis is faithful given the above premise:
@@ -33,10 +34,12 @@ def process_message(example, tokenizer, answer_prompt, add_response, add_reason)
     if add_response:
         answer = (YES_TEXT if example["label"] == 0 else NO_TEXT)
         if add_reason:
+            reason = example["reason"].replace("article", "premise")
+            reason = reason.replace("summary", "hypothesis")
             if answer_prompt == COT_TEXT:
-                answer = example["reason"] + "\n\n" + (YES_TEXT if example["label"] == 0 else NO_TEXT)
+                answer = reason + "\n\n" + (YES_TEXT if example["label"] == 0 else NO_TEXT)
             elif answer_prompt == POSTHOC_TEXT:
-                answer = (YES_TEXT if example["label"] == 0 else NO_TEXT) + "\n\n" + example["reason"]
+                answer = (YES_TEXT if example["label"] == 0 else NO_TEXT) + "\n\n" + reason
         messages.append({"role": "assistant", "content": answer})
     example["prompt"] = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     if add_response and (len(example["reason"].strip()) == 0 or (not add_reason)):
@@ -59,18 +62,40 @@ def load_anli(split, add_response=True, add_reason=True, answer_style=POSTHOC_TE
 
 def load_summae(file, add_response=True, add_reason=True, answer_style=POSTHOC_TEXT):
     from datasets import Features, Value, ClassLabel
-    features = Features({'hypothesis': Value(dtype='string'), 
-                        'premise': Value(dtype='string'), 
-                        'reason': Value(dtype='string'), 
-                        "origin": Value(dtype='string'),
-                        "dataset": Value(dtype='string'),
-                        'label': ClassLabel(names=['entailment', 'neutral', 'contradiction'])
-    })
-    summae = load_dataset("json", data_files=file, split="train", features=features)
+    summae = load_dataset("json", data_files=file, split="train")
+    summae = summae.rename_column("article", "premise")
+    summae = summae.rename_column("summary", "hypothesis")
     summae = summae.map(lambda x: process_message(x, tokenizer, answer_style, add_response, add_reason))
     summae = summae.filter(lambda example: len(example["prompt"].split()) <= 2000)
     return summae
 
+def postprocess_text(preds, labels):
+    def posthoc_parse(input:str):
+        from template import swap_punctuation
+        generation_part = input.partition("\n\n")[0].lower()
+        words = swap_punctuation(generation_part).split()
+        # assert ("not" in words) or ("no" in words) or ("yes" in words)
+        return 1 if ("yes" in words) else 0
+    preds = [posthoc_parse(pred.strip()) for pred in preds]
+    labels = [posthoc_parse(label.strip()) for label in labels]
+    return preds, labels
+
+def compute_metrics(eval_preds):
+    preds, labels = eval_preds
+    if isinstance(preds, tuple):
+        preds = preds[0]
+    decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
+
+    labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
+    decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+
+    import pdb
+    pdb.set_trace()
+
+    decoded_preds, decoded_labels = postprocess_text(decoded_preds, decoded_labels)
+
+    result = {"ba": balanced_accuracy_score(decoded_labels, decoded_preds)}
+    return result
 
 if __name__ == '__main__':
     GRADIENT_CHECKPOINTING = True
@@ -81,9 +106,9 @@ if __name__ == '__main__':
                                                  attn_implementation="flash_attention_2")
     
     peft_config = LoraConfig(
-        r=8,
-        lora_alpha=8,
-        lora_dropout=0.1,
+        r=16,
+        lora_alpha=16,
+        lora_dropout=0.05,
         bias="none",
         task_type="CAUSAL_LM",
     )
@@ -92,7 +117,7 @@ if __name__ == '__main__':
     # anli_train = anli_train.remove_columns(["uid"])
     # esnli_train = load_esnli("train")
     # esnli_train = esnli_train.remove_columns(["explanation_2", "explanation_3"])
-    summae_train = load_summae("data/merge/train.jsonl", add_reason=False, answer_style=BASELINE_TEXT)
+    summae_train = load_summae("data/merge/train_filtered.jsonl", add_reason=True, answer_style=POSTHOC_TEXT)
     summae_train = summae_train.remove_columns(["origin", "dataset"])
     train_data = summae_train
     # train_data = interleave_datasets([anli_train, esnli_train, summae_train], probabilities=[0.3, 0.4, 0.3], stopping_strategy="all_exhausted")
@@ -101,7 +126,7 @@ if __name__ == '__main__':
     # esnli_dev = esnli_dev.remove_columns(["explanation_2", "explanation_3"])
     # anli_dev = concatenate_datasets([load_anli("dev_r1", add_reason=False), load_anli("dev_r2", add_reason=False), load_anli("dev_r3", add_reason=False)])
     # anli_dev = anli_dev.remove_columns(["uid"])
-    summae_dev = load_summae("data/merge/val.jsonl", add_reason=False, answer_style=BASELINE_TEXT)
+    summae_dev = load_summae("data/merge/val_filtered.jsonl", add_reason=False, answer_style=POSTHOC_TEXT)
     summae_dev = summae_dev.remove_columns(["origin", "dataset"])
     # eval_data = {"esnli": esnli_dev, "anli": anli_dev, "summae": summae_dev}
     eval_data = summae_dev
@@ -109,10 +134,11 @@ if __name__ == '__main__':
     collator = DataCollatorForCompletionOnlyLM(response_template=[13, 733, 28748, 16289, 28793], tokenizer=tokenizer)
 
     args = TrainingArguments(
-        num_train_epochs=10,
+        num_train_epochs=20,
         per_device_train_batch_size=1,
-        per_device_eval_batch_size=2,
+        per_device_eval_batch_size=1,
         gradient_accumulation_steps=8,
+        eval_accumulation_steps=8,
         evaluation_strategy="steps", 
         save_strategy="steps",
         eval_steps=500,
@@ -122,6 +148,7 @@ if __name__ == '__main__':
         optim="paged_lion_8bit",
         learning_rate=1e-5,
         warmup_ratio=0.1,
+        lr_scheduler_type="constant_with_warmup",
         # fp16=True,
         bf16=True,
         tf32=True,
@@ -136,11 +163,12 @@ if __name__ == '__main__':
         max_seq_length=4000,
         packing=False,
         dataset_text_field="prompt",
-        peft_config=peft_config
+        peft_config=peft_config,
+        compute_metrics=compute_metrics,
     )
 
-    # import pdb
-    # pdb.set_trace()
-
+    print(trainer.evaluate())
+    import pdb
+    pdb.set_trace()
     trainer.train()
     # print(trainer.evaluate())
