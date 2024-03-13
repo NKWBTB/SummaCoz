@@ -13,24 +13,29 @@ COT_TEXT = "Explain your reasoning step by step first, and then answer (yes or n
 POSTHOC_TEXT = "Answer (yes or no) the question first, and then provide an explanation."
 BASELINE_TEXT = "Answer (yes or no):"
 
-YES_TEXT = "Yes, the hypothesis is faithful."
-NO_TEXT = "No, the hypothesis is not faithful."
+YES_TEXT = "Yes, the hypothesis is true."
+NO_TEXT = "No, the hypothesis is not true."
 
 NLI_PROMPT = \
-"""You are given a premise:
-<premise> {premise} </premise>
+"""Hypothesis: {hypothesis}
 
-Decide if the following hypothesis is faithful given the above premise:
-<hypothesis> {hypothesis} </hypothesis>
+Premise: {premise} 
 
-{answer_prompt}
+Determine if the hypothesis is true given the premise?
+Hypothesis: {hypothesis}
 """
 
-tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2")
+MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+if "Orca-2" in MODEL_ID:
+    tokenizer.chat_template = \
+"""{% for message in messages %}
+{{' <|im_start|>' + message['role'] + '\n' + message['content'] + ' <|im_end|>' + '\n'}}{% endfor %}"""
 tokenizer.pad_token = tokenizer.eos_token
 
 def process_message(example, tokenizer, answer_prompt, add_response, add_reason):
-    messages = [{"role": "user", "content": NLI_PROMPT.format(premise=example["premise"], hypothesis=example["hypothesis"], answer_prompt=answer_prompt)}]
+    messages = [{"role": "user", "content": NLI_PROMPT.format(premise=example["premise"], hypothesis=example["hypothesis"])}]# , answer_prompt=answer_prompt)}]
     if add_response:
         answer = (YES_TEXT if example["label"] == 0 else NO_TEXT)
         if add_reason:
@@ -41,7 +46,7 @@ def process_message(example, tokenizer, answer_prompt, add_response, add_reason)
             elif answer_prompt == POSTHOC_TEXT:
                 answer = (YES_TEXT if example["label"] == 0 else NO_TEXT) + "\n\n" + reason
         messages.append({"role": "assistant", "content": answer})
-    example["prompt"] = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    example["prompt"] = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=False)
     if add_response and (len(example["reason"].strip()) == 0 or (not add_reason)):
         example["prompt"] = example["prompt"].replace("</s>", "")
     return example
@@ -80,17 +85,23 @@ def postprocess_text(preds, labels):
     labels = [posthoc_parse(label.strip()) for label in labels]
     return preds, labels
 
+def preprocess_logits_for_metrics(logits, labels):
+    if isinstance(logits, tuple):
+        logits = logits[0]
+    return logits.argmax(dim=-1)
+
 def compute_metrics(eval_preds):
     preds, labels = eval_preds
     if isinstance(preds, tuple):
         preds = preds[0]
+    
+    mask = labels != -100
+    mask = np.hstack([mask[:, 1:], np.zeros((mask.shape[0], 1), dtype=bool)])
+    preds = np.where(mask, preds, tokenizer.pad_token_id)
     decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
 
     labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
     decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
-
-    import pdb
-    pdb.set_trace()
 
     decoded_preds, decoded_labels = postprocess_text(decoded_preds, decoded_labels)
 
@@ -98,10 +109,10 @@ def compute_metrics(eval_preds):
     return result
 
 if __name__ == '__main__':
-    GRADIENT_CHECKPOINTING = True
+    GRADIENT_CHECKPOINTING = False
     
-    model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-Instruct-v0.2",
-                                                 torch_dtype="auto",
+    model = AutoModelForCausalLM.from_pretrained(MODEL_ID,
+                                                 torch_dtype=torch.bfloat16,
                                                  device_map="auto",
                                                  attn_implementation="flash_attention_2")
     
@@ -134,11 +145,10 @@ if __name__ == '__main__':
     collator = DataCollatorForCompletionOnlyLM(response_template=[13, 733, 28748, 16289, 28793], tokenizer=tokenizer)
 
     args = TrainingArguments(
-        num_train_epochs=20,
-        per_device_train_batch_size=1,
-        per_device_eval_batch_size=1,
-        gradient_accumulation_steps=8,
-        eval_accumulation_steps=8,
+        num_train_epochs=30,
+        per_device_train_batch_size=2,
+        per_device_eval_batch_size=4,
+        gradient_accumulation_steps=4,
         evaluation_strategy="steps", 
         save_strategy="steps",
         eval_steps=500,
@@ -165,9 +175,10 @@ if __name__ == '__main__':
         dataset_text_field="prompt",
         peft_config=peft_config,
         compute_metrics=compute_metrics,
+        preprocess_logits_for_metrics=preprocess_logits_for_metrics
     )
 
-    print(trainer.evaluate())
+    # print(trainer.evaluate())
     import pdb
     pdb.set_trace()
     trainer.train()
