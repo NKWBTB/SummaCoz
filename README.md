@@ -1,4 +1,4 @@
-# FactInstruct
+# SummExplain
 
 ## File structure
 - ``train.py``: training script
