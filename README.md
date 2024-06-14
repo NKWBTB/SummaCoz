@@ -1,4 +1,4 @@
-# SummExplain
+# SummaCoz
 
 ## File structure
 - ``train.py``: training script
