@@ -2,7 +2,7 @@
 
 ## Paper Link
 [SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization
-](https://aclanthology.org/2024.findings-emnlp.210/))
+](https://aclanthology.org/2024.findings-emnlp.210/)
 
 ## Dataset Link
 You can access the dataset on huggingface datasets [nkwbtb/SummaCoz](https://huggingface.co/datasets/nkwbtb/SummaCoz)
